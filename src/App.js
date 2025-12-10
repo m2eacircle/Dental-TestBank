@@ -54,6 +54,9 @@ export default function ImprovedTestBankApp() {
   const [parentSubject, setParentSubject] = useState(null);
   const [lastTestQuestions, setLastTestQuestions] = useState([]);
   const [usedQuestionIds, setUsedQuestionIds] = useState(new Set());
+  const [cumulativeQuestionsAnswered, setCumulativeQuestionsAnswered] = useState(0);
+  const [totalTopicQuestions, setTotalTopicQuestions] = useState(0);
+  const [userRequestedLimit, setUserRequestedLimit] = useState(null);
 
   // Load data from localStorage on mount
   useEffect(() => {
@@ -205,6 +208,18 @@ export default function ImprovedTestBankApp() {
         return;
       }
       
+      // Initialize cumulative tracking
+      const limit = questionLimit[questionKey];
+      const requestedLimit = limit && !isNaN(limit) && limit > 0 && limit < allQuestions.length ? parseInt(limit) : null;
+      setUserRequestedLimit(requestedLimit);
+      setTotalTopicQuestions(allQuestions.length);
+      
+      // If this is a new test (not retake), don't reset cumulative count
+      // If retake, keep the cumulative count
+      if (!isRetake && requestedLimit) {
+        // This is tracked in results screen, keep existing cumulative count
+      }
+      
       let questionsToUse;
       
       if (isRetake) {
@@ -217,6 +232,7 @@ export default function ImprovedTestBankApp() {
         if (availableQuestions.length === 0) {
           // All questions used, reset
           setUsedQuestionIds(new Set());
+          setCumulativeQuestionsAnswered(0); // Reset cumulative count
           alert('You\'ve completed all available questions! Starting fresh with new questions.');
           questionsToUse = shuffleArray(allQuestions);
         } else {
@@ -224,9 +240,8 @@ export default function ImprovedTestBankApp() {
         }
         
         // Apply question limit if set
-        const limit = questionLimit[questionKey];
-        if (limit && !isNaN(limit) && limit > 0 && limit < questionsToUse.length) {
-          questionsToUse = questionsToUse.slice(0, parseInt(limit));
+        if (requestedLimit) {
+          questionsToUse = questionsToUse.slice(0, requestedLimit);
         }
         
         // Save these questions for potential retake
@@ -240,7 +255,7 @@ export default function ImprovedTestBankApp() {
       
       setSelectedQuestions(questionsToUse);
       
-      const totalTime = studyMode ? 0 : questionsToUse.length * 90;
+      const totalTime = studyMode ? 0 : questionsToUse.length * 70;
       setTimeLeft(totalTime);
       setTotalTestTime(totalTime);
       
@@ -280,7 +295,7 @@ export default function ImprovedTestBankApp() {
       
       setSelectedQuestions(flaggedQs);
       
-      const totalTime = studyMode ? 0 : flaggedQs.length * 90;
+      const totalTime = studyMode ? 0 : flaggedQs.length * 70;
       setTimeLeft(totalTime);
       setTotalTestTime(totalTime);
       
@@ -349,6 +364,11 @@ export default function ImprovedTestBankApp() {
     
     const score = selectedQuestions.length > 0 ? Math.round((correct / selectedQuestions.length) * 100) : 0;
     const timeTaken = studyMode ? 0 : totalTestTime - timeLeft;
+    
+    // Update cumulative count if user set a limit
+    if (userRequestedLimit) {
+      setCumulativeQuestionsAnswered(prev => prev + selectedQuestions.length);
+    }
     
     const result = {
       subject: selectedSubject,
@@ -785,12 +805,29 @@ export default function ImprovedTestBankApp() {
               </div>
             </div>
             
-            <div className="w-full bg-gray-200 rounded-full h-2 mb-4">
+            {/* Current test progress bar (blue) */}
+            <div className="w-full bg-gray-200 rounded-full h-2 mb-2">
               <div 
                 className="bg-blue-600 h-2 rounded-full transition-all"
                 style={{ width: `${((currentQuestionIndex + 1) / selectedQuestions.length) * 100}%` }}
               />
             </div>
+            
+            {/* Cumulative progress bar (green) - only show if user set a limit */}
+            {userRequestedLimit && userRequestedLimit < totalTopicQuestions && (
+              <div className="mb-4">
+                <div className="flex items-center justify-between text-xs text-gray-600 mb-1">
+                  <span>Topic Progress</span>
+                  <span className="font-semibold">{cumulativeQuestionsAnswered + currentQuestionIndex + 1}/{totalTopicQuestions}</span>
+                </div>
+                <div className="w-full bg-gray-200 rounded-full h-2">
+                  <div 
+                    className="bg-green-600 h-2 rounded-full transition-all"
+                    style={{ width: `${((cumulativeQuestionsAnswered + currentQuestionIndex + 1) / totalTopicQuestions) * 100}%` }}
+                  />
+                </div>
+              </div>
+            )}
 
             <div className="flex items-center justify-between text-xs text-gray-600 mb-2">
               <span>{selectedSubject}{selectedSubtopic ? ` • ${selectedSubtopic}` : ''}</span>
