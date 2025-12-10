@@ -2,9 +2,9 @@ import React, { useState, useEffect, useMemo } from 'react';
 import { Clock, Trophy, BarChart3, CheckCircle, XCircle, Home, Play, ArrowLeft, ChevronRight, Download, Flag, Eye, TrendingUp, Pause } from 'lucide-react';
 
 // Import questions from separate files - NO questions in this file!
-import { questionBank, subjectsWithSubtopics } from './questions';
+import { questionBank, subjectsWithSubtopics, subjectsByLesson } from './questions';
 
-// Subjects organized by lesson (already imported from questions/index.js)
+// Google AdSense component
 const GoogleAd = ({ slot, format = "auto", className = "" }) => {
   React.useEffect(() => {
     try {
