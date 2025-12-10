@@ -101,4 +101,7 @@ export const subjectsWithSubtopics = {
   ]
 };
 
+// Also export as subjectsByLesson for backward compatibility
+export const subjectsByLesson = subjectsWithSubtopics;
+
 export default questionBank;
