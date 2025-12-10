@@ -25,6 +25,8 @@ export const questionBank = {
 };
 
 // Subject to topic mapping
+// Lessons 1-4 contain subject names
+// Individual subjects contain their topics
 export const subjectsWithSubtopics = {
   "Lesson 1": [
     "Anatomy and Physiology",
@@ -72,6 +74,7 @@ export const subjectsWithSubtopics = {
     "Dental Hygiene Clinic IV",
     "Dental Hygiene Theory IV"
   ],
+  // Subject-specific topic mappings (not displayed as lessons)
   "Pathophysiology": [
     "1. Inflammation and Healing",
     "2. Immunity and Infection (Part 1)",
@@ -101,7 +104,12 @@ export const subjectsWithSubtopics = {
   ]
 };
 
-// Also export as subjectsByLesson for backward compatibility
-export const subjectsByLesson = subjectsWithSubtopics;
+// Filter to show only lessons on home screen (not individual subjects)
+export const subjectsByLesson = {
+  "Lesson 1": subjectsWithSubtopics["Lesson 1"],
+  "Lesson 2": subjectsWithSubtopics["Lesson 2"],
+  "Lesson 3": subjectsWithSubtopics["Lesson 3"],
+  "Lesson 4": subjectsWithSubtopics["Lesson 4"]
+};
 
 export default questionBank;
