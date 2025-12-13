@@ -892,7 +892,7 @@ export default function ImprovedTestBankApp() {
                           setScreen('home');
                         }
                       }}
-                      className="w-full bg-white border-2 border-gray-300 text-gray-700 px-6 py-3 rounded-xl font-semibold hover:bg-gray-50 transition-all flex items-center justify-center"
+                      className="w-full bg-gradient-to-r from-pink-300 to-pink-400 text-white px-6 py-3 rounded-xl font-semibold hover:shadow-lg transition-all flex items-center justify-center"
                     >
                       <ArrowLeft className="w-5 h-5 mr-2" />
                       Back to Topics
@@ -1002,7 +1002,7 @@ export default function ImprovedTestBankApp() {
                       setScreen('home');
                     }
                   }}
-                  className="bg-gradient-to-r from-red-500 to-red-600 text-white py-4 rounded-xl font-bold text-lg hover:shadow-lg transition-all flex items-center justify-center"
+                  className="bg-gradient-to-r from-pink-300 to-pink-400 text-white py-4 rounded-xl font-bold text-lg hover:shadow-lg transition-all flex items-center justify-center"
                 >
                   <Home className="w-5 h-5 mr-2" />
                   Back to Topics
@@ -1013,9 +1013,9 @@ export default function ImprovedTestBankApp() {
             {/* Normal Submit/Next button (Test Mode and Study Mode after answer submitted) */}
             <button
               onClick={isAnswerSubmitted ? nextQuestion : submitAnswer}
-              disabled={selectedAnswer === null || isPaused}
+              disabled={!isAnswerSubmitted && selectedAnswer === null || isPaused}
               className={`w-full mt-6 py-4 rounded-xl font-bold text-lg transition-all ${
-                selectedAnswer !== null && !isPaused
+                (isAnswerSubmitted || selectedAnswer !== null) && !isPaused
                   ? isAnswerSubmitted 
                     ? 'bg-gradient-to-r from-blue-300 to-blue-400 text-white hover:shadow-lg'
                     : 'bg-gradient-to-r from-green-300 to-green-400 text-white hover:shadow-lg'
@@ -1189,7 +1189,7 @@ export default function ImprovedTestBankApp() {
               {selectedSubtopic && (
                 <button
                   onClick={() => setScreen('subtopics')}
-                  className="w-full bg-gray-200 text-gray-700 py-4 rounded-xl font-semibold hover:bg-gray-300 transition-all"
+                  className="w-full bg-gradient-to-r from-pink-300 to-pink-400 text-white py-4 rounded-xl font-semibold hover:shadow-lg transition-all"
                 >
                   Back to Topics
                 </button>
