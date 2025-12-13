@@ -57,6 +57,8 @@ export default function ImprovedTestBankApp() {
   const [cumulativeQuestionsAnswered, setCumulativeQuestionsAnswered] = useState(0);
   const [totalTopicQuestions, setTotalTopicQuestions] = useState(0);
   const [userRequestedLimit, setUserRequestedLimit] = useState(null);
+  const [currentTrackedTopic, setCurrentTrackedTopic] = useState(null);
+  const [isCurrentTestRetake, setIsCurrentTestRetake] = useState(false);
 
   // Load data from localStorage on mount
   useEffect(() => {
@@ -207,6 +209,16 @@ export default function ImprovedTestBankApp() {
         alert('No questions available for this topic yet.');
         return;
       }
+      
+      // Check if topic has changed - if so, reset cumulative progress
+      if (currentTrackedTopic !== questionKey) {
+        setCumulativeQuestionsAnswered(0);
+        setUsedQuestionIds(new Set());
+        setCurrentTrackedTopic(questionKey);
+      }
+      
+      // Track if this is a retake (affects cumulative progress)
+      setIsCurrentTestRetake(isRetake);
       
       // Initialize cumulative tracking
       const limit = questionLimit[questionKey];
@@ -362,8 +374,10 @@ export default function ImprovedTestBankApp() {
     const score = selectedQuestions.length > 0 ? Math.round((correct / selectedQuestions.length) * 100) : 0;
     const timeTaken = studyMode ? 0 : totalTestTime - timeLeft;
     
-    // Update cumulative count if user set a limit
-    if (userRequestedLimit) {
+    // Update cumulative count ONLY if:
+    // 1. User set a limit (progress bar is visible)
+    // 2. This is NOT a retake (new questions only)
+    if (userRequestedLimit && !isCurrentTestRetake) {
       setCumulativeQuestionsAnswered(prev => prev + selectedQuestions.length);
     }
     
