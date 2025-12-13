@@ -214,32 +214,18 @@ export default function ImprovedTestBankApp() {
       setUserRequestedLimit(requestedLimit);
       setTotalTopicQuestions(allQuestions.length);
       
-      // If this is a new test (not retake), don't reset cumulative count
-      // If retake, keep the cumulative count
-      if (!isRetake && requestedLimit) {
-        // This is tracked in results screen, keep existing cumulative count
-      }
-      
       let questionsToUse;
       
       if (isRetake) {
-        // Retake: use the exact same questions from last test
+        // Retake: use the exact same questions from last test in same order
+        // This allows students to review the same test with same question order
         questionsToUse = lastTestQuestions.length > 0 ? lastTestQuestions : shuffleArray(allQuestions).slice(0, 20);
       } else {
-        // New test: filter out used questions
-        const availableQuestions = allQuestions.filter(q => !usedQuestionIds.has(q.id));
+        // New test: ALWAYS shuffle ALL questions for random order every time
+        // This ensures students get different question order on each new test
+        questionsToUse = shuffleArray(allQuestions);
         
-        if (availableQuestions.length === 0) {
-          // All questions used, reset
-          setUsedQuestionIds(new Set());
-          setCumulativeQuestionsAnswered(0); // Reset cumulative count
-          alert('You\'ve completed all available questions! Starting fresh with new questions.');
-          questionsToUse = shuffleArray(allQuestions);
-        } else {
-          questionsToUse = shuffleArray(availableQuestions);
-        }
-        
-        // Apply question limit if set
+        // Apply question limit if set (after shuffling)
         if (requestedLimit) {
           questionsToUse = questionsToUse.slice(0, requestedLimit);
         }
@@ -247,10 +233,19 @@ export default function ImprovedTestBankApp() {
         // Save these questions for potential retake
         setLastTestQuestions(questionsToUse);
         
-        // Mark these questions as used
-        const newUsedIds = new Set(usedQuestionIds);
-        questionsToUse.forEach(q => newUsedIds.add(q.id));
-        setUsedQuestionIds(newUsedIds);
+        // Update cumulative count for progress tracking
+        if (requestedLimit) {
+          // Mark these questions as used for cumulative tracking only
+          const newUsedIds = new Set(usedQuestionIds);
+          questionsToUse.forEach(q => newUsedIds.add(q.id));
+          setUsedQuestionIds(newUsedIds);
+          
+          // Reset tracking when all questions have been used
+          if (newUsedIds.size >= allQuestions.length) {
+            setUsedQuestionIds(new Set());
+            setCumulativeQuestionsAnswered(0);
+          }
+        }
       }
       
       setSelectedQuestions(questionsToUse);
@@ -293,9 +288,11 @@ export default function ImprovedTestBankApp() {
         return;
       }
       
-      setSelectedQuestions(flaggedQs);
+      // Shuffle flagged questions for variety
+      const shuffledFlaggedQs = shuffleArray(flaggedQs);
+      setSelectedQuestions(shuffledFlaggedQs);
       
-      const totalTime = studyMode ? 0 : flaggedQs.length * 70;
+      const totalTime = studyMode ? 0 : shuffledFlaggedQs.length * 70;
       setTimeLeft(totalTime);
       setTotalTestTime(totalTime);
       
