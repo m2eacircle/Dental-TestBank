@@ -1,9 +1,10 @@
 // LESSON 2 - Dental Radiography Theory Questions
-// Total: 530 questions across 8 topics
+// Total: 747 questions across 8 topics
 // Topics:
 //   1. Radiation History & Radiation Physics (275 questions)
 //   2. Dental X-ray Equipment, Film Processing (255 questions)
-//   3-8. Dental Radiography Theory (ready for questions)
+//   3. Dental Radiography Theory (217 questions) - COMPLETE
+//   4-8. Dental Radiography Theory (ready for questions)
 
 export const radiographyQuestions = {
   "1. Radiation History & Radiation Physics": [
@@ -541,7 +542,262 @@ export const radiographyQuestions = {
     { id: 2149, question: "The overall goal of radiographic practice is to:", options: ["Produce diagnostic-quality images with minimal exposure", "Complete exams quickly", "Eliminate all radiation", "Replace digital systems"], correct: 0 }
   ],
   "3. Dental Radiography Theory": [
-    // Questions to be added for this topic
+    // X-ray Discovery & Physics (13 questions)
+    { id: 2150, question: "Who discovered X-rays?", options: ["Wilhelm Conrad Roentgen", "Pierre Curie", "G.V. Black", "William Morton"], correct: 0 },
+    { id: 2151, question: "X-rays are a form of:", options: ["Particulate radiation", "Electromagnetic radiation", "Sound waves", "Alpha particles"], correct: 1 },
+    { id: 2152, question: "The shorter the wavelength of an X-ray, the:", options: ["Lower the energy", "Greater the energy and penetration", "Slower the speed", "Less useful it is for imaging"], correct: 1 },
+    { id: 2153, question: "Which part of the tube generates electrons?", options: ["Anode", "Cathode", "Filter", "Collimator"], correct: 1 },
+    { id: 2154, question: "The focal spot is located on the:", options: ["Cathode", "Anode target", "Aluminum filter", "Collimator ring"], correct: 1 },
+    { id: 2155, question: "The purpose of the tungsten target is to:", options: ["Absorb X-rays", "Convert electrons into X-rays", "Filter soft radiation", "Focus the beam"], correct: 1 },
+    { id: 2156, question: "The vacuum in the tube prevents:", options: ["Air molecules from interfering with electrons", "Oxidation of metal components", "Overheating", "Both A and B"], correct: 3 },
+    { id: 2157, question: "The function of the step-up transformer is to:", options: ["Increase voltage", "Decrease voltage", "Stabilize current", "Rectify current"], correct: 0 },
+    { id: 2158, question: "The step-down transformer is used to:", options: ["Power the filament circuit", "Operate the anode", "Collimate the beam", "Increase exposure time"], correct: 0 },
+    { id: 2159, question: "The number of electrons moving through a circuit is measured in:", options: ["Voltage", "Amperage (mA)", "Resistance", "Density"], correct: 1 },
+    { id: 2160, question: "The energy or force that moves electrons is measured in:", options: ["kVp", "mA", "Seconds", "Distance"], correct: 0 },
+    { id: 2161, question: "An increase in kVp results in:", options: ["Higher energy and darker image", "Lower energy and lighter image", "Increased contrast", "Shorter wavelength"], correct: 0 },
+    { id: 2162, question: "The quantity of X-rays produced is controlled by:", options: ["mA", "kVp", "Time", "Both A and C"], correct: 3 },
+
+    // Film & Image Quality (12 questions)
+    { id: 2163, question: "The total density of a radiograph is primarily affected by:", options: ["mA and exposure time", "Filtration", "kVp only", "Collimation"], correct: 0 },
+    { id: 2164, question: "The inverse square law states that radiation intensity:", options: ["Decreases with the square of the distance", "Increases with the square of the distance", "Doubles with exposure", "Is constant regardless of distance"], correct: 0 },
+    { id: 2165, question: "The film base is made of:", options: ["Cellulose acetate", "Silver bromide", "Gelatin", "Lead foil"], correct: 0 },
+    { id: 2166, question: "The purpose of the lead foil is to:", options: ["Absorb scatter radiation", "Prevent film fog", "Strengthen the packet", "Both A and B"], correct: 3 },
+    { id: 2167, question: "The silver halide crystals store:", options: ["The latent image", "Developer residue", "Metallic silver", "Radiation fog"], correct: 0 },
+    { id: 2168, question: "The thicker the emulsion, the:", options: ["Higher the film speed", "Lower the contrast", "Sharper the image", "Slower the processing"], correct: 0 },
+    { id: 2169, question: "The embossed dot on the film indicates:", options: ["Patient identification", "Orientation (right or left)", "Speed group", "Film expiration"], correct: 1 },
+    { id: 2170, question: "Which film size is used for bitewings in adults?", options: ["Size 0", "Size 1", "Size 2", "Size 3"], correct: 2 },
+    { id: 2171, question: "Faster films contain:", options: ["Smaller crystals", "Larger silver halide crystals", "Less emulsion", "Thicker base"], correct: 1 },
+    { id: 2172, question: "The latent image becomes visible after:", options: ["Developing", "Fixing", "Washing", "Drying"], correct: 0 },
+    { id: 2173, question: "The fixer removes:", options: ["Unexposed silver halide crystals", "Developed metallic silver", "Film base", "Gelatin layer"], correct: 0 },
+    { id: 2174, question: "Excessive fixer time causes:", options: ["Overdarkening", "Film fading or bleaching", "Brown stain", "Fogging"], correct: 1 },
+
+    // Film Storage & Screen Films (5 questions)
+    { id: 2175, question: "The film should be stored in:", options: ["Cool, dry place", "Warm, humid place", "Bright area", "Refrigerator freezer"], correct: 0 },
+    { id: 2176, question: "Screen films are used with:", options: ["Intensifying screens", "Lead foil only", "Intraoral holders", "None"], correct: 0 },
+    { id: 2177, question: "Rare-earth screens emit:", options: ["Green light", "Blue light", "Red light", "Yellow light"], correct: 0 },
+    { id: 2178, question: "Poor screen-film contact causes:", options: ["Blurred image", "Increased contrast", "Uniform density", "No change"], correct: 0 },
+    { id: 2179, question: "The purpose of the cassette is to:", options: ["Hold and protect film and screen", "Measure exposure", "Shield from scatter", "Align PID"], correct: 0 },
+
+    // Processing Chemistry (6 questions)
+    { id: 2180, question: "The developing agent responsible for converting exposed silver halide crystals to black metallic silver is:", options: ["Hydroquinone", "Sodium sulfite", "Potassium alum", "Acetic acid"], correct: 0 },
+    { id: 2181, question: "The purpose of the preservative (sodium sulfite) in developer is to:", options: ["Prevent oxidation of developer solution", "Harden the film emulsion", "Clear unexposed crystals", "Neutralize fixer residue"], correct: 0 },
+    { id: 2182, question: "The fixing agent (sodium thiosulfate) removes:", options: ["Exposed silver halide crystals", "Unexposed silver halide crystals", "Gelatin", "Film base"], correct: 1 },
+    { id: 2183, question: "The hardener in fixer solution:", options: ["Shrinks and hardens the emulsion", "Softens the film base", "Reduces development time", "Increases contrast"], correct: 0 },
+    { id: 2184, question: "What is the ideal manual processing temperature?", options: ["68°F (20°C)", "60°F (16°C)", "72°F (22°C)", "80°F (27°C)"], correct: 0 },
+    { id: 2185, question: "Insufficient rinsing after fixing causes:", options: ["Brown discoloration", "Overexposure", "Fogging", "Film tearing"], correct: 0 },
+
+    // Processing Errors (13 questions)
+    { id: 2186, question: "A light film image indicates:", options: ["Underdevelopment", "Overdevelopment", "Light exposure", "Excessive fixer"], correct: 0 },
+    { id: 2187, question: "A dark film image indicates:", options: ["Overdevelopment", "Underexposure", "Fixer contamination", "Excessive washing"], correct: 0 },
+    { id: 2188, question: "Yellow-brown stains on film result from:", options: ["Incomplete fixing or washing", "Too much developer", "High temperature", "Low kVp"], correct: 0 },
+    { id: 2189, question: "Film fog appears as:", options: ["Gray, lack of contrast", "Black lines", "White spots", "Uneven density"], correct: 0 },
+    { id: 2190, question: "The safelight in the darkroom should be placed at least:", options: ["1 meter (4 feet) from the working area", "0.5 meter", "10 feet", "Directly above film"], correct: 0 },
+    { id: 2191, question: "The Coin Test is used to check:", options: ["Safelight integrity", "Film speed", "Developer temperature", "Exposure time accuracy"], correct: 0 },
+    { id: 2192, question: "During the coin test, if the coin image appears on the film, it means:", options: ["Safelight is unsafe", "Film expired", "Developer too cold", "Fixer contaminated"], correct: 0 },
+    { id: 2193, question: "Reticulation of the film (cracked emulsion) occurs due to:", options: ["Sudden temperature changes", "Low humidity", "Long fixation", "Weak developer"], correct: 0 },
+    { id: 2194, question: "The drying area should be kept:", options: ["Dust-free and clean", "Wet", "Brightly lit", "Warm with direct heat"], correct: 0 },
+    { id: 2195, question: "Contaminated developer solution may cause:", options: ["Film spots or uneven density", "Scratched emulsion", "Overfixing", "Streaks from rollers"], correct: 0 },
+    { id: 2196, question: "Films processed in weak fixer will appear:", options: ["Milky", "Clear", "Too dark", "Cracked"], correct: 0 },
+    { id: 2197, question: "The clearing test is used to:", options: ["Determine fixer strength", "Test developer temperature", "Measure radiation output", "Evaluate screen contact"], correct: 0 },
+    { id: 2198, question: "Film that sticks to another during processing will show:", options: ["White areas", "Brown lines", "Overlapping gray patterns", "Fog"], correct: 0 },
+
+    // Automatic Processing (9 questions)
+    { id: 2199, question: "In automatic processing, the film is transported by:", options: ["Rollers", "Racks", "Clips", "Cassettes"], correct: 0 },
+    { id: 2200, question: "Between developer and fixer compartments in automatic processors, there is:", options: ["No rinsing step (rollers remove excess)", "Manual rinsing", "Air drying", "None"], correct: 0 },
+    { id: 2201, question: "The purpose of the replenisher is to:", options: ["Maintain solution strength and volume", "Prevent contamination", "Increase drying time", "Remove stains"], correct: 0 },
+    { id: 2202, question: "The developer should be changed:", options: ["Every 3–4 weeks or as needed", "Once a year", "Only when films are clear", "Daily"], correct: 0 },
+    { id: 2203, question: "Safe temperature range for automatic processing:", options: ["82–95°F (28–35°C)", "60–68°F", "40–50°F", "100°F+"], correct: 0 },
+    { id: 2204, question: "The darkroom must have:", options: ["Safe lighting and proper ventilation", "Bright white light", "Open window", "Carpet flooring"], correct: 0 },
+    { id: 2205, question: "In automatic film processing, what replaces the rinsing step found in manual processing?", options: ["The roller system that squeezes off excess solution", "A separate rinse tank", "A drying cycle before fixing", "A chemical spray"], correct: 0 },
+    { id: 2206, question: "What is the correct order of solutions in automatic processing?", options: ["Developer → Fixer → Wash → Dryer", "Developer → Stop bath → Fixer → Rinse", "Fixer → Developer → Dryer → Rinse", "Wash → Developer → Dryer → Fixer"], correct: 0 },
+    { id: 2207, question: "How often should automatic processor maintenance be performed according to best practice?", options: ["Daily or weekly depending on use", "Once a year", "Only when a problem occurs", "Every 6 months"], correct: 0 },
+
+    // Digital Radiography (12 questions)
+    { id: 2208, question: "The main advantage of digital radiography is:", options: ["Reduced radiation exposure", "Slower processing", "Higher cost", "Poorer resolution"], correct: 0 },
+    { id: 2209, question: "The receptor used in direct digital imaging is:", options: ["CCD or CMOS sensor", "PSP plate", "Film packet", "Screen cassette"], correct: 0 },
+    { id: 2210, question: "PSP stands for:", options: ["Photostimulable Phosphor", "Photosensitive Plate", "Phosphor Silver Panel", "Photon Sensitive Processor"], correct: 0 },
+    { id: 2211, question: "The major disadvantage of PSP systems is:", options: ["They require scanning time", "High exposure", "Immediate viewing", "Cost"], correct: 0 },
+    { id: 2212, question: "The main advantage of CCD sensors:", options: ["Instant image", "No scanning required", "Durable", "Both A and B"], correct: 3 },
+    { id: 2213, question: "CMOS sensors differ from CCD because:", options: ["They use active pixel sensors", "They need separate controller", "They cannot be reused", "They are film-based"], correct: 0 },
+    { id: 2214, question: "Pixel size determines:", options: ["Image resolution", "Image brightness", "Exposure time", "Film speed"], correct: 0 },
+    { id: 2215, question: "Gray scale in digital images represents:", options: ["Range of densities", "Exposure time", "Color quality", "Collimation"], correct: 0 },
+    { id: 2216, question: "Image enhancement (contrast, brightness) can:", options: ["Improve diagnostic visibility", "Replace retakes", "Change exposure", "Affect patient dose"], correct: 0 },
+    { id: 2217, question: "The sensor should be covered with:", options: ["Disposable plastic barrier", "Aluminum foil", "Cotton roll", "Sterile gauze"], correct: 0 },
+    { id: 2218, question: "Digital radiography eliminates the need for:", options: ["Chemical processing", "Collimation", "Radiation protection", "PID alignment"], correct: 0 },
+    { id: 2219, question: "The storage phosphor plate (PSP) must be:", options: ["Erased before reuse", "Washed", "Dried", "Heated"], correct: 0 },
+
+    // Image Quality & Technique (4 questions)
+    { id: 2220, question: "Image magnification is controlled by:", options: ["Source-object distance", "kVp", "Exposure time", "Collimator"], correct: 0 },
+    { id: 2221, question: "Distortion occurs when:", options: ["Film and object are not parallel", "Beam is perpendicular", "Sensor placed flat", "Short exposure"], correct: 0 },
+    { id: 2222, question: "The paralleling technique minimizes:", options: ["Distortion", "Sharpness", "Overlap", "Elongation"], correct: 0 },
+    { id: 2223, question: "How does digital radiography contribute to lower radiation risk?", options: ["Requires less exposure time than film systems", "Uses a larger field size", "Does not need collimation", "Produces more scatter radiation"], correct: 0 },
+
+    // Radiation Safety & Protection (31 questions)
+    { id: 2224, question: "ALARA stands for:", options: ["As Low As Reasonably Achievable", "As Long As Radiation Allowed", "Average Limit Always Required", "Annual Limit And Record"], correct: 0 },
+    { id: 2225, question: "The most sensitive cells to radiation are:", options: ["Bone marrow, reproductive cells", "Nerve and muscle", "Enamel", "Cartilage"], correct: 0 },
+    { id: 2226, question: "The MPD (Maximum Permissible Dose) for occupational workers is:", options: ["50 mSv per year", "5 mSv", "10 mSv", "500 mSv"], correct: 0 },
+    { id: 2227, question: "Lead aprons should have at least:", options: ["0.25 mm lead equivalent", "1 mm", "0.05 mm", "0.5 mm"], correct: 0 },
+    { id: 2228, question: "The operator should stand at least:", options: ["6 feet away and 90–135° from the beam", "2 feet away", "Behind patient", "Directly in front of beam"], correct: 0 },
+    { id: 2229, question: "The collimator limits:", options: ["Size and shape of the beam", "Beam intensity", "Film density", "Exposure time"], correct: 0 },
+    { id: 2230, question: "Aluminum filters remove:", options: ["Low-energy, long-wavelength X-rays", "High-energy beams", "Scatter radiation", "Useful X-rays"], correct: 0 },
+    { id: 2231, question: "The dosimeter (film badge/TLD) measures:", options: ["Radiation exposure to operator", "Patient dose", "Tube leakage", "Exposure time"], correct: 0 },
+    { id: 2232, question: "Film badges should be worn:", options: ["At waist level, outside the apron", "On wrist", "Inside apron", "On the patient"], correct: 0 },
+    { id: 2233, question: "What term describes minimizing patient exposure by using the lowest dose possible?", options: ["ALARA (As Low As Reasonably Achievable)", "ALATA (As Long As Time Allows)", "ALARM (As Low As Radiation Minimum)", "ALAPP (As Long As Possible Practice)"], correct: 0 },
+    { id: 2234, question: "What should always be used to protect the patient from scatter radiation?", options: ["Lead apron and thyroid collar", "Cotton roll", "Plastic shield", "Safety goggles"], correct: 0 },
+    { id: 2235, question: "What are the three principles of radiation protection?", options: ["Time, distance, shielding", "Speed, density, contrast", "Exposure, voltage, filtration", "Heat, pressure, timing"], correct: 0 },
+    { id: 2236, question: "Why is it recommended to use rectangular collimation instead of round?", options: ["It reduces patient exposure by limiting the beam size", "It increases field size for larger images", "It enhances brightness", "It shortens exposure time"], correct: 0 },
+    { id: 2237, question: "What determines the level of barrier protection needed in a dental office wall?", options: ["The total workload and direction of the primary beam", "The paint color", "The size of the operatory", "The number of assistants"], correct: 0 },
+    { id: 2238, question: "What is the function of lead aprons in dental radiography?", options: ["To shield the reproductive and thyroid regions from scatter radiation", "To keep patients warm", "To improve posture", "To block visible light"], correct: 0 },
+    { id: 2239, question: "What distance should the operator maintain from the source of radiation during exposure?", options: ["At least 6 feet (2 meters)", "1 foot", "3 feet", "No specific distance"], correct: 0 },
+    { id: 2240, question: "At what angle should the operator stand relative to the primary beam?", options: ["90 to 135 degrees", "45 degrees", "180 degrees", "Directly in front"], correct: 0 },
+    { id: 2241, question: "Why should the operator never hold the tube head or film during exposure?", options: ["It exposes them to unnecessary radiation", "It can blur the image", "It increases scatter", "It affects contrast"], correct: 0 },
+    { id: 2242, question: "What example did the lecturer give about the danger of holding the film?", options: ["A radiographer developed skin cancer on their fingers from repeated exposure", "A patient fainted", "The film overexposed", "The equipment broke"], correct: 0 },
+    { id: 2243, question: "What was the instructor's advice if a dentist asks you to hold the tube or film?", options: ["Refuse politely and explain the safety risk", "Agree to help", "Hold it just once", "Wear two gloves"], correct: 0 },
+    { id: 2244, question: "What should a dental assistant do if the workplace does not follow safety standards?", options: ["Report or leave the unsafe environment", "Ignore it", "Continue but wear double aprons", "Reduce exposure time"], correct: 0 },
+    { id: 2245, question: "Why is professional assertiveness important in dental radiography?", options: ["To ensure both ethical and safety standards are maintained", "To speed up patient flow", "To reduce workload", "To impress the dentist"], correct: 0 },
+    { id: 2246, question: "According to the lecture, why is it wrong to let patients hold the tube or sensor?", options: ["It violates radiation safety regulations", "It reduces exposure", "It helps alignment", "It makes the image sharper"], correct: 0 },
+    { id: 2247, question: "What is the purpose of radiation safety legislation?", options: ["To protect both the operator and the patient", "To limit film speed", "To regulate chemical disposal", "To control appointment times"], correct: 0 },
+    { id: 2248, question: "Who is responsible for ensuring compliance with radiation safety laws in the dental office?", options: ["The dentist and clinic management", "The patient", "The supplier", "The hygienist alone"], correct: 0 },
+    { id: 2249, question: "What type of radiation is considered harmful according to the lecture?", options: ["All types of radiation in excess", "Only X-rays", "Only ultraviolet light", "Only gamma rays"], correct: 0 },
+    { id: 2250, question: "Why are even small doses of radiation considered important to monitor?", options: ["Because all cumulative exposure adds biological risk", "Because they make film foggy", "Because they weaken enamel", "Because they affect the developer"], correct: 0 },
+    { id: 2251, question: "What safety barrier material did the instructor mention could still be effective in walls?", options: ["Thick drywall can provide sufficient shielding", "Only lead bricks are acceptable", "Glass alone is enough", "No barrier is needed"], correct: 0 },
+    { id: 2252, question: "Why did older radiology clinics have leaded glass windows?", options: ["To allow viewing while preventing radiation exposure", "For decoration", "To reduce heat", "To filter out light"], correct: 0 },
+    { id: 2253, question: "What should be done if an X-ray tube head becomes loose or moves during exposure?", options: ["Stop using it and request repair", "Ask the patient to hold it", "Tape it in place temporarily", "Continue if image looks fine"], correct: 0 },
+    { id: 2254, question: "Why did the instructor discuss reading habits and note-taking methods?", options: ["To encourage effective study and memory retention", "To criticize new technology", "To replace lectures", "To reduce class time"], correct: 0 },
+
+    // Quality Assurance (28 questions)
+    { id: 2255, question: "A step wedge is used to:", options: ["Monitor processing quality", "Check filtration", "Test collimation", "Measure patient dose"], correct: 0 },
+    { id: 2256, question: "The coin test checks:", options: ["Safelight fog", "Film density", "Exposure accuracy", "Beam alignment"], correct: 0 },
+    { id: 2257, question: "The wire mesh test checks:", options: ["Screen-film contact", "Film fog", "Beam quality", "Developer strength"], correct: 0 },
+    { id: 2258, question: "Developer solution should be tested daily for:", options: ["Strength", "Color", "Odor", "Quantity only"], correct: 0 },
+    { id: 2259, question: "X-ray units should be inspected:", options: ["Annually", "Every month", "Every 3 years", "Every 10 years"], correct: 0 },
+    { id: 2260, question: "Quality assurance ensures:", options: ["Consistent, reliable image quality", "Shorter exposure", "Elimination of kVp", "Cost reduction only"], correct: 0 },
+    { id: 2261, question: "The purpose of a daily quality assurance log is to:", options: ["Record consistency and detect errors early", "Replace radiation badge records", "Reduce patient exposure time", "Check kVp only"], correct: 0 },
+    { id: 2262, question: "A reference radiograph is used to:", options: ["Compare new films with a standard to check developer strength", "Measure patient dose", "Record patient history", "Test darkroom ventilation"], correct: 0 },
+    { id: 2263, question: "A step wedge test helps determine:", options: ["Developer and processor consistency", "Beam alignment accuracy", "Sensor calibration", "Exposure time"], correct: 0 },
+    { id: 2264, question: "If the density of a new film differs from the reference radiograph, it indicates:", options: ["Developer solution weakness or temperature change", "Improper mounting", "Faulty collimator", "Exposure timer malfunction"], correct: 0 },
+    { id: 2265, question: "The clearing test for fixer is performed by:", options: ["Timing how long a film clears in fresh fixer", "Comparing exposure times", "Measuring film density", "Using a dosimeter"], correct: 0 },
+    { id: 2266, question: "A film should clear in fresh fixer within:", options: ["2 minutes", "30 seconds", "5 minutes", "10 minutes"], correct: 0 },
+    { id: 2267, question: "If a film takes twice the normal clearing time, it indicates:", options: ["Weak or exhausted fixer", "Overexposed film", "Improper developer temperature", "Underwashing"], correct: 0 },
+    { id: 2268, question: "QA records and test results must be kept for at least:", options: ["3 years", "1 year", "6 months", "Indefinitely"], correct: 0 },
+    { id: 2269, question: "The processor cleaning schedule should be:", options: ["Weekly or as recommended by manufacturer", "Once a year", "After every patient", "Every 6 months"], correct: 0 },
+    { id: 2270, question: "Replenisher solution is added to:", options: ["Maintain concentration and volume of chemicals", "Reduce washing time", "Improve contrast only", "Lower temperature"], correct: 0 },
+    { id: 2271, question: "The Radiation Protection Officer (RPO) in a dental office is responsible for:", options: ["Ensuring compliance with radiation safety standards", "Repairing the x-ray unit", "Scheduling appointments", "Collecting patient fees"], correct: 0 },
+    { id: 2272, question: "The RPO must maintain:", options: ["Equipment test reports and staff dosimeter records", "Patient billing forms", "Infection control charts", "X-ray unit manuals only"], correct: 0 },
+    { id: 2273, question: "According to Health Canada Safety Code 30, dental x-ray units must be inspected:", options: ["At least every 3 years", "Annually", "Every 6 months", "Only when malfunctioning"], correct: 0 },
+    { id: 2274, question: "A record of all x-ray equipment maintenance should be:", options: ["Kept in the radiation safety file", "Discarded after each visit", "Filed with patient records", "Sent to the dental board monthly"], correct: 0 },
+    { id: 2275, question: "If an x-ray unit shows radiation leakage, the operator should:", options: ["Stop using it and report to the RPO", "Continue until the next inspection", "Reduce exposure time", "Cover the tubehead with lead"], correct: 0 },
+    { id: 2276, question: "QA procedures should be performed:", options: ["Daily, weekly, monthly depending on the test type", "Once a year", "Only during inspection", "When new staff are hired"], correct: 0 },
+    { id: 2277, question: "The lead apron should be inspected for cracks or damage:", options: ["Every 6 months", "Every day", "Every 5 years", "After each patient"], correct: 0 },
+    { id: 2278, question: "Radiation safety documentation must include:", options: ["Date, results, corrective action, and signature", "Patient treatment plan", "Billing summary", "None of the above"], correct: 0 },
+    { id: 2279, question: "The purpose of calibration of x-ray equipment is to:", options: ["Verify exposure accuracy and beam alignment", "Improve film contrast", "Increase radiation output", "Clean the unit"], correct: 0 },
+    { id: 2280, question: "The QA program ensures:", options: ["Consistent image quality and minimal radiation exposure", "Higher radiation output", "Faster exposure times only", "Elimination of operator error"], correct: 0 },
+    { id: 2281, question: "What is the purpose of quality control testing in radiography?", options: ["To ensure consistent image quality and equipment safety", "To speed up radiographic processing", "To test student performance", "To reduce exposure time"], correct: 0 },
+    { id: 2282, question: "What is another term used for quality control testing of radiographic equipment?", options: ["Quality assurance", "Film density test", "Processor calibration", "Equipment audit"], correct: 0 },
+
+    // Safelight & Coin Test (6 questions)
+    { id: 2283, question: "What is the purpose of performing the coin test described in the lecture?", options: ["To check if the safelight causes film fogging", "To measure developer temperature", "To test film speed", "To check the timer accuracy"], correct: 0 },
+    { id: 2284, question: "During a safelight coin test, for how long should the coin remain on the opened film under the safelight before processing?", options: ["2–3 minutes", "10 seconds", "1 minute", "5–6 minutes"], correct: 0 },
+    { id: 2285, question: "What does it mean if the outline of the coin appears on the processed film?", options: ["The safelight is not safe and must be replaced", "The developer is too weak", "The fixer is exhausted", "The safelight filter is perfect"], correct: 0 },
+    { id: 2286, question: "Why is it important to limit the safelight exposure time to 2–3 minutes during the test?", options: ["Longer exposure can fog the film", "It saves processing chemicals", "It avoids overdevelopment", "It reduces static marks"], correct: 0 },
+    { id: 2287, question: "What is the coin test used to evaluate?", options: ["The safety of the safelight in the darkroom", "The processor's temperature", "The film's contrast", "The radiation leakage from the tube"], correct: 0 },
+    { id: 2288, question: "During the coin test, what does a visible coin image indicate?", options: ["The safelight is unsafe", "The fixer is weak", "The developer is exhausted", "The temperature is too high"], correct: 0 },
+
+    // Manual Processing Demonstration (9 questions)
+    { id: 2289, question: "In the lecture's video discussion, what were the four main steps of manual film processing?", options: ["Develop, stop, fix, rinse", "Expose, dry, rinse, mount", "Develop, expose, fix, rinse", "Wash, dry, expose, fix"], correct: 0 },
+    { id: 2290, question: "What was the typical developing time mentioned in the lecture's demonstration?", options: ["5 minutes", "1 minute", "10 minutes", "30 seconds"], correct: 0 },
+    { id: 2291, question: "In the video discussed, how long was the film kept in the fixer?", options: ["10 minutes", "2 minutes", "1 minute", "5 minutes"], correct: 0 },
+    { id: 2292, question: "According to the speaker, what is the correct washing time after fixing?", options: ["A longer rinse to ensure complete chemical removal", "No rinse is required", "Just 30 seconds", "Quick spray rinse only"], correct: 0 },
+    { id: 2293, question: "What is the function of the stop bath in manual processing?", options: ["To neutralize developer and prevent overdevelopment", "To dry the film faster", "To remove residual fixer", "To harden the emulsion"], correct: 0 },
+    { id: 2294, question: "In the demonstration, what equipment was used to hang the film during processing?", options: ["Manual film hanger", "Lead apron clip", "Sensor holder", "Forceps only"], correct: 0 },
+    { id: 2295, question: "What should be done if an automatic processor produces films with spots or streaks?", options: ["Clean the rollers regularly", "Replace the fixer immediately", "Increase developer temperature", "Shake the chemical tanks"], correct: 0 },
+    { id: 2296, question: "Why is it important not to mix developer and fixer solutions?", options: ["It neutralizes both chemicals and ruins the image", "It increases film speed", "It causes the image to darken", "It shortens the drying time"], correct: 0 },
+    { id: 2297, question: "According to the lecture, what is the purpose of the roller system in automatic processors?", options: ["To remove excess solution and transport film between compartments", "To heat the chemicals", "To clean the developer solution", "To hold the film in place"], correct: 0 },
+
+    // XCP Technique & Patient Positioning (20 questions)
+    { id: 2298, question: "According to the lecture, what color XCP holder is used for posterior exposures?", options: ["Yellow", "Blue", "Red", "Green"], correct: 0 },
+    { id: 2299, question: "What should be aligned in a straight line when assembling the XCP device?", options: ["The bar, ring, and film holder", "The PID and control panel", "The lead apron and patient chair", "The film and sensor cable"], correct: 0 },
+    { id: 2300, question: "What was the instructor's correction regarding the video's film placement?", options: ["The film should never rest on the tongue", "The ring should face away from the teeth", "The patient should bite before positioning", "The XCP should be tilted downward"], correct: 0 },
+    { id: 2301, question: "What is the recommended way to insert the XCP under the tongue according to the lecture?", options: ["Ask the patient to lift the tongue and move it to the opposite side", "Place it directly on the tongue", "Push it forcefully under the tongue", "Ask the patient to bite first"], correct: 0 },
+    { id: 2302, question: "What happens if the XCP is placed on the tongue?", options: ["It may cause pain and image distortion", "It produces a clearer image", "It helps stabilize the film", "It reduces gag reflex"], correct: 0 },
+    { id: 2303, question: "How did the instructor suggest managing the patient's tongue when taking mandibular radiographs?", options: ["Have the patient lift and move the tongue aside", "Use a retractor to hold the tongue", "Ignore the tongue position", "Ask the patient to bite quickly"], correct: 0 },
+    { id: 2304, question: "Why do some patients lift their tongue even when told to relax?", options: ["The more you tell them to relax, the more they tense up", "They misunderstand the instruction", "The film is too cold", "The XCP ring distracts them"], correct: 0 },
+    { id: 2305, question: "What was emphasized about taking X-rays with a typodont (Dexter model)?", options: ["It does not accurately represent a real patient's tongue behavior", "It perfectly simulates soft tissue", "It helps measure actual radiation dose", "It includes realistic moisture conditions"], correct: 0 },
+    { id: 2306, question: "What did the instructor say about adjusting for patient comfort?", options: ["Always avoid hurting the tongue and adjust positioning carefully", "Push the film firmly for better image sharpness", "Ask the patient to endure discomfort briefly", "Ignore gagging if the image is accurate"], correct: 0 },
+    { id: 2307, question: "Why should you not push the tongue backward when positioning film?", options: ["It could injure the tongue or cause gagging", "It gives a distorted image", "It blocks the radiation beam", "It shortens the exposure time"], correct: 0 },
+    { id: 2308, question: "According to the lecture, what should you check before inserting the film into the XCP holder?", options: ["The white side of the film should face the X-ray source", "The dot should face away from the tooth", "The colored side should face the X-ray tube", "The black paper should be visible"], correct: 0 },
+    { id: 2309, question: "Where should the identification dot be placed when loading the film into the holder?", options: ["Toward the occlusal or incisal edge", "Toward the apex", "Toward the back of the holder", "Facing the operator"], correct: 0 },
+    { id: 2310, question: "What is the function of the metal backing inside the film packet?", options: ["To reduce radiation scatter and protect the film", "To increase film speed", "To improve contrast", "To hold the film flat"], correct: 0 },
+    { id: 2311, question: "What should be avoided to prevent film fogging before exposure?", options: ["Handling film with wet or contaminated hands", "Using gloves", "Using a dry environment", "Storing in a lead-lined box"], correct: 0 },
+    { id: 2312, question: "The instructor mentioned that old or expired film can lead to:", options: ["Film fogging and poor image quality", "Higher radiation dose", "Excessive contrast", "Double image formation"], correct: 0 },
+    { id: 2313, question: "What is the best storage condition for dental X-ray film?", options: ["Cool, dry, and away from radiation sources", "Near the X-ray unit", "In direct sunlight", "In a humid environment"], correct: 0 },
+    { id: 2314, question: "When mounting radiographs, the dot should be:", options: ["Facing outward for labial mounting", "Facing inward for lingual mounting", "Cut off before mounting", "Ignored"], correct: 0 },
+    { id: 2315, question: "What does labial mounting mean?", options: ["Viewing the radiograph as if facing the patient", "Viewing from behind the patient", "Viewing the film upside down", "Viewing from the lingual surface"], correct: 0 },
+    { id: 2316, question: "What should a student do if unsure about a radiography procedure?", options: ["Ask for clarification before performing it", "Guess and proceed", "Check online after", "Ask another student to do it"], correct: 0 },
+    { id: 2317, question: "What was the key takeaway from the instructor about professional growth?", options: ["Work smart, not just hard—learn, speak up, and stay ethical", "Always follow the easiest route", "Focus only on clinical tasks", "Avoid challenging authority"], correct: 0 },
+
+    // Infection Control (3 questions)
+    { id: 2318, question: "What does the instructor emphasize regarding infection control during radiography?", options: ["Never touch the control panel or PID with contaminated gloves", "Always clean with alcohol after every exposure", "Only use non-sterile gloves", "Remove barriers after the day ends"], correct: 0 },
+    { id: 2319, question: "What should be done with contaminated film packets before they are processed?", options: ["Wipe or disinfect before taking them into the darkroom", "Take them directly without cleaning", "Soak them in disinfectant", "Dispose of them immediately"], correct: 0 },
+    { id: 2320, question: "Infection control during radiography includes:", options: ["Wearing gloves and barriers", "Using disinfectants", "Covering sensors and control panel", "All of the above"], correct: 3 },
+
+    // Processing Errors & Artifacts (17 questions)
+    { id: 2321, question: "What happens if the developing time is too short?", options: ["The image will appear light (underdeveloped)", "The image will be dark (overdeveloped)", "The image will be completely blank", "The image will be blurry"], correct: 0 },
+    { id: 2322, question: "What causes film to appear dark or overdeveloped?", options: ["Developer too hot or left in too long", "Weak developer", "Short fixing time", "Light leak during exposure"], correct: 0 },
+    { id: 2323, question: "What does a yellow-brown film indicate?", options: ["Incomplete fixing or washing", "Overexposure", "Low temperature", "Double exposure"], correct: 0 },
+    { id: 2324, question: "What is the cause of white spots on processed film?", options: ["Developer contamination or air bubbles", "Overfixing", "Dirty roller system", "Moisture on film"], correct: 0 },
+    { id: 2325, question: "What causes dark spots on processed film?", options: ["Developer splash before processing", "Weak fixer", "Static discharge", "Prolonged rinsing"], correct: 0 },
+    { id: 2326, question: "What does a completely clear film indicate?", options: ["Film was not exposed to radiation", "Film was exposed twice", "Developer too strong", "Fixer contamination"], correct: 0 },
+    { id: 2327, question: "What happens if the film is placed backward in the patient's mouth?", options: ["A herringbone or tire-track pattern will appear", "The image will be blurred", "The film will be blank", "The exposure will be doubled"], correct: 0 },
+    { id: 2328, question: "Which error occurs when the PID is not aligned with the film?", options: ["Cone cut", "Elongation", "Overlapping", "Foreshortening"], correct: 0 },
+    { id: 2329, question: "What causes elongation of the image?", options: ["Insufficient vertical angulation", "Excessive vertical angulation", "Improper horizontal angulation", "Film bent during exposure"], correct: 0 },
+    { id: 2330, question: "What causes foreshortening of the image?", options: ["Too much vertical angulation", "Not enough vertical angulation", "Patient moved during exposure", "Film was underdeveloped"], correct: 0 },
+    { id: 2331, question: "The identification dot is used to:", options: ["Distinguish right from left", "Indicate patient name", "Measure exposure", "Mark film speed"], correct: 0 },
+    { id: 2332, question: "Films mounted with the dot raised (convex) are viewed:", options: ["As if facing the patient (labial mounting)", "From inside the mouth (lingual)", "Upside down", "Reverse"], correct: 0 },
+    { id: 2333, question: "Overlapping of contacts occurs due to:", options: ["Incorrect horizontal angulation", "Incorrect vertical angulation", "Movement", "Film bending"], correct: 0 },
+    { id: 2334, question: "Foreshortening occurs when:", options: ["Vertical angulation is too steep", "Too flat", "Beam centered", "Film bent"], correct: 0 },
+    { id: 2335, question: "Elongation occurs when:", options: ["Vertical angulation is insufficient", "Too steep", "PID misaligned", "Film reversed"], correct: 0 },
+    { id: 2336, question: "Cone-cutting results from:", options: ["Improper beam alignment", "Excess kVp", "Too short exposure", "Dirty screen"], correct: 0 },
+    { id: 2337, question: "Blurred image results from:", options: ["Patient or tubehead movement", "Low kVp", "Overfixing", "Dirty screen"], correct: 0 },
+
+    // More Artifacts (3 questions)
+    { id: 2338, question: "A herringbone (tire-track) pattern is caused by:", options: ["Film packet reversed", "Double exposure", "Overfixing", "Light leak"], correct: 0 },
+    { id: 2339, question: "Fingerprint artifact occurs from:", options: ["Handling film with wet or contaminated fingers", "Light exposure", "Overwashing", "Film overlap"], correct: 0 },
+    { id: 2340, question: "Double exposure results in:", options: ["Superimposed images", "Dark, uniform film", "Light film", "Scratches"], correct: 0 },
+
+    // Legal & Records (3 questions)
+    { id: 2341, question: "The radiograph is part of:", options: ["The patient's permanent record", "Temporary notes", "Discardable chart", "None"], correct: 0 },
+    { id: 2342, question: "Legally, radiographs belong to:", options: ["The dentist", "The patient's insurance", "The radiographer", "The college"], correct: 0 },
+    { id: 2343, question: "Patients have the right to:", options: ["Access and obtain copies of radiographs", "Keep originals", "Modify the image", "None"], correct: 0 },
+
+    // Dosimetry & Monitoring (9 questions)
+    { id: 2344, question: "According to the lecture, what device monitors the amount of radiation exposure received by dental staff?", options: ["Dosimeter badge", "Film cassette", "PID collimator", "XCP alignment ring"], correct: 0 },
+    { id: 2345, question: "What is the most common type of radiation monitoring device used today?", options: ["TLD dosimeter", "Film badge", "Pocket ion chamber", "Lead strip meter"], correct: 0 },
+    { id: 2346, question: "What does 'TLD' stand for?", options: ["Thermoluminescent dosimeter", "Thermal light detector", "Tube leakage detector", "Total light dosimeter"], correct: 0 },
+    { id: 2347, question: "How should a dosimeter badge be worn during work?", options: ["At the waist or chest level on the uniform", "On the wrist", "Inside the lead apron", "On the patient's gown"], correct: 0 },
+    { id: 2348, question: "What should you do with the dosimeter badge when taking an X-ray?", options: ["Remove it to avoid false readings", "Keep it near the X-ray tube", "Place it on the control panel", "Store it next to the film processor"], correct: 0 },
+    { id: 2349, question: "How often are dosimeter badges typically sent for reading?", options: ["Every three months (quarterly)", "Weekly", "Annually", "Every six months"], correct: 0 },
+    { id: 2350, question: "What happens if the badge reading shows unusually high exposure levels?", options: ["The worker may need to take time off from radiation work", "The badge is replaced immediately", "The dose is ignored if no symptoms appear", "The exposure is rechecked in a year"], correct: 0 },
+    { id: 2351, question: "What should be done if a dosimeter badge is lost or damaged?", options: ["Report it immediately and request a replacement", "Ignore it until the next reading cycle", "Borrow a coworker's badge", "Wear none until new batch arrives"], correct: 0 },
+    { id: 2352, question: "Why should a dosimeter badge not be left in the X-ray room overnight?", options: ["It can receive stray radiation and give false readings", "It might be stolen", "It could become magnetized", "It could melt from heat"], correct: 0 },
+    { id: 2353, question: "Where should the badge be stored when not in use?", options: ["In a radiation-free area of the office", "In the darkroom", "Near the developer tank", "On the X-ray control panel"], correct: 0 },
+
+    // Equipment Safety & Maintenance (6 questions)
+    { id: 2354, question: "According to the lecture, who is responsible for checking X-ray equipment for radiation leakage?", options: ["A certified technician or service company", "The dental assistant", "The dentist only", "The patient safety officer"], correct: 0 },
+    { id: 2355, question: "How often should equipment be checked for radiation leakage?", options: ["On a regular, scheduled basis", "Only when a problem occurs", "Once every five years", "Never—modern units don't need it"], correct: 0 },
+    { id: 2356, question: "What parts of the X-ray unit must be inspected for safety?", options: ["The tube housing, seals, and cable connections", "The dental chair and light", "The film holder", "The handpiece"], correct: 0 },
+    { id: 2357, question: "What could indicate a possible radiation leak?", options: ["Cracked or loose tube housing", "Weak developer", "Blurred image", "Patient movement"], correct: 0 },
+    { id: 2358, question: "Why is equipment maintenance considered part of radiation safety?", options: ["Faulty machines can leak radiation or produce inconsistent exposures", "It improves image contrast", "It reduces patient gag reflex", "It saves chemical costs"], correct: 0 },
+    { id: 2359, question: "When radiation leakage is suspected, what should be done first?", options: ["Stop using the unit and call for inspection", "Continue using it at lower kVp", "Tape the crack", "Shield it with a lead apron"], correct: 0 },
+
+    // Professional Ethics & Closing Messages (6 questions)
+    { id: 2360, question: "Why did older radiation technicians have higher exposure in the past?", options: ["They stayed inside the room during exposure", "They used stronger X-ray tubes", "They didn't wear gloves", "They reused old film"], correct: 0 },
+    { id: 2361, question: "What is the modern reason radiation monitoring is not always mandatory in dental offices?", options: ["The exposure from digital radiography is minimal", "The devices are too expensive", "Regulations prohibit it", "Monitoring gives unreliable results"], correct: 0 },
+    { id: 2362, question: "What did the lecturer emphasize about radiation safety laws?", options: ["They must always be followed to protect both patient and operator", "They are optional guidelines", "Only hospitals need to comply", "They apply only to panoramic imaging"], correct: 0 },
+    { id: 2363, question: "What did the lecturer say about the difference between older and modern units?", options: ["Modern units produce less radiation exposure and are safer", "Older units have better image quality", "Modern units require more maintenance", "There is no difference"], correct: 0 },
+    { id: 2364, question: "Why must assistants understand both manual and automatic processing?", options: ["Some clinics may still use manual systems", "It's part of infection control", "It improves patient comfort", "It's required for billing"], correct: 0 },
+    { id: 2365, question: "What was the instructor's closing message regarding radiography practice?", options: ["Follow all safety rules, respect your role, and never compromise ethics", "Take shortcuts to finish faster", "Avoid monitoring devices", "Skip maintenance if busy"], correct: 0 },
+    { id: 2366, question: "What was the instructor's view on continuous learning?", options: ["Stay updated because radiography techniques and safety standards evolve", "Only learn during school", "Once certified, no updates are needed", "Focus only on clinical skills"], correct: 0 }
   ],
   "4. Dental Radiography Theory": [
     // Questions to be added for this topic
