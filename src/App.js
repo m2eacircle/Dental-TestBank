@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { Clock, Trophy, BarChart3, CheckCircle, XCircle, Home, Play, ArrowLeft, ChevronRight, Download, Flag, Eye, TrendingUp, Pause } from 'lucide-react';
+import { Clock, Trophy, BarChart3, CheckCircle, XCircle, Home, Play, ArrowLeft, ChevronRight, Download, Flag, Eye, TrendingUp, Pause, Copy } from 'lucide-react';
 
 // Import questions from separate files - NO questions in this file!
 import { questionBank, subjectsWithSubtopics, subjectsByLesson } from './questions';
@@ -435,10 +435,31 @@ export default function ImprovedTestBankApp() {
     return allQuestions.filter(q => flaggedQuestions.includes(q.id));
   };
 
+  const copyQuestionToClipboard = (question) => {
+    const optionLabels = ['A', 'B', 'C', 'D', 'E', 'F'];
+    const questionText = question.question;
+    const optionsText = question.options.map((opt, idx) => `${optionLabels[idx]}. ${opt}`).join('\n');
+    const fullText = `${questionText}\n\n${optionsText}`;
+    
+    navigator.clipboard.writeText(fullText).then(() => {
+      // Optional: Could add a toast notification here
+      console.log('Question copied to clipboard');
+    }).catch(err => {
+      console.error('Failed to copy:', err);
+    });
+  };
+
   // Home Screen
   if (screen === 'home') {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
+      <div 
+        className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4"
+        onCopy={(e) => e.preventDefault()}
+        onCut={(e) => e.preventDefault()}
+        onDragStart={(e) => e.preventDefault()}
+        onContextMenu={(e) => e.preventDefault()}
+        style={{ userSelect: 'none', WebkitUserSelect: 'none', MozUserSelect: 'none', msUserSelect: 'none' }}
+      >
         <div className="max-w-md mx-auto">
           
           {/* Google Ad - Home Screen Top Banner */}
@@ -459,7 +480,7 @@ export default function ImprovedTestBankApp() {
               </svg>
               <div className="flex flex-col">
                 <span className="text-xs font-medium text-gray-500 mb-1">Ontario</span>
-                <h1 className="text-2xl font-bold text-gray-800">Dental Hygiene Exam Question Bank</h1>
+                <h1 className="text-2xl font-bold text-gray-800">Dental Hygiene Test Bank</h1>
               </div>
             </div>
             
@@ -539,7 +560,7 @@ export default function ImprovedTestBankApp() {
     const flaggedCount = getFlaggedQuestionsForTopic(selectedSubject).length;
     
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
+      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4" onCopy={(e) => e.preventDefault()} onCut={(e) => e.preventDefault()} onDragStart={(e) => e.preventDefault()} onContextMenu={(e) => e.preventDefault()} style={{ userSelect: 'none', WebkitUserSelect: 'none', MozUserSelect: 'none', msUserSelect: 'none' }}>
         <div className="max-w-md mx-auto">
           
           {/* Google Ad - Subject Selection Screen */}
@@ -645,7 +666,7 @@ export default function ImprovedTestBankApp() {
     const isLesson = selectedSubject.startsWith('Lesson');
     
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
+      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4" onCopy={(e) => e.preventDefault()} onCut={(e) => e.preventDefault()} onDragStart={(e) => e.preventDefault()} onContextMenu={(e) => e.preventDefault()} style={{ userSelect: 'none', WebkitUserSelect: 'none', MozUserSelect: 'none', msUserSelect: 'none' }}>
         <div className="max-w-md mx-auto">
           
           {/* Google Ad - Topic Selection Screen */}
@@ -796,7 +817,14 @@ export default function ImprovedTestBankApp() {
     const isFlagged = flaggedQuestions.includes(currentQuestion.id);
     
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
+      <div 
+        className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4"
+        onCopy={(e) => e.preventDefault()}
+        onCut={(e) => e.preventDefault()}
+        onDragStart={(e) => e.preventDefault()}
+        onContextMenu={(e) => e.preventDefault()}
+        style={{ userSelect: 'none', WebkitUserSelect: 'none', MozUserSelect: 'none', msUserSelect: 'none' }}
+      >
         <div className="max-w-md mx-auto">
           
           {/* Google Ad - Show every 5 questions */}
@@ -913,9 +941,19 @@ export default function ImprovedTestBankApp() {
               </div>
             )}
 
-            <h2 className="text-xl font-bold text-gray-800 mb-6">
-              {currentQuestion.question}
-            </h2>
+            <div className="flex items-start justify-between mb-6">
+              <h2 className="text-xl font-bold text-gray-800 flex-1">
+                {currentQuestion.question}
+              </h2>
+              <button
+                onClick={() => copyQuestionToClipboard(currentQuestion)}
+                className="ml-3 p-2 text-gray-600 hover:text-blue-600 hover:bg-blue-50 rounded-lg transition-all"
+                aria-label="Copy question"
+                title="Copy question and options"
+              >
+                <Copy className="w-5 h-5" />
+              </button>
+            </div>
 
             <div className="space-y-3">
               {currentQuestion.options.map((option, index) => {
@@ -1047,7 +1085,7 @@ export default function ImprovedTestBankApp() {
   // Review Screen
   if (screen === 'review') {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
+      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4" onCopy={(e) => e.preventDefault()} onCut={(e) => e.preventDefault()} onDragStart={(e) => e.preventDefault()} onContextMenu={(e) => e.preventDefault()} style={{ userSelect: 'none', WebkitUserSelect: 'none', MozUserSelect: 'none', msUserSelect: 'none' }}>
         <div className="max-w-2xl mx-auto">
           <div className="bg-white rounded-3xl shadow-2xl p-6 mb-4">
             <div className="flex items-center justify-between mb-6">
@@ -1075,11 +1113,21 @@ export default function ImprovedTestBankApp() {
                     <h3 className="font-bold text-gray-800 flex-1">
                       Question {index + 1}: {review.question.question}
                     </h3>
-                    {review.isCorrect ? (
-                      <CheckCircle className="w-6 h-6 text-green-600 flex-shrink-0 ml-2" />
-                    ) : (
-                      <XCircle className="w-6 h-6 text-red-600 flex-shrink-0 ml-2" />
-                    )}
+                    <div className="flex items-center gap-2 flex-shrink-0 ml-2">
+                      <button
+                        onClick={() => copyQuestionToClipboard(review.question)}
+                        className="p-1.5 text-gray-600 hover:text-blue-600 hover:bg-blue-50 rounded-lg transition-all"
+                        aria-label="Copy question"
+                        title="Copy question and options"
+                      >
+                        <Copy className="w-4 h-4" />
+                      </button>
+                      {review.isCorrect ? (
+                        <CheckCircle className="w-6 h-6 text-green-600" />
+                      ) : (
+                        <XCircle className="w-6 h-6 text-red-600" />
+                      )}
+                    </div>
                   </div>
 
                   <div className="space-y-2 mb-3">
@@ -1129,7 +1177,7 @@ export default function ImprovedTestBankApp() {
     const lastResult = testHistory[0];
     
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
+      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4" onCopy={(e) => e.preventDefault()} onCut={(e) => e.preventDefault()} onDragStart={(e) => e.preventDefault()} onContextMenu={(e) => e.preventDefault()} style={{ userSelect: 'none', WebkitUserSelect: 'none', MozUserSelect: 'none', msUserSelect: 'none' }}>
         <div className="max-w-md mx-auto">
           <div className="bg-white rounded-3xl shadow-2xl p-6 mb-4">
             <div className="text-center mb-6">
@@ -1221,7 +1269,7 @@ export default function ImprovedTestBankApp() {
   // Progress Screen
   if (screen === 'progress') {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
+      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4" onCopy={(e) => e.preventDefault()} onCut={(e) => e.preventDefault()} onDragStart={(e) => e.preventDefault()} onContextMenu={(e) => e.preventDefault()} style={{ userSelect: 'none', WebkitUserSelect: 'none', MozUserSelect: 'none', msUserSelect: 'none' }}>
         <div className="max-w-md mx-auto">
           <div className="bg-white rounded-3xl shadow-2xl p-6 mb-4">
             <div className="flex items-center justify-between mb-6">
@@ -1321,7 +1369,7 @@ export default function ImprovedTestBankApp() {
   // History Screen
   if (screen === 'history') {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
+      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4" onCopy={(e) => e.preventDefault()} onCut={(e) => e.preventDefault()} onDragStart={(e) => e.preventDefault()} onContextMenu={(e) => e.preventDefault()} style={{ userSelect: 'none', WebkitUserSelect: 'none', MozUserSelect: 'none', msUserSelect: 'none' }}>
         <div className="max-w-md mx-auto">
           <div className="bg-white rounded-3xl shadow-2xl p-6 mb-4">
             <div className="flex items-center justify-between mb-6">
