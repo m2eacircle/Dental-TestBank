@@ -1,10 +1,11 @@
 // LESSON 2 - Dental Radiography Theory Questions
-// Total: 747 questions across 8 topics
+// Total: 982 questions across 8 topics
 // Topics:
 //   1. Radiation History & Radiation Physics (275 questions)
 //   2. Dental X-ray Equipment, Film Processing (255 questions)
 //   3. Dental Radiography Theory (217 questions) - COMPLETE
-//   4-8. Dental Radiography Theory (ready for questions)
+//   4. Dental Radiography Theory (235 questions) - COMPLETE
+//   5-8. Dental Radiography Theory (ready for questions)
 
 export const radiographyQuestions = {
   "1. Radiation History & Radiation Physics": [
@@ -800,7 +801,262 @@ export const radiographyQuestions = {
     { id: 2366, question: "What was the instructor's view on continuous learning?", options: ["Stay updated because radiography techniques and safety standards evolve", "Only learn during school", "Once certified, no updates are needed", "Focus only on clinical skills"], correct: 0 }
   ],
   "4. Dental Radiography Theory": [
-    // Questions to be added for this topic
+    // Film Mounting - Labial vs Lingual (11 questions)
+    { id: 2367, question: "In labial mounting, how should the identification dot appear?", options: ["Dimple toward the viewer", "Pimple toward the viewer", "Should not be visible", "Either way is fine"], correct: 1 },
+    { id: 2368, question: "Under labial mounting, the left side of the mount represents:", options: ["The viewer's left", "The patient's left", "The patient's right", "The viewer's right"], correct: 2 },
+    { id: 2369, question: "If a bitewing shows the Curve of Spee reversed, the most likely cause is:", options: ["Overexposure", "Reversed/upside-down mounting", "Incorrect kVp", "Excess scatter"], correct: 1 },
+    { id: 2370, question: "Which is not a required label on a film mount?", options: ["Patient's full name", "Date of exposure", "Prescribing dentist's name/ID", "Dose in mSv"], correct: 3 },
+    { id: 2371, question: "A passing coin test result after 2–3 minutes under safelight is:", options: ["A clear coin outline", "No visible coin outline", "Entire film turns black", "Entire film is transparent"], correct: 1 },
+    { id: 2372, question: "Why is there no rinse tank between developer and fixer in many automatic processors?", options: ["To save time", "Rollers 'squeegee' the film, minimizing carryover", "To reduce cost", "To prevent overheating"], correct: 1 },
+    { id: 2373, question: "The purpose of a replenisher pump is to:", options: ["Wash tanks", "Maintain temperature", "Maintain solution concentration and volume", "Speed drying"], correct: 2 },
+    { id: 2374, question: "The most common mistake when the dot orientation is wrong is mixing up:", options: ["Overall density", "Maxilla vs mandible", "Right vs left", "kVp settings"], correct: 2 },
+    { id: 2375, question: "With correct bitewing mounting, the Curve of Spee appears as:", options: ["Maxillary convex upward / Mandibular concave upward", "Maxillary concave downward / Mandibular convex downward", "Straight in both arches", "Random"], correct: 0 },
+    { id: 2376, question: "In digital mounting, you should still ensure at least these two are correct on the image set:", options: ["Patient name and date of exposure", "Sensor serial and kVp", "Contrast agent lot and mA", "Exposure time and film slot"], correct: 0 },
+    { id: 2377, question: "Which is least consistent with a radiographer's professional goals?", options: ["Patient/operator protection", "Efficiency with minimal retakes", "Obtaining diagnostic-quality images", "Maximizing insurance claims by repeating images"], correct: 3 },
+
+    // Professional Responsibilities (15 questions)
+    { id: 2378, question: "The main goal of a dental radiographer is to:", options: ["Take artistic images", "Produce diagnostic quality radiographs", "Use the lowest kVp", "Avoid using any x-rays"], correct: 1 },
+    { id: 2379, question: "Which is a professional duty of a radiographer?", options: ["Avoiding communication", "Client protection", "Ignoring infection control", "Skipping documentation"], correct: 1 },
+    { id: 2380, question: "'Quality assurance' means:", options: ["Only equipment checks", "All steps to achieve a good diagnostic image", "Focusing on speed", "Delegating radiation safety"], correct: 1 },
+    { id: 2381, question: "A qualified person to expose x-rays is:", options: ["Receptionist", "Licensed RDH/RDA/DDS", "Student without license", "Any clinic staff"], correct: 1 },
+    { id: 2382, question: "Retakes increase:", options: ["Patient dose", "Efficiency", "Contrast", "Sharpness"], correct: 0 },
+    { id: 2383, question: "Client education includes explaining:", options: ["Billing", "Radiographic importance and findings", "Scheduling", "None"], correct: 1 },
+    { id: 2384, question: "Operator protection means:", options: ["Standing in the beam", "Following distance and barrier rules", "Reducing film speed", "No apron needed"], correct: 1 },
+    { id: 2385, question: "Professionalism includes:", options: ["Attire only", "Ethical and respectful communication", "Fast processing", "Aggressive talking"], correct: 1 },
+    { id: 2386, question: "Knowledge component is acquired in:", options: ["Clinic only", "Theory and interpretation classes", "Gym", "Volunteer work"], correct: 1 },
+    { id: 2387, question: "Skill component is developed in:", options: ["Orientation", "Lab and clinical practice", "Lecture only", "Reading"], correct: 1 },
+    { id: 2388, question: "Overexposure due to retakes may cause:", options: ["Unnecessary radiation to patient", "Improved diagnosis", "Reduced contrast", "No effect"], correct: 0 },
+    { id: 2389, question: "Radiographer's goal regarding efficiency is:", options: ["Slow procedure", "Timely image acquisition with quality", "Speed over accuracy", "Avoid QA"], correct: 1 },
+    { id: 2390, question: "A dental hygienist may take x-rays only when:", options: ["Finishing lec course", "Registered and licensed", "Requested by peer", "Practicing alone"], correct: 1 },
+    { id: 2391, question: "Quality control tests include:", options: ["Handwashing", "Equipment and processing checks", "Scaling", "Charting"], correct: 1 },
+    { id: 2392, question: "Client management skills include:", options: ["Arguing", "Empathetic communication and professionalism", "Ignoring patients", "Ordering supplies"], correct: 1 },
+
+    // Mounting Basics (28 questions)
+    { id: 2393, question: "Mounting means:", options: ["Taking x-rays", "Arranging films in anatomic order for viewing", "Labeling envelopes", "Processing film"], correct: 1 },
+    { id: 2394, question: "Purpose of mounting:", options: ["Decoration", "Ease of interpretation", "Storage only", "Protection from light"], correct: 1 },
+    { id: 2395, question: "Mount materials can be:", options: ["Metal only", "Cardboard or plastic (opaque or clear)", "Rubber", "Aluminum"], correct: 1 },
+    { id: 2396, question: "'Opaque mount' means:", options: ["Transparent", "Blocks light around films for better contrast", "Reflective", "Colorless"], correct: 1 },
+    { id: 2397, question: "Why is opaque preferred?", options: ["Cheaper", "Prevents stray light and improves viewing", "Reusable", "Heavier"], correct: 1 },
+    { id: 2398, question: "Digital mounting still requires:", options: ["No organization", "Proper placement in software template", "Printing films", "Random order"], correct: 1 },
+    { id: 2399, question: "Who can mount films?", options: ["Any staff", "Trained dental professional with anatomy knowledge", "Patient", "Janitor"], correct: 1 },
+    { id: 2400, question: "Knowledge of anatomy is required to:", options: ["Design mounts", "Identify maxillary vs mandibular landmarks", "Calibrate machine", "Mix developer"], correct: 1 },
+    { id: 2401, question: "Common mounting error:", options: ["Density variation", "Upside-down or reversed mount", "Incorrect mA", "Fogged film"], correct: 1 },
+    { id: 2402, question: "In film mounting, the dot helps identify:", options: ["Exposure time", "Film orientation", "Film speed", "Density"], correct: 1 },
+    { id: 2403, question: "The raised side of the dot is called:", options: ["Dimple", "Pimple", "Dent", "Bump"], correct: 1 },
+    { id: 2404, question: "The depressed side is called:", options: ["Pimple", "Dimple", "Hole", "Indent"], correct: 1 },
+    { id: 2405, question: "All dots should face:", options: ["Randomly", "Same direction during mounting", "Alternate pattern", "Left"], correct: 1 },
+    { id: 2406, question: "Labial mounting views as if:", options: ["Facing the patient", "Behind the patient", "Below the chin", "From lingual surface"], correct: 0 },
+    { id: 2407, question: "Lingual mounting views as if:", options: ["Facing the patient", "From inside the mouth (behind patient)", "Top-down", "Mirror view"], correct: 1 },
+    { id: 2408, question: "Which mounting method is standard in practice?", options: ["Lingual", "Labial", "Either", "Occlusal"], correct: 1 },
+    { id: 2409, question: "In labial mounting, the patient's right appears:", options: ["Left on mount", "On viewer's left", "Unchanged", "Rotated"], correct: 1 },
+    { id: 2410, question: "For digital images, mounts should include:", options: ["Sensor ID only", "Patient name and date at minimum", "Exposure time only", "Dentist signature only"], correct: 1 },
+    { id: 2411, question: "Why label the dentist's name?", options: ["Legal record of prescriber", "To identify ordering clinician", "Aesthetic", "Privacy"], correct: 1 },
+    { id: 2412, question: "Radiographer's name on mount is:", options: ["Optional in practice, required in training", "Mandatory everywhere", "Not permitted", "Irrelevant"], correct: 0 },
+    { id: 2413, question: "Mounts should be prepared:", options: ["At end of week", "Immediately after processing", "Before exposure", "Randomly"], correct: 1 },
+    { id: 2414, question: "Work surface should be:", options: ["Dark cloth", "Light-colored and clean/dry", "Wet table", "Metal tray"], correct: 1 },
+    { id: 2415, question: "The Curve of Spee in a correct mount appears:", options: ["Flat", "Maxillary convex downward, mandibular convex upward", "Opposite", "Z-shaped"], correct: 1 },
+    { id: 2416, question: "Reversed Curve of Spee indicates:", options: ["Proper mount", "Upside-down bitewing", "Film fogging", "Overlap"], correct: 1 },
+    { id: 2417, question: "Viewing should be done:", options: ["Immediately after mounting", "Next day", "Weekly", "Only by dentist"], correct: 0 },
+    { id: 2418, question: "Proper viewing conditions include:", options: ["Dim light, distractions", "Uniform light, minimal distractions", "Sunlight", "Colored lamp"], correct: 1 },
+    { id: 2419, question: "Device for viewing film:", options: ["Camera", "View box with uniform light", "Scanner", "X-ray tube"], correct: 1 },
+    { id: 2420, question: "Why use magnifying glass?", options: ["Style", "To enhance fine details", "Heat control", "Reduce light"], correct: 1 },
+
+    // Viewing Sequence & Interpretation (20 questions)
+    { id: 2421, question: "Ideal light for viewing:", options: ["Intense", "Even diffused light", "Colored", "Direct sunlight"], correct: 1 },
+    { id: 2422, question: "Viewing sequence starts with:", options: ["Mandibular right", "Maxillary right posterior", "Maxillary left", "Bitewings"], correct: 1 },
+    { id: 2423, question: "Then move to:", options: ["Maxillary anterior, then maxillary left posterior", "Mandible first", "Randomly", "Opposite"], correct: 0 },
+    { id: 2424, question: "After maxilla, view:", options: ["Mandibular left posterior → anterior → right posterior", "Any order", "Occlusal", "Panoramic"], correct: 0 },
+    { id: 2425, question: "Last to view:", options: ["Panoramic", "Bitewings", "Occlusal", "Ceph"], correct: 1 },
+    { id: 2426, question: "Viewing sequence helps:", options: ["Faster grading", "Avoid missing areas", "Decorative arrangement", "Film reuse"], correct: 1 },
+    { id: 2427, question: "During viewing, record:", options: ["Exposure time", "Findings and pathologies", "Room temperature", "Film size"], correct: 1 },
+    { id: 2428, question: "Common finding in radiographs:", options: ["Sound teeth only", "Caries, bone loss, impacted teeth", "Hairlines", "Tongue shadow"], correct: 1 },
+    { id: 2429, question: "Viewing should be done by:", options: ["Receptionist", "Licensed dental professional", "Client", "Technician only"], correct: 1 },
+    { id: 2430, question: "Final diagnosis from radiograph is by:", options: ["Radiographer", "Dentist", "Hygienist", "Assistant"], correct: 1 },
+    { id: 2431, question: "Documentation of findings is:", options: ["Optional", "Mandatory for records", "Verbal only", "Not needed"], correct: 1 },
+    { id: 2432, question: "Bitewing mounting error commonly involves:", options: ["Exposure time", "Upside-down mount", "Horizontal angulation", "Fixer"], correct: 1 },
+    { id: 2433, question: "The Curve of Spee helps identify:", options: ["Exposure error", "Correct orientation of arches", "Film type", "Sensor model"], correct: 1 },
+    { id: 2434, question: "View box light should be:", options: ["Uneven", "Subdued and uniform", "Colored", "Strong beam"], correct: 1 },
+    { id: 2435, question: "Why avoid too bright light?", options: ["Power cost", "Causes eye fatigue and glare", "Blurs image", "Not important"], correct: 1 },
+    { id: 2436, question: "Lingual mount view shows patient's right as:", options: ["Right on view", "Left", "Reversed", "Upside down"], correct: 0 },
+    { id: 2437, question: "Which mount method is rarely used due to confusion?", options: ["Labial", "Lingual", "Parallel", "Digital"], correct: 1 },
+    { id: 2438, question: "Film handling during mounting should avoid:", options: ["Wearing gloves", "Touching emulsion surface", "Using tongs", "Dry hands"], correct: 1 },
+    { id: 2439, question: "Each film should be mounted:", options: ["Randomly", "Based on anatomic position and dot orientation", "Size only", "By color"], correct: 1 },
+    { id: 2440, question: "Viewing in definitive order ensures:", options: ["No area missed", "Fast grading", "Less work", "Ease only"], correct: 0 },
+
+    // Digital Systems (4 questions)
+    { id: 2441, question: "Digital enhancement tools allow:", options: ["Magnification and contrast adjustment", "Radiation increase", "Fog reduction physically", "Film development"], correct: 0 },
+    { id: 2442, question: "Which is a benefit of digital mounting?", options: ["Bulky storage", "Easy storage and patient education", "More retakes", "Higher dose"], correct: 1 },
+    { id: 2443, question: "The 'pimple toward you' orientation in viewing indicates:", options: ["Lingual", "Labial", "Digital only", "Occlusal"], correct: 1 },
+    { id: 2444, question: "A reversed dot orientation may lead to:", options: ["Overexposure", "Right/left confusion", "Contrast loss", "Underdevelopment"], correct: 1 },
+
+    // Professional Practice (2 questions)
+    { id: 2445, question: "Interpretation should occur in:", options: ["Any lighting", "Proper quiet setting with diffused light", "Bright hallway", "Open sunlight"], correct: 1 },
+    { id: 2446, question: "The mounting sequence ('bytwings first, then anteriors, then posteriors') relates to:", options: ["Recommended lab procedure", "Digital order", "Exposure order", "Film size"], correct: 0 },
+
+    // Geometric Projection Rules (20 questions)
+    { id: 2447, question: "The five rules of geometric projection include all EXCEPT:", options: ["Small source", "Long target-receptor distance", "Parallel object/receptor", "Short source-to-receptor distance"], correct: 3 },
+    { id: 2448, question: "Source of radiation should be:", options: ["As small as possible", "As large as possible", "Movable", "Variable"], correct: 0 },
+    { id: 2449, question: "Target-receptor distance should be:", options: ["Short", "Long as possible", "Medium", "Random"], correct: 1 },
+    { id: 2450, question: "Object-receptor distance should be:", options: ["As short as possible", "Long", "Equal", "Unchanged"], correct: 0 },
+    { id: 2451, question: "Object and receptor should be:", options: ["Tilted", "Parallel", "Intersecting", "Random"], correct: 1 },
+    { id: 2452, question: "Central ray should be:", options: ["Perpendicular to object and receptor", "Parallel only", "Oblique", "Horizontal"], correct: 0 },
+    { id: 2453, question: "Purpose of these rules:", options: ["Reduce distortion and magnification", "Increase exposure", "Shorten time", "Enhance fog"], correct: 0 },
+    { id: 2454, question: "In bisecting technique, central ray is:", options: ["Perpendicular to receptor", "Perpendicular to bisector of angle", "Oblique", "Parallel to tooth"], correct: 1 },
+    { id: 2455, question: "Paralleling technique reduces:", options: ["Contrast", "Distortion", "Sharpness", "Density"], correct: 1 },
+    { id: 2456, question: "Correct angulation reduces:", options: ["Fogging", "Overlapping of contacts", "Magnification", "Kvp"], correct: 1 },
+    { id: 2457, question: "If the film is too close to the tooth, the result is:", options: ["Magnification", "Foreshortening", "Elongation", "Sharpness increase"], correct: 0 },
+    { id: 2458, question: "If the film is tilted to the tooth in paralleling, what happens?", options: ["Distortion or dimensional inaccuracy", "Perfect image", "Increased contrast", "Over-hardening"], correct: 0 },
+    { id: 2459, question: "The most accurate image geometry is achieved by:", options: ["Paralleling technique", "Bisecting technique", "Occlusal technique", "Cone-cutting method"], correct: 0 },
+    { id: 2460, question: "Which factor most affects image sharpness?", options: ["Focal spot size", "Exposure time", "Patient size", "Tube housing"], correct: 0 },
+    { id: 2461, question: "Increasing target-receptor distance results in:", options: ["Less magnification", "More magnification", "More fog", "Less definition"], correct: 0 },
+    { id: 2462, question: "Short object-receptor distance provides:", options: ["Sharper image", "Blurred image", "Distortion", "Uneven density"], correct: 0 },
+    { id: 2463, question: "When the central ray is perpendicular to both object and receptor:", options: ["True image without distortion", "Foreshortened", "Elongated", "Magnified"], correct: 0 },
+    { id: 2464, question: "A large focal spot produces:", options: ["Less sharp image", "More sharp", "More contrast", "More density"], correct: 0 },
+    { id: 2465, question: "A small focal spot produces:", options: ["Sharper image", "Blurred image", "More fog", "Distorted image"], correct: 0 },
+    { id: 2466, question: "When the distance between the object and the film increases, the image becomes:", options: ["Magnified and less sharp", "Smaller", "Clearer", "Darker"], correct: 0 },
+
+    // Operator Protection (10 questions)
+    { id: 2467, question: "Operator protection guideline – minimum distance from the X-ray tube head:", options: ["3 ft", "4 ft", "6 ft (1.83 m)", "10 ft"], correct: 2 },
+    { id: 2468, question: "If a 6-ft distance is not possible, the operator should:", options: ["Stand behind a protective barrier or wall", "Hold the film", "Leave the room", "Reduce kVp"], correct: 0 },
+    { id: 2469, question: "Recommended safe zone angle from the primary beam:", options: ["0–30°", "45–60°", "90–135°", "180°"], correct: 2 },
+    { id: 2470, question: "Operator should never:", options: ["Hold the tube head or film during exposure", "Use barriers", "Use apron", "Adjust chair"], correct: 0 },
+    { id: 2471, question: "If a patient cannot hold the film, who may assist?", options: ["Parent/caregiver (wearing protection)", "Operator", "Receptionist", "Nobody"], correct: 0 },
+    { id: 2472, question: "Lead aprons protect against:", options: ["Scatter radiation", "Primary beam", "Heat", "Electric shock"], correct: 0 },
+    { id: 2473, question: "Thyroid collar is used to:", options: ["Protect thyroid gland from radiation", "Hold film", "Align tube head", "Reduce contrast"], correct: 0 },
+    { id: 2474, question: "What does a dosimeter badge measure?", options: ["Time", "Radiation exposure over a period", "Temperature", "Air pressure"], correct: 1 },
+    { id: 2475, question: "The dosimeter should be worn:", options: ["At waist or chest level on the uniform", "In the drawer", "In the pocket during exposure", "Around the neck"], correct: 0 },
+    { id: 2476, question: "A high dosimeter reading indicates:", options: ["Faulty device", "Excessive radiation exposure—investigate cause", "No risk", "Equipment underuse"], correct: 1 },
+
+    // Quality Control Tests (20 questions)
+    { id: 2477, question: "What is the purpose of a stepwedge test?", options: ["To test safelight", "To monitor developer strength and film density consistency", "To measure kVp", "To check collimation"], correct: 1 },
+    { id: 2478, question: "How often should a stepwedge test be performed?", options: ["Monthly", "Daily before processing films", "Weekly", "Only after equipment repair"], correct: 1 },
+    { id: 2479, question: "A weak developer solution produces films that are:", options: ["Dark", "Light", "Fogged", "Streaked"], correct: 1 },
+    { id: 2480, question: "A contaminated fixer solution causes:", options: ["Brownish stains on radiographs", "Light images", "Clear images", "Sharp images"], correct: 0 },
+    { id: 2481, question: "Reticulation of the film emulsion occurs when:", options: ["Sudden temperature changes between developer and water", "Weak fixer", "Excess light exposure", "Long wash time"], correct: 0 },
+    { id: 2482, question: "The coin test is used to check:", options: ["Developer strength", "Safelight safety", "Replenisher level", "Mounting accuracy"], correct: 1 },
+    { id: 2483, question: "ALARA stands for:", options: ["All Levels Are Radiation Approved", "As Low As Reasonably Achievable", "Active Low Absorption Radiation Application", "Annual Limited Average Radiation Allowance"], correct: 1 },
+    { id: 2484, question: "The maximum permissible dose (MPD) for occupationally exposed persons is:", options: ["5 mSv/year", "50 mSv/year", "10 mSv/year", "500 mSv/year"], correct: 1 },
+    { id: 2485, question: "For the general public, the MPD is:", options: ["50 mSv/year", "1 mSv/year", "10 mSv/year", "5 mSv/year"], correct: 1 },
+    { id: 2486, question: "Which of the following best demonstrates ALARA in practice?", options: ["Increasing exposure for clarity", "Using fast-speed sensors and rectangular collimation", "Repeating exposures frequently", "Ignoring distance"], correct: 1 },
+    { id: 2487, question: "The radiation monitoring badge should be returned to the lab:", options: ["Monthly or quarterly for reading", "Yes – every 1 to 3 months as per regulation", "Only once per year", "Never"], correct: 1 },
+    { id: 2488, question: "Radiographic barriers prevent:", options: ["Static marks", "Cross-contamination", "Cone cuts", "Fogging"], correct: 1 },
+    { id: 2489, question: "Digital sensors should be:", options: ["Disposed after each use", "Covered with a barrier sleeve and disinfected", "Rinsed in water", "Wiped dry only"], correct: 1 },
+    { id: 2490, question: "Gloves must be worn when:", options: ["Handling contaminated films or sensors", "Viewing images", "Reading charts", "Labeling mounts"], correct: 0 },
+    { id: 2491, question: "Exposed films should be:", options: ["Left open on counter", "Placed in a disposable cup or plastic bag for transport", "Placed in developer immediately", "Handled barehanded"], correct: 1 },
+    { id: 2492, question: "Films should be stored in:", options: ["Cool, dry, radiation-free area", "Refrigerator", "Bright room", "Wet area"], correct: 0 },
+    { id: 2493, question: "Overlapping contacts on a radiograph are caused by:", options: ["Incorrect vertical angulation", "Incorrect horizontal angulation", "Too much exposure", "Excessive fixer time"], correct: 1 },
+    { id: 2494, question: "Foreshortening results from:", options: ["Too much vertical angulation", "Too little angulation", "Film bending", "Low mA"], correct: 0 },
+    { id: 2495, question: "Elongation results from:", options: ["Too much vertical angulation", "Too little vertical angulation", "Excessive distance", "High contrast"], correct: 1 },
+    { id: 2496, question: "QA records should be:", options: ["Optional", "Maintained daily and reviewed regularly", "Destroyed monthly", "Shared with patients"], correct: 1 },
+
+    // Radiation Biology (6 questions)
+    { id: 2497, question: "Which type of radiation effect has a threshold and increases in severity with higher doses?", options: ["Stochastic", "Deterministic", "Genetic", "Random"], correct: 1 },
+    { id: 2498, question: "Which type of radiation effect has no threshold and increases in probability, not severity, with dose?", options: ["Stochastic", "Deterministic", "Nonstochastic", "Acute"], correct: 0 },
+    { id: 2499, question: "Which tissues are considered most radiosensitive?", options: ["Muscle and nerve", "Bone marrow and reproductive cells", "Mature bone and enamel", "Fat and cartilage"], correct: 1 },
+    { id: 2500, question: "The latent period refers to:", options: ["The recovery period after radiation", "The time between exposure and observable damage", "The immediate visible damage", "The healing phase"], correct: 1 },
+    { id: 2501, question: "Cumulative effects of radiation mean that:", options: ["Radiation exposure resets daily", "Small doses add up over time, increasing long-term risk", "Only high doses matter", "Effects disappear quickly"], correct: 1 },
+    { id: 2502, question: "Which organ is most sensitive to radiation in dental radiography?", options: ["Heart", "Brain", "Thyroid gland", "Kidney"], correct: 2 },
+
+    // Radiographic Anatomy (8 questions)
+    { id: 2503, question: "On a periapical radiograph, the maxillary sinus appears as a:", options: ["Radiopaque line", "Radiolucent area above posterior roots", "Radiopaque crescent", "Radiolucent circle below roots"], correct: 1 },
+    { id: 2504, question: "The mental foramen is usually seen near the:", options: ["Apices of mandibular premolars", "Apices of incisors", "Mandibular molars", "Maxillary molars"], correct: 0 },
+    { id: 2505, question: "Which structure appears as a radiopaque 'U' shape above the maxillary incisors?", options: ["Nasal spine", "Zygomatic process", "Hamular notch", "Incisive canal"], correct: 0 },
+    { id: 2506, question: "The mandibular canal appears radiographically as:", options: ["Radiopaque line", "Radiolucent band with thin radiopaque borders", "Radiolucent circle", "Solid white band"], correct: 1 },
+    { id: 2507, question: "A small circular radiolucent area in the midline of the maxilla between the central incisors is the:", options: ["Mental foramen", "Incisive foramen", "Nasal fossa", "Lingual foramen"], correct: 1 },
+    { id: 2508, question: "The SLOB rule stands for:", options: ["Some Lingual, Other Buccal", "Same Lingual, Opposite Buccal", "Same Lateral, Opposite Basal", "Single Lingual, Open Buccal"], correct: 1 },
+    { id: 2509, question: "If an object moves in the same direction as the tube head shift, it is located:", options: ["Buccally", "Lingually", "Occlusally", "Distally"], correct: 1 },
+    { id: 2510, question: "If an object moves in the opposite direction of the tube head shift, it is located:", options: ["Buccally", "Lingually", "Distally", "Mesially"], correct: 0 },
+
+    // Occlusal Radiography (2 questions)
+    { id: 2511, question: "Occlusal radiographs are primarily used to:", options: ["Check bone density", "Locate objects, cysts, or sialoliths", "Evaluate periodontal ligament", "Examine occlusion"], correct: 1 },
+    { id: 2512, question: "The topographic occlusal technique is taken with:", options: ["45° vertical angulation toward the midline", "0° angulation", "90° beam", "Horizontal beam only"], correct: 0 },
+
+    // Equipment Calibration (8 questions)
+    { id: 2513, question: "The x-ray timer should be accurate within:", options: ["±20%", "±10%", "±5%", "±15%"], correct: 1 },
+    { id: 2514, question: "The kVp output of an x-ray machine must be within:", options: ["±15%", "±20%", "±5%", "±25%"], correct: 2 },
+    { id: 2515, question: "The collimator diameter at the patient's skin should not exceed:", options: ["10 cm", "9 cm", "7 cm (2.75 inches)", "5 cm"], correct: 2 },
+    { id: 2516, question: "Quality control tests should be performed:", options: ["Routinely and after equipment maintenance", "Only when images fail", "Once a year only", "Only by the dentist"], correct: 0 },
+    { id: 2517, question: "Leaded aprons and thyroid collars should be tested for cracks:", options: ["Daily", "Annually", "Every 6 months", "Every 3 years"], correct: 1 },
+    { id: 2518, question: "Digital images should be stored:", options: ["In encrypted systems with regular backups", "On any office desktop", "In patient's email", "Temporarily on the sensor"], correct: 0 },
+    { id: 2519, question: "Patient radiographs are considered:", options: ["Patient's property", "Part of the dental office's legal record", "Public record", "Disposable after 1 year"], correct: 1 },
+    { id: 2520, question: "When duplicating or transferring radiographs, you must:", options: ["Obtain patient consent", "Send originals", "Delete all copies", "Annotate manually"], correct: 0 },
+
+    // Record Retention (1 question)
+    { id: 2521, question: "How long should dental radiographs be retained in Canada?", options: ["2 years", "At least 10 years after the last patient visit", "5 years", "Until patient moves"], correct: 1 },
+
+    // Advanced Geometric Projection (10 questions)
+    { id: 2522, question: "Which of the following describes the first rule of geometric projection?", options: ["The receptor should be parallel to the object.", "The source of radiation should be as small as possible.", "The receptor should be as close as possible to the object.", "The beam should be angled obliquely."], correct: 1 },
+    { id: 2523, question: "A long target–receptor distance is used to:", options: ["Reduce density", "Reduce magnification and improve sharpness", "Increase image distortion", "Increase scatter"], correct: 1 },
+    { id: 2524, question: "The object–receptor distance should be:", options: ["As long as possible", "As short as possible", "Equal to the target distance", "Variable"], correct: 1 },
+    { id: 2525, question: "The object and receptor should be:", options: ["Perpendicular", "Parallel to each other", "At a 45° angle", "Overlapping"], correct: 1 },
+    { id: 2526, question: "The central ray must be directed:", options: ["Obliquely to the object", "Perpendicular to both the object and receptor", "Parallel to the object", "Toward the occlusal plane"], correct: 1 },
+    { id: 2527, question: "Failure to maintain parallelism leads to:", options: ["Sharp images", "Distortion and foreshortening or elongation", "Uniform contrast", "Radiolucent artifacts"], correct: 1 },
+    { id: 2528, question: "Increased object–film distance causes:", options: ["Magnification", "Contrast loss", "Image sharpness increase", "No effect"], correct: 0 },
+    { id: 2529, question: "What factor most affects penumbra (blur)?", options: ["Exposure time", "Focal spot size", "Collimator diameter", "Film speed"], correct: 1 },
+    { id: 2530, question: "If the x-ray source is moved closer to the object, the image appears:", options: ["Magnified", "Smaller", "Clearer", "Elongated"], correct: 0 },
+    { id: 2531, question: "Which combination produces the best sharpness?", options: ["Short target distance, long object distance", "Long target distance, short object distance", "Short target and object distance", "Long target and object distance"], correct: 1 },
+
+    // ALARA & MPD (7 questions)
+    { id: 2532, question: "The ALARA principle means:", options: ["All Light At Reduced Angle", "As Low As Reasonably Achievable", "Average Level At Recommended Allowance", "Avoid Light At Radiation Angle"], correct: 1 },
+    { id: 2533, question: "Maximum Permissible Dose (MPD) for occupational workers in Canada is approximately:", options: ["25 mSv / year", "10 mSv / year", "50 mSv / year", "75 mSv / year"], correct: 2 },
+    { id: 2534, question: "For pregnant workers, the recommended MPD is:", options: ["5 mSv total for the entire pregnancy", "25 mSv per month", "50 mSv total", "Unlimited"], correct: 0 },
+    { id: 2535, question: "How far should the operator stand from the x-ray tube head during exposure?", options: ["3 feet", "4 feet", "6 feet (1.83 m)", "10 feet"], correct: 2 },
+    { id: 2536, question: "If 6 feet distance is not possible, the operator should:", options: ["Stand behind a protective barrier (90°–135° angle)", "Leave the room", "Stand in front of the tube", "Hold the film"], correct: 0 },
+    { id: 2537, question: "Radiation monitoring badges should be worn:", options: ["During all exposures at waist level", "On the collar or waist only when taking radiographs", "Outside the clinic", "In the dark room"], correct: 1 },
+    { id: 2538, question: "Dosimeters are sent for evaluation:", options: ["Monthly", "Quarterly (every 3 months)", "Annually", "Daily"], correct: 1 },
+
+    // More Radiation Safety (3 questions)
+    { id: 2539, question: "A dosimeter reading above normal means:", options: ["Battery fault", "Excessive radiation exposure", "Film fogging", "Calibration error"], correct: 1 },
+    { id: 2540, question: "Leaded aprons and thyroid collars protect against:", options: ["Primary beam only", "Scatter and secondary radiation", "Heat", "Ultraviolet light"], correct: 1 },
+    { id: 2541, question: "Which area of the body is most radiosensitive in dental exposures?", options: ["Eyes", "Thyroid gland", "Hands", "Feet"], correct: 1 },
+
+    // Coin Test Details (4 questions)
+    { id: 2542, question: "The purpose of the coin test is to check:", options: ["Film processing temperature", "Safety of the darkroom safelight", "Developer strength", "Fixer exhaustion"], correct: 1 },
+    { id: 2543, question: "The film should be exposed to the safelight for about:", options: ["30 seconds", "1 minute", "2–3 minutes", "5 minutes"], correct: 2 },
+    { id: 2544, question: "If the outline of the coin appears on the processed film:", options: ["The safelight is unsafe and must be replaced.", "The developer is too weak.", "The film is overexposed.", "The safelight is perfect."], correct: 0 },
+    { id: 2545, question: "The film should not show any coin image because:", options: ["The film was fogged", "Proper safelight does not affect film emulsion", "The developer was strong", "The film was too old"], correct: 1 },
+
+    // Quality Assurance Comprehensive (15 questions)
+    { id: 2546, question: "Quality assurance testing should include:", options: ["Checking only developer strength", "Monitoring processing, equipment, and darkroom conditions", "Checking film mounts", "Replacing aprons"], correct: 1 },
+    { id: 2547, question: "Stepwedge test is used to:", options: ["Check radiation leakage", "Monitor developer solution strength over time", "Calibrate the tubehead", "Check patient positioning"], correct: 1 },
+    { id: 2548, question: "The film screen contact test is done to:", options: ["Check developer temperature", "Ensure sharp contact between film and screen", "Test for radiation leakage", "Check for film fogging"], correct: 1 },
+    { id: 2549, question: "The developer solution should be replenished:", options: ["Once a week", "Daily or as needed based on use", "Monthly", "Only when films are dark"], correct: 1 },
+    { id: 2550, question: "Processing errors may result from:", options: ["Exposure settings", "Improper handling, temperature, or solution contamination", "Incorrect film mount", "Patient movement"], correct: 1 },
+    { id: 2551, question: "Artifacts on the film can cause:", options: ["Retakes and unnecessary radiation exposure", "Better image contrast", "Increased density", "Less clarity"], correct: 0 },
+    { id: 2552, question: "The x-ray timer should be accurate within:", options: ["± 20 %", "± 10 %", "± 5 %", "± 15 %"], correct: 1 },
+    { id: 2553, question: "The kVp output should be within:", options: ["± 10 %", "± 5 %", "± 15 %", "± 25 %"], correct: 1 },
+    { id: 2554, question: "The collimator diameter at the skin surface should not exceed:", options: ["5 cm", "7 cm (2.75 in)", "10 cm", "9 cm"], correct: 1 },
+    { id: 2555, question: "Regular quality control tests should be done:", options: ["Only after failures", "Routinely and after maintenance", "Once every 5 years", "Only by technicians"], correct: 1 },
+    { id: 2556, question: "Digital image storage must be:", options: ["Temporary", "Encrypted and regularly backed up", "Local only", "Unsecured"], correct: 1 },
+    { id: 2557, question: "Which statement about digital radiography is true?", options: ["Requires chemical developer", "Reduces radiation dose compared to film", "Has longer processing time", "Cannot be duplicated"], correct: 1 },
+    { id: 2558, question: "An advantage of digital radiography is:", options: ["Higher radiation dose", "Immediate image availability", "Use of fixer solution", "Film mounting"], correct: 1 },
+    { id: 2559, question: "Disadvantage of digital radiography:", options: ["Slow processing", "High initial equipment cost", "Lack of storage", "No editing possible"], correct: 1 },
+    { id: 2560, question: "Digital sensors must be protected with:", options: ["Alcohol wipes only", "Disposable barriers for infection control", "No covering", "Plastic mounts"], correct: 1 },
+
+    // Equipment Calibration Final (1 question)
+    { id: 2561, question: "Calibration of x-ray equipment should be done:", options: ["Every 10 years", "Annually by qualified technicians", "Every month", "Never"], correct: 1 },
+
+    // Advanced Mounting & Anatomy (20 questions)
+    { id: 2562, question: "Labial mounting means:", options: ["Viewing from the lingual side", "Viewing as if facing the patient", "Viewing upside down", "Viewing from behind"], correct: 1 },
+    { id: 2563, question: "The identification dot should be placed:", options: ["Toward the apex", "Toward the occlusal or incisal edge", "Toward the lingual surface", "Backward"], correct: 1 },
+    { id: 2564, question: "In mounting, the maxillary teeth roots are pointed:", options: ["Downward", "Upward", "Straight across", "Inverted"], correct: 1 },
+    { id: 2565, question: "The mandibular roots point:", options: ["Downward", "Upward", "Horizontally", "Toward the distal"], correct: 0 },
+    { id: 2566, question: "The Curve of Spee is used to:", options: ["Determine exposure time", "Align occlusal plane for proper mounting", "Check contrast", "Adjust beam angle"], correct: 1 },
+    { id: 2567, question: "A radiopaque U-shaped structure above maxillary incisors is the:", options: ["Nasal spine", "Zygomatic arch", "Mandibular canal", "Mental foramen"], correct: 0 },
+    { id: 2568, question: "The mental foramen appears near the apices of:", options: ["Molars", "Incisors", "Mandibular premolars", "Canines"], correct: 2 },
+    { id: 2569, question: "A radiolucent band with radiopaque borders in the mandible is the:", options: ["Mandibular canal", "Lingual foramen", "Mental ridge", "Mylohyoid line"], correct: 0 },
+    { id: 2570, question: "If the image appears elongated, the beam was:", options: ["Under-angled (too flat)", "Over-angled", "Too close", "Too distant"], correct: 0 },
+    { id: 2571, question: "If the image appears foreshortened, the beam was:", options: ["Over-angled (too steep)", "Flat", "Parallel", "Perpendicular"], correct: 0 },
+    { id: 2572, question: "What four items must be on a film mount in clinic?", options: ["Patient name, date, dentist name/number, type of radiographs", "Patient age, gender, tooth number, kVp", "Operator badge ID, date, MA, timer", "Clinic address, time, PID length, batch ID"], correct: 0 },
+    { id: 2573, question: "In Oxford lab, adding the radiographer's name on the mount is:", options: ["Prohibited", "Required for student evaluation (optional in real practice)", "Required by law", "Replaces dentist name"], correct: 1 },
+    { id: 2574, question: "The best viewing conditions for film interpretation include a view box that is:", options: ["Extremely bright, focused beam", "Evenly diffused, subdued illumination", "Colored backlight", "No backlight, room light only"], correct: 1 },
+    { id: 2575, question: "Opaque mounts are preferred because they:", options: ["Increase density", "Mask extraneous light around the film for clearer viewing", "Cool the film", "Prevent static"], correct: 1 },
+    { id: 2576, question: "In digital systems, 'mounting' means:", options: ["Printing films and placing them in cardboard", "Arranging images into a template in software (still labeled)", "No longer necessary", "Only for panoramic"], correct: 1 },
+    { id: 2577, question: "Recommended timing for interpretation is:", options: ["End of day only", "As soon as images are obtained", "Monthly", "After disinfection cycle only"], correct: 1 },
+    { id: 2578, question: "For full-mouth series, the taking sequence (book) starts with:", options: ["Posteriors → Bitewings → Anteriors", "Anterior PAs → Posterior PAs → Bitewings", "Bitewings first always", "Panoramic, then PAs"], correct: 1 },
+    { id: 2579, question: "For mounting sequence, the recommended order is:", options: ["Anteriors → Posteriors → Bitewings", "Bitewings → Maxillary anteriors → Mandibular anteriors → Posteriors", "Posteriors only", "Any order is prohibited"], correct: 1 },
+    { id: 2580, question: "The Curve of Spee on properly mounted bitewings should appear:", options: ["Reversed", "Flat", "Convex downward (correct curvature)", "Irregular zigzag"], correct: 2 },
+    { id: 2581, question: "Labial vs lingual mounting: in routine practice we use:", options: ["Labial (dot/pimple toward the viewer; view as facing the patient)", "Lingual (dimple toward viewer)", "Either—both standard in clinics", "Lingual only for pediatrics"], correct: 0 }
   ],
   "5. Dental Radiography Theory": [
     // Questions to be added for this topic
