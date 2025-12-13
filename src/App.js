@@ -460,12 +460,12 @@ export default function ImprovedTestBankApp() {
         onContextMenu={(e) => e.preventDefault()}
         style={{ userSelect: 'none', WebkitUserSelect: 'none', MozUserSelect: 'none', msUserSelect: 'none' }}
       >
-        <div className="max-w-md mx-auto">
+        <div className="max-w-md md:max-w-2xl lg:max-w-4xl mx-auto">
           
           {/* Google Ad - Home Screen Top Banner */}
           <GoogleAd slot="5701429538019796" format="horizontal" className="mb-4" />
           
-          <div className="bg-white rounded-3xl shadow-2xl p-6 mb-4">
+          <div className="bg-white rounded-3xl shadow-2xl p-4 md:p-6 lg:p-8 mb-4">
             <div className="flex items-center justify-center mb-6">
               <svg className="w-10 h-10 mr-2" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g transform="translate(0,40) scale(0.1,-0.1)" fill="#38BDF8" stroke="none">
@@ -560,13 +560,13 @@ export default function ImprovedTestBankApp() {
     const flaggedCount = getFlaggedQuestionsForTopic(selectedSubject).length;
     
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4" onCopy={(e) => e.preventDefault()} onCut={(e) => e.preventDefault()} onDragStart={(e) => e.preventDefault()} onContextMenu={(e) => e.preventDefault()} style={{ userSelect: 'none', WebkitUserSelect: 'none', MozUserSelect: 'none', msUserSelect: 'none' }}>
-        <div className="max-w-md mx-auto">
+      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4 md:p-6 lg:p-8" onCopy={(e) => e.preventDefault()} onCut={(e) => e.preventDefault()} onDragStart={(e) => e.preventDefault()} onContextMenu={(e) => e.preventDefault()} style={{ userSelect: 'none', WebkitUserSelect: 'none', MozUserSelect: 'none', msUserSelect: 'none' }}>
+        <div className="max-w-md md:max-w-2xl lg:max-w-4xl mx-auto">
           
           {/* Google Ad - Subject Selection Screen */}
           <GoogleAd slot="5701429538019796" format="horizontal" className="mb-4" />
           
-          <div className="bg-white rounded-3xl shadow-2xl p-6">
+          <div className="bg-white rounded-3xl shadow-2xl p-4 md:p-6 lg:p-8">
             <div className="flex items-center mb-6">
               <button 
                 onClick={() => {
@@ -666,13 +666,13 @@ export default function ImprovedTestBankApp() {
     const isLesson = selectedSubject.startsWith('Lesson');
     
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4" onCopy={(e) => e.preventDefault()} onCut={(e) => e.preventDefault()} onDragStart={(e) => e.preventDefault()} onContextMenu={(e) => e.preventDefault()} style={{ userSelect: 'none', WebkitUserSelect: 'none', MozUserSelect: 'none', msUserSelect: 'none' }}>
-        <div className="max-w-md mx-auto">
+      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4 md:p-6 lg:p-8" onCopy={(e) => e.preventDefault()} onCut={(e) => e.preventDefault()} onDragStart={(e) => e.preventDefault()} onContextMenu={(e) => e.preventDefault()} style={{ userSelect: 'none', WebkitUserSelect: 'none', MozUserSelect: 'none', msUserSelect: 'none' }}>
+        <div className="max-w-md md:max-w-2xl lg:max-w-4xl mx-auto">
           
           {/* Google Ad - Topic Selection Screen */}
           <GoogleAd slot="5701429538019796" format="horizontal" className="mb-4" />
           
-          <div className="bg-white rounded-3xl shadow-2xl p-6">
+          <div className="bg-white rounded-3xl shadow-2xl p-4 md:p-6 lg:p-8">
             <div className="flex items-center mb-6">
               <button 
                 onClick={() => setScreen('home')}
@@ -800,7 +800,7 @@ export default function ImprovedTestBankApp() {
     if (!currentQuestion) {
       return (
         <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4 flex items-center justify-center">
-          <div className="bg-white rounded-3xl shadow-2xl p-6 max-w-md">
+          <div className="bg-white rounded-3xl shadow-2xl p-4 md:p-6 lg:p-8 max-w-md md:max-w-2xl lg:max-w-4xl">
             <p className="text-gray-700 text-center">No questions available for this subject yet.</p>
             <button
               onClick={() => setScreen('home')}
@@ -825,7 +825,7 @@ export default function ImprovedTestBankApp() {
         onContextMenu={(e) => e.preventDefault()}
         style={{ userSelect: 'none', WebkitUserSelect: 'none', MozUserSelect: 'none', msUserSelect: 'none' }}
       >
-        <div className="max-w-md mx-auto">
+        <div className="max-w-md md:max-w-2xl lg:max-w-4xl mx-auto">
           
           {/* Google Ad - Show every 5 questions */}
           {showAdBetweenQuestions && (
@@ -898,7 +898,7 @@ export default function ImprovedTestBankApp() {
             </div>
           </div>
 
-          <div className="bg-white rounded-b-3xl shadow-2xl p-6 mb-4 relative">
+          <div className="bg-white rounded-b-3xl shadow-2xl p-4 md:p-6 lg:p-8 mb-4 relative">
             {/* Blur overlay when paused */}
             {isPaused && (
               <div className="absolute inset-0 bg-white/90 backdrop-blur-md rounded-b-3xl z-10 flex items-center justify-center">
@@ -1085,9 +1085,9 @@ export default function ImprovedTestBankApp() {
   // Review Screen
   if (screen === 'review') {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4" onCopy={(e) => e.preventDefault()} onCut={(e) => e.preventDefault()} onDragStart={(e) => e.preventDefault()} onContextMenu={(e) => e.preventDefault()} style={{ userSelect: 'none', WebkitUserSelect: 'none', MozUserSelect: 'none', msUserSelect: 'none' }}>
-        <div className="max-w-2xl mx-auto">
-          <div className="bg-white rounded-3xl shadow-2xl p-6 mb-4">
+      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4 md:p-6 lg:p-8" onCopy={(e) => e.preventDefault()} onCut={(e) => e.preventDefault()} onDragStart={(e) => e.preventDefault()} onContextMenu={(e) => e.preventDefault()} style={{ userSelect: 'none', WebkitUserSelect: 'none', MozUserSelect: 'none', msUserSelect: 'none' }}>
+        <div className="max-w-md md:max-w-3xl lg:max-w-5xl mx-auto">
+          <div className="bg-white rounded-3xl shadow-2xl p-4 md:p-6 lg:p-8 mb-4">
             <div className="flex items-center justify-between mb-6">
               <h2 className="text-2xl font-bold text-gray-800">Answer Review</h2>
               <button 
@@ -1177,9 +1177,9 @@ export default function ImprovedTestBankApp() {
     const lastResult = testHistory[0];
     
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4" onCopy={(e) => e.preventDefault()} onCut={(e) => e.preventDefault()} onDragStart={(e) => e.preventDefault()} onContextMenu={(e) => e.preventDefault()} style={{ userSelect: 'none', WebkitUserSelect: 'none', MozUserSelect: 'none', msUserSelect: 'none' }}>
-        <div className="max-w-md mx-auto">
-          <div className="bg-white rounded-3xl shadow-2xl p-6 mb-4">
+      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4 md:p-6 lg:p-8" onCopy={(e) => e.preventDefault()} onCut={(e) => e.preventDefault()} onDragStart={(e) => e.preventDefault()} onContextMenu={(e) => e.preventDefault()} style={{ userSelect: 'none', WebkitUserSelect: 'none', MozUserSelect: 'none', msUserSelect: 'none' }}>
+        <div className="max-w-md md:max-w-2xl lg:max-w-4xl mx-auto">
+          <div className="bg-white rounded-3xl shadow-2xl p-4 md:p-6 lg:p-8 mb-4">
             <div className="text-center mb-6">
               <Trophy className="w-20 h-20 text-yellow-500 mx-auto mb-4" />
               <h2 className="text-3xl font-bold text-gray-800 mb-2">
@@ -1269,9 +1269,9 @@ export default function ImprovedTestBankApp() {
   // Progress Screen
   if (screen === 'progress') {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4" onCopy={(e) => e.preventDefault()} onCut={(e) => e.preventDefault()} onDragStart={(e) => e.preventDefault()} onContextMenu={(e) => e.preventDefault()} style={{ userSelect: 'none', WebkitUserSelect: 'none', MozUserSelect: 'none', msUserSelect: 'none' }}>
-        <div className="max-w-md mx-auto">
-          <div className="bg-white rounded-3xl shadow-2xl p-6 mb-4">
+      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4 md:p-6 lg:p-8" onCopy={(e) => e.preventDefault()} onCut={(e) => e.preventDefault()} onDragStart={(e) => e.preventDefault()} onContextMenu={(e) => e.preventDefault()} style={{ userSelect: 'none', WebkitUserSelect: 'none', MozUserSelect: 'none', msUserSelect: 'none' }}>
+        <div className="max-w-md md:max-w-2xl lg:max-w-4xl mx-auto">
+          <div className="bg-white rounded-3xl shadow-2xl p-4 md:p-6 lg:p-8 mb-4">
             <div className="flex items-center justify-between mb-6">
               <h2 className="text-2xl font-bold text-gray-800">Progress Analytics</h2>
               <button onClick={() => setScreen('home')} className="text-blue-600" aria-label="Back to home">
@@ -1369,9 +1369,9 @@ export default function ImprovedTestBankApp() {
   // History Screen
   if (screen === 'history') {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4" onCopy={(e) => e.preventDefault()} onCut={(e) => e.preventDefault()} onDragStart={(e) => e.preventDefault()} onContextMenu={(e) => e.preventDefault()} style={{ userSelect: 'none', WebkitUserSelect: 'none', MozUserSelect: 'none', msUserSelect: 'none' }}>
-        <div className="max-w-md mx-auto">
-          <div className="bg-white rounded-3xl shadow-2xl p-6 mb-4">
+      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4 md:p-6 lg:p-8" onCopy={(e) => e.preventDefault()} onCut={(e) => e.preventDefault()} onDragStart={(e) => e.preventDefault()} onContextMenu={(e) => e.preventDefault()} style={{ userSelect: 'none', WebkitUserSelect: 'none', MozUserSelect: 'none', msUserSelect: 'none' }}>
+        <div className="max-w-md md:max-w-2xl lg:max-w-4xl mx-auto">
+          <div className="bg-white rounded-3xl shadow-2xl p-4 md:p-6 lg:p-8 mb-4">
             <div className="flex items-center justify-between mb-6">
               <h2 className="text-2xl font-bold text-gray-800">Test History</h2>
               <button onClick={() => setScreen('home')} className="text-blue-600" aria-label="Back to home">
