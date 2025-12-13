@@ -436,7 +436,7 @@ export default function ImprovedTestBankApp() {
           <div className="bg-white rounded-3xl shadow-2xl p-6 mb-4">
             <div className="flex items-center justify-center mb-6">
               <svg className="w-10 h-10 mr-2" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <g transform="translate(0,40) scale(0.1,-0.1)" fill="#FFFFFF" stroke="none">
+                <g transform="translate(0,40) scale(0.1,-0.1)" fill="#38BDF8" stroke="none">
                   <path d="M71 334 c-12 -15 -21 -36 -20 -48 1 -17 2 -15 9 7 17 56 43 69 95 45 18 -8 22 -14 13 -20 -26 -16 17 -8 61 12 52 24 65 25 85 4 9 -8 16 -12 16 -7 0 15 -23 33 -43 33 -10 0 -35 -7 -54 -16 -32 -16 -37 -16 -69 0 -48 22 -69 20 -93 -10z"/>
                   <path d="M331 295 c-1 -11 -12 -44 -26 -73 -14 -30 -25 -59 -25 -65 0 -7 14 19 31 56 17 37 28 76 26 85 -4 14 -5 13 -6 -3z"/>
                   <path d="M60 255 c0 -5 9 -32 20 -60 10 -27 19 -43 20 -34 0 9 -9 36 -20 60 -11 24 -20 40 -20 34z"/>
@@ -446,7 +446,10 @@ export default function ImprovedTestBankApp() {
                   <path d="M231 59 c-1 -9 2 -19 6 -22 8 -9 33 12 33 27 0 6 -6 2 -12 -9 -11 -19 -11 -19 -19 0 -6 15 -8 16 -8 4z"/>
                 </g>
               </svg>
-              <h1 className="text-2xl font-bold text-gray-800">Dental Hygiene Test Bank</h1>
+              <div className="flex flex-col">
+                <span className="text-xs font-medium text-gray-500 mb-1">Ontario</span>
+                <h1 className="text-2xl font-bold text-gray-800">Dental Hygiene Exam Question Bank</h1>
+              </div>
             </div>
             
             {detailedStats && (
@@ -603,7 +606,7 @@ export default function ImprovedTestBankApp() {
             <div className="space-y-3">
               <button
                 onClick={() => startTest(selectedSubject, null)}
-                className="w-full bg-gradient-to-r from-blue-500 to-blue-600 text-white py-4 rounded-xl font-semibold hover:shadow-lg transition-all flex items-center justify-center"
+                className="w-full bg-gradient-to-r from-blue-300 to-blue-400 text-white py-4 rounded-xl font-semibold hover:shadow-lg transition-all flex items-center justify-center"
               >
                 <Play className="w-5 h-5 mr-2" />
                 Start {studyMode ? 'Study Session' : 'Test'}
@@ -728,7 +731,7 @@ export default function ImprovedTestBankApp() {
                             />
                             <button
                               onClick={() => startTest(selectedSubject, subtopic)}
-                              className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-all flex items-center"
+                              className="bg-blue-400 text-white px-4 py-2 rounded-lg hover:bg-blue-500 transition-all flex items-center"
                               aria-label={`Start test for ${subtopic}`}
                             >
                               <Play className="w-4 h-4" />
@@ -769,7 +772,7 @@ export default function ImprovedTestBankApp() {
             <p className="text-gray-700 text-center">No questions available for this subject yet.</p>
             <button
               onClick={() => setScreen('home')}
-              className="w-full mt-4 bg-blue-600 text-white py-3 rounded-xl font-semibold"
+              className="w-full mt-4 bg-blue-400 text-white py-3 rounded-xl font-semibold"
             >
               Back to Home
             </button>
@@ -810,7 +813,7 @@ export default function ImprovedTestBankApp() {
             {/* Current test progress bar (blue) */}
             <div className="w-full bg-gray-200 rounded-full h-2 mb-2">
               <div 
-                className="bg-blue-600 h-2 rounded-full transition-all"
+                className="bg-blue-400 h-2 rounded-full transition-all"
                 style={{ width: `${((currentQuestionIndex + 1) / selectedQuestions.length) * 100}%` }}
               />
             </div>
@@ -824,7 +827,7 @@ export default function ImprovedTestBankApp() {
                 </div>
                 <div className="w-full bg-gray-200 rounded-full h-2">
                   <div 
-                    className="bg-green-600 h-2 rounded-full transition-all"
+                    className="bg-green-400 h-2 rounded-full transition-all"
                     style={{ width: `${((cumulativeQuestionsAnswered + currentQuestionIndex + 1) / totalTopicQuestions) * 100}%` }}
                   />
                 </div>
@@ -867,7 +870,7 @@ export default function ImprovedTestBankApp() {
                   <div className="space-y-3">
                     <button
                       onClick={() => setIsPaused(false)}
-                      className="w-full bg-gradient-to-r from-blue-500 to-blue-600 text-white px-6 py-3 rounded-xl font-semibold hover:shadow-lg transition-all flex items-center justify-center"
+                      className="w-full bg-gradient-to-r from-blue-300 to-blue-400 text-white px-6 py-3 rounded-xl font-semibold hover:shadow-lg transition-all flex items-center justify-center"
                     >
                       <Play className="w-5 h-5 mr-2" />
                       Resume Test
@@ -919,7 +922,7 @@ export default function ImprovedTestBankApp() {
                     buttonClass = 'bg-gray-100 text-gray-400';
                   }
                 } else if (isSelected) {
-                  buttonClass = 'bg-blue-600 text-white shadow-lg scale-105';
+                  buttonClass = 'bg-blue-400 text-white shadow-lg scale-105';
                 }
                 
                 return (
@@ -1014,8 +1017,8 @@ export default function ImprovedTestBankApp() {
               className={`w-full mt-6 py-4 rounded-xl font-bold text-lg transition-all ${
                 selectedAnswer !== null && !isPaused
                   ? isAnswerSubmitted 
-                    ? 'bg-gradient-to-r from-blue-500 to-blue-600 text-white hover:shadow-lg'
-                    : 'bg-gradient-to-r from-green-500 to-green-600 text-white hover:shadow-lg'
+                    ? 'bg-gradient-to-r from-blue-300 to-blue-400 text-white hover:shadow-lg'
+                    : 'bg-gradient-to-r from-green-300 to-green-400 text-white hover:shadow-lg'
                   : 'bg-gray-300 text-gray-500 cursor-not-allowed'
               }`}
             >
@@ -1100,7 +1103,7 @@ export default function ImprovedTestBankApp() {
 
             <button
               onClick={() => setScreen('results')}
-              className="w-full mt-4 bg-blue-600 text-white py-4 rounded-xl font-semibold hover:shadow-lg transition-all"
+              className="w-full mt-4 bg-blue-400 text-white py-4 rounded-xl font-semibold hover:shadow-lg transition-all"
             >
               Back to Results
             </button>
@@ -1171,14 +1174,14 @@ export default function ImprovedTestBankApp() {
               )}
               <button
                 onClick={() => startTest(selectedSubject, selectedSubtopic, true)}
-                className="w-full bg-gradient-to-r from-blue-500 to-blue-600 text-white py-4 rounded-xl font-semibold hover:shadow-lg transition-all flex items-center justify-center"
+                className="w-full bg-gradient-to-r from-blue-300 to-blue-400 text-white py-4 rounded-xl font-semibold hover:shadow-lg transition-all flex items-center justify-center"
               >
                 <Play className="w-5 h-5 mr-2" />
                 Retake Test (Same Questions)
               </button>
               <button
                 onClick={() => startTest(selectedSubject, selectedSubtopic, false)}
-                className="w-full bg-gradient-to-r from-green-500 to-green-600 text-white py-4 rounded-xl font-semibold hover:shadow-lg transition-all flex items-center justify-center"
+                className="w-full bg-gradient-to-r from-green-300 to-green-400 text-white py-4 rounded-xl font-semibold hover:shadow-lg transition-all flex items-center justify-center"
               >
                 <ChevronRight className="w-5 h-5 mr-2" />
                 Next Test (New Questions)
@@ -1275,7 +1278,7 @@ export default function ImprovedTestBankApp() {
                       </div>
                       <div className="w-full bg-gray-200 rounded-full h-3 mb-3">
                         <div 
-                          className="bg-gradient-to-r from-blue-500 to-purple-500 h-3 rounded-full transition-all"
+                          className="bg-gradient-to-r from-blue-300 to-purple-300 h-3 rounded-full transition-all"
                           style={{ width: `${avgScore}%` }}
                         />
                       </div>
@@ -1321,7 +1324,7 @@ export default function ImprovedTestBankApp() {
               <div className="flex gap-2 mb-4">
                 <button
                   onClick={exportResults}
-                  className="flex-1 bg-gradient-to-r from-green-500 to-green-600 text-white py-3 rounded-xl font-semibold hover:shadow-lg transition-all flex items-center justify-center"
+                  className="flex-1 bg-gradient-to-r from-green-300 to-green-400 text-white py-3 rounded-xl font-semibold hover:shadow-lg transition-all flex items-center justify-center"
                 >
                   <Download className="w-4 h-4 mr-2" />
                   Export CSV
