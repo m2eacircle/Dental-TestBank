@@ -1,13 +1,13 @@
 // LESSON 2 - Dental Radiography Theory Questions
-// Total: 1128 questions across 8 topics
+// Total: 1387 questions across 8 topics
 // Topics:
 //   1. Radiation History & Radiation Physics (275 questions)
 //   2. Dental X-ray Equipment, Film Processing (255 questions)
 //   3. Dental Radiography Theory (217 questions) - COMPLETE
 //   4. Dental Radiography Theory (235 questions) - COMPLETE
 //   5. Dental Radiography Theory (83 questions) - IN PROGRESS
-//   6. Dental Radiography Theory (ready for questions)
-//   7. Dental Radiography Theory (ready for questions)
+//   6. Dental Radiography Theory (245 questions) - COMPLETE  
+//   7. Dental Radiography Theory (85 questions) - COMPLETE
 //   8. Dental Radiography Theory (63 questions) - COMPLETE
 
 export const radiographyQuestions = {
@@ -1172,10 +1172,437 @@ export const radiographyQuestions = {
     { id: 2664, question: "Color codes for XCP:", options: ["Red = bitewing, Yellow = posterior PA, Blue = anterior PA", "Red = anterior PA, Yellow = bitewing, Blue = posterior", "Red = pano, Yellow = occlusal, Blue = CBCT", "All identical"], correct: 0 }
   ],
   "6. Dental Radiography Theory": [
-    // Questions to be added for this topic
+    // Density - Basic Concepts (10 questions)
+    { id: 2728, question: "In radiography, density of the image means:", options: ["Thickness of the enamel", "Number of crystals in the film", "Overall darkness or blackness of the radiographic image", "Amount of radiation produced by the tubehead"], correct: 2 },
+    { id: 2729, question: "A radiograph that appears very dark overall is described as having:", options: ["Low density", "High density", "No contrast", "High sharpness"], correct: 1 },
+    { id: 2730, question: "A radiograph that appears very light overall is described as having:", options: ["High density", "Low density", "Good contrast", "High magnification"], correct: 1 },
+    { id: 2731, question: "Radiographic density refers to:", options: ["Thickness of enamel", "Overall darkness/blackness of the image", "Sharpness of the object borders", "Contrast between tissues"], correct: 1 },
+    { id: 2732, question: "Density of a radiographic image refers to:", options: ["Thickness of enamel", "Overall darkness/blackness of the image", "Sharpness of the object borders", "Contrast between tissues"], correct: 1 },
+    { id: 2733, question: "Which THREE exposure factors directly control radiographic density?", options: ["mA, kVp, exposure time", "mA, focal spot size, filtration", "kVp, distance, collimation", "Exposure time, receptor size, distance"], correct: 0 },
+    { id: 2734, question: "Which three exposure factors directly control image density?", options: ["kVp, exposure time, mA", "kVp, millimeters, angulation", "Time, film speed, receptor color", "mA only"], correct: 0 },
+    { id: 2735, question: "Which set of factors directly increases density?", options: ["mA ↑, kVp ↑, exposure time ↑", "PID length ↑, kVp ↓", "Receptor speed ↑, mA ↓", "Distance ↑, exposure time ↓"], correct: 0 },
+    { id: 2736, question: "Which of the following does NOT affect radiographic density?", options: ["mA", "kVp", "Exposure time", "Tooth morphology"], correct: 3 },
+    { id: 2737, question: "If an image appears 'too light,' which factor is MOST likely too low?", options: ["kVp", "mA", "Exposure time", "All of the above"], correct: 3 },
+
+    // mA and Density (6 questions)
+    { id: 2738, question: "Increasing mA will:", options: ["Decrease density (lighter image)", "Increase density (darker image)", "Only affect sharpness", "Only affect contrast"], correct: 1 },
+    { id: 2739, question: "The primary function of mA in X-ray production is to:", options: ["Control penetration power of the beam", "Regulate the temperature of the filament and number of electrons produced", "Adjust focal spot size", "Change the size of the PID"], correct: 1 },
+    { id: 2740, question: "Why is mA usually NOT adjusted frequently in dental practice?", options: ["It has no effect on density", "It is fixed to an ideal range (e.g., 7–15 mA) and changing it can cause confusion and errors", "It is too expensive to change", "It is controlled automatically by the patient"], correct: 1 },
+    { id: 2741, question: "The ideal mA range for most dental X-ray units is around:", options: ["1–3 mA", "7–15 mA", "20–30 mA", "40–60 mA"], correct: 1 },
+    { id: 2742, question: "In dental radiography, the ideal mA range is approximately:", options: ["1–3 mA", "7–15 mA", "30–50 mA", "70–100 mA"], correct: 1 },
+    { id: 2743, question: "Increased mA will result in:", options: ["Decreased density (lighter image)", "Increased density (darker image)", "No change", "Increased distortion"], correct: 1 },
+
+    // kVp and Density/Contrast (15 questions)
+    { id: 2744, question: "Increasing kVp will generally cause the image to become:", options: ["Lighter with more contrast", "Darker with lower contrast", "Lighter with lower contrast", "Unchanged in density"], correct: 1 },
+    { id: 2745, question: "Decreasing kVp will cause the image to be:", options: ["Lighter with higher contrast", "Darker with higher contrast", "Darker with lower contrast", "Unchanged in contrast"], correct: 0 },
+    { id: 2746, question: "The ideal kVp range commonly used for dental radiography is approximately:", options: ["40–50 kVp", "55–60 kVp", "65–70 kVp", "90–120 kVp"], correct: 2 },
+    { id: 2747, question: "When kVp is reduced but mA and time remain constant, the result is:", options: ["Darker image with low contrast", "Lighter image with high contrast", "Darker image with no contrast", "Unchanged density"], correct: 1 },
+    { id: 2748, question: "Increasing kVp has what effect on contrast?", options: ["Increases high contrast", "Creates a short-scale contrast", "Decreases contrast (more gray shades)", "No effect on contrast"], correct: 2 },
+    { id: 2749, question: "An image that appears slightly darker but still clear and diagnostic most likely used:", options: ["Very high mA", "Slightly higher kVp than ideal", "Too long exposure time", "A large focal spot"], correct: 1 },
+    { id: 2750, question: "Which factor affects both density AND contrast?", options: ["mA", "Exposure time", "kVp", "Focal spot size"], correct: 2 },
+    { id: 2751, question: "The factor that controls contrast MOST strongly is:", options: ["mA", "Exposure time", "kVp", "Processing temperature"], correct: 2 },
+    { id: 2752, question: "High kVp produces:", options: ["High contrast (short-scale)", "Low contrast (long-scale)", "No change", "Cone cut"], correct: 1 },
+    { id: 2753, question: "Low kVp produces:", options: ["Low contrast (long scale)", "High contrast (short scale)", "Image distortion", "Motion blur"], correct: 1 },
+    { id: 2754, question: "A patient has a thick jawbone and strong bone density. The operator should:", options: ["Decrease kVp", "Increase kVp", "Decrease mA", "Turn off the PID"], correct: 1 },
+    { id: 2755, question: "If contrast is poor (too low) but density looks correct, the best adjustment is to:", options: ["Increase mA", "Decrease exposure time", "Lower the kVp", "Increase the PID length"], correct: 2 },
+    { id: 2756, question: "If contrast is poor (too many gray areas, 'washed out'), the best adjustment is:", options: ["Increase exposure time", "Increase mA", "Lower the kVp", "Increase the focal spot size"], correct: 2 },
+    { id: 2757, question: "A radiograph shows proper density but extremely low contrast. This most likely occurred because:", options: ["kVp is too low", "kVp is too high", "Exposure time is too short", "mA is too low"], correct: 1 },
+    { id: 2758, question: "A radiograph with correct density but extremely low contrast is likely due to:", options: ["Excessively low kVp", "Excessively high kVp", "Excessively high mA", "Insufficient exposure time"], correct: 1 },
+
+    // Exposure Time (5 questions)
+    { id: 2759, question: "Increasing exposure time will:", options: ["Decrease density (lighter)", "Increase density (darker)", "Only affect contrast", "Only affect sharpness"], correct: 1 },
+    { id: 2760, question: "In daily clinical use, which factor is usually adjusted for different patients/tooth areas?", options: ["mA only", "kVp only", "Exposure time", "Focal spot size"], correct: 2 },
+    { id: 2761, question: "Which exposure factor is adjusted MOST often in clinical practice?", options: ["mA", "kVp", "Exposure time", "Focal spot size"], correct: 2 },
+    { id: 2762, question: "When exposure time increases and all other factors remain constant, the image will:", options: ["Become darker", "Become lighter", "Have lower contrast", "Have sharper root outlines"], correct: 0 },
+    { id: 2763, question: "If mA is increased while kVp and time remain constant, what happens?", options: ["Contrast increases", "Density increases", "Sharpness increases", "Distortion decreases"], correct: 1 },
+
+    // Subject Thickness (3 questions)
+    { id: 2764, question: "Subject (patient) thickness influences density because:", options: ["Thicker tissues absorb more x-rays, making the image lighter", "Thicker tissues always appear darker", "Thin tissues always cause cone-cut", "It only affects contrast, not density"], correct: 0 },
+    { id: 2765, question: "In a very large patient with thick bone and many metal restorations, you might expect the image to be:", options: ["Overall darker unless kVp is reduced", "Overall lighter unless kVp is increased", "Unchanged compared to a child", "Always overexposed"], correct: 1 },
+    { id: 2766, question: "A radiograph appears very light, even though no movement occurred. The most likely cause is:", options: ["Low subject thickness", "Very thick bone or multiple restorations", "Increased kVp", "High mA"], correct: 1 },
+
+    // Contrast - Basic Concepts (12 questions)
+    { id: 2767, question: "Contrast is defined as:", options: ["Overall darkness of the radiograph", "The ability to see the root tips clearly", "The difference in degrees of blackness between adjacent areas", "The thickness of the receptor"], correct: 2 },
+    { id: 2768, question: "Radiographic contrast refers to:", options: ["Overall darkness", "The difference in degrees of blackness between adjacent areas", "The amount of scatter radiation", "The number of electrons in the filament"], correct: 1 },
+    { id: 2769, question: "A radiograph that is mostly just black and white with very few shades of gray has:", options: ["High contrast (short-scale contrast)", "Low contrast (long-scale contrast)", "No contrast", "Only geometric distortion"], correct: 0 },
+    { id: 2770, question: "A radiograph that shows many different shades of gray between black and white has:", options: ["High contrast", "Low contrast (long-scale)", "No density", "Only geometric error"], correct: 1 },
+    { id: 2771, question: "A radiograph with very few gray shades, mostly black and white, has:", options: ["Low contrast", "High contrast", "No density", "Underexposure"], correct: 1 },
+    { id: 2772, question: "High contrast means:", options: ["Many shades of gray", "Black and white with few gray tones", "Image is blurry", "Image is magnified"], correct: 1 },
+    { id: 2773, question: "Low contrast means:", options: ["Only two tones are visible", "Many shades of gray", "Extremely dark image", "Narrow grayscale"], correct: 1 },
+    { id: 2774, question: "A radiograph showing clear enamel–dentin differences and visible pulp horns suggests:", options: ["Good contrast and good density", "Low density", "Low contrast", "Severe distortion"], correct: 0 },
+    { id: 2775, question: "A radiograph showing extremely white enamel, very black pulp, and almost no gray shades indicates:", options: ["Low contrast", "High contrast", "Low density", "Motion blur"], correct: 1 },
+    { id: 2776, question: "A radiograph shows many visible gray levels and subtle differences in density. This indicates:", options: ["High contrast", "Low contrast", "High distortion", "Underexposure"], correct: 1 },
+    { id: 2777, question: "A radiograph shows very clear enamel/dentin contrast, but the image is too dark. The problem is MOST likely:", options: ["High mA / time", "Low kVp", "Large focal spot", "Excessive object–film distance"], correct: 0 },
+    { id: 2778, question: "If the radiograph is too dark but contrast is acceptable, what should be adjusted first?", options: ["Lower mA or exposure time", "Increase kVp", "Move PID farther", "Use a larger focal spot"], correct: 0 },
+
+    // Short-Scale vs Long-Scale Contrast (10 questions)
+    { id: 2779, question: "High contrast (short-scale contrast) is associated with:", options: ["High kVp", "Low kVp", "High mA only", "Exposure time only"], correct: 1 },
+    { id: 2780, question: "Low contrast (long-scale contrast with many grays) is associated with:", options: ["High kVp", "Low kVp", "Very low mA", "Very short exposure time"], correct: 0 },
+    { id: 2781, question: "Short-scale contrast is another name for:", options: ["Low contrast", "High contrast", "No contrast", "Poor density"], correct: 1 },
+    { id: 2782, question: "Long-scale contrast is another name for:", options: ["High contrast", "Low contrast", "Overexposure", "Underexposure"], correct: 1 },
+    { id: 2783, question: "Short-scale contrast is associated with:", options: ["High kVp", "Low kVp", "Long exposure time", "Large focal spot"], correct: 1 },
+    { id: 2784, question: "Long-scale contrast (many shades of gray) occurs when:", options: ["kVp is increased", "kVp is decreased", "mA is low", "Exposure time is too short"], correct: 0 },
+    { id: 2785, question: "Short-scale contrast is produced when:", options: ["kVp is increased", "mA is decreased", "kVp is decreased", "Exposure time increases"], correct: 2 },
+    { id: 2786, question: "Long-scale contrast means:", options: ["Mostly black & white with few grays", "Many gray shades between black and white", "Image appears underexposed", "It only occurs in film radiography"], correct: 1 },
+    { id: 2787, question: "Which kVp setting creates long-scale (low) contrast?", options: ["50 kVp", "60 kVp", "70–100 kVp", "40 kVp"], correct: 2 },
+    { id: 2788, question: "If a radiograph appears very dark but contrast looks acceptable, the first adjustment should be:", options: ["Lower exposure time or mA", "Increase kVp", "Increase PID length", "Move the receptor closer"], correct: 0 },
+
+    // Step Wedge (8 questions)
+    { id: 2789, question: "A step wedge (usually aluminum) is used to:", options: ["Measure patient movement", "Test sharpness only", "Demonstrate and evaluate contrast and density changes", "Check focal spot size"], correct: 2 },
+    { id: 2790, question: "On a step wedge image, the thickest part of the aluminum will appear:", options: ["Darkest, because more x-rays pass through", "Lightest, because it absorbs more x-rays", "Gray, because it bends the x-rays", "Invisible on the radiograph"], correct: 1 },
+    { id: 2791, question: "If a step wedge image taken at very low kVp shows only a few distinct steps (almost just black and white), the contrast is:", options: ["Low contrast, long scale", "High contrast, short scale", "No contrast", "Impossible to interpret"], correct: 1 },
+    { id: 2792, question: "A step-wedge is used to evaluate:", options: ["Filtration", "Movement", "Contrast and density", "Exposure time only"], correct: 2 },
+    { id: 2793, question: "On a step wedge radiograph, the thickest step will appear:", options: ["Darkest", "Medium gray", "Lightest", "Unchanged"], correct: 2 },
+    { id: 2794, question: "The step wedge becomes useful for evaluating contrast because:", options: ["All steps absorb equal amounts of radiation", "Each aluminum step has a different thickness", "It creates scatter radiation", "It increases image sharpness"], correct: 1 },
+    { id: 2795, question: "The thickest part of the step wedge results in a radiograph that appears:", options: ["Darkest", "Medium-gray", "Lightest", "Unchanged"], correct: 2 },
+    { id: 2796, question: "A stepwedge image showing MANY shades of gray indicates:", options: ["Short-scale contrast", "Long-scale contrast", "No penetration", "Underexposure"], correct: 1 },
+
+    // Additional Contrast Questions (2 questions)
+    { id: 2797, question: "A stepwedge radiograph taken at low kVp will show:", options: ["More gray levels", "Fewer gray levels", "Image almost black", "No density"], correct: 1 },
+    { id: 2798, question: "A radiograph appears too light even after proper exposure settings and no motion. The likely cause is:", options: ["Thick subject (dense bone or many restorations)", "Small focal spot", "Long exposure time", "Film bending"], correct: 0 },
+
+    // Geometric Characteristics (2 questions)
+    { id: 2799, question: "Geometric characteristics of an image include:", options: ["Density and contrast only", "Density, contrast, brightness", "Sharpness, magnification, distortion", "Subject thickness and exposure time"], correct: 2 },
+    { id: 2800, question: "A diagnostic-quality radiograph must have:", options: ["Very high density", "Acceptable density, contrast, sharpness, and minimal distortion", "Only sharpness", "Only high contrast"], correct: 1 },
+
+    // Sharpness - Basic Concepts (15 questions)
+    { id: 2801, question: "Sharpness is also called:", options: ["Density", "Resolution or definition", "Magnification", "Distortion"], correct: 1 },
+    { id: 2802, question: "Sharpness refers to the:", options: ["Overall darkness of the film", "Ability to see small structures and edges clearly", "Size of the image on the film", "Amount of radiation used"], correct: 1 },
+    { id: 2803, question: "A radiograph with blurry root edges and indistinct outlines has:", options: ["High contrast", "Poor sharpness (unsharp image)", "Correct geometry", "Ideal density"], correct: 1 },
+    { id: 2804, question: "Sharpness (definition) refers to:", options: ["The brightness of the film", "The clarity of small structures and edges", "The number of pixels in a sensor", "The patient's skeletal size"], correct: 1 },
+    { id: 2805, question: "Radiographic sharpness is improved when:", options: ["The focal spot is small", "The focal spot is large", "The receptor moves during exposure", "The patient moves slightly"], correct: 0 },
+    { id: 2806, question: "Sharpness refers to:", options: ["Darkness of the image", "Clarity and detail of object outlines", "Size of the X-ray beam", "Color of the receptor"], correct: 1 },
+    { id: 2807, question: "Which factor improves sharpness?", options: ["Small focal spot", "Large focal spot", "Motion of patient", "Increased object–receptor distance"], correct: 0 },
+    { id: 2808, question: "Sharpness decreases when:", options: ["Focal spot is small", "Patient remains still", "Film moves during exposure", "Exposure time is reduced"], correct: 2 },
+    { id: 2809, question: "Which factor most strongly affects image sharpness?", options: ["mA", "kVp", "Focal spot size", "Filtration only"], correct: 2 },
+    { id: 2810, question: "Smaller focal spot size will:", options: ["Increase unsharpness", "Decrease sharpness", "Improve sharpness and reduce penumbra", "Have no effect on the image"], correct: 2 },
+    { id: 2811, question: "Larger focal spot size produces:", options: ["Less penumbra and more sharpness", "More penumbra and less sharpness", "No penumbra", "Faster exposure times only"], correct: 1 },
+    { id: 2812, question: "A cause of unsharpness (penumbra) is:", options: ["Small focal spot", "Large focal spot", "Short exposure time", "High contrast"], correct: 1 },
+    { id: 2813, question: "In film radiography, smaller silver halide crystals will:", options: ["Produce a less sharp image but faster speed", "Produce a sharper image but slower speed (more exposure needed)", "Have no effect on sharpness", "Stop all radiation"], correct: 1 },
+    { id: 2814, question: "Larger silver halide crystals in film:", options: ["Increase speed and reduce exposure needed, but decrease sharpness", "Reduce speed and increase sharpness", "Do not affect sharpness or speed", "Always create perfect images"], correct: 0 },
+    { id: 2815, question: "Film with larger crystals will have:", options: ["Higher sharpness", "Lower sharpness", "No effect", "More distortion"], correct: 1 },
+
+    // Motion and Penumbra (9 questions)
+    { id: 2816, question: "Motion (patient, film, or tubehead) during exposure will:", options: ["Improve contrast", "Improve sharpness", "Decrease sharpness and cause blur", "Only change density"], correct: 2 },
+    { id: 2817, question: "Motion (patient, film, or tubehead) causes:", options: ["Increased contrast", "Decreased sharpness", "Increased density", "No effect on the image"], correct: 1 },
+    { id: 2818, question: "Motion unsharpness can be caused by:", options: ["Only patient movement", "Only tubehead movement", "Only receptor movement", "Any movement of patient, receptor, or tubehead"], correct: 3 },
+    { id: 2819, question: "Motion causes:", options: ["Foreshortening", "Cone cut", "Unsharpness (blurring)", "High contrast"], correct: 2 },
+    { id: 2820, question: "Movement during exposure affects:", options: ["Magnification only", "Distortion only", "Sharpness (blurring)", "Exposure time"], correct: 2 },
+    { id: 2821, question: "Penumbra is best defined as:", options: ["The central beam of radiation", "The blurred, unsharp area at the edge of an image (shadow edge)", "The darkest area of the film", "The lightest part of the film"], correct: 1 },
+    { id: 2822, question: "Penumbra is defined as:", options: ["The darkest area on the film", "The blurred, unsharp edge of an image", "The distance between the tube and the film", "The part of the film not exposed to x-rays"], correct: 1 },
+    { id: 2823, question: "Penumbra is created when:", options: ["Focal spot size increases", "mA increases", "kVp decreases", "Patient closes mouth completely"], correct: 0 },
+    { id: 2824, question: "Why is a true point source focal spot (single dot) NOT possible in dental X-ray tubes?", options: ["It would be too expensive", "It would not produce any x-rays", "Concentrating all heat in a tiny point would damage or melt the target", "It would make the image too sharp"], correct: 2 },
+
+    // Additional Sharpness Questions (3 questions)
+    { id: 2825, question: "Why can't dental X-ray tubes use a true point-source focal spot?", options: ["It produces poor contrast", "It decreases density", "It cannot handle the intense heat produced", "It is too expensive to manufacture"], correct: 2 },
+    { id: 2826, question: "Why is complete elimination of penumbra impossible?", options: ["The X-ray beam is too weak", "A true point-source focal spot cannot be used due to heat production", "X-ray photons cannot travel in straight lines", "Receptors cannot absorb enough photons"], correct: 1 },
+    { id: 2827, question: "Larger film crystal size results in:", options: ["Increased sharpness and slower film speed", "Decreased sharpness and faster film speed", "Increased contrast only", "Greater magnification"], correct: 1 },
+
+    // Magnification - Basic Concepts (18 questions)
+    { id: 2828, question: "Magnification in a radiograph means:", options: ["The tooth appears exactly the same size as in the mouth", "The tooth appears larger or smaller than its actual size on the image", "The tooth appears darker", "The tooth appears more radiopaque"], correct: 1 },
+    { id: 2829, question: "Magnification error is increased when:", options: ["The receptor is placed very close to the tooth", "The PID is long", "The object–receptor distance increases", "The focal spot is small"], correct: 2 },
+    { id: 2830, question: "Magnification is caused by:", options: ["Parallel X-ray beams", "Divergent X-ray beams", "Low mA", "Processing errors"], correct: 1 },
+    { id: 2831, question: "Magnification increases when:", options: ["Object–receptor distance increases", "PID length increases", "Receptor is very close to the tooth", "kVp is low"], correct: 0 },
+    { id: 2832, question: "Increasing object–receptor distance results in:", options: ["More magnification", "Less magnification", "No change", "Lower contrast"], correct: 0 },
+    { id: 2833, question: "Image magnification on a dental radiograph is mainly caused by:", options: ["Parallel x-ray beams", "Divergent x-ray beams", "Increased processing time", "Small focal spot"], correct: 1 },
+    { id: 2834, question: "In dental radiography, magnification means:", options: ["The image appears smaller than the object", "The image appears the same size as the object", "The image appears larger than the object", "The image appears darker than the object"], correct: 2 },
+    { id: 2835, question: "Magnification primarily occurs because X-ray beams are:", options: ["Parallel", "Divergent", "Focused", "Reflected"], correct: 1 },
+    { id: 2836, question: "Some degree of magnification always exists because:", options: ["Beam is parallel", "Beam is divergent", "PID blocks it", "Tooth thickness varies"], correct: 1 },
+    { id: 2837, question: "Which concept explains why images are always slightly magnified?", options: ["Scatter", "Beam divergence", "Poor contrast", "Film grain size"], correct: 1 },
+    { id: 2838, question: "The 'shadow size' of the tooth increases when:", options: ["Source is farther away", "Source is closer", "Receptor is closer", "Vertical angulation is zero"], correct: 1 },
+    { id: 2839, question: "A radiograph taken with a short PID is more likely to show:", options: ["Less magnification", "More magnification", "Less density", "More contrast"], correct: 1 },
+    { id: 2840, question: "Which distance is also called 'target–receptor distance'?", options: ["Target–object distance", "Source–film/receptor distance", "Object–receptor distance", "PID–skin distance only"], correct: 1 },
+    { id: 2841, question: "To reduce magnification, the target–receptor distance should be:", options: ["Increased", "Decreased", "Random", "Equal to object–PID distance"], correct: 0 },
+    { id: 2842, question: "To reduce magnification, the target-receptor distance must be:", options: ["Short", "Long", "Random", "Equal to object-receptor distance"], correct: 1 },
+    { id: 2843, question: "A longer PID results in:", options: ["More magnification", "Less magnification", "More contrast", "Darker image"], correct: 1 },
+    { id: 2844, question: "A shorter PID results in:", options: ["Less magnification", "More magnification", "Image elongation", "Image foreshortening only"], correct: 1 },
+    { id: 2845, question: "According to projection geometry, to reduce magnification, the distance between the target and receptor should be:", options: ["As short as possible", "As long as possible", "Constant at 8 inches", "Zero"], correct: 1 },
+
+    // More Magnification - PID Details (13 questions)
+    { id: 2846, question: "In practice, using a longer PID will:", options: ["Decrease target–receptor distance and increase magnification", "Decrease target–receptor distance and decrease magnification", "Increase target–receptor distance and decrease magnification", "Increase target–receptor distance and increase magnification"], correct: 2 },
+    { id: 2847, question: "What is the ideal target–receptor distance in the paralleling technique?", options: ["4 inches", "8 inches", "12 inches", "16 inches"], correct: 3 },
+    { id: 2848, question: "Ideal target–receptor distance in paralleling technique is:", options: ["8 inches", "10 inches", "12 inches", "16 inches"], correct: 3 },
+    { id: 2849, question: "The ideal target–receptor distance used in the paralleling technique is:", options: ["8 inches", "10 inches", "12 inches", "16 inches"], correct: 3 },
+    { id: 2850, question: "Why can't we make the target–receptor distance much longer than 16 inches?", options: ["The receptor will overheat", "The patient cannot stay still", "X-ray intensity becomes too low (too weak)", "The focal spot will enlarge"], correct: 2 },
+    { id: 2851, question: "The recommended distance (16 inches) cannot be increased indefinitely because:", options: ["Beam intensity will become too low", "Sensor cannot detect long beams", "Patient movement increases", "Exposure time becomes too short"], correct: 0 },
+    { id: 2852, question: "Modern dental x-ray tubes place the focal spot toward the back (rear) of the tubehead mainly to:", options: ["Decrease source–receptor distance", "Increase effective source–receptor distance inside the head", "Eliminate the need for a PID", "Produce cone-shaped beams"], correct: 1 },
+    { id: 2853, question: "In modern x-ray units, placing the focal spot toward the rear of the tubehead helps:", options: ["Shorten the effective source–receptor distance", "Lengthen the effective source–receptor distance inside the head", "Eliminate the need for a receptor holder", "Prevent foreshortening only"], correct: 1 },
+    { id: 2854, question: "Newer X-ray units place the focal spot at the rear of the tubehead to:", options: ["Shorten the target–receptor distance", "Lengthen the effective target–receptor distance", "Increase distortion", "Reduce exposure time"], correct: 1 },
+    { id: 2855, question: "Even when using a short PID, magnification may be reduced in modern units because:", options: ["mA is higher", "kVp is higher", "Focal spot is positioned at the back", "Films are faster"], correct: 2 },
+    { id: 2856, question: "Tubehead focal spot placed at the rear of the tubehead compensates for:", options: ["Shorter PID", "Film speed", "Angulation errors", "Exposure time"], correct: 0 },
+    { id: 2857, question: "Object–receptor distance refers to the distance between:", options: ["Tubehead and patient skin", "Target and receptor", "Tooth and receptor", "Sensor and PID"], correct: 2 },
+    { id: 2858, question: "To reduce magnification, the object (tooth) and the receptor should be:", options: ["Far apart", "As close together as possible", "At right angles to each other", "Overlapping"], correct: 1 },
+
+    // Object-Receptor Distance (6 questions)
+    { id: 2859, question: "Object–receptor distance should be:", options: ["As large as possible", "As small as possible", "Equal to PID length", "Irrelevant to magnification"], correct: 1 },
+    { id: 2860, question: "What happens if the object–receptor distance is increased?", options: ["Magnification increases", "Magnification decreases", "Density decreases only", "Contrast increases only"], correct: 0 },
+    { id: 2861, question: "Increasing object–receptor distance causes:", options: ["Less magnification", "More magnification", "More contrast", "Lower kVp requirements"], correct: 1 },
+    { id: 2862, question: "Which combination best minimizes magnification?", options: ["Short target–receptor distance, long object–receptor distance", "Long target–receptor distance, long object–receptor distance", "Short target–receptor distance, short object–receptor distance", "Long target–receptor distance, short object–receptor distance"], correct: 3 },
+    { id: 2863, question: "To minimize magnification, which combination is ideal?", options: ["Long target–receptor distance + short object–receptor distance", "Short target–receptor distance + long object–receptor distance", "Short + short", "Long + long"], correct: 0 },
+    { id: 2864, question: "Which statement is TRUE regarding magnification control in paralleling technique?", options: ["Short PID and large object–receptor distance are ideal", "Long PID and small object–receptor distance are ideal", "PID length has no effect on magnification", "Only mA controls magnification"], correct: 1 },
+
+    // Magnification Summary (4 questions)
+    { id: 2865, question: "In the paralleling technique, why is a long PID especially important?", options: ["Because it reduces exposure time", "Because object–receptor distance is often increased and we must reduce magnification", "Because it decreases patient dose automatically", "Because it improves contrast only"], correct: 1 },
+    { id: 2866, question: "The MOST important geometric rule to reduce magnification is:", options: ["Long target–receptor distance", "Horizontal angulation", "Film speed", "Collimator size"], correct: 0 },
+    { id: 2867, question: "Which concept explains why images are always slightly magnified?", options: ["Scatter", "Beam divergence", "Poor contrast", "Film grain size"], correct: 1 },
+    { id: 2868, question: "The 'shadow size' of the tooth increases when:", options: ["Source is farther away", "Source is closer", "Receptor is closer", "Vertical angulation is zero"], correct: 1 },
+
+    // Distortion - Basic Concepts (12 questions)
+    { id: 2869, question: "Distortion is defined as:", options: ["Any change in density of the image", "Any change in size and/or shape of the image compared to the object", "Any change in contrast of the image", "Any increase in exposure time"], correct: 1 },
+    { id: 2870, question: "Distortion refers to:", options: ["Density changes", "Unequal magnification causing shape alteration", "Very dark radiograph", "Excessive contrast"], correct: 1 },
+    { id: 2871, question: "Distortion refers to:", options: ["Density variation", "Shape change due to unequal magnification", "Film fog", "Noise"], correct: 1 },
+    { id: 2872, question: "Distortion can be described as:", options: ["Equal magnification of all parts of the object", "Unequal magnification of different parts of the object", "Underexposure of the image", "Overdevelopment of the film"], correct: 1 },
+    { id: 2873, question: "Which factor MOST directly causes both magnification and some distortion due to beam geometry?", options: ["Divergent nature of x-ray beams", "Size of the receptor", "Color of the PID", "Speed of the film"], correct: 0 },
+    { id: 2874, question: "Slight magnification and distortion are:", options: ["Always completely absent in good radiographs", "Always severe in all radiographs", "Always present to some degree but should be minimized", "Only present when exposure time is high"], correct: 2 },
+    { id: 2875, question: "Which is ALWAYS true in dental radiography?", options: ["Some magnification & distortion always exist", "Image can be 100% distortion-free", "Only film causes errors", "Sensor eliminates magnification"], correct: 0 },
+    { id: 2876, question: "Distortion occurs when:", options: ["Beam is perpendicular to both tooth & receptor", "Tooth and receptor are parallel", "Beam is not perpendicular to both", "PID is long"], correct: 2 },
+    { id: 2877, question: "A key requirement to reduce shape distortion is:", options: ["Receptor and tooth must be parallel to each other", "Receptor and tooth must form a 45° angle", "Receptor must touch the PID", "Central ray must be parallel to the receptor"], correct: 0 },
+    { id: 2878, question: "To avoid distortion, the tooth and receptor must be:", options: ["Perpendicular", "Parallel", "At 45°", "Slightly overlapped"], correct: 1 },
+    { id: 2879, question: "For minimum distortion, the tooth and receptor must be:", options: ["Perpendicular", "Parallel", "At 45°", "Touching the PID"], correct: 1 },
+    { id: 2880, question: "The MOST important geometric rule to reduce distortion is:", options: ["High kVp", "Proper parallelism", "Longer exposure time", "Short PID"], correct: 1 },
+
+    // Central Ray Positioning (7 questions)
+    { id: 2881, question: "For minimal distortion in paralleling technique, the central ray should be:", options: ["Parallel to the tooth only", "Parallel to the receptor only", "Perpendicular to both the tooth and the receptor", "At 45° to the tooth"], correct: 2 },
+    { id: 2882, question: "For accurate radiographic image formation, the central ray must be:", options: ["Parallel to the receptor", "Perpendicular to both tooth and receptor", "At 20° angulation", "Directed randomly"], correct: 1 },
+    { id: 2883, question: "The central ray should be directed:", options: ["Parallel to tooth", "Perpendicular to tooth only", "Perpendicular to receptor only", "Perpendicular to BOTH tooth and receptor"], correct: 3 },
+    { id: 2884, question: "Which situation BEST follows the rules of projection geometry in the paralleling technique?", options: ["Tooth and receptor at an angle, beam perpendicular to receptor only", "Tooth and receptor parallel, beam perpendicular to both", "Tooth and receptor parallel, beam parallel to both", "Tooth and receptor at 45°, beam perpendicular to tooth"], correct: 1 },
+    { id: 2885, question: "If the tooth and receptor are not parallel and the central ray is made perpendicular to the receptor only, what is most likely to occur?", options: ["Correct image", "Foreshortening", "Elongation", "Cone cut"], correct: 1 },
+    { id: 2886, question: "If the tooth and receptor are not parallel and the beam is perpendicular to the receptor only, what occurs?", options: ["Correct image", "Foreshortening", "Elongation", "Cone cut"], correct: 1 },
+    { id: 2887, question: "When central ray is perpendicular to receptor but NOT the tooth, the image will be:", options: ["Normal", "Foreshortened", "Elongated", "Magnification-free"], correct: 1 },
+
+    // Foreshortening (9 questions)
+    { id: 2888, question: "Foreshortening of the image occurs when:", options: ["Vertical angulation is too steep (too much)", "Vertical angulation is too shallow (too little)", "Horizontal angulation is too steep", "The PID is too long"], correct: 0 },
+    { id: 2889, question: "Foreshortening occurs when:", options: ["Vertical angulation is too steep", "Vertical angulation is too shallow", "PID is too long", "Tooth and receptor are parallel"], correct: 0 },
+    { id: 2890, question: "Foreshortening is caused by:", options: ["Too little vertical angulation", "Too steep vertical angulation", "Short PID", "Incorrect horizontal angulation"], correct: 1 },
+    { id: 2891, question: "When the tooth and receptor are parallel but vertical angulation is too steep, the result will be:", options: ["Correct image", "Elongation", "Foreshortening", "Cone cut"], correct: 2 },
+    { id: 2892, question: "If tooth and receptor are parallel but the beam is angled too steeply, the result is:", options: ["Foreshortening", "Elongation", "No distortion", "Magnification only"], correct: 0 },
+    { id: 2893, question: "Which situation BEST describes conditions that lead to foreshortening?", options: ["Tooth and receptor are parallel, beam perpendicular to both", "Tooth and receptor are parallel, beam parallel to both", "Tooth and receptor are not parallel, beam perpendicular to receptor", "Tooth and receptor are not parallel, beam parallel to receptor"], correct: 2 },
+    { id: 2894, question: "When tooth and receptor are not parallel but the beam hits tooth perpendicularly, the result is:", options: ["Foreshortening", "Elongation", "Cone cut", "High contrast"], correct: 0 },
+    { id: 2895, question: "In the teacher's 'balcony example,' a person viewed from the 20th floor appears:", options: ["Normal length", "Shorter (foreshortened)", "Longer (elongated)", "The same as on ground level"], correct: 1 },
+    { id: 2896, question: "When beam angulation exceeds 90° relative to the tooth, the tooth will appear:", options: ["Longer", "Shorter", "Unchanged", "Blurred only"], correct: 1 },
+
+    // Elongation (8 questions)
+    { id: 2897, question: "Elongation of the image occurs when:", options: ["Vertical angulation is too steep", "Vertical angulation is too shallow (insufficient)", "Horizontal angulation is too shallow", "The tooth and receptor are exactly parallel"], correct: 1 },
+    { id: 2898, question: "Elongation occurs when:", options: ["Vertical angulation is excessive", "Vertical angulation is insufficient (too little)", "Horizontal angulation is incorrect", "kVp is low"], correct: 1 },
+    { id: 2899, question: "Elongation is caused by:", options: ["Too steep vertical angulation", "Too little vertical angulation", "Too long PID", "Too large focal spot"], correct: 1 },
+    { id: 2900, question: "A patient is imaged with the vertical angulation too little. The radiograph will show:", options: ["Foreshortening", "Elongation", "High contrast", "Cone cut"], correct: 1 },
+    { id: 2901, question: "When vertical angulation is too low, the image appears:", options: ["Normal", "Foreshortened", "Elongated", "Too dark"], correct: 2 },
+    { id: 2902, question: "A radiograph shows a tooth that appears much longer than its actual length. Which is the BEST interpretation?", options: ["Foreshortening due to excessive vertical angulation", "Elongation due to insufficient vertical angulation", "Cone cut due to misaligned PID", "Overlapping due to wrong horizontal angulation"], correct: 1 },
+    { id: 2903, question: "In the same example, viewing from a lower floor (e.g., 2nd floor) makes the object look:", options: ["Shorter", "Longer", "Completely faded", "Cone-cut"], correct: 1 },
+    { id: 2904, question: "When vertical angulation exceeds 90°, the object appears:", options: ["Normal", "Longer", "Shorter", "Less dense"], correct: 2 },
+
+    // Additional Distortion & Geometry (5 questions)
+    { id: 2905, question: "The analogy of looking from 20th floor vs 2nd floor illustrates:", options: ["Density changes", "Effects of vertical angulation on distortion", "Contrast adjustment", "kVp reduction"], correct: 1 },
+    { id: 2906, question: "Movement during exposure affects:", options: ["Magnification only", "Distortion only", "Sharpness (blurring)", "Exposure time"], correct: 2 },
+    { id: 2907, question: "Paralleling technique uses:", options: ["Short PID + high angulation", "Long PID + parallel alignment", "No holder", "Random tooth–film distance"], correct: 1 },
+    { id: 2908, question: "Which of the following combinations produces the MOST accurate image?", options: ["Long PID + short object–receptor distance", "Short PID + long object–receptor distance", "Long PID + long object–receptor distance", "Short PID + short object–receptor distance"], correct: 0 },
+    { id: 2909, question: "To produce a diagnostic radiograph, we aim for:", options: ["Proper density and contrast, high sharpness, minimal magnification and distortion", "Very high density and very high contrast", "Very low density and low contrast", "Only density is important; other factors do not matter"], correct: 0 },
+
+    // Diagnostic Quality (1 question)
+    { id: 2910, question: "Which statement best defines diagnostic radiographic quality?", options: ["Image appears very sharp, even if density is too dark", "Image has correct density, contrast, and minimal geometric distortion", "Image shows bright whites and deep blacks only", "Image shows no radiolucent areas"], correct: 1 },
+
+    // Intraoral Radiography - Types (10 questions)
+    { id: 2911, question: "Which of the following is NOT an intraoral examination type?", options: ["Periapical", "Bitewing", "Occlusal", "Panoramic"], correct: 3 },
+    { id: 2912, question: "Which of the following is NOT an intraoral radiographic exam?", options: ["Periapical", "Bitewing", "Occlusal", "Panoramic"], correct: 3 },
+    { id: 2913, question: "What are the three types of intraoral radiographs?", options: ["Panoramic, Ceph, PA Skull", "Periapical, Bitewing, Occlusal", "FMX, Panoramic, Occlusal", "Bitewing, Ceph, PA Skull"], correct: 1 },
+    { id: 2914, question: "Which intraoral radiographic technique is used to evaluate the crowns of both maxillary and mandibular posterior teeth and interproximal bone?", options: ["Occlusal", "Bitewing", "Periapical", "Cephalometric"], correct: 1 },
+    { id: 2915, question: "Which technique examines crowns of both arches and alveolar crest simultaneously?", options: ["Occlusal", "Periapical", "Bitewing", "Panoramic"], correct: 2 },
+    { id: 2916, question: "Which of the following is NOT an extraoral image?", options: ["Panoramic", "Cephalometric", "PA skull", "Periapical"], correct: 3 },
+    { id: 2917, question: "Which is NOT an extraoral radiograph?", options: ["Panoramic", "Cephalometric", "Waters", "Bitewing"], correct: 3 },
+    { id: 2918, question: "A full mouth series using paralleling technique typically includes:", options: ["Only bitewings", "Only periapicals", "Periapicals + bitewings", "Panoramic + periapicals"], correct: 2 },
+    { id: 2919, question: "FMX usually includes:", options: ["Only periapicals", "Periapicals + bitewings", "Occlusals only", "Panoramic + ceph"], correct: 1 },
+    { id: 2920, question: "The term 'FMX' is synonymous with:", options: ["Panoramic", "Complete mouth radiographic series", "Cephalometric exam", "Occlusal series"], correct: 1 },
+
+    // Receptor Sizes (7 questions)
+    { id: 2921, question: "What is the ideal film size for anterior periapical radiographs when using the paralleling technique?", options: ["Size 0", "Size 1", "Size 2", "Size 3"], correct: 1 },
+    { id: 2922, question: "What is the ideal film size for ANTERIOR periapical images using paralleling technique?", options: ["Size 0", "Size 1", "Size 2", "Size 3"], correct: 1 },
+    { id: 2923, question: "Which film size is used for occlusal radiographs in adults?", options: ["Size 1", "Size 2", "Size 3", "Size 4"], correct: 3 },
+    { id: 2924, question: "What film size is used for adult occlusal radiographs?", options: ["Size 1", "Size 2", "Size 3", "Size 4"], correct: 3 },
+    { id: 2925, question: "Which film size is used for occlusal radiographs in children?", options: ["Size 0", "Size 2", "Size 3", "Size 4"], correct: 1 },
+    { id: 2926, question: "Size 3 film is used for:", options: ["Occlusal radiographs", "Vertical bitewings only", "Long horizontal bitewings (rarely used)", "Periapical radiographs"], correct: 2 },
+    { id: 2927, question: "Which size film is NOT used for bitewings?", options: ["Size 0", "Size 1", "Size 2", "Size 4"], correct: 3 },
+
+    // FMX Configuration (6 questions)
+    { id: 2928, question: "A complete mouth series (FMX/CMRS) is intended to image:", options: ["Only posterior teeth", "Only existing teeth", "All tooth-bearing areas, even if teeth are missing", "Only maxillary teeth"], correct: 2 },
+    { id: 2929, question: "A complete mouth series (FMX/CMRS) should include:", options: ["Only existing teeth", "All tooth-bearing areas (even if teeth are missing)", "Only posterior teeth", "Only mandibular teeth"], correct: 1 },
+    { id: 2930, question: "How many total images are typically taken for an adult FMX using size 1 anterior films?", options: ["8–10", "14", "14–19", "25"], correct: 2 },
+    { id: 2931, question: "Typical adult FMX uses how many total images when size 1 is used for anteriors?", options: ["8–10", "14", "14–19", "25"], correct: 2 },
+    { id: 2932, question: "How many bitewings are typically included in an adult FMX?", options: ["0", "2–4", "10", "12"], correct: 1 },
+    { id: 2933, question: "FMX is recommended especially for which patient group?", options: ["Children under 5", "New adult patients with extensive dental history", "Orthodontic patients only", "Pregnant patients"], correct: 1 },
+
+    // Periapical Radiographs (5 questions)
+    { id: 2934, question: "What is the purpose of a periapical radiograph?", options: ["To examine crowns only", "To examine interproximal surfaces", "To examine entire tooth and 2–3 mm beyond root apex", "To examine sinuses"], correct: 2 },
+    { id: 2935, question: "What is required for a diagnostic periapical image?", options: ["Only crowns visible", "Only root visible", "Crown + root + 2–3 mm beyond apex", "Crown only with no root"], correct: 2 },
+    { id: 2936, question: "What is required for a diagnostic periapical radiograph?", options: ["Only crown", "Crown + root + 2–3 mm beyond apex", "Only root", "Crown only with no apex"], correct: 1 },
+    { id: 2937, question: "Which of the following is TRUE about FMX in edentulous patients?", options: ["Only panoramic imaging is allowed", "Only bitewings are taken", "Periapicals can still be required to assess bone or root fragments", "No radiographs are needed"], correct: 2 },
+    { id: 2938, question: "In an edentulous patient, FMX may still include:", options: ["Bitewings only", "Panoramic only", "Periapicals to check bone and root fragments", "Nothing at all"], correct: 2 },
+
+    // Bitewing Radiographs - General (13 questions)
+    { id: 2939, question: "Bitewing radiographs are also referred to as:", options: ["Periapical exams", "Interproximal exams", "Occlusal exams", "Ceph exams"], correct: 1 },
+    { id: 2940, question: "What is another term for bitewing radiographs?", options: ["Interproximal exam", "Occlusal exam", "Extraoral exam", "Periapical exam"], correct: 0 },
+    { id: 2941, question: "Bitewing technique is primarily used to detect:", options: ["Impacted teeth", "Interproximal caries", "Sinus pathology", "Cysts in mandible"], correct: 1 },
+    { id: 2942, question: "Bitewings are primarily used to detect:", options: ["Sinus pathology", "Interproximal caries", "Root fractures", "Cysts"], correct: 1 },
+    { id: 2943, question: "Which bitewing view is MOST commonly taken?", options: ["Vertical anterior", "Horizontal posterior", "Vertical molar", "Occlusal bitewing"], correct: 1 },
+    { id: 2944, question: "What is the MOST commonly taken bitewing?", options: ["Vertical anterior", "Horizontal posterior", "Vertical molar", "Occlusal bitewing"], correct: 1 },
+    { id: 2945, question: "The term 'open contacts' on a bitewing means:", options: ["Crowns are overlapped", "Interproximal surfaces are clearly seen with no superimposition", "Roots are visible", "The patient opened their mouth too much"], correct: 1 },
+    { id: 2946, question: "On bitewings, 'open contacts' means:", options: ["Crowns are overlapped", "Interproximal surfaces are clearly visible", "Only maxillary teeth visible", "Overexposed image"], correct: 1 },
+    { id: 2947, question: "If contacts appear overlapped on a bitewing, what is the primary error?", options: ["Incorrect vertical angulation", "Incorrect horizontal angulation", "Patient moved", "Film bending"], correct: 1 },
+    { id: 2948, question: "Overlapped contacts on a bitewing are caused by:", options: ["Incorrect vertical angulation", "Incorrect horizontal angulation", "Underexposure", "Film bending"], correct: 1 },
+    { id: 2949, question: "The term 'crestal bone' refers to:", options: ["Lowest level of jaw", "Tip of alveolar bone between teeth", "Apex of roots", "Crown enamel junction"], correct: 1 },
+    { id: 2950, question: "What does 'crestal bone' refer to?", options: ["Bottom of mandible", "Tip of alveolar bone between teeth", "Apex of root", "Crown enamel"], correct: 1 },
+    { id: 2951, question: "For an ideal FMX, what must all images demonstrate?", options: ["Good density & contrast + minimal distortion", "Only good contrast", "Only crown visibility", "Only root visibility"], correct: 0 },
+
+    // Vertical Bitewings (4 questions)
+    { id: 2952, question: "A vertical bitewing is commonly used in:", options: ["Orthodontics", "Endodontics", "Periodontal assessment", "Occlusal trauma cases only"], correct: 2 },
+    { id: 2953, question: "Vertical bitewings are especially useful for:", options: ["Orthodontics", "Periodontal bone-loss assessment", "Occlusal decay", "TMJ issues"], correct: 1 },
+    { id: 2954, question: "A vertical bitewing is recommended when:", options: ["Checking for periapical pathology", "Checking for progressing periodontal bone loss", "Checking for root fractures", "Checking occlusal decay only"], correct: 1 },
+    { id: 2955, question: "Why can an anterior bitewing be taken vertically?", options: ["To see salivary glands", "To capture complete alveolar bone in anterior region", "To shorten exposure time", "Because size 3 film is required"], correct: 1 },
+
+    // Bitewing Placement (8 questions)
+    { id: 2956, question: "When taking a premolar bitewing, the film should be aligned with the:", options: ["Maxillary canine", "Mandibular canine", "Distal of lateral incisor", "Mesial of first molar"], correct: 1 },
+    { id: 2957, question: "For premolar bitewing, the film should be aligned with:", options: ["Maxillary canine", "Mandibular canine", "Maxillary lateral incisor", "1st molar cusp"], correct: 1 },
+    { id: 2958, question: "Why do we align premolar bitewings using the mandibular canine?", options: ["Maxillary canine is too posterior", "Mandibular canine sits more mesially", "Maxillary canine is smaller", "Mandibular canine angle is parallel to film"], correct: 1 },
+    { id: 2959, question: "Why do we align premolar bitewings with the MANDIBULAR canine?", options: ["Maxillary canine is too posterior", "Mandibular canine is positioned more mesially", "Easier for horizontal angulation", "Film is longer vertically"], correct: 1 },
+    { id: 2960, question: "For a correct premolar bitewing, which structure must be visible?", options: ["Maxillary tuberosity", "Entire second molar", "Distal of the canine", "Retromolar pad"], correct: 2 },
+    { id: 2961, question: "A premolar bitewing must show:", options: ["Maxillary tuberosity", "Distal of canine", "Entire 3rd molar", "TMJ region"], correct: 1 },
+    { id: 2962, question: "A common error in premolar bitewings is:", options: ["Missing the occlusal surfaces", "Cutting off mandibular incisors", "Missing the distal of the canine", "Showing the sinuses too clearly"], correct: 2 },
+    { id: 2963, question: "A common error in premolar bitewing is:", options: ["Missing TMJ", "Cutting off mandibular incisors", "Missing distal of canine", "Showing sinuses"], correct: 2 },
+
+    // Bitewing Errors & Quality (3 questions)
+    { id: 2964, question: "A poor bitewing that cuts off the mandibular canine likely failed because:", options: ["Angulation too steep", "Aligned using maxillary canine", "Exposure was too short", "Exposure was too high"], correct: 1 },
+    { id: 2965, question: "A vertical bitewing places the film:", options: ["Horizontally", "Vertically", "Only on maxilla", "Only on mandible"], correct: 1 },
+    { id: 2966, question: "Example of a diagnostic image characteristic:", options: ["Blurry outline", "Closed contacts", "Proper density + proper contrast", "Crowns only"], correct: 2 },
+
+    // Occlusal Radiographs (3 questions)
+    { id: 2967, question: "An occlusal radiograph is MOST useful for:", options: ["Detecting proximal decay", "Examining larger areas of the maxilla or mandible", "Checking root canals", "Checking bone loss"], correct: 1 },
+    { id: 2968, question: "Purpose of occlusal radiograph:", options: ["Check interproximal decay", "Capture large area of maxilla or mandible", "Detect TMJ disorders", "Measure root length only"], correct: 1 },
+    { id: 2969, question: "Ideal image shows:", options: ["Good density, contrast, sharpness, minimal distortion", "Only crown", "Only roots", "Overlapped contacts"], correct: 0 }
   ],
   "7. Dental Radiography Theory": [
-    // Questions to be added for this topic
+    // Beam Quality & Exposure Factors - kVp (13 questions)
+    { id: 2970, question: "Which factor is the primary controller of X-ray beam quality (penetrating power)?", options: ["Exposure time", "Milliamperage (mA)", "Kilovoltage peak (kVp)", "Source–receptor distance"], correct: 2 },
+    { id: 2971, question: "Which of the following controls x-ray beam quality?", options: ["mA", "Exposure time", "kVp", "Source-to-film distance"], correct: 2 },
+    { id: 2972, question: "Which factor primarily controls the quality (penetrating power) of the x-ray beam?", options: ["mA", "Exposure time", "kVp", "Filtration"], correct: 2 },
+    { id: 2973, question: "X-ray beam quality is determined by which factor?", options: ["mA", "kVp", "Exposure time", "Filtration"], correct: 1 },
+    { id: 2974, question: "Increasing kVp will:", options: ["Decrease beam penetration", "Increase wavelength", "Increase beam energy and penetration", "Decrease density"], correct: 2 },
+    { id: 2975, question: "Increasing kVp will result in:", options: ["Longer wavelengths", "Higher penetrating power", "Lighter image", "Lower density"], correct: 1 },
+    { id: 2976, question: "The relationship between kVp and contrast is:", options: ["Higher kVp = higher contrast", "Lower kVp = lower contrast", "Higher kVp = lower contrast", "They are unrelated"], correct: 2 },
+    { id: 2977, question: "Increasing kVp will produce which change on the radiograph?", options: ["Higher contrast", "Lower contrast", "Magnification increases", "Density decreases"], correct: 1 },
+    { id: 2978, question: "Lower kVp produces what type of contrast?", options: ["Low contrast", "High contrast", "No contrast change", "Foggy image"], correct: 1 },
+    { id: 2979, question: "Which radiographic characteristic is MOST affected by kVp?", options: ["Sharpness", "Magnification", "Contrast", "Image noise"], correct: 2 },
+    { id: 2980, question: "Higher kVp does what to density?", options: ["Increases density", "Decreases density", "No change", "Removes fog"], correct: 0 },
+    { id: 2981, question: "If kVp is increased by 15, which adjustment maintains the same density?", options: ["Double the mA", "Double the exposure time", "Halve the exposure time", "Increase the distance"], correct: 2 },
+    { id: 2982, question: "Which of the following BEST describes X-rays with long wavelengths?", options: ["Highly penetrating", "High frequency", "Low energy, easily absorbed", "Produced with high kVp"], correct: 2 },
+
+    // Beam Quantity - mA (9 questions)
+    { id: 2983, question: "Increasing the mA will primarily result in:", options: ["Higher contrast", "Lower contrast", "Increased number of X-rays produced", "Decreased penetrating power"], correct: 2 },
+    { id: 2984, question: "Increasing mA will primarily increase:", options: ["Beam quality", "Number of x-rays produced", "Wavelength of x-rays", "Focal spot size"], correct: 1 },
+    { id: 2985, question: "Increasing mA will result in:", options: ["Shorter wavelength x-rays", "Higher contrast", "Greater number of x-ray photons produced", "Lower density on the image"], correct: 2 },
+    { id: 2986, question: "X-ray beam quantity is controlled by:", options: ["kVp", "mA", "Filtration", "Focal spot"], correct: 1 },
+    { id: 2987, question: "Increasing mA will:", options: ["Increase number of photons", "Increase photon energy", "Decrease density", "Lengthen wavelength"], correct: 0 },
+    { id: 2988, question: "What happens to density when mA is decreased?", options: ["Density increases", "Density decreases", "Contrast decreases", "Contrast increases"], correct: 1 },
+    { id: 2989, question: "Higher mA without changing exposure time will:", options: ["Decrease density", "Increase density", "Change contrast", "Cause distortion"], correct: 1 },
+    { id: 2990, question: "Which factor affects image density the MOST?", options: ["Object thickness", "Focal spot size", "mA and exposure time", "Filtration"], correct: 2 },
+    { id: 2991, question: "What happens to radiographic density when exposure time is reduced by half with all other factors unchanged?", options: ["Density increases", "Density decreases", "Contrast increases", "Image sharpness increases"], correct: 1 },
+
+    // Wavelength & Penetration (3 questions)
+    { id: 2992, question: "A radioactive beam with long wavelength x-rays has:", options: ["High frequency and high energy", "Low energy and is easily absorbed by tissues", "High penetration through bone", "Increased image sharpness"], correct: 1 },
+    { id: 2993, question: "Shorter wavelengths produce which effect?", options: ["Less penetration", "More penetration", "Lower energy", "Less hazard"], correct: 1 },
+    { id: 2994, question: "What is the main purpose of aluminum filtration?", options: ["Increase magnification", "Remove long-wavelength low-energy X-rays", "Reduce exposure time", "Increase number of photons"], correct: 1 },
+
+    // Aluminum Filtration (1 question)
+    { id: 2995, question: "Aluminum filtration is used to:", options: ["Reduce scatter radiation", "Remove long-wavelength, low-energy x-rays", "Increase magnification", "Increase patient exposure"], correct: 1 },
+
+    // Tungsten Target (1 question)
+    { id: 2996, question: "What is the primary function of the tungsten target?", options: ["Absorb heat created by x-ray production", "Produce electrons when heated", "Convert the kinetic energy of electrons into x-rays and heat", "Focus the electron beam"], correct: 2 },
+
+    // Inverse Square Law & Distance (8 questions)
+    { id: 2997, question: "The inverse square law states that X-ray intensity is:", options: ["Directly proportional to the square of the distance", "Inversely proportional to the square of the distance", "Directly proportional to kVp", "Inversely proportional to mA"], correct: 1 },
+    { id: 2998, question: "The inverse square law states that x-ray intensity is:", options: ["Directly proportional to kVp", "Inversely proportional to mA", "Inversely proportional to the square of the distance", "Directly proportional to the PID length"], correct: 2 },
+    { id: 2999, question: "Compared to an 8-inch PID, a 16-inch PID will produce:", options: ["Higher intensity at the receptor", "Lower intensity at the receptor", "Increased magnification", "No change in exposure time requirements"], correct: 1 },
+    { id: 3000, question: "Changing the PID from 8 inches to 16 inches will cause intensity to become:", options: ["1/2", "1/3", "1/4", "1/8"], correct: 2 },
+    { id: 3001, question: "What increases the intensity of the x-ray beam?", options: ["Decreased distance", "Lower mA", "Lower kVp", "Less time"], correct: 0 },
+    { id: 3002, question: "If the PID distance doubles, beam intensity becomes:", options: ["4× stronger", "½", "¼", "Same"], correct: 2 },
+    { id: 3003, question: "The most important distance affecting x-ray intensity is:", options: ["Target–skin distance", "Object–film distance", "Target–receptor distance", "Receptor–surface distance"], correct: 2 },
+    { id: 3004, question: "Long PID (16-inch) is preferred because it:", options: ["Increases magnification", "Decreases image sharpness", "Reduces magnification", "Requires less exposure time"], correct: 2 },
+
+    // PID Length Effects (1 question)
+    { id: 3005, question: "Increasing PID length (short → long PID) will:", options: ["Increase magnification", "Reduce magnification and improve image accuracy", "Increase image distortion", "Increase beam intensity"], correct: 1 },
+
+    // Receptor Sizes & FMX (2 questions)
+    { id: 3006, question: "What is the ideal film size for anterior periapicals using the paralleling technique?", options: ["Size 0", "Size 1", "Size 2", "Size 3"], correct: 1 },
+    { id: 3007, question: "What is the ideal film size for anterior periapical images using the paralleling technique?", options: ["Size 0", "Size 1", "Size 2", "Size 3"], correct: 1 },
+
+    // Periapical Requirements (2 questions)
+    { id: 3008, question: "A diagnostic periapical radiograph must show:", options: ["Only the crown", "Only the contact points", "2–3 mm beyond the root apex", "The entire alveolar crest only"], correct: 2 },
+    { id: 3009, question: "What is required for a diagnostic periapical?", options: ["Showing enamel only", "Showing entire crown only", "Showing 2–3 mm beyond the apex", "Minimizing the root apex"], correct: 2 },
+
+    // Additional Diagnostic Requirements (1 question)
+    { id: 3010, question: "A good diagnostic periapical must show:", options: ["Only the crown", "2–3 mm beyond the apex", "Entire tooth but no root tips", "Only root apex"], correct: 1 },
+
+    // Bitewing Alignment (5 questions)
+    { id: 3011, question: "In a premolar bitewing, proper placement requires alignment with:", options: ["Maxillary canine", "Mandibular canine", "First molar mesial cusp", "Distal of maxillary lateral incisor"], correct: 1 },
+    { id: 3012, question: "In premolar bitewings, alignment is based on:", options: ["Maxillary canine", "Mandibular canine", "First premolar", "Maxillary central"], correct: 1 },
+    { id: 3013, question: "Which bitewing rule did the professor emphasize? The premolar bitewing must show:", options: ["Only the maxillary canine", "Only the mandibular canine", "The distal of the mandibular canine", "The entire maxillary canine root"], correct: 2 },
+    { id: 3014, question: "Which bitewing view must show the distal of the canine?", options: ["Molar bitewing", "Premolar bitewing", "Occlusal image", "Vertical bitewing only"], correct: 1 },
+    { id: 3015, question: "Vertical bitewings are primarily used for:", options: ["Detecting periapical lesions", "Assessing periodontal bone loss", "Locating impacted teeth", "Examining occlusal surfaces"], correct: 1 },
+
+    // Bitewing Errors (3 questions)
+    { id: 3016, question: "Overlap between teeth in a bitewing is caused by incorrect:", options: ["Vertical angulation", "Horizontal angulation", "Film size selection", "Film placement against the palate"], correct: 1 },
+    { id: 3017, question: "Horizontal overlap in bitewings is caused by:", options: ["Incorrect vertical angulation", "Incorrect horizontal angulation", "Too much exposure time", "Using a size 0 film"], correct: 1 },
+    { id: 3018, question: "Overlapping contacts occur due to:", options: ["Incorrect vertical angulation", "Incorrect horizontal angulation", "Underexposure", "Excessive mA"], correct: 1 },
+
+    // Occlusal Radiographs (2 questions)
+    { id: 3019, question: "Which receptor size is used for adult occlusal radiographs?", options: ["Size 0", "Size 1", "Size 2", "Size 4"], correct: 3 },
+    { id: 3020, question: "What is the correct vertical angulation for maxillary occlusal topographic exposure?", options: ["+45°", "+65°", "–55°", "–90°"], correct: 1 },
+
+    // Paralleling Technique (1 question)
+    { id: 3021, question: "The paralleling technique requires the film to be placed:", options: ["Directly against the teeth", "Parallel to the long axis of the tooth", "Perpendicular to the beam", "At a 45° angle"], correct: 1 },
+
+    // SLOB Rule (1 question)
+    { id: 3022, question: "What is the rule used to determine buccal vs. lingual position of an object?", options: ["Inverse Square Law", "SLOB Rule (Same Lingual Opposite Buccal)", "ALARA", "Paralleling Rule"], correct: 1 },
+
+    // Angulation Errors - Horizontal (1 question)
+    { id: 3023, question: "What happens when horizontal angulation is incorrect?", options: ["Foreshortening", "Elongation", "Overlapping of contacts", "Cone cut"], correct: 2 },
+
+    // Angulation Errors - Vertical Foreshortening (4 questions)
+    { id: 3024, question: "Which angulation error causes foreshortening?", options: ["Too little vertical angulation", "Too much vertical angulation", "Incorrect horizontal angulation", "PID too close to face"], correct: 1 },
+    { id: 3025, question: "Foreshortening is caused by:", options: ["Too little vertical angulation", "Too much vertical angulation", "Incorrect horizontal angulation", "Backwards film"], correct: 1 },
+    { id: 3026, question: "Cone-cut occurs when:", options: ["Beam not centered over receptor", "Too much vertical angulation", "Low kVp", "Patient moved"], correct: 0 },
+    { id: 3027, question: "Elongation occurs when:", options: ["Too much vertical angulation", "Too little vertical angulation", "mA too low", "Film bent"], correct: 1 },
+
+    // Digital Radiography - PSP Protocols (25 questions)
+    { id: 3028, question: "Imaging plates must be:", options: ["Used without protective sheath", "Covered in hygienic sheath prior to exposure", "Autoclaved after each use", "Stored unwrapped"], correct: 1 },
+    { id: 3029, question: "After exposure, the imaging plate should:", options: ["Be removed immediately from sheath", "Stay inside the hygienic sheath to prevent light exposure", "Be rinsed", "Be scanned inside the operatory"], correct: 1 },
+    { id: 3030, question: "When inserting PSP into the scanner, the plate must be:", options: ["Inside the sheath", "Inserted white side toward the scanner screen", "Inserted foil-side first", "Placed horizontally only"], correct: 1 },
+    { id: 3031, question: "What solution is recommended to disinfect contaminated PSP plates?", options: ["70% alcohol", "1:10 diluted bleach (5.25% sodium hypochlorite)", "Iodine", "Hydrogen peroxide"], correct: 1 },
+    { id: 3032, question: "The safer method to disinfect contaminated PSP plates is:", options: ["Alcohol wipes", "Diluted bleach solution (1:10)", "Iodine solution", "Autoclave"], correct: 1 },
+    { id: 3033, question: "When tagging imaging plates in Scan & Go, the system signals success by:", options: ["One beep", "Green LED lights once", "Two beeps + two green LED blinks", "Red LED stays on"], correct: 2 },
+    { id: 3034, question: "The orientation dot must be placed:", options: ["Toward apex", "Toward gingiva", "Toward incisal/occlusal", "Toward distal"], correct: 2 },
+    { id: 3035, question: "When inserting a plate into the hygienic sheath, the 'inactive side' faces:", options: ["The teeth", "The adhesive strip", "The scanner", "The PID"], correct: 1 },
+    { id: 3036, question: "PSP plates are erased:", options: ["Before scanning", "After exposure", "By the scanner after scanning", "Never erased"], correct: 2 },
+    { id: 3037, question: "After scanning, PSP plates must be stored:", options: ["In used sheath", "In new envelope for reuse", "On open tray", "Under light"], correct: 1 },
+    { id: 3038, question: "A hygiene sheath is primarily used for:", options: ["Better image quality", "Preventing cross-contamination", "Preventing density issues", "Keeping teeth dry"], correct: 1 },
+    { id: 3039, question: "Before taking radiographs, the student must:", options: ["Begin scanning", "Obtain prescription from supervising dentist", "Place the lead apron", "Bring patient into room immediately"], correct: 1 },
+    { id: 3040, question: "Client should enter the radiography room only when:", options: ["Setup is complete and instructor is present", "Barriers are partially placed", "Plates are already scanned", "Computer is off"], correct: 0 },
+    { id: 3041, question: "After exposing plates, they should be placed:", options: ["On any surface", "Inside a Dixie cup on the counter", "On a paper towel", "In the scanner immediately"], correct: 1 },
+    { id: 3042, question: "Gloves must be removed before:", options: ["Positioning the patient", "Applying barriers", "Operating the scanner", "Placing the lead apron"], correct: 2 },
+    { id: 3043, question: "Retakes can be done only after:", options: ["Student decides", "Dispensary approval", "Dentist prescribes them", "Patient requests"], correct: 2 },
+    { id: 3044, question: "After scanning plates, the student must:", options: ["Leave images unmounted", "Mount and save with doctor name, type, student name, date", "Discard the plates", "Only close software"], correct: 1 },
+    { id: 3045, question: "When returning to clinic after scanning:", options: ["Carry used equipment openly", "Transport plates in clean carrier", "Hold plates in hand", "Leave equipment in radiography room"], correct: 1 },
+    { id: 3046, question: "Lead apron must be removed:", options: ["Before removing gloves", "After removing gloves", "Before exposures", "In the scanning room"], correct: 1 },
+    { id: 3047, question: "A backward PSP plate results in:", options: ["Cone cut", "Herringbone pattern (for film; digital = lighter image)", "Black image", "No image"], correct: 1 },
+    { id: 3048, question: "Movement during exposure results in:", options: ["Elongation", "Magnification", "Blurry image", "Fog"], correct: 2 },
+    { id: 3049, question: "Incorrect PID alignment in vertical bitewings causes:", options: ["Foreshortening", "Not seeing bone levels", "Overlap", "Film bending"], correct: 1 },
+    { id: 3050, question: "Maxillary occlusal topographic vertical angulation is:", options: ["+60°", "+65°", "–55°", "–90°"], correct: 1 },
+    { id: 3051, question: "Mandibular topographic occlusal angulation:", options: ["+65°", "+60°", "–55°", "–90°"], correct: 2 },
+    { id: 3052, question: "Mandibular cross-sectional occlusal angulation:", options: ["–20°", "–55°", "–90°", "0°"], correct: 2 },
+
+    // Bitewing Angulation (1 question)
+    { id: 3053, question: "Bitewing default vertical angulation (with tab):", options: ["–10°", "+10°", "0°", "+20°"], correct: 1 },
+
+    // Bisecting Technique Elongation (1 question)
+    { id: 3054, question: "Bisecting Technique: elongation occurs when:", options: ["Central ray too steep", "Central ray too shallow", "Horizontal angulation too far mesial", "Dot not placed occlusally"], correct: 1 }
   ],
   "8. Dental Radiography Theory": [
     // Bisecting Angle Technique - Basic Principles (7 questions)
