@@ -1,11 +1,11 @@
 // LESSON 2 - Dental Radiography Theory Questions
-// Total: 1387 questions across 8 topics
+// Total: 1528 questions across 8 topics
 // Topics:
 //   1. Radiation History & Radiation Physics (275 questions)
 //   2. Dental X-ray Equipment, Film Processing (255 questions)
 //   3. Dental Radiography Theory (217 questions) - COMPLETE
 //   4. Dental Radiography Theory (235 questions) - COMPLETE
-//   5. Dental Radiography Theory (83 questions) - IN PROGRESS
+//   5. Dental Radiography Theory (287 questions) - COMPLETE
 //   6. Dental Radiography Theory (245 questions) - COMPLETE  
 //   7. Dental Radiography Theory (85 questions) - COMPLETE
 //   8. Dental Radiography Theory (63 questions) - COMPLETE
@@ -1169,7 +1169,204 @@ export const radiographyQuestions = {
     // Geometric Projection (3 questions)
     { id: 2662, question: "Projection geometry rules include all EXCEPT:", options: ["Object–receptor as close as possible (in general rule)", "Object–receptor parallel", "Central ray perpendicular to object and receptor", "Target–receptor distance as short as possible"], correct: 3 },
     { id: 2663, question: "In paralleling, which rule is intentionally violated and compensated?", options: ["Short OID", "Parallelism", "Perpendicular central ray", "Small focal spot"], correct: 0 },
-    { id: 2664, question: "Color codes for XCP:", options: ["Red = bitewing, Yellow = posterior PA, Blue = anterior PA", "Red = anterior PA, Yellow = bitewing, Blue = posterior", "Red = pano, Yellow = occlusal, Blue = CBCT", "All identical"], correct: 0 }
+    { id: 2664, question: "Color codes for XCP:", options: ["Red = bitewing, Yellow = posterior PA, Blue = anterior PA", "Red = anterior PA, Yellow = bitewing, Blue = posterior", "Red = pano, Yellow = occlusal, Blue = CBCT", "All identical"], correct: 0 },
+
+    // Projection Geometry & XCP (6 questions)
+    { id: 3055, question: "The central ray must be perpendicular to:", options: ["Receptor only", "Object only", "Object and receptor", "XCP ring only"], correct: 2 },
+    { id: 3056, question: "Which region should be exposed first during FMX?", options: ["Mandibular molars", "Maxillary anterior teeth", "Maxillary posteriors", "Mandibular premolars"], correct: 1 },
+    { id: 3057, question: "(Select the BEST answer.)", options: ["They have higher exposure values", "They are easier and less likely to cause gagging", "They produce better diagnostic images", "They require the least angulation"], correct: 1 },
+    { id: 3058, question: "In posterior sequencing, why do we move from Quadrant 1 → Quadrant 3 → Quadrant 2 → Quadrant 4?", options: ["To reduce exposure", "To reduce errors", "Because XCP setup flips easily between these quadrants", "Because the patient prefers this order"], correct: 2 },
+    { id: 3059, question: "Anterior receptors must always be placed:", options: ["Horizontally", "Vertically", "Upside down", "Parallel to the floor"], correct: 1 },
+    { id: 3060, question: "For maxillary canine PA, correct placement includes centering on:", options: ["First molar", "Distal of lateral incisor", "Entire canine region", "Midline"], correct: 2 },
+
+    // Receptor Placement (5 questions)
+    { id: 3061, question: "For anterior mandibular incisors, the receptor should be placed:", options: ["Very deep into the floor of the mouth", "Parallel to the incisal edge and slightly coronal", "On top of the tongue", "Horizontally rotated"], correct: 1 },
+    { id: 3062, question: "For molar PA, the anterior edge of the receptor should align with:", options: ["Mesial of third molar", "Mesial of first molar", "Canine", "Distal of second premolar"], correct: 3 },
+    { id: 3063, question: "Cone-cut occurs when:", options: ["The receptor bends", "The PID does not cover the entire XCP ring", "Exposure time is too long", "The patient moves"], correct: 1 },
+    { id: 3064, question: "Overlapped contacts are caused by incorrect:", options: ["Vertical angulation", "Receptor size", "Horizontal angulation", "Object–receptor distance"], correct: 2 },
+    { id: 3065, question: "Apical cutoff results from:", options: ["Too much horizontal angulation", "Receptor placed too high/low", "Using the wrong XCP", "Incorrect exposure settings"], correct: 1 },
+
+    // Magnification & Compensation (5 questions)
+    { id: 3066, question: "Increasing object–receptor distance causes:", options: ["Less magnification", "More magnification", "No change", "Complete distortion"], correct: 1 },
+    { id: 3067, question: "How do we compensate for increased object–receptor distance in paralleling?", options: ["Increase kVp", "Increase PID length (long cone)", "Reduce mA", "Decrease exposure time"], correct: 1 },
+    { id: 3068, question: "A shallow palate may require:", options: ["Using a shorter PID", "Angulating the receptor slightly (≤20°)", "Reducing exposure time", "Using size 0 sensor"], correct: 1 },
+    { id: 3069, question: "When the palate is very shallow (more than 20° required):", options: ["Standard paralleling is still used", "Bisecting technique may be needed", "FMX cannot be taken", "Increase receptor size"], correct: 1 },
+    { id: 3070, question: "Cotton rolls can be used in paralleling to:", options: ["Reduce radiation dose", "Modify alignment for shallow palate", "Shorten exposure sequence", "Prevent horizontal angulation errors"], correct: 1 },
+
+    // Anatomical Challenges (3 questions)
+    { id: 3071, question: "For mandibular torus (tori), the receptor should be placed:", options: ["Directly on top of the torus", "Lingual to the torus", "Against the buccal mucosa", "On the tongue"], correct: 1 },
+    { id: 3072, question: "When placing receptors in the mandibular premolar area, the greatest difficulty usually comes from:", options: ["Bone thickness", "Tongue interference", "Hard palate height", "Lack of space in the vestibule"], correct: 1 },
+    { id: 3073, question: "To avoid the tongue pushing the receptor out, the patient should be instructed to:", options: ["Bite immediately", "Push the tongue to the opposite side during placement", "Hold the tongue upward", "Keep the mouth wide open"], correct: 1 },
+
+    // Paralleling Advantages/Disadvantages (3 questions)
+    { id: 3074, question: "Which is a major advantage of paralleling technique?", options: ["Requires no alignment device", "Minimal distortion and magnification", "Quickest method", "Uses the smallest receptors"], correct: 1 },
+    { id: 3075, question: "A main disadvantage of paralleling is:", options: ["Too much magnification", "High radiation dose", "Patient discomfort from XCP", "Unreliable images"], correct: 2 },
+    { id: 3076, question: "Why is paralleling considered a standardized technique?", options: ["It uses only vertical angulation", "The receptor is hand-held", "It produces repeatable, comparable images", "Uses short PID only"], correct: 2 },
+
+    // ALARA & Retakes (3 questions)
+    { id: 3077, question: "What does ALARA stand for?", options: ["As Low As Reasonably Acceptable", "As Low As Reasonably Achievable", "As Long As Radiation Allowed", "As Late As Radiographs Appear"], correct: 1 },
+    { id: 3078, question: "Why are retakes a problem?", options: ["They improve image quality but take time", "They reduce patient cooperation", "They violate the ALARA principle", "They decrease cost"], correct: 2 },
+    { id: 3079, question: "What is the ideal FMX configuration of 19 images?", options: ["15 periapicals + 4 bitewings", "14 periapicals + 5 bitewings", "12 periapicals + 7 bitewings", "10 periapicals + 9 bitewings"], correct: 0 },
+
+    // FMX Configuration (8 questions)
+    { id: 3080, question: "When using size 1 for anteriors in paralleling technique, how many anterior PA images are required?", options: ["4", "5", "6", "7"], correct: 3 },
+    { id: 3081, question: "What is the correct orientation of the posterior receptor in paralleling?", options: ["Always vertical", "Always horizontal", "Vertical for maxilla, horizontal for mandible", "Any orientation is acceptable"], correct: 1 },
+    { id: 3082, question: "Which anterior image is taken first in the paralleling sequence?", options: ["Maxillary central incisors", "Mandibular incisors", "Maxillary right canine", "Maxillary left canine"], correct: 2 },
+    { id: 3083, question: "Which combination correctly lists components of an XCP device?", options: ["Ring, metal arm, bite-block", "Cone, ring, cable", "Sensor, PID, arm", "Headrest, bite-block, cone"], correct: 0 },
+    { id: 3084, question: "The identification dot (or identification area) on a receptor should face:", options: ["Apices", "Buccal mucosa", "Incisal/occlusal surfaces", "Lingual surfaces"], correct: 2 },
+    { id: 3085, question: "Why is a long PID (long cone) used in paralleling technique?", options: ["To improve patient comfort", "To increase scatter radiation", "To reduce magnification", "To reduce exposure time"], correct: 2 },
+    { id: 3086, question: "If a shallow palate requires more than 20° of angulation to keep the receptor parallel, what should be done?", options: ["Continue with paralleling technique", "Switch to bisecting angle technique", "Replace FMX with panoramic", "Double the exposure time"], correct: 1 },
+    { id: 3087, question: "Which receptor sizes can be used for the paralleling technique?", options: ["Sizes 0, 1, 2", "Sizes 1, 2, 3", "Sizes 0 and 2 only", "Sizes 1 and 3 only"], correct: 0 },
+
+    // Receptor Sizes (4 questions)
+    { id: 3088, question: "Size 0 is primarily used for:", options: ["Adult posteriors", "Pediatric patients", "Mandibular molars", "Extraoral imaging"], correct: 1 },
+    { id: 3089, question: "Ideally, how many images are included in a full-mouth series (FMX) using paralleling technique?", options: ["16", "17", "18", "19"], correct: 3 },
+    { id: 3090, question: "If size 2 is used for anterior periapicals, what is the total number of FMX images?", options: ["16", "17", "18", "19"], correct: 2 },
+    { id: 3091, question: "The color for anterior PA XCP is:", options: ["Red", "Blue", "Yellow", "Green"], correct: 1 },
+
+    // XCP Color Codes (3 questions)
+    { id: 3092, question: "The color for posterior PA XCP is:", options: ["Red", "Yellow", "Blue", "Green"], correct: 1 },
+    { id: 3093, question: "The color for bitewing XCP is:", options: ["Blue", "Green", "Red", "Yellow"], correct: 2 },
+    { id: 3094, question: "Which of the following are components of an XCP device?", options: ["PID, arm, cone", "Ring, metal arm, bite-block", "Sensor, cone, arm", "Headrest, ring, sensor"], correct: 1 },
+
+    // Additional XCP & Placement (5 questions)
+    { id: 3095, question: "The identification dot on a film or PSP plate must face:", options: ["Apical region", "Buccal surface", "Incisal/occlusal edge", "Tongue"], correct: 2 },
+    { id: 3096, question: "The focal spot (target) should be:", options: ["As large as possible", "As small as possible", "Perpendicular to the receptor", "Placed close to the patient"], correct: 1 },
+    { id: 3097, question: "Object–receptor distance should be:", options: ["As long as possible", "As short as possible", "Equal to PID length", "Maintained at 10 cm"], correct: 1 },
+    { id: 3098, question: "Target–receptor distance should be:", options: ["Long", "Short", "Zero", "Irrelevant"], correct: 0 },
+    { id: 3099, question: "The central ray must be perpendicular to:", options: ["Receptor only", "Tooth only", "Both tooth and receptor", "The XCP ring only"], correct: 2 },
+
+    // Geometry Rules (2 questions)
+    { id: 3100, question: "Which geometry rule is NOT followed in paralleling technique?", options: ["Object–receptor distance should be short", "Focal spot should be small", "Object and receptor parallel", "Central ray perpendicular to both"], correct: 2 },
+    { id: 3101, question: "Which image is taken FIRST in FMX sequencing?", options: ["Mandibular molars", "Maxillary right canine", "Maxillary central incisors", "Mandibular premolars"], correct: 1 },
+
+    // FMX Sequencing (4 questions)
+    { id: 3102, question: "Why are anterior views taken first?", options: ["Highest diagnostic value", "Less uncomfortable & fewer gag reflex issues", "Requires less angulation", "Uses the smallest receptor"], correct: 1 },
+    { id: 3103, question: "Posterior sequence follows which order?", options: ["1 → 2 → 3 → 4", "2 → 4 → 1 → 3", "4 → 3 → 2 → 1", "1 → 3 → 2 → 4"], correct: 3 },
+    { id: 3104, question: "Anterior receptors must be placed:", options: ["Horizontally", "Vertically", "Upside down", "Parallel to the floor"], correct: 1 },
+    { id: 3105, question: "In a maxillary canine PA, the receptor should be centered on:", options: ["Distal of lateral incisor", "Entire canine region", "Central incisor", "First premolar"], correct: 1 },
+
+    // Detailed Placement Guidelines (4 questions)
+    { id: 3106, question: "For mandibular incisors, the receptor should be placed:", options: ["Deep under the tongue", "Parallel to incisal edge and slightly coronal", "Horizontally", "Touching the floor of the mouth"], correct: 1 },
+    { id: 3107, question: "Premolar PA placement should align with:", options: ["Mesial of second premolar", "Distal half of canine", "Mesial half of first molar", "Central incisors"], correct: 1 },
+    { id: 3108, question: "For molar PAs, the anterior edge of the receptor aligns with:", options: ["Canine", "Mesial of first molar", "Distal of second premolar", "Distal of first premolar"], correct: 2 },
+    { id: 3109, question: "Cone-cut occurs when:", options: ["The patient moves", "PID fails to cover the entire receptor", "Vertical angulation is incorrect", "Sensor is exposed twice"], correct: 1 },
+
+    // Common Errors (4 questions)
+    { id: 3110, question: "Overlapped contacts result from incorrect:", options: ["Vertical angulation", "Horizontal angulation", "Exposure time", "Receptor size"], correct: 1 },
+    { id: 3111, question: "Apical cutoff occurs when the receptor is:", options: ["Too far posterior", "Placed too high or too low", "Turned upside down", "Overexposed"], correct: 1 },
+    { id: 3112, question: "Increased object–receptor distance increases:", options: ["Sharpness", "Magnification", "Contrast", "Density"], correct: 1 },
+    { id: 3113, question: "How do we compensate for increased object–receptor distance in paralleling?", options: ["Use a short PID", "Use a long PID", "Decrease exposure time", "Reduce kVp"], correct: 1 },
+
+    // Anatomical Adaptations (6 questions)
+    { id: 3114, question: "For shallow palate (<20° correction needed), we may:", options: ["Push the receptor deeper", "Slightly angle the receptor up to 20°", "Switch to bitewings", "Reduce exposure"], correct: 1 },
+    { id: 3115, question: "If more than 20° angulation is needed due to a shallow palate, we should:", options: ["Continue standard paralleling", "Switch to bisecting angle technique", "Stop imaging", "Add two extra films"], correct: 1 },
+    { id: 3116, question: "Cotton rolls are used in paralleling to:", options: ["Reduce radiation dose", "Modify alignment in shallow palate", "Shorten exposure time", "Prevent horizontal overlap"], correct: 1 },
+    { id: 3117, question: "For mandibular tori, the receptor should be placed:", options: ["Directly on the torus", "Lingual to the torus", "Buccal vestibule", "On top of the tongue"], correct: 1 },
+    { id: 3118, question: "Difficulty in mandibular premolar imaging is mainly due to:", options: ["High palate", "Tongue interference", "Molar size", "Thin alveolar bone"], correct: 1 },
+    { id: 3119, question: "To avoid tongue pushing the receptor out, instruct the patient to:", options: ["Bite immediately", "Move tongue to the opposite side during placement", "Open widely", "Lift the chin"], correct: 1 },
+
+    // Paralleling Summary (3 questions)
+    { id: 3120, question: "A major advantage of paralleling technique is:", options: ["Extremely fast", "Minimal distortion", "No receptor needed", "No XCP required"], correct: 1 },
+    { id: 3121, question: "A major disadvantage of paralleling is:", options: ["Higher radiation dose", "Discomfort from XCP in the mouth", "Images are unreliable", "Hard to repeat"], correct: 1 },
+    { id: 3122, question: "Paralleling is considered standardized because:", options: ["It uses only vertical angulation", "Receptor is held by the patient", "Images are reproducible and comparable", "It requires the shortest PID"], correct: 2 },
+
+    // ALARA Review (2 questions)
+    { id: 3123, question: "ALARA means:", options: ["As Late As Radiographs Allow", "As Low As Reasonably Achievable", "As Long As Radiation Applies", "As Little As Radiographs Are Needed"], correct: 1 },
+    { id: 3124, question: "Retakes violate ALARA because:", options: ["They produce blur", "They increase radiation exposure unnecessarily", "They reduce contrast", "They improve sharpness"], correct: 1 },
+
+    // XCP Assembly (5 questions)
+    { id: 3125, question: "When assembling a posterior XCP, the metal bar, bite-block, and ring should be aligned so that:", options: ["The bar and bite-block form a 90° angle", "The bar and bite-block form one straight continuous line", "The ring is angled away from the bar", "The bite-block is always perpendicular to the ring"], correct: 1 },
+    { id: 3126, question: "In a correctly assembled XCP, when you look straight through the ring you should:", options: ["Only see the metal bar", "Not see the receptor at all", "See the entire receptor/bite-block area centered inside the ring", "See only half of the receptor"], correct: 2 },
+    { id: 3127, question: "The white or plain side of the receptor (or film) should always face:", options: ["The tongue", "The floor of the mouth", "The X-ray tube / PID and XCP ring", "The soft palate"], correct: 2 },
+    { id: 3128, question: "Cone-cut can still occur with XCP if:", options: ["Exposure time is too short", "The patient moves slightly", "The ring does not fully cover the entire receptor area", "The mA is set too low"], correct: 2 },
+    { id: 3129, question: "Which of the following situations may lead to cone-cut even when using an XCP?", options: ["The ring is placed too close to the PID", "The receptor is inserted backwards", "The ring is placed too low or too far to one side", "The kilovoltage is set too high"], correct: 2 },
+
+    // Clinical Practice (2 questions)
+    { id: 3130, question: "In clinical practice, which periapical technique is most commonly used in dental offices?", options: ["Bisecting angle technique", "Occlusal technique", "Paralleling technique with XCP", "Hand-held receptor technique"], correct: 2 },
+    { id: 3131, question: "A diagnostic radiograph is best described as one that:", options: ["Is completely white with no artifacts", "Is very dark and shows all structures in black", "Is free of major errors and provides clear information for diagnosis", "Is taken in the shortest amount of time"], correct: 2 },
+
+    // Diagnostic Quality (3 questions)
+    { id: 3132, question: "Which of the following should be present in a diagnostic radiograph?", options: ["Cone-cut in non-critical areas", "Correct area of interest covered, proper density, contrast, and no serious distortion", "Only the crown portions of teeth visible", "Only bone visible without teeth"], correct: 1 },
+    { id: 3133, question: "\"Visual characteristics\" of a radiographic image include:", options: ["Density and contrast", "Sharpness and magnification", "Distortion and elongation", "Exposure time and kVp"], correct: 0 },
+    { id: 3134, question: "\"Geometric characteristics\" of a radiographic image include all of the following EXCEPT:", options: ["Sharpness (definition)", "Magnification", "Distortion", "Film speed"], correct: 3 },
+
+    // Density & Radiopacity (7 questions)
+    { id: 3135, question: "Density, in radiographic terms, is defined as:", options: ["The mineral content of enamel", "Overall darkness or blackness of the radiographic image", "The thickness of the X-ray glass tube", "The speed of the X-ray beam"], correct: 1 },
+    { id: 3136, question: "An image that is too light overall would be described as having:", options: ["Excessive density", "Inadequate density", "Perfect density", "No contrast"], correct: 1 },
+    { id: 3137, question: "Radiolucent areas on a radiograph appear:", options: ["White or very light", "Dark or black", "Gray only", "Metallic and shiny"], correct: 1 },
+    { id: 3138, question: "Which of the following is typically radiolucent?", options: ["Enamel", "Dentin", "Metal restoration", "Pulp chamber or air space"], correct: 3 },
+    { id: 3139, question: "Radiopaque areas on a radiograph usually correspond to:", options: ["Soft tissues and air", "Bone, enamel, and metal restorations", "Saliva and plaque", "Only dental pulp"], correct: 1 },
+    { id: 3140, question: "The term \"attenuation\" refers to:", options: ["Complete removal of X-rays at the source", "The bending of X-rays around an object", "Reduction in intensity of the X-ray beam as it passes through matter", "Reflection of X-rays off metal objects"], correct: 2 },
+    { id: 3141, question: "Differential attenuation means:", options: ["All tissues absorb X-rays equally", "Different tissues absorb or reduce the X-ray beam in different amounts", "Only metal attenuates the beam", "Air always absorbs the most radiation"], correct: 1 },
+
+    // Tissue Differentiation (2 questions)
+    { id: 3142, question: "Why can enamel and dentin usually be seen as separate layers, but cementum cannot be easily distinguished from dentin on a radiograph?", options: ["Cementum is radiolucent while dentin is radiopaque", "Cementum and dentin have similar density and inorganic composition", "Cementum is not present in most teeth", "Dentin is completely transparent to X-rays"], correct: 1 },
+    { id: 3143, question: "In the bitewing example discussed, the image was criticized mainly because:", options: ["It was too dark and overexposed", "It clearly showed perfect open contacts", "It was placed in between premolar and molar positions, not clearly one or the other", "Only crowns were visible"], correct: 2 },
+
+    // Image Quality Examples (3 questions)
+    { id: 3144, question: "In that same bitewing example, another quality issue mentioned was:", options: ["Overangulation of vertical beam", "Lack of sharpness and poor contrast between enamel and dentin", "Extreme magnification", "Excessive cone-cut"], correct: 1 },
+    { id: 3145, question: "An ideal radiograph, in terms of image quality, should have:", options: ["High density only", "Proper density, proper contrast, good sharpness, and minimal magnification/distortion", "Very low density and low contrast", "Only sharpness, other factors are optional"], correct: 1 },
+    { id: 3146, question: "Which of the following combinations correctly lists the two visual and three geometric characteristics?", options: ["Visual: density, contrast — Geometric: sharpness, magnification, distortion", "Visual: sharpness, magnification — Geometric: density, contrast, resolution", "Visual: exposure time, kVp — Geometric: cone length, mA, collimation", "Visual: radiolucency, radiopacity — Geometric: film speed, dot position, PID length"], correct: 0 },
+
+    // Study Advice (9 questions)
+    { id: 3147, question: "According to the instructor, the best way to prepare for the test is to:", options: ["Only memorize lecture slides the night before", "Study both PowerPoint slides and the corresponding textbook chapters", "Study only the textbook and ignore the slides", "Learn only from classmates' notes"], correct: 1 },
+    { id: 3148, question: "The instructor recommends using the textbook because:", options: ["The textbook is completely different from the slides", "The textbook is very complex but required for formality", "The textbook presents concepts clearly and supports the lecture content", "The test is based only on textbook page numbers"], correct: 2 },
+    { id: 3149, question: "Self-study (not fully covered in lecture) mentioned by the instructor includes:", options: ["Occlusal radiographs only", "Processing and developing errors chapters", "Extraoral panoramic positioning", "Radiation physics only"], correct: 1 },
+    { id: 3150, question: "For the upcoming test, the instructor stated that it will cover:", options: ["All lectures in the course", "Only lab exercises", "Only the first 5 lectures plus assigned self-study topics from processing/errors chapters", "Only the last lecture of the course"], correct: 2 },
+    { id: 3151, question: "Regarding the test format, the instructor mentioned that it will mainly include:", options: ["Only long essay questions", "A mix of multiple-choice and a few short-answer or labeling questions", "Only true/false questions", "Only practical clinical OSCE stations"], correct: 1 },
+    { id: 3152, question: "To avoid technical issues during an online test, the instructor recommended:", options: ["Ignoring internet problems and guessing quickly", "Doing the test only on a phone", "Ensuring the lockdown browser works and restarting the computer if needed", "Sharing the screen with classmates"], correct: 2 },
+    { id: 3153, question: "If a student has unstable internet at home during an online test, the instructor suggested:", options: ["Asking for an automatic retake", "Going to school/library to use a more stable connection", "Using mobile data while driving", "Skipping the test entirely"], correct: 1 },
+    { id: 3154, question: "When working in pairs on assignments (e.g., processing errors), the instructor emphasized:", options: ["One partner can do everything, the other just signs the name", "Partners will always get different grades", "Both partners should contribute equally and present together", "Only one partner needs to be present on presentation day"], correct: 2 },
+    { id: 3155, question: "For grading short-answer questions, the instructor said they:", options: ["Focus heavily on perfect grammar and spelling", "Only grade if sentences are perfectly formed", "Are mainly interested in understanding the idea, not minor language mistakes", "Do not accept answers with any spelling errors"], correct: 2 },
+
+    // Study Philosophy (1 question)
+    { id: 3156, question: "Which of the following BEST summarizes the instructor's expectation about preparation?", options: ["\"Nothing is hard if you study well and wisely\"", "\"Only smart students can pass this course\"", "\"Do not waste time studying the textbook\"", "\"Just memorize jokes and you will pass\""], correct: 0 },
+
+    // Additional XCP Details (3 questions)
+    { id: 3157, question: "Which surface of the receptor must always face the PID when using XCP?", options: ["The backside with the identification dot", "The plain (white) surface", "The phosphor-coated surface", "Either side is fine"], correct: 1 },
+    { id: 3158, question: "Which step ensures the XCP is assembled correctly?", options: ["The metal bar must bend backward", "The ring must align so the entire receptor is visible through it", "The bite-block must be placed upside-down", "The ring must sit loosely around the bar"], correct: 1 },
+    { id: 3159, question: "What error still occurs even when using XCP if assembled incorrectly?", options: ["Double exposure", "Cone-cut", "Overlap", "Fogging"], correct: 1 },
+
+    // Diagnostic Standards Review (13 questions)
+    { id: 3160, question: "A diagnostic radiograph must include all EXCEPT:", options: ["Proper density and contrast", "Correct anatomical coverage", "No distortion or magnification", "Slight cone-cut allowed"], correct: 3 },
+    { id: 3161, question: "Density refers to:", options: ["Sharpness of the root outline", "Overall darkness or blackness of the radiograph", "Ability to see enamel separate from dentin", "Thickness of the receptor"], correct: 1 },
+    { id: 3162, question: "Radiolucent structures appear dark because they:", options: ["Absorb most x-rays", "Reflect all x-rays", "Allow more x-rays to reach the receptor", "Block photon scatter"], correct: 2 },
+    { id: 3163, question: "Which is radiopaque?", options: ["Air space", "Pulp chamber", "Enamel", "Gingiva"], correct: 2 },
+    { id: 3164, question: "Cementum is difficult to distinguish from dentin because:", options: ["It is not present on radiographs", "They have similar inorganic composition", "Cementum absorbs no radiation", "Dentin is thinner"], correct: 1 },
+    { id: 3165, question: "Which visual characteristics determine image appearance?", options: ["Density & contrast", "Density & sharpness", "Sharpness & magnification", "Contrast & distortion"], correct: 0 },
+    { id: 3166, question: "Which set represents geometric characteristics?", options: ["Density, contrast", "Sharpness, magnification, distortion", "Overlap, cone-cut, reversed film", "Radiopaque, radiolucent"], correct: 1 },
+    { id: 3167, question: "A radiograph that appears too light most likely has:", options: ["Low density", "High density", "High contrast", "Excessive sharpness"], correct: 0 },
+    { id: 3168, question: "In a poor bitewing where premolars and molars are both partially cut off, the primary error is:", options: ["Incorrect vertical angulation", "Incorrect receptor placement", "Patient movement", "Excessive contrast"], correct: 1 },
+    { id: 3169, question: "Differential attenuation means:", options: ["All tissues absorb x-rays equally", "Thicker tissues reduce more x-rays than thinner ones", "Only metal can attenuate x-rays", "Attenuation occurs only in soft tissues"], correct: 1 },
+    { id: 3170, question: "Which statement about sharpness is TRUE?", options: ["It refers to overall image brightness", "It describes how clearly small details are seen", "It is the same as magnification", "It is unrelated to image quality"], correct: 1 },
+    { id: 3171, question: "Which is NOT required for a diagnostic radiograph?", options: ["Correct anatomical coverage", "No cone-cut", "Minimal distortion", "Extremely dark density"], correct: 3 },
+    { id: 3172, question: "Which component of the XCP is responsible for aligning the PID correctly?", options: ["Bite-block", "Ring", "Metal arm", "Receptor"], correct: 1 },
+
+    // Final Review Questions (23 questions)
+    { id: 3173, question: "What happens if the ring does NOT fully cover the receptor during assembly?", options: ["Overlap occurs", "Distortion increases", "Cone-cut may occur", "The receptor will fog"], correct: 2 },
+    { id: 3174, question: "Which statement best defines contrast?", options: ["The sharpness of the image", "The overall darkness of the image", "The difference between light and dark areas", "The size accuracy of the image"], correct: 2 },
+    { id: 3175, question: "A radiograph that shows enamel and dentin almost the same shade likely has:", options: ["High contrast", "Low contrast", "High density", "Maximum sharpness"], correct: 1 },
+    { id: 3176, question: "Which factor MOST directly affects density?", options: ["Kilovoltage (kVp)", "Exposure time", "Milliamperage (mA)", "All of the above"], correct: 3 },
+    { id: 3177, question: "A radiograph appears too dark. This means:", options: ["Density is too high", "Density is too low", "Contrast is too high", "Sharpness is reduced"], correct: 0 },
+    { id: 3178, question: "Radiopaque areas appear light because:", options: ["They allow more photons through", "They block or absorb more x-rays", "They create scatter", "They contain more water content"], correct: 1 },
+    { id: 3179, question: "The pulp chamber appears dark on a radiograph because:", options: ["It contains metal ions", "It blocks most x-rays", "It has low density and allows x-rays to pass", "It creates a shadow"], correct: 2 },
+    { id: 3180, question: "Which is an example of a geometric characteristic?", options: ["Contrast", "Radiopacity", "Sharpness", "Density"], correct: 2 },
+    { id: 3181, question: "Magnification occurs when:", options: ["PID is too close to the receptor", "Object-to-receptor distance is too large", "Receptor is placed vertically", "Patient bites too hard"], correct: 1 },
+    { id: 3182, question: "Distortion results from:", options: ["Incorrect horizontal angulation", "Incorrect vertical angulation", "Receptor and tooth not being parallel", "All of the above"], correct: 3 },
+    { id: 3183, question: "Which of the following is true regarding a diagnostic film?", options: ["Small cone-cuts are acceptable", "Minor overlaps do not matter", "It must include entire area of interest", "Low contrast is preferred"], correct: 2 },
+    { id: 3184, question: "In digital sensors, radiolucent areas appear dark because of:", options: ["Fewer energized pixels", "More energized pixels", "The sensor overheats", "The image freezes"], correct: 1 },
+    { id: 3185, question: "If enamel appears very white but dentin appears almost equally white, the image likely has:", options: ["Too much contrast", "Too little contrast", "Perfect contrast", "Excessive density"], correct: 1 },
+    { id: 3186, question: "Which receptor error leads to loss of periapical visualization?", options: ["Receptor placed too close to palate", "Receptor placed too coronally", "Receptor not parallel", "All of the above"], correct: 3 },
+    { id: 3187, question: "If the XCP bite-block is placed upside-down for an anterior PA, what error will most likely occur?", options: ["Overlap", "Apical cut-off", "Crown cut-off", "Cone-cut"], correct: 1 },
+    { id: 3188, question: "Why must the identification dot be positioned toward the occlusal/incisal edge?", options: ["Reduces magnification", "Prevents image reversal", "Ensures proper mounting/orientation", "Increases sharpness"], correct: 2 },
+    { id: 3189, question: "Which scenario causes horizontal overlap?", options: ["Incorrect vertical angulation", "PID not perpendicular to contact areas", "Receptor bending", "Using size 1 instead of size 2"], correct: 1 },
+    { id: 3190, question: "A radiograph with blurry edges of roots shows poor:", options: ["Density", "Contrast", "Sharpness", "Coverage"], correct: 2 },
+    { id: 3191, question: "Radiolucent areas include all EXCEPT:", options: ["Pulp chamber", "Air space", "Carious lesions", "Enamel"], correct: 3 },
+    { id: 3192, question: "An extremely white film overall indicates:", options: ["Extremely low density", "Extremely high density", "Low contrast", "Correct exposure"], correct: 0 },
+    { id: 3193, question: "If patient movement occurs during exposure, what will happen?", options: ["Cone-cut", "Elongation", "Magnification", "Loss of sharpness (motion blur)"], correct: 3 },
+    { id: 3194, question: "Which of the following structures should appear MOST radiopaque?", options: ["Pulp", "Soft tissue", "Metal crown", "Cancellous bone"], correct: 2 },
+    { id: 3195, question: "The ability to distinguish enamel from dentin depends mainly on:", options: ["Sharpness", "Density", "Contrast", "Magnification"], correct: 2 }
   ],
   "6. Dental Radiography Theory": [
     // Density - Basic Concepts (10 questions)
