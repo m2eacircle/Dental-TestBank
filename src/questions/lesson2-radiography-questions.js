@@ -1,11 +1,14 @@
 // LESSON 2 - Dental Radiography Theory Questions
-// Total: 982 questions across 8 topics
+// Total: 1128 questions across 8 topics
 // Topics:
 //   1. Radiation History & Radiation Physics (275 questions)
 //   2. Dental X-ray Equipment, Film Processing (255 questions)
 //   3. Dental Radiography Theory (217 questions) - COMPLETE
 //   4. Dental Radiography Theory (235 questions) - COMPLETE
-//   5-8. Dental Radiography Theory (ready for questions)
+//   5. Dental Radiography Theory (83 questions) - IN PROGRESS
+//   6. Dental Radiography Theory (ready for questions)
+//   7. Dental Radiography Theory (ready for questions)
+//   8. Dental Radiography Theory (63 questions) - COMPLETE
 
 export const radiographyQuestions = {
   "1. Radiation History & Radiation Physics": [
@@ -1059,7 +1062,114 @@ export const radiographyQuestions = {
     { id: 2581, question: "Labial vs lingual mounting: in routine practice we use:", options: ["Labial (dot/pimple toward the viewer; view as facing the patient)", "Lingual (dimple toward viewer)", "Either—both standard in clinics", "Lingual only for pediatrics"], correct: 0 }
   ],
   "5. Dental Radiography Theory": [
-    // Questions to be added for this topic
+    // Processing Chemistry - Developer (11 questions)
+    { id: 2582, question: "The developer's main function is to:", options: ["Reduce exposed silver halide crystals to black metallic silver", "Remove unexposed crystals", "Harden the emulsion", "Fix the latent image"], correct: 0 },
+    { id: 2583, question: "Which chemical acts as the reducing agent in the developer?", options: ["Hydroquinone and Elon (Metol)", "Sodium thiosulfate", "Potassium bromide", "Acetic acid"], correct: 0 },
+    { id: 2584, question: "Hydroquinone in the developer is responsible for:", options: ["Producing black tones and contrast", "Producing gray tones", "Hardening the film", "Stopping oxidation"], correct: 0 },
+    { id: 2585, question: "Elon (Metol) produces:", options: ["Gray shades", "Black tones", "Blue tints", "Image sharpness"], correct: 0 },
+    { id: 2586, question: "The preservative in developer is:", options: ["Sodium sulfite", "Potassium alum", "Acetic acid", "Sodium carbonate"], correct: 0 },
+    { id: 2587, question: "Sodium carbonate acts as:", options: ["Accelerator (activator) to soften gelatin and allow developer penetration", "Acidic buffer", "Restrainer", "Fixing agent"], correct: 0 },
+    { id: 2588, question: "Potassium bromide in the developer acts as a:", options: ["Restrainer to prevent fogging", "Preservative", "Reducing agent", "Hardener"], correct: 0 },
+    { id: 2589, question: "The optimal temperature for manual development is:", options: ["68°F (20°C)", "45°F", "100°F", "Room temperature only"], correct: 0 },
+    { id: 2590, question: "Developing time at 68°F is approximately:", options: ["5 minutes", "1 minute", "10 minutes", "20 seconds"], correct: 0 },
+    { id: 2591, question: "Increasing temperature of the developer causes:", options: ["Faster developing and higher density", "Film fogging reduction", "Decreased contrast", "Thinner emulsion"], correct: 0 },
+    { id: 2592, question: "Oxidized developer typically appears:", options: ["Dark brown", "Clear", "Milky white", "Blue"], correct: 0 },
+
+    // Processing Chemistry - Fixer (9 questions)
+    { id: 2593, question: "The purpose of fixer is to:", options: ["Remove unexposed silver halide crystals", "Convert exposed crystals to silver", "Increase contrast", "Soften emulsion"], correct: 0 },
+    { id: 2594, question: "The fixing agent is:", options: ["Sodium thiosulfate or ammonium thiosulfate", "Hydroquinone", "Potassium bromide", "Sodium carbonate"], correct: 0 },
+    { id: 2595, question: "The preservative in the fixer is:", options: ["Sodium sulfite", "Potassium alum", "Acetic acid", "Elon"], correct: 0 },
+    { id: 2596, question: "The hardening agent is:", options: ["Potassium alum", "Acetic acid", "Sodium carbonate", "Hydroquinone"], correct: 0 },
+    { id: 2597, question: "The acidifier in the fixer is:", options: ["Acetic acid or sulfuric acid", "Sodium sulfite", "Sodium carbonate", "Potassium bromide"], correct: 0 },
+    { id: 2598, question: "The fixing process should last approximately:", options: ["Twice the developing time", "Half of developing time", "The same as development", "Ten seconds"], correct: 0 },
+    { id: 2599, question: "The cleared (fixed) areas on film appear:", options: ["White", "Black", "Gray", "Brown"], correct: 0 },
+    { id: 2600, question: "The fixing process stops development because:", options: ["It neutralizes the alkaline developer", "It adds more silver", "It re-hardens the film", "It increases exposure"], correct: 0 },
+    { id: 2601, question: "If fixer is exhausted, the film will appear:", options: ["Brownish or yellowish", "Too light", "Too dark", "Blue-tinted"], correct: 0 },
+
+    // Manual Processing Sequence (5 questions)
+    { id: 2602, question: "Over-fixing for too long causes:", options: ["Loss of image density", "Film fog", "Overcontrast", "Streaking"], correct: 0 },
+    { id: 2603, question: "The correct manual film processing sequence is:", options: ["Develop → Rinse → Fix → Wash → Dry", "Fix → Wash → Develop → Dry", "Rinse → Develop → Fix → Dry", "Develop → Fix → Wash → Dry"], correct: 0 },
+    { id: 2604, question: "The rinse step prevents:", options: ["Contamination of the fixer by developer", "Film fog", "Overexposure", "Soft tissue artifact"], correct: 0 },
+    { id: 2605, question: "Washing removes:", options: ["All residual chemical solutions", "Only developer", "All silver deposits", "Film base"], correct: 0 },
+    { id: 2606, question: "The final step of manual processing is:", options: ["Drying in a clean, dust-free area", "Air exposure", "Water rinse only", "Heating with a towel"], correct: 0 },
+
+    // Drying & Automatic Processing (5 questions)
+    { id: 2607, question: "Ideal drying conditions require:", options: ["Air circulation at room temperature", "Sunlight", "Heater at 100°C", "Closed darkroom"], correct: 0 },
+    { id: 2608, question: "Automatic processors eliminate which step?", options: ["Rinsing", "Developing", "Fixing", "Washing"], correct: 0 },
+    { id: 2609, question: "The temperature of automatic processing developer solution is:", options: ["80–95°F (26–35°C)", "68°F", "40°F", "110°F"], correct: 0 },
+    { id: 2610, question: "Automatic solutions are usually:", options: ["More concentrated and warmer", "Less concentrated", "Acidic and cold", "Thinner and slower"], correct: 0 },
+    { id: 2611, question: "Film transport systems in automatic processors move film:", options: ["Through rollers that squeeze off excess solution", "Manually", "Vertically in water", "By suction"], correct: 0 },
+
+    // Processing Advantages & Errors (10 questions)
+    { id: 2612, question: "The primary advantage of automatic processing is:", options: ["Shorter processing time (4–6 min total)", "Lower chemical use", "Better manual control", "No maintenance required"], correct: 0 },
+    { id: 2613, question: "Film too light indicates:", options: ["Underdevelopment or exhausted developer", "Overdevelopment", "Light exposure", "Contaminated fixer"], correct: 0 },
+    { id: 2614, question: "Film too dark indicates:", options: ["Overdevelopment or too high temperature", "Exhausted fixer", "Film fog", "Incorrect exposure"], correct: 0 },
+    { id: 2615, question: "Yellow-brown stains occur due to:", options: ["Insufficient fixing or washing", "Excessive drying", "Developer contamination", "Light exposure"], correct: 0 },
+    { id: 2616, question: "Black spots on the film are caused by:", options: ["Developer splash before processing", "Fixer contamination", "Air bubbles", "Underexposure"], correct: 0 },
+    { id: 2617, question: "White spots occur due to:", options: ["Fixer splash before development", "Developer spill", "Reticulation", "Film aging"], correct: 0 },
+    { id: 2618, question: "Film fog results from:", options: ["Light leak or outdated film", "Underdevelopment", "Weak fixer", "Proper processing"], correct: 0 },
+    { id: 2619, question: "Reticulation of emulsion results from:", options: ["Sudden temperature change between solutions", "Prolonged fixing", "Overdrying", "Developer contamination"], correct: 0 },
+    { id: 2620, question: "Static electricity marks appear as:", options: ["Thin black branching lines", "White patches", "Brown stains", "Fog"], correct: 0 },
+    { id: 2621, question: "Overlapping films during processing cause:", options: ["White or dark areas depending on overlap", "Blurred images", "Reticulation", "Black lines"], correct: 0 },
+
+    // Artifacts (2 questions)
+    { id: 2622, question: "Fingernail pressure marks appear as:", options: ["Crescent-shaped black marks", "White streaks", "Foggy patches", "Brown stains"], correct: 0 },
+    { id: 2623, question: "Handling films under a faulty safelight most likely results in:", options: ["Overall density increase and loss of contrast", "Partial white areas", "Crescent marks", "Brown-yellow stains only"], correct: 0 },
+
+    // Darkroom Setup (5 questions)
+    { id: 2624, question: "The darkroom must be:", options: ["Completely light-tight", "Dimly lit", "Bright with red light", "Exposed to safelight only"], correct: 0 },
+    { id: 2625, question: "The safelight filter used is typically:", options: ["GBX (red) or ML-2 (orange)", "Blue filter", "Green LED", "UV filter"], correct: 0 },
+    { id: 2626, question: "The safelight bulb should be:", options: ["7.5–15 watts and placed at least 4 feet from the work area", "25 watts at 1 foot distance", "Any brightness", "Directly over film"], correct: 0 },
+    { id: 2627, question: "Optimal darkroom ventilation primarily reduces:", options: ["Chemical vapor accumulation and oxidation", "Static electricity", "Light leaks", "Emulsion thickness"], correct: 0 },
+    { id: 2628, question: "A common cause of chemical fog is:", options: ["Developer temperature too high", "Insufficient fixing", "Short wash", "Low kVp"], correct: 0 },
+
+    // Quality Control Tests (8 questions)
+    { id: 2629, question: "The coin test is used to check:", options: ["Safelight safety", "Film speed", "Developer strength", "Exposure time"], correct: 0 },
+    { id: 2630, question: "If the coin image appears after processing, the safelight is:", options: ["Unsafe and must be replaced or moved", "Correct", "Too dim", "Overfiltered"], correct: 0 },
+    { id: 2631, question: "The step wedge test evaluates:", options: ["Developer strength and film contrast consistency", "Fixer pH", "X-ray exposure", "Processor temperature"], correct: 0 },
+    { id: 2632, question: "Fresh film test determines:", options: ["Whether film has expired or been fogged", "Developer clarity", "Fixer concentration", "Processing time"], correct: 0 },
+    { id: 2633, question: "Replenisher is used to:", options: ["Maintain solution strength during daily use", "Replace developer weekly", "Clean rollers", "Adjust pH"], correct: 0 },
+    { id: 2634, question: "Processing tanks should be cleaned:", options: ["Weekly or when solution is changed", "Monthly", "Only when dirty", "Yearly"], correct: 0 },
+    { id: 2635, question: "Solution levels should be checked:", options: ["Daily before processing", "Once per week", "Monthly", "Only after failure"], correct: 0 },
+    { id: 2636, question: "A coin test that shows coin outlines after 3 minutes indicates you should:", options: ["Replace/move safelight or increase distance", "Increase developer time", "Shorten fixing time", "Decrease wash time"], correct: 0 },
+
+    // Advanced Processing Issues (4 questions)
+    { id: 2637, question: "Generalized grayness obscuring contrast is most consistent with:", options: ["Film fog", "Cone cut", "Overlap", "Reticulation"], correct: 0 },
+    { id: 2638, question: "In wet mounting, the most critical step to prevent artifacts is:", options: ["Thorough final wash before drying", "Prolonged fixing only", "Using hot air", "No rinse after development"], correct: 0 },
+    { id: 2639, question: "When replenishment is inadequate, serial films over a clinic day will show:", options: ["Progressive decrease in density and contrast", "Progressive increase in density", "More cone cuts", "Less sharpness only"], correct: 0 },
+    { id: 2640, question: "The first action when streaks appear on automatic films is to:", options: ["Clean and dry rollers per manufacturer protocol", "Raise kVp", "Extend fixing time", "Change safelight filter"], correct: 0 },
+
+    // Step Wedge Troubleshooting (1 question)
+    { id: 2641, question: "A step-wedge daily control shows two steps lighter than baseline. Most likely:", options: ["Developer is weak/cool → increase temp or replenish", "Fixer contaminated developer", "Film is expired", "Safelight leak"], correct: 0 },
+
+    // Diagnostic Criteria & Coverage (10 questions)
+    { id: 2642, question: "A diagnostic periapical must include:", options: ["Entire crown and ≥2 mm beyond apex", "Only crown and CEJ", "Apex only", "Enamel only"], correct: 0 },
+    { id: 2643, question: "For a molar PA, ideal coverage includes:", options: ["Distal of second premolar through distal of most distal molar area", "Only first molar roots", "Only crowns", "Mesial of canine"], correct: 0 },
+    { id: 2644, question: "Retakes are justified under ALARA only when:", options: ["Anatomy of interest is missing/undiagnostic", "Image is slightly rotated but fully diagnostic", "Patient requests a prettier image", "Office policy requires two of each view"], correct: 0 },
+    { id: 2645, question: "The most frequent bitewing retake cause is:", options: ["Horizontal overlap from incorrect horizontal angulation", "Excessive vertical angulation", "Long PID", "Low mA"], correct: 0 },
+    { id: 2646, question: "A PA showing incisal edges but missing apices is due to:", options: ["Insufficient receptor depth or vertical angulation error", "Overfixing", "Low kVp", "Static artifacts"], correct: 0 },
+    { id: 2647, question: "To reduce repeat rates, the single most effective practice is:", options: ["Consistent exposure/processing QC checks", "Higher kVp on all patients", "No collimation", "Eliminate step-wedge tests"], correct: 0 },
+    { id: 2648, question: "A 'cone cut' indicates:", options: ["PID not aligned to cover entire receptor/ring", "Excessive kVp", "Exhausted fixer", "Patient movement only"], correct: 0 },
+    { id: 2649, question: "If the distal of canine is not visible on a premolar bitewing, you should:", options: ["Shift receptor slightly anterior", "Reduce vertical angulation", "Increase mA", "Use size 3 routinely"], correct: 0 },
+    { id: 2650, question: "When third molar region is suspected to have pathology but PA misses the area, next step:", options: ["Re-take with more distal placement; consider pano if still inadequate", "Increase kVp", "Shorten exposure time", "No further imaging"], correct: 0 },
+    { id: 2651, question: "Documenting retakes should include:", options: ["Reason, corrective action, and outcome", "Patient's favorite side", "Safelight bulb brand", "Room paint color"], correct: 0 },
+
+    // Image Quality - Visual Characteristics (10 questions)
+    { id: 2652, question: "Image 'density' refers to:", options: ["Overall blackness of the radiograph", "Thickness of enamel", "Exposure time only", "Film base tint"], correct: 0 },
+    { id: 2653, question: "Increased kVp primarily affects:", options: ["Lower contrast (long gray scale) and increased receptor exposure", "Higher contrast (short gray scale)", "Sharpness only", "Magnification"], correct: 0 },
+    { id: 2654, question: "Sharpness is most improved by:", options: ["Small focal spot size", "Large focal spot size", "High kVp only", "Increased OID"], correct: 0 },
+    { id: 2655, question: "Magnification increases when:", options: ["Object–receptor distance (OID) increases", "Source–receptor distance (SID) increases", "Focal spot decreases", "kVp increases"], correct: 0 },
+    { id: 2656, question: "Distortion is minimized when:", options: ["Object and receptor are parallel, and central ray is perpendicular to both", "Object and receptor at 30°", "Central ray oblique to receptor", "Receptor is curved"], correct: 0 },
+    { id: 2657, question: "A 'long cone' (long PID) in paralleling is used to:", options: ["Increase SID to compensate for increased OID, reducing magnification", "Decrease exposure time only", "Increase distortion", "Reduce contrast"], correct: 0 },
+    { id: 2658, question: "Excessive vertical angulation in a PA most likely causes:", options: ["Foreshortening", "Elongation", "Overlap", "Cone cut"], correct: 0 },
+    { id: 2659, question: "Insufficient vertical angulation in a bisecting projection causes:", options: ["Elongation", "Foreshortening", "Fog", "Static"], correct: 0 },
+    { id: 2660, question: "Loss of contrast with adequate density suggests:", options: ["High kVp or fog", "Low mA", "Overfixation only", "Excess collimation"], correct: 0 },
+    { id: 2661, question: "Motion unsharpness is best prevented by:", options: ["Head stabilization and patient instructions", "Increasing kVp", "Decreasing SID", "Using size 3 film"], correct: 0 },
+
+    // Geometric Projection (3 questions)
+    { id: 2662, question: "Projection geometry rules include all EXCEPT:", options: ["Object–receptor as close as possible (in general rule)", "Object–receptor parallel", "Central ray perpendicular to object and receptor", "Target–receptor distance as short as possible"], correct: 3 },
+    { id: 2663, question: "In paralleling, which rule is intentionally violated and compensated?", options: ["Short OID", "Parallelism", "Perpendicular central ray", "Small focal spot"], correct: 0 },
+    { id: 2664, question: "Color codes for XCP:", options: ["Red = bitewing, Yellow = posterior PA, Blue = anterior PA", "Red = anterior PA, Yellow = bitewing, Blue = posterior", "Red = pano, Yellow = occlusal, Blue = CBCT", "All identical"], correct: 0 }
   ],
   "6. Dental Radiography Theory": [
     // Questions to be added for this topic
@@ -1068,7 +1178,92 @@ export const radiographyQuestions = {
     // Questions to be added for this topic
   ],
   "8. Dental Radiography Theory": [
-    // Questions to be added for this topic
+    // Bisecting Angle Technique - Basic Principles (7 questions)
+    { id: 2665, question: "In the bisecting angle technique, the imaginary bisector is the line that:", options: ["Divides the root into two equal halves", "Divides the angle between the tooth's long axis and the receptor into two equal parts", "Is parallel to the occlusal plane", "Is perpendicular to the long axis of the tooth"], correct: 1 },
+    { id: 2666, question: "The rule of isometry in bisecting angle technique states that:", options: ["Two triangles with equal bases are always congruent", "Two triangles with one common side and two equal angles are congruent", "All right triangles are congruent", "Any triangle with a 90° angle is isometric"], correct: 1 },
+    { id: 2667, question: "For an ideal bisecting-angle exposure, the central ray must be directed:", options: ["Perpendicular to the long axis of the tooth", "Perpendicular to the receptor", "Perpendicular to the imaginary bisector", "Parallel to the occlusal plane"], correct: 2 },
+    { id: 2668, question: "In bisecting, the imaginary bisector is the line that:", options: ["Divides the root in half", "Divides the crown in half", "Divides the angle between the tooth's long axis and the receptor into two equal parts", "Is parallel to the receptor"], correct: 2 },
+    { id: 2669, question: "The bisecting angle technique is based on which geometric principle?", options: ["Inverse square law", "Rule of isometry", "Pythagorean theorem", "Parallel projection principle"], correct: 1 },
+    { id: 2670, question: "In the bisecting angle technique, the central ray is directed:", options: ["Perpendicular to the receptor", "Perpendicular to the long axis of the tooth", "Perpendicular to the imaginary bisector between tooth and receptor", "Parallel to the occlusal plane"], correct: 2 },
+    { id: 2671, question: "Which statement is correct regarding radiology vs radiography?", options: ["Radiology is the process of making radiographs; radiography is the science of radiation", "Radiology is the science/study of radiation; radiography is the process of making radiographs", "Both terms mean exactly the same", "Radiology refers only to medical CT scans"], correct: 1 },
+
+    // Vertical Angulation Errors (8 questions)
+    { id: 2672, question: "In bisecting technique, when the vertical angulation is too steep (too positive), the image will appear:", options: ["Elongated", "Foreshortened", "Magnified but accurate in length", "Unchanged"], correct: 1 },
+    { id: 2673, question: "In bisecting technique, if the image is elongated, the correction is to:", options: ["Increase vertical angulation", "Decrease vertical angulation", "Increase exposure time", "Move the receptor farther from the tooth"], correct: 0 },
+    { id: 2674, question: "In bisecting technique, if the image is foreshortened, the correction is to:", options: ["Increase vertical angulation", "Decrease vertical angulation", "Move the receptor closer to the tooth", "Use a longer PID"], correct: 1 },
+    { id: 2675, question: "Using bisecting technique, you obtain a foreshortened image of the maxillary premolars. To correct this error, on the retake you should:", options: ["Increase vertical angulation (more positive)", "Decrease vertical angulation (less positive)", "Move the receptor farther from the tooth", "Increase exposure time"], correct: 1 },
+    { id: 2676, question: "In bisecting technique, an elongated image is caused by:", options: ["Too little vertical angulation (angle too flat)", "Too much vertical angulation (too steep)", "Excessive exposure time", "Incorrect horizontal angulation"], correct: 0 },
+    { id: 2677, question: "In bisecting technique, vertical angulation is:", options: ["Not important", "Only important for posterior teeth", "Measured in degrees on the tube head scale", "Always set to 0°"], correct: 2 },
+    { id: 2678, question: "For conventional bitewing radiographs using the bisecting/bite-tab method, the usual vertical angulation is:", options: ["–10°", "0°", "+10°", "+20°"], correct: 2 },
+    { id: 2679, question: "When a horizontal overlap error occurs in a bisecting periapical, the correction is to:", options: ["Adjust vertical angulation", "Change kVp", "Re-align the tubehead so the beam passes through the contact areas", "Move the receptor apically"], correct: 2 },
+
+    // Receptor Sizes and FMX Configuration (5 questions)
+    { id: 2680, question: "For bisecting periapicals in adults, which receptor size is used for BOTH anterior and posterior teeth?", options: ["Size 0", "Size 1", "Size 2", "Size 3"], correct: 2 },
+    { id: 2681, question: "In a full-mouth series using bisecting technique (with bitewings), how many images are typically taken in an adult?", options: ["14 (no bitewings)", "16 (12 PA + 4 BW)", "18 (14 PA + 4 BW)", "20 (16 PA + 4 BW)"], correct: 2 },
+    { id: 2682, question: "When using bisecting technique in adults, the recommended receptor size for both anterior and posterior periapicals is:", options: ["Size 0", "Size 1", "Size 2", "Size 3"], correct: 2 },
+    { id: 2683, question: "In a full-mouth series using bisecting technique, including bitewings, how many images are usually taken in an adult?", options: ["14", "16", "18", "20"], correct: 2 },
+    { id: 2684, question: "Horizontal angulation error in periapical or bitewing radiographs results primarily in:", options: ["Foreshortening", "Cone-cutting", "Image elongation", "Overlapped contacts"], correct: 3 },
+
+    // Receptor Placement (4 questions)
+    { id: 2685, question: "In bisecting technique, the anterior periapical receptors are generally placed:", options: ["Horizontally for maxillary and mandibular", "Vertically for both maxillary and mandibular", "Horizontally for maxillary, vertically for mandibular", "Vertically for maxillary, horizontally for mandibular"], correct: 1 },
+    { id: 2686, question: "In bisecting technique, correct receptor placement for a periapical requires that the receptor:", options: ["Touch the incisal/occlusal edges", "Extend about 1/8 inch (3–4 mm) beyond the incisal/occlusal edges", "Be flush with the apex only", "Be positioned only at the mid-root level"], correct: 1 },
+    { id: 2687, question: "In periapical imaging (both paralleling and bisecting), a diagnostically acceptable image should show the apex with at least:", options: ["0.5–1 mm of surrounding bone", "1–2 mm of surrounding bone", "2–3 mm of surrounding bone", "5 mm of surrounding bone"], correct: 2 },
+    { id: 2688, question: "Before placing the receptor in the mouth for any intraoral radiograph, the operator should:", options: ["Set the exposure time appropriate for the patient and region", "Change kVp for every image", "Turn the unit on after placing the receptor", "Ask the patient to bite first and then adjust settings"], correct: 0 },
+
+    // Beam Alignment Devices (7 questions)
+    { id: 2689, question: "Which of the following devices is specifically designed as a beam alignment instrument for the bisecting angle technique?", options: ["XCP holder only", "Rinn BAI instrument", "Only cotton rolls", "Only finger-holding"], correct: 1 },
+    { id: 2690, question: "The Snap-A-Ray holder (often called 'alligator forceps') is commonly used for:", options: ["Paralleling technique only", "Bisecting periapicals (particularly posterior)", "Panoramic imaging", "Extraoral skull projections"], correct: 1 },
+    { id: 2691, question: "Which device is specifically designed as a beam alignment instrument for the bisecting angle technique?", options: ["XCP holder only", "Rinn BAI instrument", "Panoramic bite-block", "Cotton rolls"], correct: 1 },
+    { id: 2692, question: "The finger-holding method for bisecting should be:", options: ["The first choice in all adult patients", "Used only as a last resort when no holder is tolerated", "Used for all bitewings", "Preferred over all holders to reduce cost"], correct: 1 },
+    { id: 2693, question: "The least desirable method of supporting the receptor in bisecting angle technique is:", options: ["Rinn BAI device", "Snap-A-Ray holder", "Stable bite-block", "Patient finger-holding"], correct: 3 },
+    { id: 2694, question: "The main radiation safety problem with the finger-holding method is that:", options: ["The operator receives more scatter", "The patient's finger is unnecessarily exposed to primary radiation", "The exposure time must be doubled", "The kVp must be increased"], correct: 1 },
+    { id: 2695, question: "Proper patient positioning for intraoral radiographs includes:", options: ["Occlusal plane perpendicular to the floor", "Midsagittal (midline) plane parallel to the floor", "Occlusal plane parallel to the floor and midline plane perpendicular to the floor", "Any position as long as the patient is comfortable"], correct: 2 },
+
+    // Finger-Holding Method Issues (3 questions)
+    { id: 2696, question: "Why is the finger-holding method considered the least desirable way to support the receptor in bisecting?", options: ["It makes the film too stable", "It exposes the patient's finger unnecessarily to radiation", "It always causes cone-cutting", "It is not allowed for children"], correct: 1 },
+    { id: 2697, question: "A major disadvantage of the finger-holding method is that:", options: ["Vertical angulation cannot be changed", "The finger can move the receptor, causing distortion or blurring", "It requires a long PID", "It automatically eliminates cone-cuts"], correct: 1 },
+    { id: 2698, question: "When using finger-holding in bisecting technique, the patient should ideally hold the receptor with:", options: ["Two or three fingers in front of the film", "A thumb and index finger on both sides of the film", "One finger, pressed on the correct area, without covering the image area", "The entire hand around the receptor"], correct: 2 },
+
+    // PID Length and Beam Characteristics (5 questions)
+    { id: 2699, question: "Why is a short PID (about 8 inches) typically used with bisecting technique?", options: ["To reduce divergence of the beam", "To increase exposure time", "To match the longer object–receptor distance", "Because the film is close to the tooth and a short source-to-receptor distance is used"], correct: 3 },
+    { id: 2700, question: "A short PID (closer distance) will cause the X-ray beam to be:", options: ["Less divergent, less intense", "More divergent, more intense", "Less divergent, more intense", "More parallel, less intense"], correct: 1 },
+    { id: 2701, question: "Because of more beam divergence in bisecting technique, one common disadvantage is:", options: ["Less magnification and less distortion", "Greater magnification and more distortion", "Only cone-cuts", "Completely undistorted images"], correct: 1 },
+    { id: 2702, question: "In bisecting technique, a short PID (8-inch) is used. This results in:", options: ["Less beam divergence and less intensity", "More beam divergence and more intensity at the receptor", "No change in divergence", "Complete elimination of magnification"], correct: 1 },
+    { id: 2703, question: "Shorter exposure time in children, especially when using bisecting, is important mainly because:", options: ["Children have denser bone", "Children always have fewer teeth", "Children are more likely to move if they must hold the receptor too long", "Children do not need ALARA"], correct: 2 },
+
+    // Clinical Applications and Indications (4 questions)
+    { id: 2704, question: "Bisecting angle technique is especially useful in patients who:", options: ["Have very deep palates and can easily accept XCP holders", "Have shallow palates, large tori, or limited mouth opening", "Never gag and have large mouths", "Need extremely accurate dimensional images for implants"], correct: 1 },
+    { id: 2705, question: "Compared to bisecting, paralleling technique is generally preferred because it:", options: ["Is always faster", "Produces images with less dimensional distortion", "Uses less radiation in all cases", "Does not need any holders"], correct: 1 },
+    { id: 2706, question: "For children, using a short PID and shorter exposure time in bisecting is helpful mainly because:", options: ["Their bones are more radiopaque", "They always have fewer teeth", "They have a higher chance of movement if the film must be held too long", "Their teeth are more resistant to radiation"], correct: 2 },
+    { id: 2707, question: "For children, using a short PID and shorter exposure time in bisecting is helpful mainly because:", options: ["Children have denser bone", "Children always have fewer teeth", "Children are more likely to move if they must hold the receptor too long", "Children do not need ALARA"], correct: 2 },
+
+    // Advantages and Disadvantages (6 questions)
+    { id: 2708, question: "A major advantage of bisecting technique compared with paralleling is that:", options: ["It always gives more accurate images", "The receptor is closer to the tooth and can be more comfortable in some anatomies", "It completely eliminates exposure errors", "It does not require any knowledge of angulation"], correct: 1 },
+    { id: 2709, question: "A major disadvantage of bisecting technique compared with paralleling is:", options: ["It never shows apices", "It is more sensitive to vertical angulation errors (elongation/foreshortening)", "It cannot be used on posterior teeth", "It cannot show bone levels"], correct: 1 },
+    { id: 2710, question: "Which of the following is the main advantage of bisecting technique compared with paralleling?", options: ["Less distortion in all cases", "Uses a long PID for less magnification", "Receptor can be placed closer to the tooth in challenging anatomy", "No need to control vertical angulation"], correct: 2 },
+    { id: 2711, question: "Which of the following is a major disadvantage of bisecting technique?", options: ["Cannot be used for posterior teeth", "More sensitive to vertical angulation errors, causing elongation or foreshortening", "Requires more expensive equipment", "Cannot show periapical areas"], correct: 1 },
+    { id: 2712, question: "A major advantage of bisecting technique compared with paralleling is that:", options: ["It always gives more accurate images", "The receptor is closer to the tooth and can be more comfortable in some anatomies", "It completely eliminates exposure errors", "It does not require any knowledge of angulation"], correct: 1 },
+    { id: 2713, question: "A major disadvantage of bisecting technique compared with paralleling is:", options: ["It never shows apices", "It is more sensitive to vertical angulation errors (elongation/foreshortening)", "It cannot be used on posterior teeth", "It cannot show bone levels"], correct: 1 },
+
+    // Radiographic Uses and History (8 questions)
+    { id: 2714, question: "Which of the following is a primary use of dental radiographs?", options: ["Replace clinical examination completely", "Diagnose diseases and conditions that cannot be seen clinically", "Only for cosmetic purposes", "Only to check root canal files"], correct: 1 },
+    { id: 2715, question: "Dental radiographs are especially important to localize:", options: ["Toothbrushing technique", "Salivary stones, impacted teeth, and root canal length", "Gingival color changes", "Patient's tongue position"], correct: 1 },
+    { id: 2716, question: "Dental records including radiographs can be used in forensic identification because:", options: ["All patients have identical teeth", "Dental structures and restorations are unique to each person", "Radiographs always show the face clearly", "Only soft tissues are visible"], correct: 1 },
+    { id: 2717, question: "The primary purpose of dental radiographs is to:", options: ["Replace clinical examination", "Diagnose diseases and conditions that cannot be seen clinically", "Provide cosmetic records only", "Check brushing technique"], correct: 1 },
+    { id: 2718, question: "Dental radiographs can help localize all of the following EXCEPT:", options: ["Impacted teeth", "Salivary stones", "Root canal length", "Toothbrushing method"], correct: 3 },
+    { id: 2719, question: "Dental radiographs and records are especially useful in forensic dentistry because:", options: ["All dental arches look the same", "Dental restorations and anatomy are unique to each person", "Radiographs show skin patterns", "Radiographs show fingerprints"], correct: 1 },
+    { id: 2720, question: "X-rays were discovered by Wilhelm Conrad Roentgen in:", options: ["1795", "1895", "1925", "1950"], correct: 1 },
+    { id: 2721, question: "X-rays were first discovered by Wilhelm Conrad Roentgen in:", options: ["1795", "1895", "1915", "1955"], correct: 1 },
+
+    // Radiation History and Safety (2 questions)
+    { id: 2722, question: "Early dental radiology pioneers often suffered radiation damage mainly because:", options: ["They used too low kVp", "They had no knowledge of radiation hazards and no protection", "They used digital sensors", "They avoided fluoroscopy"], correct: 1 },
+    { id: 2723, question: "Why did many early X-ray pioneers suffer radiation damage?", options: ["They only used low kVp", "Machines were too small", "They had no knowledge of radiation hazards and did not use protection", "They took too few radiographs"], correct: 2 },
+
+    // X-ray Production and Processing (4 questions)
+    { id: 2724, question: "During an exposure, when the high-voltage circuit is activated, which of the following occurs inside the tube?", options: ["X-rays travel from cathode to anode", "Electrons travel from cathode to anode and strike the target", "Protons are produced at the cathode", "Only heat is produced without electrons moving"], correct: 1 },
+    { id: 2725, question: "In film processing, the fixer solution's key role is to:", options: ["Convert exposed crystals into metallic silver", "Remove unexposed silver halide crystals from the emulsion", "Soften the emulsion", "Increase film contrast by darkening exposed areas"], correct: 1 },
+    { id: 2726, question: "On a conventional film radiograph, the white (radiopaque) areas are produced because:", options: ["Exposed crystals remain in the emulsion", "Unexposed crystals are converted to metallic silver", "Unexposed crystals are removed by the fixer, leaving clear/white areas", "Developer darkens all crystals equally"], correct: 2 },
+    { id: 2727, question: "A restrainer in the developer solution is mainly used to:", options: ["Speed up the developer action", "Prevent the developer from acting on unexposed crystals, reducing fog", "Remove exposed crystals", "Harden the emulsion"], correct: 1 }
   ]
 };
 
