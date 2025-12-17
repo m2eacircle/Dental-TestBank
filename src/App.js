@@ -2874,6 +2874,47 @@ const questionBank = {
   ]
 };
 
+// Global styles for copy protection
+const globalStyles = `
+  .no-select {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-touch-callout: none;
+  }
+`;
+
+// Copy Button Component
+const CopyButton = ({ text, className = "" }) => {
+  const [copied, setCopied] = useState(false);
+  
+  const handleCopy = () => {
+    navigator.clipboard.writeText(text).then(() => {
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
+    }).catch(err => {
+      console.error('Copy failed:', err);
+    });
+  };
+  
+  return (
+    <button
+      onClick={handleCopy}
+      className={`p-2 rounded-lg hover:bg-gray-100 transition-colors ${className}`}
+      title="Copy question"
+    >
+      {copied ? (
+        <CheckCircle className="w-5 h-5 text-green-600" />
+      ) : (
+        <svg className="w-5 h-5 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+        </svg>
+      )}
+    </button>
+  );
+};
+
 // Google AdSense Component
 const GoogleAd = ({ slot, format = "auto", className = "" }) => {
   React.useEffect(() => {
@@ -2943,6 +2984,18 @@ export default function ImprovedTestBankApp() {
   const [parentSubject, setParentSubject] = useState(null);
   const [lastTestQuestions, setLastTestQuestions] = useState([]);
   const [usedQuestionIds, setUsedQuestionIds] = useState(new Set());
+  const [topicProgress, setTopicProgress] = useState({}); // Track progress per topic
+  const [isRetakeTest, setIsRetakeTest] = useState(false); // Track if current test is a retake
+
+  // Shuffle function for randomizing questions
+  const shuffleArray = (array) => {
+    const shuffled = [...array];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+    return shuffled;
+  };
 
   // Load data from localStorage on mount
   useEffect(() => {
@@ -2956,6 +3009,37 @@ export default function ImprovedTestBankApp() {
       if (savedFlags) {
         setFlaggedQuestions(JSON.parse(savedFlags));
       }
+      
+      // Inject global styles for copy protection
+      const styleElement = document.createElement('style');
+      styleElement.innerHTML = globalStyles;
+      document.head.appendChild(styleElement);
+      
+      // Disable right-click context menu
+      const handleContextMenu = (e) => {
+        if (!e.target.closest('button')) { // Allow copy buttons to work
+          e.preventDefault();
+        }
+      };
+      document.addEventListener('contextmenu', handleContextMenu);
+      
+      // Disable keyboard shortcuts for copy/paste/cut
+      const handleKeyDown = (e) => {
+        if ((e.ctrlKey || e.metaKey) && ['c', 'x', 'v', 'a'].includes(e.key.toLowerCase())) {
+          if (!e.target.closest('input') && !e.target.closest('textarea')) {
+            e.preventDefault();
+          }
+        }
+      };
+      document.addEventListener('keydown', handleKeyDown);
+      
+      return () => {
+        document.removeEventListener('contextmenu', handleContextMenu);
+        document.removeEventListener('keydown', handleKeyDown);
+        if (styleElement.parentNode) {
+          styleElement.parentNode.removeChild(styleElement);
+        }
+      };
     } catch (error) {
       console.error('Error loading saved data:', error);
     }
@@ -3042,6 +3126,14 @@ export default function ImprovedTestBankApp() {
   }, [testHistory]);
 
   const selectSubject = (subject) => {
+    // Reset topic progress when selecting a different topic
+    if (subject !== selectedSubject) {
+      setTopicProgress(prev => ({
+        ...prev,
+        [subject]: 0
+      }));
+    }
+    
     if (subjectsWithSubtopics[subject]) {
       setSelectedSubject(subject);
       setQuestionLimit({});
@@ -3085,6 +3177,7 @@ export default function ImprovedTestBankApp() {
       setReviewAnswers([]);
       setIsAnswerSubmitted(false);
       setIsPaused(false);
+      setIsRetakeTest(isRetake); // Track if this is a retake
       
       const questionKey = subtopic || subject;
       const allQuestions = questionBank[questionKey] || [];
@@ -3129,7 +3222,7 @@ export default function ImprovedTestBankApp() {
       
       setSelectedQuestions(questionsToUse);
       
-      const totalTime = studyMode ? 0 : questionsToUse.length * 90;
+      const totalTime = studyMode ? 0 : questionsToUse.length * 70; // 70 seconds per question
       setTimeLeft(totalTime);
       setTotalTestTime(totalTime);
       
@@ -3239,6 +3332,15 @@ export default function ImprovedTestBankApp() {
     const score = selectedQuestions.length > 0 ? Math.round((correct / selectedQuestions.length) * 100) : 0;
     const timeTaken = studyMode ? 0 : totalTestTime - timeLeft;
     
+    // Update topic progress only for NEW tests (not retakes)
+    if (!isRetakeTest) {
+      const topicKey = selectedSubtopic || selectedSubject;
+      setTopicProgress(prev => ({
+        ...prev,
+        [topicKey]: (prev[topicKey] || 0) + selectedQuestions.length
+      }));
+    }
+    
     const result = {
       subject: selectedSubject,
       subtopic: selectedSubtopic,
@@ -3307,7 +3409,10 @@ export default function ImprovedTestBankApp() {
               <svg className="w-10 h-10 mr-2" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M12 2C10 2 8.5 2.5 7.5 3.5C6.5 4.5 6 6 6 8C6 10 5.5 12 4.5 14C3.5 16 3 18 3 20C3 21.1 3.9 22 5 22C6.1 22 7 21.1 7 20C7 19 7.5 17.5 8 16C8.5 14.5 9 13 9 12C9 11 9.5 10.5 10 10.5C10.5 10.5 11 11 11 12L11 20C11 21.1 11.9 22 13 22C14.1 22 15 21.1 15 20L15 12C15 11 15.5 10.5 16 10.5C16.5 10.5 17 11 17 12C17 13 17.5 14.5 18 16C18.5 17.5 19 19 19 20C19 21.1 19.9 22 21 22C22.1 22 23 21.1 23 20C23 18 22 16 21 14C20 12 19.5 10 19.5 8C19.5 6 19 4.5 18 3.5C17 2.5 15.5 2 14 2C13 2 12.5 2 12 2Z" fill="#38bdf8" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
               </svg>
-              <h1 className="text-2xl font-bold text-gray-800">Dental Hygiene Test Bank</h1>
+              <div className="text-center">
+                <div className="text-xs text-gray-500 uppercase tracking-wider mb-1">Ontario</div>
+                <h1 className="text-2xl font-bold text-gray-800">Dental Hygiene Exam Question Bank</h1>
+              </div>
             </div>
             
             {detailedStats && (
@@ -3672,6 +3777,25 @@ export default function ImprovedTestBankApp() {
               </div>
             </div>
             
+            {/* Topic Progress Bar */}
+            <div className="mb-3">
+              <div className="flex justify-between text-xs text-gray-600 mb-1">
+                <span>Topic Progress</span>
+                <span className="font-semibold">
+                  {(topicProgress[selectedSubtopic || selectedSubject] || 0) + currentQuestionIndex + 1} / {(questionBank[selectedSubtopic || selectedSubject] || []).length}
+                </span>
+              </div>
+              <div className="w-full bg-gray-200 rounded-full h-1.5">
+                <div 
+                  className="bg-gradient-to-r from-purple-500 to-pink-500 h-1.5 rounded-full transition-all"
+                  style={{ 
+                    width: `${(((topicProgress[selectedSubtopic || selectedSubject] || 0) + currentQuestionIndex + 1) / (questionBank[selectedSubtopic || selectedSubject] || []).length) * 100}%` 
+                  }}
+                />
+              </div>
+            </div>
+            
+            {/* Test Progress Bar */}
             <div className="w-full bg-gray-200 rounded-full h-2 mb-4">
               <div 
                 className="bg-blue-600 h-2 rounded-full transition-all"
@@ -3747,11 +3871,17 @@ export default function ImprovedTestBankApp() {
               </div>
             )}
 
-            <h2 className="text-xl font-bold text-gray-800 mb-6">
-              {currentQuestion.question}
-            </h2>
+            <div className="flex items-start justify-between mb-6">
+              <h2 className="text-xl font-bold text-gray-800 flex-1 no-select">
+                {currentQuestion.question}
+              </h2>
+              <CopyButton 
+                text={`${currentQuestion.question}\n\nA. ${currentQuestion.options[0]}\nB. ${currentQuestion.options[1]}\nC. ${currentQuestion.options[2]}\nD. ${currentQuestion.options[3]}`}
+                className="ml-2 flex-shrink-0"
+              />
+            </div>
 
-            <div className="space-y-3">
+            <div className="space-y-3 no-select">
               {currentQuestion.options.map((option, index) => {
                 const isThisCorrect = index === currentQuestion.correct;
                 const isSelected = selectedAnswer === index;
@@ -3847,7 +3977,7 @@ export default function ImprovedTestBankApp() {
                       setScreen('home');
                     }
                   }}
-                  className="bg-gradient-to-r from-red-500 to-red-600 text-white py-4 rounded-xl font-bold text-lg hover:shadow-lg transition-all flex items-center justify-center"
+                  className="bg-gradient-to-r from-pink-300 to-rose-300 text-gray-700 py-4 rounded-xl font-bold text-lg hover:shadow-lg transition-all flex items-center justify-center"
                 >
                   <Home className="w-5 h-5 mr-2" />
                   Back to Topics
@@ -3906,17 +4036,22 @@ export default function ImprovedTestBankApp() {
                   }`}
                 >
                   <div className="flex items-start justify-between mb-3">
-                    <h3 className="font-bold text-gray-800 flex-1">
+                    <h3 className="font-bold text-gray-800 flex-1 no-select">
                       Question {index + 1}: {review.question.question}
                     </h3>
-                    {review.isCorrect ? (
-                      <CheckCircle className="w-6 h-6 text-green-600 flex-shrink-0 ml-2" />
-                    ) : (
-                      <XCircle className="w-6 h-6 text-red-600 flex-shrink-0 ml-2" />
-                    )}
+                    <div className="flex items-center gap-2 flex-shrink-0 ml-2">
+                      <CopyButton 
+                        text={`Question ${index + 1}: ${review.question.question}\n\nA. ${review.question.options[0]}\nB. ${review.question.options[1]}\nC. ${review.question.options[2]}\nD. ${review.question.options[3]}\n\nCorrect Answer: ${String.fromCharCode(65 + review.correctAnswer)}`}
+                      />
+                      {review.isCorrect ? (
+                        <CheckCircle className="w-6 h-6 text-green-600" />
+                      ) : (
+                        <XCircle className="w-6 h-6 text-red-600" />
+                      )}
+                    </div>
                   </div>
 
-                  <div className="space-y-2 mb-3">
+                  <div className="space-y-2 mb-3 no-select">
                     {review.question.options.map((option, optIndex) => {
                       const isCorrect = optIndex === review.correctAnswer;
                       const wasSelected = optIndex === review.selectedAnswer;
@@ -4035,7 +4170,7 @@ export default function ImprovedTestBankApp() {
               {selectedSubtopic && (
                 <button
                   onClick={() => setScreen('subtopics')}
-                  className="w-full bg-gray-200 text-gray-700 py-4 rounded-xl font-semibold hover:bg-gray-300 transition-all"
+                  className="w-full bg-gradient-to-r from-pink-200 to-purple-200 text-gray-700 py-4 rounded-xl font-semibold hover:shadow-lg transition-all"
                 >
                   Back to Topics
                 </button>
