@@ -3324,11 +3324,14 @@ export default function ImprovedTestBankApp() {
     const timeTaken = studyMode ? 0 : totalTestTime - timeLeft;
     
     // Update topic progress only for NEW tests (not retakes)
+    // Track the highest question number reached in this topic
     if (!isRetakeTest) {
       const topicKey = selectedSubtopic || selectedSubject;
+      const currentProgress = topicProgress[topicKey] || 0;
+      const newProgress = currentProgress + selectedQuestions.length;
       setTopicProgress(prev => ({
         ...prev,
-        [topicKey]: (prev[topicKey] || 0) + selectedQuestions.length
+        [topicKey]: Math.max(currentProgress, newProgress)
       }));
     }
     
@@ -3768,29 +3771,29 @@ export default function ImprovedTestBankApp() {
               </div>
             </div>
             
-            {/* Topic Progress Bar */}
+            {/* Test Progress Bar (for current test session) */}
             <div className="mb-3">
               <div className="flex justify-between text-xs text-gray-600 mb-1">
-                <span>Topic Progress</span>
+                <span>Test Progress</span>
                 <span className="font-semibold">
-                  {(topicProgress[selectedSubtopic || selectedSubject] || 0) + currentQuestionIndex + 1} / {(questionBank[selectedSubtopic || selectedSubject] || []).length}
+                  {currentQuestionIndex + 1} / {selectedQuestions.length}
                 </span>
               </div>
-              <div className="w-full bg-gray-200 rounded-full h-1.5">
+              <div className="w-full bg-gray-200 rounded-full h-2">
                 <div 
-                  className="bg-gradient-to-r from-purple-500 to-pink-500 h-1.5 rounded-full transition-all"
-                  style={{ 
-                    width: `${(((topicProgress[selectedSubtopic || selectedSubject] || 0) + currentQuestionIndex + 1) / (questionBank[selectedSubtopic || selectedSubject] || []).length) * 100}%` 
-                  }}
+                  className="bg-blue-600 h-2 rounded-full transition-all"
+                  style={{ width: `${((currentQuestionIndex + 1) / selectedQuestions.length) * 100}%` }}
                 />
               </div>
             </div>
             
-            {/* Test Progress Bar */}
-            <div className="w-full bg-gray-200 rounded-full h-2 mb-4">
+            {/* Topic Progress Bar (overall topic progress) */}
+            <div className="w-full bg-gray-200 rounded-full h-1.5 mb-4">
               <div 
-                className="bg-blue-600 h-2 rounded-full transition-all"
-                style={{ width: `${((currentQuestionIndex + 1) / selectedQuestions.length) * 100}%` }}
+                className="bg-gradient-to-r from-purple-500 to-pink-500 h-1.5 rounded-full transition-all"
+                style={{ 
+                  width: `${((topicProgress[selectedSubtopic || selectedSubject] || 0) / (questionBank[selectedSubtopic || selectedSubject] || []).length) * 100}%` 
+                }}
               />
             </div>
 
