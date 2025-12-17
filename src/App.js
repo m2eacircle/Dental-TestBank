@@ -117,6 +117,10 @@ const subjectsWithSubtopics = {
     "1. Periodontal Anatomy",
     "2. The microbiology of periodontal diseases"
   ],
+  "Head and Neck Anatomy": [
+    "1. Bones of the skull",
+    "2. Landmarks on bones"
+  ],
   "Dental Radiography Theory": [
     "1. Radiation History & Radiation Physics",
     "2. Dental X-ray Equipment, Film Processing",
@@ -2763,6 +2767,12 @@ const questionBank = {
     { id: 2148, question: "What is the purpose of film mounts?", options: ["Arrange and identify radiographs properly", "Reduce radiation", "Increase density", "Store chemicals"], correct: 0 },
     { id: 2149, question: "The overall goal of radiographic practice is to:", options: ["Produce diagnostic-quality images with minimal exposure", "Complete exams quickly", "Eliminate all radiation", "Replace digital systems"], correct: 0 }
   ],
+  "1. Bones of the skull": [
+    // Questions to be added for this topic
+  ],
+  "2. Landmarks on bones": [
+    // Questions to be added for this topic
+  ],
   "1. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents": [
     { id: 10001, question: "Which definition best describes pharmacology?", options: ["The study of diseases and their prevention", "The study of drugs and their effects on living cells", "The study of chemical drug structures", "The study of medical diagnoses"], correct: 1 },
     { id: 10002, question: "Which discipline focuses on what the drug does to the body?", options: ["Pharmacotherapy", "Pharmacokinetics", "Pharmacodynamics", "Pharmacogenetics"], correct: 2 },
@@ -4013,6 +4023,8 @@ export default function ImprovedTestBankApp() {
               }
             </button>
           </div>
+          
+          <Footer />
         </div>
       </div>
     );
