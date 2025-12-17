@@ -128,8 +128,7 @@ const subjectsWithSubtopics = {
     "8. Dental Radiography Theory"
   ],
   "Pharmacology": [
-    "1. Introduction and Pharmacokinetics",
-    "2. Adverse Drug Reactions and Anti Infective Agents"
+    "1. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents"
   ]
 };
 
@@ -2764,7 +2763,7 @@ const questionBank = {
     { id: 2148, question: "What is the purpose of film mounts?", options: ["Arrange and identify radiographs properly", "Reduce radiation", "Increase density", "Store chemicals"], correct: 0 },
     { id: 2149, question: "The overall goal of radiographic practice is to:", options: ["Produce diagnostic-quality images with minimal exposure", "Complete exams quickly", "Eliminate all radiation", "Replace digital systems"], correct: 0 }
   ],
-  "1. Introduction and Pharmacokinetics": [
+  "1. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents": [
     { id: 10001, question: "Which definition best describes pharmacology?", options: ["The study of diseases and their prevention", "The study of drugs and their effects on living cells", "The study of chemical drug structures", "The study of medical diagnoses"], correct: 1 },
     { id: 10002, question: "Which discipline focuses on what the drug does to the body?", options: ["Pharmacotherapy", "Pharmacokinetics", "Pharmacodynamics", "Pharmacogenetics"], correct: 2 },
     { id: 10003, question: "Which term describes what the body does to the drug?", options: ["Pharmacodynamics", "Pharmacotherapy", "Pharmacokinetics", "Pharmacology"], correct: 2 },
