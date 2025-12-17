@@ -3205,7 +3205,7 @@ export default function ImprovedTestBankApp() {
   if (screen === 'home') {
     return (
       <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
-        <div className="max-w-md mx-auto">
+        <div className="max-w-md sm:max-w-2xl lg:max-w-4xl mx-auto">
           
           {/* Google Ad - Home Screen Top Banner */}
           <GoogleAd slot="5701429538019796" format="horizontal" className="mb-4" />
@@ -3297,7 +3297,7 @@ export default function ImprovedTestBankApp() {
     
     return (
       <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
-        <div className="max-w-md mx-auto">
+        <div className="max-w-md sm:max-w-2xl lg:max-w-4xl mx-auto">
           
           {/* Google Ad - Subject Selection Screen */}
           <GoogleAd slot="5701429538019796" format="horizontal" className="mb-4" />
@@ -3404,7 +3404,7 @@ export default function ImprovedTestBankApp() {
     
     return (
       <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
-        <div className="max-w-md mx-auto">
+        <div className="max-w-md sm:max-w-2xl lg:max-w-4xl mx-auto">
           
           {/* Google Ad - Topic Selection Screen */}
           <GoogleAd slot="5701429538019796" format="horizontal" className="mb-4" />
@@ -3538,7 +3538,7 @@ export default function ImprovedTestBankApp() {
     if (!currentQuestion) {
       return (
         <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4 flex items-center justify-center">
-          <div className="bg-white rounded-3xl shadow-2xl p-6 max-w-md">
+          <div className="bg-white rounded-3xl shadow-2xl p-6 max-w-md sm:max-w-2xl lg:max-w-4xl">
             <p className="text-gray-700 text-center">No questions available for this subject yet.</p>
             <button
               onClick={() => setScreen('home')}
@@ -3556,7 +3556,7 @@ export default function ImprovedTestBankApp() {
     
     return (
       <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
-        <div className="max-w-md mx-auto">
+        <div className="max-w-md sm:max-w-2xl lg:max-w-4xl mx-auto">
           
           {/* Google Ad - Show every 5 questions */}
           {showAdBetweenQuestions && (
@@ -3790,7 +3790,7 @@ export default function ImprovedTestBankApp() {
   if (screen === 'review') {
     return (
       <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
-        <div className="max-w-2xl mx-auto">
+        <div className="max-w-md sm:max-w-2xl lg:max-w-4xl mx-auto">
           <div className="bg-white rounded-3xl shadow-2xl p-6 mb-4">
             <div className="flex items-center justify-between mb-6">
               <h2 className="text-2xl font-bold text-gray-800">Answer Review</h2>
@@ -3873,7 +3873,7 @@ export default function ImprovedTestBankApp() {
     
     return (
       <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
-        <div className="max-w-md mx-auto">
+        <div className="max-w-md sm:max-w-2xl lg:max-w-4xl mx-auto">
           <div className="bg-white rounded-3xl shadow-2xl p-6 mb-4">
             <div className="text-center mb-6">
               <Trophy className="w-20 h-20 text-yellow-500 mx-auto mb-4" />
@@ -3966,7 +3966,7 @@ export default function ImprovedTestBankApp() {
   if (screen === 'progress') {
     return (
       <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
-        <div className="max-w-md mx-auto">
+        <div className="max-w-md sm:max-w-2xl lg:max-w-4xl mx-auto">
           <div className="bg-white rounded-3xl shadow-2xl p-6 mb-4">
             <div className="flex items-center justify-between mb-6">
               <h2 className="text-2xl font-bold text-gray-800">Progress Analytics</h2>
@@ -4067,7 +4067,7 @@ export default function ImprovedTestBankApp() {
   if (screen === 'history') {
     return (
       <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
-        <div className="max-w-md mx-auto">
+        <div className="max-w-md sm:max-w-2xl lg:max-w-4xl mx-auto">
           <div className="bg-white rounded-3xl shadow-2xl p-6 mb-4">
             <div className="flex items-center justify-between mb-6">
               <h2 className="text-2xl font-bold text-gray-800">Test History</h2>
