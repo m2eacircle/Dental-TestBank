@@ -3173,6 +3173,14 @@ export default function ImprovedTestBankApp() {
       const questionKey = subtopic || subject;
       const allQuestions = questionBank[questionKey] || [];
       
+      // Reset topic progress when selecting a DIFFERENT topic (but not on retake)
+      if (!isRetake && questionKey !== (selectedSubtopic || selectedSubject)) {
+        setTopicProgress(prev => ({
+          ...prev,
+          [questionKey]: 0
+        }));
+      }
+      
       if (allQuestions.length === 0) {
         alert('No questions available for this topic yet.');
         return;
@@ -3788,13 +3796,21 @@ export default function ImprovedTestBankApp() {
             </div>
             
             {/* Topic Progress Bar (overall topic progress) */}
-            <div className="w-full bg-gray-200 rounded-full h-1.5 mb-4">
-              <div 
-                className="bg-gradient-to-r from-purple-500 to-pink-500 h-1.5 rounded-full transition-all"
-                style={{ 
-                  width: `${((topicProgress[selectedSubtopic || selectedSubject] || 0) / (questionBank[selectedSubtopic || selectedSubject] || []).length) * 100}%` 
-                }}
-              />
+            <div className="mb-4">
+              <div className="flex justify-between text-xs text-gray-600 mb-1">
+                <span>Topic Progress</span>
+                <span className="font-semibold">
+                  {(topicProgress[selectedSubtopic || selectedSubject] || 0) + currentQuestionIndex + 1} / {(questionBank[selectedSubtopic || selectedSubject] || []).length}
+                </span>
+              </div>
+              <div className="w-full bg-gray-200 rounded-full h-1.5">
+                <div 
+                  className="bg-gradient-to-r from-purple-500 to-pink-500 h-1.5 rounded-full transition-all"
+                  style={{ 
+                    width: `${(((topicProgress[selectedSubtopic || selectedSubject] || 0) + currentQuestionIndex + 1) / (questionBank[selectedSubtopic || selectedSubject] || []).length) * 100}%` 
+                  }}
+                />
+              </div>
             </div>
 
             <div className="flex items-center justify-between text-xs text-gray-600 mb-2">
