@@ -1,5 +1,16 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { Clock, Trophy, BarChart3, CheckCircle, XCircle, Home, Play, ArrowLeft, ChevronRight, Download, Flag, Eye, TrendingUp, Pause } from 'lucide-react';
+
+// Lesson 1 question imports
+import { questions as anatomyPhysiologyQuestions } from './questions/lesson1/lesson1-anatomy-and-physiology.js';
+import { questions as dentalAnatomyQuestions } from './questions/lesson1/lesson1-dental-anatomy.js';
+import { questions as dentalHygieneTheory1Questions } from './questions/lesson1/lesson1-dental-hygiene-theory-i.js';
+import { questions as histologyEmbryologyQuestions } from './questions/lesson1/lesson1-histology-and-embryology.js';
+import { questions as infectionControlQuestions } from './questions/lesson1/lesson1-infection-control.js';
+import { questions as statisticsResearchQuestions } from './questions/lesson1/lesson1-introduction-to-statistics-and-research.js';
+import { questions as microbiologyQuestions } from './questions/lesson1/lesson1-microbiology.js';
+
+// Lesson 2 question imports
 import { radiographyQuestions } from './questions/lesson2/lesson2-radiography-questions.js';
 import { questions as pathophysiologyQuestions } from './questions/lesson2/lesson2-pathophysiology.js';
 import { questions as dentalMaterialsQuestions } from './questions/lesson2/lesson2-dental-materials-theory.js';
@@ -13,14 +24,10 @@ import { questions as pharmacologyQuestions } from './questions/lesson2/lesson2-
 const subjectsByLesson = {
   "Lesson 1": [
     "Anatomy and Physiology",
-    "College English and Computer Skills",
     "Dental Anatomy",
-    "Dental Hygiene Clinic I",
     "Dental Hygiene Theory I",
     "Histology and Embryology",
     "Infection Control",
-    "Introduction to Professionalism",
-    "Introduction to Psychology",
     "Introduction to Statistics and Research",
     "Microbiology"
   ],
@@ -63,14 +70,10 @@ const subjectsByLesson = {
 const subjectsWithSubtopics = {
   "Lesson 1": [
     "Anatomy and Physiology",
-    "College English and Computer Skills",
     "Dental Anatomy",
-    "Dental Hygiene Clinic I",
     "Dental Hygiene Theory I",
     "Histology and Embryology",
     "Infection Control",
-    "Introduction to Professionalism",
-    "Introduction to Psychology",
     "Introduction to Statistics and Research",
     "Microbiology"
   ],
@@ -145,6 +148,13 @@ const subjectsWithSubtopics = {
 
 // Question bank - all questions imported from separate files
 const questionBank = {
+  ...anatomyPhysiologyQuestions,
+  ...dentalAnatomyQuestions,
+  ...dentalHygieneTheory1Questions,
+  ...histologyEmbryologyQuestions,
+  ...infectionControlQuestions,
+  ...statisticsResearchQuestions,
+  ...microbiologyQuestions,
   ...radiographyQuestions,
   ...pathophysiologyQuestions,
   ...dentalMaterialsQuestions,
