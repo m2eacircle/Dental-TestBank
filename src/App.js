@@ -1,11 +1,12 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { Clock, Trophy, BarChart3, CheckCircle, XCircle, Home, Play, ArrowLeft, ChevronRight, Download, Flag, Eye, TrendingUp, Pause } from 'lucide-react';
-import { radiographyQuestions } from './questions/lesson2-radiography-questions.js';
-import { questions as pathophysiologyQuestions } from './questions/lesson2-pathophysiology.js';
-import { questions as dentalMaterialsQuestions } from './questions/lesson2-dental-materials-theory.js';
-import { questions as periodontologyQuestions } from './questions/lesson2-periodontology-i.js';
-import { questions as anatomyQuestions } from './questions/lesson2-head-and-neck-anatomy.js';
-import { questions as pharmacologyQuestions } from './questions/lesson2-pharmacology.js';
+import { radiographyQuestions } from './questions/lesson2/lesson2-radiography-questions.js';
+import { questions as pathophysiologyQuestions } from './questions/lesson2/lesson2-pathophysiology.js';
+import { questions as dentalMaterialsQuestions } from './questions/lesson2/lesson2-dental-materials-theory.js';
+import { questions as periodontologyQuestions } from './questions/lesson2/lesson2-periodontology-i.js';
+import { questions as anatomyQuestions } from './questions/lesson2/lesson2-head-and-neck-anatomy.js';
+import { questions as pharmacologyQuestions } from './questions/lesson2/lesson2-pharmacology.js';
+
 
 
 // Subjects organized by lesson
