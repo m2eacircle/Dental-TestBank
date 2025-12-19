@@ -110,6 +110,21 @@ const subjectsWithSubtopics = {
     "Dental Hygiene Clinic IV",
     "Dental Hygiene Theory IV"
   ],
+  "Anatomy and Physiology": [
+    "1. Introduction to the Human Body",
+    "2. Cells and Tissues",
+    "3. Integumentary System",
+    "4. Skeletal System",
+    "5. Muscular System",
+    "6. Nervous Tissue and Brain",
+    "7. Spinal Cord and Peripheral Nerves",
+    "8. Blood",
+    "9. Anatomy and Function of the Heart",
+    "10. Lymphatic System",
+    "11. Endocrine System",
+    "12. Digestive System",
+    "13. Respiratory System"
+  ],
   "Pathophysiology": [
     "1. Inflammation and Healing",
     "2. Immunity and Infection (Part 1)",
