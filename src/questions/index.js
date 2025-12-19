@@ -1,12 +1,12 @@
 // Central export file for all question modules
 // This file aggregates all question imports for easier management
 
-import { radiographyQuestions } from './lesson2-radiography-questions.js';
-import { questions as pathophysiologyQuestions } from './lesson2-pathophysiology.js';
-import { questions as dentalMaterialsQuestions } from './lesson2-dental-materials-theory.js';
-import { questions as periodontologyQuestions } from './lesson2-periodontology-i.js';
-import { questions as anatomyQuestions } from './lesson2-head-and-neck-anatomy.js';
-import { questions as pharmacologyQuestions } from './lesson2-pharmacology.js';
+import { radiographyQuestions } from './lesson2/lesson2-radiography-questions.js';
+import { questions as pathophysiologyQuestions } from './lesson2/lesson2-pathophysiology.js';
+import { questions as dentalMaterialsQuestions } from './lesson2/lesson2-dental-materials-theory.js';
+import { questions as periodontologyQuestions } from './lesson2/lesson2-periodontology-i.js';
+import { questions as anatomyQuestions } from './lesson2/lesson2-head-and-neck-anatomy.js';
+import { questions as pharmacologyQuestions } from './lesson2/lesson2-pharmacology.js';
 
 // Export all questions as a single object
 export const allQuestions = {
