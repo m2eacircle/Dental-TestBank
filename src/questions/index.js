@@ -1,6 +1,16 @@
 // Central export file for all question modules
 // This file aggregates all question imports for easier management
 
+// Lesson 1 imports
+import { questions as anatomyPhysiologyQuestions } from './lesson1/lesson1-anatomy-and-physiology.js';
+import { questions as dentalAnatomyQuestions } from './lesson1/lesson1-dental-anatomy.js';
+import { questions as dentalHygieneTheory1Questions } from './lesson1/lesson1-dental-hygiene-theory-i.js';
+import { questions as histologyEmbryologyQuestions } from './lesson1/lesson1-histology-and-embryology.js';
+import { questions as infectionControlQuestions } from './lesson1/lesson1-infection-control.js';
+import { questions as statisticsResearchQuestions } from './lesson1/lesson1-introduction-to-statistics-and-research.js';
+import { questions as microbiologyQuestions } from './lesson1/lesson1-microbiology.js';
+
+// Lesson 2 imports
 import { radiographyQuestions } from './lesson2/lesson2-radiography-questions.js';
 import { questions as pathophysiologyQuestions } from './lesson2/lesson2-pathophysiology.js';
 import { questions as dentalMaterialsQuestions } from './lesson2/lesson2-dental-materials-theory.js';
@@ -10,6 +20,13 @@ import { questions as pharmacologyQuestions } from './lesson2/lesson2-pharmacolo
 
 // Export all questions as a single object
 export const allQuestions = {
+  ...anatomyPhysiologyQuestions,
+  ...dentalAnatomyQuestions,
+  ...dentalHygieneTheory1Questions,
+  ...histologyEmbryologyQuestions,
+  ...infectionControlQuestions,
+  ...statisticsResearchQuestions,
+  ...microbiologyQuestions,
   ...radiographyQuestions,
   ...pathophysiologyQuestions,
   ...dentalMaterialsQuestions,
@@ -20,6 +37,13 @@ export const allQuestions = {
 
 // Export individual question sets for flexibility
 export {
+  anatomyPhysiologyQuestions,
+  dentalAnatomyQuestions,
+  dentalHygieneTheory1Questions,
+  histologyEmbryologyQuestions,
+  infectionControlQuestions,
+  statisticsResearchQuestions,
+  microbiologyQuestions,
   radiographyQuestions,
   pathophysiologyQuestions,
   dentalMaterialsQuestions,
