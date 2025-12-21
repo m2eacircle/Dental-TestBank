@@ -125,6 +125,21 @@ const subjectsWithSubtopics = {
     "12. Digestive System",
     "13. Respiratory System"
   ],
+    "Dental Anatomy": [
+    "1. Dental Anatomy",
+    "2. The Oral Cavity",
+    "3. The Tooth - Functions and Terms",
+    "4. Supporting Structures",
+    "5. Development, Form, Eruption and Shedding of Teeth",
+    "6. Occlusion",
+    "7. Primary Dentition",
+    "8. Permanent Incisors",
+    "9. Molars",
+    "10. Premolars",
+    "11. Root Morphology",
+    "12. Dental Caries Disease",
+    "13. Dental Anomalies"
+  ],
   "Pathophysiology": [
     "1. Inflammation and Healing",
     "2. Immunity and Infection (Part 1)",
