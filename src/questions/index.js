@@ -54,9 +54,53 @@ export {
 
 // Export metadata about the question bank
 export const questionBankMetadata = {
-  totalSubjects: 6,
-  totalTopics: 22,
+  totalSubjects: 13,
+  totalTopics: 35,
   subjects: {
+    // Lesson 1 subjects
+    anatomyPhysiology: {
+      name: 'Anatomy & Physiology',
+      topics: 13,
+      totalQuestions: 1236,
+      file: 'lesson1-anatomy-and-physiology.js'
+    },
+    dentalAnatomy: {
+      name: 'Dental Anatomy',
+      topics: 13,
+      totalQuestions: 723,
+      file: 'lesson1-dental-anatomy.js'
+    },
+    dentalHygieneTheory1: {
+      name: 'Dental Hygiene Theory I',
+      topics: 0,
+      totalQuestions: 0,
+      file: 'lesson1-dental-hygiene-theory-i.js'
+    },
+    histologyEmbryology: {
+      name: 'Histology and Embryology',
+      topics: 0,
+      totalQuestions: 0,
+      file: 'lesson1-histology-and-embryology.js'
+    },
+    infectionControl: {
+      name: 'Infection Control',
+      topics: 0,
+      totalQuestions: 0,
+      file: 'lesson1-infection-control.js'
+    },
+    statisticsResearch: {
+      name: 'Introduction to Statistics and Research',
+      topics: 0,
+      totalQuestions: 0,
+      file: 'lesson1-introduction-to-statistics-and-research.js'
+    },
+    microbiology: {
+      name: 'Microbiology',
+      topics: 0,
+      totalQuestions: 0,
+      file: 'lesson1-microbiology.js'
+    },
+    // Lesson 2 subjects
     radiography: {
       name: 'Dental Radiography Theory',
       topics: 8,
@@ -81,10 +125,10 @@ export const questionBankMetadata = {
       totalQuestions: 220,
       file: 'lesson2-periodontology-i.js'
     },
-    anatomy: {
+    headNeckAnatomy: {
       name: 'Head and Neck Anatomy',
       topics: 2,
-      totalQuestions: 85,
+      totalQuestions: 184,
       file: 'lesson2-head-and-neck-anatomy.js'
     },
     pharmacology: {
