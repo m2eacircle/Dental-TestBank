@@ -1,4 +1,4 @@
-export const lesson1DentalAnatomyQuestions = {
+export const questions = {
   "1. Dental Anatomy": [
     { id: 30001, question: "What is dental anatomy?", options: ["The study of dental instruments and their uses", "The area of dental sciences dealing with development, morphology, function, and identity of teeth", "The study of dental diseases only", "The examination of dental X-rays"], correct: 1 },
     { id: 30002, question: "How many teeth are present in the primary dentition?", options: ["32", "28", "20", "24"], correct: 2 },
