@@ -52,6 +52,74 @@ export {
   pharmacologyQuestions
 };
 
+// Subject to topic mapping - for subjects that have subtopics
+export const subjectsWithSubtopics = {
+  "Anatomy and Physiology": [
+    "1. Introduction to the Human Body",
+    "2. Cells and Tissues",
+    "3. Integumentary System",
+    "4. Skeletal System",
+    "5. Muscular System",
+    "6. Nervous Tissue and the Brain",
+    "7. Spinal Cord and Peripheral Nerves",
+    "8. Blood",
+    "9. Heart Anatomy and Function",
+    "10. Lymphatic System",
+    "11. Endocrine System",
+    "12. Digestive System",
+    "13. Respiratory System"
+  ],
+  "Dental Anatomy": [
+    "1. Dental Anatomy",
+    "2. The Oral Cavity",
+    "3. The Tooth - Functions and Terms",
+    "4. Supporting Structures",
+    "5. Development, Form, Eruption and Shedding of Teeth",
+    "6. Occlusion",
+    "7. Primary Dentition",
+    "8. Permanent Incisors",
+    "9. Molars",
+    "10. Premolars",
+    "11. Root Morphology",
+    "12. Dental Caries Disease",
+    "13. Dental Anomalies"
+  ],
+  "Pathophysiology": [
+    "1. Inflammation and Healing",
+    "2. Immunity and Infection (Part 1)",
+    "3. Immunity and Infection (Part 2)",
+    "4. Nervous System Disorders",
+    "5. Stress and Associated Problems",
+    "6. Blood and Circulatory System Disorders"
+  ],
+  "Dental Materials Theory": [
+    "1. Introduction to Dental Materials and Oral environment and patient considerations",
+    "2. Physical and Mechanical properties of dental materials and General handling and safety of dental materials in the dental office",
+    "3. Dental amalgams, Metals and Alloys"
+  ],
+  "Periodontology I": [
+    "1. Periodontal Anatomy",
+    "2. The microbiology of periodontal diseases"
+  ],
+  "Dental Radiography Theory": [
+    "1. Radiation History & Radiation Physics",
+    "2. Dental X-ray Equipment, Film Processing",
+    "3. Dental Radiography Theory - Topic 3",
+    "4. Dental Radiography Theory - Topic 4",
+    "5. Dental Radiography Theory - Topic 5",
+    "6. Dental Radiography Theory - Topic 6",
+    "7. Dental Radiography Theory - Topic 7",
+    "8. Dental Radiography Theory - Topic 8"
+  ],
+  "Head and Neck Anatomy": [
+    "1. Bones of the Head and Neck",
+    "2. Muscles of the Head and Neck"
+  ],
+  "Pharmacology": [
+    "1. Pharmacology"
+  ]
+};
+
 // Export metadata about the question bank
 export const questionBankMetadata = {
   totalSubjects: 13,
