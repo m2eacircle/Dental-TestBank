@@ -35,6 +35,9 @@ export const allQuestions = {
   ...pharmacologyQuestions
 };
 
+// Export as questionBank (alias for allQuestions)
+export const questionBank = allQuestions;
+
 // Export individual question sets for flexibility
 export {
   anatomyPhysiologyQuestions,
