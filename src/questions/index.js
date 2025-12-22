@@ -54,6 +54,47 @@ export {
 
 // Subject to topic mapping - for subjects that have subtopics
 export const subjectsWithSubtopics = {
+  "Lesson 1": [
+    "Anatomy and Physiology",
+    "Dental Anatomy",
+    "Dental Hygiene Theory I",
+    "Histology and Embryology",
+    "Introduction to Statistics and Research",
+    "Microbiology"
+  ],
+  "Lesson 2": [
+    "Dental Hygiene Clinic II",
+    "Dental Hygiene Theory II",
+    "Dental Materials Theory",
+    "Dental Radiography Interpretation",
+    "Dental Radiography Lab",
+    "Dental Radiography Theory",
+    "Head and Neck Anatomy",
+    "Oral Health Education",
+    "Pathophysiology",
+    "Periodontology I",
+    "Pharmacology",
+    "Medical Emergencies"
+  ],
+  "Lesson 3": [
+    "Community Dental Health I",
+    "Dental Hygiene Clinic III",
+    "Dental Hygiene Theory III",
+    "Dental Materials Lab",
+    "Ethics and Jurisprudence",
+    "Gerontology",
+    "Nutrition for Living",
+    "Oral Health Promotion",
+    "Oral Pathology",
+    "Periodontology II"
+  ],
+  "Lesson 4": [
+    "Business Practice",
+    "Community Dental Health II",
+    "Consolidated Learning",
+    "Dental Hygiene Clinic IV",
+    "Dental Hygiene Theory IV"
+  ],
   "Anatomy and Physiology": [
     "1. Introduction to the Human Body",
     "2. Cells and Tissues",
