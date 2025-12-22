@@ -6,7 +6,6 @@ import { questions as anatomyPhysiologyQuestions } from './questions/lesson1/les
 import { questions as dentalAnatomyQuestions } from './questions/lesson1/lesson1-dental-anatomy.js';
 import { questions as dentalHygieneTheory1Questions } from './questions/lesson1/lesson1-dental-hygiene-theory-i.js';
 import { questions as histologyEmbryologyQuestions } from './questions/lesson1/lesson1-histology-and-embryology.js';
-import { questions as infectionControlQuestions } from './questions/lesson1/lesson1-infection-control.js';
 import { questions as statisticsResearchQuestions } from './questions/lesson1/lesson1-introduction-to-statistics-and-research.js';
 import { questions as microbiologyQuestions } from './questions/lesson1/lesson1-microbiology.js';
 
@@ -165,7 +164,6 @@ const questionBank = {
   ...dentalAnatomyQuestions,
   ...dentalHygieneTheory1Questions,
   ...histologyEmbryologyQuestions,
-  ...infectionControlQuestions,
   ...statisticsResearchQuestions,
   ...microbiologyQuestions,
   ...radiographyQuestions,
