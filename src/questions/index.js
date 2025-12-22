@@ -101,7 +101,7 @@ export const subjectsWithSubtopics = {
     "3. Integumentary System",
     "4. Skeletal System",
     "5. Muscular System",
-    "6. Nervous Tissue and the Brain",
+    "6. Nervous Tissue and Brain",
     "7. Spinal Cord and Peripheral Nerves",
     "8. Blood",
     "9. Heart Anatomy and Function",
