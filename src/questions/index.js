@@ -6,7 +6,6 @@ import { questions as anatomyPhysiologyQuestions } from './lesson1/lesson1-anato
 import { questions as dentalAnatomyQuestions } from './lesson1/lesson1-dental-anatomy.js';
 import { questions as dentalHygieneTheory1Questions } from './lesson1/lesson1-dental-hygiene-theory-i.js';
 import { questions as histologyEmbryologyQuestions } from './lesson1/lesson1-histology-and-embryology.js';
-import { questions as infectionControlQuestions } from './lesson1/lesson1-infection-control.js';
 import { questions as statisticsResearchQuestions } from './lesson1/lesson1-introduction-to-statistics-and-research.js';
 import { questions as microbiologyQuestions } from './lesson1/lesson1-microbiology.js';
 
@@ -24,7 +23,6 @@ export const allQuestions = {
   ...dentalAnatomyQuestions,
   ...dentalHygieneTheory1Questions,
   ...histologyEmbryologyQuestions,
-  ...infectionControlQuestions,
   ...statisticsResearchQuestions,
   ...microbiologyQuestions,
   ...radiographyQuestions,
@@ -44,7 +42,6 @@ export {
   dentalAnatomyQuestions,
   dentalHygieneTheory1Questions,
   histologyEmbryologyQuestions,
-  infectionControlQuestions,
   statisticsResearchQuestions,
   microbiologyQuestions,
   radiographyQuestions,
@@ -107,6 +104,18 @@ export const subjectsWithSubtopics = {
     "17. Instruments Sharpening",
     "18. Alternate Scalers"
   ],
+  "Histology and Embryology": [
+    "1. The Cell",
+    "2. Basic Tissue – Basement Membrane",
+    "3. Basic Tissue – Muscle and Nerve",
+    "4. Overview of Prenatal Development",
+    "5. Embryonic Period",
+    "6. Development of the Face and Neck",
+    "7. Palate and Tongue",
+    "8. Tooth Development",
+    "9. Enamel Organ",
+    "10. Oral Mucosa"
+  ],
   "Pathophysiology": [
     "1. Inflammation and Healing",
     "2. Immunity and Infection (Part 1)",
@@ -145,8 +154,8 @@ export const subjectsWithSubtopics = {
 
 // Export metadata about the question bank
 export const questionBankMetadata = {
-  totalSubjects: 13,
-  totalTopics: 35,
+  totalSubjects: 12,
+  totalTopics: 63,
   subjects: {
     // Lesson 1 subjects
     anatomyPhysiology: {
@@ -163,21 +172,15 @@ export const questionBankMetadata = {
     },
     dentalHygieneTheory1: {
       name: 'Dental Hygiene Theory I',
-      topics: 0,
+      topics: 18,
       totalQuestions: 0,
       file: 'lesson1-dental-hygiene-theory-i.js'
     },
     histologyEmbryology: {
       name: 'Histology and Embryology',
-      topics: 0,
+      topics: 10,
       totalQuestions: 0,
       file: 'lesson1-histology-and-embryology.js'
-    },
-    infectionControl: {
-      name: 'Infection Control',
-      topics: 0,
-      totalQuestions: 0,
-      file: 'lesson1-infection-control.js'
     },
     statisticsResearch: {
       name: 'Introduction to Statistics and Research',
