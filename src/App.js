@@ -160,6 +160,18 @@ const subjectsWithSubtopics = {
     "17. Instruments Sharpening",
     "18. Alternate Scalers"
   ],
+    "Histology and Embryology": [
+    "1. The Cell",
+    "2. Basic Tissue – Basement Membrane",
+    "3. Basic Tissue – Muscle and Nerve",
+    "4. Overview of Prenatal Development",
+    "5. Embryonic Period",
+    "6. Development of the Face and Neck",
+    "7. Palate and Tongue",
+    "8. Tooth Development",
+    "9. Enamel Organ",
+    "10. Oral Mucosa"
+  ],
   "Pathophysiology": [
     "1. Inflammation and Healing",
     "2. Immunity and Infection (Part 1)",
