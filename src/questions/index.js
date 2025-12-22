@@ -212,7 +212,7 @@ export const subjectsWithSubtopics = {
   ],
   "Head and Neck Anatomy": [
     "1. Bones of the skull",
-    "2. Muscles of the Head and Neck"
+    "2. Landmarks on bones"
   ],
   "Pharmacology": [
     "1. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents"
