@@ -87,6 +87,26 @@ export const subjectsWithSubtopics = {
     "12. Dental Caries Disease",
     "13. Dental Anomalies"
   ],
+  "Dental Hygiene Theory I": [
+    "1. Course Intro, Dental Equipment, and Positioning",
+    "2. Instrument Grasp",
+    "3. Instrument Design and Classification (Part 1)",
+    "4. Instrument Design and Classification (Part 2)",
+    "5. Principles of Ergonomics",
+    "6. Use of Dental Mouth Mirror",
+    "7. Finger Rest in the Anterior Sextants",
+    "8. Elements of an Effective Instrumentation Stroke",
+    "9. Periodontal Probes and Basic Probing Technique",
+    "10. Explorers",
+    "11. Technique Essentials - Supragingival Calculus Removal",
+    "12. Technique Essentials - Subgingival Calculus Removal",
+    "13. Universal Curets",
+    "14. Area-Specific Curets",
+    "15. Vital Signs",
+    "16. Fulcruming Techniques",
+    "17. Instruments Sharpening",
+    "18. Alternate Scalers"
+  ],
   "Pathophysiology": [
     "1. Inflammation and Healing",
     "2. Immunity and Infection (Part 1)",
