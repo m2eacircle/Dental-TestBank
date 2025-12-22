@@ -116,6 +116,32 @@ export const subjectsWithSubtopics = {
     "9. Enamel Organ",
     "10. Oral Mucosa"
   ],
+  "Introduction to Statistics and Research": [
+    "1. Introduction to Research",
+    "2. Qualitative Research",
+    "3. Quantitative Research (Part 1)",
+    "4. Quantitative Research (Part 2)",
+    "5. Probability and Nonprobability Sampling Methods",
+    "6. Mixed Research",
+    "7. Essentials of Statistics (Part 1)",
+    "8. Essentials of Statistics (Part 2)",
+    "9. Developing Research Questions and Hypothesis",
+    "10. Evidence-Informed Practice and Literature Review",
+    "11. Clinical Trial"
+  ],
+  "Microbiology": [
+    "1. Basic Bacteriology",
+    "2. Basic Virology",
+    "3. Microbial Pathogenesis",
+    "4. Basic Immunology",
+    "5. Medical Bacteriology (Part 1)",
+    "6. Medical Bacteriology (Part 2)",
+    "7. Medical Bacteriology (Part 3)",
+    "8. Medical Virology & Mycology",
+    "9. Viral Hepatitis and AIDS",
+    "10. Oral Microbiology and Dental Caries",
+    "11. Microbiology of Periodontal Diseases and Dentoalveolar Infections"
+  ],
   "Pathophysiology": [
     "1. Inflammation and Healing",
     "2. Immunity and Infection (Part 1)",
@@ -155,7 +181,7 @@ export const subjectsWithSubtopics = {
 // Export metadata about the question bank
 export const questionBankMetadata = {
   totalSubjects: 12,
-  totalTopics: 63,
+  totalTopics: 85,
   subjects: {
     // Lesson 1 subjects
     anatomyPhysiology: {
@@ -184,13 +210,13 @@ export const questionBankMetadata = {
     },
     statisticsResearch: {
       name: 'Introduction to Statistics and Research',
-      topics: 0,
+      topics: 11,
       totalQuestions: 0,
       file: 'lesson1-introduction-to-statistics-and-research.js'
     },
     microbiology: {
       name: 'Microbiology',
-      topics: 0,
+      topics: 11,
       totalQuestions: 0,
       file: 'lesson1-microbiology.js'
     },
