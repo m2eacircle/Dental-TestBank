@@ -203,12 +203,12 @@ export const subjectsWithSubtopics = {
   "Dental Radiography Theory": [
     "1. Radiation History & Radiation Physics",
     "2. Dental X-ray Equipment, Film Processing",
-    "3. Dental Radiography Theory - Topic 3",
-    "4. Dental Radiography Theory - Topic 4",
-    "5. Dental Radiography Theory - Topic 5",
-    "6. Dental Radiography Theory - Topic 6",
-    "7. Dental Radiography Theory - Topic 7",
-    "8. Dental Radiography Theory - Topic 8"
+    "3. Dental Radiography Theory",
+    "4. Dental Radiography Theory",
+    "5. Dental Radiography Theory",
+    "6. Dental Radiography Theory",
+    "7. Dental Radiography Theory",
+    "8. Dental Radiography Theory"
   ],
   "Head and Neck Anatomy": [
     "1. Bones of the skull",
