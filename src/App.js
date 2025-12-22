@@ -1,9 +1,6 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { Clock, Trophy, BarChart3, CheckCircle, XCircle, Home, Play, ArrowLeft, ChevronRight, Download, Flag, Eye, TrendingUp, Pause } from 'lucide-react';
 
-// Import subjectsWithSubtopics from centralized index
-import { subjectsWithSubtopics } from './questions/index.js';
-
 // Lesson 1 question imports
 import { questions as anatomyPhysiologyQuestions } from './questions/lesson1/lesson1-anatomy-and-physiology.js';
 import { questions as dentalAnatomyQuestions } from './questions/lesson1/lesson1-dental-anatomy.js';
@@ -19,6 +16,7 @@ import { questions as dentalMaterialsQuestions } from './questions/lesson2/lesso
 import { questions as periodontologyQuestions } from './questions/lesson2/lesson2-periodontology-i.js';
 import { questions as anatomyQuestions } from './questions/lesson2/lesson2-head-and-neck-anatomy.js';
 import { questions as pharmacologyQuestions } from './questions/lesson2/lesson2-pharmacology.js';
+
 
 
 // Subjects organized by lesson
@@ -63,6 +61,173 @@ const subjectsByLesson = {
     "Consolidated Learning",
     "Dental Hygiene Clinic IV",
     "Dental Hygiene Theory IV"
+  ]
+};
+
+// Subjects with sub-topics
+const subjectsWithSubtopics = {
+  "Lesson 1": [
+    "Anatomy and Physiology",
+    "Dental Anatomy",
+    "Dental Hygiene Theory I",
+    "Histology and Embryology",
+    "Introduction to Statistics and Research",
+    "Microbiology"
+  ],
+  "Lesson 2": [
+    "Dental Hygiene Clinic II",
+    "Dental Hygiene Theory II",
+    "Dental Materials Theory",
+    "Dental Radiography Interpretation",
+    "Dental Radiography Lab",
+    "Dental Radiography Theory",
+    "Head and Neck Anatomy",
+    "Oral Health Education",
+    "Pathophysiology",
+    "Periodontology I",
+    "Pharmacology",
+    "Medical Emergencies"
+  ],
+  "Lesson 3": [
+    "Community Dental Health I",
+    "Dental Hygiene Clinic III",
+    "Dental Hygiene Theory III",
+    "Dental Materials Lab",
+    "Ethics and Jurisprudence",
+    "Gerontology",
+    "Nutrition for Living",
+    "Oral Health Promotion",
+    "Oral Pathology",
+    "Periodontology II"
+  ],
+  "Lesson 4": [
+    "Business Practice",
+    "Community Dental Health II",
+    "Consolidated Learning",
+    "Dental Hygiene Clinic IV",
+    "Dental Hygiene Theory IV"
+  ],
+  "Anatomy and Physiology": [
+    "1. Introduction to the Human Body",
+    "2. Cells and Tissues",
+    "3. Integumentary System",
+    "4. Skeletal System",
+    "5. Muscular System",
+    "6. Nervous Tissue and Brain",
+    "7. Spinal Cord and Peripheral Nerves",
+    "8. Blood",
+    "9. Anatomy and Function of the Heart",
+    "10. Lymphatic System",
+    "11. Endocrine System",
+    "12. Digestive System",
+    "13. Respiratory System"
+  ],
+    "Dental Anatomy": [
+    "1. Dental Anatomy",
+    "2. The Oral Cavity",
+    "3. The Tooth - Functions and Terms",
+    "4. Supporting Structures",
+    "5. Development, Form, Eruption and Shedding of Teeth",
+    "6. Occlusion",
+    "7. Primary Dentition",
+    "8. Permanent Incisors",
+    "9. Molars",
+    "10. Premolars",
+    "11. Root Morphology",
+    "12. Dental Caries Disease",
+    "13. Dental Anomalies"
+  ],
+  "Dental Hygiene Theory I": [
+    "1. Course Intro, Dental Equipment, and Positioning",
+    "2. Instrument Grasp",
+    "3. Instrument Design and Classification (Part 1)",
+    "4. Instrument Design and Classification (Part 2)",
+    "5. Principles of Ergonomics",
+    "6. Use of Dental Mouth Mirror",
+    "7. Finger Rest in the Anterior Sextants",
+    "8. Elements of an Effective Instrumentation Stroke",
+    "9. Periodontal Probes and Basic Probing Technique",
+    "10. Explorers",
+    "11. Technique Essentials - Supragingival Calculus Removal",
+    "12. Technique Essentials - Subgingival Calculus Removal",
+    "13. Universal Curets",
+    "14. Area-Specific Curets",
+    "15. Vital Signs",
+    "16. Fulcruming Techniques",
+    "17. Instruments Sharpening",
+    "18. Alternate Scalers"
+  ],
+  "Histology and Embryology": [
+    "1. The Cell",
+    "2. Basic Tissue – Basement Membrane",
+    "3. Basic Tissue – Muscle and Nerve",
+    "4. Overview of Prenatal Development",
+    "5. Embryonic Period",
+    "6. Development of the Face and Neck",
+    "7. Palate and Tongue",
+    "8. Tooth Development",
+    "9. Enamel Organ",
+    "10. Oral Mucosa"
+  ],
+  "Introduction to Statistics and Research": [
+    "1. Introduction to Research",
+    "2. Qualitative Research",
+    "3. Quantitative Research (Part 1)",
+    "4. Quantitative Research (Part 2)",
+    "5. Probability and Nonprobability Sampling Methods",
+    "6. Mixed Research",
+    "7. Essentials of Statistics (Part 1)",
+    "8. Essentials of Statistics (Part 2)",
+    "9. Developing Research Questions and Hypothesis",
+    "10. Evidence-Informed Practice and Literature Review",
+    "11. Clinical Trial"
+  ],
+  "Microbiology": [
+    "1. Basic Bacteriology",
+    "2. Basic Virology",
+    "3. Microbial Pathogenesis",
+    "4. Basic Immunology",
+    "5. Medical Bacteriology (Part 1)",
+    "6. Medical Bacteriology (Part 2)",
+    "7. Medical Bacteriology (Part 3)",
+    "8. Medical Virology & Mycology",
+    "9. Viral Hepatitis and AIDS",
+    "10. Oral Microbiology and Dental Caries",
+    "11. Microbiology of Periodontal Diseases and Dentoalveolar Infections"
+  ],
+  "Pathophysiology": [
+    "1. Inflammation and Healing",
+    "2. Immunity and Infection (Part 1)",
+    "3. Immunity and Infection (Part 2)",
+    "4. Nervous System Disorders",
+    "5. Stress and Associated Problems",
+    "6. Blood and Circulatory System Disorders"
+  ],
+  "Dental Materials Theory": [
+    "1. Introduction to Dental Materials and Oral environment and patient considerations",
+    "2. Physical and Mechanical properties of dental materials and General handling and safety of dental materials in the dental office",
+    "3. Dental amalgams, Metals and Alloys"
+  ],
+  "Periodontology I": [
+    "1. Periodontal Anatomy",
+    "2. The microbiology of periodontal diseases"
+  ],
+  "Head and Neck Anatomy": [
+    "1. Bones of the skull",
+    "2. Landmarks on bones"
+  ],
+  "Dental Radiography Theory": [
+    "1. Radiation History & Radiation Physics",
+    "2. Dental X-ray Equipment, Film Processing",
+    "3. Dental Radiography Theory",
+    "4. Dental Radiography Theory",
+    "5. Dental Radiography Theory",
+    "6. Dental Radiography Theory",
+    "7. Dental Radiography Theory",
+    "8. Dental Radiography Theory"
+  ],
+  "Pharmacology": [
+    "1. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents"
   ]
 };
 
