@@ -211,11 +211,11 @@ export const subjectsWithSubtopics = {
     "8. Dental Radiography Theory - Topic 8"
   ],
   "Head and Neck Anatomy": [
-    "1. Bones of the Head and Neck",
+    "1. Bones of the skull",
     "2. Muscles of the Head and Neck"
   ],
   "Pharmacology": [
-    "1. Pharmacology"
+    "1. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents"
   ]
 };
 
