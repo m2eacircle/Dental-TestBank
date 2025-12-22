@@ -258,6 +258,29 @@ const globalStyles = `
     user-select: none;
     -webkit-touch-callout: none;
   }
+  
+  body {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-touch-callout: none;
+  }
+  
+  input, textarea {
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+  }
+  
+  * {
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+    user-drag: none;
+  }
 `;
 
 // Copy Button Component
@@ -398,6 +421,22 @@ export default function ImprovedTestBankApp() {
       };
       document.addEventListener('contextmenu', handleContextMenu);
       
+      // Disable drag and drop
+      const handleDragStart = (e) => {
+        e.preventDefault();
+        return false;
+      };
+      document.addEventListener('dragstart', handleDragStart);
+      
+      // Disable text selection via mouse drag
+      const handleSelectStart = (e) => {
+        if (!e.target.closest('input') && !e.target.closest('textarea')) {
+          e.preventDefault();
+          return false;
+        }
+      };
+      document.addEventListener('selectstart', handleSelectStart);
+      
       // Disable keyboard shortcuts for copy/paste/cut
       const handleKeyDown = (e) => {
         if ((e.ctrlKey || e.metaKey) && ['c', 'x', 'v', 'a'].includes(e.key.toLowerCase())) {
@@ -410,6 +449,8 @@ export default function ImprovedTestBankApp() {
       
       return () => {
         document.removeEventListener('contextmenu', handleContextMenu);
+        document.removeEventListener('dragstart', handleDragStart);
+        document.removeEventListener('selectstart', handleSelectStart);
         document.removeEventListener('keydown', handleKeyDown);
         if (styleElement.parentNode) {
           styleElement.parentNode.removeChild(styleElement);
@@ -990,9 +1031,23 @@ export default function ImprovedTestBankApp() {
           <div className="bg-white rounded-3xl shadow-2xl p-6">
             <div className="flex items-center mb-6">
               <button 
-                onClick={() => setScreen('home')}
+                onClick={() => {
+                  // Find which lesson this subject belongs to
+                  const parentLesson = Object.entries(subjectsByLesson).find(([lesson, subjects]) => 
+                    subjects.includes(selectedSubject)
+                  );
+                  
+                  if (parentLesson) {
+                    // Go back to the lesson's subject list
+                    setSelectedSubject(parentLesson[0]);
+                    setScreen('subtopics');
+                  } else {
+                    // If no parent lesson found, go to home
+                    setScreen('home');
+                  }
+                }}
                 className="mr-3 text-blue-600 hover:text-blue-700"
-                aria-label="Back to home"
+                aria-label="Back to subjects"
               >
                 <ArrowLeft className="w-6 h-6" />
               </button>
