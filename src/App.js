@@ -27,7 +27,6 @@ const subjectsByLesson = {
     "Dental Anatomy",
     "Dental Hygiene Theory I",
     "Histology and Embryology",
-    "Infection Control",
     "Introduction to Statistics and Research",
     "Microbiology"
   ],
@@ -73,7 +72,6 @@ const subjectsWithSubtopics = {
     "Dental Anatomy",
     "Dental Hygiene Theory I",
     "Histology and Embryology",
-    "Infection Control",
     "Introduction to Statistics and Research",
     "Microbiology"
   ],
