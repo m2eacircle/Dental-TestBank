@@ -1491,7 +1491,11 @@ export default function ImprovedTestBankApp() {
             </div>
 
             <div className="space-y-4 max-h-[calc(100vh-200px)] overflow-y-auto">
-              {reviewAnswers.map((review, index) => (
+              {reviewAnswers.map((review, index) => {
+                const questionId = review.question.id;
+                const isFlagged = flaggedQuestions.includes(questionId);
+                
+                return (
                 <div 
                   key={index} 
                   className={`p-4 rounded-xl border-2 ${
@@ -1505,6 +1509,19 @@ export default function ImprovedTestBankApp() {
                       Question {index + 1}: {review.question.question}
                     </h3>
                     <div className="flex items-center gap-2 flex-shrink-0 ml-2">
+                      <button
+                        onClick={() => {
+                          if (isFlagged) {
+                            setFlaggedQuestions(flaggedQuestions.filter(id => id !== questionId));
+                          } else {
+                            setFlaggedQuestions([...flaggedQuestions, questionId]);
+                          }
+                        }}
+                        className={`flex items-center ${isFlagged ? 'text-yellow-600' : 'text-gray-400'} hover:text-yellow-600 transition-colors`}
+                        aria-label={isFlagged ? 'Unflag question' : 'Flag question'}
+                      >
+                        <Flag className="w-5 h-5" fill={isFlagged ? 'currentColor' : 'none'} />
+                      </button>
                       <CopyButton 
                         text={`Question ${index + 1}: ${review.question.question}\n\nA. ${review.question.options[0]}\nB. ${review.question.options[1]}\nC. ${review.question.options[2]}\nD. ${review.question.options[3]}\n\nCorrect Answer: ${String.fromCharCode(65 + review.correctAnswer)}`}
                       />
@@ -1554,7 +1571,8 @@ export default function ImprovedTestBankApp() {
                     </div>
                   )}
                 </div>
-              ))}
+              );
+              })}
             </div>
 
             <button
