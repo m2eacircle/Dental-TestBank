@@ -101,10 +101,10 @@ export const subjectsWithSubtopics = {
     "3. Integumentary System",
     "4. Skeletal System",
     "5. Muscular System",
-    "6. Nervous Tissue and Brain",
+    "6. Nervous Tissue and the Brain",
     "7. Spinal Cord and Peripheral Nerves",
     "8. Blood",
-    "9. Anatomy and Function of the Heart",
+    "9. Heart Anatomy and Function",
     "10. Lymphatic System",
     "11. Endocrine System",
     "12. Digestive System",
@@ -203,16 +203,16 @@ export const subjectsWithSubtopics = {
   "Dental Radiography Theory": [
     "1. Radiation History & Radiation Physics",
     "2. Dental X-ray Equipment, Film Processing",
-    "3. Dental Radiography Theory",
-    "4. Dental Radiography Theory",
-    "5. Dental Radiography Theory",
-    "6. Dental Radiography Theory",
-    "7. Dental Radiography Theory",
-    "8. Dental Radiography Theory"
+    "3. Dental Radiography Theory - Topic 3",
+    "4. Dental Radiography Theory - Topic 4",
+    "5. Dental Radiography Theory - Topic 5",
+    "6. Dental Radiography Theory - Topic 6",
+    "7. Dental Radiography Theory - Topic 7",
+    "8. Dental Radiography Theory - Topic 8"
   ],
   "Head and Neck Anatomy": [
     "1. Bones of the skull",
-    "2. Landmarks on bones"
+    "2. Muscles of the Head and Neck"
   ],
   "Pharmacology": [
     "1. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents"
@@ -240,7 +240,7 @@ export const questionBankMetadata = {
     dentalHygieneTheory1: {
       name: 'Dental Hygiene Theory I',
       topics: 18,
-      totalQuestions: 0,
+      totalQuestions: 1554,
       file: 'lesson1-dental-hygiene-theory-i.js'
     },
     histologyEmbryology: {
