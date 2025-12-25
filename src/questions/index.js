@@ -252,7 +252,7 @@ export const questionBankMetadata = {
     statisticsResearch: {
       name: 'Introduction to Statistics and Research',
       topics: 11,
-      totalQuestions: 0,
+      totalQuestions: 672,
       file: 'lesson1-introduction-to-statistics-and-research.js'
     },
     microbiology: {
