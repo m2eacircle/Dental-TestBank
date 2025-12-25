@@ -246,7 +246,7 @@ export const questionBankMetadata = {
     histologyEmbryology: {
       name: 'Histology and Embryology',
       topics: 10,
-      totalQuestions: 0,
+      totalQuestions: 1155,
       file: 'lesson1-histology-and-embryology.js'
     },
     statisticsResearch: {
