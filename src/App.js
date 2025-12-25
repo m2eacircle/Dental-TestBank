@@ -177,7 +177,105 @@ const GoogleAd = ({ slot, format = "auto", className = "" }) => {
 };
 
 // Footer Component
-const Footer = () => {
+const TermsModal = ({ onClose, showCheckbox = false, onAccept = null }) => {
+  return (
+    <div className="fixed inset-0 bg-black bg-opacity-50 z-50 flex items-center justify-center p-4">
+      <div className="max-w-2xl w-full bg-white rounded-3xl shadow-2xl p-8 max-h-[90vh] overflow-y-auto">
+        <div className="flex items-center justify-between mb-6">
+          <div className="flex items-center">
+            <svg className="w-12 h-12 mr-3 flex-shrink-0" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+              <path d="M0 0 C66 0 132 0 200 0 C200 66 200 132 200 200 C134 200 68 200 0 200 C0 134 0 68 0 0 Z " fill="#FEFEFE" transform="translate(0,0)"/>
+              <path d="M0 0 C10.45885154 -0.61673817 18.80097348 3.08442546 28.17529297 7.18554688 C39.86836895 12.29999915 48.02367268 14.16553024 60.2421875 9.5625 C62.90168794 8.51088074 65.54164303 7.41661948 68.1796875 6.3125 C70.09529154 5.53902969 72.01177613 4.76773114 73.9296875 4 C74.66703125 3.69449219 75.404375 3.38898437 76.1640625 3.07421875 C83.54977394 0.28310687 92.54717323 0.00463977 100.140625 2.1484375 C106.8401249 5.21990053 111.86097633 9.99969722 115.3515625 16.4921875 C116.52751027 20.49706624 116.46910405 24.28562352 116.4296875 28.4375 C116.43742188 29.22898437 116.44515625 30.02046875 116.453125 30.8359375 C116.41824934 41.64739216 113.93349434 50.82972301 109.6171875 60.6875 C108.95662354 62.23691284 108.95662354 62.23691284 108.28271484 63.81762695 C106.10343389 68.91808003 103.88011713 73.99918918 101.66015625 79.08203125 C94.99760657 94.37422088 89.69485085 109.43418719 87.5390625 126.08203125 C85.70781807 140.14191907 83.21124511 155.28094239 72.7421875 165.75 C70.1796875 167.3125 70.1796875 167.3125 67.6171875 167.625 C63.55123173 165.4356392 62.59389901 161.56591085 61.1796875 157.3125 C60.12191201 152.36707002 59.38816609 147.3803951 58.6796875 142.375 C56.90706011 127.59073766 56.90706011 127.59073766 49.9921875 114.75 C46.0809495 112.7509228 42.57443978 111.98696279 38.1796875 112.3125 C33.68919687 114.47458808 31.27285142 116.81219757 29.1796875 121.3125 C27.10905108 127.32682944 26.70948307 133.11618348 26.3046875 139.4375 C24.70777101 160.78441649 24.70777101 160.78441649 19.1796875 166.3125 C15.74877794 166.44445806 13.30455018 166.25682917 10.59765625 163.984375 C0.87088462 152.17879466 -1.42373194 136.07165002 -4.328125 121.5703125 C-4.82313279 119.15055192 -5.32063402 116.7313004 -5.8203125 114.3125 C-5.95005463 113.66527985 -6.07979675 113.01805969 -6.21347046 112.35122681 C-8.85049261 99.3693109 -13.40544553 87.48395733 -18.4050293 75.24829102 C-25.56091238 57.64691876 -31.87191369 37.72834845 -26.859375 18.65625 C-23.23148977 10.35195779 -16.95559964 5.12057373 -8.7890625 1.3828125 C-5.89437868 0.48742301 -3.00312289 0.332756 0 0 Z " fill="#FDFDFD" transform="translate(55.8203125,16.6875)"/>
+              <path d="M0 0 C10.45885154 -0.61673817 18.80097348 3.08442546 28.17529297 7.18554688 C39.86836895 12.29999915 48.02367268 14.16553024 60.2421875 9.5625 C62.90168794 8.51088074 65.54164303 7.41661948 68.1796875 6.3125 C70.09529154 5.53902969 72.01177613 4.76773114 73.9296875 4 C74.66703125 3.69449219 75.404375 3.38898437 76.1640625 3.07421875 C83.54977394 0.28310687 92.54717323 0.00463977 100.140625 2.1484375 C106.8401249 5.21990053 111.86097633 9.99969722 115.3515625 16.4921875 C116.52751027 20.49706624 116.46910405 24.28562352 116.4296875 28.4375 C116.43742188 29.22898437 116.44515625 30.02046875 116.453125 30.8359375 C116.41824934 41.64739216 113.93349434 50.82972301 109.6171875 60.6875 C108.95662354 62.23691284 108.95662354 62.23691284 108.28271484 63.81762695 C106.10343389 68.91808003 103.88011713 73.99918918 101.66015625 79.08203125 C94.99760657 94.37422088 89.69485085 109.43418719 87.5390625 126.08203125 C85.70781807 140.14191907 83.21124511 155.28094239 72.7421875 165.75 C70.1796875 167.3125 70.1796875 167.3125 67.6171875 167.625 C63.55123173 165.4356392 62.59389901 161.56591085 61.1796875 157.3125 C60.12191201 152.36707002 59.38816609 147.3803951 58.6796875 142.375 C56.90706011 127.59073766 56.90706011 127.59073766 49.9921875 114.75 C46.0809495 112.7509228 42.57443978 111.98696279 38.1796875 112.3125 C33.68919687 114.47458808 31.27285142 116.81219757 29.1796875 121.3125 C27.10905108 127.32682944 26.70948307 133.11618348 26.3046875 139.4375 C24.70777101 160.78441649 24.70777101 160.78441649 19.1796875 166.3125 C15.74877794 166.44445806 13.30455018 166.25682917 10.59765625 163.984375 C0.87088462 152.17879466 -1.42373194 136.07165002 -4.328125 121.5703125 C-4.82313279 119.15055192 -5.32063402 116.7313004 -5.8203125 114.3125 C-5.95005463 113.66527985 -6.07979675 113.01805969 -6.21347046 112.35122681 C-8.85049261 99.3693109 -13.40544553 87.48395733 -18.4050293 75.24829102 C-25.56091238 57.64691876 -31.87191369 37.72834845 -26.859375 18.65625 C-23.23148977 10.35195779 -16.95559964 5.12057373 -8.7890625 1.3828125 C-5.89437868 0.48742301 -3.00312289 0.332756 0 0 Z M-19.2578125 12.5 C-25.72271705 20.51909373 -26.55685007 28.24694854 -25.8203125 38.3125 C-24.24651683 51.66951711 -20.13771604 63.58538255 -15.2578125 76.0625 C-14.56436636 77.86925923 -13.87230181 79.67654935 -13.18164062 81.484375 C-11.04763901 87.05575883 -8.91192648 92.62662187 -6.66552734 98.15380859 C-5.50827636 101.10944498 -4.77296679 104.10734698 -4.0078125 107.1875 C-3.83894531 107.86659424 -3.67007813 108.54568848 -3.49609375 109.24536133 C-2.21690598 114.47508415 -1.07554417 119.72963973 0.04150391 124.99609375 C3.29003518 144.65584796 3.29003518 144.65584796 13.1796875 161.3125 C15.78281941 162.09567932 15.78281941 162.09567932 18.1796875 162.3125 C21.46766979 154.69035924 22.4339316 147.09269269 23.49121094 138.89794922 C23.83397888 136.26360369 24.19432671 133.63198993 24.5546875 131 C24.65652344 130.16436523 24.75835937 129.32873047 24.86328125 128.46777344 C25.82006439 121.55309067 27.6623322 115.70998124 32.8046875 110.8125 C38.46001622 108.29902057 43.62130199 108.54015721 49.4921875 110.3125 C57.3593705 116.16714781 59.67496732 126.29533231 61.05859375 135.56640625 C61.29447797 137.33488632 61.52233299 139.1044557 61.7421875 140.875 C62.80247138 152.64078712 62.80247138 152.64078712 67.1796875 163.3125 C70.4538497 163.06996947 71.33005603 162.15292156 73.63110352 159.7109375 C76.25026732 156.45180222 77.86672509 152.9817076 79.26953125 149.0625 C79.5221019 148.37140137 79.77467255 147.68030273 80.03489685 146.96826172 C82.84275526 138.93285231 84.30387973 130.68018761 85.7421875 122.3125 C88.69082221 105.38895987 93.06024006 90.1305028 100.25653076 74.5149231 C112.92253358 47.17942844 112.92253358 47.17942844 112.48046875 17.65234375 C109.91343924 11.85757249 105.28533017 8.06808883 99.5546875 5.5 C86.86405847 1.29396295 76.22461432 6.45758456 64.83422852 11.66259766 C63.95822998 12.06269043 63.08223145 12.4627832 62.1796875 12.875 C61.30820068 13.27380371 60.43671387 13.67260742 59.53881836 14.08349609 C51.80312445 17.57863988 44.74838391 20.3125 36.1796875 20.3125 C39.4796875 19.3225 42.7796875 18.3325 46.1796875 17.3125 C46.1796875 16.9825 46.1796875 16.6525 46.1796875 16.3125 C45.4990625 16.17714844 44.8184375 16.04179688 44.1171875 15.90234375 C36.19607603 14.14326713 29.17860685 11.29816476 21.84375 7.93359375 C8.40967013 1.90903216 -8.44781224 1.3387723 -19.2578125 12.5 Z " fill="#171717" transform="translate(55.8203125,16.6875)"/>
+            </svg>
+            <div>
+              <div className="text-xs text-gray-500 mb-1 text-left">Ontario</div>
+              <h1 className="text-xl font-bold text-gray-800">Dental Hygiene Test Bank</h1>
+            </div>
+          </div>
+          {!showCheckbox && (
+            <button
+              onClick={onClose}
+              className="text-gray-400 hover:text-gray-600 transition-colors"
+            >
+              <X className="w-6 h-6" />
+            </button>
+          )}
+        </div>
+        
+        <div className={showCheckbox ? "mb-8" : ""}>
+          <h2 className="text-xl font-semibold text-gray-800 mb-4">Terms of Use</h2>
+          <div className="bg-gray-50 rounded-xl p-6 mb-6 max-h-96 overflow-y-auto">
+            <p className="text-gray-700 leading-relaxed">
+              Welcome to the Dental Hygiene Test Bank. This application is designed to help you study and prepare for your dental hygiene examinations. 
+              {showCheckbox ? ' Before you begin, please read and acknowledge the following:' : ''}
+            </p>
+            <ul className="mt-4 space-y-2 text-gray-700">
+              <li className="flex items-start">
+                <span className="text-blue-600 mr-2 mt-1">•</span>
+                <span>All questions and content are provided for <strong>study purposes only</strong></span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-blue-600 mr-2 mt-1">•</span>
+                <span>Questions and answers <strong>may contain errors</strong> or inaccuracies</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-blue-600 mr-2 mt-1">•</span>
+                <span>Subject and topic classifications <strong>may be incorrect</strong></span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-blue-600 mr-2 mt-1">•</span>
+                <span>This is not a substitute for official study materials or professional guidance</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-blue-600 mr-2 mt-1">•</span>
+                <span>Always verify information with your instructors and official textbooks</span>
+              </li>
+            </ul>
+          </div>
+          
+          {showCheckbox && (
+            <>
+              <div className="bg-blue-50 border-2 border-blue-200 rounded-xl p-4">
+                <label className="flex items-start cursor-pointer group">
+                  <input 
+                    type="checkbox" 
+                    className="mt-1 w-5 h-5 text-blue-600 rounded focus:ring-2 focus:ring-blue-500 cursor-pointer flex-shrink-0"
+                    onChange={(e) => {
+                      if (e.target.checked && onAccept) {
+                        onAccept();
+                      }
+                    }}
+                  />
+                  <span className="ml-3 text-sm text-gray-700 leading-relaxed select-none">
+                    <strong>I acknowledge and agree</strong> that all questions are provided for study purposes only and may contain errors in the questions or answers. 
+                    I also understand that the subject or topic classification may be incorrect.
+                  </span>
+                </label>
+              </div>
+              <div className="text-center text-sm text-gray-500 mt-4">
+                Check the box above to continue to the test bank
+              </div>
+            </>
+          )}
+        </div>
+        
+        {!showCheckbox && (
+          <div className="flex justify-end">
+            <button
+              onClick={onClose}
+              className="px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-medium"
+            >
+              Close
+            </button>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+};
+
+const Footer = ({ onViewTerms }) => {
   return (
     <div className="text-center py-6 text-sm text-white">
       © 2025{' '}
@@ -191,7 +289,33 @@ const Footer = () => {
         m2ea Labs
       </a>
       . All rights reserved.
+      {onViewTerms && (
+        <>
+          {' · '}
+          <button
+            onClick={onViewTerms}
+            className="text-white hover:text-gray-200 transition-colors font-medium underline"
+          >
+            Terms of Use
+          </button>
+        </>
+      )}
     </div>
+  );
+};
+
+// Screen wrapper that includes the terms modal overlay
+const ScreenWithTerms = ({ children, showTermsModal, onCloseTerms }) => {
+  return (
+    <>
+      {children}
+      {showTermsModal && (
+        <TermsModal 
+          onClose={onCloseTerms}
+          showCheckbox={false}
+        />
+      )}
+    </>
   );
 };
 
@@ -220,6 +344,7 @@ export default function ImprovedTestBankApp() {
   const [topicProgress, setTopicProgress] = useState({}); // Track progress per topic
   const [isRetakeTest, setIsRetakeTest] = useState(false); // Track if current test is a retake
   const [termsAccepted, setTermsAccepted] = useState(false); // Track terms acknowledgment
+  const [showTermsModal, setShowTermsModal] = useState(false); // Track terms modal visibility
 
   // Shuffle function for randomizing questions
   const shuffleArray = (array) => {
@@ -658,75 +783,13 @@ export default function ImprovedTestBankApp() {
   if (!termsAccepted) {
     return (
       <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4 flex items-center justify-center">
-        <div className="max-w-2xl w-full bg-white rounded-3xl shadow-2xl p-8">
-          <div className="flex items-center justify-center mb-6">
-            <svg className="w-16 h-16 mr-3 flex-shrink-0" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-              <path d="M0 0 C66 0 132 0 200 0 C200 66 200 132 200 200 C134 200 68 200 0 200 C0 134 0 68 0 0 Z " fill="#FEFEFE" transform="translate(0,0)"/>
-              <path d="M0 0 C10.45885154 -0.61673817 18.80097348 3.08442546 28.17529297 7.18554688 C39.86836895 12.29999915 48.02367268 14.16553024 60.2421875 9.5625 C62.90168794 8.51088074 65.54164303 7.41661948 68.1796875 6.3125 C70.09529154 5.53902969 72.01177613 4.76773114 73.9296875 4 C74.66703125 3.69449219 75.404375 3.38898437 76.1640625 3.07421875 C83.54977394 0.28310687 92.54717323 0.00463977 100.140625 2.1484375 C106.8401249 5.21990053 111.86097633 9.99969722 115.3515625 16.4921875 C116.52751027 20.49706624 116.46910405 24.28562352 116.4296875 28.4375 C116.43742188 29.22898437 116.44515625 30.02046875 116.453125 30.8359375 C116.41824934 41.64739216 113.93349434 50.82972301 109.6171875 60.6875 C108.95662354 62.23691284 108.95662354 62.23691284 108.28271484 63.81762695 C106.10343389 68.91808003 103.88011713 73.99918918 101.66015625 79.08203125 C94.99760657 94.37422088 89.69485085 109.43418719 87.5390625 126.08203125 C85.70781807 140.14191907 83.21124511 155.28094239 72.7421875 165.75 C70.1796875 167.3125 70.1796875 167.3125 67.6171875 167.625 C63.55123173 165.4356392 62.59389901 161.56591085 61.1796875 157.3125 C60.12191201 152.36707002 59.38816609 147.3803951 58.6796875 142.375 C56.90706011 127.59073766 56.90706011 127.59073766 49.9921875 114.75 C46.0809495 112.7509228 42.57443978 111.98696279 38.1796875 112.3125 C33.68919687 114.47458808 31.27285142 116.81219757 29.1796875 121.3125 C27.10905108 127.32682944 26.70948307 133.11618348 26.3046875 139.4375 C24.70777101 160.78441649 24.70777101 160.78441649 19.1796875 166.3125 C15.74877794 166.44445806 13.30455018 166.25682917 10.59765625 163.984375 C0.87088462 152.17879466 -1.42373194 136.07165002 -4.328125 121.5703125 C-4.82313279 119.15055192 -5.32063402 116.7313004 -5.8203125 114.3125 C-5.95005463 113.66527985 -6.07979675 113.01805969 -6.21347046 112.35122681 C-8.85049261 99.3693109 -13.40544553 87.48395733 -18.4050293 75.24829102 C-25.56091238 57.64691876 -31.87191369 37.72834845 -26.859375 18.65625 C-23.23148977 10.35195779 -16.95559964 5.12057373 -8.7890625 1.3828125 C-5.89437868 0.48742301 -3.00312289 0.332756 0 0 Z " fill="#FDFDFD" transform="translate(55.8203125,16.6875)"/>
-              <path d="M0 0 C10.45885154 -0.61673817 18.80097348 3.08442546 28.17529297 7.18554688 C39.86836895 12.29999915 48.02367268 14.16553024 60.2421875 9.5625 C62.90168794 8.51088074 65.54164303 7.41661948 68.1796875 6.3125 C70.09529154 5.53902969 72.01177613 4.76773114 73.9296875 4 C74.66703125 3.69449219 75.404375 3.38898437 76.1640625 3.07421875 C83.54977394 0.28310687 92.54717323 0.00463977 100.140625 2.1484375 C106.8401249 5.21990053 111.86097633 9.99969722 115.3515625 16.4921875 C116.52751027 20.49706624 116.46910405 24.28562352 116.4296875 28.4375 C116.43742188 29.22898437 116.44515625 30.02046875 116.453125 30.8359375 C116.41824934 41.64739216 113.93349434 50.82972301 109.6171875 60.6875 C108.95662354 62.23691284 108.95662354 62.23691284 108.28271484 63.81762695 C106.10343389 68.91808003 103.88011713 73.99918918 101.66015625 79.08203125 C94.99760657 94.37422088 89.69485085 109.43418719 87.5390625 126.08203125 C85.70781807 140.14191907 83.21124511 155.28094239 72.7421875 165.75 C70.1796875 167.3125 70.1796875 167.3125 67.6171875 167.625 C63.55123173 165.4356392 62.59389901 161.56591085 61.1796875 157.3125 C60.12191201 152.36707002 59.38816609 147.3803951 58.6796875 142.375 C56.90706011 127.59073766 56.90706011 127.59073766 49.9921875 114.75 C46.0809495 112.7509228 42.57443978 111.98696279 38.1796875 112.3125 C33.68919687 114.47458808 31.27285142 116.81219757 29.1796875 121.3125 C27.10905108 127.32682944 26.70948307 133.11618348 26.3046875 139.4375 C24.70777101 160.78441649 24.70777101 160.78441649 19.1796875 166.3125 C15.74877794 166.44445806 13.30455018 166.25682917 10.59765625 163.984375 C0.87088462 152.17879466 -1.42373194 136.07165002 -4.328125 121.5703125 C-4.82313279 119.15055192 -5.32063402 116.7313004 -5.8203125 114.3125 C-5.95005463 113.66527985 -6.07979675 113.01805969 -6.21347046 112.35122681 C-8.85049261 99.3693109 -13.40544553 87.48395733 -18.4050293 75.24829102 C-25.56091238 57.64691876 -31.87191369 37.72834845 -26.859375 18.65625 C-23.23148977 10.35195779 -16.95559964 5.12057373 -8.7890625 1.3828125 C-5.89437868 0.48742301 -3.00312289 0.332756 0 0 Z M-19.2578125 12.5 C-25.72271705 20.51909373 -26.55685007 28.24694854 -25.8203125 38.3125 C-24.24651683 51.66951711 -20.13771604 63.58538255 -15.2578125 76.0625 C-14.56436636 77.86925923 -13.87230181 79.67654935 -13.18164062 81.484375 C-11.04763901 87.05575883 -8.91192648 92.62662187 -6.66552734 98.15380859 C-5.50827636 101.10944498 -4.77296679 104.10734698 -4.0078125 107.1875 C-3.83894531 107.86659424 -3.67007813 108.54568848 -3.49609375 109.24536133 C-2.21690598 114.47508415 -1.07554417 119.72963973 0.04150391 124.99609375 C3.29003518 144.65584796 3.29003518 144.65584796 13.1796875 161.3125 C15.78281941 162.09567932 15.78281941 162.09567932 18.1796875 162.3125 C21.46766979 154.69035924 22.4339316 147.09269269 23.49121094 138.89794922 C23.83397888 136.26360369 24.19432671 133.63198993 24.5546875 131 C24.65652344 130.16436523 24.75835937 129.32873047 24.86328125 128.46777344 C25.82006439 121.55309067 27.6623322 115.70998124 32.8046875 110.8125 C38.46001622 108.29902057 43.62130199 108.54015721 49.4921875 110.3125 C57.3593705 116.16714781 59.67496732 126.29533231 61.05859375 135.56640625 C61.29447797 137.33488632 61.52233299 139.1044557 61.7421875 140.875 C62.80247138 152.64078712 62.80247138 152.64078712 67.1796875 163.3125 C70.4538497 163.06996947 71.33005603 162.15292156 73.63110352 159.7109375 C76.25026732 156.45180222 77.86672509 152.9817076 79.26953125 149.0625 C79.5221019 148.37140137 79.77467255 147.68030273 80.03489685 146.96826172 C82.84275526 138.93285231 84.30387973 130.68018761 85.7421875 122.3125 C88.69082221 105.38895987 93.06024006 90.1305028 100.25653076 74.5149231 C112.92253358 47.17942844 112.92253358 47.17942844 112.48046875 17.65234375 C109.91343924 11.85757249 105.28533017 8.06808883 99.5546875 5.5 C86.86405847 1.29396295 76.22461432 6.45758456 64.83422852 11.66259766 C63.95822998 12.06269043 63.08223145 12.4627832 62.1796875 12.875 C61.30820068 13.27380371 60.43671387 13.67260742 59.53881836 14.08349609 C51.80312445 17.57863988 44.74838391 20.3125 36.1796875 20.3125 C39.4796875 19.3225 42.7796875 18.3325 46.1796875 17.3125 C46.1796875 16.9825 46.1796875 16.6525 46.1796875 16.3125 C45.4990625 16.17714844 44.8184375 16.04179688 44.1171875 15.90234375 C36.19607603 14.14326713 29.17860685 11.29816476 21.84375 7.93359375 C8.40967013 1.90903216 -8.44781224 1.3387723 -19.2578125 12.5 Z " fill="#171717" transform="translate(55.8203125,16.6875)"/>
-            </svg>
-            <div>
-              <div className="text-xs text-gray-500 mb-1 text-left">Ontario</div>
-              <h1 className="text-2xl font-bold text-gray-800">Dental Hygiene Test Bank</h1>
-            </div>
-          </div>
-          
-          <div className="mb-8">
-            <h2 className="text-xl font-semibold text-gray-800 mb-4">Terms of Use</h2>
-            <div className="bg-gray-50 rounded-xl p-6 mb-6 max-h-64 overflow-y-auto">
-              <p className="text-gray-700 leading-relaxed">
-                Welcome to the Dental Hygiene Test Bank. This application is designed to help you study and prepare for your dental hygiene examinations. 
-                Before you begin, please read and acknowledge the following:
-              </p>
-              <ul className="mt-4 space-y-2 text-gray-700">
-                <li className="flex items-start">
-                  <span className="text-blue-600 mr-2 mt-1">•</span>
-                  <span>All questions and content are provided for <strong>study purposes only</strong></span>
-                </li>
-                <li className="flex items-start">
-                  <span className="text-blue-600 mr-2 mt-1">•</span>
-                  <span>Questions and answers <strong>may contain errors</strong> or inaccuracies</span>
-                </li>
-                <li className="flex items-start">
-                  <span className="text-blue-600 mr-2 mt-1">•</span>
-                  <span>Subject and topic classifications <strong>may be incorrect</strong></span>
-                </li>
-                <li className="flex items-start">
-                  <span className="text-blue-600 mr-2 mt-1">•</span>
-                  <span>This is not a substitute for official study materials or professional guidance</span>
-                </li>
-                <li className="flex items-start">
-                  <span className="text-blue-600 mr-2 mt-1">•</span>
-                  <span>Always verify information with your instructors and official textbooks</span>
-                </li>
-              </ul>
-            </div>
-            
-            <div className="bg-blue-50 border-2 border-blue-200 rounded-xl p-4">
-              <label className="flex items-start cursor-pointer group">
-                <input 
-                  type="checkbox" 
-                  className="mt-1 w-5 h-5 text-blue-600 rounded focus:ring-2 focus:ring-blue-500 cursor-pointer flex-shrink-0"
-                  onChange={(e) => {
-                    const accepted = e.target.checked;
-                    setTermsAccepted(accepted);
-                    if (accepted) {
-                      localStorage.setItem('termsAccepted', JSON.stringify(true));
-                    }
-                  }}
-                />
-                <span className="ml-3 text-sm text-gray-700 leading-relaxed select-none">
-                  <strong>I acknowledge and agree</strong> that all questions are provided for study purposes only and may contain errors in the questions or answers. 
-                  I also understand that the subject or topic classification may be incorrect.
-                </span>
-              </label>
-            </div>
-          </div>
-          
-          <div className="text-center text-sm text-gray-500">
-            Check the box above to continue to the test bank
-          </div>
-        </div>
+        <TermsModal 
+          showCheckbox={true}
+          onAccept={() => {
+            setTermsAccepted(true);
+            localStorage.setItem('termsAccepted', JSON.stringify(true));
+          }}
+        />
       </div>
     );
   }
@@ -734,6 +797,7 @@ export default function ImprovedTestBankApp() {
   // Home Screen
   if (screen === 'home') {
     return (
+      <ScreenWithTerms showTermsModal={showTermsModal} onCloseTerms={() => setShowTermsModal(false)}>
       <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
         <div className="max-w-md sm:max-w-2xl lg:max-w-4xl mx-auto">
           
@@ -831,9 +895,10 @@ export default function ImprovedTestBankApp() {
             </button>
           </div>
           
-          <Footer />
+          <Footer onViewTerms={() => setShowTermsModal(true)} />
         </div>
       </div>
+      </ScreenWithTerms>
     );
   }
 
@@ -844,6 +909,7 @@ export default function ImprovedTestBankApp() {
     const flaggedCount = getFlaggedQuestionsForTopic(selectedSubject).length;
     
     return (
+      <ScreenWithTerms showTermsModal={showTermsModal} onCloseTerms={() => setShowTermsModal(false)}>
       <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
         <div className="max-w-md sm:max-w-2xl lg:max-w-4xl mx-auto">
           
@@ -928,9 +994,10 @@ export default function ImprovedTestBankApp() {
               )}
             </div>
           </div>
-          <Footer />
+          <Footer onViewTerms={() => setShowTermsModal(true)} />
         </div>
       </div>
+      </ScreenWithTerms>
     );
   }
 
@@ -940,6 +1007,7 @@ export default function ImprovedTestBankApp() {
     const isLesson = selectedSubject.startsWith('Lesson');
     
     return (
+      <ScreenWithTerms showTermsModal={showTermsModal} onCloseTerms={() => setShowTermsModal(false)}>
       <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
         <div className="max-w-md sm:max-w-2xl lg:max-w-4xl mx-auto">
           
@@ -1075,7 +1143,8 @@ export default function ImprovedTestBankApp() {
               })}
             </div>
           </div>
-          <Footer />
+          <Footer onViewTerms={() => setShowTermsModal(true)} />
+      </ScreenWithTerms>
         </div>
       </div>
     );
@@ -1088,7 +1157,8 @@ export default function ImprovedTestBankApp() {
     
     if (!currentQuestion) {
       return (
-        <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4 flex items-center justify-center">
+      <ScreenWithTerms showTermsModal={showTermsModal} onCloseTerms={() => setShowTermsModal(false)}>
+      <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4 flex items-center justify-center">
           <div className="bg-white rounded-3xl shadow-2xl p-6 max-w-md sm:max-w-2xl lg:max-w-4xl">
             <p className="text-gray-700 text-center">No questions available for this subject yet.</p>
             <button
@@ -1106,6 +1176,7 @@ export default function ImprovedTestBankApp() {
     const isFlagged = flaggedQuestions.includes(currentQuestion.id);
     
     return (
+      <ScreenWithTerms showTermsModal={showTermsModal} onCloseTerms={() => setShowTermsModal(false)}>
       <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
         <div className="max-w-md sm:max-w-2xl lg:max-w-4xl mx-auto">
           
@@ -1361,12 +1432,13 @@ export default function ImprovedTestBankApp() {
             >
               {isAnswerSubmitted 
                 ? (currentQuestionIndex === selectedQuestions.length - 1 ? 'Finish Test' : 'Next Question')
+      </ScreenWithTerms>
                 : 'Submit Answer'
               }
             </button>
           </div>
           
-          <Footer />
+          <Footer onViewTerms={() => setShowTermsModal(true)} />
         </div>
       </div>
     );
@@ -1375,6 +1447,7 @@ export default function ImprovedTestBankApp() {
   // Review Screen
   if (screen === 'review') {
     return (
+      <ScreenWithTerms showTermsModal={showTermsModal} onCloseTerms={() => setShowTermsModal(false)}>
       <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
         <div className="max-w-md sm:max-w-2xl lg:max-w-4xl mx-auto">
           <div className="bg-white rounded-3xl shadow-2xl p-6 mb-4">
@@ -1448,11 +1521,12 @@ export default function ImprovedTestBankApp() {
             <button
               onClick={() => setScreen('results')}
               className="w-full mt-4 bg-blue-600 text-white py-4 rounded-xl font-semibold hover:shadow-lg transition-all"
+      </ScreenWithTerms>
             >
               Back to Results
             </button>
           </div>
-          <Footer />
+          <Footer onViewTerms={() => setShowTermsModal(true)} />
         </div>
       </div>
     );
@@ -1463,6 +1537,7 @@ export default function ImprovedTestBankApp() {
     const lastResult = testHistory[0];
     
     return (
+      <ScreenWithTerms showTermsModal={showTermsModal} onCloseTerms={() => setShowTermsModal(false)}>
       <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
         <div className="max-w-md sm:max-w-2xl lg:max-w-4xl mx-auto">
           <div className="bg-white rounded-3xl shadow-2xl p-6 mb-4">
@@ -1540,6 +1615,7 @@ export default function ImprovedTestBankApp() {
                 </button>
               )}
               <button
+      </ScreenWithTerms>
                 onClick={() => setScreen('home')}
                 className="w-full bg-white border-2 border-gray-300 text-gray-700 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-all"
               >
@@ -1547,7 +1623,7 @@ export default function ImprovedTestBankApp() {
               </button>
             </div>
           </div>
-          <Footer />
+          <Footer onViewTerms={() => setShowTermsModal(true)} />
         </div>
       </div>
     );
@@ -1556,6 +1632,7 @@ export default function ImprovedTestBankApp() {
   // Progress Screen
   if (screen === 'progress') {
     return (
+      <ScreenWithTerms showTermsModal={showTermsModal} onCloseTerms={() => setShowTermsModal(false)}>
       <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
         <div className="max-w-md sm:max-w-2xl lg:max-w-4xl mx-auto">
           <div className="bg-white rounded-3xl shadow-2xl p-6 mb-4">
@@ -1640,6 +1717,7 @@ export default function ImprovedTestBankApp() {
                         <div>
                           <div className="text-gray-600">Accuracy</div>
                           <div className="font-bold text-gray-800">{accuracy}%</div>
+      </ScreenWithTerms>
                         </div>
                       </div>
                     </div>
@@ -1648,7 +1726,7 @@ export default function ImprovedTestBankApp() {
               </div>
             )}
           </div>
-          <Footer />
+          <Footer onViewTerms={() => setShowTermsModal(true)} />
         </div>
       </div>
     );
@@ -1657,6 +1735,7 @@ export default function ImprovedTestBankApp() {
   // History Screen
   if (screen === 'history') {
     return (
+      <ScreenWithTerms showTermsModal={showTermsModal} onCloseTerms={() => setShowTermsModal(false)}>
       <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
         <div className="max-w-md sm:max-w-2xl lg:max-w-4xl mx-auto">
           <div className="bg-white rounded-3xl shadow-2xl p-6 mb-4">
@@ -1720,7 +1799,7 @@ export default function ImprovedTestBankApp() {
               </div>
             )}
           </div>
-          <Footer />
+          <Footer onViewTerms={() => setShowTermsModal(true)} />
         </div>
       </div>
     );
