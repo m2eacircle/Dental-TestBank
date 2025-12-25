@@ -193,17 +193,15 @@ const TermsModal = ({ onClose, showCheckbox = false, onAccept = null }) => {
               <h1 className="text-xl font-bold text-gray-800">Dental Hygiene Test Bank</h1>
             </div>
           </div>
-          {!showCheckbox && (
-            <button
-              onClick={onClose}
-              className="text-gray-400 hover:text-gray-600 transition-colors"
-            >
-              <X className="w-6 h-6" />
-            </button>
-          )}
+          <button
+            onClick={onClose}
+            className="text-gray-400 hover:text-gray-600 transition-colors"
+          >
+            <X className="w-6 h-6" />
+          </button>
         </div>
         
-        <div className={showCheckbox ? "mb-8" : ""}>
+        <div className="mb-8">
           <h2 className="text-xl font-semibold text-gray-800 mb-4">Terms of Use</h2>
           <div className="bg-gray-50 rounded-xl p-6 mb-6 max-h-96 overflow-y-auto">
             <p className="text-gray-700 leading-relaxed">
@@ -234,29 +232,39 @@ const TermsModal = ({ onClose, showCheckbox = false, onAccept = null }) => {
             </ul>
           </div>
           
+          {/* Show checkbox - either active (initial acceptance) or checked/readonly (viewing after acceptance) */}
+          <div className="bg-blue-50 border-2 border-blue-200 rounded-xl p-4">
+            <label className="flex items-start group">
+              <input 
+                type="checkbox" 
+                checked={!showCheckbox} // Checked when viewing (showCheckbox=false), unchecked when accepting (showCheckbox=true)
+                disabled={!showCheckbox} // Disabled (read-only) when viewing, enabled when accepting
+                className={`mt-1 w-5 h-5 text-blue-600 rounded focus:ring-2 focus:ring-blue-500 flex-shrink-0 ${
+                  showCheckbox ? 'cursor-pointer' : 'cursor-not-allowed opacity-75'
+                }`}
+                onChange={(e) => {
+                  if (showCheckbox && e.target.checked && onAccept) {
+                    onAccept();
+                  }
+                }}
+              />
+              <span className="ml-3 text-sm text-gray-700 leading-relaxed select-none">
+                <strong>I acknowledge and agree</strong> that all questions are provided for study purposes only and may contain errors in the questions or answers. 
+                I also understand that the subject or topic classification may be incorrect.
+              </span>
+            </label>
+          </div>
+          
           {showCheckbox && (
-            <>
-              <div className="bg-blue-50 border-2 border-blue-200 rounded-xl p-4">
-                <label className="flex items-start cursor-pointer group">
-                  <input 
-                    type="checkbox" 
-                    className="mt-1 w-5 h-5 text-blue-600 rounded focus:ring-2 focus:ring-blue-500 cursor-pointer flex-shrink-0"
-                    onChange={(e) => {
-                      if (e.target.checked && onAccept) {
-                        onAccept();
-                      }
-                    }}
-                  />
-                  <span className="ml-3 text-sm text-gray-700 leading-relaxed select-none">
-                    <strong>I acknowledge and agree</strong> that all questions are provided for study purposes only and may contain errors in the questions or answers. 
-                    I also understand that the subject or topic classification may be incorrect.
-                  </span>
-                </label>
-              </div>
-              <div className="text-center text-sm text-gray-500 mt-4">
-                Check the box above to continue to the test bank
-              </div>
-            </>
+            <div className="text-center text-sm text-gray-500 mt-4">
+              Check the box above to continue to the test bank
+            </div>
+          )}
+          
+          {!showCheckbox && (
+            <div className="text-center text-sm text-green-600 mt-4 font-medium">
+              ✓ You have accepted these terms
+            </div>
           )}
         </div>
         
