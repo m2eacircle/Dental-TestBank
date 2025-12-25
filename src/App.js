@@ -1144,9 +1144,9 @@ export default function ImprovedTestBankApp() {
             </div>
           </div>
           <Footer onViewTerms={() => setShowTermsModal(true)} />
-      </ScreenWithTerms>
         </div>
       </div>
+      </ScreenWithTerms>
     );
   }
 
@@ -1169,6 +1169,7 @@ export default function ImprovedTestBankApp() {
             </button>
           </div>
         </div>
+        </ScreenWithTerms>
       );
     }
     
@@ -1432,7 +1433,6 @@ export default function ImprovedTestBankApp() {
             >
               {isAnswerSubmitted 
                 ? (currentQuestionIndex === selectedQuestions.length - 1 ? 'Finish Test' : 'Next Question')
-      </ScreenWithTerms>
                 : 'Submit Answer'
               }
             </button>
@@ -1441,6 +1441,7 @@ export default function ImprovedTestBankApp() {
           <Footer onViewTerms={() => setShowTermsModal(true)} />
         </div>
       </div>
+    </ScreenWithTerms>
     );
   }
 
@@ -1521,7 +1522,6 @@ export default function ImprovedTestBankApp() {
             <button
               onClick={() => setScreen('results')}
               className="w-full mt-4 bg-blue-600 text-white py-4 rounded-xl font-semibold hover:shadow-lg transition-all"
-      </ScreenWithTerms>
             >
               Back to Results
             </button>
@@ -1529,6 +1529,7 @@ export default function ImprovedTestBankApp() {
           <Footer onViewTerms={() => setShowTermsModal(true)} />
         </div>
       </div>
+    </ScreenWithTerms>
     );
   }
 
@@ -1615,7 +1616,6 @@ export default function ImprovedTestBankApp() {
                 </button>
               )}
               <button
-      </ScreenWithTerms>
                 onClick={() => setScreen('home')}
                 className="w-full bg-white border-2 border-gray-300 text-gray-700 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-all"
               >
@@ -1626,6 +1626,7 @@ export default function ImprovedTestBankApp() {
           <Footer onViewTerms={() => setShowTermsModal(true)} />
         </div>
       </div>
+    </ScreenWithTerms>
     );
   }
 
@@ -1717,7 +1718,6 @@ export default function ImprovedTestBankApp() {
                         <div>
                           <div className="text-gray-600">Accuracy</div>
                           <div className="font-bold text-gray-800">{accuracy}%</div>
-      </ScreenWithTerms>
                         </div>
                       </div>
                     </div>
@@ -1729,6 +1729,7 @@ export default function ImprovedTestBankApp() {
           <Footer onViewTerms={() => setShowTermsModal(true)} />
         </div>
       </div>
+    </ScreenWithTerms>
     );
   }
 
@@ -1802,6 +1803,7 @@ export default function ImprovedTestBankApp() {
           <Footer onViewTerms={() => setShowTermsModal(true)} />
         </div>
       </div>
+    </ScreenWithTerms>
     );
   }
 }
