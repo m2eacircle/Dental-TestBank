@@ -687,6 +687,7 @@ export default function ImprovedTestBankApp() {
 
   const nextQuestion = () => {
     const currentQuestion = selectedQuestions[currentQuestionIndex];
+    const correctIndex = getCorrectAnswerIndex(currentQuestion);
     
     // Use selectedAnswer directly (no shuffling)
     const newAnswers = [...answers, selectedAnswer];
@@ -696,8 +697,8 @@ export default function ImprovedTestBankApp() {
     const reviewData = {
       question: currentQuestion,
       selectedAnswer: selectedAnswer,
-      correctAnswer: currentQuestion.correct,
-      isCorrect: selectedAnswer === currentQuestion.correct
+      correctAnswer: correctIndex,
+      isCorrect: selectedAnswer === correctIndex
     };
     setReviewAnswers([...reviewAnswers, reviewData]);
     
@@ -715,7 +716,8 @@ export default function ImprovedTestBankApp() {
     let correct = 0;
     
     finalAnswers.forEach((answer, idx) => {
-      if (answer === selectedQuestions[idx].correct) correct++;
+      const correctIndex = getCorrectAnswerIndex(selectedQuestions[idx]);
+      if (answer === correctIndex) correct++;
     });
     
     const score = selectedQuestions.length > 0 ? Math.round((correct / selectedQuestions.length) * 100) : 0;
@@ -780,6 +782,15 @@ export default function ImprovedTestBankApp() {
     const mins = Math.floor(seconds / 60);
     const secs = seconds % 60;
     return `${mins}:${secs.toString().padStart(2, '0')}`;
+  };
+
+  // Convert correct answer to index (handles both letter "A" and number 0 formats)
+  const getCorrectAnswerIndex = (question) => {
+    if (typeof question.correct === 'number') {
+      return question.correct;
+    }
+    // Convert letter to index: A=0, B=1, C=2, D=3
+    return question.correct.charCodeAt(0) - 65;
   };
 
   const getFlaggedQuestionsForTopic = (topicKey) => {
@@ -1181,7 +1192,7 @@ export default function ImprovedTestBankApp() {
       );
     }
     
-    const isCorrect = selectedAnswer === currentQuestion.correct;
+    const isCorrect = selectedAnswer === getCorrectAnswerIndex(currentQuestion);
     const isFlagged = flaggedQuestions.includes(currentQuestion.id);
     
     return (
@@ -1325,7 +1336,8 @@ export default function ImprovedTestBankApp() {
 
             <div className="space-y-3 no-select">
               {currentQuestion.options.map((option, index) => {
-                const isThisCorrect = index === currentQuestion.correct;
+                const correctIndex = getCorrectAnswerIndex(currentQuestion);
+                const isThisCorrect = index === correctIndex;
                 const isSelected = selectedAnswer === index;
                 
                 let buttonClass = 'bg-gray-100 text-gray-700 hover:bg-gray-200';
@@ -1373,7 +1385,7 @@ export default function ImprovedTestBankApp() {
                 </p>
                 <p className="text-gray-700 mt-2">
                   <span className="font-semibold">Correct answer: </span>
-                  <span className="text-green-600">{String.fromCharCode(65 + currentQuestion.correct)}) {currentQuestion.options[currentQuestion.correct]}</span>
+                  <span className="text-green-600">{String.fromCharCode(65 + getCorrectAnswerIndex(currentQuestion))}) {currentQuestion.options[getCorrectAnswerIndex(currentQuestion)]}</span>
                 </p>
               </div>
             )}
