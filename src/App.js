@@ -1363,10 +1363,17 @@ export default function ImprovedTestBankApp() {
 
             {isAnswerSubmitted && !isCorrect && (
               <div className="mt-4 p-4 bg-red-50 border-2 border-red-200 rounded-xl">
-                <p className="text-red-800 font-semibold mb-2">Incorrect Answer</p>
+                <p className="text-red-800 font-semibold mb-2 flex items-center">
+                  <XCircle className="w-5 h-5 mr-2" />
+                  Incorrect Answer
+                </p>
                 <p className="text-gray-700">
+                  <span className="font-semibold">Your answer: </span>
+                  <span className="text-red-600">{String.fromCharCode(65 + selectedAnswer)}) {currentQuestion.options[selectedAnswer]}</span>
+                </p>
+                <p className="text-gray-700 mt-2">
                   <span className="font-semibold">Correct answer: </span>
-                  {currentQuestion.options[currentQuestion.correct]}
+                  <span className="text-green-600">{String.fromCharCode(65 + currentQuestion.correct)}) {currentQuestion.options[currentQuestion.correct]}</span>
                 </p>
               </div>
             )}
@@ -1516,13 +1523,24 @@ export default function ImprovedTestBankApp() {
                           <div className="flex items-center">
                             <span className="font-medium mr-2">{String.fromCharCode(65 + optIndex)}.</span>
                             <span>{option}</span>
-                            {isCorrect && <span className="ml-auto text-green-600 font-semibold">✓ Correct</span>}
-                            {wasSelected && !isCorrect && <span className="ml-auto text-red-600 font-semibold">Your answer</span>}
+                            {isCorrect && <span className="ml-auto text-green-600 font-semibold">✓ Correct Answer</span>}
+                            {wasSelected && !isCorrect && <span className="ml-auto text-red-600 font-semibold">✗ Your Answer</span>}
                           </div>
                         </div>
                       );
                     })}
                   </div>
+                  
+                  {/* Show explicit message for incorrect answers */}
+                  {!review.isCorrect && (
+                    <div className="mt-3 p-3 bg-yellow-50 border-2 border-yellow-200 rounded-lg">
+                      <p className="text-sm text-gray-700">
+                        <span className="font-semibold text-red-600">Your answer was incorrect.</span>
+                        <br />
+                        <span className="font-semibold text-green-600">Correct answer: {String.fromCharCode(65 + review.correctAnswer)}) {review.question.options[review.correctAnswer]}</span>
+                      </p>
+                    </div>
+                  )}
                 </div>
               ))}
             </div>
