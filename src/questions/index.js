@@ -258,7 +258,7 @@ export const questionBankMetadata = {
     microbiology: {
       name: 'Microbiology',
       topics: 11,
-      totalQuestions: 0,
+      totalQuestions: 1359,
       file: 'lesson1-microbiology.js'
     },
     // Lesson 2 subjects
