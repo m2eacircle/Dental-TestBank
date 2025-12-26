@@ -211,8 +211,14 @@ export const subjectsWithSubtopics = {
     "8. Dental Radiography Theory"
   ],
   "Head and Neck Anatomy": [
+    "0. TMJ",
     "1. Bones of the skull",
-    "2. Landmarks on bones"
+    "2. Landmarks on bones",
+    "3. Circulation of the Head and Neck",
+    "4. Lymphatics",
+    "5. Cranial Nerves",
+    "6. Local Anaesthetic",
+    "7. Muscles of Mastication"
   ],
   "Pharmacology": [
     "1. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents"
@@ -288,8 +294,8 @@ export const questionBankMetadata = {
     },
     headNeckAnatomy: {
       name: 'Head and Neck Anatomy',
-      topics: 2,
-      totalQuestions: 184,
+      topics: 8,
+      totalQuestions: 212,
       file: 'lesson2-head-and-neck-anatomy.js'
     },
     pharmacology: {
