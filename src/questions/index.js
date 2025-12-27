@@ -295,7 +295,7 @@ export const questionBankMetadata = {
     headNeckAnatomy: {
       name: 'Head and Neck Anatomy',
       topics: 8,
-      totalQuestions: 212,
+      totalQuestions: 694,
       file: 'lesson2-head-and-neck-anatomy.js'
     },
     pharmacology: {
