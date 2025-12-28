@@ -908,12 +908,7 @@ export default function ImprovedTestBankApp() {
             </div>
 
             {/* Logo and Title - Centered */}
-            <div className="flex flex-col items-center justify-center mb-6">
-              {/* ONTARIO text above */}
-              <div className="text-xs text-gray-500 mb-2">
-                <span className="text-lg">O</span>NTARIO
-              </div>
-              
+            <div className="flex items-center justify-center mb-6">
               {/* Tooth icon and title on same line */}
               <div className="flex items-center gap-2">
                 <svg className="w-8 h-8 flex-shrink-0" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
