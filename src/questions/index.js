@@ -17,6 +17,9 @@ import { questions as periodontologyQuestions } from './lesson2/lesson2-periodon
 import { questions as anatomyQuestions } from './lesson2/lesson2-head-and-neck-anatomy.js';
 import { questions as pharmacologyQuestions } from './lesson2/lesson2-pharmacology.js';
 
+// Lesson 4 imports
+import { questions as boardExamQuestions } from './lesson4/lesson4-board-exam.js';
+
 // Export all questions as a single object
 export const allQuestions = {
   ...anatomyPhysiologyQuestions,
@@ -30,7 +33,8 @@ export const allQuestions = {
   ...dentalMaterialsQuestions,
   ...periodontologyQuestions,
   ...anatomyQuestions,
-  ...pharmacologyQuestions
+  ...pharmacologyQuestions,
+  ...boardExamQuestions
 };
 
 // Export as questionBank (alias for allQuestions)
@@ -49,7 +53,8 @@ export {
   dentalMaterialsQuestions,
   periodontologyQuestions,
   anatomyQuestions,
-  pharmacologyQuestions
+  pharmacologyQuestions,
+  boardExamQuestions
 };
 
 // Subject to topic mapping - for subjects that have subtopics
@@ -94,6 +99,18 @@ export const subjectsWithSubtopics = {
     "Consolidated Learning",
     "Dental Hygiene Clinic IV",
     "Dental Hygiene Theory IV"
+  ],
+  "Board Exam": [
+    "Professional Foundations",
+    "Clinical Preparation",
+    "Patient Assessment",
+    "Treatment Planning",
+    "Clinical Procedures",
+    "Pain Management",
+    "Life Stages",
+    "Medically Complex Patients",
+    "Special Needs Care",
+    "Career Development"
   ],
   "Anatomy and Physiology": [
     "1. Introduction to the Human Body",
@@ -304,6 +321,12 @@ export const questionBankMetadata = {
       topics: 2,
       totalQuestions: 107,
       file: 'lesson2-pharmacology.js'
+    },
+    boardExam: {
+      name: 'Board Exam',
+      topics: 10,
+      totalQuestions: 0,
+      file: 'lesson4-board-exam.js'
     }
   }
 };
