@@ -17,8 +17,17 @@ import { questions as periodontologyQuestions } from './lesson2/lesson2-periodon
 import { questions as anatomyQuestions } from './lesson2/lesson2-head-and-neck-anatomy.js';
 import { questions as pharmacologyQuestions } from './lesson2/lesson2-pharmacology.js';
 
-// Lesson 4 imports
-import { questions as boardExamQuestions } from './lesson4/lesson4-board-exam.js';
+// Board Exam imports
+import { questions as professionalFoundationsQuestions } from './boardexam/boardexam-professional-foundations.js';
+import { questions as clinicalPreparationQuestions } from './boardexam/boardexam-clinical-preparation.js';
+import { questions as patientAssessmentQuestions } from './boardexam/boardexam-patient-assessment.js';
+import { questions as treatmentPlanningQuestions } from './boardexam/boardexam-treatment-planning.js';
+import { questions as clinicalProceduresQuestions } from './boardexam/boardexam-clinical-procedures.js';
+import { questions as painManagementQuestions } from './boardexam/boardexam-pain-management.js';
+import { questions as lifeStagesQuestions } from './boardexam/boardexam-life-stages.js';
+import { questions as medicallyComplexPatientsQuestions } from './boardexam/boardexam-medically-complex-patients.js';
+import { questions as specialNeedsCareQuestions } from './boardexam/boardexam-special-needs-care.js';
+import { questions as careerDevelopmentQuestions } from './boardexam/boardexam-career-development.js';
 
 // Export all questions as a single object
 export const allQuestions = {
@@ -34,7 +43,16 @@ export const allQuestions = {
   ...periodontologyQuestions,
   ...anatomyQuestions,
   ...pharmacologyQuestions,
-  ...boardExamQuestions
+  ...professionalFoundationsQuestions,
+  ...clinicalPreparationQuestions,
+  ...patientAssessmentQuestions,
+  ...treatmentPlanningQuestions,
+  ...clinicalProceduresQuestions,
+  ...painManagementQuestions,
+  ...lifeStagesQuestions,
+  ...medicallyComplexPatientsQuestions,
+  ...specialNeedsCareQuestions,
+  ...careerDevelopmentQuestions
 };
 
 // Export as questionBank (alias for allQuestions)
@@ -54,7 +72,16 @@ export {
   periodontologyQuestions,
   anatomyQuestions,
   pharmacologyQuestions,
-  boardExamQuestions
+  professionalFoundationsQuestions,
+  clinicalPreparationQuestions,
+  patientAssessmentQuestions,
+  treatmentPlanningQuestions,
+  clinicalProceduresQuestions,
+  painManagementQuestions,
+  lifeStagesQuestions,
+  medicallyComplexPatientsQuestions,
+  specialNeedsCareQuestions,
+  careerDevelopmentQuestions
 };
 
 // Subject to topic mapping - for subjects that have subtopics
@@ -322,11 +349,65 @@ export const questionBankMetadata = {
       totalQuestions: 107,
       file: 'lesson2-pharmacology.js'
     },
-    boardExam: {
-      name: 'Board Exam',
-      topics: 10,
+    professionalFoundations: {
+      name: 'Professional Foundations',
+      topics: 0,
       totalQuestions: 0,
-      file: 'lesson4-board-exam.js'
+      file: 'boardexam-professional-foundations.js'
+    },
+    clinicalPreparation: {
+      name: 'Clinical Preparation',
+      topics: 0,
+      totalQuestions: 0,
+      file: 'boardexam-clinical-preparation.js'
+    },
+    patientAssessment: {
+      name: 'Patient Assessment',
+      topics: 0,
+      totalQuestions: 0,
+      file: 'boardexam-patient-assessment.js'
+    },
+    treatmentPlanning: {
+      name: 'Treatment Planning',
+      topics: 0,
+      totalQuestions: 0,
+      file: 'boardexam-treatment-planning.js'
+    },
+    clinicalProcedures: {
+      name: 'Clinical Procedures',
+      topics: 0,
+      totalQuestions: 0,
+      file: 'boardexam-clinical-procedures.js'
+    },
+    painManagement: {
+      name: 'Pain Management',
+      topics: 0,
+      totalQuestions: 0,
+      file: 'boardexam-pain-management.js'
+    },
+    lifeStages: {
+      name: 'Life Stages',
+      topics: 0,
+      totalQuestions: 0,
+      file: 'boardexam-life-stages.js'
+    },
+    medicallyComplexPatients: {
+      name: 'Medically Complex Patients',
+      topics: 0,
+      totalQuestions: 0,
+      file: 'boardexam-medically-complex-patients.js'
+    },
+    specialNeedsCare: {
+      name: 'Special Needs Care',
+      topics: 0,
+      totalQuestions: 0,
+      file: 'boardexam-special-needs-care.js'
+    },
+    careerDevelopment: {
+      name: 'Career Development',
+      topics: 0,
+      totalQuestions: 0,
+      file: 'boardexam-career-development.js'
     }
   }
 };
