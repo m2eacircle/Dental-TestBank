@@ -776,6 +776,50 @@ export default function ImprovedTestBankApp() {
     setScreen('results');
   };
 
+  // Save partial progress when user exits mid-test
+  const savePartialProgress = () => {
+    // Only save if at least one question was answered
+    const answeredCount = answers.filter(a => a !== null).length;
+    if (answeredCount === 0) return;
+    
+    let correct = 0;
+    answers.forEach((answer, idx) => {
+      if (answer !== null) {
+        const correctIndex = getCorrectAnswerIndex(selectedQuestions[idx]);
+        if (answer === correctIndex) correct++;
+      }
+    });
+    
+    const score = answeredCount > 0 ? Math.round((correct / answeredCount) * 100) : 0;
+    const timeTaken = studyMode ? 0 : totalTestTime - timeLeft;
+    
+    // Update topic progress for partial completion
+    if (!isRetakeTest && answeredCount > 0) {
+      const topicKey = selectedSubtopic || selectedSubject;
+      const currentProgress = topicProgress[topicKey] || 0;
+      const newProgress = currentProgress + answeredCount;
+      setTopicProgress(prev => ({
+        ...prev,
+        [topicKey]: Math.max(currentProgress, newProgress)
+      }));
+    }
+    
+    const result = {
+      subject: selectedSubject,
+      subtopic: selectedSubtopic,
+      score,
+      correct,
+      total: answeredCount,
+      timeTaken,
+      date: new Date().toLocaleString(),
+      studyMode,
+      incomplete: true // Mark as incomplete test
+    };
+    
+    setTestHistory([result, ...testHistory]);
+  };
+
+
   const exportResults = () => {
     try {
       const csv = testHistory.map(t => 
@@ -1345,6 +1389,9 @@ export default function ImprovedTestBankApp() {
                     </button>
                     <button
                       onClick={() => {
+                        // Save partial progress before exiting
+                        savePartialProgress();
+                        
                         setTestStarted(false);
                         setIsPaused(false);
                         
@@ -1448,6 +1495,9 @@ export default function ImprovedTestBankApp() {
                 
                 <button
                   onClick={() => {
+                    // Save partial progress before exiting
+                    savePartialProgress();
+                    
                     setTestStarted(false);
                     setIsPaused(false);
                     
@@ -1852,6 +1902,11 @@ export default function ImprovedTestBankApp() {
                           {test.studyMode && (
                             <span className="text-xs bg-green-100 text-green-700 px-2 py-1 rounded-full">
                               Study
+                            </span>
+                          )}
+                          {test.incomplete && (
+                            <span className="text-xs bg-orange-100 text-orange-700 px-2 py-1 rounded-full">
+                              Incomplete
                             </span>
                           )}
                         </div>
