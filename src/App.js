@@ -8,6 +8,9 @@ import { subjectsWithSubtopics, allQuestions } from './questions/index.js';
 const subjectsByLesson = subjectsWithSubtopics;
 const questionBank = allQuestions;
 
+// Define which keys are top-level lessons (for main screen display)
+const mainLessons = ["Lesson 1", "Lesson 2", "Lesson 3", "Lesson 4", "Board Exam"];
+
 
 // Global styles for copy protection
 const globalStyles = `
@@ -913,7 +916,9 @@ export default function ImprovedTestBankApp() {
             </p>
 
             <div className="space-y-2 max-h-[calc(100vh-400px)] overflow-y-auto">
-              {Object.keys(subjectsByLesson).map((lesson, index) => {
+              {Object.keys(subjectsByLesson)
+                .filter(lesson => mainLessons.includes(lesson))
+                .map((lesson, index) => {
                 const subjectCount = subjectsByLesson[lesson].length;
                 
                 return (
