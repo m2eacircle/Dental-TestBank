@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { Clock, Trophy, BarChart3, CheckCircle, XCircle, Home, Play, ArrowLeft, ChevronRight, Download, Flag, Eye, TrendingUp, Pause, X } from 'lucide-react';
+import { Clock, Trophy, BarChart3, CheckCircle, XCircle, Home, Play, ArrowLeft, ChevronRight, Download, Flag, Eye, TrendingUp, Pause, X, HelpCircle } from 'lucide-react';
 
 // Import subjectsWithSubtopics from centralized index
 import { subjectsWithSubtopics } from './questions/index.js';
@@ -118,33 +118,126 @@ const globalStyles = `
   }
 `;
 
-// Copy Button Component
-const CopyButton = ({ text, className = "" }) => {
-  const [copied, setCopied] = useState(false);
+// AI Assistant Button Component
+const AIAssistantButton = ({ question, options, className = "" }) => {
+  const [showMenu, setShowMenu] = useState(false);
   
-  const handleCopy = () => {
-    navigator.clipboard.writeText(text).then(() => {
-      setCopied(true);
-      setTimeout(() => setCopied(false), 2000);
+  // Format question text for AI search
+  const formatQuestionForAI = () => {
+    return `${question}\n\nA. ${options[0]}\nB. ${options[1]}\nC. ${options[2]}\nD. ${options[3]}`;
+  };
+  
+  // AI Assistant configurations
+  const aiAssistants = [
+    {
+      name: 'Claude',
+      icon: (
+        <svg className="w-6 h-6" viewBox="0 0 24 24" fill="none">
+          <rect width="24" height="24" rx="4" fill="#CC9B7A"/>
+          <path d="M7 12L10 9L13 12L16 9" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+          <path d="M7 15L10 12L13 15L16 12" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+        </svg>
+      ),
+      color: 'bg-amber-50 hover:bg-amber-100 border-amber-200',
+      url: 'https://claude.ai/new'
+    },
+    {
+      name: 'ChatGPT',
+      icon: (
+        <svg className="w-6 h-6" viewBox="0 0 24 24" fill="none">
+          <rect width="24" height="24" rx="4" fill="#10A37F"/>
+          <path d="M12 6V12L16 14" stroke="white" strokeWidth="2" strokeLinecap="round"/>
+        </svg>
+      ),
+      color: 'bg-green-50 hover:bg-green-100 border-green-200',
+      url: 'https://chat.openai.com/'
+    },
+    {
+      name: 'Gemini',
+      icon: (
+        <svg className="w-6 h-6" viewBox="0 0 24 24" fill="none">
+          <rect width="24" height="24" rx="4" fill="#4285F4"/>
+          <path d="M8 12L12 8L16 12L12 16L8 12Z" fill="white"/>
+        </svg>
+      ),
+      color: 'bg-blue-50 hover:bg-blue-100 border-blue-200',
+      url: 'https://gemini.google.com/'
+    },
+    {
+      name: 'Copilot',
+      icon: (
+        <svg className="w-6 h-6" viewBox="0 0 24 24" fill="none">
+          <rect width="24" height="24" rx="4" fill="#0078D4"/>
+          <path d="M7 9L12 6L17 9V15L12 18L7 15V9Z" stroke="white" strokeWidth="1.5" fill="none"/>
+        </svg>
+      ),
+      color: 'bg-sky-50 hover:bg-sky-100 border-sky-200',
+      url: 'https://copilot.microsoft.com/'
+    }
+  ];
+  
+  const handleAIClick = (assistant) => {
+    const questionText = formatQuestionForAI();
+    
+    // Copy to clipboard first
+    navigator.clipboard.writeText(questionText).then(() => {
+      // Open AI assistant in new tab
+      window.open(assistant.url, '_blank');
+      setShowMenu(false);
     }).catch(err => {
       console.error('Copy failed:', err);
+      // Still open the AI assistant even if copy fails
+      window.open(assistant.url, '_blank');
+      setShowMenu(false);
     });
   };
   
   return (
-    <button
-      onClick={handleCopy}
-      className={`p-2 rounded-lg hover:bg-gray-100 transition-colors ${className}`}
-      title="Copy question"
-    >
-      {copied ? (
-        <CheckCircle className="w-5 h-5 text-green-600" />
-      ) : (
-        <svg className="w-5 h-5 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
-        </svg>
+    <div className={`relative ${className}`}>
+      <button
+        onClick={() => setShowMenu(!showMenu)}
+        className="p-2 rounded-lg hover:bg-gray-100 transition-colors"
+        title="Get AI help with this question"
+      >
+        <HelpCircle className="w-5 h-5 text-gray-600" />
+      </button>
+      
+      {showMenu && (
+        <>
+          {/* Backdrop */}
+          <div 
+            className="fixed inset-0 z-40" 
+            onClick={() => setShowMenu(false)}
+          />
+          
+          {/* AI Menu */}
+          <div className="absolute right-0 mt-2 w-64 bg-white rounded-lg shadow-lg border border-gray-200 z-50 p-3">
+            <div className="text-xs font-semibold text-gray-500 mb-3 px-2">
+              ASK AI ASSISTANT
+            </div>
+            
+            <div className="space-y-2">
+              {aiAssistants.map((assistant) => (
+                <button
+                  key={assistant.name}
+                  onClick={() => handleAIClick(assistant)}
+                  className={`w-full flex items-center gap-3 px-3 py-2.5 rounded-lg border transition-all ${assistant.color}`}
+                >
+                  {assistant.icon}
+                  <span className="font-medium text-gray-700">{assistant.name}</span>
+                </button>
+              ))}
+            </div>
+            
+            <div className="mt-3 pt-3 border-t border-gray-200">
+              <p className="text-xs text-gray-500 text-center">
+                Question will be copied to clipboard
+              </p>
+            </div>
+          </div>
+        </>
       )}
-    </button>
+    </div>
   );
 };
 
@@ -1328,8 +1421,9 @@ export default function ImprovedTestBankApp() {
               <h2 className="text-xl font-bold text-gray-800 flex-1 no-select">
                 {currentQuestion.question}
               </h2>
-              <CopyButton 
-                text={`${currentQuestion.question}\n\nA. ${currentQuestion.options[0]}\nB. ${currentQuestion.options[1]}\nC. ${currentQuestion.options[2]}\nD. ${currentQuestion.options[3]}`}
+              <AIAssistantButton 
+                question={currentQuestion.question}
+                options={currentQuestion.options}
                 className="ml-2 flex-shrink-0"
               />
             </div>
@@ -1500,8 +1594,9 @@ export default function ImprovedTestBankApp() {
                       >
                         <Flag className="w-5 h-5" fill={isFlagged ? 'currentColor' : 'none'} />
                       </button>
-                      <CopyButton 
-                        text={`Question ${index + 1}: ${review.question.question}\n\nA. ${review.question.options[0]}\nB. ${review.question.options[1]}\nC. ${review.question.options[2]}\nD. ${review.question.options[3]}\n\nCorrect Answer: ${String.fromCharCode(65 + review.correctAnswer)}`}
+                      <AIAssistantButton 
+                        question={review.question.question}
+                        options={review.question.options}
                       />
                       {review.isCorrect ? (
                         <CheckCircle className="w-6 h-6 text-green-600" />
