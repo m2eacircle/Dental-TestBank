@@ -139,7 +139,7 @@ const AIAssistantButton = ({ question, options, className = "" }) => {
         </svg>
       ),
       color: 'bg-amber-50 hover:bg-amber-100 border-amber-200',
-      url: 'https://claude.ai/new'
+      getUrl: (text) => `https://claude.ai/new?q=${encodeURIComponent(text)}`
     },
     {
       name: 'ChatGPT',
@@ -150,7 +150,7 @@ const AIAssistantButton = ({ question, options, className = "" }) => {
         </svg>
       ),
       color: 'bg-green-50 hover:bg-green-100 border-green-200',
-      url: 'https://chat.openai.com/'
+      getUrl: (text) => `https://chat.openai.com/?q=${encodeURIComponent(text)}`
     },
     {
       name: 'Gemini',
@@ -161,7 +161,7 @@ const AIAssistantButton = ({ question, options, className = "" }) => {
         </svg>
       ),
       color: 'bg-blue-50 hover:bg-blue-100 border-blue-200',
-      url: 'https://gemini.google.com/'
+      getUrl: (text) => `https://gemini.google.com/app?q=${encodeURIComponent(text)}`
     },
     {
       name: 'Copilot',
@@ -172,24 +172,22 @@ const AIAssistantButton = ({ question, options, className = "" }) => {
         </svg>
       ),
       color: 'bg-sky-50 hover:bg-sky-100 border-sky-200',
-      url: 'https://copilot.microsoft.com/'
+      getUrl: (text) => `https://copilot.microsoft.com/?q=${encodeURIComponent(text)}`
     }
   ];
   
   const handleAIClick = (assistant) => {
     const questionText = formatQuestionForAI();
     
-    // Copy to clipboard first
-    navigator.clipboard.writeText(questionText).then(() => {
-      // Open AI assistant in new tab
-      window.open(assistant.url, '_blank');
-      setShowMenu(false);
-    }).catch(err => {
+    // Copy to clipboard as backup
+    navigator.clipboard.writeText(questionText).catch(err => {
       console.error('Copy failed:', err);
-      // Still open the AI assistant even if copy fails
-      window.open(assistant.url, '_blank');
-      setShowMenu(false);
     });
+    
+    // Open AI assistant with pre-filled question
+    const url = assistant.getUrl(questionText);
+    window.open(url, '_blank', 'noopener,noreferrer');
+    setShowMenu(false);
   };
   
   return (
@@ -231,7 +229,7 @@ const AIAssistantButton = ({ question, options, className = "" }) => {
             
             <div className="mt-3 pt-3 border-t border-gray-200">
               <p className="text-xs text-gray-500 text-center">
-                Question will be copied to clipboard
+                Question sent automatically
               </p>
             </div>
           </div>
