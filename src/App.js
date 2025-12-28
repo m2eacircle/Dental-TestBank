@@ -285,7 +285,7 @@ const TermsModal = ({ onClose, showCheckbox = false, onAccept = null }) => {
             </svg>
             <div>
               <div className="text-xs text-gray-500 mb-1 text-left">
-                <span className="text-lg font-bold">O</span>NTARIO
+                <span className="text-lg">O</span>NTARIO
               </div>
               <h1 className="text-xl font-bold text-gray-800">Dental Hygiene Test Bank</h1>
             </div>
@@ -943,7 +943,7 @@ export default function ImprovedTestBankApp() {
                 </svg>
                 <div>
                   <div className="text-xs text-gray-500 mb-1 text-left">
-                    <span className="text-lg font-bold">O</span>NTARIO
+                    <span className="text-lg">O</span>NTARIO
                   </div>
                   <h1 className="text-2xl font-bold text-gray-800 text-center">Dental Hygiene Test Bank</h1>
                 </div>
