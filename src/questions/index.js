@@ -432,7 +432,7 @@ export const questionBankMetadata = {
     pharmacology: {
       name: 'Pharmacology',
       topics: 2,
-      totalQuestions: 432,
+      totalQuestions: 539,
       file: 'lesson2-pharmacology.js'
     },
     professionalFoundations: {
