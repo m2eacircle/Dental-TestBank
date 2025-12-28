@@ -139,6 +139,92 @@ export const subjectsWithSubtopics = {
     "Special Needs Care",
     "Career Development"
   ],
+  "Professional Foundations": [
+    "1. Introduction to Dental Hygiene",
+    "2. Core Concepts and Practice Models",
+    "3. Evidence-Based Practice",
+    "4. Community Oral Health",
+    "5. Patient Behavior and Motivation",
+    "6. Inclusive Patient Care",
+    "7. Ethics and Legal Issues",
+    "8. Professional Portfolios"
+  ],
+  "Clinical Preparation": [
+    "9. Practice Settings and Environments",
+    "10. Infection Control",
+    "11. Medical Emergencies",
+    "12. Workplace Safety and Ergonomics"
+  ],
+  "Patient Assessment": [
+    "13. Medical and Dental History",
+    "14. Vital Signs Assessment",
+    "15. Medication Review",
+    "16. Head and Neck Examination",
+    "17. Tooth Assessment and Charting",
+    "18. Plaque and Stain Assessment",
+    "19. Caries Risk Assessment",
+    "20. Periodontal Examination",
+    "21. Oral-Systemic Health Links"
+  ],
+  "Treatment Planning": [
+    "22. Dental Hygiene Diagnosis",
+    "23. Care Planning and Documentation"
+  ],
+  "Clinical Procedures": [
+    "24. Toothbrushing Techniques",
+    "25. Interdental Cleaning",
+    "26. Toothpastes and Rinses",
+    "27. Antimicrobial Therapy",
+    "28. Hand Instruments",
+    "29. Ultrasonic Scalers",
+    "30. Root Anatomy",
+    "31. Dental Implant Care",
+    "32. Polishing and Whitening",
+    "33. Periodontal Therapy Planning",
+    "34. Acute Periodontal Conditions",
+    "35. Dental Sealants",
+    "36. Nutrition Counseling",
+    "37. Tobacco Cessation",
+    "38. Impressions and Appliances",
+    "39. Restorative Procedures",
+    "40. Orthodontic Maintenance",
+    "41. Dentures and Bridges"
+  ],
+  "Pain Management": [
+    "42. Tooth Sensitivity",
+    "43. Local Anesthesia",
+    "44. Nitrous Oxide Sedation"
+  ],
+  "Life Stages": [
+    "45. Pediatric and Adolescent Care",
+    "46. Pregnancy and Oral Health",
+    "47. Geriatric Care"
+  ],
+  "Medically Complex Patients": [
+    "48. Heart Disease",
+    "49. Diabetes",
+    "50. Cancer Patients",
+    "51. HIV and Oral Health",
+    "52. End-of-Life Care",
+    "53. Autoimmune Disorders",
+    "54. Transplant and Kidney Disease",
+    "55. Respiratory Conditions",
+    "56. Substance Abuse",
+    "57. Eating Disorders",
+    "58. Abuse and Violence Recognition"
+  ],
+  "Special Needs Care": [
+    "59. Patients with Disabilities",
+    "60. Intellectual and Developmental Disabilities",
+    "61. Cleft Lip and Palate",
+    "62. Neurological Disorders"
+  ],
+  "Career Development": [
+    "63. Career Planning",
+    "64. Practice Management",
+    "65. Telehealth in Dentistry",
+    "66. Mental Health and Self-Care"
+  ],
   "Anatomy and Physiology": [
     "1. Introduction to the Human Body",
     "2. Cells and Tissues",
