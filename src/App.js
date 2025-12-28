@@ -1,121 +1,12 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { Clock, Trophy, BarChart3, CheckCircle, XCircle, Home, Play, ArrowLeft, ChevronRight, Download, Flag, Eye, TrendingUp, Pause, X, HelpCircle } from 'lucide-react';
 
-// Import subjectsWithSubtopics from centralized index
-import { subjectsWithSubtopics } from './questions/index.js';
+// Import everything from centralized index
+import { subjectsWithSubtopics, allQuestions } from './questions/index.js';
 
-// Lesson 1 question imports
-import { questions as anatomyPhysiologyQuestions } from './questions/lesson1/lesson1-anatomy-and-physiology.js';
-import { questions as dentalAnatomyQuestions } from './questions/lesson1/lesson1-dental-anatomy.js';
-import { questions as dentalHygieneTheory1Questions } from './questions/lesson1/lesson1-dental-hygiene-theory-i.js';
-import { questions as histologyEmbryologyQuestions } from './questions/lesson1/lesson1-histology-and-embryology.js';
-import { questions as statisticsResearchQuestions } from './questions/lesson1/lesson1-introduction-to-statistics-and-research.js';
-import { questions as microbiologyQuestions } from './questions/lesson1/lesson1-microbiology.js';
-
-// Lesson 2 question imports
-import { radiographyQuestions } from './questions/lesson2/lesson2-radiography-questions.js';
-import { questions as pathophysiologyQuestions } from './questions/lesson2/lesson2-pathophysiology.js';
-import { questions as dentalMaterialsQuestions } from './questions/lesson2/lesson2-dental-materials-theory.js';
-import { questions as periodontologyQuestions } from './questions/lesson2/lesson2-periodontology-i.js';
-import { questions as anatomyQuestions } from './questions/lesson2/lesson2-head-and-neck-anatomy.js';
-import { questions as pharmacologyQuestions } from './questions/lesson2/lesson2-pharmacology.js';
-
-// Board Exam question imports
-import { questions as professionalFoundationsQuestions } from './questions/boardexam/boardexam-professional-foundations.js';
-import { questions as clinicalPreparationQuestions } from './questions/boardexam/boardexam-clinical-preparation.js';
-import { questions as patientAssessmentQuestions } from './questions/boardexam/boardexam-patient-assessment.js';
-import { questions as treatmentPlanningQuestions } from './questions/boardexam/boardexam-treatment-planning.js';
-import { questions as clinicalProceduresQuestions } from './questions/boardexam/boardexam-clinical-procedures.js';
-import { questions as painManagementQuestions } from './questions/boardexam/boardexam-pain-management.js';
-import { questions as lifeStagesQuestions } from './questions/boardexam/boardexam-life-stages.js';
-import { questions as medicallyComplexPatientsQuestions } from './questions/boardexam/boardexam-medically-complex-patients.js';
-import { questions as specialNeedsCareQuestions } from './questions/boardexam/boardexam-special-needs-care.js';
-import { questions as careerDevelopmentQuestions } from './questions/boardexam/boardexam-career-development.js';
-
-
-// Subjects organized by lesson
-const subjectsByLesson = {
-  "Lesson 1": [
-    "Anatomy and Physiology",
-    "Dental Anatomy",
-    "Dental Hygiene Theory I",
-    "Histology and Embryology",
-    "Introduction to Statistics and Research",
-    "Microbiology"
-  ],
-  "Lesson 2": [
-    "Dental Hygiene Clinic II",
-    "Dental Hygiene Theory II",
-    "Dental Materials Theory",
-    "Dental Radiography Interpretation",
-    "Dental Radiography Lab",
-    "Dental Radiography Theory",
-    "Head and Neck Anatomy",
-    "Oral Health Education",
-    "Pathophysiology",
-    "Periodontology I",
-    "Pharmacology",
-    "Medical Emergencies"
-  ],
-  "Lesson 3": [
-    "Community Dental Health I",
-    "Dental Hygiene Clinic III",
-    "Dental Hygiene Theory III",
-    "Dental Materials Lab",
-    "Ethics and Jurisprudence",
-    "Gerontology",
-    "Nutrition for Living",
-    "Oral Health Promotion",
-    "Oral Pathology",
-    "Periodontology II"
-  ],
-  "Lesson 4": [
-    "Business Practice",
-    "Community Dental Health II",
-    "Consolidated Learning",
-    "Dental Hygiene Clinic IV",
-    "Dental Hygiene Theory IV"
-  ],
-  "Board Exam": [
-    "Professional Foundations",
-    "Clinical Preparation",
-    "Patient Assessment",
-    "Treatment Planning",
-    "Clinical Procedures",
-    "Pain Management",
-    "Life Stages",
-    "Medically Complex Patients",
-    "Special Needs Care",
-    "Career Development"
-  ]
-};
-
-// Question bank - all questions imported from separate files
-const questionBank = {
-  ...anatomyPhysiologyQuestions,
-  ...dentalAnatomyQuestions,
-  ...dentalHygieneTheory1Questions,
-  ...histologyEmbryologyQuestions,
-  ...statisticsResearchQuestions,
-  ...microbiologyQuestions,
-  ...radiographyQuestions,
-  ...pathophysiologyQuestions,
-  ...dentalMaterialsQuestions,
-  ...periodontologyQuestions,
-  ...anatomyQuestions,
-  ...pharmacologyQuestions,
-  ...professionalFoundationsQuestions,
-  ...clinicalPreparationQuestions,
-  ...patientAssessmentQuestions,
-  ...treatmentPlanningQuestions,
-  ...clinicalProceduresQuestions,
-  ...painManagementQuestions,
-  ...lifeStagesQuestions,
-  ...medicallyComplexPatientsQuestions,
-  ...specialNeedsCareQuestions,
-  ...careerDevelopmentQuestions
-};
-
+// Use imported data from index.js
+const subjectsByLesson = subjectsWithSubtopics;
+const questionBank = allQuestions;
 
 
 // Global styles for copy protection
