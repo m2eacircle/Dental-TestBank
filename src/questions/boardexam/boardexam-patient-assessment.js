@@ -2,31 +2,31 @@
 // boardexam-patient-assessment.js
 
 export const questions = {
-  "13. Medical and Dental History": [
+  "1. Medical and Dental History": [
     // Questions to be added later
   ],
-  "14. Vital Signs Assessment": [
+  "2. Vital Signs Assessment": [
     // Questions to be added later
   ],
-  "15. Medication Review": [
+  "3. Medication Review": [
     // Questions to be added later
   ],
-  "16. Head and Neck Examination": [
+  "4. Head and Neck Examination": [
     // Questions to be added later
   ],
-  "17. Tooth Assessment and Charting": [
+  "5. Tooth Assessment and Charting": [
     // Questions to be added later
   ],
-  "18. Plaque and Stain Assessment": [
+  "6. Plaque and Stain Assessment": [
     // Questions to be added later
   ],
-  "19. Caries Risk Assessment": [
+  "7. Caries Risk Assessment": [
     // Questions to be added later
   ],
-  "20. Periodontal Examination": [
+  "8. Periodontal Examination": [
     // Questions to be added later
   ],
-  "21. Oral-Systemic Health Links": [
+  "9. Oral-Systemic Health Links": [
     // Questions to be added later
   ]
 };

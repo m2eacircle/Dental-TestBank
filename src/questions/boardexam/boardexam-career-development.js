@@ -2,16 +2,16 @@
 // boardexam-career-development.js
 
 export const questions = {
-  "63. Career Planning": [
+  "1. Career Planning": [
     // Questions to be added later
   ],
-  "64. Practice Management": [
+  "2. Practice Management": [
     // Questions to be added later
   ],
-  "65. Telehealth in Dentistry": [
+  "3. Telehealth in Dentistry": [
     // Questions to be added later
   ],
-  "66. Mental Health and Self-Care": [
+  "4. Mental Health and Self-Care": [
     // Questions to be added later
   ]
 };

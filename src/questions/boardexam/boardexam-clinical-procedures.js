@@ -2,58 +2,58 @@
 // boardexam-clinical-procedures.js
 
 export const questions = {
-  "24. Toothbrushing Techniques": [
+  "1. Toothbrushing Techniques": [
     // Questions to be added later
   ],
-  "25. Interdental Cleaning": [
+  "2. Interdental Cleaning": [
     // Questions to be added later
   ],
-  "26. Toothpastes and Rinses": [
+  "3. Toothpastes and Rinses": [
     // Questions to be added later
   ],
-  "27. Antimicrobial Therapy": [
+  "4. Antimicrobial Therapy": [
     // Questions to be added later
   ],
-  "28. Hand Instruments": [
+  "5. Hand Instruments": [
     // Questions to be added later
   ],
-  "29. Ultrasonic Scalers": [
+  "6. Ultrasonic Scalers": [
     // Questions to be added later
   ],
-  "30. Root Anatomy": [
+  "7. Root Anatomy": [
     // Questions to be added later
   ],
-  "31. Dental Implant Care": [
+  "8. Dental Implant Care": [
     // Questions to be added later
   ],
-  "32. Polishing and Whitening": [
+  "9. Polishing and Whitening": [
     // Questions to be added later
   ],
-  "33. Periodontal Therapy Planning": [
+  "10. Periodontal Therapy Planning": [
     // Questions to be added later
   ],
-  "34. Acute Periodontal Conditions": [
+  "11. Acute Periodontal Conditions": [
     // Questions to be added later
   ],
-  "35. Dental Sealants": [
+  "12. Dental Sealants": [
     // Questions to be added later
   ],
-  "36. Nutrition Counseling": [
+  "13. Nutrition Counseling": [
     // Questions to be added later
   ],
-  "37. Tobacco Cessation": [
+  "14. Tobacco Cessation": [
     // Questions to be added later
   ],
-  "38. Impressions and Appliances": [
+  "15. Impressions and Appliances": [
     // Questions to be added later
   ],
-  "39. Restorative Procedures": [
+  "16. Restorative Procedures": [
     // Questions to be added later
   ],
-  "40. Orthodontic Maintenance": [
+  "17. Orthodontic Maintenance": [
     // Questions to be added later
   ],
-  "41. Dentures and Bridges": [
+  "18. Dentures and Bridges": [
     // Questions to be added later
   ]
 };

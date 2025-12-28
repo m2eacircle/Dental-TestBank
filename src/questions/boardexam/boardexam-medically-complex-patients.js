@@ -2,37 +2,37 @@
 // boardexam-medically-complex-patients.js
 
 export const questions = {
-  "48. Heart Disease": [
+  "1. Heart Disease": [
     // Questions to be added later
   ],
-  "49. Diabetes": [
+  "2. Diabetes": [
     // Questions to be added later
   ],
-  "50. Cancer Patients": [
+  "3. Cancer Patients": [
     // Questions to be added later
   ],
-  "51. HIV and Oral Health": [
+  "4. HIV and Oral Health": [
     // Questions to be added later
   ],
-  "52. End-of-Life Care": [
+  "5. End-of-Life Care": [
     // Questions to be added later
   ],
-  "53. Autoimmune Disorders": [
+  "6. Autoimmune Disorders": [
     // Questions to be added later
   ],
-  "54. Transplant and Kidney Disease": [
+  "7. Transplant and Kidney Disease": [
     // Questions to be added later
   ],
-  "55. Respiratory Conditions": [
+  "8. Respiratory Conditions": [
     // Questions to be added later
   ],
-  "56. Substance Abuse": [
+  "9. Substance Abuse": [
     // Questions to be added later
   ],
-  "57. Eating Disorders": [
+  "10. Eating Disorders": [
     // Questions to be added later
   ],
-  "58. Abuse and Violence Recognition": [
+  "11. Abuse and Violence Recognition": [
     // Questions to be added later
   ]
 };

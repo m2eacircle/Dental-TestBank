@@ -2,16 +2,16 @@
 // boardexam-clinical-preparation.js
 
 export const questions = {
-  "9. Practice Settings and Environments": [
+  "1. Practice Settings and Environments": [
     // Questions to be added later
   ],
-  "10. Infection Control": [
+  "2. Infection Control": [
     // Questions to be added later
   ],
-  "11. Medical Emergencies": [
+  "3. Medical Emergencies": [
     // Questions to be added later
   ],
-  "12. Workplace Safety and Ergonomics": [
+  "4. Workplace Safety and Ergonomics": [
     // Questions to be added later
   ]
 };

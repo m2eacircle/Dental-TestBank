@@ -2,16 +2,16 @@
 // boardexam-special-needs-care.js
 
 export const questions = {
-  "59. Patients with Disabilities": [
+  "1. Patients with Disabilities": [
     // Questions to be added later
   ],
-  "60. Intellectual and Developmental Disabilities": [
+  "2. Intellectual and Developmental Disabilities": [
     // Questions to be added later
   ],
-  "61. Cleft Lip and Palate": [
+  "3. Cleft Lip and Palate": [
     // Questions to be added later
   ],
-  "62. Neurological Disorders": [
+  "4. Neurological Disorders": [
     // Questions to be added later
   ]
 };
