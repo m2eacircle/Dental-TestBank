@@ -139,7 +139,8 @@ const AIAssistantButton = ({ question, options, className = "" }) => {
         </svg>
       ),
       color: 'bg-amber-50 hover:bg-amber-100 border-amber-200',
-      getUrl: (text) => `https://claude.ai/new?q=${encodeURIComponent(text)}`
+      getUrl: (text) => `https://claude.ai/new?q=${encodeURIComponent(text)}`,
+      note: 'Auto-fills question'
     },
     {
       name: 'ChatGPT',
@@ -150,7 +151,8 @@ const AIAssistantButton = ({ question, options, className = "" }) => {
         </svg>
       ),
       color: 'bg-green-50 hover:bg-green-100 border-green-200',
-      getUrl: (text) => `https://chat.openai.com/?q=${encodeURIComponent(text)}`
+      getUrl: (text) => `https://chat.openai.com/?q=${encodeURIComponent(text)}`,
+      note: 'Auto-fills question'
     },
     {
       name: 'Gemini',
@@ -161,7 +163,8 @@ const AIAssistantButton = ({ question, options, className = "" }) => {
         </svg>
       ),
       color: 'bg-blue-50 hover:bg-blue-100 border-blue-200',
-      getUrl: (text) => `https://gemini.google.com/app?q=${encodeURIComponent(text)}`
+      getUrl: (text) => `https://gemini.google.com/app`,
+      note: 'Paste from clipboard'
     },
     {
       name: 'Copilot',
@@ -172,7 +175,8 @@ const AIAssistantButton = ({ question, options, className = "" }) => {
         </svg>
       ),
       color: 'bg-sky-50 hover:bg-sky-100 border-sky-200',
-      getUrl: (text) => `https://copilot.microsoft.com/?q=${encodeURIComponent(text)}`
+      getUrl: (text) => `https://copilot.microsoft.com/`,
+      note: 'Paste from clipboard'
     }
   ];
   
@@ -229,7 +233,7 @@ const AIAssistantButton = ({ question, options, className = "" }) => {
             
             <div className="mt-3 pt-3 border-t border-gray-200">
               <p className="text-xs text-gray-500 text-center">
-                Question sent automatically
+                Question sent automatically and copied to clipboard
               </p>
             </div>
           </div>
