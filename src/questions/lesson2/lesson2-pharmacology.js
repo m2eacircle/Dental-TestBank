@@ -2,7 +2,7 @@
 // lesson2-pharmacology.js
 
 export const questions = {
-  "1. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents": [
+  "1. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents (Part 1)": [
     { id: 10001, question: "Which definition best describes pharmacology?", options: ["The study of diseases and their prevention", "The study of drugs and their effects on living cells", "The study of chemical drug structures", "The study of medical diagnoses"], correct: 1 },
     { id: 10002, question: "Which discipline focuses on what the drug does to the body?", options: ["Pharmacotherapy", "Pharmacokinetics", "Pharmacodynamics", "Pharmacogenetics"], correct: 2 },
     { id: 10003, question: "Which term describes what the body does to the drug?", options: ["Pharmacodynamics", "Pharmacotherapy", "Pharmacokinetics", "Pharmacology"], correct: 2 },
@@ -110,5 +110,8 @@ export const questions = {
     { id: 10105, question: "Drugs act only on:", options: ["Exogenous systems", "Artificial receptors", "Endogenous systems", "Diseased tissue only"], correct: 2 },
     { id: 10106, question: "\"Endogenous\" means:", options: ["From outside the body", "Created synthetically", "From within the body", "Disease-causing"], correct: 2 },
     { id: 10107, question: "\"Exogenous\" refers to something that:", options: ["Originates inside the body", "Comes from outside the body", "Is genetically inherited", "Is naturally produced"], correct: 1 }
+  ],
+  "2. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents (Part 2)": [
+    // Questions to be added later
   ]
 };
