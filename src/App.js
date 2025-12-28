@@ -20,6 +20,18 @@ import { questions as periodontologyQuestions } from './questions/lesson2/lesson
 import { questions as anatomyQuestions } from './questions/lesson2/lesson2-head-and-neck-anatomy.js';
 import { questions as pharmacologyQuestions } from './questions/lesson2/lesson2-pharmacology.js';
 
+// Board Exam question imports
+import { questions as professionalFoundationsQuestions } from './questions/boardexam/boardexam-professional-foundations.js';
+import { questions as clinicalPreparationQuestions } from './questions/boardexam/boardexam-clinical-preparation.js';
+import { questions as patientAssessmentQuestions } from './questions/boardexam/boardexam-patient-assessment.js';
+import { questions as treatmentPlanningQuestions } from './questions/boardexam/boardexam-treatment-planning.js';
+import { questions as clinicalProceduresQuestions } from './questions/boardexam/boardexam-clinical-procedures.js';
+import { questions as painManagementQuestions } from './questions/boardexam/boardexam-pain-management.js';
+import { questions as lifeStagesQuestions } from './questions/boardexam/boardexam-life-stages.js';
+import { questions as medicallyComplexPatientsQuestions } from './questions/boardexam/boardexam-medically-complex-patients.js';
+import { questions as specialNeedsCareQuestions } from './questions/boardexam/boardexam-special-needs-care.js';
+import { questions as careerDevelopmentQuestions } from './questions/boardexam/boardexam-career-development.js';
+
 
 // Subjects organized by lesson
 const subjectsByLesson = {
@@ -63,6 +75,18 @@ const subjectsByLesson = {
     "Consolidated Learning",
     "Dental Hygiene Clinic IV",
     "Dental Hygiene Theory IV"
+  ],
+  "Board Exam": [
+    "Professional Foundations",
+    "Clinical Preparation",
+    "Patient Assessment",
+    "Treatment Planning",
+    "Clinical Procedures",
+    "Pain Management",
+    "Life Stages",
+    "Medically Complex Patients",
+    "Special Needs Care",
+    "Career Development"
   ]
 };
 
@@ -79,7 +103,17 @@ const questionBank = {
   ...dentalMaterialsQuestions,
   ...periodontologyQuestions,
   ...anatomyQuestions,
-  ...pharmacologyQuestions
+  ...pharmacologyQuestions,
+  ...professionalFoundationsQuestions,
+  ...clinicalPreparationQuestions,
+  ...patientAssessmentQuestions,
+  ...treatmentPlanningQuestions,
+  ...clinicalProceduresQuestions,
+  ...painManagementQuestions,
+  ...lifeStagesQuestions,
+  ...medicallyComplexPatientsQuestions,
+  ...specialNeedsCareQuestions,
+  ...careerDevelopmentQuestions
 };
 
 
@@ -949,13 +983,14 @@ export default function ImprovedTestBankApp() {
                 </div>
               </div>
               <a
-                href="https://www.m2eacircle.com/education/index.html"
+                href="https://www.m2eacircle.com/education/index_en.html"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="p-2 rounded-lg hover:bg-gray-100 transition-colors"
+                className="flex items-center gap-2 px-3 py-2 rounded-lg hover:bg-gray-100 transition-colors text-gray-700 text-sm font-medium"
                 title="Visit m2ea Circle Education"
               >
-                <Home className="w-6 h-6 text-gray-600" />
+                <Home className="w-5 h-5" />
+                <span>m2ea Circle</span>
               </a>
             </div>
             
