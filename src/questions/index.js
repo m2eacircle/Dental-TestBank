@@ -221,7 +221,8 @@ export const subjectsWithSubtopics = {
     "7. Muscles of Mastication"
   ],
   "Pharmacology": [
-    "1. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents"
+    "1. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents (Part 1)",
+    "2. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents (Part 2)"
   ]
 };
 
@@ -300,7 +301,7 @@ export const questionBankMetadata = {
     },
     pharmacology: {
       name: 'Pharmacology',
-      topics: 1,
+      topics: 2,
       totalQuestions: 107,
       file: 'lesson2-pharmacology.js'
     }
