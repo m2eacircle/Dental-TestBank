@@ -849,8 +849,23 @@ export default function ImprovedTestBankApp() {
           <GoogleAd slot="5701429538019796" format="horizontal" className="mb-4" />
           
           <div className="bg-white rounded-3xl shadow-2xl p-6 mb-4">
-            <div className="flex items-center justify-between mb-6">
-              <div className="flex items-center flex-1 justify-center">
+            {/* m2ea Circle Link - Top Level */}
+            <div className="flex justify-end mb-4">
+              <a
+                href="https://www.m2eacircle.com/education/index_en.html"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-2 px-3 py-2 rounded-lg hover:bg-gray-100 transition-colors text-gray-700 text-sm font-medium"
+                title="Visit m2ea Circle Education"
+              >
+                <Home className="w-5 h-5" />
+                <span>m2ea Circle</span>
+              </a>
+            </div>
+
+            {/* Logo and Title - Centered */}
+            <div className="flex items-center justify-center mb-6">
+              <div className="flex items-center gap-3">
                 <svg className="w-12 h-12 mr-3 flex-shrink-0" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
                   <path d="M0 0 C66 0 132 0 200 0 C200 66 200 132 200 200 C134 200 68 200 0 200 C0 134 0 68 0 0 Z " fill="#FEFEFE" transform="translate(0,0)"/>
                   <path d="M0 0 C10.45885154 -0.61673817 18.80097348 3.08442546 28.17529297 7.18554688 C39.86836895 12.29999915 48.02367268 14.16553024 60.2421875 9.5625 C62.90168794 8.51088074 65.54164303 7.41661948 68.1796875 6.3125 C70.09529154 5.53902969 72.01177613 4.76773114 73.9296875 4 C74.66703125 3.69449219 75.404375 3.38898437 76.1640625 3.07421875 C83.54977394 0.28310687 92.54717323 0.00463977 100.140625 2.1484375 C106.8401249 5.21990053 111.86097633 9.99969722 115.3515625 16.4921875 C116.52751027 20.49706624 116.46910405 24.28562352 116.4296875 28.4375 C116.43742188 29.22898437 116.44515625 30.02046875 116.453125 30.8359375 C116.41824934 41.64739216 113.93349434 50.82972301 109.6171875 60.6875 C108.95662354 62.23691284 108.95662354 62.23691284 108.28271484 63.81762695 C106.10343389 68.91808003 103.88011713 73.99918918 101.66015625 79.08203125 C94.99760657 94.37422088 89.69485085 109.43418719 87.5390625 126.08203125 C85.70781807 140.14191907 83.21124511 155.28094239 72.7421875 165.75 C70.1796875 167.3125 70.1796875 167.3125 67.6171875 167.625 C63.55123173 165.4356392 62.59389901 161.56591085 61.1796875 157.3125 C60.12191201 152.36707002 59.38816609 147.3803951 58.6796875 142.375 C56.90706011 127.59073766 56.90706011 127.59073766 49.9921875 114.75 C46.0809495 112.7509228 42.57443978 111.98696279 38.1796875 112.3125 C33.68919687 114.47458808 31.27285142 116.81219757 29.1796875 121.3125 C27.10905108 127.32682944 26.70948307 133.11618348 26.3046875 139.4375 C24.70777101 160.78441649 24.70777101 160.78441649 19.1796875 166.3125 C15.74877794 166.44445806 13.30455018 166.25682917 10.59765625 163.984375 C0.87088462 152.17879466 -1.42373194 136.07165002 -4.328125 121.5703125 C-4.82313279 119.15055192 -5.32063402 116.7313004 -5.8203125 114.3125 C-5.95005463 113.66527985 -6.07979675 113.01805969 -6.21347046 112.35122681 C-8.85049261 99.3693109 -13.40544553 87.48395733 -18.4050293 75.24829102 C-25.56091238 57.64691876 -31.87191369 37.72834845 -26.859375 18.65625 C-23.23148977 10.35195779 -16.95559964 5.12057373 -8.7890625 1.3828125 C-5.89437868 0.48742301 -3.00312289 0.332756 0 0 Z " fill="#FDFDFD" transform="translate(55.8203125,16.6875)"/>
@@ -876,16 +891,6 @@ export default function ImprovedTestBankApp() {
                   <h1 className="text-2xl font-bold text-gray-800 text-center">Dental Hygiene Test Bank</h1>
                 </div>
               </div>
-              <a
-                href="https://www.m2eacircle.com/education/index_en.html"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-2 px-3 py-2 rounded-lg hover:bg-gray-100 transition-colors text-gray-700 text-sm font-medium"
-                title="Visit m2ea Circle Education"
-              >
-                <Home className="w-5 h-5" />
-                <span>m2ea Circle</span>
-              </a>
             </div>
             
             {detailedStats && (
