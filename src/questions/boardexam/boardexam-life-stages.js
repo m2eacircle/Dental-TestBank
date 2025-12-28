@@ -2,15 +2,13 @@
 // boardexam-life-stages.js
 
 export const questions = {
-  "Life Stages": {
-    "45. Pediatric and Adolescent Care": [
-      // Questions to be added later
-    ],
-    "46. Pregnancy and Oral Health": [
-      // Questions to be added later
-    ],
-    "47. Geriatric Care": [
-      // Questions to be added later
-    ]
-  }
+  "45. Pediatric and Adolescent Care": [
+    // Questions to be added later
+  ],
+  "46. Pregnancy and Oral Health": [
+    // Questions to be added later
+  ],
+  "47. Geriatric Care": [
+    // Questions to be added later
+  ]
 };
