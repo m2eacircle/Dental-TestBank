@@ -150,80 +150,80 @@ export const subjectsWithSubtopics = {
     "8. Professional Portfolios"
   ],
   "Clinical Preparation": [
-    "9. Practice Settings and Environments",
-    "10. Infection Control",
-    "11. Medical Emergencies",
-    "12. Workplace Safety and Ergonomics"
+    "1. Practice Settings and Environments",
+    "2. Infection Control",
+    "3. Medical Emergencies",
+    "4. Workplace Safety and Ergonomics"
   ],
   "Patient Assessment": [
-    "13. Medical and Dental History",
-    "14. Vital Signs Assessment",
-    "15. Medication Review",
-    "16. Head and Neck Examination",
-    "17. Tooth Assessment and Charting",
-    "18. Plaque and Stain Assessment",
-    "19. Caries Risk Assessment",
-    "20. Periodontal Examination",
-    "21. Oral-Systemic Health Links"
+    "1. Medical and Dental History",
+    "2. Vital Signs Assessment",
+    "3. Medication Review",
+    "4. Head and Neck Examination",
+    "5. Tooth Assessment and Charting",
+    "6. Plaque and Stain Assessment",
+    "7. Caries Risk Assessment",
+    "8. Periodontal Examination",
+    "9. Oral-Systemic Health Links"
   ],
   "Treatment Planning": [
-    "22. Dental Hygiene Diagnosis",
-    "23. Care Planning and Documentation"
+    "1. Dental Hygiene Diagnosis",
+    "2. Care Planning and Documentation"
   ],
   "Clinical Procedures": [
-    "24. Toothbrushing Techniques",
-    "25. Interdental Cleaning",
-    "26. Toothpastes and Rinses",
-    "27. Antimicrobial Therapy",
-    "28. Hand Instruments",
-    "29. Ultrasonic Scalers",
-    "30. Root Anatomy",
-    "31. Dental Implant Care",
-    "32. Polishing and Whitening",
-    "33. Periodontal Therapy Planning",
-    "34. Acute Periodontal Conditions",
-    "35. Dental Sealants",
-    "36. Nutrition Counseling",
-    "37. Tobacco Cessation",
-    "38. Impressions and Appliances",
-    "39. Restorative Procedures",
-    "40. Orthodontic Maintenance",
-    "41. Dentures and Bridges"
+    "1. Toothbrushing Techniques",
+    "2. Interdental Cleaning",
+    "3. Toothpastes and Rinses",
+    "4. Antimicrobial Therapy",
+    "5. Hand Instruments",
+    "6. Ultrasonic Scalers",
+    "7. Root Anatomy",
+    "8. Dental Implant Care",
+    "9. Polishing and Whitening",
+    "10. Periodontal Therapy Planning",
+    "11. Acute Periodontal Conditions",
+    "12. Dental Sealants",
+    "13. Nutrition Counseling",
+    "14. Tobacco Cessation",
+    "15. Impressions and Appliances",
+    "16. Restorative Procedures",
+    "17. Orthodontic Maintenance",
+    "18. Dentures and Bridges"
   ],
   "Pain Management": [
-    "42. Tooth Sensitivity",
-    "43. Local Anesthesia",
-    "44. Nitrous Oxide Sedation"
+    "1. Tooth Sensitivity",
+    "2. Local Anesthesia",
+    "3. Nitrous Oxide Sedation"
   ],
   "Life Stages": [
-    "45. Pediatric and Adolescent Care",
-    "46. Pregnancy and Oral Health",
-    "47. Geriatric Care"
+    "1. Pediatric and Adolescent Care",
+    "2. Pregnancy and Oral Health",
+    "3. Geriatric Care"
   ],
   "Medically Complex Patients": [
-    "48. Heart Disease",
-    "49. Diabetes",
-    "50. Cancer Patients",
-    "51. HIV and Oral Health",
-    "52. End-of-Life Care",
-    "53. Autoimmune Disorders",
-    "54. Transplant and Kidney Disease",
-    "55. Respiratory Conditions",
-    "56. Substance Abuse",
-    "57. Eating Disorders",
-    "58. Abuse and Violence Recognition"
+    "1. Heart Disease",
+    "2. Diabetes",
+    "3. Cancer Patients",
+    "4. HIV and Oral Health",
+    "5. End-of-Life Care",
+    "6. Autoimmune Disorders",
+    "7. Transplant and Kidney Disease",
+    "8. Respiratory Conditions",
+    "9. Substance Abuse",
+    "10. Eating Disorders",
+    "11. Abuse and Violence Recognition"
   ],
   "Special Needs Care": [
-    "59. Patients with Disabilities",
-    "60. Intellectual and Developmental Disabilities",
-    "61. Cleft Lip and Palate",
-    "62. Neurological Disorders"
+    "1. Patients with Disabilities",
+    "2. Intellectual and Developmental Disabilities",
+    "3. Cleft Lip and Palate",
+    "4. Neurological Disorders"
   ],
   "Career Development": [
-    "63. Career Planning",
-    "64. Practice Management",
-    "65. Telehealth in Dentistry",
-    "66. Mental Health and Self-Care"
+    "1. Career Planning",
+    "2. Practice Management",
+    "3. Telehealth in Dentistry",
+    "4. Mental Health and Self-Care"
   ],
   "Anatomy and Physiology": [
     "1. Introduction to the Human Body",
