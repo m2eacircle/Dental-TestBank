@@ -111,7 +111,6 @@ export const questions = {
     { id: 10106, question: "\"Endogenous\" means:", options: ["From outside the body", "Created synthetically", "From within the body", "Disease-causing"], correct: 2 },
     { id: 10107, question: "\"Exogenous\" refers to something that:", options: ["Originates inside the body", "Comes from outside the body", "Is genetically inherited", "Is naturally produced"], correct: 1 }
   ],
-  ],
   "2. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents (Part 2)": [
     { id: 10108, question: "A dose-response curve shows that as dose increases, response increases in a(n):", options: ["Random pattern", "Linear relationship", "Inverse relationship", "Unrelated pattern"], correct: 1 },
     { id: 10109, question: "In a log-effect curve, the middle portion (steep, steady incline) represents:", options: ["No effect", "Therapeutic range", "Toxic range only", "Placebo zone"], correct: 1 },
