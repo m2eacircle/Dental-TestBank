@@ -352,14 +352,15 @@ export const subjectsWithSubtopics = {
   ],
   "Pharmacology": [
     "1. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents (Part 1)",
-    "2. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents (Part 2)"
+    "2. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents (Part 2)",
+    "3. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents (Part 3)"
   ]
 };
 
 // Export metadata about the question bank
 export const questionBankMetadata = {
   totalSubjects: 12,
-  totalTopics: 85,
+  totalTopics: 86,
   subjects: {
     // Lesson 1 subjects
     anatomyPhysiology: {
