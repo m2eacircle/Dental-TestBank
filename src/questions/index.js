@@ -333,17 +333,17 @@ export const subjectsWithSubtopics = {
   "Dental Radiography Theory": [
     "1. Radiation History & Radiation Physics",
     "2. Dental X-ray Equipment, Film Processing",
-    "3. Dental Radiography Theory",
-    "4. Dental Radiography Theory",
-    "5. Dental Radiography Theory",
-    "6. Dental Radiography Theory",
-    "7. Dental Radiography Theory",
-    "8. Dental Radiography Theory",
-    "9. Dental Radiography Theory",
-    "10. Dental Radiography Theory",
-    "11. Dental Radiography Theory",
-    "12. Dental Radiography Theory",
-    "13. Dental Radiography Theory"
+    "3. X-Ray Production and Equipment",
+    "4. Film Mounting and Quality Control",
+    "5. Film Processing Chemistry",
+    "6. Radiographic Density and Exposure Factors",
+    "7. Beam Quality and Inverse Square Law",
+    "8. Bisecting Angle Technique",
+    "9. Atomic Structure and X-Ray Interactions",
+    "10. Radiation Biology and Safety",
+    "11. Radiation Protection and Specialized Techniques",
+    "12. Panoramic and Extraoral Radiography",
+    "13. Digital Imaging and Infection Control"
   ],
   "Head and Neck Anatomy": [
     "0. TMJ",
@@ -356,9 +356,9 @@ export const subjectsWithSubtopics = {
     "7. Muscles of Mastication"
   ],
   "Pharmacology": [
-    "1. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents (Part 1)",
-    "2. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents (Part 2)",
-    "3. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents (Part 3)"
+    "1. Introduction to Pharmacology, Drug Nomenclature and Classification",
+    "2. Pharmacodynamics, ADME, and Adverse Drug Reactions",
+    "3. Controlled Substances and Anti-Infective Agents"
   ]
 };
 
