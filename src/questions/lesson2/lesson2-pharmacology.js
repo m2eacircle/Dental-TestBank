@@ -2,7 +2,7 @@
 // Original questions + Professional additions
 
 export const questions = {
-  "1. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents (Part 1)": [
+  "1. Introduction to Pharmacology, Drug Nomenclature and Classification": [
 { id: 10001, question: "Which definition best describes pharmacology?", options: ["The study of diseases and their prevention", "The study of drugs and their effects on living cells", "The study of chemical drug structures", "The study of medical diagnoses"], correct: 1 },
     { id: 10002, question: "Which discipline focuses on what the drug does to the body?", options: ["Pharmacotherapy", "Pharmacokinetics", "Pharmacodynamics", "Pharmacogenetics"], correct: 2 },
     { id: 10003, question: "Which term describes what the body does to the drug?", options: ["Pharmacodynamics", "Pharmacotherapy", "Pharmacokinetics", "Pharmacology"], correct: 2 },
@@ -195,7 +195,7 @@ export const questions = {
     { id: 10190, question: "It is safe to proceed with dental care when a client has an uncontrolled medical condition.", options: ["True", "False"], correct: 1 }
   ],
 
-  "2. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents (Part 2)": [
+  "2. Pharmacodynamics, ADME, and Adverse Drug Reactions": [
 { id: 10108, question: "A dose-response curve shows that as dose increases, response increases in a(n):", options: ["Random pattern", "Linear relationship", "Inverse relationship", "Unrelated pattern"], correct: 1 },
     { id: 10109, question: "In a log-effect curve, the middle portion (steep, steady incline) represents:", options: ["No effect", "Therapeutic range", "Toxic range only", "Placebo zone"], correct: 1 },
     { id: 10110, question: "In a log-effect curve, the “low-dose no/minimal effect” region indicates:", options: ["Maximum efficacy", "Drug is already saturated", "Dose not sufficient to elicit response", "Drug is toxic"], correct: 2 },
@@ -548,7 +548,7 @@ export const questions = {
   ]
 ,
 
-  "3. Introduction, Pharmacokinetics, Adverse Drug Reactions and Anti Infective Agents (Part 3)": [
+  "3. Controlled Substances and Anti-Infective Agents": [
     { id: 10457, question: "What does \"pharmaco\" mean?", options: ["Relating to drugs", "Relating to therapy", "Relating to medicine", "Relating to treatment"], correct: 0 },
     { id: 10458, question: "What is pharmacology?", options: ["The study of medicines only", "The study of drugs and their interactions with living cells", "The study of disease treatment", "The study of patient care"], correct: 1 },
     { id: 10459, question: "What is pharmacotherapy?", options: ["The study of drug actions", "The use of medications to treat different disease states", "The measurement of drug absorption", "The study of harmful drug effects"], correct: 1 },
