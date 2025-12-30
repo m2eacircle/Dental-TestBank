@@ -338,7 +338,12 @@ export const subjectsWithSubtopics = {
     "5. Dental Radiography Theory",
     "6. Dental Radiography Theory",
     "7. Dental Radiography Theory",
-    "8. Dental Radiography Theory"
+    "8. Dental Radiography Theory",
+    "9. Dental Radiography Theory",
+    "10. Dental Radiography Theory",
+    "11. Dental Radiography Theory",
+    "12. Dental Radiography Theory",
+    "13. Dental Radiography Theory"
   ],
   "Head and Neck Anatomy": [
     "0. TMJ",
@@ -360,7 +365,7 @@ export const subjectsWithSubtopics = {
 // Export metadata about the question bank
 export const questionBankMetadata = {
   totalSubjects: 12,
-  totalTopics: 86,
+  totalTopics: 91,
   subjects: {
     // Lesson 1 subjects
     anatomyPhysiology: {
@@ -402,8 +407,8 @@ export const questionBankMetadata = {
     // Lesson 2 subjects
     radiography: {
       name: 'Dental Radiography Theory',
-      topics: 8,
-      totalQuestions: 1528,
+      topics: 13,
+      totalQuestions: 2422,
       file: 'lesson2-radiography-questions.js'
     },
     pathophysiology: {
