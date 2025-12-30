@@ -545,7 +545,7 @@ export const radiographyQuestions = {
     { id: 2148, question: "What is the purpose of film mounts?", options: ["Arrange and identify radiographs properly", "Reduce radiation", "Increase density", "Store chemicals"], correct: 0 },
     { id: 2149, question: "The overall goal of radiographic practice is to:", options: ["Produce diagnostic-quality images with minimal exposure", "Complete exams quickly", "Eliminate all radiation", "Replace digital systems"], correct: 0 }
   ],
-  "3. Dental Radiography Theory": [
+  "3. X-Ray Production and Equipment": [
     // X-ray Discovery & Physics (13 questions)
     { id: 2150, question: "Who discovered X-rays?", options: ["Wilhelm Conrad Roentgen", "Pierre Curie", "G.V. Black", "William Morton"], correct: 0 },
     { id: 2151, question: "X-rays are a form of:", options: ["Particulate radiation", "Electromagnetic radiation", "Sound waves", "Alpha particles"], correct: 1 },
@@ -803,7 +803,7 @@ export const radiographyQuestions = {
     { id: 2365, question: "What was the instructor's closing message regarding radiography practice?", options: ["Follow all safety rules, respect your role, and never compromise ethics", "Take shortcuts to finish faster", "Avoid monitoring devices", "Skip maintenance if busy"], correct: 0 },
     { id: 2366, question: "What was the instructor's view on continuous learning?", options: ["Stay updated because radiography techniques and safety standards evolve", "Only learn during school", "Once certified, no updates are needed", "Focus only on clinical skills"], correct: 0 }
   ],
-  "4. Dental Radiography Theory": [
+  "4. Film Mounting and Quality Control": [
     // Film Mounting - Labial vs Lingual (11 questions)
     { id: 2367, question: "In labial mounting, how should the identification dot appear?", options: ["Dimple toward the viewer", "Pimple toward the viewer", "Should not be visible", "Either way is fine"], correct: 1 },
     { id: 2368, question: "Under labial mounting, the left side of the mount represents:", options: ["The viewer's left", "The patient's left", "The patient's right", "The viewer's right"], correct: 2 },
@@ -1061,7 +1061,7 @@ export const radiographyQuestions = {
     { id: 2580, question: "The Curve of Spee on properly mounted bitewings should appear:", options: ["Reversed", "Flat", "Convex downward (correct curvature)", "Irregular zigzag"], correct: 2 },
     { id: 2581, question: "Labial vs lingual mounting: in routine practice we use:", options: ["Labial (dot/pimple toward the viewer; view as facing the patient)", "Lingual (dimple toward viewer)", "Either—both standard in clinics", "Lingual only for pediatrics"], correct: 0 }
   ],
-  "5. Dental Radiography Theory": [
+  "5. Film Processing Chemistry": [
     // Processing Chemistry - Developer (11 questions)
     { id: 2582, question: "The developer's main function is to:", options: ["Reduce exposed silver halide crystals to black metallic silver", "Remove unexposed crystals", "Harden the emulsion", "Fix the latent image"], correct: 0 },
     { id: 2583, question: "Which chemical acts as the reducing agent in the developer?", options: ["Hydroquinone and Elon (Metol)", "Sodium thiosulfate", "Potassium bromide", "Acetic acid"], correct: 0 },
@@ -1368,7 +1368,7 @@ export const radiographyQuestions = {
     { id: 3194, question: "Which of the following structures should appear MOST radiopaque?", options: ["Pulp", "Soft tissue", "Metal crown", "Cancellous bone"], correct: 2 },
     { id: 3195, question: "The ability to distinguish enamel from dentin depends mainly on:", options: ["Sharpness", "Density", "Contrast", "Magnification"], correct: 2 }
   ],
-  "6. Dental Radiography Theory": [
+  "6. Radiographic Density and Exposure Factors": [
     // Density - Basic Concepts (10 questions)
     { id: 2728, question: "In radiography, density of the image means:", options: ["Thickness of the enamel", "Number of crystals in the film", "Overall darkness or blackness of the radiographic image", "Amount of radiation produced by the tubehead"], correct: 2 },
     { id: 2729, question: "A radiograph that appears very dark overall is described as having:", options: ["Low density", "High density", "No contrast", "High sharpness"], correct: 1 },
@@ -1675,7 +1675,7 @@ export const radiographyQuestions = {
     { id: 2968, question: "Purpose of occlusal radiograph:", options: ["Check interproximal decay", "Capture large area of maxilla or mandible", "Detect TMJ disorders", "Measure root length only"], correct: 1 },
     { id: 2969, question: "Ideal image shows:", options: ["Good density, contrast, sharpness, minimal distortion", "Only crown", "Only roots", "Overlapped contacts"], correct: 0 }
   ],
-  "7. Dental Radiography Theory": [
+  "7. Beam Quality and Inverse Square Law": [
     // Beam Quality & Exposure Factors - kVp (13 questions)
     { id: 2970, question: "Which factor is the primary controller of X-ray beam quality (penetrating power)?", options: ["Exposure time", "Milliamperage (mA)", "Kilovoltage peak (kVp)", "Source–receptor distance"], correct: 2 },
     { id: 2971, question: "Which of the following controls x-ray beam quality?", options: ["mA", "Exposure time", "kVp", "Source-to-film distance"], correct: 2 },
@@ -1801,7 +1801,7 @@ export const radiographyQuestions = {
     // Bisecting Technique Elongation (1 question)
     { id: 3054, question: "Bisecting Technique: elongation occurs when:", options: ["Central ray too steep", "Central ray too shallow", "Horizontal angulation too far mesial", "Dot not placed occlusally"], correct: 1 }
   ],
-  "8. Dental Radiography Theory": [
+  "8. Bisecting Angle Technique": [
     // Bisecting Angle Technique - Basic Principles (7 questions)
     { id: 2665, question: "In the bisecting angle technique, the imaginary bisector is the line that:", options: ["Divides the root into two equal halves", "Divides the angle between the tooth's long axis and the receptor into two equal parts", "Is parallel to the occlusal plane", "Is perpendicular to the long axis of the tooth"], correct: 1 },
     { id: 2666, question: "The rule of isometry in bisecting angle technique states that:", options: ["Two triangles with equal bases are always congruent", "Two triangles with one common side and two equal angles are congruent", "All right triangles are congruent", "Any triangle with a 90° angle is isometric"], correct: 1 },
@@ -1890,7 +1890,7 @@ export const radiographyQuestions = {
     { id: 2727, question: "A restrainer in the developer solution is mainly used to:", options: ["Speed up the developer action", "Prevent the developer from acting on unexposed crystals, reducing fog", "Remove exposed crystals", "Harden the emulsion"], correct: 1 }
   ],
 
-  "9. Dental Radiography Theory": [
+  "9. Atomic Structure and X-Ray Interactions": [
     { id: 2728, question: "Matter is best defined as:", options: ["Energy in motion", "Anything that occupies space and has mass", "The absence of atomic particles", "Electromagnetic waves traveling through space"], correct: 1 },
     { id: 2729, question: "The fundamental unit of matter is the:", options: ["Molecule", "Electron", "Atom", "Proton"], correct: 2 },
     { id: 2730, question: "The nucleus of an atom is composed of:", options: ["Electrons and neutrons", "Protons and electrons", "Protons and neutrons", "Only protons"], correct: 2 },
@@ -1994,7 +1994,7 @@ export const radiographyQuestions = {
     { id: 2828, question: "The speed of x-rays equals the speed of light.", options: ["True", "False"], correct: 0 }
   ],
 
-  "10. Dental Radiography Theory": [
+  "10. Radiation Biology and Safety": [
     { id: 2829, question: "In diagnostic radiography, what happens to x-rays that do not pass through the client and reach the receptor?", options: ["They are reflected back to the x-ray machine", "They are absorbed by client tissues", "They pass through at a delayed time", "They convert to visible light"], correct: 1 },
     { id: 2830, question: "Which two specific mechanisms can cause radiation injury?", options: ["Absorption and reflection", "Ionization and free radical formation", "Penetration and scattering", "Emission and transmission"], correct: 1 },
     { id: 2831, question: "Ionization in client tissue can be produced through which processes?", options: ["Direct hit and magnetic interaction", "Photoelectric effect or Compton scatter", "Wavelength conversion and amplification", "Thermal energy and light emission"], correct: 1 },
@@ -2098,7 +2098,7 @@ export const radiographyQuestions = {
     { id: 2929, question: "The latent period is always the same length regardless of radiation dose received.", options: ["True", "False"], correct: 1 }
   ],
 
-  "11. Dental Radiography Theory": [
+  "11. Radiation Protection and Specialized Techniques": [
     { id: 2930, question: "What was the primary purpose of the Radiation Control for Health and Safety Act of 1968?", options: ["To certify radiographic equipment operators", "To standardize operation of x-ray equipment", "To establish maximum permissible dose limits", "To regulate film manufacturing standards"], correct: 1 },
     { id: 2931, question: "The Consumer-Client Radiation Health and Safety Act of 1981 primarily addressed which issue?", options: ["Film quality standards", "Equipment maintenance protocols", "Education and certification of radiographic equipment operators", "Radiation exposure limits for pregnant women"], correct: 2 },
     { id: 2932, question: "Which organization dictates the maximum dose of radiation that an individual can receive?", options: ["FDA (Food and Drug Administration)", "NCRP (National Council on Radiation Protection and Measurements)", "ADA (American Dental Association)", "CDC (Centers for Disease Control)"], correct: 1 },
@@ -2211,7 +2211,7 @@ export const radiographyQuestions = {
     { id: 3039, question: "Digital radiography significantly reduces radiation exposure compared to traditional film.", options: ["True", "False"], correct: 0 }
   ],
 
-  "12. Dental Radiography Theory": [
+  "12. Panoramic and Extraoral Radiography": [
     { id: 3040, question: "What does panoramic radiography show?", options: ["Individual tooth details", "A wide view of the upper and lower jaws", "Only the maxillary anterior teeth", "Soft tissue only"], correct: 1 },
     { id: 3041, question: "Panoramic radiography is also known as what type of radiography?", options: ["Static radiography", "Digital radiography", "Rotational panoramic radiography", "Stationary radiography"], correct: 2 },
     { id: 3042, question: "Why is panoramic radiography called \"rotational\"?", options: ["Only the film rotates", "Only the tubehead rotates", "Both the film and tubehead rotate around the client", "The client rotates during exposure"], correct: 2 },
@@ -2511,7 +2511,7 @@ export const radiographyQuestions = {
     { id: 3336, question: "CBCT machines are comparable in size to panoramic machines.", options: ["True", "False"], correct: 0 }
   ],
 
-  "13. Dental Radiography Theory": [
+  "13. Digital Imaging and Infection Control": [
     { id: 3337, question: "What is used in digital imaging to record radiographic images?", options: ["Traditional film and chemistry", "An electronic sensor and computerized imaging system", "Only a computer monitor", "Chemical processing solutions"], correct: 1 },
     { id: 3338, question: "Does digital imaging use film or processing chemistry?", options: ["Yes, it uses both", "It uses film but no chemistry", "No film or processing chemistry is used", "Only special film"], correct: 2 },
     { id: 3339, question: "How quickly can digital images appear on a computer monitor?", options: ["After 5 minutes", "Almost instantly", "After chemical processing", "After one hour"], correct: 1 },
