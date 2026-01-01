@@ -1025,7 +1025,7 @@ export default function ImprovedTestBankApp() {
                     </div>
                     <button
                       onClick={() => {
-                        if (confirm('Delete saved progress?')) {
+                        if (window.confirm('Delete saved progress?')) {
                           localStorage.removeItem('savedTestProgress');
                           window.location.reload();
                         }
@@ -1047,11 +1047,11 @@ export default function ImprovedTestBankApp() {
                         setParentSubject(saveState.parentSubject || null);
                         setCurrentQuestionIndex(saveState.currentQuestionIndex);
                         setSelectedQuestions(saveState.selectedQuestions);
-                        setUserAnswers(saveState.userAnswers);
+                        setAnswers(saveState.answers || saveState.userAnswers || []);
                         setReviewAnswers(saveState.reviewAnswers);
                         setStudyMode(saveState.studyMode);
-                        setStartTime(saveState.startTime);
-                        setElapsedTime(saveState.elapsedTime);
+                        setTimeLeft(saveState.timeLeft || 0);
+                        setTotalTestTime(saveState.totalTestTime || 0);
                         setTestStarted(true);
                         setSelectedAnswer(null);
                         setIsAnswerSubmitted(false);
@@ -1477,11 +1477,11 @@ export default function ImprovedTestBankApp() {
                           parentSubject: parentSubject,
                           currentQuestionIndex: currentQuestionIndex,
                           selectedQuestions: selectedQuestions,
-                          userAnswers: userAnswers,
+                          answers: answers,
                           reviewAnswers: reviewAnswers,
                           studyMode: studyMode,
-                          startTime: startTime,
-                          elapsedTime: elapsedTime,
+                          timeLeft: timeLeft,
+                          totalTestTime: totalTestTime,
                           testProgress: currentQuestionIndex + 1,
                           topicProgress: topicProgress[selectedSubtopic || selectedSubject] || 0,
                           savedAt: new Date().toISOString()
