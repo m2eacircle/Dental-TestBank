@@ -356,9 +356,9 @@ export const subjectsWithSubtopics = {
     "7. Muscles of Mastication"
   ],
   "Pharmacology": [
-    "1. Introduction to Pharmacology, Drug Nomenclature and Classification",
-    "2. Pharmacodynamics, ADME, and Adverse Drug Reactions",
-    "3. Controlled Substances and Anti-Infective Agents"
+    "1. Pharmacodynamics, ADME, and Adverse Drug Reactions",
+    "2. Drug Metabolism, Antibiotics, and Clinical Pharmacology",
+    "3. Clinical Case Applications and Patient Care Scenarios"
   ]
 };
 
@@ -438,7 +438,7 @@ export const questionBankMetadata = {
     pharmacology: {
       name: 'Pharmacology',
       topics: 3,
-      totalQuestions: 805,
+      totalQuestions: 691,
       file: 'lesson2-pharmacology.js'
     },
     professionalFoundations: {
