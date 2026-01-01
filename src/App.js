@@ -996,6 +996,85 @@ export default function ImprovedTestBankApp() {
             </div>
           </div>
 
+          {/* Load Saved Progress Button */}
+          {(() => {
+            const savedProgress = localStorage.getItem('savedTestProgress');
+            if (!savedProgress) return null;
+            
+            try {
+              const saveState = JSON.parse(savedProgress);
+              const savedDate = new Date(saveState.savedAt);
+              const timeSinceSave = Date.now() - savedDate.getTime();
+              const daysSinceSave = Math.floor(timeSinceSave / (1000 * 60 * 60 * 24));
+              
+              return (
+                <div className="bg-gradient-to-r from-green-50 to-emerald-50 border-2 border-green-200 rounded-2xl p-4 mb-4">
+                  <div className="flex items-start justify-between mb-3">
+                    <div>
+                      <h3 className="font-bold text-gray-800 mb-1 flex items-center">
+                        <Download className="w-5 h-5 mr-2 text-green-600" />
+                        Saved Progress Available
+                      </h3>
+                      <p className="text-sm text-gray-600">
+                        {saveState.subject}{saveState.subtopic ? ` • ${saveState.subtopic}` : ''}
+                      </p>
+                      <p className="text-xs text-gray-500 mt-1">
+                        Question {saveState.testProgress} of {saveState.selectedQuestions.length} • 
+                        Saved {daysSinceSave === 0 ? 'today' : `${daysSinceSave} day${daysSinceSave > 1 ? 's' : ''} ago`}
+                      </p>
+                    </div>
+                    <button
+                      onClick={() => {
+                        if (confirm('Delete saved progress?')) {
+                          localStorage.removeItem('savedTestProgress');
+                          window.location.reload();
+                        }
+                      }}
+                      className="text-gray-400 hover:text-red-600 transition-colors"
+                      title="Delete saved progress"
+                    >
+                      <X className="w-5 h-5" />
+                    </button>
+                  </div>
+                  <button
+                    onClick={() => {
+                      try {
+                        const saveState = JSON.parse(localStorage.getItem('savedTestProgress'));
+                        
+                        // Restore all state
+                        setSelectedSubject(saveState.subject);
+                        setSelectedSubtopic(saveState.subtopic || null);
+                        setParentSubject(saveState.parentSubject || null);
+                        setCurrentQuestionIndex(saveState.currentQuestionIndex);
+                        setSelectedQuestions(saveState.selectedQuestions);
+                        setUserAnswers(saveState.userAnswers);
+                        setReviewAnswers(saveState.reviewAnswers);
+                        setStudyMode(saveState.studyMode);
+                        setStartTime(saveState.startTime);
+                        setElapsedTime(saveState.elapsedTime);
+                        setTestStarted(true);
+                        setSelectedAnswer(null);
+                        setIsAnswerSubmitted(false);
+                        setScreen('test');
+                        
+                        // Don't remove saved progress yet - let user continue or save again
+                      } catch (error) {
+                        console.error('Error loading saved progress:', error);
+                        alert('Error loading saved progress. Please try again.');
+                      }
+                    }}
+                    className="w-full bg-gradient-to-r from-green-500 to-green-600 text-white py-3 rounded-xl font-semibold hover:shadow-lg transition-all flex items-center justify-center"
+                  >
+                    <Play className="w-5 h-5 mr-2" />
+                    Resume Saved Test
+                  </button>
+                </div>
+              );
+            } catch (error) {
+              return null;
+            }
+          })()}
+
           <div className="grid grid-cols-2 gap-3">
             <button
               onClick={() => setScreen('progress')}
@@ -1389,6 +1468,34 @@ export default function ImprovedTestBankApp() {
                   <h3 className="text-2xl font-bold text-gray-800 mb-2">Test Paused</h3>
                   <p className="text-gray-600 mb-6">Timer is stopped</p>
                   <div className="space-y-3">
+                    <button
+                      onClick={() => {
+                        // Save complete test state
+                        const saveState = {
+                          subject: selectedSubject,
+                          subtopic: selectedSubtopic,
+                          parentSubject: parentSubject,
+                          currentQuestionIndex: currentQuestionIndex,
+                          selectedQuestions: selectedQuestions,
+                          userAnswers: userAnswers,
+                          reviewAnswers: reviewAnswers,
+                          studyMode: studyMode,
+                          startTime: startTime,
+                          elapsedTime: elapsedTime,
+                          testProgress: currentQuestionIndex + 1,
+                          topicProgress: topicProgress[selectedSubtopic || selectedSubject] || 0,
+                          savedAt: new Date().toISOString()
+                        };
+                        localStorage.setItem('savedTestProgress', JSON.stringify(saveState));
+                        
+                        // Show confirmation
+                        alert('✅ Progress Saved!\n\nYou can resume this test later from the home screen.');
+                      }}
+                      className="w-full bg-gradient-to-r from-green-500 to-green-600 text-white px-6 py-3 rounded-xl font-semibold hover:shadow-lg transition-all flex items-center justify-center"
+                    >
+                      <Download className="w-5 h-5 mr-2" />
+                      Save Progress
+                    </button>
                     <button
                       onClick={() => setIsPaused(false)}
                       className="w-full bg-gradient-to-r from-blue-500 to-blue-600 text-white px-6 py-3 rounded-xl font-semibold hover:shadow-lg transition-all flex items-center justify-center"
