@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { Clock, Trophy, BarChart3, CheckCircle, XCircle, Home, Play, ArrowLeft, ChevronRight, Download, Flag, Eye, TrendingUp, Pause, X, HelpCircle } from 'lucide-react';
+import { Clock, Trophy, BarChart3, CheckCircle, XCircle, Home, Play, ArrowLeft, ChevronRight, Download, Flag, Eye, TrendingUp, Pause, X, Copy } from 'lucide-react';
 
 // Import everything from centralized index
 import { subjectsWithSubtopics, allQuestions } from './questions/index.js';
@@ -47,12 +47,41 @@ const globalStyles = `
 `;
 
 // AI Assistant Button Component
-const AIAssistantButton = ({ question, options, className = "" }) => {
-  const [showMenu, setShowMenu] = useState(false);
+// Copy Button Component - Simple copy to clipboard
+const CopyButton = ({ question, options, className = "" }) => {
+  const [copied, setCopied] = useState(false);
   
-  // Format question text for AI search
+  const formatQuestionForCopy = () => {
+    const optionsText = options.map((opt, i) => `${String.fromCharCode(65 + i)}. ${opt}`).join('\n');
+    return `${question}\n\n${optionsText}`;
+  };
+  
+  const handleCopy = () => {
+    const text = formatQuestionForCopy();
+    navigator.clipboard.writeText(text).then(() => {
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
+    }).catch(err => {
+      console.error('Copy failed:', err);
+    });
+  };
+  
+  return (
+    <button
+      onClick={handleCopy}
+      className={`p-2 rounded-lg hover:bg-gray-100 transition-colors ${className}`}
+      title="Copy question to clipboard"
+    >
+      <Copy className={`w-5 h-5 ${copied ? 'text-green-600' : 'text-gray-600'}`} />
+    </button>
+  );
+};
+
+// AI Assistant Panel Component - Shows after submitting answer
+const AIAssistantPanel = ({ question, options, show }) => {
   const formatQuestionForAI = () => {
-    return `${question}\n\nA. ${options[0]}\nB. ${options[1]}\nC. ${options[2]}\nD. ${options[3]}`;
+    const optionsText = options.map((opt, i) => `${String.fromCharCode(65 + i)}. ${opt}`).join('\n');
+    return `${question}\n\n${optionsText}`;
   };
   
   // AI Assistant configurations
@@ -68,7 +97,6 @@ const AIAssistantButton = ({ question, options, className = "" }) => {
       ),
       color: 'bg-amber-50 hover:bg-amber-100 border-amber-200',
       getUrl: (text) => `https://claude.ai/new?q=${encodeURIComponent(text)}`,
-      note: 'Auto-fills question'
     },
     {
       name: 'ChatGPT',
@@ -80,7 +108,6 @@ const AIAssistantButton = ({ question, options, className = "" }) => {
       ),
       color: 'bg-green-50 hover:bg-green-100 border-green-200',
       getUrl: (text) => `https://chat.openai.com/?q=${encodeURIComponent(text)}`,
-      note: 'Auto-fills question'
     },
     {
       name: 'Gemini',
@@ -92,7 +119,6 @@ const AIAssistantButton = ({ question, options, className = "" }) => {
       ),
       color: 'bg-blue-50 hover:bg-blue-100 border-blue-200',
       getUrl: (text) => `https://gemini.google.com/app`,
-      note: 'Paste from clipboard'
     },
     {
       name: 'Copilot',
@@ -104,69 +130,56 @@ const AIAssistantButton = ({ question, options, className = "" }) => {
       ),
       color: 'bg-sky-50 hover:bg-sky-100 border-sky-200',
       getUrl: (text) => `https://copilot.microsoft.com/`,
-      note: 'Paste from clipboard'
     }
   ];
   
   const handleAIClick = (assistant) => {
     const questionText = formatQuestionForAI();
     
-    // Copy to clipboard as backup
+    // Copy to clipboard
     navigator.clipboard.writeText(questionText).catch(err => {
       console.error('Copy failed:', err);
     });
     
-    // Open AI assistant with pre-filled question
+    // Open AI assistant
     const url = assistant.getUrl(questionText);
     window.open(url, '_blank', 'noopener,noreferrer');
-    setShowMenu(false);
   };
   
+  // Auto-copy when panel shows
+  useEffect(() => {
+    if (show && question && options) {
+      const questionText = formatQuestionForAI();
+      navigator.clipboard.writeText(questionText).catch(err => {
+        console.error('Auto-copy failed:', err);
+      });
+    }
+  }, [show]);
+  
+  if (!show) return null;
+  
   return (
-    <div className={`relative ${className}`}>
-      <button
-        onClick={() => setShowMenu(!showMenu)}
-        className="p-2 rounded-lg hover:bg-gray-100 transition-colors"
-        title="Get AI help with this question"
-      >
-        <HelpCircle className="w-5 h-5 text-gray-600" />
-      </button>
+    <div className="mt-6 bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl p-4 border-2 border-blue-200">
+      <div className="text-sm font-semibold text-gray-700 mb-3 text-center">
+        ASK AI ASSISTANT
+      </div>
       
-      {showMenu && (
-        <>
-          {/* Backdrop */}
-          <div 
-            className="fixed inset-0 z-40" 
-            onClick={() => setShowMenu(false)}
-          />
-          
-          {/* AI Menu */}
-          <div className="absolute right-0 mt-2 w-64 bg-white rounded-lg shadow-lg border border-gray-200 z-50 p-3">
-            <div className="text-xs font-semibold text-gray-500 mb-3 px-2">
-              ASK AI ASSISTANT
-            </div>
-            
-            <div className="space-y-2">
-              {aiAssistants.map((assistant) => (
-                <button
-                  key={assistant.name}
-                  onClick={() => handleAIClick(assistant)}
-                  className={`w-full flex items-center gap-3 px-3 py-2.5 rounded-lg border transition-all ${assistant.color}`}
-                >
-                  {assistant.icon}
-                  <span className="font-medium text-gray-700">{assistant.name}</span>
-                </button>
-              ))}
-            </div>
-            
-            <div className="mt-3 pt-3 border-t border-gray-200">
-              <p className="text-xs text-gray-500 text-center">
-                Question sent automatically and copied to clipboard
-              </p>
-            </div>
-          </div>
-        </>
-      )}
+      <div className="grid grid-cols-2 gap-3 mb-3">
+        {aiAssistants.map((assistant) => (
+          <button
+            key={assistant.name}
+            onClick={() => handleAIClick(assistant)}
+            className={`flex items-center gap-2 px-3 py-2.5 rounded-lg border transition-all ${assistant.color}`}
+          >
+            {assistant.icon}
+            <span className="font-medium text-gray-700 text-sm">{assistant.name}</span>
+          </button>
+        ))}
+      </div>
+      
+      <p className="text-xs text-gray-600 text-center">
+        Question sent automatically and copied to clipboard
+      </p>
     </div>
   );
 };
@@ -1417,7 +1430,7 @@ export default function ImprovedTestBankApp() {
               <h2 className="text-xl font-bold text-gray-800 flex-1 no-select">
                 {currentQuestion.question}
               </h2>
-              <AIAssistantButton 
+              <CopyButton 
                 question={currentQuestion.question}
                 options={currentQuestion.options}
                 className="ml-2 flex-shrink-0"
@@ -1466,6 +1479,13 @@ export default function ImprovedTestBankApp() {
                 );
               })}
             </div>
+
+            {/* AI Assistant Panel - Shows after submitting answer */}
+            <AIAssistantPanel 
+              question={currentQuestion.question}
+              options={currentQuestion.options}
+              show={isAnswerSubmitted}
+            />
 
             {/* Study Mode: Show Previous and Back to Topics buttons */}
             {studyMode && (
@@ -1593,7 +1613,7 @@ export default function ImprovedTestBankApp() {
                       >
                         <Flag className="w-5 h-5" fill={isFlagged ? 'currentColor' : 'none'} />
                       </button>
-                      <AIAssistantButton 
+                      <CopyButton 
                         question={review.question.question}
                         options={review.question.options}
                       />
@@ -1631,6 +1651,13 @@ export default function ImprovedTestBankApp() {
                       );
                     })}
                   </div>
+
+                  {/* AI Assistant Panel for each question */}
+                  <AIAssistantPanel 
+                    question={review.question.question}
+                    options={review.question.options}
+                    show={true}
+                  />
                 </div>
               );
               })}
