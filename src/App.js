@@ -1007,6 +1007,13 @@ export default function ImprovedTestBankApp() {
               const timeSinceSave = Date.now() - savedDate.getTime();
               const daysSinceSave = Math.floor(timeSinceSave / (1000 * 60 * 60 * 24));
               
+              // Calculate topic progress display
+              const topicKey = saveState.subtopic || saveState.subject;
+              const baseTopicProgress = saveState.topicProgressValue || 0;
+              const currentTestProgress = saveState.currentQuestionIndex + 1;
+              const totalTopicProgress = baseTopicProgress + currentTestProgress;
+              const totalTopicQuestions = (questionBank[topicKey] || []).length;
+              
               return (
                 <div className="bg-gradient-to-r from-green-50 to-emerald-50 border-2 border-green-200 rounded-2xl p-4 mb-4">
                   <div className="flex items-start justify-between mb-3">
@@ -1019,7 +1026,11 @@ export default function ImprovedTestBankApp() {
                         {saveState.subject}{saveState.subtopic ? ` • ${saveState.subtopic}` : ''}
                       </p>
                       <p className="text-xs text-gray-500 mt-1">
-                        Question {saveState.testProgress} of {saveState.selectedQuestions.length} • 
+                        Test Progress: {saveState.testProgress} of {saveState.selectedQuestions.length}
+                        {totalTopicQuestions > 0 && (
+                          <> • Topic Progress: {totalTopicProgress} of {totalTopicQuestions}</>
+                        )}
+                        <br />
                         Saved {daysSinceSave === 0 ? 'today' : `${daysSinceSave} day${daysSinceSave > 1 ? 's' : ''} ago`}
                       </p>
                     </div>
@@ -1052,6 +1063,12 @@ export default function ImprovedTestBankApp() {
                         setStudyMode(saveState.studyMode);
                         setTimeLeft(saveState.timeLeft || 0);
                         setTotalTestTime(saveState.totalTestTime || 0);
+                        
+                        // Restore topicProgress state
+                        if (saveState.topicProgressState) {
+                          setTopicProgress(saveState.topicProgressState);
+                        }
+                        
                         setTestStarted(true);
                         setSelectedAnswer(null);
                         setIsAnswerSubmitted(false);
@@ -1471,6 +1488,9 @@ export default function ImprovedTestBankApp() {
                     <button
                       onClick={() => {
                         // Save complete test state
+                        const topicKey = selectedSubtopic || selectedSubject;
+                        const currentTopicProgress = topicProgress[topicKey] || 0;
+                        
                         const saveState = {
                           subject: selectedSubject,
                           subtopic: selectedSubtopic,
@@ -1483,7 +1503,8 @@ export default function ImprovedTestBankApp() {
                           timeLeft: timeLeft,
                           totalTestTime: totalTestTime,
                           testProgress: currentQuestionIndex + 1,
-                          topicProgress: topicProgress[selectedSubtopic || selectedSubject] || 0,
+                          topicProgressValue: currentTopicProgress, // Save the base progress value
+                          topicProgressState: topicProgress, // Save entire topicProgress state
                           savedAt: new Date().toISOString()
                         };
                         localStorage.setItem('savedTestProgress', JSON.stringify(saveState));
