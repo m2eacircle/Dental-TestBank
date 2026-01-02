@@ -1069,6 +1069,11 @@ export default function ImprovedTestBankApp() {
                           setTopicProgress(saveState.topicProgressState);
                         }
                         
+                        // Restore questionLimit settings
+                        if (saveState.questionLimit) {
+                          setQuestionLimit(saveState.questionLimit);
+                        }
+                        
                         setTestStarted(true);
                         setSelectedAnswer(null);
                         setIsAnswerSubmitted(false);
@@ -1503,8 +1508,9 @@ export default function ImprovedTestBankApp() {
                           timeLeft: timeLeft,
                           totalTestTime: totalTestTime,
                           testProgress: currentQuestionIndex + 1,
-                          topicProgressValue: currentTopicProgress, // Save the base progress value
-                          topicProgressState: topicProgress, // Save entire topicProgress state
+                          topicProgressValue: currentTopicProgress,
+                          topicProgressState: topicProgress,
+                          questionLimit: questionLimit, // Save question limit settings
                           savedAt: new Date().toISOString()
                         };
                         localStorage.setItem('savedTestProgress', JSON.stringify(saveState));
