@@ -18,16 +18,21 @@ import { questions as anatomyQuestions } from './lesson2/lesson2-head-and-neck-a
 import { questions as pharmacologyQuestions } from './lesson2/lesson2-pharmacology.js';
 
 // Board Exam imports
-import { questions as professionalFoundationsQuestions } from './boardexam/boardexam-professional-foundations.js';
-import { questions as clinicalPreparationQuestions } from './boardexam/boardexam-clinical-preparation.js';
-import { questions as patientAssessmentQuestions } from './boardexam/boardexam-patient-assessment.js';
-import { questions as treatmentPlanningQuestions } from './boardexam/boardexam-treatment-planning.js';
-import { questions as clinicalProceduresQuestions } from './boardexam/boardexam-clinical-procedures.js';
-import { questions as painManagementQuestions } from './boardexam/boardexam-pain-management.js';
-import { questions as lifeStagesQuestions } from './boardexam/boardexam-life-stages.js';
-import { questions as medicallyComplexPatientsQuestions } from './boardexam/boardexam-medically-complex-patients.js';
-import { questions as specialNeedsCareQuestions } from './boardexam/boardexam-special-needs-care.js';
-import { questions as careerDevelopmentQuestions } from './boardexam/boardexam-career-development.js';
+import { questions as professionalPracticeFoundationsQuestions } from './boardexam/boardexam-professional-practice-and-foundations.js';
+import { questions as communityPublicHealthQuestions } from './boardexam/boardexam-community-and-public-health.js';
+import { questions as infectionControlSafetyQuestions } from './boardexam/boardexam-infection-control-and-safety.js';
+import { questions as clinicalEnvironmentErgonomicsQuestions } from './boardexam/boardexam-clinical-environment-and-ergonomics.js';
+import { questions as patientAssessmentHealthHistoryQuestions } from './boardexam/boardexam-patient-assessment-and-health-history.js';
+import { questions as oralAssessmentDiagnosisQuestions } from './boardexam/boardexam-oral-assessment-and-diagnosis.js';
+import { questions as carePlanningDocumentationQuestions } from './boardexam/boardexam-care-planning-and-documentation.js';
+import { questions as preventiveCarePatientEducationQuestions } from './boardexam/boardexam-preventive-care-and-patient-education.js';
+import { questions as instrumentationClinicalProceduresQuestions } from './boardexam/boardexam-instrumentation-and-clinical-procedures.js';
+import { questions as periodontalTherapyQuestions } from './boardexam/boardexam-periodontal-therapy.js';
+import { questions as restorativeSpecialtyCareQuestions } from './boardexam/boardexam-restorative-and-specialty-care.js';
+import { questions as painAnxietyManagementQuestions } from './boardexam/boardexam-pain-and-anxiety-management.js';
+import { questions as specialPopulationsQuestions } from './boardexam/boardexam-special-populations.js';
+import { questions as medicalConditionsSystemicDiseasesQuestions } from './boardexam/boardexam-medical-conditions-and-systemic-diseases.js';
+import { questions as mentalHealthWellBeingQuestions } from './boardexam/boardexam-mental-health-and-well-being.js';
 
 // Export all questions as a single object
 export const allQuestions = {
@@ -43,16 +48,21 @@ export const allQuestions = {
   ...periodontologyQuestions,
   ...anatomyQuestions,
   ...pharmacologyQuestions,
-  ...professionalFoundationsQuestions,
-  ...clinicalPreparationQuestions,
-  ...patientAssessmentQuestions,
-  ...treatmentPlanningQuestions,
-  ...clinicalProceduresQuestions,
-  ...painManagementQuestions,
-  ...lifeStagesQuestions,
-  ...medicallyComplexPatientsQuestions,
-  ...specialNeedsCareQuestions,
-  ...careerDevelopmentQuestions
+  ...professionalPracticeFoundationsQuestions,
+  ...communityPublicHealthQuestions,
+  ...infectionControlSafetyQuestions,
+  ...clinicalEnvironmentErgonomicsQuestions,
+  ...patientAssessmentHealthHistoryQuestions,
+  ...oralAssessmentDiagnosisQuestions,
+  ...carePlanningDocumentationQuestions,
+  ...preventiveCarePatientEducationQuestions,
+  ...instrumentationClinicalProceduresQuestions,
+  ...periodontalTherapyQuestions,
+  ...restorativeSpecialtyCareQuestions,
+  ...painAnxietyManagementQuestions,
+  ...specialPopulationsQuestions,
+  ...medicalConditionsSystemicDiseasesQuestions,
+  ...mentalHealthWellBeingQuestions
 };
 
 // Export as questionBank (alias for allQuestions)
@@ -72,16 +82,21 @@ export {
   periodontologyQuestions,
   anatomyQuestions,
   pharmacologyQuestions,
-  professionalFoundationsQuestions,
-  clinicalPreparationQuestions,
-  patientAssessmentQuestions,
-  treatmentPlanningQuestions,
-  clinicalProceduresQuestions,
-  painManagementQuestions,
-  lifeStagesQuestions,
-  medicallyComplexPatientsQuestions,
-  specialNeedsCareQuestions,
-  careerDevelopmentQuestions
+  professionalPracticeFoundationsQuestions,
+  communityPublicHealthQuestions,
+  infectionControlSafetyQuestions,
+  clinicalEnvironmentErgonomicsQuestions,
+  patientAssessmentHealthHistoryQuestions,
+  oralAssessmentDiagnosisQuestions,
+  carePlanningDocumentationQuestions,
+  preventiveCarePatientEducationQuestions,
+  instrumentationClinicalProceduresQuestions,
+  periodontalTherapyQuestions,
+  restorativeSpecialtyCareQuestions,
+  painAnxietyManagementQuestions,
+  specialPopulationsQuestions,
+  medicalConditionsSystemicDiseasesQuestions,
+  mentalHealthWellBeingQuestions
 };
 
 // Subject to topic mapping - for subjects that have subtopics
@@ -128,102 +143,117 @@ export const subjectsWithSubtopics = {
     "Dental Hygiene Theory IV"
   ],
   "Board Exam": [
-    "Professional Foundations",
-    "Clinical Preparation",
-    "Patient Assessment",
-    "Treatment Planning",
-    "Clinical Procedures",
-    "Pain Management",
-    "Life Stages",
-    "Medically Complex Patients",
-    "Special Needs Care",
-    "Career Development"
+    "Professional Practice and Foundations",
+    "Community and Public Health",
+    "Infection Control and Safety",
+    "Clinical Environment and Ergonomics",
+    "Patient Assessment and Health History",
+    "Oral Assessment and Diagnosis",
+    "Care Planning and Documentation",
+    "Preventive Care and Patient Education",
+    "Instrumentation and Clinical Procedures",
+    "Periodontal Therapy",
+    "Restorative and Specialty Care",
+    "Pain and Anxiety Management",
+    "Special Populations",
+    "Medical Conditions and Systemic Diseases",
+    "Mental Health and Well-Being"
   ],
-  "Professional Foundations": [
-    "1. Introduction to Dental Hygiene",
-    "2. Core Concepts and Practice Models",
-    "3. Evidence-Based Practice",
-    "4. Community Oral Health",
-    "5. Patient Behavior and Motivation",
-    "6. Inclusive Patient Care",
-    "7. Ethics and Legal Issues",
-    "8. Professional Portfolios"
+  "Professional Practice and Foundations": [
+    "1. Dental Hygiene Profession",
+    "2. Dental Hygiene Practice Models",
+    "3. Evidence-Based Decision Making",
+    "4. Legal and Ethical Practice",
+    "5. Professional e-Portfolios",
+    "6. Career Development and Job Search",
+    "7. Dental Practice Management",
+    "8. Teledentistry"
   ],
-  "Clinical Preparation": [
-    "1. Practice Settings and Environments",
-    "2. Infection Control",
-    "3. Medical Emergencies",
-    "4. Workplace Safety and Ergonomics"
+  "Community and Public Health": [
+    "1. Community Oral Health",
+    "2. Health Behavior Change",
+    "3. Inclusive Patient Care"
   ],
-  "Patient Assessment": [
-    "1. Medical and Dental History",
+  "Infection Control and Safety": [
+    "1. Infection Control",
+    "2. Medical Emergencies in Dentistry"
+  ],
+  "Clinical Environment and Ergonomics": [
+    "1. Dental Hygiene Practice Settings",
+    "2. Ergonomics and Workplace Injuries"
+  ],
+  "Patient Assessment and Health History": [
+    "1. Patient Health Histories",
     "2. Vital Signs Assessment",
-    "3. Medication Review",
-    "4. Head and Neck Examination",
-    "5. Tooth Assessment and Charting",
-    "6. Plaque and Stain Assessment",
-    "7. Caries Risk Assessment",
-    "8. Periodontal Examination",
-    "9. Oral-Systemic Health Links"
+    "3. Medication History",
+    "4. Head and Neck Examination"
   ],
-  "Treatment Planning": [
-    "1. Dental Hygiene Diagnosis",
-    "2. Care Planning and Documentation"
+  "Oral Assessment and Diagnosis": [
+    "1. Tooth Assessment and Charting",
+    "2. Plaque, Calculus, and Stain Assessment",
+    "3. Caries Risk Assessment and Management",
+    "4. Periodontal Assessment and Charting",
+    "5. Oral-Systemic Health",
+    "6. Dental Hygiene Diagnosis"
   ],
-  "Clinical Procedures": [
+  "Care Planning and Documentation": [
+    "1. Care Planning, Evaluation, and Documentation"
+  ],
+  "Preventive Care and Patient Education": [
     "1. Toothbrushing Techniques",
-    "2. Interdental Cleaning",
-    "3. Toothpastes and Rinses",
-    "4. Antimicrobial Therapy",
-    "5. Hand Instruments",
-    "6. Ultrasonic Scalers",
-    "7. Root Anatomy",
-    "8. Dental Implant Care",
-    "9. Polishing and Whitening",
-    "10. Periodontal Therapy Planning",
-    "11. Acute Periodontal Conditions",
-    "12. Dental Sealants",
-    "13. Nutrition Counseling",
-    "14. Tobacco Cessation",
-    "15. Impressions and Appliances",
-    "16. Restorative Procedures",
-    "17. Orthodontic Maintenance",
-    "18. Dentures and Bridges"
+    "2. Interdental and Oral Care Aids",
+    "3. Toothpaste Products",
+    "4. Antimicrobial Therapy for Periodontal Disease",
+    "5. Dental Sealants",
+    "6. Nutrition Counseling",
+    "7. Tobacco Cessation Counseling"
   ],
-  "Pain Management": [
-    "1. Tooth Sensitivity",
-    "2. Local Anesthesia",
-    "3. Nitrous Oxide Sedation"
+  "Instrumentation and Clinical Procedures": [
+    "1. Hand Instrumentation",
+    "2. Ultrasonic Instrumentation",
+    "3. Root Anatomy for Instrumentation",
+    "4. Tooth Polishing and Whitening",
+    "5. Dental Impressions and Oral Appliances"
   ],
-  "Life Stages": [
+  "Periodontal Therapy": [
+    "1. Nonsurgical Periodontal Therapy Decisions",
+    "2. Acute Periodontal Conditions"
+  ],
+  "Restorative and Specialty Care": [
+    "1. Dental Implants and Implant Care",
+    "2. Restorative Dental Care",
+    "3. Orthodontic Care",
+    "4. Dental Prostheses",
+    "5. Tooth Sensitivity"
+  ],
+  "Pain and Anxiety Management": [
+    "1. Local Anesthesia",
+    "2. Nitrous Oxide Sedation"
+  ],
+  "Special Populations": [
     "1. Pediatric and Adolescent Care",
     "2. Pregnancy and Oral Health",
-    "3. Geriatric Care"
+    "3. Geriatric Dental Care",
+    "4. Palliative Oral Care",
+    "5. Child Abuse and Family Violence",
+    "6. Disability and Access to Care",
+    "7. Intellectual and Developmental Disabilities",
+    "8. Orofacial Cleft Conditions",
+    "9. Neurologic Disabilities"
   ],
-  "Medically Complex Patients": [
-    "1. Heart Disease",
-    "2. Diabetes",
-    "3. Cancer Patients",
+  "Medical Conditions and Systemic Diseases": [
+    "1. Cardiovascular Disease and Oral Health",
+    "2. Diabetes and Oral Health",
+    "3. Cancer and Oral Care",
     "4. HIV and Oral Health",
-    "5. End-of-Life Care",
-    "6. Autoimmune Disorders",
-    "7. Transplant and Kidney Disease",
-    "8. Respiratory Conditions",
-    "9. Substance Abuse",
-    "10. Eating Disorders",
-    "11. Abuse and Violence Recognition"
+    "5. Autoimmune Diseases",
+    "6. Organ Transplant and Kidney Disease",
+    "7. Respiratory Diseases",
+    "8. Substance Use Disorders",
+    "9. Eating Disorders"
   ],
-  "Special Needs Care": [
-    "1. Patients with Disabilities",
-    "2. Intellectual and Developmental Disabilities",
-    "3. Cleft Lip and Palate",
-    "4. Neurological Disorders"
-  ],
-  "Career Development": [
-    "1. Career Planning",
-    "2. Practice Management",
-    "3. Telehealth in Dentistry",
-    "4. Mental Health and Self-Care"
+  "Mental Health and Well-Being": [
+    "1. Mental Health and Self-Care"
   ],
   "Anatomy and Physiology": [
     "1. Introduction to the Human Body",
