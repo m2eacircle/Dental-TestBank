@@ -1,9 +1,10 @@
 // Lesson 2 - Head and Neck Anatomy
-// Complete file with all 16 topics (8 original + 8 duplicates)
-// Each topic has both original and "-1" duplicate version
+// Complete file with all 16 topics (8 subjects, each with Part 1 and Part 2)
+// Total: 1,478 unique questions
+
 
 export const questions = {
-  "0. TMJ": [    {
+  "1. TMJ (Part 1)": [    {
       id: 11000,
       question: "What type of articulation is the temporomandibular joint?",
       options: [
@@ -1148,7 +1149,7 @@ export const questions = {
       correct: "C"
     },
   ],
-  "0-1. TMJ": [
+  "2. TMJ (Part 2)": [
     {
       id: 11500,
       question: "The temporomandibular joint is best described as which type of articulation?",
@@ -2064,7 +2065,7 @@ export const questions = {
     }
   
   ],
-  "1. Bones of the skull": [    { id: 11100, question: "Which term refers to the immovable fibrous joints between skull bones?", options: ["Canal", "Eminence", "Suture", "Condyle"], correct: 2 },
+  "3. Bones of the skull (Part 1)": [    { id: 11100, question: "Which term refers to the immovable fibrous joints between skull bones?", options: ["Canal", "Eminence", "Suture", "Condyle"], correct: 2 },
     { id: 11101, question: "Which anatomical direction means \"toward the head\" in the transverse plane?", options: ["Inferior", "Lateral", "Superior", "Posterior"], correct: 2 },
     { id: 11102, question: "Which bone is not part of the neurocranium?", options: ["Ethmoid", "Parietal", "Maxilla", "Occipital"], correct: 2 },
     { id: 11103, question: "The TMJ is formed by the mandibular condyle and which bone?", options: ["Sphenoid", "Temporal", "Zygomatic", "Frontal"], correct: 1 },
@@ -2150,7 +2151,7 @@ export const questions = {
     { id: 11183, question: "Which structure is part of the neurocranium?", options: ["Nasal bone", "Zygomatic bone", "Temporal bone", "Maxilla"], correct: 2 },
     { id: 11184, question: "Which facial bone forms the posterior portion of the hard palate?", options: ["Maxilla", "Palatine", "Vomer", "Lacrimal"], correct: 1 }
   ],
-  "1-1. Bones of the skull": [
+  "4. Bones of the skull (Part 2)": [
     {
       id: 11600,
       question: "Which term describes a short tube-like opening or passage through bone?",
@@ -3330,7 +3331,7 @@ export const questions = {
     }
   
   ],
-  "2. Landmarks on bones": [    { id: 11200, question: "The temporomandibular joint is formed by the articulation between the mandible and the:", options: ["Occipital bone", "Temporal bone", "Sphenoid bone", "Zygomatic bone"], correct: 1 },
+  "5. Landmarks on bones (Part 1)": [    { id: 11200, question: "The temporomandibular joint is formed by the articulation between the mandible and the:", options: ["Occipital bone", "Temporal bone", "Sphenoid bone", "Zygomatic bone"], correct: 1 },
     { id: 11201, question: "Which structure forms the posterior boundary of the mandibular fossa?", options: ["Articular eminence", "Postglenoid tubercle", "Styloid process", "Mastoid process"], correct: 1 },
     { id: 11202, question: "The articular eminence is a key structure for which movement?", options: ["Condylar rotation", "Anterior translation of the condyle", "Lateral deviation", "Jaw depression only"], correct: 1 },
     { id: 11203, question: "The articular disc of the TMJ is avascular in which zone?", options: ["Posterior band", "Anterior band", "Central (intermediate) zone", "Retrodiscal tissue"], correct: 2 },
@@ -3401,7 +3402,7 @@ export const questions = {
     { id: 11268, question: "The anterior portion of the articular disc attaches to the:", options: ["Inferior head of the lateral pterygoid muscle", "Superior head of the lateral pterygoid muscle", "Medial pterygoid muscle", "Temporalis muscle"], correct: 1 },
     { id: 11269, question: "The TMJ capsule surrounds:", options: ["Only the temporal bone", "Only the mandibular condyle", "The entire TMJ", "Only the synovial cavities"], correct: 2 }
   ],
-  "2-1. Landmarks on bones": [
+  "6. Landmarks on bones (Part 2)": [
     {
       id: 11700,
       question: "The supraorbital foramen is located on which bone?",
@@ -4306,7 +4307,7 @@ export const questions = {
     }
   
   ],
-  "3. Circulation of the Head and Neck": [    {
+  "7. Circulation of the Head and Neck (Part 1)": [    {
       id: 11300,
       question: "What type of blood do arteries carry?",
       options: [
@@ -5374,7 +5375,7 @@ export const questions = {
       correct: "A"
     },
   ],
-  "3-1. Circulation of the Head and Neck": [
+  "8. Circulation of the Head and Neck (Part 2)": [
     {
       id: 11800,
       question: "What is the primary function of arteries in the circulatory system?",
@@ -6312,7 +6313,7 @@ export const questions = {
     }
   
   ],
-  "4. Lymphatics": [    {
+  "9. Lymphatics (Part 1)": [    {
       id: 11400,
       question: "What role does the lymphatic system play in the body's defense mechanisms?",
       options: [
@@ -7787,1482 +7788,516 @@ export const questions = {
       correct: "C"
     },
   ],
-  "4-1. Lymphatics": [    {
-      id: 11400,
-      question: "What role does the lymphatic system play in the body's defense mechanisms?",
+  "10. Lymphatics (Part 2)": [
+    {
+      id: 11900,
+      question: "What role does the lymphatic system play in the body\'s immune response?",
       options: [
-        "First line of defense",
-        "Second line of defense",
-        "Third line of defense",
-        "Final line of defense",
+        "It serves as the first line of defense against pathogens",
+        "It functions as the second line of defense in immunity",
+        "It provides the third line of defense through antibody production",
+        "It creates physical barriers to prevent infection entry"
       ],
       correct: "B"
     },
     {
-      id: 11401,
-      question: "The lymphatic system is composed of tiny channels interconnected by which structures?",
+      id: 11901,
+      question: "The lymphatic system functions primarily by performing which action?",
       options: [
-        "Blood vessels",
-        "Capillaries",
-        "Lymph nodes",
-        "Arteries",
+        "Producing red blood cells for oxygen transport",
+        "Filtering toxins through the liver and kidneys",
+        "Returning extracellular fluids from tissues to the bloodstream",
+        "Regulating body temperature through sweat production"
       ],
       correct: "C"
     },
     {
-      id: 11402,
-      question: "How does the lymphatic system function in relation to body fluids?",
-      options: [
-        "It produces blood plasma for tissues",
-        "It stores extracellular fluid permanently",
-        "It returns extracellular fluids to the bloodstream from tissues",
-        "It prevents fluid from leaving capillaries",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11403,
-      question: "What is extracellular fluid in the context of the lymphatic system?",
-      options: [
-        "Fluid inside cells",
-        "A filtrate from blood plasma that flows into surrounding tissues",
-        "Blood that has clotted outside vessels",
-        "Saliva in the oral cavity",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11404,
-      question: "What is the fluid called when it is circulating within the lymphatic system?",
+      id: 11902,
+      question: "What is the fluid called when it circulates within the lymphatic system?",
       options: [
         "Plasma",
         "Serum",
-        "Lymph",
-        "Interstitial fluid only",
+        "Interstitial fluid",
+        "Lymph"
       ],
-      correct: "C"
+      correct: "D"
     },
     {
-      id: 11405,
-      question: "What condition results when lymph vessels are blocked or unable to carry fluid away from tissues?",
+      id: 11903,
+      question: "Extracellular fluid originates from which source?",
       options: [
-        "Lymphoma",
+        "Direct secretion from lymph nodes into surrounding tissues",
+        "Filtrate of blood plasma that flows from capillaries into tissues",
+        "Fluid produced by the spleen and distributed systemically",
+        "Cerebrospinal fluid that leaks into peripheral tissues"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11904,
+      question: "What medical condition results when lymph vessels become blocked or unable to carry fluid away from tissues?",
+      options: [
+        "Thrombophlebitis",
         "Lymphedema",
-        "Lymphangitis",
-        "Lymphadenitis",
+        "Cellulitis",
+        "Angioedema"
       ],
       correct: "B"
     },
     {
-      id: 11406,
-      question: "What is the primary function of lymph nodes?",
+      id: 11905,
+      question: "Lymph nodes contain which type of cells that combat infections?",
       options: [
-        "Produce red blood cells",
-        "Store vitamins and minerals",
-        "Act as filters and produce lymphocytes to combat infections",
-        "Generate hormones for immune response",
+        "Erythrocytes",
+        "Thrombocytes",
+        "Lymphocytes",
+        "Hepatocytes"
       ],
       correct: "C"
     },
     {
-      id: 11407,
-      question: "Which tissues contain lymph vessels according to the document?",
+      id: 11906,
+      question: "Which tissues in the oral cavity contain lymph vessels?",
       options: [
-        "Only skin and mucosa",
-        "Only major organs",
-        "Most tissues, including the pulp of teeth",
-        "Only superficial tissues",
+        "Only the gingival tissues and oral mucosa",
+        "The tooth enamel and dentin structures",
+        "Most tissues, including the dental pulp",
+        "Exclusively the periodontal ligament fibers"
       ],
       correct: "C"
     },
     {
-      id: 11408,
-      question: "How are lymph nodes organized in the body?",
+      id: 11907,
+      question: "The submandibular lymph nodes are located near which anatomical landmark?",
       options: [
-        "Randomly scattered throughout tissues",
-        "Grouped together in small clusters",
-        "Located only in the abdomen",
-        "Found exclusively in bone marrow",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11409,
-      question: "What happens when lymph nodes are affected by infection?",
-      options: [
-        "They shrink and harden",
-        "They become tender and enlarged",
-        "They disappear temporarily",
-        "They change color to blue",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11410,
-      question: "Which anatomical landmark is important for determining the spread of mandibular infections?",
-      options: [
-        "Hyoid bone",
-        "Thyroid cartilage",
-        "Mylohyoid muscle",
-        "Sternocleidomastoid muscle",
+        "Behind the pharyngeal wall",
+        "Beneath the chin in the midline",
+        "Around the submandibular gland near the mandibular angle",
+        "Along the lateral surface of the sternocleidomastoid muscle"
       ],
       correct: "C"
     },
     {
-      id: 11411,
-      question: "Where are retropharyngeal lymph nodes located?",
-      options: [
-        "In front of the throat wall",
-        "Behind the throat wall",
-        "Under the chin",
-        "Near the ear",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11412,
-      question: "What type of infections primarily involve the retropharyngeal nodes?",
-      options: [
-        "Dental infections",
-        "Throat infections",
-        "Skin infections",
-        "Eye infections",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11413,
-      question: "Into which lymph node group do retropharyngeal nodes drain?",
-      options: [
-        "Submental nodes",
-        "Lower deep cervical nodes",
-        "Upper deep cervical nodes",
-        "Submandibular nodes",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11414,
-      question: "Where are submental lymph nodes located?",
-      options: [
-        "Behind the ear",
-        "Beneath the chin",
-        "Above the clavicle",
-        "Near the angle of the mandible",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11415,
-      question: "Which structures drain into the submental lymph nodes?",
-      options: [
-        "Maxillary molars",
-        "Mandibular incisors and tip of tongue",
-        "Parotid gland",
-        "Maxillary sinus",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11416,
-      question: "Where do submental nodes drain their lymph?",
-      options: [
-        "Directly into the bloodstream",
-        "Into retropharyngeal nodes",
-        "Into submandibular nodes or lower deep cervical nodes",
-        "Into parotid nodes",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11417,
-      question: "Where are submandibular lymph nodes located?",
-      options: [
-        "Under the chin",
-        "Behind the ear",
-        "Around the submandibular gland, near the angle of mandible",
-        "In the floor of the mouth",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11418,
+      id: 11908,
       question: "What is the medical term for enlargement and tenderness of submandibular nodes?",
       options: [
-        "Lymphedema",
-        "Lymphadenopathy",
         "Lymphangitis",
-        "Lymphoma",
+        "Lymphadenopathy",
+        "Lymphocytosis",
+        "Lymphangioma"
       ],
       correct: "B"
     },
     {
-      id: 11419,
-      question: "Which maxillary teeth drain into the submandibular nodes?",
+      id: 11909,
+      question: "Which teeth drain into the submental lymph nodes?",
       options: [
-        "Only incisors",
         "All maxillary teeth except third molars",
-        "Only molars",
-        "Only canines",
+        "Mandibular incisors and tip of tongue",
+        "Mandibular molars and premolars exclusively",
+        "Maxillary canines and lateral incisors"
       ],
       correct: "B"
     },
     {
-      id: 11420,
-      question: "Which mandibular teeth drain into submandibular lymph nodes?",
+      id: 11910,
+      question: "The submandibular nodes receive drainage from which maxillary teeth?",
       options: [
-        "All mandibular teeth",
-        "Only anterior teeth",
-        "All mandibular posterior teeth except third molars",
-        "Only third molars",
+        "Only the maxillary incisors and canines",
+        "All maxillary teeth except the third molars",
+        "Exclusively the maxillary molars and premolars",
+        "The maxillary third molars only"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11911,
+      question: "Which structures drain into the upper deep cervical nodes?",
+      options: [
+        "Mandibular incisors and anterior tongue",
+        "Third molar region, tongue base, tonsils, and soft palate",
+        "Maxillary incisors and hard palate exclusively",
+        "Buccal mucosa and anterior floor of mouth"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11912,
+      question: "Where are the upper deep cervical nodes located?",
+      options: [
+        "Beneath the chin between the anterior digastric muscles",
+        "Behind the posterior pharyngeal wall",
+        "On the lateral surface of internal jugular vein beneath sternocleidomastoid",
+        "Along the anterior border of the trapezius muscle"
       ],
       correct: "C"
     },
     {
-      id: 11421,
-      question: "Which of the following structures does NOT drain into submandibular nodes?",
+      id: 11913,
+      question: "The lower deep cervical nodes are positioned approximately how far above the clavicle?",
       options: [
-        "Floor of mouth",
-        "Hard palate",
-        "Soft palate",
-        "Cheek area",
+        "One inch",
+        "Two inches",
+        "Four inches",
+        "Six inches"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11914,
+      question: "Into what structure do the lower deep cervical nodes ultimately drain?",
+      options: [
+        "The thoracic duct exclusively",
+        "The superior vena cava directly",
+        "The junction of subclavian and internal jugular veins",
+        "The axillary lymph node chain"
       ],
       correct: "C"
     },
     {
-      id: 11422,
-      question: "How many areas in the head and neck drain into submandibular nodes according to the document?",
+      id: 11915,
+      question: "What critical event occurs when infection reaches the lower deep cervical nodes and passes through them?",
       options: [
-        "Five areas",
-        "Seven areas",
-        "Nine areas",
-        "Eleven areas",
+        "The infection becomes localized and contained",
+        "It spreads to the contralateral lymph nodes",
+        "It enters the bloodstream and moves to the heart",
+        "It triggers immediate systemic antibody production"
       ],
       correct: "C"
     },
     {
-      id: 11423,
-      question: "Where are upper deep cervical lymph nodes located?",
+      id: 11916,
+      question: "In the context of lymph node drainage, what does \"primary nodes\" refer to?",
       options: [
-        "Below the clavicle",
-        "Under the chin",
-        "On the lateral surface of internal jugular vein, beneath sternocleidomastoid muscle",
-        "Behind the ear",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11424,
-      question: "Approximately how far below the ear are upper deep cervical nodes located?",
-      options: [
-        "1 inch",
-        "2 inches",
-        "3 inches",
-        "4 inches",
+        "The largest lymph nodes in the chain",
+        "The first group of nodes to receive drainage from an area",
+        "Nodes that only drain lymphatic fluid, not infections",
+        "The nodes closest to the heart"
       ],
       correct: "B"
     },
     {
-      id: 11425,
-      question: "Which area does NOT drain into the upper deep cervical nodes?",
-      options: [
-        "Third molar region",
-        "Base of tongue",
-        "Tip of tongue",
-        "Tonsillar area",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11426,
-      question: "Which structures drain into upper deep cervical nodes?",
-      options: [
-        "Anterior teeth only",
-        "Submandibular, retropharyngeal, and parotid nodes",
-        "Only facial tissues",
-        "Only the scalp",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11427,
-      question: "Where are lower deep cervical lymph nodes located?",
-      options: [
-        "Above the ear",
-        "Under the chin",
-        "On lateral surface of internal jugular vein, beneath sternocleidomastoid muscle",
-        "Behind the parotid gland",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11428,
-      question: "How far above the clavicle are lower deep cervical nodes located?",
-      options: [
-        "1 inch",
-        "2 inches",
-        "3 inches",
-        "4 inches",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11429,
-      question: "Which node group drains into the lower deep cervical nodes?",
-      options: [
-        "Submental nodes only",
-        "Upper deep cervical nodes",
-        "Retropharyngeal nodes only",
-        "Parotid nodes only",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11430,
-      question: "Where do the lower deep cervical nodes ultimately drain?",
-      options: [
-        "Into the thoracic duct",
-        "Into the junction of subclavian and internal jugular veins",
-        "Directly into the heart",
-        "Into the retropharyngeal space",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11431,
-      question: "What are the three descriptive terms used for lymph node hierarchy in disease spread?",
-      options: [
-        "Superior, middle, inferior nodes",
-        "Anterior, posterior, lateral nodes",
-        "Primary, secondary, tertiary nodes",
-        "Proximal, medial, distal nodes",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11432,
-      question: "Why is understanding the node hierarchy important?",
-      options: [
-        "It determines blood type compatibility",
-        "It affects the progression of infections and cancers",
-        "It controls hormone production",
-        "It regulates body temperature",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11433,
-      question: "Can disease processes skip node groups in their progression?",
-      options: [
-        "No, they must pass through all groups sequentially",
-        "Yes, disease can be stopped before reaching tertiary nodes",
-        "Only in viral infections",
-        "Only in bacterial infections",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11434,
-      question: "What happens when infection or cancer reaches the lower deep cervical nodes and passes through them?",
-      options: [
-        "It stops spreading",
-        "It returns to the primary site",
-        "It enters the bloodstream and spreads throughout the body",
-        "It becomes dormant",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11435,
-      question: "What are fascial spaces?",
-      options: [
-        "Spaces within bones",
-        "Spaces between fascia, located between muscle and tissue",
-        "Spaces within lymph nodes",
-        "Spaces in the bloodstream",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11436,
-      question: "How common is the fascial space route of infection compared to lymphatic spread?",
-      options: [
-        "More common",
-        "Equally common",
-        "Less common",
-        "Never occurs",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11437,
-      question: "What clinical appearance is typical of fascial space infections?",
-      options: [
-        "Small red spots",
-        "Dramatic swelling like a swollen jaw",
-        "No visible changes",
-        "Purple discoloration only",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11438,
-      question: "Where do dental infections typically begin?",
-      options: [
-        "In the lymph nodes",
-        "In the salivary glands",
-        "At the apex of a tooth or in periodontal space",
-        "In the fascial planes",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11439,
-      question: "When a mandibular periodontal infection spreads lingually, where can it go?",
-      options: [
-        "Only to the vestibule",
-        "Above mylohyoid muscle or beneath it",
-        "Directly to the throat",
-        "Into the maxillary sinus",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11440,
-      question: "What is the most common outcome of buccal swelling from dental infection?",
-      options: [
-        "Spreads to the eye",
-        "Breaks through mucosa and drains into oral cavity",
-        "Enters the bloodstream immediately",
-        "Forms a permanent abscess",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11441,
-      question: "What is Ludwig's angina?",
-      options: [
-        "A type of heart condition",
-        "A throat infection from streptococcus",
-        "Cellulitis involving the sublingual space under the tongue",
-        "An ear infection",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11442,
-      question: "What commonly causes Ludwig's angina?",
-      options: [
-        "Viral throat infection",
-        "Infection of tooth roots or mouth injury",
-        "Allergic reaction",
-        "Autoimmune disease",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11443,
-      question: "Why is Ludwig's angina potentially life-threatening?",
-      options: [
-        "It causes severe pain only",
-        "Tissue swelling can block the airway or prevent swallowing",
-        "It spreads to the brain",
-        "It causes permanent tooth loss",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11444,
-      question: "Can Ludwig's angina be cured?",
-      options: [
-        "No, it is always fatal",
-        "Yes, with proper airway protection and antibiotics",
-        "Only with surgical removal of lymph nodes",
-        "Only if caught within 24 hours",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11445,
-      question: "If a sublingual space infection continues posteriorly beyond the mylohyoid muscle, where does it spread?",
-      options: [
-        "To the maxillary sinus",
-        "To the lateral pharyngeal space",
-        "To the parotid gland",
-        "To the orbit of the eye",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11446,
-      question: "If untreated, where does infection spread after reaching the lateral pharyngeal space?",
-      options: [
-        "To the ear canal",
-        "To the retropharyngeal space, then posterior mediastinum",
-        "To the frontal sinus",
-        "To the brain",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11447,
-      question: "What is the consequence if infection reaches the posterior mediastinum?",
-      options: [
-        "Mild discomfort only",
-        "Chronic bad breath",
-        "The person may die very quickly",
-        "Temporary speech difficulty",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11448,
-      question: "Which tooth infection is most likely to cause swelling below the eye?",
-      options: [
-        "Mandibular molar",
-        "Maxillary canine",
-        "Mandibular incisor",
-        "Maxillary third molar",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11449,
-      question: "Which tooth infection typically causes cheek swelling?",
-      options: [
-        "Mandibular incisor",
-        "Maxillary incisor",
-        "Maxillary posterior tooth",
-        "Any mandibular tooth",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11450,
-      question: "Where can maxillary tooth infections rarely spread?",
-      options: [
-        "To the ear",
-        "To the nasal cavity or maxillary sinus",
-        "To the lower jaw",
-        "To the neck",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11451,
-      question: "Where do most anterior and premolar mandibular tooth infections spread?",
-      options: [
-        "Below the mylohyoid muscle in submental space",
-        "Above the mylohyoid muscle in sublingual space",
-        "To the parotid space",
-        "To the retropharyngeal space",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11452,
-      question: "Where can some mandibular molar infections spread?",
-      options: [
-        "Above the mylohyoid muscle",
-        "To the maxillary sinus",
-        "Below the mylohyoid muscle in submental space",
-        "To the orbit",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11453,
-      question: "In the spread of infections, if an infection occurs near a primary node, how many chances are there to combat it?",
-      options: [
-        "One chance",
-        "Two chances",
-        "Three chances",
-        "Four chances",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11454,
-      question: "If an infection occurs near a tertiary node, how many chances are there to combat it?",
-      options: [
-        "One chance",
-        "Two chances",
-        "Three chances",
-        "Four chances",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11455,
-      question: "For an infection in the frontal lower lip, which node group is the primary barrier?",
-      options: [
-        "Upper deep cervical nodes",
-        "Submandibular nodes",
-        "Submental nodes",
-        "Retropharyngeal nodes",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11456,
-      question: "What is the secondary node group for a frontal lower lip infection?",
-      options: [
-        "Submental nodes",
-        "Submandibular nodes",
-        "Upper deep cervical nodes",
-        "Lower deep cervical nodes",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11457,
-      question: "What is the tertiary node group for frontal lower lip infection?",
-      options: [
-        "Submental nodes",
-        "Submandibular nodes",
-        "Upper deep cervical nodes",
-        "Lower deep cervical nodes",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11458,
-      question: "How do lymph node groups act in relation to cancer spread?",
-      options: [
-        "They accelerate cancer spread",
-        "They have no effect on cancer",
-        "They act as barriers and slow the spread",
-        "They only affect viral infections",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11459,
+      id: 11917,
       question: "Why does cancer on the tip of the tongue have a lower mortality rate than cancer on the back of the tongue?",
       options: [
-        "It is easier to see and diagnose",
-        "It must pass through more node groups before entering bloodstream",
-        "It grows more slowly",
-        "It responds better to treatment",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11460,
-      question: "How many node groups must cancer on the tip of the tongue pass through before entering the bloodstream?",
-      options: [
-        "Two groups",
-        "Three groups",
-        "Four groups",
-        "Five groups",
+        "Tip cancers grow more slowly than base cancers",
+        "The tongue tip has fewer blood vessels for metastasis",
+        "Tip cancer must pass through four node groups before entering bloodstream",
+        "Back of tongue cancers are always more aggressive histologically"
       ],
       correct: "C"
     },
     {
-      id: 11461,
-      question: "Which of the following is NOT mentioned as draining into submandibular nodes?",
+      id: 11918,
+      question: "What are fascial spaces in relation to dental infections?",
+      options: [
+        "Spaces between teeth where food becomes trapped",
+        "Hollow chambers within the maxillary and mandibular bones",
+        "Spaces between fascial layers of muscle and tissue",
+        "The pulp chambers of infected teeth"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11919,
+      question: "Where do most dental infections typically originate?",
+      options: [
+        "In the gingival sulcus from plaque accumulation",
+        "At the apex of a tooth or in the periodontal space",
+        "Within the maxillary sinus from chronic sinusitis",
+        "In the temporomandibular joint from trauma"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11920,
+      question: "When a periodontal space infection occurs, where does swelling typically appear?",
+      options: [
+        "Always in the submandibular space beneath the jaw",
+        "Exclusively in the retropharyngeal space",
+        "Either buccally or lingually depending on location",
+        "Only in the maxillary sinus region"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11921,
+      question: "What is the most common outcome for buccal swelling from dental infection?",
+      options: [
+        "It spreads systemically through the bloodstream",
+        "It drains into the oral cavity through the mucosa",
+        "It becomes encapsulated and requires surgical removal",
+        "It resolves spontaneously without intervention"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11922,
+      question: "The mylohyoid muscle is an important anatomical landmark because it determines what?",
+      options: [
+        "Whether infection spreads above or below it in the mandible",
+        "The maximum size an abscess can reach",
+        "Which teeth are more susceptible to infection",
+        "The rate at which infection spreads through bone"
+      ],
+      correct: "A"
+    },
+    {
+      id: 11923,
+      question: "Mandibular anterior teeth and premolar infections typically spread to which space?",
+      options: [
+        "Submental space below the mylohyoid muscle",
+        "Sublingual space above the mylohyoid muscle",
+        "Lateral pharyngeal space posterior to mandible",
+        "Buccal space lateral to the masseter muscle"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11924,
+      question: "Some mandibular molar infections can spread below the mylohyoid muscle into which space?",
+      options: [
+        "Submandibular space",
+        "Masseteric space",
+        "Submental space",
+        "Pterygomandibular space"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11925,
+      question: "Where do maxillary tooth infections usually spread first?",
+      options: [
+        "Directly to cervical lymph nodes",
+        "To the buccal vestibule or palate",
+        "Into the lateral pharyngeal space",
+        "Through the floor of the orbit"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11926,
+      question: "Ludwig\'s angina is a type of cellulitis that involves which anatomical space?",
+      options: [
+        "The retropharyngeal space",
+        "The masseteric space",
+        "The sublingual space under the tongue",
+        "The parotid space"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11927,
+      question: "What is the most serious concern with Ludwig\'s angina?",
+      options: [
+        "Permanent damage to the tongue muscles",
+        "Blockage of the airway or inability to swallow",
+        "Spread to the brain through venous channels",
+        "Destruction of the mandibular bone"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11928,
+      question: "If a sublingual infection continues posteriorly past the mylohyoid muscle, which space will it reach?",
+      options: [
+        "The retropharyngeal space",
+        "The carotid sheath",
+        "The lateral pharyngeal space",
+        "The danger space"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11929,
+      question: "If an infection spreads from the lateral pharyngeal space to the retropharyngeal space and then to the posterior mediastinum, what is the likely outcome?",
+      options: [
+        "The infection will be contained by mediastinal fascia",
+        "It will drain externally through the chest wall",
+        "The person may die very quickly",
+        "Antibiotics will easily resolve the infection"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11930,
+      question: "Swelling in the cheek area is usually related to infection of which teeth?",
+      options: [
+        "Maxillary anterior teeth",
+        "Mandibular incisors",
+        "Maxillary posterior teeth",
+        "Mandibular canines"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11931,
+      question: "Swelling below the eye is characteristically associated with infection of which tooth?",
+      options: [
+        "Maxillary first premolar",
+        "Maxillary canine",
+        "Maxillary central incisor",
+        "Maxillary first molar"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11932,
+      question: "The retropharyngeal lymph nodes are primarily involved in what type of infection?",
+      options: [
+        "Dental infections from mandibular molars",
+        "Infections of the external ear",
+        "Throat infections",
+        "Scalp and facial skin infections"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11933,
+      question: "Where do the retropharyngeal nodes drain?",
+      options: [
+        "Directly into the thoracic duct",
+        "Into the submental nodes",
+        "To the upper deep cervical lymph nodes",
+        "Into the submandibular nodes first"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11934,
+      question: "Which of the following areas does NOT drain into the submandibular lymph nodes?",
       options: [
         "Maxillary sinus",
-        "Most of the tongue",
-        "Posterior nasal cavity",
-        "Anterior nasal cavity",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11462,
-      question: "What structure contains lymph vessels according to the document?",
-      options: [
-        "Tooth enamel",
-        "Tooth pulp",
-        "Cementum only",
-        "Dentin only",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11463,
-      question: "The lymphatic system collaborates with which other body areas beyond the head and neck?",
-      options: [
-        "Only the chest",
-        "Only the abdomen",
-        "Many other areas of the body",
-        "Only the extremities",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11464,
-      question: "Which lymphatic component includes the thymus, spleen, and Peyer's patches?",
-      options: [
-        "Local lymph nodes only",
-        "The broader collaborative lymphatic system throughout the body",
-        "The cervical lymph nodes exclusively",
-        "The oral lymphatic ring",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11465,
-      question: "What prevents lymph from flowing in the wrong direction within lymph nodes?",
-      options: [
-        "Muscle contractions",
-        "Valves",
-        "Blood pressure",
-        "Gravity",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11466,
-      question: "What cells are densely packed in lymph nodes to fight infection?",
-      options: [
-        "Red blood cells only",
-        "Platelets",
-        "B and T cells, macrophages, and plasma cells",
-        "Neutrophils only",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11467,
-      question: "How do lymph vessels enter and exit lymph nodes?",
-      options: [
-        "Lymph flows in through wide vessels and out through narrow vessels",
-        "Lymph flows in through narrow vessels and out through wide vessels",
-        "All vessels are the same size",
-        "Lymph doesn't actually flow through nodes",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11468,
-      question: "According to the document, what determines the pathway of fascial space infection spread?",
-      options: [
-        "The patient's age",
-        "The location of the infection",
-        "The time of day",
-        "The type of bacteria",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11469,
-      question: "What is the relationship between lymph nodes and the immune system?",
-      options: [
-        "Lymph nodes are separate from the immune system",
-        "Lymph nodes are part of the immune system",
-        "Lymph nodes suppress the immune system",
-        "Lymph nodes replace the immune system",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11470,
-      question: "Which space is involved in Ludwig's angina?",
-      options: [
-        "Buccal space",
-        "Sublingual space",
-        "Masseteric space",
-        "Parotid space",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11471,
-      question: "In dental infections, where does infection typically spread from the mandibular incisors?",
-      options: [
-        "To the buccal vestibule only",
-        "To the submental nodes",
-        "Directly to the throat",
-        "To the maxillary sinus",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11472,
-      question: "Which maxillary teeth are exceptions to the submandibular node drainage pattern?",
-      options: [
-        "Central incisors",
-        "First molars",
-        "Third molars",
-        "Canines",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11473,
-      question: "The document mentions that enlarged lymph nodes appear as what in clinical photographs?",
-      options: [
-        "Blue discoloration",
-        "Black spots",
-        "\"Swollen glands\" in the neck",
-        "White patches",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11474,
-      question: "What is lymphedema characterized by?",
-      options: [
-        "Increased blood flow to the area",
-        "Localized swelling from blocked lymph vessels",
-        "Decreased tissue temperature",
-        "Rapid weight loss",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11475,
-      question: "Which major lymphatic organs are part of the collaborative system?",
-      options: [
-        "Pancreas and gallbladder",
-        "Tonsils, adenoids, thymus, spleen, appendix, Peyer's patches",
-        "Kidneys and adrenal glands",
-        "Liver and stomach",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11476,
-      question: "What is the significance of the mylohyoid line in dental infections?",
-      options: [
-        "It has no clinical significance",
-        "It determines whether infection spreads above or below the muscle",
-        "It marks the location of salivary glands",
-        "It indicates tooth eruption patterns",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11477,
-      question: "When examining lymph nodes clinically, what indicates active infection?",
-      options: [
-        "Nodes are soft and mobile",
-        "Nodes are tender and enlarged",
-        "Nodes are undetectable",
-        "Nodes are cold to touch",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11478,
-      question: "Which fascial space is considered most dangerous for rapid infection spread?",
-      options: [
-        "Buccal space",
-        "Sublingual space",
-        "Retropharyngeal space",
-        "Canine space",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11479,
-      question: "What happens to lymph after it passes through the lower deep cervical nodes?",
-      options: [
-        "It is eliminated from the body",
-        "It returns to tissues",
-        "It enters the bloodstream via junction of subclavian and internal jugular veins",
-        "It travels to the brain",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11480,
-      question: "Where do most maxillary tooth infections initially spread?",
-      options: [
-        "To the palate only",
-        "To the buccal vestibule or palate",
-        "Directly to lymph nodes",
-        "To the sinus only",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11481,
-      question: "What is the primary route of cancer spread in oral malignancies?",
-      options: [
-        "Through blood vessels only",
-        "Through fascial spaces",
-        "Through lymphatic channels",
-        "Through nerve pathways",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11482,
-      question: "How does infection from mandibular first molar most commonly spread?",
-      options: [
-        "To submental space",
-        "To submandibular nodes or fascial spaces",
-        "Directly to bloodstream",
-        "To maxillary sinus",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11483,
-      question: "What clinical sign suggests that lymph nodes are functioning to combat infection?",
-      options: [
-        "They disappear",
-        "They become enlarged and tender",
-        "They turn blue",
-        "They become mobile",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11484,
-      question: "According to the document, the lymphatic system acts as which line of defense?",
-      options: [
-        "Primary line",
-        "Secondary line",
-        "Tertiary line",
-        "Final line",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11485,
-      question: "What type of fluid circulates in lymphatic vessels?",
-      options: [
-        "Blood plasma",
-        "Cerebrospinal fluid",
-        "Lymph",
-        "Synovial fluid",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11486,
-      question: "Where do infections from the base of the tongue typically drain?",
-      options: [
-        "To submental nodes",
-        "To submandibular nodes",
-        "To upper deep cervical nodes",
-        "Directly to bloodstream",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11487,
-      question: "What is the clinical importance of understanding fascial space anatomy?",
-      options: [
-        "It has no importance",
-        "It predicts the pathway and spread of dental infections",
-        "It only matters for orthodontics",
-        "It determines tooth color",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11488,
-      question: "Which mandibular teeth are exceptions to submandibular node drainage?",
-      options: [
-        "Incisors",
-        "First molars",
-        "Third molars",
-        "Second premolars",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11489,
-      question: "What happens when the lymphatic system is functioning properly?",
-      options: [
-        "Lymph is stored permanently in nodes",
-        "Lymph is eventually returned to the bloodstream",
-        "Lymph is excreted through sweat",
-        "Lymph remains in tissues",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11490,
-      question: "The posterior mediastinum is located in which region?",
-      options: [
-        "Behind the heart and between the lungs",
-        "In the abdomen",
-        "In the neck",
-        "Behind the eye",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11491,
-      question: "Why is the retropharyngeal space referred to as the \"danger space\"?",
-      options: [
-        "It is difficult to examine",
-        "Infections here can spread quickly to the mediastinum",
-        "It contains major blood vessels",
-        "It is prone to cancer only",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11492,
-      question: "Which muscle serves as an anatomical boundary for infection spread in the mandible?",
-      options: [
-        "Masseter muscle",
-        "Temporalis muscle",
-        "Mylohyoid muscle",
-        "Buccinator muscle",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11493,
-      question: "What can help visualize the location of fascial spaces?",
-      options: [
-        "Blood tests",
-        "Anatomical cross-sections showing muscle and tissue planes",
-        "Urine analysis",
-        "Genetic testing",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11494,
-      question: "What is the clinical significance of knowing lymphatic drainage patterns for oral cancer?",
-      options: [
-        "It has no significance",
-        "It helps predict metastatic spread and prognosis",
-        "It only matters for benign tumors",
-        "It determines tooth color",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11495,
-      question: "In the extraoral evaluation, what structures should be examined?",
-      options: [
-        "Only the teeth",
-        "Head and neck structures including lymph nodes",
-        "Only the eyes",
-        "Only the ears",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11496,
-      question: "Comprehensive study of this material should help you understand what?",
-      options: [
-        "Only basic anatomy",
-        "Only infection patterns",
-        "All content about lymphatics and spread of dental infections",
-        "Only surgical procedures",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11497,
-      question: "What determines whether a mandibular anterior tooth infection spreads above or below the mylohyoid muscle?",
-      options: [
-        "The age of the patient",
-        "The position of the root apex relative to the mylohyoid line",
-        "The time of day",
-        "The patient's diet",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11498,
-      question: "Which best describes the collaborative nature of the lymphatic system?",
-      options: [
-        "It works independently of other body systems",
-        "It only involves the head and neck",
-        "It involves many organs throughout the entire body",
-        "It only functions during infections",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11499,
-      question: "What is the recommended treatment for lymphedema?",
-      options: [
-        "Antibiotics only",
-        "Surgery is the only option",
-        "Compression devices and management techniques",
-        "No treatment is available",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11500,
-      question: "Which organ in the lymphatic system filters blood?",
-      options: [
-        "Liver",
-        "Kidneys",
-        "Spleen",
-        "Pancreas",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11501,
-      question: "Where is bone marrow located as part of the lymphatic system?",
-      options: [
-        "Only in the skull",
-        "In long bones as part of the lymphatic network",
-        "Only in the ribs",
-        "Bone marrow is not part of the lymphatic system",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11502,
-      question: "What happens to extracellular fluid in normal lymphatic circulation?",
-      options: [
-        "It remains in tissues permanently",
-        "It is absorbed by bones",
-        "It is picked up by lymphatic vessels, passed through nodes, returned to bloodstream",
-        "It evaporates through skin",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11503,
-      question: "How frequently does fluid exchange between capillaries and tissues occur?",
-      options: [
-        "Once per day",
-        "Only during exercise",
-        "Constantly repeating throughout life",
-        "Only during sleep",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11504,
-      question: "What can clinical palpation of submandibular nodes reveal?",
-      options: [
-        "Blood sugar levels",
-        "Infection presence through tenderness and enlargement",
-        "Vitamin deficiency",
-        "Hormone levels",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11505,
-      question: "The rapid tissue swelling that can block the airway is characteristic of which infection?",
-      options: [
-        "Cellulitis of the arm",
-        "Pharyngitis",
-        "Ludwig's angina",
-        "Tonsillitis",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11506,
-      question: "Which tissue space becomes involved when mandibular molar infections spread below the mylohyoid muscle?",
-      options: [
-        "Buccal space",
-        "Temporal space",
-        "Submental space",
-        "Pterygoid space",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11507,
-      question: "What is the typical progression pathway for a dental infection starting at the tooth apex?",
-      options: [
-        "Directly to the brain",
-        "Through bone to lymph nodes or fascial spaces",
-        "Only to adjacent teeth",
-        "Through blood vessels immediately",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11508,
-      question: "Which is true about oral cancer spread through lymph nodes?",
-      options: [
-        "Cancers bypass lymph nodes completely",
-        "Each lymph node group acts as a barrier",
-        "Lymph nodes accelerate cancer spread",
-        "Lymph nodes have no effect on cancer",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11509,
-      question: "Where are the tonsils and adenoids in relation to the lymphatic system?",
-      options: [
-        "They are not part of the lymphatic system",
-        "In the oral cavity and nasopharynx as part of lymphatic defense",
-        "Only in the chest",
-        "In the abdomen",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11510,
-      question: "If an infection breaks through the buccal mucosa in the vestibule, what is the most likely outcome?",
-      options: [
-        "It spreads to the brain",
-        "It drains into the oral cavity",
-        "It immediately enters the bloodstream",
-        "It becomes permanently walled off",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11511,
-      question: "What prevents lymph from flowing backward in the lymphatic system?",
-      options: [
-        "Muscle contractions only",
-        "Valves in the lymphatic vessels",
-        "Blood pressure",
-        "Gravity alone",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11512,
-      question: "What type of cells accumulate in lymph nodes to fight infection?",
-      options: [
-        "Only red blood cells",
-        "Only platelets",
-        "B and T lymphocytes, macrophages, and plasma cells",
-        "Only neutrophils",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11513,
-      question: "According to the document, comprehensive study should enable you to do what?",
-      options: [
-        "Perform surgery",
-        "Prescribe medications",
-        "Understand all content about lymphatics and dental infection spread",
-        "Diagnose all diseases",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11514,
-      question: "Which anatomical structure is NOT mentioned as draining to submandibular nodes?",
-      options: [
-        "Cheek area",
-        "Hard palate",
-        "Soft palate",
         "Floor of mouth",
+        "Posterior nasal cavity",
+        "Hard palate"
       ],
       correct: "C"
     },
     {
-      id: 11515,
-      question: "What is the first group of lymph nodes that cervical infections typically encounter?",
+      id: 11935,
+      question: "How many groups of lymph nodes must an infection from the frontal lower lip pass through in sequence?",
       options: [
-        "Primary nodes in the affected drainage area",
-        "Secondary nodes",
-        "Tertiary nodes",
-        "Lower deep cervical nodes",
+        "Two groups: submental then upper deep cervical",
+        "Three groups: submental, submandibular, then upper deep cervical",
+        "Four groups including the lower deep cervical nodes",
+        "Five groups before reaching the bloodstream"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11936,
+      question: "The lymphatic system can be described as having what type of structural organization?",
+      options: [
+        "A series of isolated nodes with no interconnections",
+        "Random distribution with unpredictable drainage patterns",
+        "Tiny channels connecting nodular structures called lymph nodes",
+        "Large vessels similar in structure to major arteries"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11937,
+      question: "Why is the distribution pattern of lymph vessels useful as a diagnostic tool?",
+      options: [
+        "It helps identify vitamin deficiencies in patients",
+        "It aids in studying oral infections and slowing cancer spread",
+        "It determines tooth eruption patterns in children",
+        "It predicts the likelihood of dental caries formation"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11938,
+      question: "What happens to lymph when the lymphatic system functions properly?",
+      options: [
+        "It accumulates in tissues causing permanent swelling",
+        "It is filtered through the kidneys and excreted",
+        "It is eventually returned to the bloodstream",
+        "It is stored in lymph nodes indefinitely"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11939,
+      question: "Lymph nodes grouped into clusters perform what function?",
+      options: [
+        "Each group drains fluid from certain structures or tissue areas",
+        "They all drain the same anatomical regions redundantly",
+        "They produce hormones for tissue growth",
+        "They store excess nutrients for cellular metabolism"
       ],
       correct: "A"
     },
     {
-      id: 11516,
-      question: "When does lymph fluid officially become \"lymph\"?",
+      id: 11940,
+      question: "What clinical sign would indicate that lymph nodes are responding to infection?",
       options: [
-        "When it leaves the capillaries",
-        "When it enters tissue spaces",
-        "When it is in the lymphatic system",
-        "When it reaches lymph nodes",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11517,
-      question: "What is the process called when tissue fluid is picked up by lymphatic vessels?",
-      options: [
-        "Filtration",
-        "Osmosis",
-        "Lymphatic drainage",
-        "Diffusion",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11518,
-      question: "Which structure marks approximately 2 inches below the ear for upper deep cervical nodes?",
-      options: [
-        "Hyoid bone",
-        "Sternocleidomastoid muscle border",
-        "Thyroid cartilage",
-        "Clavicle",
+        "The nodes become smaller and harder",
+        "The nodes become tender and enlarged",
+        "The nodes become mobile and painless",
+        "The nodes disappear completely"
       ],
       correct: "B"
     },
     {
-      id: 11519,
-      question: "What happens if Ludwig's angina is left untreated?",
+      id: 11941,
+      question: "Which body structure is also part of the lymphatic system beyond the head and neck?",
       options: [
-        "It resolves spontaneously",
-        "It causes minor discomfort",
-        "It can block the airway leading to death",
-        "It only affects speech",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11520,
-      question: "The junction of subclavian and internal jugular veins is the final drainage point for which nodes?",
-      options: [
-        "Submental nodes",
-        "Submandibular nodes",
-        "Upper deep cervical nodes",
-        "Lower deep cervical nodes",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11521,
-      question: "Which infection route is less common but more dramatic clinically?",
-      options: [
-        "Lymphatic channel spread",
-        "Blood vessel spread",
-        "Fascial space spread",
-        "Neural pathway spread",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11522,
-      question: "How many areas drain into the submandibular nodes?",
-      options: [
-        "Three",
-        "Five",
-        "Nine",
-        "Twelve",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11523,
-      question: "What component of blood plasma flows out of capillaries to become extracellular fluid?",
-      options: [
-        "Red blood cells",
-        "White blood cells",
-        "Filtrate",
-        "Platelets",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11524,
-      question: "Which nodes are located approximately 2 inches above the clavicle?",
-      options: [
-        "Submental nodes",
-        "Submandibular nodes",
-        "Upper deep cervical nodes",
-        "Lower deep cervical nodes",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11525,
-      question: "What is the consequence of infection reaching the lower deep cervical nodes and passing through?",
-      options: [
-        "The infection stops",
-        "The infection reverses",
-        "Entry into the bloodstream occurs",
-        "The infection becomes dormant",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11526,
-      question: "According to the document, which provides the most barriers against tongue tip cancer?",
-      options: [
-        "Immediate entry to bloodstream",
-        "Two node groups",
-        "Three node groups",
-        "Four node groups",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11527,
-      question: "What part of the tooth contains lymph vessels?",
-      options: [
-        "Enamel",
-        "Pulp",
-        "Dentin",
-        "Cementum",
+        "The liver and gallbladder",
+        "Tonsils, thymus, spleen, and bone marrow",
+        "The kidneys and adrenal glands",
+        "The pancreas and small intestine"
       ],
       correct: "B"
     },
     {
-      id: 11528,
-      question: "Where would you palpate to examine submandibular lymph nodes?",
+      id: 11942,
+      question: "The concept of primary, secondary, and tertiary nodes is important for understanding what?",
       options: [
-        "Under the chin",
-        "Behind the ear",
-        "Near the angle of mandible",
-        "Above the clavicle",
+        "The size classification of lymph nodes",
+        "The age at which lymph nodes develop",
+        "How infections and cancers spread through lymphatic channels",
+        "Which nodes produce the most lymphocytes"
       ],
       correct: "C"
     },
     {
-      id: 11529,
-      question: "Which maxillary teeth do NOT typically drain to submandibular nodes?",
+      id: 11943,
+      question: "Each barrier of lymph nodes in a drainage sequence does what to cancer spread?",
       options: [
-        "Incisors",
-        "Canines",
-        "Third molars",
-        "First molars",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11530,
-      question: "What is the significance of identifying which lymph nodes are enlarged during examination?",
-      options: [
-        "No clinical significance",
-        "Helps locate the source of infection",
-        "Only important for cancer",
-        "Only matters in children",
+        "Completely blocks any further spread permanently",
+        "Slows the spread of cancer progression",
+        "Accelerates metastasis to distant sites",
+        "Has no effect on cancer cell movement"
       ],
       correct: "B"
     },
     {
-      id: 11531,
-      question: "The retropharyngeal space can lead infection to which dangerous area?",
+      id: 11944,
+      question: "Why don\'t disease processes always have to pass through all node groups?",
       options: [
-        "The brain",
-        "The eye",
-        "The posterior mediastinum",
-        "The ear",
+        "Some infections are too weak to continue spreading",
+        "The immune system destroys all pathogens at the first node",
+        "Disease can be stopped before reaching tertiary nodes",
+        "Only bacterial infections follow the node pathway"
       ],
       correct: "C"
     },
     {
-      id: 11532,
-      question: "Which best describes the function of the mylohyoid muscle in infection spread?",
+      id: 11945,
+      question: "What describes the pathway of most common buccal vestibule infections?",
       options: [
-        "It has no role",
-        "It acts as an anatomical divider determining spread direction",
-        "It prevents all infection spread",
-        "It only affects maxillary teeth",
+        "They spread deep into fascial spaces requiring surgery",
+        "The infection comes to a head and breaks through the mucosa",
+        "They always require systemic antibiotics to resolve",
+        "They spread to the brain through venous channels"
       ],
       correct: "B"
-    },
-    {
-      id: 11533,
-      question: "What does the document indicate about comprehensively studying these questions?",
-      options: [
-        "It covers only basic concepts",
-        "It covers only advanced topics",
-        "It covers all document content on lymphatics and dental infection spread",
-        "It covers only surgical techniques",
-      ],
-      correct: "C"
-    },
+    }
+  
   ],
-  "5. Cranial Nerves": [    {
+  "11. Cranial Nerves (Part 1)": [    {
       id: 11600,
       question: "What is a neuron responsible for?",
       options: [
@@ -10858,1603 +9893,846 @@ export const questions = {
       correct: "A"
     },
   ],
-  "5-1. Cranial Nerves": [    {
-      id: 11600,
-      question: "What is a neuron responsible for?",
+  "12. Cranial Nerves (Part 2)": [
+    {
+      id: 12000,
+      question: "Neurons are responsible for transmitting messages or impulses in which characteristic manner?",
       options: [
-        "Transmitting messages or impulses",
-        "Storing energy in muscles",
-        "Producing hormones",
-        "Filtering blood",
+        "They travel in only one direction through the nervous system",
+        "They can reverse direction based on signal strength",
+        "They travel bidirectionally to enhance communication efficiency",
+        "They move randomly until reaching their target destination"
       ],
       correct: "A"
     },
     {
-      id: 11601,
-      question: "What is a sensory (afferent) neuron?",
+      id: 12001,
+      question: "What term describes messages carried from outer parts of the body towards the brain?",
       options: [
-        "Carries messages from brain to body parts",
-        "Carries messages from outer parts of body towards the brain",
-        "Stores messages for later use",
-        "Destroys harmful messages",
+        "Efferent or motor pathways",
+        "Sensory or afferent pathways",
+        "Autonomic or involuntary pathways",
+        "Somatic or voluntary pathways"
       ],
       correct: "B"
     },
     {
-      id: 11602,
-      question: "What is a motor (efferent) neuron?",
+      id: 12002,
+      question: "Motor (efferent) nerves carry messages in which direction and typically cause what result?",
       options: [
-        "Carries messages from body to brain",
-        "Stops all nerve transmission",
-        "Carries messages from brain towards parts of the body",
-        "Only functions during sleep",
+        "From body to brain, usually triggering sensory awareness",
+        "Between neurons only, causing synaptic transmission",
+        "From brain to body parts, usually causing an action",
+        "Within the spinal cord, causing reflex responses"
       ],
       correct: "C"
     },
     {
-      id: 11603,
-      question: "In which direction do neurons transmit messages?",
+      id: 12003,
+      question: "The Central Nervous System (CNS) consists of which two main components?",
       options: [
-        "In both directions simultaneously",
-        "In random directions",
-        "In circular patterns",
-        "In only one direction",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11604,
-      question: "What does the Central Nervous System (CNS) consist of?",
-      options: [
-        "Brain and spinal column",
-        "Only the spinal column",
-        "Peripheral nerves only",
-        "Only the brain",
+        "The brain and spinal column",
+        "The cranial and spinal nerves",
+        "The sympathetic and parasympathetic systems",
+        "The somatic and autonomic divisions"
       ],
       correct: "A"
     },
     {
-      id: 11605,
-      question: "What makes up the Peripheral Nervous System (PNS)?",
+      id: 12004,
+      question: "The Peripheral Nervous System (PNS) is composed of which structures?",
       options: [
-        "Only cranial nerves",
+        "Only the twelve pairs of cranial nerves",
+        "The brain, spinal cord, and autonomic system",
         "Nerves extending from brain and spinal cord, and the ANS",
-        "Brain and spinal cord only",
-        "Only the autonomic nervous system",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11606,
-      question: "What is a reflex arc?",
-      options: [
-        "A long pathway through the entire nervous system",
-        "A muscle contraction",
-        "A shortcut in the CNS that bypasses the brain",
-        "A sensory organ",
+        "The sensory receptors and motor effectors exclusively"
       ],
       correct: "C"
     },
     {
-      id: 11607,
-      question: "Where are the cranial nerves located?",
+      id: 12005,
+      question: "Cranial nerves are classified as part of which nervous system division?",
       options: [
-        "Only in the brain stem",
-        "In the spinal cord",
-        "In the autonomic nervous system",
-        "In the peripheral nervous system",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11608,
-      question: "What is the function of a reflex arc in relation to pain?",
-      options: [
-        "Reflex action occurs before pain is interpreted by the brain",
-        "It delays the response to pain",
-        "It makes pain more intense",
-        "It prevents all pain sensation",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11609,
-      question: "In the pain response pathway, what happens at step 2?",
-      options: [
-        "Message travels down spinal cord",
-        "Pain receptor nerve ending senses pain and carries message to spinal cord",
-        "Brain recognizes pain",
-        "Muscle pulls finger away",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11610,
-      question: "The Somatic Nervous System is part of which major nervous system division?",
-      options: [
-        "Autonomic Nervous System only",
-        "Central Nervous System",
-        "Peripheral Nervous System",
-        "Reflex Nervous System",
+        "The Central Nervous System exclusively",
+        "The Autonomic Nervous System",
+        "The Peripheral Nervous System",
+        "The Enteric Nervous System"
       ],
       correct: "C"
     },
     {
-      id: 11611,
-      question: "What does the Somatic Nervous System control?",
+      id: 12006,
+      question: "What is a reflex arc within the Central Nervous System?",
       options: [
-        "Only glands",
-        "Only internal organs",
-        "Only heart rate",
-        "Skeletal muscles and sends sensory information to CNS",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11612,
-      question: "The Autonomic Nervous System controls which type of muscle?",
-      options: [
-        "Smooth muscle and glands",
-        "Skeletal muscle only",
-        "Voluntary muscles only",
-        "Cardiac muscle only",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11613,
-      question: "What are the three divisions of the Autonomic Nervous System?",
-      options: [
-        "Motor, sensory, and mixed",
-        "Sympathetic, parasympathetic, and enteric",
-        "Cranial, spinal, and peripheral",
-        "Somatic, reflex, and central",
+        "A complex pathway requiring conscious brain interpretation",
+        "A built-in shortcut that bypasses the brain",
+        "A pathway that only processes sensory information",
+        "A system that requires multiple synaptic connections"
       ],
       correct: "B"
     },
     {
-      id: 11614,
-      question: "How many pairs of cranial nerves are there?",
+      id: 12007,
+      question: "In a reflex arc, what allows the reflex action to occur before conscious pain recognition?",
       options: [
-        "10 pairs",
-        "11 pairs",
-        "12 pairs",
-        "13 pairs",
+        "The brain processes information at accelerated speed",
+        "Pain receptors are temporarily blocked during reflexes",
+        "A shorter neural pathway runs between sensory and motor neurons",
+        "Motor neurons fire before receiving complete sensory input"
       ],
       correct: "C"
     },
     {
-      id: 11615,
-      question: "Where do cranial nerves attach?",
+      id: 12008,
+      question: "The Somatic Nervous System is responsible for which primary functions?",
       options: [
-        "To peripheral nerves",
-        "To the spinal cord only",
-        "To muscles only",
-        "Directly to the brain",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11616,
-      question: "What numbering system is used for cranial nerves?",
-      options: [
-        "Roman numerals",
-        "Arabic numerals",
-        "Alphabetical letters",
-        "Greek letters",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11617,
-      question: "Which mnemonic can help remember the cranial nerves?",
-      options: [
-        "\"All Good Children Do Fine\"",
-        "\"On Old Olympus' Towering Top, A Friendly Viking Grew Vines And Hops\"",
-        "\"Never Eat Soggy Waffles\"",
-        "\"King Philip Came Over For Good Soup\"",
+        "Controlling heart rate and digestion exclusively",
+        "Sending sensory info to CNS and motor signals to skeletal muscles",
+        "Regulating smooth muscle contractions throughout the body",
+        "Managing involuntary gland secretions and visceral responses"
       ],
       correct: "B"
     },
     {
-      id: 11618,
-      question: "What is the function of Cranial Nerve I (Olfactory)?",
+      id: 12009,
+      question: "Which division of the Peripheral Nervous System controls smooth muscle and glands?",
       options: [
-        "Vision",
-        "Hearing",
+        "The Somatic Nervous System",
+        "The Central Nervous System",
+        "The Autonomic Nervous System",
+        "The Sensory Nervous System"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12010,
+      question: "How many pairs of cranial nerves exist in the human nervous system?",
+      options: [
+        "Eight pairs numbered with Roman numerals",
+        "Ten pairs numbered with Arabic numerals",
+        "Twelve pairs numbered with Roman numerals",
+        "Fourteen pairs numbered with Arabic numerals"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12011,
+      question: "Cranial nerves attach directly to which structure in the nervous system?",
+      options: [
+        "The spinal cord at various levels",
+        "The brain itself",
+        "The peripheral ganglia exclusively",
+        "The autonomic nerve plexuses"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12012,
+      question: "Cranial Nerve I (Olfactory) is responsible for which sensory function?",
+      options: [
+        "Taste perception from the tongue",
+        "Vision and light detection",
         "Sense of smell",
-        "Taste",
+        "Hearing and sound processing"
       ],
       correct: "C"
     },
     {
-      id: 11619,
-      question: "What type of nerve is the Olfactory Nerve (I)?",
+      id: 12013,
+      question: "What functional deficit results from damage to the Olfactory Nerve (CN I)?",
       options: [
-        "Neither motor nor sensory",
-        "Motor only",
-        "Both motor and sensory",
-        "Sensory only",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11620,
-      question: "What happens if the Olfactory Nerve is damaged?",
-      options: [
+        "Complete loss of taste sensation",
         "Impaired sense of smell",
-        "Loss of hearing",
-        "Paralysis of facial muscles",
-        "Loss of vision",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11621,
-      question: "What is the function of Cranial Nerve II (Optic)?",
-      options: [
-        "Smell",
-        "Provides vision",
-        "Hearing",
-        "Eye movement",
+        "Blindness in the affected visual field",
+        "Loss of facial sensation"
       ],
       correct: "B"
     },
     {
-      id: 11622,
-      question: "What type of nerve is the Optic Nerve (II)?",
+      id: 12014,
+      question: "Cranial Nerve II (Optic) provides which essential sensory function?",
       options: [
-        "Autonomic only",
-        "Motor only",
-        "Sensory only",
-        "Both motor and sensory",
+        "Hearing and auditory processing",
+        "Balance and spatial orientation",
+        "Vision and visual perception",
+        "Smell and olfactory detection"
       ],
       correct: "C"
     },
     {
-      id: 11623,
-      question: "Damage to the Optic Nerve causes what?",
+      id: 12015,
+      question: "Damage to the Optic Nerve (CN II) results in which clinical finding?",
       options: [
-        "Loss of smell",
-        "Hearing loss",
-        "Double vision",
-        "Blindness in visual field",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11624,
-      question: "What is the function of Cranial Nerve III (Oculomotor)?",
-      options: [
-        "Eye movement and pupil constriction",
-        "Hearing",
-        "Facial sensation",
-        "Sense of smell",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11625,
-      question: "What type of nerve is the Oculomotor Nerve (III)?",
-      options: [
-        "Autonomic only",
-        "Motor only",
-        "Mixed sensory and motor",
-        "Sensory only",
+        "Loss of eye movement coordination",
+        "Blindness in the visual field",
+        "Pupil dilation without light response",
+        "Drooping of the upper eyelid"
       ],
       correct: "B"
     },
     {
-      id: 11626,
-      question: "Which muscles does the Oculomotor Nerve control?",
+      id: 12016,
+      question: "The Oculomotor Nerve (CN III) controls which eye-related functions?",
       options: [
-        "All extraocular muscles",
-        "Lateral rectus muscle only",
-        "Superior, inferior, medial rectus muscles and inferior oblique muscle",
-        "Superior oblique muscle only",
+        "Only lateral eye movements and pupil dilation",
+        "Eye movement, eyelid opening, pupil constriction, and focusing",
+        "Exclusively downward and inward eye rotation",
+        "Only the muscles controlling peripheral vision"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12017,
+      question: "Which clinical signs indicate damage to the Oculomotor Nerve (CN III)?",
+      options: [
+        "Inability to close the eye and dilated pupil",
+        "Drooping eyelid, dilated pupil, double vision, and impaired eye movement",
+        "Complete blindness and loss of light perception",
+        "Constricted pupil and excessive tearing"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12018,
+      question: "The Trochlear Nerve (CN IV) innervates which specific eye muscle?",
+      options: [
+        "The lateral rectus muscle exclusively",
+        "The inferior oblique muscle only",
+        "The superior oblique muscle",
+        "All six extraocular muscles equally"
       ],
       correct: "C"
     },
     {
-      id: 11627,
-      question: "Damage to the Oculomotor Nerve causes which symptom?",
+      id: 12019,
+      question: "What visual problem occurs with Trochlear Nerve (CN IV) damage?",
       options: [
-        "Loss of taste",
-        "Deafness",
-        "Blindness",
-        "Drooping eyelid, dilated pupil, double vision",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11628,
-      question: "What is the function of Cranial Nerve IV (Trochlear)?",
-      options: [
-        "Eye movement via superior oblique muscle",
-        "Pupil constriction",
-        "Eyelid opening",
-        "Vision",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11629,
-      question: "What type of nerve is the Trochlear Nerve (IV)?",
-      options: [
-        "Autonomic only",
-        "Motor only",
-        "Both motor and sensory",
-        "Sensory only",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11630,
-      question: "Damage to the Trochlear Nerve causes what?",
-      options: [
-        "Complete eye paralysis",
-        "Drooping eyelid",
+        "Complete blindness in one eye",
         "Double vision and inability to rotate eye inferolaterally",
-        "Blindness",
+        "Loss of peripheral vision fields",
+        "Inability to focus on near objects"
       ],
-      correct: "C"
+      correct: "B"
     },
     {
-      id: 11631,
-      question: "How many divisions does the Trigeminal Nerve (V) have?",
+      id: 12020,
+      question: "The Trigeminal Nerve (CN V) is unique because it has how many divisions?",
       options: [
-        "5 divisions",
-        "2 divisions",
-        "4 divisions",
-        "3 divisions",
+        "Two divisions serving different facial regions",
+        "Three divisions with distinct distribution patterns",
+        "Four divisions covering the entire head",
+        "Five divisions corresponding to facial segments"
       ],
-      correct: "D"
+      correct: "B"
     },
     {
-      id: 11632,
-      question: "What type of nerve is the Trigeminal Nerve (V)?",
+      id: 12021,
+      question: "Which functions are impaired when the Trigeminal Nerve (CN V) is damaged?",
       options: [
-        "Both motor and sensory",
-        "Motor only",
-        "Autonomic only",
-        "Sensory only",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11633,
-      question: "Damage to the Trigeminal Nerve produces what?",
-      options: [
-        "Loss of smell",
+        "Facial expressions and tear production",
+        "Eye movements and pupil constriction",
         "Loss of sensation and impaired chewing",
-        "Blindness",
-        "Deafness",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11634,
-      question: "Which branch of the Trigeminal Nerve is V1?",
-      options: [
-        "Facial branch",
-        "Maxillary branch",
-        "Ophthalmic branch",
-        "Mandibular branch",
+        "Hearing and balance disturbances"
       ],
       correct: "C"
     },
     {
-      id: 11635,
-      question: "What does the Ophthalmic branch (V1) provide sensation from?",
+      id: 12022,
+      question: "The Ophthalmic branch (V1) of the Trigeminal Nerve provides sensation to which areas?",
       options: [
-        "Lower jaw",
-        "Teeth",
-        "Tongue",
-        "Nasal cavity, forehead, upper eyelid, eyebrow, nose",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11636,
-      question: "Through which opening does the Ophthalmic branch (V1) enter the skull?",
-      options: [
-        "Superior orbital fissure",
-        "Foramen rotundum",
-        "Inferior orbital fissure",
-        "Foramen ovale",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11637,
-      question: "How many subdivisions does the Ophthalmic branch (V1) have?",
-      options: [
-        "5 subdivisions",
-        "3 subdivisions",
-        "2 subdivisions",
-        "4 subdivisions",
+        "Lower eyelid, upper lip, and maxillary teeth",
+        "Nasal cavity, forehead skin, upper eyelid, and eyebrow",
+        "Mandibular teeth, lower lip, and chin region",
+        "Tongue, palate, and pharyngeal structures"
       ],
       correct: "B"
     },
     {
-      id: 11638,
-      question: "What are the three branches of V1 (Ophthalmic)?",
+      id: 12023,
+      question: "Which structures receive sensory innervation from the Maxillary branch (V2)?",
       options: [
-        "Superior, middle, inferior alveolar",
-        "Mental, incisive, buccal",
-        "Lacrimal, frontal, nasociliary",
-        "Temporal, zygomatic, mandibular",
+        "Forehead skin, upper eyelid, and nasal tip",
+        "Mandibular teeth, tongue, and lower gums",
+        "Lower eyelid, upper lips and gums, maxillary teeth, and palate",
+        "Temporal region, external ear, and jaw joint"
       ],
       correct: "C"
     },
     {
-      id: 11639,
-      question: "Which branch of the Trigeminal Nerve is V2?",
+      id: 12024,
+      question: "The Mandibular branch (V3) is distinct from other Trigeminal divisions because it provides what?",
       options: [
-        "Cervical branch",
-        "Ophthalmic branch",
-        "Mandibular branch",
-        "Maxillary branch",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11640,
-      question: "What does the Maxillary branch (V2) provide sensation from?",
-      options: [
-        "Lower eyelid, upper lips and gums, maxillary teeth, cheek, nose, palate",
-        "Forehead and scalp",
-        "Tongue only",
-        "Lower teeth and jaw",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11641,
-      question: "Through which opening does the Maxillary branch (V2) enter the skull?",
-      options: [
-        "Jugular foramen",
-        "Foramen rotundum",
-        "Superior orbital fissure",
-        "Foramen ovale",
+        "Only sensory innervation to facial structures",
+        "Both sensory and motor functions",
+        "Exclusively motor control of eye muscles",
+        "Only autonomic innervation to glands"
       ],
       correct: "B"
     },
     {
-      id: 11642,
+      id: 12025,
+      question: "Which muscles receive motor innervation from the Mandibular division (V3)?",
+      options: [
+        "Muscles of facial expression exclusively",
+        "Extraocular muscles controlling eye movement",
+        "Temporalis and masseter muscles for mastication",
+        "Pharyngeal muscles for swallowing"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12026,
+      question: "The Maxillary branch (V2) enters the skull through which foramen?",
+      options: [
+        "The superior orbital fissure",
+        "The foramen ovale",
+        "The foramen rotundum",
+        "The inferior orbital fissure"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12027,
       question: "How many branches does the Maxillary division (V2) divide into?",
       options: [
-        "3 branches",
-        "4 branches",
-        "6 branches",
-        "8 branches",
+        "Three main branches",
+        "Four main branches",
+        "Six main branches",
+        "Eight main branches"
       ],
       correct: "C"
     },
     {
-      id: 11643,
-      question: "Which is NOT a branch of the Maxillary division (V2)?",
+      id: 12028,
+      question: "The Mandibular branch (V3) enters the skull through which opening?",
       options: [
-        "Zygomatic Nerve",
-        "Infraorbital Nerve",
-        "Posterior Superior Alveolar Nerve",
-        "Lingual Nerve",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11644,
-      question: "Which branch of the Trigeminal Nerve is V3?",
-      options: [
-        "Mandibular branch",
-        "Facial branch",
-        "Maxillary branch",
-        "Ophthalmic branch",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11645,
-      question: "What makes the Mandibular division (V3) unique?",
-      options: [
-        "It has no subdivisions",
-        "It is both sensory and motor",
-        "It is motor only",
-        "It is sensory only",
+        "The foramen rotundum",
+        "The foramen ovale",
+        "The superior orbital fissure",
+        "The jugular foramen"
       ],
       correct: "B"
     },
     {
-      id: 11646,
-      question: "Through which opening does the Mandibular branch (V3) enter the skull?",
+      id: 12029,
+      question: "The Abducens Nerve (CN VI) provides motor control to which eye muscle?",
       options: [
-        "Foramen magnum",
-        "Superior orbital fissure",
-        "Foramen ovale",
-        "Foramen rotundum",
+        "The medial rectus muscle for inward gaze",
+        "The superior oblique muscle for downward rotation",
+        "The lateral rectus muscle for outward movement",
+        "The inferior rectus muscle for downward gaze"
       ],
       correct: "C"
     },
     {
-      id: 11647,
-      question: "How many main divisions does the Mandibular branch (V3) have?",
+      id: 12030,
+      question: "What clinical finding indicates Abducens Nerve (CN VI) damage?",
       options: [
-        "3 divisions",
-        "1 division",
-        "4 divisions",
-        "2 divisions - anterior and posterior",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11648,
-      question: "Which nerve is part of the posterior division of V3?",
-      options: [
-        "Lingual nerve",
-        "Frontal nerve",
-        "Lacrimal nerve",
-        "Zygomatic nerve",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11649,
-      question: "What does the Mandibular division (V3) provide motor function to?",
-      options: [
-        "Neck muscles only",
-        "Temporalis and masseter muscles (muscles of mastication)",
-        "Eye muscles",
-        "Facial expression muscles",
+        "Drooping eyelid and dilated pupil",
+        "Inability to rotate eye laterally; at rest eye rotates medially",
+        "Complete loss of vision in affected eye",
+        "Double vision only when looking upward"
       ],
       correct: "B"
     },
     {
-      id: 11650,
-      question: "The Trigeminal Nerve provides sensory innervation from which structure?",
+      id: 12031,
+      question: "The Facial Nerve (CN VII) provides motor control for which primary function?",
       options: [
-        "Scalp only",
-        "Eyes only",
-        "All teeth",
-        "Ears only",
+        "Muscles of mastication and jaw movement",
+        "Eye movements and pupillary responses",
+        "Facial expressions and mimetic muscles",
+        "Tongue movements for speech"
       ],
       correct: "C"
     },
     {
-      id: 11651,
-      question: "What portion of the tongue receives sensation from the Trigeminal Nerve?",
+      id: 12032,
+      question: "Which sensory function does the Facial Nerve (CN VII) provide?",
       options: [
-        "Base of tongue only",
-        "Posterior third",
-        "Entire tongue",
-        "Anterior two-thirds",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11652,
-      question: "Which nerve provides motor function to the tensor veli palatini?",
-      options: [
-        "Trigeminal nerve",
-        "Glossopharyngeal nerve",
-        "Vagus nerve",
-        "Facial nerve",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11653,
-      question: "What is the function of Cranial Nerve VI (Abducens)?",
-      options: [
-        "Provides vision",
-        "Eye movement via lateral rectus muscle",
-        "Opens eyelid",
-        "Constricts pupil",
+        "Pain and temperature from the entire face",
+        "Taste from anterior two-thirds of tongue",
+        "Proprioception from jaw muscles",
+        "Touch sensation from the scalp"
       ],
       correct: "B"
     },
     {
-      id: 11654,
-      question: "What type of nerve is the Abducens Nerve (VI)?",
+      id: 12033,
+      question: "The Facial Nerve (CN VII) controls which glands through autonomic motor function?",
       options: [
-        "Both motor and sensory",
-        "Sensory only",
-        "Motor only",
-        "Autonomic only",
+        "Thyroid and parathyroid glands",
+        "Salivary and lacrimal glands, plus nasal mucous membranes",
+        "Sweat glands across the entire body",
+        "Adrenal glands and pancreatic secretions"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12034,
+      question: "What taste sensations are lost when the Facial Nerve (CN VII) is damaged?",
+      options: [
+        "Bitter and sour tastes exclusively",
+        "Sweet and salty taste perception",
+        "All taste sensations from entire tongue",
+        "Only metallic and umami tastes"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12035,
+      question: "How does the Facial Nerve (CN VII) differ anatomically from the Trigeminal Nerve (CN V)?",
+      options: [
+        "The Facial Nerve is deeper and more protected",
+        "The Facial Nerve is more superficial than CN V",
+        "Both nerves follow identical pathways",
+        "The Facial Nerve travels only through bone canals"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12036,
+      question: "The Vestibulocochlear Nerve (CN VIII) has two branches serving which functions?",
+      options: [
+        "Taste and smell sensation",
+        "Hearing (cochlear) and balance (vestibular)",
+        "Eye movement and pupil control",
+        "Facial sensation and motor control"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12037,
+      question: "What symptoms indicate damage to the Vestibulocochlear Nerve (CN VIII)?",
+      options: [
+        "Loss of facial expression and taste",
+        "Deafness, dizziness, nausea, loss of balance, and nystagmus",
+        "Blindness and impaired eye movements",
+        "Difficulty swallowing and hoarseness"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12038,
+      question: "The Glossopharyngeal Nerve (CN IX) provides taste sensation to which tongue region?",
+      options: [
+        "The anterior two-thirds of the tongue",
+        "The entire tongue uniformly",
+        "The posterior one-third of the tongue",
+        "Only the tongue tip and margins"
       ],
       correct: "C"
     },
     {
-      id: 11655,
-      question: "Damage to the Abducens Nerve results in what?",
+      id: 12039,
+      question: "Which motor functions are controlled by the Glossopharyngeal Nerve (CN IX)?",
       options: [
-        "Drooping eyelid",
-        "Dilated pupil",
-        "Blindness",
-        "Inability to rotate eye laterally",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11656,
-      question: "What is a major function of Cranial Nerve VII (Facial)?",
-      options: [
-        "Facial expressions",
-        "Chewing",
-        "Hearing",
-        "Eye movement",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11657,
-      question: "What type of nerve is the Facial Nerve (VII)?",
-      options: [
-        "Autonomic only",
-        "Both motor and sensory",
-        "Sensory only",
-        "Motor only",
+        "Facial expressions and eye movements",
+        "Swallowing, voice production, and pharyngeal muscle control",
+        "Tongue protrusion and lateral movement",
+        "Jaw closing and mastication"
       ],
       correct: "B"
     },
     {
-      id: 11658,
-      question: "The Facial Nerve provides taste sensation to which part of the tongue?",
+      id: 12040,
+      question: "What taste sensations are lost with Glossopharyngeal Nerve (CN IX) damage?",
       options: [
-        "Base of tongue",
-        "Entire tongue",
-        "Anterior two-thirds",
-        "Posterior third",
+        "Sweet and salty taste perception",
+        "All taste sensations completely",
+        "Bitter and sour taste detection",
+        "Only umami taste recognition"
       ],
       correct: "C"
     },
     {
-      id: 11659,
-      question: "What autonomic function does the Facial Nerve control?",
+      id: 12041,
+      question: "The Vagus Nerve (CN X) provides sensory innervation to which extensive areas?",
       options: [
-        "Pupil size",
-        "Bronchi diameter",
-        "Heart rate only",
-        "Salivary and lacrimal glands",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11660,
-      question: "Damage to the Facial Nerve produces what?",
-      options: [
-        "Sagging facial muscles and disturbed taste (no sweet and salty)",
-        "Deafness",
-        "Inability to chew",
-        "Blindness",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11661,
-      question: "How does the Facial Nerve compare to the Trigeminal Nerve in terms of depth?",
-      options: [
-        "They don't overlap in location",
-        "The Facial Nerve is more superficial",
-        "They are at the same depth",
-        "The Facial Nerve is deeper",
+        "Only the external ear and facial skin",
+        "Skin at back of ear, larynx, trachea, esophagus, thoracic and abdominal viscera",
+        "Exclusively the tongue and oral cavity",
+        "Only the pharynx and nasal passages"
       ],
       correct: "B"
     },
     {
-      id: 11662,
-      question: "Which clinical test can assess Facial Nerve function?",
+      id: 12042,
+      question: "Which motor functions are controlled by the Vagus Nerve (CN X)?",
       options: [
-        "Hearing test",
-        "Smell test",
-        "Asking patient to smile, whistle, frown, raise eyebrows",
-        "Eye movement test",
+        "Eye movements and facial expressions exclusively",
+        "Tongue protrusion and speech articulation only",
+        "Swallowing, voice production, visceral smooth muscle, and heart rate",
+        "Mastication and jaw movements primarily"
       ],
       correct: "C"
     },
     {
-      id: 11663,
-      question: "What is the function of Cranial Nerve VIII (Vestibulocochlear)?",
+      id: 12043,
+      question: "What life-threatening situation occurs if both Vagus Nerves (CN X) are cut?",
       options: [
-        "Eye movement",
-        "Taste",
-        "Facial expression",
-        "Hearing and balance",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11664,
-      question: "What type of nerve is the Vestibulocochlear Nerve (VIII)?",
-      options: [
-        "Sensory only",
-        "Motor only",
-        "Autonomic only",
-        "Both motor and sensory",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11665,
-      question: "Which branch of the Vestibulocochlear Nerve provides hearing?",
-      options: [
-        "Balance branch",
-        "Cochlear branch",
-        "Vestibular branch",
-        "Auditory branch",
+        "Complete paralysis of facial muscles bilaterally",
+        "Fatal outcome due to loss of vital autonomic control",
+        "Permanent blindness in both eyes",
+        "Total loss of hearing and balance"
       ],
       correct: "B"
     },
     {
-      id: 11666,
-      question: "Damage to the Vestibulocochlear Nerve can cause what?",
+      id: 12044,
+      question: "The Accessory Nerve (CN XI) provides motor control to which muscles?",
       options: [
-        "Facial paralysis",
-        "Loss of taste",
-        "Deafness, dizziness, nausea, loss of balance, nystagmus",
-        "Blindness",
+        "Muscles of facial expression and mastication",
+        "Extraocular muscles and eyelid elevators",
+        "Trapezius, sternocleidomastoid, and pharyngeal muscles",
+        "All intrinsic and extrinsic tongue muscles"
       ],
       correct: "C"
     },
     {
-      id: 11667,
-      question: "What is nystagmus?",
+      id: 12045,
+      question: "What functional impairments result from Accessory Nerve (CN XI) damage?",
       options: [
-        "Loss of balance",
-        "Loss of hearing",
-        "Paralyzed vocal cords",
-        "Involuntary eye movement",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11668,
-      question: "What is the function of Cranial Nerve IX (Glossopharyngeal)?",
-      options: [
-        "Swallowing, voice production, taste from posterior 1/3 of tongue",
-        "Hearing",
-        "Eye movement",
-        "Facial expression",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11669,
-      question: "What type of nerve is the Glossopharyngeal Nerve (IX)?",
-      options: [
-        "Autonomic only",
-        "Both motor and sensory",
-        "Motor only",
-        "Sensory only",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11670,
-      question: "Which part of the tongue does the Glossopharyngeal Nerve provide taste from?",
-      options: [
-        "Entire tongue",
-        "Tip of tongue",
-        "Posterior one-third",
-        "Anterior two-thirds",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11671,
-      question: "What taste sensations are lost if the Glossopharyngeal Nerve is damaged?",
-      options: [
-        "Sweet only",
-        "All tastes",
-        "Sweet and salty",
-        "Bitter and sour",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11672,
-      question: "The Glossopharyngeal Nerve helps control what autonomic functions?",
-      options: [
-        "Blood pressure and respiration",
-        "Facial expression",
-        "Digestion only",
-        "Eye movement",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11673,
-      question: "What is the function of Cranial Nerve X (Vagus)?",
-      options: [
-        "Vision",
-        "Swallowing, voice production, autonomic control of thoracic and abdominal viscera",
-        "Hearing",
-        "Smell",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11674,
-      question: "What type of nerve is the Vagus Nerve (X)?",
-      options: [
-        "Reflex only",
-        "Motor only",
-        "Both motor and sensory",
-        "Sensory only",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11675,
-      question: "Where does the Vagus Nerve provide taste sensation from?",
-      options: [
-        "Lips",
-        "Anterior tongue",
-        "Posterior tongue",
-        "Epiglottis and pharynx",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11676,
-      question: "What happens if both Vagus Nerves are cut?",
-      options: [
-        "Fatal",
-        "Blindness",
-        "Minor speech difficulty",
-        "Loss of smell",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11677,
-      question: "Damage to the Vagus Nerve can cause what?",
-      options: [
-        "Deafness",
-        "Hoarseness or loss of voice, impaired swallowing, GI dysfunction",
-        "Loss of smell",
-        "Blindness",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11678,
-      question: "What autonomic function does the Vagus Nerve affect?",
-      options: [
-        "Body temperature only",
-        "Salivation only",
-        "Heart rate and airway relaxation",
-        "Pupil size only",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11679,
-      question: "What is the function of Cranial Nerve XI (Accessory)?",
-      options: [
-        "Hearing",
-        "Vision",
-        "Taste",
-        "Swallowing, head, neck, and shoulder movement",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11680,
-      question: "What type of nerve is the Accessory Nerve (XI)?",
-      options: [
-        "Motor only",
-        "Sensory only",
-        "Autonomic only",
-        "Both motor and sensory",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11681,
-      question: "Which muscles does the Accessory Nerve control?",
-      options: [
-        "Eye muscles",
-        "Trapezius and sternocleidomastoid muscles",
-        "Facial muscles",
-        "Tongue muscles",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11682,
-      question: "Damage to the Accessory Nerve causes what?",
-      options: [
-        "Deafness",
-        "Loss of vision",
+        "Loss of facial expressions and taste",
         "Impaired head, neck, and shoulder movement",
-        "Loss of taste",
+        "Difficulty with eye movements and focusing",
+        "Complete loss of voice and speech"
       ],
-      correct: "C"
+      correct: "B"
     },
     {
-      id: 11683,
-      question: "What is the function of Cranial Nerve XII (Hypoglossal)?",
+      id: 12046,
+      question: "The Hypoglossal Nerve (CN XII) controls which specific motor functions?",
       options: [
-        "Facial expression",
-        "Taste",
-        "Swallowing only",
+        "Jaw movements for chewing and grinding",
+        "Pharyngeal muscles for swallowing",
         "Tongue movements for speech, food manipulation, and swallowing",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11684,
-      question: "What type of nerve is the Hypoglossal Nerve (XII)?",
-      options: [
-        "Motor only",
-        "Sensory only",
-        "Autonomic only",
-        "Both motor and sensory",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11685,
-      question: "If both Hypoglossal Nerves are damaged, what happens?",
-      options: [
-        "Tongue deviates to one side",
-        "Cannot protrude tongue",
-        "Loss of taste",
-        "Tongue becomes paralyzed on one side",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11686,
-      question: "If one Hypoglossal Nerve is damaged, what happens?",
-      options: [
-        "Tongue deviates away from injured side",
-        "Cannot move tongue at all",
-        "Tongue deviates towards injured side",
-        "Loss of taste",
+        "Facial muscles for expressions"
       ],
       correct: "C"
     },
     {
-      id: 11687,
-      question: "What is Trigeminal neuralgia also called?",
+      id: 12047,
+      question: "What occurs when both Hypoglossal Nerves (CN XII) are damaged?",
       options: [
-        "Facial paralysis",
-        "Glossopharyngeal neuralgia",
-        "Bell's palsy",
-        "Tic douloureux",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11688,
-      question: "What characterizes Trigeminal neuralgia?",
-      options: [
-        "Recurring episodes of intense stabbing pain in trigeminal nerve area",
-        "Inability to move tongue",
-        "Facial paralysis",
-        "Loss of taste",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11689,
-      question: "What can trigger pain in Trigeminal neuralgia?",
-      options: [
-        "Lying down",
-        "Touch, drinking, washing face",
-        "Loud noises",
-        "Bright lights",
+        "The tongue deviates to one side consistently",
+        "Cannot protrude tongue at all",
+        "Tongue movements are excessively rapid",
+        "Tongue becomes enlarged and swollen"
       ],
       correct: "B"
     },
     {
-      id: 11690,
-      question: "What is Bell's palsy?",
+      id: 12048,
+      question: "When only one Hypoglossal Nerve (CN XII) is damaged, how does the tongue deviate?",
       options: [
-        "Disorder of vagus nerve",
-        "Disorder of trigeminal nerve",
-        "Disorder of facial nerve causing paralysis of facial muscles on one side",
-        "Disorder of optic nerve",
+        "Towards the uninjured side",
+        "Towards the injured side",
+        "The tongue does not deviate",
+        "Alternately to both sides"
       ],
-      correct: "C"
+      correct: "B"
     },
     {
-      id: 11691,
-      question: "How does Bell's palsy typically appear?",
+      id: 12049,
+      question: "Trigeminal neuralgia (tic douloureux) is characterized by which symptom pattern?",
       options: [
-        "Permanently without recovery",
-        "Only during sleep",
-        "Gradually over months",
-        "Abruptly with full recovery in 3-5 weeks",
+        "Constant dull aching pain throughout the face",
+        "Recurring episodes of intense stabbing pain in trigeminal area",
+        "Numbness and tingling without pain",
+        "Burning sensation across the entire scalp"
       ],
-      correct: "D"
+      correct: "B"
     },
     {
-      id: 11692,
-      question: "Which branches of the Facial Nerve supply muscles of facial expression?",
+      id: 12050,
+      question: "What typically triggers pain episodes in trigeminal neuralgia?",
       options: [
+        "Only severe head trauma or injury",
+        "Touch, drinking, washing face, or eating",
+        "Exclusively during sleep periods",
+        "Changes in barometric pressure"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12051,
+      question: "Bell\'s palsy affects which cranial nerve causing what primary symptom?",
+      options: [
+        "Trigeminal nerve causing loss of facial sensation",
+        "Facial nerve causing paralysis of facial muscles on one side",
+        "Hypoglossal nerve causing tongue deviation",
+        "Vagus nerve causing voice loss"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12052,
+      question: "What is the typical progression and recovery time for Bell\'s palsy?",
+      options: [
+        "Gradual onset over months with permanent deficits",
+        "Abrupt appearance with full recovery in 3-5 weeks",
+        "Slow development with no possibility of recovery",
+        "Sudden onset followed by progressive worsening"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12053,
+      question: "Which branches of the Facial Nerve (CN VII) supply the muscles of facial expression?",
+      options: [
+        "Only the buccal and mandibular branches",
         "Temporal, zygomatic, buccal, mandibular, and cervical branches",
-        "Only temporal branch",
-        "Only mandibular branch",
-        "Only buccal branch",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11693,
-      question: "Which nerve division supplies the muscles of mastication?",
-      options: [
-        "Cranial Nerve VII",
-        "V3 - Mandibular division of Trigeminal Nerve",
-        "V1 - Ophthalmic",
-        "V2 - Maxillary",
+        "Exclusively the ophthalmic and maxillary branches",
+        "Only the superior and inferior divisions"
       ],
       correct: "B"
     },
     {
-      id: 11694,
-      question: "Which muscles of mastication are supplied by V3?",
+      id: 12054,
+      question: "The muscles of mastication receive motor innervation from which nerve branch?",
       options: [
-        "Only pterygoid muscles",
-        "Only masseter",
+        "The Facial Nerve (CN VII) branches",
+        "The Ophthalmic division (V1) of Trigeminal",
+        "The Mandibular division (V3) of Trigeminal",
+        "The Hypoglossal Nerve (CN XII)"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12055,
+      question: "Which specific muscles of mastication are innervated by the Mandibular division (V3)?",
+      options: [
+        "Only the masseter and temporalis muscles",
         "Temporalis, lateral pterygoid, medial pterygoid, masseter, and digastric",
-        "Only temporalis",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11695,
-      question: "Which nerve supplies the maxillary molars?",
-      options: [
-        "Mental Nerve",
-        "Infraorbital Nerve",
-        "Lingual Nerve",
-        "Posterior Superior Alveolar Nerve",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11696,
-      question: "Which nerve supplies the maxillary premolars?",
-      options: [
-        "Middle Superior Alveolar Nerve",
-        "Anterior Superior Alveolar Nerve",
-        "Posterior Superior Alveolar Nerve",
-        "Infraorbital Nerve alone",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11697,
-      question: "Which nerve supplies the maxillary anterior teeth?",
-      options: [
-        "Posterior Superior Alveolar Nerve",
-        "Anterior Superior Alveolar Nerve",
-        "Mental Nerve",
-        "Middle Superior Alveolar Nerve",
+        "Exclusively the buccinator and orbicularis oris",
+        "Only the superior and inferior pharyngeal constrictors"
       ],
       correct: "B"
     },
     {
-      id: 11698,
-      question: "All maxillary teeth are supplied by which cranial nerve division?",
+      id: 12056,
+      question: "The maxillary molar teeth receive sensory innervation from which nerve?",
       options: [
-        "Cranial Nerve VII",
-        "V1 - Ophthalmic",
-        "V2 - Maxillary division of Trigeminal Nerve",
-        "V3 - Mandibular",
+        "The Anterior Superior Alveolar Nerve",
+        "The Middle Superior Alveolar Nerve",
+        "The Posterior Superior Alveolar Nerve",
+        "The Inferior Alveolar Nerve"
       ],
       correct: "C"
     },
     {
-      id: 11699,
-      question: "Which nerve supplies all mandibular teeth?",
+      id: 12057,
+      question: "Which nerve provides sensory innervation to the maxillary premolar teeth?",
       options: [
-        "Lingual Nerve",
-        "Mental Nerve only",
-        "Superior Alveolar Nerve",
-        "Inferior Alveolar Nerve",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11700,
-      question: "The Mental Nerve is a branch of which nerve?",
-      options: [
-        "Inferior Alveolar Nerve",
-        "Facial Nerve",
-        "Lingual Nerve",
-        "Maxillary division",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11701,
-      question: "The Incisive Nerve is a continuation of which nerve?",
-      options: [
-        "Lingual Nerve",
-        "Inferior Alveolar Nerve",
-        "Mental Nerve",
-        "Buccal Nerve",
+        "The Posterior Superior Alveolar Nerve",
+        "The Middle Superior Alveolar Nerve",
+        "The Anterior Superior Alveolar Nerve",
+        "The Nasopalatine Nerve"
       ],
       correct: "B"
     },
     {
-      id: 11702,
-      question: "Which nerve provides sensation to the buccal gingiva of mandibular molars?",
+      id: 12058,
+      question: "The maxillary anterior teeth receive sensory innervation from which nerve branch?",
       options: [
-        "Mental Nerve",
-        "Inferior Alveolar Nerve",
-        "Buccal Nerve",
-        "Lingual Nerve",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11703,
-      question: "What does the reflex arc allow?",
-      options: [
-        "Complete elimination of pain",
-        "More intense pain",
-        "Slower pain response",
-        "Faster response to stimuli by bypassing the brain",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11704,
-      question: "In the normal pain pathway, which step occurs third?",
-      options: [
-        "Second neuron carries message up spinal cord towards brain",
-        "Message travels to brain",
-        "Pain receptor senses pain",
-        "Muscle responds",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11705,
-      question: "What is the main advantage of the reflex arc?",
-      options: [
-        "It requires conscious thought",
-        "Action happens before person has time to interpret pain",
-        "It makes pain more noticeable",
-        "It involves more neurons",
+        "The Posterior Superior Alveolar Nerve",
+        "The Infraorbital Nerve via the Anterior Superior Alveolar Nerve",
+        "The Middle Superior Alveolar Nerve",
+        "The Greater Palatine Nerve"
       ],
       correct: "B"
     },
     {
-      id: 11706,
-      question: "The sympathetic nervous system is associated with which response?",
+      id: 12059,
+      question: "All mandibular teeth receive sensory innervation from which primary nerve?",
       options: [
-        "Decreased heart rate",
-        "Sleep",
-        "Fight or flight",
-        "Rest and digest",
+        "The Lingual Nerve exclusively",
+        "The Buccal Nerve primarily",
+        "The Inferior Alveolar Nerve",
+        "The Mylohyoid Nerve"
       ],
       correct: "C"
     },
     {
-      id: 11707,
-      question: "The parasympathetic nervous system is associated with which response?",
+      id: 12060,
+      question: "Which nerve branches from the Inferior Alveolar Nerve to supply the anterior mandibular region?",
       options: [
-        "Stress response",
-        "Increased heart rate",
-        "Fight or flight",
-        "Rest or digest",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11708,
-      question: "Which division of the Trigeminal Nerve is entirely sensory?",
-      options: [
-        "V1 and V2",
-        "All three divisions",
-        "Only V3",
-        "Only V2",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11709,
-      question: "Which cranial nerves are purely sensory?",
-      options: [
-        "I, II, VII",
-        "I, II, VIII",
-        "All cranial nerves have motor function",
-        "I, II, III",
+        "The Mental Nerve for external sensation",
+        "The Incisive Nerve for tooth innervation",
+        "The Lingual Nerve for tongue sensation",
+        "The Mylohyoid Nerve for muscle control"
       ],
       correct: "B"
     },
     {
-      id: 11710,
-      question: "Which cranial nerves are purely motor?",
+      id: 12061,
+      question: "The Mental Nerve is a terminal branch of which nerve providing sensation to what area?",
       options: [
-        "V, VII, IX, X",
-        "I, II, VIII",
-        "III, IV, VI, XI, XII",
-        "All have sensory components",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11711,
-      question: "Which cranial nerves are mixed (both motor and sensory)?",
-      options: [
-        "None are mixed",
-        "I, II, VIII",
-        "III, IV, VI, XI, XII",
-        "V, VII, IX, X",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11712,
-      question: "What structure does the Oculomotor Nerve pass through to reach the eye?",
-      options: [
-        "Superior orbital fissure",
-        "Foramen rotundum",
-        "Inferior orbital fissure",
-        "Foramen ovale",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11713,
-      question: "What structure does the Trochlear Nerve pass through?",
-      options: [
-        "Optic foramen",
-        "Superior orbital fissure",
-        "Foramen rotundum",
-        "Foramen ovale",
+        "Maxillary nerve; sensation to upper lip",
+        "Inferior Alveolar Nerve; sensation to lower lip and chin",
+        "Buccal nerve; sensation to cheek mucosa",
+        "Lingual nerve; sensation to tongue"
       ],
       correct: "B"
     },
     {
-      id: 11714,
-      question: "What structure does the Abducens Nerve pass through?",
+      id: 12062,
+      question: "The Trigeminal Nerve (CN V) provides sensory innervation to which portion of the tongue?",
       options: [
-        "Inferior orbital fissure",
-        "Foramen rotundum",
-        "Superior orbital fissure",
-        "Foramen ovale",
+        "The posterior one-third for taste only",
+        "The entire tongue for all sensations",
+        "The anterior two-thirds for general sensation",
+        "Only the tongue tip for touch"
       ],
       correct: "C"
     },
     {
-      id: 11715,
-      question: "Which cranial nerve has both a cranial root and a spinal root?",
+      id: 12063,
+      question: "Which nerve is responsible for general sensation from the oral cavity structures?",
       options: [
-        "Hypoglossal",
-        "Glossopharyngeal",
-        "Vagus",
-        "Accessory",
+        "The Facial Nerve (CN VII)",
+        "The Glossopharyngeal Nerve (CN IX)",
+        "The Trigeminal Nerve (CN V)",
+        "The Vagus Nerve (CN X)"
       ],
-      correct: "D"
+      correct: "C"
     },
     {
-      id: 11716,
-      question: "What is the primary function of the enteric nervous system?",
+      id: 12064,
+      question: "The Ophthalmic branch (V1) divides into how many branches just before entering the skull?",
       options: [
-        "Controls digestive system",
-        "Controls breathing",
-        "Eye movement",
-        "Facial expression",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11717,
-      question: "The levator palpebrae superioris muscle is innervated by which nerve?",
-      options: [
-        "Trigeminal Nerve",
-        "Oculomotor Nerve",
-        "Facial Nerve",
-        "Trochlear Nerve",
+        "Two branches",
+        "Three branches",
+        "Four branches",
+        "Five branches"
       ],
       correct: "B"
     },
     {
-      id: 11718,
-      question: "Pupil constriction (circular muscle) is controlled by which nerve?",
+      id: 12065,
+      question: "Which three branches form the subdivisions of the Ophthalmic division (V1)?",
       options: [
-        "Abducens Nerve",
-        "Optic Nerve",
-        "Oculomotor Nerve",
-        "Trochlear Nerve",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11719,
-      question: "The ciliary muscle for accommodation is controlled by which nerve?",
-      options: [
-        "Facial Nerve",
-        "Optic Nerve",
-        "Abducens Nerve",
-        "Oculomotor Nerve",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11720,
-      question: "Which nerve controls the superior oblique muscle?",
-      options: [
-        "Trochlear Nerve",
-        "Oculomotor Nerve",
-        "Facial Nerve",
-        "Abducens Nerve",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11721,
-      question: "Which nerve controls the lateral rectus muscle?",
-      options: [
-        "Facial Nerve",
-        "Oculomotor Nerve",
-        "Abducens Nerve",
-        "Trochlear Nerve",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11722,
-      question: "The lacrimal gland is controlled by which nerve?",
-      options: [
-        "Vagus Nerve",
-        "Trigeminal Nerve",
-        "Facial Nerve",
-        "Glossopharyngeal Nerve",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11723,
-      question: "The parotid gland receives autonomic innervation from which nerve?",
-      options: [
-        "Trigeminal Nerve",
-        "Facial Nerve",
-        "Vagus Nerve",
-        "Glossopharyngeal Nerve",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11724,
-      question: "The submandibular gland is controlled by which nerve?",
-      options: [
-        "Facial Nerve",
-        "Trigeminal Nerve",
-        "Hypoglossal Nerve",
-        "Glossopharyngeal Nerve",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11725,
-      question: "Sweet and salty taste sensations are carried by which nerve?",
-      options: [
-        "Trigeminal Nerve",
-        "Facial Nerve",
-        "Glossopharyngeal Nerve",
-        "Vagus Nerve",
+        "Superior, middle, and inferior branches",
+        "Lacrimal, frontal, and nasociliary nerves",
+        "Supraorbital, supratrochlear, and infratrochlear nerves",
+        "Medial, lateral, and central branches"
       ],
       correct: "B"
     },
     {
-      id: 11726,
-      question: "Bitter and sour taste sensations are carried by which nerve?",
+      id: 12066,
+      question: "The Maxillary branch (V2) includes which nerve that provides sensation below the eye?",
       options: [
-        "Trigeminal Nerve",
-        "Facial Nerve",
-        "Glossopharyngeal Nerve",
-        "Vagus Nerve",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11727,
-      question: "Which cranial nerve has the most extensive distribution in the body?",
-      options: [
-        "Trigeminal Nerve",
-        "Facial Nerve",
-        "Accessory Nerve",
-        "Vagus Nerve",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11728,
-      question: "The pharyngeal muscles for swallowing are innervated by which nerves?",
-      options: [
-        "Glossopharyngeal, Vagus, and Accessory",
-        "Only Glossopharyngeal",
-        "Only Hypoglossal",
-        "Only Vagus",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11729,
-      question: "Loss of the gag reflex would indicate damage to which nerves?",
-      options: [
-        "Hypoglossal and Accessory",
-        "Glossopharyngeal and Vagus",
-        "Olfactory and Optic",
-        "Facial and Trigeminal",
+        "The Supraorbital Nerve",
+        "The Infraorbital Nerve",
+        "The Mental Nerve",
+        "The Buccal Nerve"
       ],
       correct: "B"
     },
     {
-      id: 11730,
-      question: "Which nerve provides general sensation to the anterior two-thirds of the tongue?",
+      id: 12067,
+      question: "Which division of the Mandibular branch (V3) contains the Lingual Nerve?",
       options: [
-        "Hypoglossal Nerve",
-        "Facial Nerve",
-        "Trigeminal Nerve (Lingual branch of V3)",
-        "Glossopharyngeal Nerve",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11731,
-      question: "The intrinsic muscles of the tongue are innervated by which nerve?",
-      options: [
-        "Glossopharyngeal Nerve",
-        "Facial Nerve",
-        "Trigeminal Nerve",
-        "Hypoglossal Nerve",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11732,
-      question: "The extrinsic muscles of the tongue are innervated by which nerve?",
-      options: [
-        "Hypoglossal Nerve",
-        "Facial Nerve",
-        "Trigeminal Nerve",
-        "Glossopharyngeal Nerve",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11733,
-      question: "What provides motor innervation to the stapedius muscle in the middle ear?",
-      options: [
-        "Glossopharyngeal Nerve",
-        "Facial Nerve",
-        "Vestibulocochlear Nerve",
-        "Trigeminal Nerve",
+        "The Anterior Division",
+        "The Posterior Division",
+        "The Superior Division",
+        "The Medial Division"
       ],
       correct: "B"
     },
     {
-      id: 11734,
-      question: "The tensor tympani muscle of the middle ear is innervated by which nerve?",
+      id: 12068,
+      question: "The Inferior Alveolar Nerve is part of which division of the Mandibular branch (V3)?",
       options: [
-        "Vestibulocochlear Nerve",
-        "Facial Nerve",
-        "Trigeminal Nerve",
-        "Glossopharyngeal Nerve",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11735,
-      question: "Which statement about cranial nerves is correct?",
-      options: [
-        "All cranial nerves are sensory",
-        "All cranial nerves control muscles",
-        "All cranial nerves are motor",
-        "Each cranial nerve has a separate function",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11736,
-      question: "What is the correct order of events in a reflex arc?",
-      options: [
-        "Stimulus → sensory neuron → spinal cord → motor neuron → response (bypassing brain)",
-        "Stimulus → brain → response",
-        "Stimulus → conscious thought → response",
-        "Stimulus → spinal cord → brain → response",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11737,
-      question: "Where does the Facial Nerve exit the skull?",
-      options: [
-        "Foramen rotundum",
-        "Stylomastoid foramen",
-        "Jugular foramen",
-        "Superior orbital fissure",
+        "The Anterior Division exclusively",
+        "The Posterior Division",
+        "The Superior Division",
+        "The Lateral Division"
       ],
       correct: "B"
     },
     {
-      id: 11738,
-      question: "Where do the Glossopharyngeal and Vagus nerves exit the skull?",
+      id: 12069,
+      question: "Which nerve from the Mandibular division provides sensation to the cheek mucosa?",
       options: [
-        "Stylomastoid foramen",
-        "Foramen ovale",
-        "Jugular foramen",
-        "Foramen magnum",
+        "The Lingual Nerve",
+        "The Mental Nerve",
+        "The Buccal Nerve",
+        "The Auriculotemporal Nerve"
       ],
       correct: "C"
     },
     {
-      id: 11739,
-      question: "The Hypoglossal Nerve exits the skull through which opening?",
+      id: 12070,
+      question: "The Auriculotemporal Nerve is a branch of which division of CN V?",
       options: [
-        "Stylomastoid foramen",
-        "Foramen magnum",
-        "Jugular foramen",
-        "Hypoglossal canal",
+        "The Ophthalmic division (V1)",
+        "The Maxillary division (V2)",
+        "The Posterior division of Mandibular (V3)",
+        "The Anterior division of Mandibular (V3)"
       ],
-      correct: "D"
+      correct: "C"
     },
     {
-      id: 11740,
-      question: "Which cranial nerve provides sensation to the maxillary sinus?",
+      id: 12071,
+      question: "Which cranial nerves are purely sensory in function?",
       options: [
-        "Maxillary division (V2)",
-        "Facial Nerve",
-        "Ophthalmic division (V1)",
-        "Mandibular division (V3)",
+        "CN I, II, and VIII",
+        "CN III, IV, and VI",
+        "CN V, VII, and IX",
+        "CN X, XI, and XII"
       ],
       correct: "A"
     },
     {
-      id: 11741,
-      question: "Which cranial nerve provides sensation to the nasal cavity?",
+      id: 12072,
+      question: "Which cranial nerves are purely motor in function?",
       options: [
-        "Facial Nerve only",
-        "Trigeminal Nerve (V1 and V2 divisions)",
-        "Olfactory Nerve only",
-        "Optic Nerve",
+        "CN I, II, and VIII",
+        "CN III, IV, VI, XI, and XII",
+        "CN V, VII, IX, and X",
+        "CN I, VII, and IX"
       ],
       correct: "B"
     },
     {
-      id: 11742,
-      question: "The hard palate receives sensation from which nerve?",
+      id: 12073,
+      question: "Which cranial nerves have both sensory and motor functions?",
       options: [
-        "Mandibular division of Trigeminal (V3)",
-        "Glossopharyngeal Nerve",
-        "Maxillary division of Trigeminal (V2)",
-        "Facial Nerve",
+        "CN I, II, and VIII only",
+        "CN III, IV, and VI only",
+        "CN V, VII, IX, and X",
+        "CN XI and XII only"
       ],
       correct: "C"
     },
     {
-      id: 11743,
-      question: "The soft palate receives sensation from which nerves?",
+      id: 12074,
+      question: "What is the primary function of the sympathetic nervous system?",
       options: [
-        "Only Glossopharyngeal",
-        "Only Trigeminal",
-        "Only Facial",
-        "Trigeminal (V2), Glossopharyngeal, and Vagus",
+        "Promoting digestion and energy conservation",
+        "Fight or flight response activation",
+        "Regulating sleep and circadian rhythms",
+        "Controlling voluntary muscle movements"
       ],
-      correct: "D"
+      correct: "B"
     },
     {
-      id: 11744,
-      question: "Movement of the soft palate (except tensor veli palatini) is controlled by which nerve?",
+      id: 12075,
+      question: "The parasympathetic nervous system is associated with which functional state?",
       options: [
-        "Vagus Nerve",
-        "Trigeminal Nerve",
-        "Glossopharyngeal Nerve",
-        "Facial Nerve",
+        "Fight or flight stress responses",
+        "Increased heart rate and alertness",
+        "Rest or digest relaxation state",
+        "Voluntary skeletal muscle control"
       ],
-      correct: "A"
-    },
+      correct: "C"
+    }
+  
   ],
-  "6. Local Anaesthetic": [    {
+  "13. Local Anaesthetic (Part 1)": [    {
       id: 11800,
       question: "What is the mechanism by which local anesthetics block pain signals?",
       options: [
@@ -13896,1449 +12174,824 @@ export const questions = {
       correct: "A"
     },
   ],
-  "6-1. Local Anaesthetic": [    {
-      id: 11800,
-      question: "What is the mechanism by which local anesthetics block pain signals?",
-      options: [
-        "They block sodium channels preventing nerve signal transmission",
-        "They destroy nerve cells permanently",
-        "They increase potassium influx into nerve cells",
-        "They activate calcium channels",
-      ],
-      correct: "A"
-    },
+  "14. Local Anaesthetic (Part 2)": [
     {
-      id: 11801,
-      question: "Which type of local anesthetic is metabolized by the liver?",
+      id: 12100,
+      question: "Local anesthetic works by blocking which ion channel in nerve cells?",
       options: [
-        "Esters",
-        "Benzocaine",
-        "Procaine",
-        "Amides",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11802,
-      question: "Where are ester-type local anesthetics primarily metabolized?",
-      options: [
-        "Kidneys",
-        "Liver",
-        "Blood/plasma",
-        "Spleen",
+        "Calcium channels",
+        "Potassium channels",
+        "Sodium channels",
+        "Chloride channels"
       ],
       correct: "C"
     },
     {
-      id: 11803,
-      question: "Which local anesthetic is an example of an ester?",
+      id: 12101,
+      question: "Which type of local anesthetic is typically used only for topical application?",
+      options: [
+        "Amides",
+        "Esters",
+        "Lidocaine",
+        "Mepivacaine"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12102,
+      question: "How are ester-type local anesthetics metabolized in the body?",
+      options: [
+        "By the liver",
+        "By the kidneys",
+        "By blood/plasma",
+        "By muscle tissue"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12103,
+      question: "How are amide-type local anesthetics metabolized in the body?",
+      options: [
+        "By blood/plasma",
+        "By the liver",
+        "By the kidneys",
+        "By the spleen"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12104,
+      question: "Which of the following is an example of an ester local anesthetic?",
       options: [
         "Lidocaine",
         "Mepivacaine",
-        "Articaine",
         "Benzocaine",
+        "Articaine"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12105,
+      question: "Which of the following is an example of an amide local anesthetic?",
+      options: [
+        "Benzocaine",
+        "Procaine",
+        "Dyclonine",
+        "Lidocaine"
       ],
       correct: "D"
     },
     {
-      id: 11804,
-      question: "Which local anesthetic is an example of an amide?",
+      id: 12106,
+      question: "After which trimester can lidocaine and prilocaine be safely used in pregnant females?",
       options: [
-        "Lidocaine",
-        "Benzocaine",
-        "Dyclonine",
-        "Procaine",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11805,
-      question: "After which trimester can lidocaine and prilocaine be used on pregnant females?",
-      options: [
-        "They cannot be used at all during pregnancy",
         "First trimester",
         "Second trimester",
         "Third trimester",
+        "They cannot be used during pregnancy"
+      ],
+      correct: "A"
+    },
+    {
+      id: 12107,
+      question: "What does a concentration of 1:50,000 epinephrine mean compared to 1:100,000?",
+      options: [
+        "Less epinephrine",
+        "More epinephrine",
+        "The same amount",
+        "No epinephrine"
       ],
       correct: "B"
     },
     {
-      id: 11806,
-      question: "In the epinephrine concentration ratio 1:50,000, what does this indicate compared to 1:100,000?",
+      id: 12108,
+      question: "Why is the epinephrine dose reduced in cardiac patients?",
       options: [
-        "1:50,000 has less epinephrine",
-        "They contain the same amount",
-        "1:50,000 has more epinephrine",
-        "1:50,000 has no epinephrine",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11807,
-      question: "Why is epinephrine dose reduced in cardiac patients?",
-      options: [
-        "To reduce the cost of treatment",
         "To prevent allergic reactions",
-        "Because it causes liver damage",
-        "To avoid excessive vasoconstriction and cardiovascular stress",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11808,
-      question: "What is one benefit of adding epinephrine to local anesthetic?",
-      options: [
-        "It prolongs the duration of anesthesia by causing vasoconstriction",
-        "It makes the anesthetic work faster",
-        "It increases bleeding at the injection site",
-        "It reduces the risk of infection",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11809,
-      question: "What is a clinical manifestation of epinephrine overdose?",
-      options: [
-        "Drowsiness and fatigue",
-        "Tremor and palpitation",
-        "Decreased heart rate",
-        "Low blood pressure",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11810,
-      question: "Which factor should be considered when selecting a local anesthetic agent?",
-      options: [
-        "The color of the cartridge",
-        "The patient's favorite flavor",
-        "The duration of the procedure and expected post-operative pain",
-        "The time of day",
+        "To reduce cost",
+        "To prevent cardiovascular strain and complications",
+        "To speed up anesthesia onset"
       ],
       correct: "C"
     },
     {
-      id: 11811,
-      question: "What medical condition can affect which local anesthetic drug is safe to use?",
+      id: 12109,
+      question: "What are the main benefits of adding epinephrine to local anesthetic?",
       options: [
-        "Patient's hair color",
-        "Patient's height",
-        "Patient's dietary preferences",
-        "Heart problems, liver disease, or pregnancy",
+        "Prolongs duration and reduces bleeding",
+        "Reduces pain on injection",
+        "Speeds up metabolism",
+        "Prevents allergic reactions"
       ],
-      correct: "D"
+      correct: "A"
     },
     {
-      id: 11812,
-      question: "Which type of syringe is recommended for dental local anesthetic administration?",
+      id: 12110,
+      question: "What is the maximum recommended dose of epinephrine for healthy patients per appointment?",
       options: [
+        "0.04 mg",
+        "0.1 mg",
+        "0.2 mg",
+        "0.5 mg"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12111,
+      question: "What is the maximum recommended dose of epinephrine for cardiac patients per appointment?",
+      options: [
+        "0.2 mg",
+        "0.1 mg",
+        "0.04 mg",
+        "0.01 mg"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12112,
+      question: "Which symptom is NOT typically associated with epinephrine overdose?",
+      options: [
+        "Fear and anxiety",
+        "Tremor",
+        "Bradycardia",
+        "Throbbing headache"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12113,
+      question: "When selecting a local anesthetic, which factor is LEAST important?",
+      options: [
+        "Duration needed",
+        "Patient\'s medical conditions",
+        "Brand name preference",
+        "Drug interactions"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12114,
+      question: "What type of syringe allows for aspiration to check for blood vessel penetration?",
+      options: [
+        "Disposable syringe",
+        "Pressure syringe",
         "Aspirating syringe",
-        "Non-aspirating syringe",
-        "Insulin syringe",
-        "Tuberculin syringe",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11813,
-      question: "What is a potential complication of needle breakage during injection?",
-      options: [
-        "Temporary numbness",
-        "The needle fragment may remain embedded in tissue",
-        "Increased effectiveness of anesthesia",
-        "Faster onset of numbness",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11814,
-      question: "What is trismus?",
-      options: [
-        "A type of local anesthetic",
-        "Excessive salivation after injection",
-        "Difficulty opening the mouth due to jaw muscle spasm",
-        "A brand of dental syringe",
+        "Computer-controlled syringe"
       ],
       correct: "C"
     },
     {
-      id: 11815,
-      question: "What causes facial nerve paralysis as a complication of local anesthesia?",
+      id: 12115,
+      question: "What is the typical gauge range for dental local anesthetic needles?",
       options: [
-        "Using too little anesthetic",
-        "Patient anxiety",
-        "Needle being too short",
-        "Anesthetic hitting the wrong nerve",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11816,
-      question: "What is paresthesia in the context of local anesthetic complications?",
-      options: [
-        "Persistent tingling or numbness that doesn't go away quickly",
-        "Complete loss of sensation permanently",
-        "Temporary increase in pain sensation",
-        "Muscle weakness",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11817,
-      question: "What causes a hematoma after local anesthetic injection?",
-      options: [
-        "Allergic reaction to the anesthetic",
-        "Hitting a blood vessel during injection",
-        "Using expired anesthetic",
-        "Injecting too slowly",
+        "18-22 gauge",
+        "25-27 gauge",
+        "30-32 gauge",
+        "35-40 gauge"
       ],
       correct: "B"
     },
     {
-      id: 11818,
-      question: "What is the difference between relative overdose and absolute overdose?",
+      id: 12116,
+      question: "Which needle length is typically used for inferior alveolar nerve blocks?",
       options: [
-        "Relative overdose occurs only in children, absolute in adults",
-        "There is no difference between them",
-        "Relative overdose causes strong effects even with normal doses in sensitive patients; absolute overdose is when a large or incorrect dose is given",
-        "Relative overdose is more dangerous than absolute overdose",
+        "Extra short",
+        "Short (20-25 mm)",
+        "Long (30-35 mm)",
+        "Extra long"
       ],
       correct: "C"
     },
     {
-      id: 11819,
-      question: "Which type of local anesthetic (ester or amide) is more commonly associated with allergic reactions?",
+      id: 12117,
+      question: "How often should needles be changed during multiple injections on the same patient?",
       options: [
-        "Amides",
-        "Neither causes allergies",
-        "Both cause allergies equally",
-        "Esters",
+        "After every injection",
+        "After 2 injections",
+        "After 3-4 injections",
+        "Never, use the same needle"
       ],
-      correct: "D"
+      correct: "C"
     },
     {
-      id: 11820,
-      question: "What is anaphylaxis?",
+      id: 12118,
+      question: "Which structure is NOT a standard part of a local anesthetic cartridge?",
       options: [
-        "A severe, life-threatening allergic reaction requiring immediate emergency care",
-        "A mild allergic reaction causing itching",
-        "A common side effect of local anesthetics",
-        "Temporary swelling at the injection site",
+        "Rubber diaphragm",
+        "Aluminum cap",
+        "Steel reinforcement ring",
+        "Glass cylinder"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12119,
+      question: "What should be applied to the injection site before administering local anesthetic?",
+      options: [
+        "Topical anesthetic",
+        "Alcohol",
+        "Iodine",
+        "Nothing"
       ],
       correct: "A"
     },
     {
-      id: 11821,
-      question: "What is the difference between infiltration and supraperiosteal injection?",
+      id: 12120,
+      question: "Which injection type numbs only the gingiva (gum tissue)?",
       options: [
-        "There is no difference",
-        "Infiltration numbs only gingiva; supraperiosteal numbs tooth, gingiva, and ligaments",
-        "Infiltration is deeper than supraperiosteal",
-        "Supraperiosteal only numbs gingiva",
+        "Supraperiosteal",
+        "Infiltration",
+        "Nerve block",
+        "Intraligamentary"
       ],
       correct: "B"
     },
     {
-      id: 11822,
-      question: "Where is an infiltration injection administered?",
+      id: 12121,
+      question: "Which injection type numbs the tooth, gingiva, and nearby ligaments?",
       options: [
-        "Deep into the bone",
-        "Into the muscle",
-        "Near the gums (shallow)",
-        "Into a blood vessel",
+        "Infiltration",
+        "Supraperiosteal",
+        "Nerve block",
+        "Intrapulpal"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12122,
+      question: "Which injection technique numbs multiple teeth on one side?",
+      options: [
+        "Infiltration",
+        "Supraperiosteal",
+        "Nerve block",
+        "Topical"
       ],
       correct: "C"
     },
     {
-      id: 11823,
-      question: "What does a nerve block anesthetize?",
-      options: [
-        "Only a single tooth",
-        "Only the gingiva",
-        "Only soft tissues",
-        "Multiple teeth, gingiva, and bone on one side",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11824,
+      id: 12123,
       question: "Why are infiltration injections commonly used in the maxilla but not in the mandible?",
       options: [
-        "The maxillary bone is porous and allows easy diffusion of anesthetic",
         "The mandibular nerve is larger",
         "The maxillary bone is dense",
         "The mandibular bone is too porous",
+        "The maxillary bone is porous and allows easy diffusion"
+      ],
+      correct: "D"
+    },
+    {
+      id: 12124,
+      question: "Which gauge needle is thicker?",
+      options: [
+        "25-gauge",
+        "30-gauge",
+        "Both are the same",
+        "Gauge doesn\'t indicate thickness"
       ],
       correct: "A"
     },
     {
-      id: 11825,
-      question: "What nerve is anesthetized during an Anterior Superior Alveolar (ASA) nerve block?",
+      id: 12125,
+      question: "When would you typically use a short needle?",
       options: [
-        "Posterior Superior Alveolar Nerve",
-        "Anterior Superior Alveolar Nerve",
-        "Inferior Alveolar Nerve",
-        "Mental Nerve",
+        "For deep nerve blocks",
+        "For supraperiosteal injections",
+        "For tongue anesthesia",
+        "For IV sedation"
       ],
       correct: "B"
     },
     {
-      id: 11826,
-      question: "Which teeth are anesthetized with an ASA nerve block?",
+      id: 12126,
+      question: "The Anterior Superior Alveolar (ASA) nerve block anesthetizes which teeth?",
       options: [
         "All maxillary teeth",
         "Maxillary molars",
         "Maxillary central incisor, lateral incisor, and canine",
-        "Mandibular anterior teeth",
+        "Mandibular anterior teeth"
       ],
       correct: "C"
     },
     {
-      id: 11827,
-      question: "Where is the penetration site for an ASA nerve block?",
+      id: 12127,
+      question: "For an ASA nerve block, where is the penetration site?",
       options: [
-        "Height of mucobuccal fold above the first molar",
-        "Directly into the palate",
-        "Behind the third molar",
-        "Height of mucobuccal fold just mesial to the canine eminence",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11828,
-      question: "Which teeth are anesthetized with a Posterior Superior Alveolar (PSA) nerve block?",
-      options: [
-        "Maxillary first molar distal buccal root, second molar, and third molar",
-        "All maxillary teeth",
-        "Maxillary anterior teeth only",
-        "All mandibular teeth",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11829,
-      question: "What is the penetration site for a PSA nerve block?",
-      options: [
-        "Height of mucobuccal fold at the canine",
-        "Height of mucobuccal fold posterior and superior to the second molar",
-        "Middle of the hard palate",
-        "Floor of the mouth",
+        "At the apex of the canine",
+        "Just mesial to the canine eminence",
+        "Distal to the second molar",
+        "At the incisive papilla"
       ],
       correct: "B"
     },
     {
-      id: 11830,
-      question: "What area does the Greater Palatine nerve block anesthetize?",
+      id: 12128,
+      question: "The Posterior Superior Alveolar (PSA) nerve block anesthetizes which teeth?",
+      options: [
+        "All maxillary teeth",
+        "Maxillary first molar distal buccal root, second molar, and third molar",
+        "Maxillary anterior teeth",
+        "Mandibular molars"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12129,
+      question: "Where is the penetration site for a PSA nerve block?",
+      options: [
+        "At the canine eminence",
+        "At the incisive papilla",
+        "Posterior and superior to the maxillary second molar",
+        "At the mental foramen"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12130,
+      question: "The Greater Palatine nerve block anesthetizes which area?",
       options: [
         "All of the hard palate",
-        "Only the soft palate",
-        "Hard palate and soft tissue from maxillary third molar to first premolar unilaterally",
-        "The tongue",
+        "Hard palate from the third molar to the first premolar unilaterally",
+        "Soft palate only",
+        "Anterior hard palate bilaterally"
       ],
-      correct: "C"
+      correct: "B"
     },
     {
-      id: 11831,
-      question: "Where is the penetration site for a Greater Palatine nerve block?",
+      id: 12131,
+      question: "Where is the penetration site for the Greater Palatine nerve block?",
       options: [
-        "Incisive papilla",
-        "Behind the third molar",
-        "Middle of the soft palate",
+        "At the incisive papilla",
         "Just anterior to the greater palatine foramen",
+        "At the canine eminence",
+        "Posterior to the third molar"
       ],
-      correct: "D"
+      correct: "B"
     },
     {
-      id: 11832,
-      question: "What area does the Nasopalatine nerve block anesthetize?",
+      id: 12132,
+      question: "The Nasopalatine nerve block anesthetizes which area?",
       options: [
-        "Hard palate and soft tissue bilaterally from canine to canine",
-        "Only one side of the palate",
-        "All maxillary teeth",
-        "The floor of the mouth",
+        "Unilateral hard palate",
+        "Soft palate",
+        "Hard palate bilaterally from canine to canine",
+        "Posterior hard palate only"
       ],
-      correct: "A"
+      correct: "C"
     },
     {
-      id: 11833,
-      question: "Where is the penetration site for a Nasopalatine nerve block?",
+      id: 12133,
+      question: "Where is the penetration site for the Nasopalatine nerve block?",
       options: [
-        "Greater palatine foramen",
+        "At the greater palatine foramen",
         "Just lateral to the posterior portion of the incisive papilla",
-        "Mucobuccal fold",
-        "Behind the last molar",
+        "At the canine eminence",
+        "Distal to the second molar"
       ],
       correct: "B"
     },
     {
-      id: 11834,
-      question: "Which nerves are anesthetized during an Inferior Alveolar (IA) nerve block?",
+      id: 12134,
+      question: "Which nerves are anesthetized with an Inferior Alveolar nerve block?",
       options: [
-        "Only the Inferior Alveolar nerve",
-        "Superior Alveolar nerves",
-        "Inferior Alveolar, Incisive, Mental, and Lingual nerves",
-        "Buccal nerve only",
+        "Only the inferior alveolar nerve",
+        "Inferior alveolar, mental, and buccal nerves",
+        "Inferior alveolar, incisive, mental, and lingual nerves",
+        "All mandibular nerves"
       ],
       correct: "C"
     },
     {
-      id: 11835,
-      question: "What teeth are anesthetized with an Inferior Alveolar nerve block?",
-      options: [
-        "Only mandibular molars",
-        "All mandibular teeth bilaterally",
-        "Only mandibular incisors",
-        "Mandibular teeth unilaterally to midline",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11836,
-      question: "Where is the penetration site for an Inferior Alveolar nerve block?",
-      options: [
-        "Middle of the pterygomandibular triangle at the height of the coronoid notch",
-        "Directly over the mandibular foramen",
-        "Floor of the mouth",
-        "Buccal mucosa near the molars",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11837,
-      question: "What needle length is typically used for an Inferior Alveolar nerve block?",
-      options: [
-        "Extra short (10mm)",
-        "Short (20-25mm)",
-        "Long (30-35mm)",
-        "Any length works equally well",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11838,
-      question: "What does a Long Buccal nerve block anesthetize?",
-      options: [
-        "All mandibular teeth",
-        "The tongue",
-        "Lower lip",
-        "Soft tissues buccal to the mandibular molars",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11839,
-      question: "Where is the penetration site for a Long Buccal nerve block?",
-      options: [
-        "Vestibule, distal and buccal to the most distal molar at the occlusal plane",
-        "Pterygomandibular triangle",
-        "Floor of the mouth",
-        "Lingual side of the mandible",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11840,
-      question: "What does a Mental nerve block anesthetize?",
-      options: [
-        "All mandibular teeth",
-        "Facial soft tissues from mental foramen to midline and lower lip",
-        "The tongue and floor of mouth",
-        "Maxillary teeth",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11841,
-      question: "What additional area does an Incisive nerve block anesthetize compared to a Mental nerve block?",
-      options: [
-        "The tongue",
-        "Maxillary anterior teeth",
-        "Mandibular teeth from second premolar to central incisor",
-        "The hard palate",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11842,
-      question: "Where is the mental foramen typically located?",
-      options: [
-        "Behind the third molar",
-        "At the midline of the mandible",
-        "On the lingual side of the mandible",
-        "Near the mandibular second premolar",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11843,
-      question: "In a needle gauge numbering system, what does a higher gauge number indicate?",
-      options: [
-        "A smaller lumen diameter",
-        "A thicker needle",
-        "A longer needle",
-        "Better quality",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11844,
-      question: "Which needle is thicker: 25-gauge or 30-gauge?",
-      options: [
-        "30-gauge",
-        "25-gauge",
-        "They are the same thickness",
-        "Gauge doesn't indicate thickness",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11845,
-      question: "What is the typical length of a \"short\" dental needle?",
-      options: [
-        "10-15 mm",
-        "30-35 mm",
-        "20-25 mm",
-        "40-45 mm",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11846,
-      question: "What is the typical length of a \"long\" dental needle?",
-      options: [
-        "20-25 mm",
-        "25-30 mm",
-        "35-40 mm",
-        "30-35 mm",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11847,
-      question: "How often should needles be changed during multiple injections on the same patient?",
-      options: [
-        "After approximately 3-4 injections",
-        "Never, use the same needle for all injections",
-        "After every single injection",
-        "Only when visibly damaged",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11848,
-      question: "Why should needles be changed regularly during treatment?",
-      options: [
-        "To save money",
-        "The stainless steel becomes dull, causing trauma and soreness",
-        "It's required by law",
-        "To use different gauge needles",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11849,
-      question: "What are the main parts of an anesthetic cartridge?",
-      options: [
-        "Only glass and metal",
-        "Plastic tube and metal cap",
-        "Rubber plunger, diaphragm, aluminum cap, and glass cylinder",
-        "Single-piece construction",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11850,
-      question: "What type of injection is a Periodontal Ligament (PDL) injection?",
-      options: [
-        "A nerve block",
-        "A palatal injection",
-        "An infiltration injection",
-        "A local injection directly into the tooth's sulcus",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11851,
-      question: "What area does a PDL injection anesthetize?",
-      options: [
-        "Pulp, soft tissue, and bone of the injected tooth only",
-        "Multiple teeth in a quadrant",
-        "The entire jaw",
-        "Only the gingiva",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11852,
-      question: "What must be documented when administering local anesthetic?",
-      options: [
-        "Only the date",
-        "Date, amount, type, concentration, injection location, reactions, and administrator",
-        "Only the type of anesthetic used",
-        "Just the patient's name and date",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11853,
-      question: "When documenting the amount of local anesthetic, what units should be used?",
-      options: [
-        "Only milliliters",
-        "Only number of cartridges",
-        "Number of cartridges or mL",
-        "Grams",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11854,
-      question: "What concentration information should be documented for local anesthetic?",
-      options: [
-        "Only the drug name",
-        "Just the vasoconstrictor concentration",
-        "None, concentration doesn't need documentation",
-        "Concentration and type of anesthetic, plus concentration of vasoconstrictor",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11855,
-      question: "Which step occurs first in the mechanism of local anesthetic action?",
-      options: [
-        "The anesthetic is given outside the nerve",
-        "The channel is blocked",
-        "It enters the sodium channel",
-        "Sodium enters the nerve cell",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11856,
-      question: "Which step occurs second in the mechanism of local anesthetic action?",
-      options: [
-        "The anesthetic blocks the sodium channel",
-        "The anesthetic is injected",
-        "Pain signals stop completely",
-        "The anesthetic moves through the nerve membrane",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11857,
-      question: "Which step occurs third in the mechanism of local anesthetic action?",
-      options: [
-        "The patient feels pain",
-        "The nerve membrane becomes permeable",
-        "The anesthetic goes inside the sodium channel",
-        "Sodium flows freely",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11858,
-      question: "What is the final result when local anesthetic blocks sodium channels?",
-      options: [
-        "Increased pain sensation",
-        "Sodium can still enter freely",
-        "The nerve dies permanently",
-        "Sodium cannot enter the nerve cell and pain signals are blocked",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11859,
-      question: "What happens to sodium (Na+) in blood versus nerves?",
-      options: [
-        "In blood, high Na+ increases water and BP; in nerves, Na+ entry sends pain signals",
-        "Sodium has no effect in either location",
-        "Sodium only affects blood pressure",
-        "Sodium only affects nerve function",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11860,
-      question: "How does blocking Na+ with local anesthetic affect pain perception?",
-      options: [
-        "It increases pain",
-        "Na+ cannot send pain signals, resulting in reduced pain",
-        "It has no effect on pain",
-        "It only affects blood pressure",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11861,
-      question: "What is the primary use of ester-type local anesthetics?",
-      options: [
-        "For deep nerve blocks",
-        "Intravenous injection",
-        "Topical application on surfaces",
-        "Intramuscular injection",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11862,
-      question: "What topical anesthetic product contains lidocaine and prilocaine?",
-      options: [
-        "Benzocaine gel",
-        "Procaine solution",
-        "Articaine cartridge",
-        "Oraqix",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11863,
-      question: "What is Oraqix specifically designed for?",
-      options: [
-        "Periodontal use (gum treatment)",
-        "Tooth extraction",
-        "Oral surgery",
-        "Root canal therapy",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11864,
-      question: "What components make up the delivery system for topical periodontal anesthetics like Oraqix?",
-      options: [
-        "Standard syringe only",
-        "Applicator with blunt-tip, cartridge, and reset button",
-        "Needle and cartridge",
-        "Spray bottle",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11865,
-      question: "When would you use a short needle in dental anesthesia?",
-      options: [
-        "For deep nerve blocks",
-        "For inferior alveolar blocks",
-        "For supraperiosteal (local infiltration) injections",
-        "For intravenous sedation",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11866,
-      question: "What are the three main types of dental local anesthetic injections?",
-      options: [
-        "Superficial, intermediate, deep",
-        "Surface, internal, external",
-        "Primary, secondary, tertiary",
-        "Infiltration, supraperiosteal, nerve block",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11867,
-      question: "What is the infraorbital foramen's significance in local anesthesia?",
-      options: [
-        "It's a landmark for maxillary nerve blocks",
-        "It's where mandibular injections are given",
-        "It has no relevance to anesthesia",
-        "It's only important for oral surgery",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11868,
-      question: "What anatomical structure forms the medial boundary of the pterygomandibular triangle?",
-      options: [
-        "Internal oblique ridge",
-        "Pterygomandibular raphe",
-        "Buccal mucosa",
-        "Masseter muscle",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11869,
-      question: "What anatomical structure forms the lateral boundary of the pterygomandibular triangle?",
-      options: [
-        "Pterygomandibular raphe",
-        "Buccal mucosa",
-        "Internal oblique ridge",
-        "Tongue",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11870,
-      question: "At what height relative to the occlusal plane should an inferior alveolar nerve block be administered?",
-      options: [
-        "At the occlusal plane level",
-        "Below the occlusal plane",
-        "Height doesn't matter",
-        "6-10 mm above the mandibular occlusal plane",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11871,
-      question: "What is the coronoid notch?",
-      options: [
-        "The concave area between the coronoid process and condyle of the mandible",
-        "A depression on the maxilla",
-        "A groove on the tongue",
-        "The space between teeth",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11872,
-      question: "How far should the needle typically be advanced for an inferior alveolar nerve block?",
+      id: 12135,
+      question: "How deep should the needle be inserted for an inferior alveolar nerve block?",
       options: [
         "5-10 mm",
         "10-15 mm",
         "20-25 mm",
-        "30-35 mm",
+        "30-35 mm"
       ],
       correct: "C"
     },
     {
-      id: 11873,
-      question: "What should you do if bone is contacted during an inferior alveolar nerve block before reaching the expected depth?",
+      id: 12136,
+      question: "The Long Buccal nerve block anesthetizes which area?",
       options: [
-        "Continue pushing the needle forward",
-        "Remove completely and restart",
-        "Inject immediately",
-        "Withdraw 1mm and deposit anesthetic",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11874,
-      question: "Why is aspiration important before injecting local anesthetic?",
-      options: [
-        "To ensure the needle isn't in a blood vessel",
-        "To make the injection less painful",
-        "To test if the anesthetic is still good",
-        "It's not important",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11875,
-      question: "What does a positive aspiration (blood in the cartridge) indicate?",
-      options: [
-        "The injection was successful",
-        "The needle is in a blood vessel and should be repositioned",
-        "The patient is bleeding excessively",
-        "The anesthetic is contaminated",
+        "All buccal tissue",
+        "Buccal tissue of mandibular molars unilaterally",
+        "Lingual tissue",
+        "Palatal tissue"
       ],
       correct: "B"
     },
     {
-      id: 11876,
+      id: 12137,
+      question: "Where is the penetration site for the Long Buccal nerve block?",
+      options: [
+        "At the mental foramen",
+        "At the pterygomandibular triangle",
+        "Distal and buccal to the most distal molar at occlusal plane height",
+        "At the coronoid notch"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12138,
+      question: "The Mental nerve block anesthetizes which area?",
+      options: [
+        "All mandibular teeth",
+        "Facial soft tissues from mental foramen to midline and lower lip",
+        "Lingual tissues",
+        "All facial tissues"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12139,
+      question: "The Incisive nerve block anesthetizes which teeth in addition to soft tissues?",
+      options: [
+        "All mandibular teeth",
+        "Mandibular molars",
+        "Mandibular second premolar to central incisor unilaterally",
+        "Maxillary anterior teeth"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12140,
+      question: "Where is the mental foramen typically located?",
+      options: [
+        "Near the first molar",
+        "Near the first or second premolar",
+        "Near the canine",
+        "Near the third molar"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12141,
+      question: "What is the recommended needle gauge and length for a mental nerve block?",
+      options: [
+        "25 or 27 gauge, long",
+        "30 gauge, short",
+        "25 or 27 gauge, short",
+        "23 gauge, extra long"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12142,
+      question: "Which complication involves difficulty opening the mouth after injection?",
+      options: [
+        "Hematoma",
+        "Trismus",
+        "Paresthesia",
+        "Edema"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12143,
+      question: "Which complication causes temporary facial drooping?",
+      options: [
+        "Needle breakage",
+        "Hematoma",
+        "Facial nerve paralysis",
+        "Trismus"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12144,
+      question: "What is paresthesia in the context of local anesthesia?",
+      options: [
+        "Temporary numbness during anesthesia",
+        "Persistent numbness or tingling that doesn\'t go away quickly",
+        "Pain during injection",
+        "Allergic reaction"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12145,
+      question: "What causes a hematoma after local anesthetic injection?",
+      options: [
+        "Allergic reaction",
+        "Hitting a blood vessel",
+        "Using expired anesthetic",
+        "Injecting too quickly"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12146,
+      question: "What is the difference between relative and absolute overdose?",
+      options: [
+        "There is no difference",
+        "Relative is a normal dose causing strong effects in sensitive patients; absolute is too large a dose",
+        "Relative is mild; absolute is always fatal",
+        "Relative affects children; absolute affects adults"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12147,
+      question: "Which type of local anesthetic is more commonly associated with allergies?",
+      options: [
+        "Amides",
+        "Esters",
+        "Both equally",
+        "Neither causes allergies"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12148,
+      question: "What is anaphylaxis?",
+      options: [
+        "Mild allergic reaction",
+        "Delayed allergic response",
+        "Severe, life-threatening allergic reaction",
+        "Local tissue reaction"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12149,
+      question: "What is the immediate treatment for anaphylaxis?",
+      options: [
+        "Antihistamine pill",
+        "Epinephrine injection",
+        "Ice pack",
+        "Rest and observation"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12150,
+      question: "What causes tissue sloughing after local anesthetic injection?",
+      options: [
+        "Normal reaction",
+        "Allergic response",
+        "Tissue damage from chemical irritation or ischemia",
+        "Bacterial infection"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12151,
+      question: "What is a Periodontal Ligament (PDL) injection?",
+      options: [
+        "Injection into the palate",
+        "Injection directly into the periodontal ligament space of a tooth",
+        "Injection into the mental foramen",
+        "Topical application"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12152,
+      question: "What areas are anesthetized with a PDL injection?",
+      options: [
+        "Multiple teeth",
+        "Entire quadrant",
+        "Only the pulp, soft tissue, and bone of the injected tooth",
+        "All surrounding teeth"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12153,
+      question: "What should be documented after administering local anesthetic?",
+      options: [
+        "Only the type of anesthetic",
+        "Only the amount used",
+        "Date, amount, type, concentration, injection site, reaction, and administrator",
+        "Nothing needs to be documented"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12154,
+      question: "What does \"25-gauge short\" refer to?",
+      options: [
+        "Needle diameter and length",
+        "Cartridge size",
+        "Syringe type",
+        "Anesthetic concentration"
+      ],
+      correct: "A"
+    },
+    {
+      id: 12155,
+      question: "What is the purpose of aspirating before injecting local anesthetic?",
+      options: [
+        "To remove air bubbles",
+        "To check if the needle is in a blood vessel",
+        "To test the anesthetic",
+        "To reduce pressure"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12156,
+      question: "What is the bevel of a needle?",
+      options: [
+        "The hub attachment",
+        "The angled tip",
+        "The length measurement",
+        "The gauge size"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12157,
+      question: "What is ischemia in relation to local anesthetic with vasoconstrictor?",
+      options: [
+        "Allergic reaction",
+        "Reduced blood flow to the area",
+        "Increased sensation",
+        "Nerve damage"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12158,
+      question: "Why should the injection be administered slowly?",
+      options: [
+        "To conserve anesthetic",
+        "To reduce pain and tissue trauma",
+        "To speed up onset",
+        "To prevent waste"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12159,
       question: "What is the purpose of topical anesthetic before injection?",
       options: [
         "To sterilize the area",
-        "To speed up the injection",
-        "To reduce pain from needle penetration",
-        "To identify the injection site",
+        "To numb the surface and reduce injection pain",
+        "To prevent bleeding",
+        "To speed up the main anesthetic"
       ],
-      correct: "C"
+      correct: "B"
     },
     {
-      id: 11877,
+      id: 12160,
       question: "How long should topical anesthetic be applied before injection?",
       options: [
-        "A few seconds",
-        "10-15 minutes",
-        "It should be left on indefinitely",
-        "1-2 minutes",
+        "5-10 seconds",
+        "30 seconds to 2 minutes",
+        "5-10 minutes",
+        "Not specified in the material"
       ],
-      correct: "D"
+      correct: "B"
     },
     {
-      id: 11878,
-      question: "What should be used to dry the injection site before applying topical anesthetic?",
+      id: 12161,
+      question: "What does \"unilateral\" mean in anesthesia documentation?",
       options: [
-        "Cotton gauze or applicator",
-        "Paper towel",
-        "Air syringe only",
-        "Nothing, moisture helps",
+        "Both sides",
+        "One side only",
+        "Upper and lower",
+        "Front and back"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12162,
+      question: "In a nerve block, where is the anesthetic deposited?",
+      options: [
+        "At the tooth apex",
+        "In the gingival tissue",
+        "Near a main nerve trunk",
+        "On the surface only"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12163,
+      question: "What landmark is used for the inferior alveolar nerve block?",
+      options: [
+        "Mental foramen",
+        "Coronoid notch and pterygomandibular triangle",
+        "Greater palatine foramen",
+        "Incisive papilla"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12164,
+      question: "What is the coronoid notch?",
+      options: [
+        "A depression on the maxilla",
+        "The depression between the coronoid process and mandibular ramus",
+        "The mental foramen opening",
+        "The palatal tissue landmark"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12165,
+      question: "What does ASA classification refer to in the context of patient assessment?",
+      options: [
+        "American Society of Anesthesiologists physical status classification",
+        "Anterior Superior Alveolar nerve",
+        "Aspiration Safety Assessment",
+        "Anesthetic Solution Application"
       ],
       correct: "A"
     },
     {
-      id: 11879,
-      question: "Why should injection be performed slowly?",
+      id: 12166,
+      question: "Why is it important to know if a patient has liver disease?",
       options: [
-        "To use less anesthetic",
-        "To make it last longer",
-        "To reduce pain and tissue trauma",
-        "It doesn't matter how fast you inject",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11880,
-      question: "What should you do if a patient reports severe pain during injection?",
-      options: [
-        "Continue injecting quickly",
-        "Ignore it and finish the injection",
-        "Remove the needle completely immediately",
-        "Stop, withdraw slightly, and assess needle position",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11881,
-      question: "What is sloughing of tissues?",
-      options: [
-        "Peeling or death of skin/mucosa due to tissue damage",
-        "Normal healing after injection",
-        "Temporary whitening of tissue",
-        "Increased blood flow to the area",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11882,
-      question: "What can cause post-anesthetic intraoral lesions?",
-      options: [
-        "Normal reaction to anesthetic",
-        "Trauma from injection or patient biting numb tissues",
-        "Allergic reaction to cartridge material",
-        "Bacterial infection from the needle",
+        "It affects ester metabolism",
+        "It affects amide metabolism",
+        "It has no effect on anesthesia",
+        "It only affects general anesthesia"
       ],
       correct: "B"
     },
     {
-      id: 11883,
-      question: "What should patients be warned about after receiving local anesthetic?",
+      id: 12167,
+      question: "What does the pterygomandibular raphe indicate?",
       options: [
-        "Not to eat for 24 hours",
-        "To keep the area wet",
-        "To avoid biting lips or cheeks while numb",
-        "To exercise the jaw immediately",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11884,
-      question: "How long does numbness typically last after local anesthetic?",
-      options: [
-        "15-30 minutes",
-        "12-24 hours",
-        "Several days",
-        "1-4 hours depending on the drug and technique",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11885,
-      question: "Which has a longer duration: lidocaine or bupivacaine?",
-      options: [
-        "Bupivacaine",
-        "Lidocaine",
-        "They last the same time",
-        "Duration depends only on dose",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11886,
-      question: "Why might bupivacaine be chosen over lidocaine?",
-      options: [
-        "It's cheaper",
-        "For longer procedures or when post-operative pain relief is needed",
-        "It works faster",
-        "It's safer in all patients",
+        "Location of blood vessels",
+        "Landmark for inferior alveolar nerve block",
+        "Site of muscle attachment only",
+        "Area to avoid for injections"
       ],
       correct: "B"
     },
     {
-      id: 11887,
-      question: "What is articaine's unique property among amide local anesthetics?",
+      id: 12168,
+      question: "What is the internal oblique ridge?",
       options: [
-        "It's the safest option",
-        "It lasts the longest",
-        "It has both ester and amide characteristics",
-        "It has no vasoconstrictor",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11888,
-      question: "What concentration of lidocaine is commonly used in dental cartridges?",
-      options: [
-        "1%",
-        "5%",
-        "10%",
-        "2%",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11889,
-      question: "What is the maximum recommended dose of lidocaine for a healthy adult?",
-      options: [
-        "500 mg",
-        "100 mg",
-        "300 mg",
-        "1000 mg",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11890,
-      question: "How much lidocaine is in one standard 1.8 mL cartridge of 2% lidocaine?",
-      options: [
-        "18 mg",
-        "36 mg",
-        "54 mg",
-        "72 mg",
+        "A maxillary landmark",
+        "A mandibular bony landmark used for injection guidance",
+        "A soft tissue structure",
+        "A nerve pathway"
       ],
       correct: "B"
     },
     {
-      id: 11891,
-      question: "Why are vasoconstrictors added to local anesthetics?",
+      id: 12169,
+      question: "What is the purpose of the color-coded bands on anesthetic cartridges?",
       options: [
-        "To increase pain",
-        "To speed up metabolism",
-        "To decrease bleeding and prolong anesthetic duration",
-        "To reduce cost",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11892,
-      question: "What is the most common vasoconstrictor used in dental local anesthetics?",
-      options: [
-        "Norepinephrine",
-        "Phenylephrine",
-        "Dopamine",
-        "Epinephrine",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11893,
-      question: "What does levonordefrin do when added to local anesthetic?",
-      options: [
-        "Causes vasoconstriction similar to epinephrine",
-        "Increases pain sensitivity",
-        "Speeds up drug elimination",
-        "Prevents allergic reactions",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11894,
-      question: "What is the maximum recommended dose of epinephrine for healthy patients per appointment?",
-      options: [
-        "0.04 mg",
-        "0.2 mg",
-        "0.5 mg",
-        "1.0 mg",
+        "To indicate expiration date",
+        "To identify the drug and vasoconstrictor concentration",
+        "To show the manufacturer",
+        "Purely decorative"
       ],
       correct: "B"
     },
     {
-      id: 11895,
-      question: "What is the maximum recommended dose of epinephrine for cardiac patients?",
+      id: 12170,
+      question: "How many milliliters are in a standard dental anesthetic cartridge?",
       options: [
-        "0.04 mg",
-        "0.2 mg",
-        "0.5 mg",
-        "Same as healthy patients",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11896,
-      question: "How many cartridges of 1:100,000 epinephrine can a healthy patient receive?",
-      options: [
-        "5.5 cartridges",
-        "22.2 cartridges",
-        "Unlimited",
-        "11.1 cartridges",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11897,
-      question: "How many cartridges of 1:100,000 epinephrine should cardiac patients be limited to?",
-      options: [
-        "1.1 cartridges",
-        "2.2 cartridges",
-        "5.5 cartridges",
-        "11.1 cartridges",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11898,
-      question: "What symptom is associated with epinephrine overdose?",
-      options: [
-        "Bradycardia (slow heart rate)",
-        "Drowsiness",
-        "Throbbing headache and palpitations",
-        "Decreased blood pressure",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11899,
-      question: "What respiratory symptom can occur with epinephrine overdose?",
-      options: [
-        "Improved breathing",
-        "Decreased respiratory rate",
-        "No respiratory effects",
-        "Respiratory difficulty",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11900,
-      question: "What psychological symptom is associated with epinephrine overdose?",
-      options: [
-        "Increased fear and anxiety",
-        "Euphoria",
-        "Sedation",
-        "Confusion",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11901,
-      question: "What physical appearance change occurs with epinephrine overdose?",
-      options: [
-        "Flushed skin",
-        "Pallor (pale appearance)",
-        "Cyanosis (blue color)",
-        "No visible changes",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11902,
-      question: "What medications can interact with epinephrine in local anesthetics?",
-      options: [
-        "Antibiotics only",
-        "Pain relievers only",
-        "Antidepressants, beta-blockers, and herbal supplements",
-        "Vitamins",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11903,
-      question: "Why is it important to ask about herbal supplements before giving local anesthetic?",
-      options: [
-        "They're always dangerous",
-        "They make anesthetics work better",
-        "It's not important",
-        "Some can interact with local anesthetics or epinephrine",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11904,
-      question: "What medical condition requires special consideration when selecting local anesthetics?",
-      options: [
-        "Liver disease",
-        "Common cold",
-        "Seasonal allergies",
-        "Athlete's foot",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11905,
-      question: "Why is liver disease relevant to local anesthetic selection?",
-      options: [
-        "The liver stores anesthetics",
-        "Amide local anesthetics are metabolized in the liver",
-        "Liver disease prevents pain sensation",
-        "It's not actually relevant",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11906,
-      question: "What should be done if a patient has an allergy to ester local anesthetics?",
-      options: [
-        "Use esters anyway",
-        "Don't use any anesthetic",
-        "Use amide local anesthetics instead",
-        "Use general anesthesia",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11907,
-      question: "Are cross-allergies common between esters and amides?",
-      options: [
-        "Yes, very common",
-        "Only in children",
-        "Only in elderly patients",
-        "No, they're chemically different",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11908,
-      question: "What is the difference between an aspirating and self-aspirating syringe?",
-      options: [
-        "Aspirating requires manual technique; self-aspirating has automatic mechanism",
-        "There is no difference",
-        "Self-aspirating is always disposable",
-        "Aspirating syringes can't be reused",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11909,
-      question: "What is a pressure syringe used for?",
-      options: [
-        "Routine infiltrations",
-        "PDL (periodontal ligament) injections",
-        "Topical anesthetic application",
-        "Mixing anesthetic solutions",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11910,
-      question: "What is the purpose of computer-controlled local anesthetic delivery systems?",
-      options: [
-        "To make injections more painful",
-        "To reduce the amount of anesthetic needed to zero",
-        "To control flow rate and pressure for more comfortable injections",
-        "To eliminate the need for topical anesthetic",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11911,
-      question: "What safety feature is found on modern dental syringes?",
-      options: [
-        "Automatic cartridge loading",
-        "Built-in timers",
-        "Temperature control",
-        "Safety mechanisms to prevent needlestick injuries",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11912,
-      question: "What should be done with used needles?",
-      options: [
-        "Dispose in sharps container without recapping",
-        "Recap and throw in regular trash",
-        "Reuse after cleaning",
-        "Save for later use",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11913,
-      question: "Why should needles not be recapped after use?",
-      options: [
-        "It wastes time",
-        "It increases risk of needlestick injury",
-        "It damages the needle",
-        "It's more expensive",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11914,
-      question: "What is the bevel of a needle?",
-      options: [
-        "The hub where it attaches to the syringe",
-        "The middle section of the needle",
-        "The angled tip of the needle",
-        "The length of the needle",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11915,
-      question: "How should the bevel be oriented during injection?",
-      options: [
-        "Randomly, orientation doesn't matter",
-        "Always away from tissue",
-        "Downward only",
-        "Toward the bone for most injections",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11916,
-      question: "What is the hub of the needle?",
-      options: [
-        "The pointed tip",
-        "The part that attaches to the syringe",
-        "The middle shaft",
-        "The bevel",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11917,
-      question: "What is the shaft of the needle?",
-      options: [
-        "The attachment point",
-        "The bevel",
-        "The long, thin body of the needle between hub and tip",
-        "The internal channel",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11918,
-      question: "What is in the cartridge besides the local anesthetic drug?",
-      options: [
-        "Only the anesthetic",
-        "Just saline solution",
-        "Only epinephrine",
-        "Anesthetic, vasoconstrictor, preservatives, and sometimes sodium bisulfite",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11919,
-      question: "Why is sodium bisulfite added to some local anesthetic cartridges?",
-      options: [
-        "To prevent oxidation of epinephrine",
-        "To increase pH",
-        "As the main anesthetic agent",
-        "To add flavor",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11920,
-      question: "Can patients be allergic to components other than the anesthetic drug itself?",
-      options: [
-        "No, only the anesthetic causes allergies",
-        "Yes, to preservatives like methylparaben or sodium bisulfite",
-        "Allergies never occur with local anesthetics",
-        "Only children have these allergies",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11921,
-      question: "What is methylparaben?",
-      options: [
-        "A type of local anesthetic",
-        "A vasoconstrictor",
-        "A preservative that can cause allergic reactions",
-        "A topical anesthetic",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11922,
-      question: "What should be checked before using a local anesthetic cartridge?",
-      options: [
-        "Only the expiration date",
-        "Only the color",
-        "Just the manufacturer",
-        "Expiration date, clarity of solution, integrity of cartridge, and presence of bubbles",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11923,
-      question: "What does a large bubble in an anesthetic cartridge indicate?",
-      options: [
-        "Possible contamination or damage; cartridge should not be used",
-        "The cartridge is fine to use",
-        "Higher potency",
-        "Lower cost",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11924,
-      question: "What should the anesthetic solution look like in the cartridge?",
-      options: [
-        "Cloudy or discolored",
-        "Clear and colorless (or slightly colored if with vasoconstrictor)",
-        "Dark brown",
-        "Thick and gel-like",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11925,
-      question: "What could a cracked or damaged cartridge lead to?",
-      options: [
-        "Better anesthetic effect",
-        "Faster onset",
-        "Contamination and infection risk",
-        "Longer duration",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11926,
-      question: "What is the color-coding system on cartridges used for?",
-      options: [
-        "Decoration",
-        "Indicating expiration date",
-        "Showing manufacturer preference",
-        "Identifying the type and concentration of anesthetic",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11927,
-      question: "What does a red band on a cartridge typically indicate?",
-      options: [
-        "No vasoconstrictor",
-        "Contains vasoconstrictor",
-        "Expired",
-        "For topical use only",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11928,
-      question: "Where should local anesthetic cartridges be stored?",
-      options: [
-        "In direct sunlight",
-        "In the freezer",
-        "At room temperature, away from light and heat",
-        "In the sterilizer",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11929,
-      question: "Why should cartridges not be stored in disinfectant solution?",
-      options: [
-        "It's actually recommended",
-        "It makes them expire faster",
-        "It changes the color",
-        "Disinfectant can penetrate the cartridge and contaminate the solution",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11930,
-      question: "What is the standard volume of a dental local anesthetic cartridge?",
-      options: [
-        "1.8 mL",
         "1.0 mL",
+        "1.8 mL",
         "2.5 mL",
-        "5.0 mL",
+        "3.0 mL"
       ],
-      correct: "A"
+      correct: "B"
     },
+    {
+      id: 12171,
+      question: "What is the mucobuccal fold?",
+      options: [
+        "A bone structure",
+        "The junction where mucosa transitions from alveolar mucosa to buccal mucosa",
+        "A nerve pathway",
+        "A muscle attachment"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12172,
+      question: "Where should used anesthetic needles be disposed?",
+      options: [
+        "Regular trash",
+        "Sharps container",
+        "Recycle bin",
+        "Any medical waste container"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12173,
+      question: "What does \"bilateral\" anesthesia mean?",
+      options: [
+        "Top and bottom",
+        "Both left and right sides",
+        "Front and back",
+        "Inside and outside"
+      ],
+      correct: "B"
+    }
+  
   ],
-  "7. Muscles of Mastication": [    {
+  "15. Muscles of Mastication (Part 1)": [    {
       id: 12000,
       question: "What are muscle fibers?",
       options: [
@@ -16252,918 +13905,843 @@ export const questions = {
       correct: "C"
     }
   ],
-  "7-1. Muscles of Mastication": [    {
-      id: 12000,
+  "16. Muscles of Mastication (Part 2)": [
+    {
+      id: 12200,
       question: "What are muscle fibers?",
       options: [
-        "Long cylindrical cells that make up muscles",
         "Short cells that connect bones together",
-        "Small proteins within muscle tissue",
-        "Nerve pathways that control muscles",
-      ],
-      correct: "A"
-    },
-    {
-      id: 12001,
-      question: "What is the typical diameter range of a muscle fiber cell?",
-      options: [
-        "100-200 microns",
-        "10-100 microns",
-        "1-10 microns",
-        "5-50 microns",
+        "Long cylindrical cells that make up muscle bundles",
+        "Nerve pathways that transmit signals",
+        "Blood vessels that supply muscles with oxygen"
       ],
       correct: "B"
     },
     {
-      id: 12002,
-      question: "What is the only active movement that muscles can perform?",
+      id: 12201,
+      question: "What is the primary active movement that muscles can perform?",
       options: [
-        "Extension",
-        "Relaxation",
+        "Expansion",
+        "Rotation",
         "Contraction",
-        "Stretching",
+        "Elongation"
       ],
       correct: "C"
     },
     {
-      id: 12003,
-      question: "How do muscles move bones in opposite directions?",
+      id: 12202,
+      question: "How does the brain communicate with muscles to produce movement?",
       options: [
-        "By pushing instead of pulling",
-        "By stretching and contracting simultaneously",
-        "By rotating around the bone",
-        "By pairs of muscles working together, one contracting while the other relaxes",
+        "Through hormonal signals via the bloodstream",
+        "By direct physical connection through cartilage",
+        "Via electrical impulses through nerve pathways",
+        "Through chemical reactions in muscle tissue"
       ],
-      correct: "D"
+      correct: "C"
     },
     {
-      id: 12004,
+      id: 12203,
+      question: "What is the typical diameter range of muscle fiber cells?",
+      options: [
+        "1-10 microns",
+        "10-100 microns",
+        "100-200 microns",
+        "200-500 microns"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12204,
       question: "Which type of muscle is found in the digestive system and bladder?",
       options: [
-        "Smooth muscle",
         "Cardiac muscle",
         "Skeletal muscle",
         "Voluntary muscle",
+        "Smooth muscle"
       ],
-      correct: "A"
+      correct: "D"
     },
     {
-      id: 12005,
-      question: "Which characteristic is unique to smooth muscle?",
+      id: 12205,
+      question: "What is a characteristic feature of cardiac muscle?",
       options: [
-        "Only found in the heart",
         "Can stretch and maintain tension for long periods",
         "Short twitch movements only",
-        "Always voluntary",
+        "Voluntary control by conscious thought",
+        "Attaches directly to the skeleton"
       ],
       correct: "B"
     },
     {
-      id: 12006,
-      question: "Where is cardiac muscle exclusively found?",
+      id: 12206,
+      question: "Which type of muscle attaches to the skeleton and typically comes in pairs?",
       options: [
-        "In major blood vessels",
-        "In the digestive system",
-        "Only in the heart",
-        "Throughout the circulatory system",
-      ],
-      correct: "C"
-    },
-    {
-      id: 12007,
-      question: "Which type of muscle is primarily studied in relation to mastication?",
-      options: [
-        "Involuntary muscle",
-        "Cardiac muscle",
         "Smooth muscle",
+        "Cardiac muscle",
         "Skeletal muscle",
+        "Involuntary muscle"
       ],
-      correct: "D"
+      correct: "C"
     },
     {
-      id: 12008,
-      question: "What is the definition of a muscle's \"origin\"?",
+      id: 12207,
+      question: "What are the two types of skeletal muscle contractions?",
       options: [
+        "Rapid and slow",
+        "Strong and weak",
+        "Twitch and tetanus",
+        "Voluntary and involuntary"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12208,
+      question: "What is the origin of a muscle?",
+      options: [
+        "The end attached to the more movable structure",
         "The end attached to the least movable structure",
-        "The end attached to the more movable structure",
-        "The middle point of the muscle",
-        "The point where the muscle receives nerve signals",
+        "The middle portion of the muscle belly",
+        "The nerve supply entering the muscle"
       ],
-      correct: "A"
+      correct: "B"
     },
     {
-      id: 12009,
-      question: "What is the definition of a muscle's \"insertion\"?",
+      id: 12209,
+      question: "What is the insertion of a muscle?",
       options: [
-        "The nerve attachment point",
-        "The end attached to the more movable structure",
+        "The point where nerves enter the muscle",
         "The end attached to the immovable bone",
-        "The center of the muscle belly",
-      ],
-      correct: "B"
-    },
-    {
-      id: 12010,
-      question: "What does \"elevation\" of the mandible mean?",
-      options: [
-        "Pushing the jaw forward",
-        "Lowering the jaw",
-        "Lifting the jaw upward",
-        "Moving the jaw sideways",
+        "The end attached to the more movable structure",
+        "The center of the muscle fiber bundle"
       ],
       correct: "C"
     },
     {
-      id: 12011,
-      question: "What does \"depression\" of the mandible refer to?",
+      id: 12210,
+      question: "Which term describes lifting the mandible and bringing teeth together?",
       options: [
-        "Grinding motion",
-        "Moving the jaw backward",
-        "Lifting the jaw",
-        "Lowering the jaw",
+        "Depression",
+        "Retraction",
+        "Elevation",
+        "Protraction"
       ],
-      correct: "D"
+      correct: "C"
     },
     {
-      id: 12012,
-      question: "What is \"retraction\" of the mandible?",
+      id: 12211,
+      question: "What does retraction of the mandible mean?",
       options: [
-        "Pulling the jaw backward",
-        "Pushing the jaw forward",
-        "Moving the jaw sideways",
-        "Opening the mouth",
-      ],
-      correct: "A"
-    },
-    {
-      id: 12013,
-      question: "What is \"protraction\" of the mandible?",
-      options: [
-        "Side-to-side movement",
-        "Pushing the jaw forward",
-        "Pulling the jaw backward",
-        "Closing the mouth",
-      ],
-      correct: "B"
-    },
-    {
-      id: 12014,
-      question: "What does \"medial/lateral excursion\" of the mandible describe?",
-      options: [
-        "Pushing the jaw forward",
-        "Lifting the jaw upward",
         "Moving the jaw from side to side",
-        "Opening and closing the mouth",
+        "Pulling the mandible posteriorly",
+        "Lowering the mandible",
+        "Pushing the mandible forward"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12212,
+      question: "What is protraction of the mandible?",
+      options: [
+        "Lifting the jaw upward",
+        "Moving the jaw backward",
+        "Pushing the mandible anteriorly",
+        "Moving the jaw laterally"
       ],
       correct: "C"
     },
     {
-      id: 12015,
-      question: "What does the term \"mastication\" mean?",
+      id: 12213,
+      question: "What does medial/lateral excursion refer to?",
       options: [
-        "Speaking",
-        "Swallowing",
-        "Breathing",
-        "Chewing",
+        "Opening and closing the mouth",
+        "Moving the mandible from side to side",
+        "Lifting and lowering the jaw",
+        "Forward and backward jaw movement"
       ],
-      correct: "D"
+      correct: "B"
     },
     {
-      id: 12016,
+      id: 12214,
       question: "How many pairs of muscles are responsible for mastication?",
       options: [
-        "Four pairs",
-        "Two pairs",
-        "Three pairs",
-        "Five pairs",
-      ],
-      correct: "A"
-    },
-    {
-      id: 12017,
-      question: "What are the four muscles of mastication?",
-      options: [
-        "Lateral pterygoid, Buccinator, Masseter, Digastric",
-        "Masseter, Temporalis, Medial pterygoid, Lateral pterygoid",
-        "Masseter, Temporalis, Buccinator, Digastric",
-        "Temporalis, Masseter, Mylohyoid, Geniohyoid",
-      ],
-      correct: "B"
-    },
-    {
-      id: 12018,
-      question: "Which nerve innervates all the muscles of mastication?",
-      options: [
-        "Glossopharyngeal nerve (CN IX)",
-        "Facial nerve (CN VII)",
-        "Mandibular division of the trigeminal nerve (V3)",
-        "Hypoglossal nerve (CN XII)",
+        "Two",
+        "Three",
+        "Four",
+        "Five"
       ],
       correct: "C"
     },
     {
-      id: 12019,
+      id: 12215,
+      question: "What is mastication?",
+      options: [
+        "The process of swallowing food",
+        "The process of breathing",
+        "The process of breaking food down with teeth",
+        "The process of digesting food"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12216,
+      question: "Which nerve innervates all muscles of mastication?",
+      options: [
+        "Facial nerve",
+        "Hypoglossal nerve",
+        "Mandibular division of trigeminal nerve (V3)",
+        "Glossopharyngeal nerve"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12217,
       question: "What provides the blood supply to the muscles of mastication?",
       options: [
-        "External carotid artery directly",
-        "Lingual artery",
         "Facial artery",
+        "Lingual artery",
         "Maxillary artery",
+        "External carotid artery"
       ],
-      correct: "D"
+      correct: "C"
     },
     {
-      id: 12020,
-      question: "Where does the masseter muscle insert?",
-      options: [
-        "Angle of the mandible on the lateral side",
-        "Coronoid process of the mandible",
-        "Neck of the mandibular condyle",
-        "Ramus of the mandible on the medial side",
-      ],
-      correct: "A"
-    },
-    {
-      id: 12021,
-      question: "How many heads does the masseter muscle have?",
-      options: [
-        "Four",
-        "Two",
-        "One",
-        "Three",
-      ],
-      correct: "B"
-    },
-    {
-      id: 12022,
+      id: 12218,
       question: "What is the primary action of the masseter muscle?",
       options: [
-        "Retraction of the mandible",
-        "Depression of the mandible",
-        "Elevation of the mandible",
-        "Lateral movement of the jaw",
+        "Opens the mouth",
+        "Moves jaw side to side",
+        "Pulls jaw backward",
+        "Elevates the jaw"
+      ],
+      correct: "D"
+    },
+    {
+      id: 12219,
+      question: "Where does the masseter muscle insert?",
+      options: [
+        "Coronoid process of mandible",
+        "Angle of the mandible on the lateral side",
+        "Condyle of the mandible",
+        "Medial surface of the ramus"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12220,
+      question: "How many heads does the masseter muscle have?",
+      options: [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12221,
+      question: "What is the shape of the temporalis muscle?",
+      options: [
+        "Rectangular",
+        "Circular",
+        "Fan-shaped",
+        "Triangular"
       ],
       correct: "C"
     },
     {
-      id: 12023,
+      id: 12222,
       question: "Where does the temporalis muscle originate?",
       options: [
-        "Maxilla",
         "Zygomatic arch",
-        "Sphenoid bone",
+        "Maxillary bone",
         "Temporal fossa of the temporal bone",
+        "Sphenoid bone"
       ],
-      correct: "D"
+      correct: "C"
     },
     {
-      id: 12024,
+      id: 12223,
       question: "Where does the temporalis muscle insert?",
       options: [
-        "Coronoid process of the mandible and anterior border of ramus",
         "Angle of the mandible",
-        "Neck of the condyle",
-        "Body of the mandible",
-      ],
-      correct: "A"
-    },
-    {
-      id: 12025,
-      question: "What are the two actions of the temporalis muscle?",
-      options: [
-        "Depression and protraction",
-        "Elevation and retraction",
-        "Protraction and lateral movement",
-        "Elevation and depression",
+        "Coronoid process and anterior border of ramus",
+        "Condyle of the mandible",
+        "Mental protuberance"
       ],
       correct: "B"
     },
     {
-      id: 12026,
-      question: "Why does the temporalis muscle have two different actions?",
+      id: 12224,
+      question: "What action do the posterior fibers of the temporalis produce?",
       options: [
-        "It has superior and inferior heads",
-        "It has two separate nerve supplies",
-        "Its anterior fibers are vertical and posterior fibers are horizontal",
-        "It attaches to two different bones",
+        "Elevation only",
+        "Depression of mandible",
+        "Retraction of mandible",
+        "Lateral movement"
       ],
       correct: "C"
     },
     {
-      id: 12027,
+      id: 12225,
+      question: "What are the two primary actions of the temporalis muscle?",
+      options: [
+        "Elevation and depression",
+        "Elevation and retraction",
+        "Protraction and retraction",
+        "Protraction and depression"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12226,
       question: "Where is the major origin of the medial pterygoid muscle?",
       options: [
-        "Greater wing of the sphenoid",
-        "Lateral surface of the lateral pterygoid plate",
-        "Maxillary tuberosity",
+        "Lateral surface of lateral pterygoid plate",
         "Medial side of the lateral pterygoid plate",
+        "Greater wing of sphenoid",
+        "Temporal fossa"
       ],
-      correct: "D"
+      correct: "B"
     },
     {
-      id: 12028,
+      id: 12227,
+      question: "What is the smaller origin point of the medial pterygoid muscle?",
+      options: [
+        "Palatine bone",
+        "Zygomatic bone",
+        "Maxillary tuberosity",
+        "Coronoid process"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12228,
       question: "Where does the medial pterygoid muscle insert?",
       options: [
-        "Angle of the mandible on the medial side",
-        "Angle of the mandible on the lateral side",
+        "Lateral side of mandibular angle",
         "Coronoid process",
-        "Neck of the condyle",
+        "Condyle of mandible",
+        "Medial side of mandibular angle"
       ],
-      correct: "A"
+      correct: "D"
     },
     {
-      id: 12029,
-      question: "What are the two actions of the medial pterygoid muscle?",
+      id: 12229,
+      question: "What are the two main actions of the medial pterygoid muscle?",
       options: [
-        "Protraction and elevation",
-        "Elevation and lateral movement",
         "Depression and protraction",
-        "Retraction and depression",
+        "Elevation and lateral movement",
+        "Retraction and elevation",
+        "Depression and retraction"
       ],
       correct: "B"
     },
     {
-      id: 12030,
-      question: "The medial pterygoid muscle is opposite to which other muscle?",
-      options: [
-        "Buccinator",
-        "Temporalis",
-        "Masseter",
-        "Lateral pterygoid",
-      ],
-      correct: "C"
-    },
-    {
-      id: 12031,
+      id: 12230,
       question: "How many heads does the lateral pterygoid muscle have?",
       options: [
-        "Four",
         "One",
-        "Three",
         "Two",
+        "Three",
+        "Four"
       ],
-      correct: "D"
+      correct: "B"
     },
     {
-      id: 12032,
+      id: 12231,
       question: "Where does the superior head of the lateral pterygoid originate?",
       options: [
-        "Lateral surface of the greater wing of the sphenoid",
-        "Lateral surface of the lateral pterygoid plate",
-        "Medial surface of the lateral pterygoid plate",
+        "Medial surface of lateral pterygoid plate",
         "Maxillary tuberosity",
+        "Lateral surface of greater wing of sphenoid",
+        "Temporal fossa"
       ],
-      correct: "A"
+      correct: "C"
     },
     {
-      id: 12033,
+      id: 12232,
       question: "Where does the inferior head of the lateral pterygoid originate?",
       options: [
-        "Temporal fossa",
+        "Greater wing of sphenoid",
         "Lateral surface of the lateral pterygoid plate",
-        "Greater wing of the sphenoid",
-        "Medial pterygoid plate",
+        "Medial surface of lateral pterygoid plate",
+        "Zygomatic arch"
       ],
       correct: "B"
     },
     {
-      id: 12034,
+      id: 12233,
       question: "Where does the inferior head of the lateral pterygoid insert?",
       options: [
-        "Angle of the mandible",
-        "Articular disk of the TMJ",
-        "Neck of the mandibular condyle",
         "Coronoid process",
+        "Articular disk of TMJ",
+        "Neck of mandibular condyle",
+        "Angle of mandible"
       ],
       correct: "C"
     },
     {
-      id: 12035,
+      id: 12234,
       question: "Where does the superior head of the lateral pterygoid insert?",
       options: [
-        "Ramus of the mandible",
-        "Neck of the condyle",
+        "Neck of condyle",
         "Coronoid process",
         "Articular disk of the TMJ",
+        "Angle of mandible"
       ],
-      correct: "D"
+      correct: "C"
     },
     {
-      id: 12036,
-      question: "What is unique about the lateral pterygoid compared to other muscles of mastication?",
+      id: 12235,
+      question: "What is unique about the lateral pterygoid among the muscles of mastication?",
       options: [
-        "It is the only muscle responsible for depression of the mandible",
-        "It is the strongest muscle",
-        "It is innervated by a different nerve",
+        "It is the largest muscle",
+        "It is the only one that depresses the mandible",
         "It has three heads",
+        "It causes only elevation"
       ],
-      correct: "A"
+      correct: "B"
     },
     {
-      id: 12037,
-      question: "What are the actions of the lateral pterygoid muscle?",
+      id: 12236,
+      question: "What are the primary actions of the lateral pterygoid muscle?",
       options: [
-        "Retraction and elevation",
-        "Protrusion, depression, and lateral movement",
-        "Only elevation",
         "Elevation and retraction",
+        "Protrusion and lateral movement",
+        "Depression and retraction",
+        "Elevation and lateral movement"
       ],
       correct: "B"
     },
     {
-      id: 12038,
-      question: "Which muscle action is described as the \"power stroke\" in mastication?",
+      id: 12237,
+      question: "What special role does the superior head of the lateral pterygoid play?",
       options: [
-        "Retraction by the temporalis",
-        "Elevation by the masseter",
-        "The superior head of lateral pterygoid guiding the disc and condyle back",
-        "Depression by the lateral pterygoid",
-      ],
-      correct: "C"
-    },
-    {
-      id: 12039,
-      question: "Which muscle elevates the jaw but does NOT move it side to side?",
-      options: [
-        "All muscles of mastication move the jaw side to side",
-        "Lateral pterygoid",
-        "Medial pterygoid",
-        "Masseter",
-      ],
-      correct: "D"
-    },
-    {
-      id: 12040,
-      question: "Which muscle can both protrude the jaw and move it laterally?",
-      options: [
-        "Lateral pterygoid",
-        "Masseter",
-        "Temporalis",
-        "Medial pterygoid",
-      ],
-      correct: "A"
-    },
-    {
-      id: 12041,
-      question: "Which muscle can both elevate and retract the mandible?",
-      options: [
-        "Lateral pterygoid",
-        "Temporalis",
-        "Medial pterygoid",
-        "Masseter",
+        "Opens the mouth widely",
+        "Guides the disc and condyle back after biting",
+        "Closes the mouth forcefully",
+        "Moves jaw backward"
       ],
       correct: "B"
     },
     {
-      id: 12042,
-      question: "How many muscles of mastication can elevate the mandible?",
-      options: [
-        "Four",
-        "Two",
-        "Three",
-        "One",
-      ],
-      correct: "C"
-    },
-    {
-      id: 12043,
+      id: 12238,
       question: "Where does the sternocleidomastoid muscle originate?",
       options: [
-        "Occipital bone",
-        "Mastoid process",
-        "Clavicle only",
-        "Upper border of the sternum and medial 1/3 of the clavicle",
+        "Mastoid process and clavicle",
+        "Upper border of sternum and medial 1/3 of clavicle",
+        "Scapula and sternum",
+        "Temporal bone and sternum"
       ],
-      correct: "D"
+      correct: "B"
     },
     {
-      id: 12044,
+      id: 12239,
       question: "Where does the sternocleidomastoid muscle insert?",
       options: [
-        "Mastoid process of the temporal bone",
+        "Occipital bone",
         "Clavicle",
-        "Sternum",
-        "Mandible",
+        "Mastoid process of temporal bone",
+        "Acromion process"
       ],
-      correct: "A"
+      correct: "C"
     },
     {
-      id: 12045,
+      id: 12240,
       question: "What is the primary action of the sternocleidomastoid muscle?",
       options: [
-        "Flexing the neck forward only",
+        "Elevating the shoulders",
+        "Rotating the scapula",
         "Tilting and rotating the head",
-        "Opening the jaw",
-        "Elevating the shoulder",
-      ],
-      correct: "B"
-    },
-    {
-      id: 12046,
-      question: "Why is the sternocleidomastoid muscle important during extraoral examinations?",
-      options: [
-        "To evaluate jaw movement",
-        "To check for TMJ disorders",
-        "To palpate the posterior border for large lymph nodes",
-        "To assess muscle strength",
+        "Protruding the mandible"
       ],
       correct: "C"
     },
     {
-      id: 12047,
-      question: "What can strain in the sternocleidomastoid muscle cause?",
+      id: 12241,
+      question: "Why do we palpate the posterior border of the sternocleidomastoid?",
       options: [
-        "Hearing loss",
-        "Difficulty swallowing",
-        "Vision problems",
-        "Referred pain in the head and neck, especially the temporomandibular region",
+        "To assess muscle strength",
+        "To check for large lymph nodes",
+        "To measure blood pressure",
+        "To locate the carotid pulse"
       ],
-      correct: "D"
+      correct: "B"
     },
     {
-      id: 12048,
+      id: 12242,
       question: "Where does the trapezius muscle originate?",
       options: [
-        "Humerus and radius",
-        "External occipital protuberance, superior nuchal lines, and spinous processes of cervical and thoracic vertebrae",
-        "Scapula and clavicle",
-        "Sternum and ribs",
+        "Only from the scapula",
+        "Clavicle and sternum",
+        "External occipital protuberance and spinous processes",
+        "Mastoid process and clavicle"
       ],
-      correct: "B"
+      correct: "C"
     },
     {
-      id: 12049,
+      id: 12243,
       question: "Where does the trapezius muscle insert?",
       options: [
-        "Sternum",
-        "Vertebrae",
-        "Spine of scapula, acromion process, and lateral 1/3 of clavicle",
-        "Humerus",
+        "Mastoid process only",
+        "Spine of scapula, acromion, and lateral 1/3 of clavicle",
+        "Medial border of scapula only",
+        "Humerus and radius"
       ],
-      correct: "C"
+      correct: "B"
     },
     {
-      id: 12050,
+      id: 12244,
       question: "What is the primary action of the trapezius muscle?",
       options: [
-        "Flexing the spine",
         "Rotating the head",
-        "Elevating the ribs",
-        "Adducting, elevating, and rotating the scapula",
-      ],
-      correct: "D"
-    },
-    {
-      id: 12051,
-      question: "What common movement demonstrates the action of the trapezius muscle?",
-      options: [
-        "Shrugging the shoulders",
-        "Nodding the head",
-        "Turning the head side to side",
-        "Bending forward",
-      ],
-      correct: "A"
-    },
-    {
-      id: 12052,
-      question: "What type of muscle tissue makes up the muscles of mastication?",
-      options: [
-        "Mixed muscle types",
-        "Skeletal muscle",
-        "Smooth muscle",
-        "Cardiac muscle",
-      ],
-      correct: "B"
-    },
-    {
-      id: 12053,
-      question: "What is the approximate length range of muscle fiber cells?",
-      options: [
-        "50-100 millimeters",
-        "10-40 microns",
-        "1-40 millimeters",
-        "1-10 microns",
+        "Elevating the mandible",
+        "Adducting and elevating the scapula",
+        "Depressing the shoulders"
       ],
       correct: "C"
     },
     {
-      id: 12054,
-      question: "How does the brain control muscle contraction?",
+      id: 12245,
+      question: "What common movement demonstrates trapezius action?",
       options: [
-        "Via the lymphatic system",
-        "Through hormones in the bloodstream",
-        "Through direct contact with muscle fibers",
-        "By sending electrical impulses via nerve pathways",
+        "Nodding the head",
+        "Chewing food",
+        "Shrugging the shoulders",
+        "Opening the mouth"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12246,
+      question: "Which muscle forms the most superficial layer of the back?",
+      options: [
+        "Sternocleidomastoid",
+        "Latissimus dorsi",
+        "Masseter",
+        "Trapezius"
       ],
       correct: "D"
     },
     {
-      id: 12055,
+      id: 12247,
+      question: "What can be compared to understand the size of a muscle fiber?",
+      options: [
+        "Red blood cell (smaller than fiber)",
+        "Strand of hair (similar to fiber diameter)",
+        "Nerve cell (same size as fiber)",
+        "White blood cell (larger than fiber)"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12248,
       question: "What allows muscles to contract with different levels of force?",
       options: [
-        "The signal strength that the nerve sends",
-        "The number of muscle fibers",
-        "The length of the muscle",
-        "The temperature of the muscle",
-      ],
-      correct: "A"
-    },
-    {
-      id: 12056,
-      question: "What are the characteristics of involuntary muscles?",
-      options: [
-        "They are stronger than voluntary muscles",
-        "They work without conscious control",
-        "They can be consciously controlled",
-        "They are only found in the limbs",
-      ],
-      correct: "B"
-    },
-    {
-      id: 12057,
-      question: "Which type of muscle movement is described as a \"tetanus\"?",
-      options: [
-        "Relaxation phase",
-        "Rapid twitching",
-        "Longer sustained contraction",
-        "Short contraction",
+        "The amount of blood flow to the muscle",
+        "The temperature of the muscle tissue",
+        "The signal strength from the nerve",
+        "The length of the muscle fibers"
       ],
       correct: "C"
     },
     {
-      id: 12058,
-      question: "Which muscles are typically paired to move bones in opposite directions?",
+      id: 12249,
+      question: "How do most bones achieve movement in opposite directions?",
       options: [
-        "All muscle types",
+        "By rotating at the joint",
+        "Through pairs of muscles that move them",
+        "By lengthening and shortening",
+        "Through ligament tension"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12250,
+      question: "What type of muscle tissue has endurance and consistency as main features?",
+      options: [
+        "Smooth muscle",
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Voluntary muscle"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12251,
+      question: "Which muscles are primarily studied in dental anatomy?",
+      options: [
         "Cardiac muscles",
-        "Skeletal muscles",
         "Smooth muscles",
+        "Skeletal muscles",
+        "Involuntary muscles"
       ],
       correct: "C"
     },
     {
-      id: 12059,
-      question: "What is the main feature of cardiac muscle?",
+      id: 12252,
+      question: "What term describes the work accomplished when muscle fibers contract?",
       options: [
-        "Short, powerful contractions only",
-        "Endurance and consistency",
-        "Voluntary control",
-        "Ability to stretch extensively",
-      ],
-      correct: "B"
-    },
-    {
-      id: 12060,
-      question: "What determines whether a muscle action is voluntary or involuntary?",
-      options: [
-        "The strength of the muscle",
-        "The type of muscle tissue",
-        "The size of the muscle",
-        "The location of the muscle",
-      ],
-      correct: "B"
-    },
-    {
-      id: 12061,
-      question: "In the mnemonic \"Mouth, Top, Mouth, lower\" for muscles of mastication, what does \"Top\" refer to?",
-      options: [
-        "Lateral pterygoid",
-        "Medial pterygoid",
-        "Temporalis",
-        "Masseter",
+        "Origin",
+        "Insertion",
+        "Action",
+        "Innervation"
       ],
       correct: "C"
     },
     {
-      id: 12062,
-      question: "What does the mnemonic \"MMLT\" stand for in muscles of mastication?",
+      id: 12253,
+      question: "What may muscle names provide information about?",
       options: [
-        "Masseter, Mandible, Lateral movement, Temporalis",
-        "Medial pterygoid, Masseter, Lateral pterygoid, Trapezius",
-        "Masseter, Mylohyoid, Lateral pterygoid, Temporalis",
-        "Masseter, Medial pterygoid, Lateral pterygoid, Temporalis",
+        "Their color",
+        "Their origin",
+        "Their temperature",
+        "Their age"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12254,
+      question: "Which movement would you use to create a \"double chin\"?",
+      options: [
+        "Elevation",
+        "Depression",
+        "Protraction",
+        "Retraction"
       ],
       correct: "D"
     },
     {
-      id: 12063,
-      question: "What structural feature allows the temporalis muscle to both elevate and retract?",
+      id: 12255,
+      question: "What movement occurs when you stick your lower jaw forward?",
       options: [
-        "Different fiber orientations (vertical anterior, horizontal posterior)",
-        "Two separate muscle bellies",
-        "Dual nerve supply",
-        "Two insertion points",
-      ],
-      correct: "A"
-    },
-    {
-      id: 12064,
-      question: "Which muscle has insertion points that are opposite to the masseter muscle?",
-      options: [
-        "Buccinator",
-        "Temporalis",
-        "Medial pterygoid",
-        "Lateral pterygoid",
+        "Elevation",
+        "Retraction",
+        "Protraction",
+        "Lateral excursion"
       ],
       correct: "C"
     },
     {
-      id: 12065,
-      question: "What is the relationship between the medial and lateral pterygoid muscles in terms of origin?",
+      id: 12256,
+      question: "What type of jaw movement is used for grinding food?",
       options: [
-        "They both originate from the maxilla",
-        "They originate from opposite sides of the lateral pterygoid plate",
-        "One originates from bone, the other from cartilage",
-        "They have identical origins",
-      ],
-      correct: "B"
-    },
-    {
-      id: 12066,
-      question: "Which muscle of mastication has the most complex insertion pattern?",
-      options: [
-        "Temporalis",
-        "Medial pterygoid",
-        "Masseter",
-        "Lateral pterygoid",
+        "Elevation only",
+        "Depression only",
+        "Protraction only",
+        "Lateral excursion"
       ],
       correct: "D"
     },
     {
-      id: 12067,
-      question: "What happens when only one lateral pterygoid muscle contracts?",
+      id: 12257,
+      question: "Which muscles work together as a functional pair on opposite sides of the mandible?",
       options: [
-        "Lateral movement occurs",
-        "The jaw elevates",
-        "The jaw depresses",
-        "The jaw retracts",
-      ],
-      correct: "A"
-    },
-    {
-      id: 12068,
-      question: "During the chewing process, which muscle is primarily responsible for the grinding motion?",
-      options: [
-        "Lateral pterygoid",
-        "Medial pterygoid",
-        "Masseter",
-        "Temporalis",
+        "Temporalis and trapezius",
+        "Masseter and medial pterygoid",
+        "Sternocleidomastoid and trapezius",
+        "Lateral pterygoid and masseter"
       ],
       correct: "B"
     },
     {
-      id: 12069,
-      question: "What is the significance of muscle fiber diameter compared to typical cell size?",
+      id: 12258,
+      question: "What structure runs along the posterior border of the sternocleidomastoid?",
       options: [
-        "There is no significant difference",
-        "Muscle fibers are about the same size as typical cells",
-        "Muscle fibers are significantly larger than typical cells",
-        "Muscle fibers are smaller than typical cells",
+        "External jugular vein",
+        "Facial artery",
+        "Internal jugular vein",
+        "Common carotid artery"
       ],
       correct: "C"
     },
     {
-      id: 12070,
-      question: "How does a strand of hair compare in size to a typical cell?",
+      id: 12259,
+      question: "What type of pain might be associated with the sternocleidomastoid?",
       options: [
-        "1000 times larger",
-        "100 times larger",
-        "About the same size",
-        "10 times larger",
-      ],
-      correct: "D"
-    },
-    {
-      id: 12071,
-      question: "What layer is found between skin and muscle tissue?",
-      options: [
-        "Fat (subcutaneous tissue)",
-        "Bone",
-        "Cartilage",
-        "Nerve tissue",
-      ],
-      correct: "A"
-    },
-    {
-      id: 12072,
-      question: "During jaw movement, what allows smooth articulation at the TMJ?",
-      options: [
-        "Ligaments exclusively",
-        "Muscle strength alone",
-        "The articular disk and superior head of lateral pterygoid",
-        "Bone structure only",
-      ],
-      correct: "C"
-    },
-    {
-      id: 12073,
-      question: "What clinical significance does the posterior border of the sternocleidomastoid have?",
-      options: [
-        "It shows the boundary of the parotid gland",
-        "It marks the location of the carotid artery",
-        "It indicates the position of the thyroid gland",
-        "It's a landmark for palpating lymph nodes along the internal jugular vein",
-      ],
-      correct: "D"
-    },
-    {
-      id: 12074,
-      question: "Which structure lies against the internal jugular vein near the sternocleidomastoid?",
-      options: [
-        "Large lymph nodes",
-        "Parotid gland",
-        "Thyroid gland",
-        "Salivary glands",
-      ],
-      correct: "A"
-    },
-    {
-      id: 12075,
-      question: "What is scapular adduction?",
-      options: [
-        "Rotating the shoulder blades",
-        "Moving the shoulder blades together",
-        "Moving the shoulder blades apart",
-        "Lifting the shoulder blades",
+        "Tooth pain",
+        "Referred pain to head and neck",
+        "Shoulder pain only",
+        "Back pain only"
       ],
       correct: "B"
     },
     {
-      id: 12076,
-      question: "What is scapular elevation?",
+      id: 12260,
+      question: "What bony landmark helps identify the origin of the trapezius?",
       options: [
-        "Rotating shoulders",
-        "Moving shoulders forward",
-        "Lifting shoulders upward",
-        "Moving shoulders backward",
-      ],
-      correct: "C"
-    },
-    {
-      id: 12077,
-      question: "How many major attachment points does the trapezius have at its origin?",
-      options: [
-        "Four",
-        "Two",
-        "Three (occipital bone, nuchal lines, and vertebral spinous processes)",
-        "One",
-      ],
-      correct: "C"
-    },
-    {
-      id: 12078,
-      question: "What bone feature serves as part of the trapezius origin on the skull?",
-      options: [
-        "Temporal line",
-        "Zygomatic arch",
         "Mastoid process",
         "External occipital protuberance",
+        "Zygomatic arch",
+        "Mental foramen"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12261,
+      question: "Which structure is NOT a part of the trapezius insertion?",
+      options: [
+        "Spine of scapula",
+        "Acromion process",
+        "Lateral 1/3 of clavicle",
+        "Mastoid process"
       ],
       correct: "D"
     },
     {
-      id: 12079,
-      question: "What is the functional relationship between the sternocleidomastoid and trapezius?",
+      id: 12262,
+      question: "What type of muscle fibers are described as \"long cylindrical cells\"?",
       options: [
-        "They both work on neck and shoulder movement",
-        "They are antagonists",
-        "They have no relationship",
-        "One is voluntary, the other involuntary",
-      ],
-      correct: "A"
-    },
-    {
-      id: 12080,
-      question: "Which vertebrae contribute to the origin of the trapezius?",
-      options: [
-        "Thoracic only",
-        "Both cervical and thoracic",
-        "Lumbar only",
-        "Cervical only",
-      ],
-      correct: "B"
-    },
-    {
-      id: 12081,
-      question: "What is the acromion process?",
-      options: [
-        "Part of the sternum",
-        "Part of the scapula",
-        "Part of the clavicle",
-        "Part of the humerus",
-      ],
-      correct: "B"
-    },
-    {
-      id: 12082,
-      question: "How does the trapezius contribute to shoulder movement?",
-      options: [
-        "By depressing the shoulder only",
-        "Only by elevating the shoulder",
-        "By adducting, elevating, and rotating the scapula",
-        "Only by rotating the shoulder",
+        "Cardiac fibers",
+        "Smooth muscle cells",
+        "Muscle fibers in skeletal muscle",
+        "Nerve fibers"
       ],
       correct: "C"
+    },
+    {
+      id: 12263,
+      question: "Approximately how long can muscle fiber cells be?",
+      options: [
+        "1-10 microns",
+        "10-40 microns",
+        "1-40 millimeters",
+        "100-400 millimeters"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12264,
+      question: "Which characteristic is true of smooth muscle?",
+      options: [
+        "Voluntary control",
+        "Short twitch movements only",
+        "Can maintain tension for long periods",
+        "Always attached to skeleton"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12265,
+      question: "What distinguishes skeletal muscle from other types?",
+      options: [
+        "Located in digestive system",
+        "Involuntary control only",
+        "Found only in the heart",
+        "Usually has voluntary control"
+      ],
+      correct: "D"
+    },
+    {
+      id: 12266,
+      question: "What is a \"tetanus\" in muscle physiology?",
+      options: [
+        "A disease caused by bacteria",
+        "A longer sustained contraction",
+        "A short quick contraction",
+        "Complete muscle relaxation"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12267,
+      question: "What does the direction of muscle fibers in the temporalis indicate?",
+      options: [
+        "It has only one action",
+        "It has two different actions",
+        "It cannot elevate the mandible",
+        "It only moves the jaw sideways"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12268,
+      question: "What anatomical feature makes the temporalis muscle fan-shaped?",
+      options: [
+        "Its insertion point",
+        "Its blood supply",
+        "Its origin from the temporal fossa",
+        "Its nerve innervation"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12269,
+      question: "Which muscle\'s insertion is opposite to the masseter\'s insertion?",
+      options: [
+        "Temporalis",
+        "Lateral pterygoid",
+        "Medial pterygoid",
+        "Sternocleidomastoid"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12270,
+      question: "What structure is located at the pyramidal process of the palatine bone?",
+      options: [
+        "Masseter origin",
+        "Part of medial pterygoid origin",
+        "Temporalis insertion",
+        "Lateral pterygoid insertion"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12271,
+      question: "Which muscle attaches to the articular disk of the TMJ?",
+      options: [
+        "Masseter",
+        "Temporalis",
+        "Medial pterygoid",
+        "Lateral pterygoid"
+      ],
+      correct: "D"
+    },
+    {
+      id: 12272,
+      question: "What is the \"power stroke\" in mastication?",
+      options: [
+        "Opening the mouth widely",
+        "The action guided by superior head of lateral pterygoid",
+        "Closing the mouth forcefully",
+        "Moving the jaw side to side"
+      ],
+      correct: "B"
+    },
+    {
+      id: 12273,
+      question: "Which muscle action is assisted by the lateral pterygoid?",
+      options: [
+        "Elevation",
+        "Retraction",
+        "Depression",
+        "Adduction"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12274,
+      question: "What happens when only one lateral pterygoid contracts?",
+      options: [
+        "The jaw elevates",
+        "The jaw retracts",
+        "Lateral movement occurs",
+        "The jaw depresses equally"
+      ],
+      correct: "C"
+    },
+    {
+      id: 12275,
+      question: "Which two muscles work together to elevate the mandible?",
+      options: [
+        "Lateral pterygoid and temporalis",
+        "Masseter and medial pterygoid",
+        "Sternocleidomastoid and trapezius",
+        "Masseter and lateral pterygoid"
+      ],
+      correct: "B"
     }
+  
   ]
 };
