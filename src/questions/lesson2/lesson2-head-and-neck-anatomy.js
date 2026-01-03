@@ -1148,1150 +1148,921 @@ export const questions = {
       correct: "C"
     },
   ],
-  "0-1. TMJ": [    {
-      id: 11000,
-      question: "What type of articulation is the temporomandibular joint?",
+  "0-1. TMJ": [
+    {
+      id: 11500,
+      question: "The temporomandibular joint is best described as which type of articulation?",
       options: [
-        "Bilateral articulation between temporal bone and mandible",
-        "Unilateral articulation between temporal and mandible",
-        "Single fused joint in the midline",
-        "Articulation between maxilla and mandible",
+        "A bilateral joint between temporal and mandibular bones",
+        "A unilateral joint between sphenoid and mandible",
+        "A fixed suture between cranial bones only",
+        "A cartilaginous joint with limited movement capability"
       ],
       correct: "A"
     },
     {
-      id: 11001,
-      question: "The blood supply to the TMJ is remembered by which mnemonic?",
+      id: 11501,
+      question: "What is the blood supply to the TMJ? (Remember: PATT)",
       options: [
-        "PATT (pharyngeal, auricular, temporal, tympanic)",
-        "MAT (masseteric, auricular, temporal)",
-        "TAP (temporal, auricular, pharyngeal)",
-        "PAT (pharyngeal, auricular, tympanic)",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11002,
-      question: "The nerve supply to the TMJ is remembered by which mnemonic?",
-      options: [
-        "MAT (masseteric, auriculotemporal, temporal)",
-        "PATT (pharyngeal, auricular, temporal, tympanic)",
-        "TAM (temporal, auricular, masseteric)",
-        "ATM (auriculotemporal, temporal, masseteric)",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11003,
-      question: "What is the most anterior part of the temporal bone associated with the TMJ?",
-      options: [
-        "Articular eminence",
-        "Mandibular fossa",
-        "Posterior tubercle",
-        "Mandibular condyle",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11004,
-      question: "What material is the articular disc composed of?",
-      options: [
-        "Dense collagen tissue",
-        "Elastic cartilage",
-        "Hyaline cartilage",
-        "Loose connective tissue",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11005,
-      question: "What is the function of synovial fluid in the TMJ?",
-      options: [
-        "Allows surfaces to rub over one another without irritation",
-        "Provides nutrients to the disc",
-        "Cushions the joint during impact",
-        "Maintains disc shape",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11006,
-      question: "Where does the TMJ capsule attach?",
-      options: [
-        "Medially and laterally to both the mandibular condyle and temporal bone",
-        "Only to the temporal bone",
-        "Only to the mandibular condyle",
-        "To the articular disc only",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11007,
-      question: "What mnemonic helps remember the sphenomandibular ligament location?",
-      options: [
-        "M.I.G. (Middle Inside Groove)",
-        "MAT",
-        "PATT",
-        "SML",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11008,
-      question: "What is the relationship between arteries and veins in the circulatory system?",
-      options: [
-        "Arteries carry blood away; veins bring it back",
-        "Arteries supply only; veins have no function",
-        "Both carry the same type of blood",
-        "They don't interact",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11009,
-      question: "Which muscles are responsible for depression of the mandible during mastication?",
-      options: [
-        "Hyoid muscles",
-        "Muscles of mastication",
-        "Facial muscles",
-        "Neck muscles",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11010,
-      question: "During mastication, where is the condyle positioned on the side with food?",
-      options: [
-        "In contact with the mandibular fossa",
-        "Forward on the articular eminence",
-        "Between the fossa and eminence",
-        "Beyond the articular eminence",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11011,
-      question: "To fill the space on the non-chewing side during mastication, what structure is pulled forward?",
-      options: [
-        "The thicker part of the articular disc",
-        "The condyle only",
-        "The mandibular fossa",
-        "The temporal bone",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11012,
-      question: "What visual sign can be observed when standing in front of a client with popping and clicking?",
-      options: [
-        "A notable shift of the mandibular midline to one side during opening",
-        "Asymmetrical facial features",
-        "Swelling of the joint",
-        "Redness around the TMJ",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11013,
-      question: "What do veins carry?",
-      options: [
-        "Deoxygenated blood away from body systems back to the heart",
-        "Oxygenated blood from the heart",
-        "Oxygenated blood to the heart",
-        "Arterial blood",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11014,
-      question: "Where does most of the blood and nerve supply enter the TMJ?",
-      options: [
-        "Through the retrodiscal pad",
-        "Through the anterior capsule",
-        "Through the lateral capsule",
-        "Through the articular disc",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11015,
-      question: "What proportion of blood supplied to the head comes through the common carotid arteries?",
-      options: [
-        "All of it",
-        "Half of it",
-        "Most of it",
-        "A small portion",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11016,
-      question: "Do veins generally follow the same pathways as arteries?",
-      options: [
-        "Yes, generally follow the same pathways",
-        "No, completely different pathways",
-        "Only in the head",
-        "Only in the neck",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11017,
-      question: "What is an alternative name sometimes used for the lingual and facial arteries when they branch together?",
-      options: [
-        "Linguofacial trunk",
-        "Linguomaxillary trunk",
-        "Faciomaxillary trunk",
-        "Cervicofacial trunk",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11018,
-      question: "How does fibromyalgia affect the TMJ?",
-      options: [
-        "Heightened nerve sensitivity can extend to the TMJ",
-        "It doesn't affect TMJ",
-        "It only affects disc position",
-        "It causes bone fusion",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11019,
-      question: "What type of blood do arteries carry?",
-      options: [
-        "Oxygenated blood from the heart to body systems",
-        "Deoxygenated blood from the heart",
-        "Deoxygenated blood to the heart",
-        "Mixed blood",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11020,
-      question: "What does \"cephalic\" mean in the term brachiocephalic artery?",
-      options: [
-        "Head",
-        "Neck",
-        "Arm",
-        "Chest",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11021,
-      question: "Where does the maxillary artery enter after passing through the infratemporal fossa?",
-      options: [
-        "Pterygopalatine fossa",
-        "Oral cavity",
-        "Nasal cavity",
-        "Temporal fossa",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11022,
-      question: "What does the descending palatine artery extend through?",
-      options: [
-        "Pterygopalatine canal",
-        "Infraorbital canal",
-        "Incisive canal",
-        "Mandibular canal",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11023,
-      question: "What is another name for the pterygopalatine artery?",
-      options: [
-        "Sphenopalatine artery",
-        "Infraorbital artery",
-        "Descending palatine artery",
-        "Greater palatine artery",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11024,
-      question: "Where does the anterior superior alveolar artery travel?",
-      options: [
-        "Down the bone in front of the maxillary sinus",
-        "Through the mandibular canal",
-        "Along the hard palate",
-        "Through the nasal cavity",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11025,
-      question: "The nerve supply to the TMJ includes branches of which cranial nerve division?",
-      options: [
-        "V1 (ophthalmic)",
-        "V2 (maxillary)",
-        "V3 (mandibular)",
-        "VII (facial)",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11026,
-      question: "What is the posterior tubercle in relation to the TMJ?",
-      options: [
-        "The most anterior part of the temporal bone",
-        "The process of the mandible",
-        "The most posterior part of the temporal bone associated with TMJ",
-        "The articular disc attachment",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11027,
-      question: "Why is the upper surface of the articular disc concavoconvex?",
-      options: [
-        "To match the mandibular condyle shape",
-        "To match the mandibular fossa and articular eminence",
-        "To accommodate the synovial fluid",
-        "To attach to the lateral pterygoid muscle",
+        "Posterior auricular, anterior tibial, temporal, tympanic arteries",
+        "Pharyngeal, auricular, temporal, tympanic arteries (ascending pharyngeal, superficial temporal, deep auricular, anterior tympanic)",
+        "Pulmonary, aortic, temporal, thyroid arteries supply",
+        "Palatine, alveolar, transverse facial, temporal arteries"
       ],
       correct: "B"
     },
     {
-      id: 11028,
-      question: "What are the compartments above and below the articular disc called?",
+      id: 11502,
+      question: "Which nerves provide innervation to the TMJ? (Remember: MAT)",
       options: [
-        "Joint spaces",
-        "Articular cavities",
-        "Capsular spaces",
-        "Synovial cavities",
+        "Mandibular, alveolar, and trigeminal nerve branches",
+        "Maxillary, auricular, and temporal nerve branches",
+        "Masseteric, auriculotemporal, and deep temporal nerves (all V3 branches)",
+        "Mental, anterior palatine, and trigeminal branches"
       ],
-      correct: "D"
+      correct: "C"
     },
     {
-      id: 11029,
+      id: 11503,
+      question: "The articular eminence is located on which bone?",
+      options: [
+        "The anterior portion of the mandible near condyle",
+        "The posterior aspect of the sphenoid bone",
+        "The most anterior part of temporal bone associated with TMJ",
+        "The lateral surface of the zygomatic bone"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11504,
+      question: "What is the mandibular fossa?",
+      options: [
+        "The concavity in temporal bone where mandibular condyle sits",
+        "The depression on mandible where temporal bone articulates",
+        "The opening in sphenoid bone for nerve passage",
+        "The space between maxilla and mandible for muscles"
+      ],
+      correct: "A"
+    },
+    {
+      id: 11505,
+      question: "The posterior tubercle (posterior temporal) is described as:",
+      options: [
+        "The anterior boundary of the mandibular fossa region",
+        "The attachment site for the articular disc anteriorly",
+        "The most posterior part of temporal bone associated with TMJ",
+        "The inferior projection of the mandibular condyle bone"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11506,
+      question: "What is the shape of the articular disc\'s upper surface?",
+      options: [
+        "Uniformly flat to match the mandibular fossa",
+        "Completely convex to fit over the condyle",
+        "Concavoconvex to match mandibular fossa and articular eminence",
+        "Cylindrical to allow rotational movement only"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11507,
+      question: "The lower surface of the articular disc is:",
+      options: [
+        "Flat to provide stability during movement",
+        "Convex to match the temporal bone",
+        "Concave to match the shape of the condyle",
+        "Irregular to increase surface area contact"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11508,
       question: "Which region of the articular disc is the thickest?",
       options: [
-        "Anterior region",
-        "Intermediate region",
-        "Lateral region",
-        "Posterior region",
+        "The anterior region where it attaches to lateral pterygoid",
+        "The intermediate region between anterior and posterior",
+        "The posterior region at the back of the disc",
+        "All regions have equal thickness throughout the disc"
       ],
-      correct: "D"
+      correct: "C"
     },
     {
-      id: 11030,
+      id: 11509,
       question: "Which region of the articular disc is the thinnest?",
       options: [
-        "Anterior region",
-        "Intermediate region",
-        "Posterior region",
-        "Medial region",
+        "The posterior region for flexibility during movement",
+        "The anterior region to allow muscle attachment",
+        "The intermediate region between anterior and posterior portions",
+        "The lateral edges to accommodate condyle movement"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11510,
+      question: "Where does the anterior portion of the articular disc attach?",
+      options: [
+        "To the posterior aspect of the mandibular condyle",
+        "To the superior head of lateral pterygoid muscle",
+        "To the inferior head of lateral pterygoid muscle",
+        "To the temporomandibular ligament within the capsule"
       ],
       correct: "B"
     },
     {
-      id: 11031,
-      question: "Where does the anterior region of the articular disc attach?",
+      id: 11511,
+      question: "What structure surrounds the entire TMJ?",
       options: [
-        "To the mandibular fossa",
-        "To the superior head of the lateral pterygoid muscle",
-        "To the inferior head of the lateral pterygoid muscle",
-        "To the posterior tubercle",
+        "Dense fibrous tissue forming the TMJ capsule",
+        "Loose connective tissue with elastic fibers",
+        "Synovial membrane without fibrous reinforcement",
+        "Cartilaginous tissue connecting temporal to mandible"
       ],
-      correct: "B"
+      correct: "A"
     },
     {
-      id: 11032,
-      question: "How many ligaments are associated with the TMJ protection?",
+      id: 11512,
+      question: "The temporomandibular ligament runs from:",
       options: [
-        "One within the capsule only",
-        "Two outside the capsule only",
-        "Three within the capsule",
-        "One within and two outside the capsule",
+        "Styloid process to the medial mandible surface",
+        "Sphenoid spine to the mylohyoid groove area",
+        "Articular eminence to lateral side of condyle",
+        "Posterior tubercle to the angle of mandible"
       ],
-      correct: "D"
+      correct: "C"
     },
     {
-      id: 11033,
+      id: 11513,
       question: "Where is the temporomandibular ligament located?",
       options: [
-        "Outside the TMJ capsule",
-        "Within the TMJ capsule",
-        "Posterior to the capsule",
-        "Anterior to the capsule",
+        "Outside the capsule on the medial side",
+        "Within the TMJ capsule as reinforcement",
+        "Posterior to the capsule near styloid process",
+        "Anterior to the capsule near sphenoid bone"
       ],
       correct: "B"
     },
     {
-      id: 11034,
-      question: "Where does the sphenomandibular ligament attach on the mandible?",
+      id: 11514,
+      question: "The stylomandibular ligament runs from:",
       options: [
-        "Angle of the mandible",
-        "Lateral side of the condyle",
-        "Coronoid process",
-        "Medial side near the mylohyoid groove",
+        "Styloid process to the angle of mandible medially",
+        "Sphenoid bone to the mylohyoid groove region",
+        "Temporal bone to the lateral condyle surface",
+        "Articular eminence to the coronoid process anteriorly"
       ],
-      correct: "D"
+      correct: "A"
     },
     {
-      id: 11035,
+      id: 11515,
+      question: "The sphenomandibular ligament attaches to which landmark? (Remember: M.I.G.)",
+      options: [
+        "Lateral surface of mandible near the sigmoid notch",
+        "Medial side of mandible near mylohyoid groove",
+        "Anterior border of mandible at mental foramen",
+        "Posterior mandible at the angle and ramus junction"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11516,
       question: "What is the primary function of the temporomandibular ligament?",
       options: [
-        "Limits jaw opening",
-        "Prevents backward movement of the condyle",
-        "Supports jaw like a sling",
-        "Allows forward movement",
+        "It limits excessive jaw opening during function",
+        "It prevents backward movement of the condyle",
+        "It supports the jaw like a sling structure",
+        "It controls lateral excursion during chewing"
       ],
       correct: "B"
     },
     {
-      id: 11036,
-      question: "What is the primary function of the stylomandibular ligament?",
+      id: 11517,
+      question: "What is the function of the stylomandibular ligament?",
       options: [
-        "Prevents backward movement",
-        "Supports jaw like a sling",
-        "Limits jaw opening",
-        "Prevents lateral movement",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11037,
-      question: "What is the primary function of the sphenomandibular ligament?",
-      options: [
-        "Limits jaw opening",
-        "Prevents backward movement",
-        "Prevents forward movement",
-        "Supports jaw like a sling",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11038,
-      question: "What secretes synovial fluid in the TMJ?",
-      options: [
-        "Fibrous capsule cells",
-        "Articular disc cells",
-        "Condylar cartilage cells",
-        "Specific epithelial cells",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11039,
-      question: "What type of tissue makes up the retrodiscal pad?",
-      options: [
-        "Dense fibrous tissue",
-        "Elastic tissue",
-        "Connective tissue",
-        "Cartilaginous tissue",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11040,
-      question: "What is the location of the elastic and collagenous laminae?",
-      options: [
-        "Anterior to the TMJ",
-        "Lateral to the TMJ",
-        "Superior to the TMJ",
-        "Posterior to the TMJ",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11041,
-      question: "What muscle is responsible for pulling the disc and mandible forward?",
-      options: [
-        "Masseter muscle",
-        "Temporalis muscle",
-        "Medial pterygoid muscle",
-        "Lateral pterygoid muscle",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11042,
-      question: "How many types of movement are involved in normal TMJ function?",
-      options: [
-        "One type",
-        "Two types",
-        "Three types",
-        "Four types",
+        "Prevents backward movement of mandibular condyle",
+        "Limits jaw opening to protect joint structures",
+        "Supports jaw like a sling during movements",
+        "Controls rotation during initial mouth opening"
       ],
       correct: "B"
     },
     {
-      id: 11043,
-      question: "What are the two types of normal TMJ movement?",
+      id: 11518,
+      question: "What is the function of the sphenomandibular ligament?",
       options: [
-        "Lateral and medial",
-        "Flexion and extension",
-        "Rotational and gliding",
-        "Abduction and adduction",
+        "Limits jaw opening to prevent dislocation",
+        "Prevents posterior displacement of the condyle",
+        "Supports the jaw like a sling structure",
+        "Controls forward translation during opening"
       ],
       correct: "C"
     },
     {
-      id: 11044,
-      question: "During the first millimeters of teeth separation, which type of movement occurs?",
+      id: 11519,
+      question: "What are the synovial cavities in the TMJ?",
       options: [
-        "Rotational movement",
-        "Gliding movement",
-        "Lateral movement",
-        "Sliding movement",
+        "Spaces filled with blood for nutrient supply",
+        "Sac-like cavities above and below articular disc",
+        "Chambers containing air for shock absorption",
+        "Channels for nerve and blood vessel passage"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11520,
+      question: "What is the function of synovial fluid?",
+      options: [
+        "To provide nutrients to the articular cartilage directly",
+        "To lubricate TMJ movements and reduce friction",
+        "To cushion impact during forceful biting actions",
+        "To transmit proprioceptive signals during movement"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11521,
+      question: "The superior synovial cavity is located:",
+      options: [
+        "Between the articular disc and mandibular condyle",
+        "Between temporal bone and articular disc superior surface",
+        "Within the retrodiscal pad posterior to disc",
+        "Between the capsule and lateral pterygoid muscle"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11522,
+      question: "The inferior synovial cavity is located:",
+      options: [
+        "Between articular disc and temporal bone above",
+        "Within the mandibular fossa and capsule space",
+        "Between articular disc and mandibular condyle below",
+        "Between retrodiscal tissue and posterior capsule"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11523,
+      question: "What is the retrodiscal pad?",
+      options: [
+        "Anterior extension of disc attaching to muscle",
+        "Connective tissue extending from posterior disc end",
+        "Lateral attachment of disc to joint capsule",
+        "Superior attachment connecting disc to temporal bone"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11524,
+      question: "What is significant about the retrodiscal pad?",
+      options: [
+        "It contains most TMJ blood and nerve supply",
+        "It provides primary attachment for lateral pterygoid",
+        "It secretes the majority of synovial fluid",
+        "It prevents anterior displacement of the disc"
       ],
       correct: "A"
     },
     {
-      id: 11045,
-      question: "During initial rotation, what lubricates the condyle's movement against the articular disc?",
+      id: 11525,
+      question: "The superior retrodiscal lamina contains:",
       options: [
-        "Superior synovial cavity",
-        "Inferior synovial cavity",
-        "Joint capsule fluid",
-        "Blood plasma",
+        "Collagenous fibers for strength and support",
+        "Elastic fibers to assist normal TMJ movement",
+        "Dense fibrous tissue for capsule attachment",
+        "Synovial cells for fluid production"
       ],
       correct: "B"
     },
     {
-      id: 11046,
-      question: "During initial rotation, what prevents the articular disc from rotating forward with the condyle?",
+      id: 11526,
+      question: "The inferior retrodiscal lamina contains:",
       options: [
-        "The collagenous lamina",
-        "The joint capsule",
-        "The lateral pterygoid muscle",
-        "The elastic lamina",
+        "Elastic fibers allowing disc displacement anteriorly",
+        "Synovial tissue producing lubricating fluid",
+        "Collagenous fibers assisting normal TMJ movement",
+        "Adipose tissue for shock absorption"
       ],
-      correct: "D"
+      correct: "C"
     },
     {
-      id: 11047,
-      question: "What is the primary function of the elastic lamina during initial jaw opening?",
+      id: 11527,
+      question: "What is the function of the superior elastic lamina?",
       options: [
-        "To pull the disc forward",
-        "To lubricate the joint",
-        "To stabilize the condyle",
-        "To hold the articular disc more posteriorly",
+        "Pulls the disc anteriorly during opening",
+        "Holds disc posteriorly during condyle rotation",
+        "Prevents excessive forward disc displacement",
+        "Limits downward movement of the condyle"
       ],
-      correct: "D"
+      correct: "B"
     },
     {
-      id: 11048,
-      question: "As the teeth come farther apart during opening, which movement begins in addition to rotation?",
+      id: 11528,
+      question: "What is the function of the inferior collagenous lamina?",
       options: [
-        "Gliding movement",
-        "Lateral movement",
-        "Posterior movement",
-        "Medial movement",
+        "Allows elastic stretch during wide opening",
+        "Produces synovial fluid for lubrication",
+        "Controls anterior pull of lateral pterygoid muscle",
+        "Provides attachment for temporalis muscle"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11529,
+      question: "What are the two components of normal TMJ movement?",
+      options: [
+        "Elevation and depression of the mandible",
+        "Rotational and gliding movements",
+        "Lateral and medial excursion",
+        "Protrusion and retrusion"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11530,
+      question: "During the first millimeters of mouth opening:",
+      options: [
+        "Gliding movement occurs down articular eminence",
+        "Lateral pterygoid muscle contracts to pull disc forward",
+        "Rotational movement of condyle against disc occurs",
+        "Condyle moves posteriorly into mandibular fossa"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11531,
+      question: "Which synovial cavity lubricates the rotational movement?",
+      options: [
+        "The superior synovial cavity between temporal and disc",
+        "The inferior synovial cavity between disc and condyle",
+        "Both cavities equally during rotation",
+        "Neither cavity is involved in rotation"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11532,
+      question: "During initial rotation, what prevents the disc from rotating forward?",
+      options: [
+        "The superior head of lateral pterygoid muscle contraction",
+        "The inferior head of lateral pterygoid muscle tension",
+        "The elastic lamina holding disc more posteriorly",
+        "The collagenous lamina preventing anterior displacement"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11533,
+      question: "As the teeth separate further during opening:",
+      options: [
+        "Only rotational movement continues throughout",
+        "Rotation stops and gliding becomes the sole movement",
+        "Rotation continues and gliding movement begins",
+        "Both movements stop and lateral excursion begins"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11534,
+      question: "Which muscle pulls the condyle and disc forward during opening?",
+      options: [
+        "The inferior head of lateral pterygoid muscle",
+        "The superior head of lateral pterygoid muscle",
+        "The anterior fibers of temporalis muscle",
+        "The deep masseter muscle fibers"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11535,
+      question: "During gliding, the condyle and disc move to:",
+      options: [
+        "The posterior slope of the articular eminence",
+        "About the crest of the articular eminence",
+        "The posterior tubercle of temporal bone",
+        "The deepest part of mandibular fossa"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11536,
+      question: "During jaw closing, which structure controls condyle movement back?",
+      options: [
+        "Superior lateral pterygoid controls its release balancing elastic lamina",
+        "Inferior lateral pterygoid actively pulls condyle posteriorly",
+        "Temporalis muscle pulls condyle directly backward",
+        "Masseter muscle guides condyle into fossa"
       ],
       correct: "A"
     },
     {
-      id: 11049,
-      question: "Which muscle is responsible for pulling both the condyle and disc forward during jaw opening?",
+      id: 11537,
+      question: "Which muscles are responsible for jaw depression during mastication?",
       options: [
-        "Masseter muscle",
-        "Temporalis muscle",
-        "Medial pterygoid muscle",
-        "Superior head of the lateral pterygoid muscle",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11050,
-      question: "How far does the condyle move during full opening?",
-      options: [
-        "To the posterior tubercle",
-        "To about the crest of the articular eminence",
-        "Into the mandibular fossa",
-        "Beyond the articular eminence",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11051,
-      question: "When the jaw begins to close, which muscle controls the movement back to centric relation?",
-      options: [
-        "Masseter muscle",
-        "Superior head of the lateral pterygoid muscle",
-        "Temporalis muscle",
-        "Inferior head of the lateral pterygoid muscle",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11052,
-      question: "What balances the posterior pull of the elastic lamina during jaw closing?",
-      options: [
-        "The joint capsule",
-        "The temporalis muscle",
-        "Controlled release of lateral pterygoid contraction",
-        "The masseter muscle",
+        "The lateral pterygoid muscles bilaterally",
+        "The temporalis muscles working together",
+        "The hyoid muscles and suprahyoid group",
+        "The masseter and medial pterygoid muscles"
       ],
       correct: "C"
     },
     {
-      id: 11053,
-      question: "What is the function of the collagenous lamina during jaw movement?",
+      id: 11538,
+      question: "During mastication, which lateral pterygoid contracts more?",
       options: [
-        "To lubricate the joint",
-        "To initiate jaw opening",
-        "To rotate the condyle",
-        "To control the anterior pull of the lateral pterygoid muscle",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11054,
-      question: "The collagenous lamina prevents the disc from being pulled too far in which direction?",
-      options: [
-        "Posteriorly",
-        "Laterally",
-        "Medially",
-        "Forward",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11055,
-      question: "During mastication, what causes lateral excursion of the mandible?",
-      options: [
-        "Both lateral pterygoid muscles contracting equally",
-        "The masseter muscle contracting",
-        "The temporalis muscle contracting bilaterally",
-        "One lateral pterygoid muscle pulling forward more than the other",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11056,
-      question: "On the side opposite to the food during mastication, what space is created?",
-      options: [
-        "No space is created",
-        "A large space in the fossa",
-        "A small space between the condyle and mandibular fossa",
-        "A space in the inferior synovial cavity",
+        "Both contract equally for balanced movement",
+        "The one on the same side as food",
+        "The one on opposite side from food",
+        "Neither contracts during mastication"
       ],
       correct: "C"
     },
     {
-      id: 11057,
-      question: "Which muscle pulls the condyle posteriorly during the biting phase of mastication?",
+      id: 11539,
+      question: "During biting on food, where is the condyle positioned?",
       options: [
-        "Lateral pterygoid muscle",
-        "Masseter muscle",
-        "Medial pterygoid muscle",
-        "Temporal muscle",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11058,
-      question: "What action is created between tooth surfaces during mastication as the temporal muscle contracts?",
-      options: [
-        "Sliding action",
-        "Crushing action",
-        "Tearing action",
-        "Grinding action",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11059,
-      question: "During the biting phase, what happens to the superior head of the lateral pterygoid muscle?",
-      options: [
-        "It contracts strongly",
-        "It remains contracted",
-        "It spasms",
-        "It slowly relaxes",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11060,
-      question: "What force brings the condyle back to its resting closed position during jaw closing?",
-      options: [
-        "Gravity",
-        "Temporalis muscle only",
-        "Masseter muscle contraction",
-        "Controlled posterior force from the elastic lamina",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11061,
-      question: "Popping and clicking may occur when the articular disc is pulled too far in which direction?",
-      options: [
-        "Posteriorly",
-        "Forward",
-        "Laterally",
-        "Medially",
+        "Forward on articular eminence on food side",
+        "In contact with fossa on same side as food",
+        "Posterior to fossa on opposite side",
+        "Equally positioned bilaterally in both fossae"
       ],
       correct: "B"
     },
     {
-      id: 11062,
-      question: "When popping occurs, where does the thick part of the disc move?",
+      id: 11540,
+      question: "On the non-chewing side during mastication:",
       options: [
-        "Backward into the fossa",
-        "Under the condyle",
-        "Into the inferior synovial cavity",
-        "Over the articular eminence",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11063,
-      question: "Besides disc displacement, what other conditions can cause TMJ noises?",
-      options: [
-        "Muscle spasm only",
-        "Bone fractures",
-        "Ligament tears only",
-        "Adhesions of synovial membranes, arthritis, or disc perforations",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11064,
-      question: "What is an audible sign of popping and clicking?",
-      options: [
-        "Continuous grinding sound",
-        "Crackling during rest",
-        "Whistling sound",
-        "A noise when opening and/or closing the mouth",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11065,
-      question: "What may be felt during palpation of the TMJ with popping and clicking?",
-      options: [
-        "Smooth continuous movement",
-        "No movement",
-        "Excessive heat",
-        "A jumping movement during opening",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11066,
-      question: "Which treatment is commonly used for popping and clicking?",
-      options: [
-        "Antibiotics",
-        "Immediate surgery",
-        "Tooth extraction",
-        "Use of a splint (nightguard)",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11067,
-      question: "In disc derangement, where is the articular disc positioned?",
-      options: [
-        "Permanently displaced backward",
-        "Permanently displaced forward",
-        "Permanently displaced laterally",
-        "In normal position",
+        "The condyle remains in contact with fossa",
+        "A small space exists between condyle and fossa",
+        "The condyle moves anteriorly past eminence",
+        "The disc becomes completely compressed"
       ],
       correct: "B"
     },
     {
-      id: 11068,
-      question: "What structures may tear in disc derangement?",
+      id: 11541,
+      question: "To fill the space on the non-chewing side:",
       options: [
-        "Only the joint capsule",
-        "Posterior laminae and disc attachments to the condyle",
-        "Only the muscles",
-        "Only the ligaments",
+        "Inferior lateral pterygoid pulls condyle forward",
+        "Superior lateral pterygoid pulls thicker disc portion forward",
+        "Temporalis muscle pulls condyle laterally",
+        "Masseter muscle elevates the condyle superiorly"
       ],
       correct: "B"
     },
     {
-      id: 11069,
-      question: "Why is disc derangement usually very painful?",
+      id: 11542,
+      question: "Which muscle contracts to bring mandible to centric occlusion?",
       options: [
-        "The disc itself has many nerves",
-        "The structures behind the disc have full nerve supply, unlike the disc itself",
-        "The condyle is fractured",
-        "The temporal bone is damaged",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11070,
-      question: "What is a common successful treatment for disc derangement?",
-      options: [
-        "Antibiotics",
-        "Ice therapy only",
-        "Surgical treatment",
-        "Rest only",
+        "The lateral pterygoid muscle bilaterally",
+        "The digastric muscle during elevation",
+        "The temporal muscle pulling condyle posteriorly",
+        "The medial pterygoid muscle on chewing side"
       ],
       correct: "C"
     },
     {
-      id: 11071,
-      question: "In subluxation, where does the condyle move during opening?",
+      id: 11543,
+      question: "The grinding action during mastication is created by:",
       options: [
-        "Stays in the fossa",
-        "Moves slightly forward",
-        "Slides too far forward and passes over the height of the articular eminence",
-        "Moves backward",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11072,
-      question: "Why is it difficult for the condyle to return in subluxation?",
-      options: [
-        "The disc is torn",
-        "Muscles are pulling up as well as back on the condyle",
-        "The joint is frozen",
-        "There is no muscle function",
+        "Lateral pterygoid protruding mandible forward",
+        "Temporal muscle pulling condyle posteriorly during closure",
+        "Masseter elevating mandible vertically only",
+        "Medial pterygoid moving mandible laterally"
       ],
       correct: "B"
     },
     {
-      id: 11073,
-      question: "What anatomical factors influence the likelihood of subluxation?",
+      id: 11544,
+      question: "As temporal muscle contracts during mastication:",
       options: [
-        "Tooth position only",
-        "Muscle strength only",
-        "Height of articular eminence, depth of mandibular fossa, and position of joint capsule",
-        "Disc thickness only",
+        "Lateral pterygoid also increases contraction",
+        "Lateral pterygoid maintains constant contraction level",
+        "Superior lateral pterygoid slowly relaxes",
+        "Inferior lateral pterygoid begins to contract"
       ],
       correct: "C"
     },
     {
-      id: 11074,
-      question: "What is the primary sign of subluxation?",
+      id: 11545,
+      question: "What allows controlled posterior force during closing?",
       options: [
-        "Excessive jaw movement",
-        "The client is not able to close the mouth after it has been opened widely",
-        "Continuous pain at rest",
-        "Bleeding from the joint",
+        "Masseter muscle active contraction",
+        "Elastic lamina as lateral pterygoid relaxes",
+        "Collagenous lamina pulling disc backward",
+        "Temporalis muscle gradual release"
       ],
       correct: "B"
     },
     {
-      id: 11075,
-      question: "Where should thumbs be placed when treating subluxation?",
+      id: 11546,
+      question: "Popping and clicking may occur when:",
       options: [
-        "On the chin",
-        "On the forehead",
-        "On the anterior teeth",
-        "On the occlusal surfaces of the posterior teeth",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11076,
-      question: "What direction of pressure is applied first when reducing subluxation?",
-      options: [
-        "Upward",
-        "Downward",
-        "Forward",
-        "Lateral",
+        "The condyle moves too far posteriorly",
+        "The disc is pulled too far forward during opening",
+        "The temporal muscle contracts excessively",
+        "The mandibular fossa becomes too shallow"
       ],
       correct: "B"
     },
     {
-      id: 11077,
-      question: "After reducing subluxation, what post-operative instruction should be given?",
+      id: 11547,
+      question: "When the disc \"pops\" forward, it moves over which structure?",
       options: [
-        "Open wide frequently",
-        "Chew lots of gum",
-        "DO NOT open wide",
-        "Stretch the jaw when yawning",
+        "The posterior tubercle of temporal bone",
+        "The mandibular condyle head",
+        "The articular eminence anteriorly",
+        "The lateral pole of condyle"
       ],
       correct: "C"
     },
     {
-      id: 11078,
-      question: "What can be done for repeated subluxation occurrences?",
+      id: 11548,
+      question: "Besides disc displacement, what else can cause TMJ noises?",
       options: [
-        "No treatment available",
-        "Medication only",
-        "Surgery to re-contour the anatomical features of TMJ",
-        "Extraction of teeth",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11079,
-      question: "What is bruxism?",
-      options: [
-        "TMJ dislocation",
-        "The habitual grinding of teeth outside of normal function",
-        "Jaw fracture",
-        "Excessive jaw opening",
+        "Normal muscle contraction during function",
+        "Adhesions of synovial membranes or arthritis",
+        "Proper alignment of teeth during closure",
+        "Healthy retrodiscal tissue elasticity"
       ],
       correct: "B"
     },
     {
-      id: 11080,
+      id: 11549,
+      question: "A sign of popping and clicking includes:",
+      options: [
+        "Silent smooth opening without any sounds",
+        "Audible noise when opening and/or closing mouth",
+        "Constant pain without any joint sounds",
+        "Inability to open mouth beyond few millimeters"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11550,
+      question: "When palpating TMJ with popping/clicking, you may feel:",
+      options: [
+        "Smooth continuous movement throughout opening",
+        "Complete lack of any condyle movement",
+        "Jumping movement during opening",
+        "Excessive posterior movement of condyle"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11551,
+      question: "During opening with disc displacement, the mandibular midline:",
+      options: [
+        "Remains perfectly centered throughout movement",
+        "Shifts notably to one side during opening",
+        "Moves posteriorly toward the throat",
+        "Elevates superiorly toward the nose"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11552,
+      question: "Treatment for popping and clicking may include:",
+      options: [
+        "Immediate surgical intervention as first option",
+        "Ultrasound, physical therapy, and splint use",
+        "Complete immobilization of jaw for healing",
+        "Extraction of posterior teeth to reduce stress"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11553,
+      question: "Permanent disc displacement forward may damage:",
+      options: [
+        "The anterior band of articular disc only",
+        "Posterior laminae and disc-condyle attachments",
+        "The superior head of lateral pterygoid muscle",
+        "The temporomandibular ligament within capsule"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11554,
+      question: "Why is disc derangement often very painful?",
+      options: [
+        "The articular disc itself has extensive nerve supply",
+        "Structures behind disc have full nerve supply unlike disc",
+        "The mandibular condyle becomes fractured",
+        "The temporal bone develops stress fractures"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11555,
+      question: "Treatment for disc derangement may include:",
+      options: [
+        "Immediate physical therapy with no other options",
+        "Only conservative management without surgery",
+        "Surgical treatment which is usually successful",
+        "Complete jaw immobilization for six months"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11556,
+      question: "Subluxation occurs when:",
+      options: [
+        "Condyle moves too far posteriorly into fossa",
+        "Condyle slides too far forward over articular eminence",
+        "Disc becomes trapped behind the condyle",
+        "Temporal bone fractures during opening"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11557,
+      question: "During subluxation, why is closing difficult?",
+      options: [
+        "Disc blocks condyle from returning",
+        "Muscles pull up and back, difficult to slide over eminence",
+        "Lateral pterygoid remains in spasm",
+        "Capsule tears preventing any movement"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11558,
+      question: "Factors affecting subluxation likelihood include:",
+      options: [
+        "Strength of masticatory muscles only",
+        "Number of posterior teeth present",
+        "Height of eminence, depth of fossa, capsule position",
+        "Condition of anterior teeth and occlusion"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11559,
+      question: "The main sign of subluxation is:",
+      options: [
+        "Severe pain during normal chewing function",
+        "Clicking sound during wide opening",
+        "Inability to close mouth after wide opening",
+        "Constant jaw deviation to one side"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11560,
+      question: "Immediate treatment for subluxation involves:",
+      options: [
+        "Referring patient immediately to oral surgeon",
+        "Placing thumbs on posterior teeth, pressing down and back",
+        "Having patient bite forcefully on cotton rolls",
+        "Applying ice and waiting for spontaneous reduction"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11561,
+      question: "After subluxation reduction, post-operative instructions include:",
+      options: [
+        "Chewing gum regularly to strengthen muscles",
+        "Opening wide during yawning for exercise",
+        "NOT opening wide, chewing lots of gum, or stretching jaw",
+        "Immediately returning to all normal activities"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11562,
+      question: "Repeated subluxation can be treated by:",
+      options: [
+        "Wearing a nightguard indefinitely",
+        "Surgery to re-contour anatomical TMJ features",
+        "Physical therapy alone without other intervention",
+        "Muscle relaxants taken daily for prevention"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11563,
+      question: "Bruxism is defined as:",
+      options: [
+        "Normal grinding during functional chewing",
+        "Habitual grinding of teeth outside normal function",
+        "Clicking sounds during mouth opening",
+        "Inability to bring teeth together properly"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11564,
       question: "When does bruxism most commonly occur?",
       options: [
-        "During eating",
-        "During talking",
-        "During sleep",
-        "During exercise",
+        "During normal daytime function and eating",
+        "Only during stressful situations while awake",
+        "During sleep more commonly than awake",
+        "Equally during both sleep and waking hours"
       ],
       correct: "C"
     },
     {
-      id: 11081,
-      question: "What is the primary source of pain in bruxism?",
+      id: 11565,
+      question: "Most bruxism pain comes from:",
       options: [
-        "Bone fractures",
-        "Disc perforation",
-        "Tiring of the muscles of mastication",
-        "Ligament tears",
+        "Fractures of the mandibular condyle",
+        "Perforation of the articular disc",
+        "Tiring of muscles of mastication",
+        "Dislocation of temporal bone"
       ],
       correct: "C"
     },
     {
-      id: 11082,
-      question: "What dental sign is characteristic of bruxism?",
+      id: 11566,
+      question: "Signs and symptoms of bruxism include:",
       options: [
-        "Missing teeth",
-        "Signs of excessive wear on the occlusal surfaces of teeth",
-        "Tooth mobility",
-        "Gum recession only",
+        "Inability to open mouth in morning",
+        "Excessive wear on occlusal tooth surfaces",
+        "Clicking sounds during all movements",
+        "Complete lack of any TMJ tenderness"
       ],
       correct: "B"
     },
     {
-      id: 11083,
+      id: 11567,
       question: "What is abfraction?",
       options: [
-        "Tooth fracture",
-        "A type of tooth wear associated with bruxism",
-        "Gum disease",
-        "Tooth decay",
+        "Fracture of the mandibular condyle",
+        "Non-carious cervical tooth lesions from stress",
+        "Complete tooth avulsion from socket",
+        "Fracture of articular eminence"
       ],
       correct: "B"
     },
     {
-      id: 11084,
-      question: "What is a common treatment for bruxism to protect teeth?",
+      id: 11568,
+      question: "Treatment for bruxism includes:",
       options: [
-        "Tooth extraction",
-        "Root canal",
-        "Fabrication of nightguard",
-        "Crown placement",
+        "Immediate surgical correction of occlusion",
+        "Extraction of worn teeth and replacement",
+        "Fabrication of nightguard and possibly tranquilizers",
+        "Complete immobilization of jaw during sleep"
       ],
       correct: "C"
     },
     {
-      id: 11085,
-      question: "What medication may be prescribed for bruxism?",
+      id: 11569,
+      question: "Referred pain in TMJ region may originate from:",
       options: [
-        "Antibiotics",
-        "Painkillers only",
-        "Tranquilizers to relieve tension",
-        "Steroids",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11086,
-      question: "What is referred pain in relation to TMJ?",
-      options: [
-        "Pain that spreads to teeth",
-        "Pain interpreted from the TMJ but actually coming from another area",
-        "Pain from tooth decay",
-        "Pain from sinus infection",
+        "Only the TMJ structures themselves",
+        "Auricular region, neck muscles, or masticatory muscles",
+        "Exclusively from dental caries in molars",
+        "Only from maxillary sinus infections"
       ],
       correct: "B"
     },
     {
-      id: 11087,
-      question: "What areas can cause referred pain to the TMJ?",
+      id: 11570,
+      question: "Signs of referred pain to TMJ include:",
       options: [
-        "Only the teeth",
-        "Only the muscles of mastication",
-        "Auricular region, spasm of neck muscles or muscles of mastication",
-        "Only the eyes",
+        "Severe pain on TMJ palpation",
+        "Abnormal findings on radiographs",
+        "Complaints of TMJ pain but no palpation pain",
+        "Visible swelling over joint area"
       ],
       correct: "C"
     },
     {
-      id: 11088,
-      question: "In referred pain, what is found on palpation of the TMJ?",
+      id: 11571,
+      question: "Treatment for referred pain may include:",
       options: [
-        "Severe tenderness",
-        "Swelling",
-        "No pain on palpation",
-        "Crepitus",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11089,
-      question: "What do radiographs show in cases of referred pain to TMJ?",
-      options: [
-        "Severe bone damage",
-        "Disc displacement",
-        "Normal results",
-        "Fractures",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11090,
-      question: "What treatment targets the muscles surrounding the TMJ in referred pain?",
-      options: [
-        "Surgery",
-        "Tooth extraction",
+        "TMJ surgery to correct structural problems",
+        "Extraction of all posterior teeth",
         "Muscle relaxants and physical therapy",
-        "Antibiotics",
+        "Antibiotics for infection treatment"
       ],
       correct: "C"
     },
     {
-      id: 11091,
-      question: "What is the theory linking malocclusion to TMJ pain?",
+      id: 11572,
+      question: "The theory linking malocclusion to TMJ pain suggests:",
       options: [
-        "Teeth are too large",
-        "Muscles of mastication are not in proper position and may tire or spasm",
-        "Bone structure is abnormal",
-        "Disc is damaged",
+        "Tooth color affects muscle function",
+        "Improper occlusion causes improper muscle positioning",
+        "Number of teeth determines pain level",
+        "Tooth size affects condyle movement"
       ],
       correct: "B"
     },
     {
-      id: 11092,
-      question: "What can cause changes to occlusion that may lead to TMJ problems?",
+      id: 11573,
+      question: "Dental treatment for malocclusion-related TMJ pain may involve:",
       options: [
-        "Aging only",
-        "Dental wear or other dental treatments",
-        "Diet only",
-        "Breathing patterns",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11093,
-      question: "How might dentists treat malocclusion-related TMJ pain?",
-      options: [
-        "Extract all teeth",
-        "No treatment available",
-        "Correct occlusion by building up worn-down surfaces",
-        "Only prescribe medication",
+        "Extracting all teeth and replacing with dentures",
+        "Orthodontic treatment in all cases",
+        "Building up worn-down tooth surfaces",
+        "Removing all occlusal contacts completely"
       ],
       correct: "C"
     },
     {
-      id: 11094,
-      question: "What do both trismus and ankylosis have in common?",
-      options: [
-        "They both cause excessive movement",
-        "They both limit the client's opening and/or overall mobility of TMJ",
-        "They both cause bleeding",
-        "They both are painless",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11095,
+      id: 11574,
       question: "What is trismus?",
       options: [
-        "Excessive jaw opening",
-        "Fusion of bones",
-        "Fibrosis, spasm or contraction of masticatory muscles causing jaw to become \"locked\"",
-        "Disc perforation",
+        "Normal range of mandibular movement",
+        "Excessive mobility of TMJ during function",
+        "Fibrosis or spasm causing jaw to become \"locked\"",
+        "Inflammation of retrodiscal tissue only"
       ],
       correct: "C"
     },
     {
-      id: 11096,
+      id: 11575,
       question: "What is ankylosis?",
       options: [
-        "Muscle spasm",
-        "When the mandible becomes fused to the temporal bone by bony or fibrous tissue",
-        "Disc displacement",
-        "Ligament tear",
+        "Normal fusion of mandibular symphysis",
+        "Muscle spasm limiting mouth opening",
+        "Mandible fused to temporal bone by bony/fibrous tissue",
+        "Clicking sound during TMJ movement"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11576,
+      question: "The main sign of both trismus and ankylosis is:",
+      options: [
+        "Excessive jaw mobility and dislocation",
+        "Painless normal range of motion",
+        "Movement becomes challenging or mandible immobile",
+        "Clicking sounds during all movements"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11577,
+      question: "Treatment for trismus varies depending on:",
+      options: [
+        "Patient age and gender only",
+        "Cause and severity of condition",
+        "Number of teeth present",
+        "Patient occupation and lifestyle"
       ],
       correct: "B"
     },
     {
-      id: 11097,
-      question: "What is the primary treatment for ankylosis?",
+      id: 11578,
+      question: "Treatment for ankylosis typically requires:",
       options: [
-        "Medication only",
-        "Physical therapy only",
-        "Surgical",
-        "No treatment needed",
+        "Physical therapy and muscle relaxants",
+        "Nightguard and occlusal adjustment",
+        "Surgical intervention",
+        "Antibiotics and anti-inflammatory medications"
       ],
       correct: "C"
     },
     {
-      id: 11098,
-      question: "Can arthritis affect the TMJ?",
+      id: 11579,
+      question: "How does arthritis affect the TMJ?",
       options: [
-        "No, never",
-        "Only in elderly patients",
-        "Yes, since TMJ is such a high-stress joint",
-        "Only if there is trauma",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11099,
-      question: "What may arthritis cause in the TMJ?",
-      options: [
-        "Increased mobility",
-        "Excessive wear of the articular disc and synovial cavities",
-        "No changes",
-        "Tooth loss only",
+        "It strengthens the articular disc",
+        "It causes excessive wear of disc and synovial cavities",
+        "It improves smoothness of movements",
+        "It has no effect on TMJ structures"
       ],
       correct: "B"
     },
     {
-      id: 11100,
-      question: "What is fibromyalgia?",
+      id: 11580,
+      question: "Fibromyalgia is characterized by:",
       options: [
-        "A bacterial infection",
-        "A viral disease",
-        "An idiopathic syndrome causing general heightened nerve sensitivity throughout the body",
-        "A fungal infection",
+        "Localized pain only in TMJ",
+        "Reduced nerve sensitivity throughout body",
+        "General heightened nerve sensitivity throughout body",
+        "Complete loss of sensation in joints"
       ],
       correct: "C"
     },
     {
-      id: 11101,
-      question: "What sensation might arthritis cause in TMJ movements?",
+      id: 11581,
+      question: "Why is TMJ particularly affected by arthritis?",
       options: [
-        "Smoother movements",
-        "No change in sensation",
-        "Movements feel less \"smooth\" and potentially painful",
-        "Increased flexibility",
+        "It is rarely used during daily activities",
+        "It has minimal stress compared to other joints",
+        "It is a high-stress joint used frequently",
+        "It has more blood supply than other joints"
       ],
       correct: "C"
     },
     {
-      id: 11102,
-      question: "During jaw closing, what two forces work together to control condyle movement?",
+      id: 11582,
+      question: "Fibromyalgia affecting TMJ is described as:",
       options: [
-        "Gravity and muscle contraction",
-        "Controlled release of lateral pterygoid contraction and posterior pull of elastic lamina",
-        "Masseter and temporalis only",
-        "Disc and capsule tension",
+        "Bacterial infection requiring antibiotics",
+        "Idiopathic syndrome causing heightened nerve sensitivity",
+        "Congenital malformation of joint structures",
+        "Traumatic injury from external force"
       ],
       correct: "B"
-    },
-    {
-      id: 11103,
-      question: "What prevents excessive anterior displacement of the disc during jaw opening?",
-      options: [
-        "Superior synovial cavity",
-        "Inferior synovial cavity",
-        "Collagenous lamina",
-        "Joint capsule alone",
-      ],
-      correct: "C"
-    },
+    }
+  
   ],
   "1. Bones of the skull": [    { id: 11100, question: "Which term refers to the immovable fibrous joints between skull bones?", options: ["Canal", "Eminence", "Suture", "Condyle"], correct: 2 },
     { id: 11101, question: "Which anatomical direction means \"toward the head\" in the transverse plane?", options: ["Inferior", "Lateral", "Superior", "Posterior"], correct: 2 },
@@ -2379,91 +2150,1185 @@ export const questions = {
     { id: 11183, question: "Which structure is part of the neurocranium?", options: ["Nasal bone", "Zygomatic bone", "Temporal bone", "Maxilla"], correct: 2 },
     { id: 11184, question: "Which facial bone forms the posterior portion of the hard palate?", options: ["Maxilla", "Palatine", "Vomer", "Lacrimal"], correct: 1 }
   ],
-  "1-1. Bones of the skull": [    { id: 11100, question: "Which term refers to the immovable fibrous joints between skull bones?", options: ["Canal", "Eminence", "Suture", "Condyle"], correct: 2 },
-    { id: 11101, question: "Which anatomical direction means \"toward the head\" in the transverse plane?", options: ["Inferior", "Lateral", "Superior", "Posterior"], correct: 2 },
-    { id: 11102, question: "Which bone is not part of the neurocranium?", options: ["Ethmoid", "Parietal", "Maxilla", "Occipital"], correct: 2 },
-    { id: 11103, question: "The TMJ is formed by the mandibular condyle and which bone?", options: ["Sphenoid", "Temporal", "Zygomatic", "Frontal"], correct: 1 },
-    { id: 11104, question: "Which of the following is a single facial bone?", options: ["Nasal", "Lacrimal", "Inferior nasal concha", "Vomer"], correct: 3 },
-    { id: 11105, question: "Which suture joins the frontal and parietal bones?", options: ["Lambdoidal", "Coronal", "Squamosal", "Sagittal"], correct: 1 },
-    { id: 11106, question: "The sagittal suture is also known as the ____ suture.", options: ["Interparietal", "Parietooccipital", "Frontoparietal", "Palatomaxillary"], correct: 0 },
-    { id: 11107, question: "Which sinus is located within the body of the sphenoid bone, inferior to the pituitary gland?", options: ["Ethmoid sinus", "Maxillary sinus", "Frontal sinus", "Sphenoid sinus"], correct: 3 },
-    { id: 11108, question: "Which paranasal sinus is typically the largest?", options: ["Ethmoid", "Maxillary", "Sphenoid", "Frontal"], correct: 1 },
-    { id: 11109, question: "Which sinus infection most commonly produces pressure above the eyes?", options: ["Ethmoid", "Sphenoid", "Frontal", "Maxillary"], correct: 2 },
-    { id: 11110, question: "Which structure is radiolucent on imaging?", options: ["Nasal septum", "Inferior nasal conchae", "Vomer", "Nasal cavity"], correct: 3 },
-    { id: 11111, question: "Which bones articulate with the ethmoid bone?", options: ["Frontal", "Maxillae", "Lacrimal", "All of the above"], correct: 3 },
-    { id: 11112, question: "The transverse palatine suture connects which two bones?", options: ["Palatine & Maxilla", "Maxilla & Maxilla", "Palatine & Vomer", "Maxilla & Zygomatic"], correct: 0 },
-    { id: 11113, question: "Which sinus drains into the superior meatus?", options: ["Anterior ethmoid cells", "Middle ethmoid cells", "Posterior ethmoid cells", "Maxillary sinus"], correct: 2 },
-    { id: 11114, question: "Why is the maxillary sinus prone to drainage problems?", options: ["The opening is often located high within the cavity", "It has the thickest mucosa", "It lacks cilia", "It drains directly into the frontal sinus"], correct: 0 },
-    { id: 11115, question: "The inferior portion of the nasal septum is formed by the:", options: ["Ethmoid", "Vomer", "Lacrimal", "Palatine"], correct: 1 },
-    { id: 11116, question: "Which of the following bones contributes to the medial wall of the orbit?", options: ["Zygomatic", "Temporal", "Lacrimal", "Occipital"], correct: 2 },
-    { id: 11117, question: "The suture located between the two maxillae at the anterior midline is the:", options: ["Median palatine suture", "Lambdoidal suture", "Intermaxillary suture", "Incisive suture"], correct: 2 },
-    { id: 11118, question: "Which sinus drains into the superior meatus?", options: ["Frontal sinus", "Anterior ethmoid air cells", "Middle ethmoid air cells", "Posterior ethmoid air cells"], correct: 3 },
-    { id: 11119, question: "Which bone forms the lateral wall and part of the floor of the orbit?", options: ["Zygomatic", "Nasal", "Mandible", "Vomer"], correct: 0 },
-    { id: 11120, question: "Which of the following is paired?", options: ["Vomer", "Mandible", "Inferior nasal conchae", "Sphenoid"], correct: 2 },
-    { id: 11121, question: "The lambdoidal suture is also known as the:", options: ["Frontoparietal suture", "Palatomaxillary suture", "Interparietal suture", "Parietooccipital suture"], correct: 3 },
-    { id: 11122, question: "The frontal sinuses drain into which region?", options: ["Superior meatus", "Hiatus semilunaris (anterior portion)", "Sphenoethmoidal recess", "Middle meatus (posterior portion)"], correct: 1 },
-    { id: 11123, question: "Which bone forms the majority of the posterior–inferior skull?", options: ["Temporal", "Occipital", "Parietal", "Sphenoid"], correct: 1 },
-    { id: 11124, question: "Which term refers to a shallow depression in bone?", options: ["Process", "Fossa", "Eminence", "Foramen"], correct: 1 },
-    { id: 11125, question: "The nasal conchae function primarily to:", options: ["Form the nasal septum", "Increase surface area for warming and humidifying air", "Support the lacrimal apparatus", "Form the orbital floor"], correct: 1 },
-    { id: 11126, question: "Which structure is part of the viscerocranium?", options: ["Occipital", "Temporal", "Ethmoid", "Maxillae"], correct: 3 },
-    { id: 11127, question: "Which bone forms the anterior portion of the hard palate?", options: ["Palatine bones", "Maxillae", "Vomer", "Sphenoid"], correct: 1 },
-    { id: 11128, question: "The medial and lateral pterygoid plates are part of which bone?", options: ["Temporal", "Sphenoid", "Maxilla", "Zygomatic"], correct: 1 },
-    { id: 11129, question: "The lacrimal bones articulate with all of the following EXCEPT:", options: ["Frontal", "Ethmoid", "Maxilla", "Sphenoid"], correct: 3 },
-    { id: 11130, question: "The occipital bone articulates with which of the following?", options: ["Parietal", "Sphenoid", "Temporal", "All of the above"], correct: 3 },
-    { id: 11131, question: "Which sinus is most difficult to palpate during extraoral examination?", options: ["Frontal", "Maxillary", "Sphenoid", "Middle ethmoid"], correct: 2 },
-    { id: 11132, question: "Which term describes a rounded projection that forms an articulation with another bone?", options: ["Protuberance", "Condyle", "Fissure", "Eminence"], correct: 1 },
-    { id: 11133, question: "The median palatine suture is located:", options: ["Between the two maxillae anteriorly", "Between the palatine processes forming the hard palate", "Between the maxilla and palatine bones", "Between the maxilla and vomer"], correct: 1 },
-    { id: 11134, question: "Infection of the ethmoid sinuses typically causes:", options: ["Pain in the forehead", "Deep midline head pressure", "Congestion/aching within the nasal cavity", "Pain near the maxillary molars"], correct: 2 },
-    { id: 11135, question: "Which anatomical plane divides the body into anterior and posterior portions?", options: ["Sagittal plane", "Horizontal plane", "Coronal plane", "Median plane"], correct: 2 },
-    { id: 11136, question: "A structure located closer to the midline of the body is described as:", options: ["Lateral", "Inferior", "Medial", "Posterior"], correct: 2 },
-    { id: 11137, question: "The term \"eminence\" refers to:", options: ["A long tube-like passage", "A shallow depression", "A raised area above surrounding bone", "A blunt projection"], correct: 2 },
-    { id: 11138, question: "The squamosal suture is unusual because:", options: ["It fuses first after birth", "It involves temporal bone overlapping the parietal bone", "It connects the frontal and parietal bones", "It lies at the midline of the skull"], correct: 1 },
-    { id: 11139, question: "The sphenoccipital synchondrosis normally disappears by approximately:", options: ["Age 12", "Age 18", "Age 25", "Age 30"], correct: 1 },
-    { id: 11140, question: "The incisive suture is typically found:", options: ["Between the two palatine bones posteriorly", "At the canine-to-canine region of the maxilla in children", "At the midline of the palatine processes", "Between the maxilla and vomer"], correct: 1 },
-    { id: 11141, question: "The lacrimal bone contributes to which region of the skull?", options: ["Lateral orbital wall", "Medial orbital wall", "Inferior orbital rim", "Posterior skull base"], correct: 1 },
-    { id: 11142, question: "The palatine bones contribute to all of the following EXCEPT:", options: ["Posterior hard palate", "Floor of the orbit", "Lateral nasal cavity wall", "Nasal septum"], correct: 3 },
-    { id: 11143, question: "Which sinus drains into the highest and most posterior part of the nasal cavity?", options: ["Frontal sinus", "Maxillary sinus", "Ethmoid air cells", "Sphenoid sinus"], correct: 3 },
-    { id: 11144, question: "Which air cells drain into the ethmoid bulla and hiatus semilunaris?", options: ["Posterior ethmoid air cells", "Middle ethmoid air cells", "Maxillary air cells", "Frontal air cells"], correct: 1 },
-    { id: 11145, question: "A radiopaque structure seen superior to the maxilla on an X-ray is most likely the:", options: ["Nasal cavity", "Vomer", "Maxillary sinus", "Hiatus semilunaris"], correct: 1 },
-    { id: 11146, question: "Maxillary sinus drainage can be problematic because:", options: ["The opening is at the inferior portion", "The opening is at the middle or top of the sinus", "The sinus has no mucosa", "It drains into the frontal sinus"], correct: 1 },
-    { id: 11147, question: "Periapical infections of maxillary molars may spread into the sinus because:", options: ["The sinus is separated by a thick bone wall", "The sinus sits far above all root tips", "Some roots protrude into or near the sinus cavity", "The sinus drains directly into the oral cavity"], correct: 2 },
-    { id: 11148, question: "Which bone forms the superior portion of the nasal septum?", options: ["Maxilla", "Ethmoid", "Vomer", "Palatine"], correct: 1 },
-    { id: 11149, question: "The middle nasal concha is part of which bone?", options: ["Inferior nasal concha", "Maxilla", "Ethmoid", "Lacrimal"], correct: 2 },
-    { id: 11150, question: "The ethmoid bone forms part of all the following EXCEPT:", options: ["The nasal septum", "The medial orbital wall", "The inferior orbital rim", "The cranial base"], correct: 2 },
-    { id: 11151, question: "The temporal bone includes all of the following parts EXCEPT:", options: ["Petrous part", "Squamous part", "Mastoid process", "Coronoid process"], correct: 3 },
-    { id: 11152, question: "Which of the following contributes to the floor of the orbit?", options: ["Maxilla", "Nasal bone", "Parietal bone", "Occipital bone"], correct: 0 },
-    { id: 11153, question: "The foramen located at the midline of the anterior palate is the:", options: ["Greater palatine foramen", "Incisive foramen", "Mental foramen", "Infraorbital foramen"], correct: 1 },
-    { id: 11154, question: "The inferior nasal conchae are classified as:", options: ["Cranial bones", "Ossicles", "Viscerocranium bones", "Mandibular processes"], correct: 2 },
-    { id: 11155, question: "The sphenoid bone can best be visualized from which view?", options: ["Superior", "Anterior only", "Internal or inferior view", "Posterior only"], correct: 2 },
-    { id: 11156, question: "The occipital bone is best seen from which view?", options: ["Anterior view", "Lateral view", "Inferior and posterior views", "Orbit view"], correct: 2 },
-    { id: 11157, question: "Which structure passes olfactory nerves from the nasal cavity to the brain?", options: ["Crista galli", "Cribriform plate", "Perpendicular plate", "Palatine process"], correct: 1 },
-    { id: 11158, question: "The posterior ethmoid air cells drain into the:", options: ["Superior meatus", "Middle meatus", "Inferior meatus", "Hiatus semilunaris"], correct: 0 },
-    { id: 11159, question: "The parietal bones articulate with all of the following EXCEPT:", options: ["Frontal", "Temporal", "Occipital", "Maxilla"], correct: 3 },
-    { id: 11160, question: "Which bone forms the majority of the bridge of the nose?", options: ["Maxilla", "Nasal bone", "Vomer", "Lacrimal"], correct: 1 },
-    { id: 11161, question: "A fissure is defined as:", options: ["A round opening", "A long tube-like canal", "A natural groove or cleft", "A raised bony prominence"], correct: 2 },
-    { id: 11162, question: "The lacrimal gland drains tears into the nasal cavity because tears pass through the:", options: ["Lacrimal foramen", "Lacrimal canal", "Nasolacrimal duct", "Orbitonasal fissure"], correct: 2 },
-    { id: 11163, question: "The maxillary sinuses span from the canine region posteriorly to the:", options: ["Second premolar", "First molar", "Second molar", "Third molar"], correct: 3 },
-    { id: 11164, question: "The middle nasal concha belongs to the:", options: ["Inferior nasal conchae", "Ethmoid bone", "Maxilla", "Zygomatic bone"], correct: 1 },
-    { id: 11165, question: "Which bone forms the majority of the lateral wall of the nasal cavity?", options: ["Maxilla", "Ethmoid", "Lacrimal", "Inferior nasal concha"], correct: 0 },
-    { id: 11166, question: "The mandibular ramus is best visualized from which skull view?", options: ["Superior view", "Lateral view", "Inferior view", "Anterior view"], correct: 1 },
-    { id: 11167, question: "Which bone contains the crista galli?", options: ["Sphenoid", "Temporal", "Ethmoid", "Occipital"], correct: 2 },
-    { id: 11168, question: "The perpendicular plate contributes to which structure?", options: ["Hard palate", "Nasal septum", "Nasolacrimal canal", "Zygomatic arch"], correct: 1 },
-    { id: 11169, question: "The mandible articulates with the temporal bone at the:", options: ["Coronoid process", "Mental protuberance", "Condylar process", "Mylohyoid line"], correct: 2 },
-    { id: 11170, question: "Which bone contributes to the posterior portion of the orbit?", options: ["Maxilla", "Palatine", "Nasal", "Vomer"], correct: 1 },
-    { id: 11171, question: "Which structure is found in the ethmoid bone and contains numerous small foramina?", options: ["Stylomastoid foramen", "Cribriform plate", "Infraorbital canal", "Mandibular foramen"], correct: 1 },
-    { id: 11172, question: "Which suture connects the parietal bones to the occipital bone?", options: ["Lambdoidal suture", "Coronal suture", "Sagittal suture", "Squamosal suture"], correct: 0 },
-    { id: 11173, question: "Which sinus lies just below the orbital floor and is closely related to maxillary posterior teeth?", options: ["Ethmoid sinus", "Maxillary sinus", "Frontal sinus", "Sphenoid sinus"], correct: 1 },
-    { id: 11174, question: "Which structure is radiopaque on a panoramic radiograph?", options: ["Nasal cavity", "Nasal septum", "Frontal sinuses", "Airway"], correct: 1 },
-    { id: 11175, question: "The superior nasal concha belongs to which bone?", options: ["Maxilla", "Palatine", "Ethmoid", "Inferior nasal concha"], correct: 2 },
-    { id: 11176, question: "The lacrimal bone articulates with all the following EXCEPT:", options: ["Maxilla", "Ethmoid", "Nasal", "Frontal"], correct: 2 },
-    { id: 11177, question: "The sphenoid bone articulates with which cranial bone?", options: ["Occipital", "Parietal", "Temporal", "All of the above"], correct: 3 },
-    { id: 11178, question: "The cranial bone forming the largest portion of the posterior skull is the:", options: ["Temporal bone", "Occipital bone", "Sphenoid bone", "Frontal bone"], correct: 1 },
-    { id: 11179, question: "Tears drain into the nasal cavity through which opening?", options: ["Inferior meatus", "Middle meatus", "Superior meatus", "Sphenoethmoidal recess"], correct: 0 },
-    { id: 11180, question: "The middle meatus receives drainage from all the following EXCEPT:", options: ["Maxillary sinus", "Frontal sinus", "Anterior ethmoid air cells", "Posterior ethmoid air cells"], correct: 3 },
-    { id: 11181, question: "The structure that warms, filters, and humidifies inspired air is the:", options: ["Palatine tonsil", "Nasal conchae", "Vomer", "Mandible"], correct: 1 },
-    { id: 11182, question: "The zygomatic bone articulates with all the following EXCEPT:", options: ["Maxilla", "Frontal", "Temporal", "Nasal"], correct: 3 },
-    { id: 11183, question: "Which structure is part of the neurocranium?", options: ["Nasal bone", "Zygomatic bone", "Temporal bone", "Maxilla"], correct: 2 },
-    { id: 11184, question: "Which facial bone forms the posterior portion of the hard palate?", options: ["Maxilla", "Palatine", "Vomer", "Lacrimal"], correct: 1 }
+  "1-1. Bones of the skull": [
+    {
+      id: 11600,
+      question: "Which term describes a short tube-like opening or passage through bone?",
+      options: [
+        "Suture",
+        "Foramen",
+        "Fissure",
+        "Canal"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11601,
+      question: "A long tube-like opening or channel through bone is called a:",
+      options: [
+        "Foramen",
+        "Canal",
+        "Fossa",
+        "Process"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11602,
+      question: "What is an eminence in anatomical terms?",
+      options: [
+        "A shallow depression in bone",
+        "An area raised above the bone surface",
+        "A groove between two structures",
+        "A projection forming joint articulation"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11603,
+      question: "Which structure is described as a shallow depression or hollow in bone?",
+      options: [
+        "Condyle",
+        "Process",
+        "Fossa",
+        "Eminence"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11604,
+      question: "A rounded protuberance of bone forming articulation with another bone is called a:",
+      options: [
+        "Process",
+        "Condyle",
+        "Fissure",
+        "Foramen"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11605,
+      question: "What term describes a groove or natural division between two structures?",
+      options: [
+        "Suture",
+        "Canal",
+        "Fissure",
+        "Foramen"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11606,
+      question: "A projection or outgrowth of bone tissue is known as a:",
+      options: [
+        "Fossa",
+        "Condyle",
+        "Process",
+        "Eminence"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11607,
+      question: "Which term means occurring on only one side of the body?",
+      options: [
+        "Bilateral",
+        "Ipsilateral",
+        "Medial",
+        "Unilateral"
+      ],
+      correct: "D"
+    },
+    {
+      id: 11608,
+      question: "When a structure occurs on both sides of the body symmetrically, it is described as:",
+      options: [
+        "Unilateral",
+        "Bilateral",
+        "Ipsilateral",
+        "Contralateral"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11609,
+      question: "Ipsilateral refers to structures occurring:",
+      options: [
+        "On opposite sides of the body",
+        "On the same side of the body",
+        "On both sides of the body",
+        "At the midline of the body"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11610,
+      question: "How many bones make up the neurocranium (bones surrounding the brain)?",
+      options: [
+        "6 bones",
+        "8 bones",
+        "14 bones",
+        "22 bones"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11611,
+      question: "How many bones comprise the viscerocranium (bones of the face)?",
+      options: [
+        "8 bones",
+        "10 bones",
+        "14 bones",
+        "16 bones"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11612,
+      question: "Which mnemonic can help remember the neurocranium bones?",
+      options: [
+        "LIMP",
+        "N.V.M.Z",
+        "S-T-E-P-O-F",
+        "B.A.R"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11613,
+      question: "The frontal bone extends from the roof of the orbit to:",
+      options: [
+        "The back of the skull",
+        "The top of the skull",
+        "The base of the skull",
+        "The side of the skull"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11614,
+      question: "Which bones does the frontal bone articulate with?",
+      options: [
+        "Only parietal and temporal bones",
+        "Only sphenoid and ethmoid bones",
+        "Nasal, maxillae, zygomatic, sphenoid, parietal, ethmoid, and lacrimal",
+        "All cranial bones except occipital"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11615,
+      question: "The sphenoid bone is often described as shaped like a:",
+      options: [
+        "Triangle",
+        "Rectangle",
+        "Butterfly",
+        "Pyramid"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11616,
+      question: "Which bone articulates with ALL other cranial bones?",
+      options: [
+        "Frontal bone",
+        "Sphenoid bone",
+        "Temporal bone",
+        "Ethmoid bone"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11617,
+      question: "The sphenoid bone forms which portion of the orbit?",
+      options: [
+        "The anterior portion",
+        "The superior portion",
+        "The posterior portion",
+        "The inferior portion"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11618,
+      question: "The ethmoid bone forms the superior portion of which structure?",
+      options: [
+        "The hard palate",
+        "The nasal septum",
+        "The orbital floor",
+        "The zygomatic arch"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11619,
+      question: "Which bone is best visualized from inferior or internal views?",
+      options: [
+        "Frontal bone",
+        "Parietal bone",
+        "Sphenoid bone",
+        "Nasal bone"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11620,
+      question: "The occipital bone is located:",
+      options: [
+        "Anterior and superior to temporal bones",
+        "Posterior and inferior to parietal bones",
+        "Lateral to the frontal bone",
+        "Superior to the parietal bones"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11621,
+      question: "Which bones does the occipital bone articulate with?",
+      options: [
+        "Frontal, parietal, and ethmoid",
+        "Temporal, parietal, and sphenoid",
+        "All neurocranium bones",
+        "Only temporal and parietal bones"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11622,
+      question: "How many parts does the temporal bone have?",
+      options: [
+        "Two parts",
+        "Three parts",
+        "Four parts",
+        "Six parts"
+      ],
+      correct: "D"
+    },
+    {
+      id: 11623,
+      question: "The mnemonic \"Some People Try Zooming Mostly South\" helps remember:",
+      options: [
+        "The facial bones",
+        "The sutures of the skull",
+        "The parts of the temporal bone",
+        "The paranasal sinuses"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11624,
+      question: "Which part of the temporal bone contains the ear structures?",
+      options: [
+        "Squamous part",
+        "Petrous part",
+        "Tympanic part",
+        "Mastoid process"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11625,
+      question: "The zygomatic process is part of which bone?",
+      options: [
+        "Frontal bone",
+        "Sphenoid bone",
+        "Temporal bone",
+        "Parietal bone"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11626,
+      question: "The parietal bones are best visualized from which views?",
+      options: [
+        "Anterior and posterior views",
+        "Lateral and superior views",
+        "Inferior and internal views",
+        "Anterior and lateral views"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11627,
+      question: "How many parietal bones are there?",
+      options: [
+        "One single bone",
+        "Two paired bones",
+        "Three bones",
+        "Four bones"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11628,
+      question: "Which bones does the parietal bone articulate with?",
+      options: [
+        "Only frontal and occipital bones",
+        "Frontal, sphenoid, temporal, occipital, and opposite parietal",
+        "All cranial bones",
+        "Only temporal and occipital bones"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11629,
+      question: "The mnemonic for facial bones \"My Mouth\'s Palate Never Liked Zucchini In Vinegar\" represents:",
+      options: [
+        "The order of bone development",
+        "The size of the bones",
+        "The names of the 14 facial bones",
+        "The articulations of facial bones"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11630,
+      question: "Which facial bone is the only mobile bone of the head and neck?",
+      options: [
+        "Maxilla",
+        "Mandible",
+        "Palatine",
+        "Zygomatic"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11631,
+      question: "The mandible has how many main parts?",
+      options: [
+        "Two parts",
+        "Three parts",
+        "Four parts",
+        "Five parts"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11632,
+      question: "What does the mandible articulate with to form the TMJ?",
+      options: [
+        "The maxilla",
+        "The sphenoid bone",
+        "The temporal bone",
+        "The zygomatic bone"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11633,
+      question: "The vomer forms which portion of the nasal septum?",
+      options: [
+        "The superior portion",
+        "The anterior portion",
+        "The inferior portion",
+        "The lateral portion"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11634,
+      question: "Which bones does the vomer articulate with?",
+      options: [
+        "Only maxillae and palatine bones",
+        "Sphenoid, ethmoid, maxillae, and palatine",
+        "All facial bones",
+        "Only ethmoid and sphenoid bones"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11635,
+      question: "The nasal bones form which structure?",
+      options: [
+        "The nasal septum",
+        "The bridge of the nose",
+        "The nasal cavity floor",
+        "The lateral walls of the nose"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11636,
+      question: "Which bones are described as very small and fragile, forming the medial corner of the orbit?",
+      options: [
+        "Nasal bones",
+        "Palatine bones",
+        "Lacrimal bones",
+        "Inferior nasal conchae"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11637,
+      question: "The lacrimal bones articulate with which structures?",
+      options: [
+        "Only frontal and maxillae",
+        "Frontal, ethmoid, maxillae, and inferior nasal conchae",
+        "All facial bones",
+        "Only ethmoid and nasal bones"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11638,
+      question: "Which bone is commonly known as the \"cheek bone\"?",
+      options: [
+        "Maxilla",
+        "Lacrimal",
+        "Palatine",
+        "Zygomatic"
+      ],
+      correct: "D"
+    },
+    {
+      id: 11639,
+      question: "The zygomatic bone forms part of which structures?",
+      options: [
+        "Only the lateral wall of the orbit",
+        "The floor and lateral wall of the orbit",
+        "Only the cheek prominence",
+        "The nasal cavity walls"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11640,
+      question: "The inferior nasal conchae are part of how many \"nasal turbinates\"?",
+      options: [
+        "Two turbinates",
+        "Three turbinates",
+        "Four turbinates",
+        "Five turbinates"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11641,
+      question: "What is the function of nasal turbinates?",
+      options: [
+        "To support the nasal bones",
+        "To warm, cleanse, and add moisture to air",
+        "To form the nasal septum",
+        "To drain the sinuses"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11642,
+      question: "Which bones form the posterior portion of the hard palate?",
+      options: [
+        "Maxillae",
+        "Palatine bones",
+        "Vomer",
+        "Sphenoid"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11643,
+      question: "The palatine bones contribute to which structures?",
+      options: [
+        "Only the hard palate",
+        "Hard palate, nasal cavity, and orbit floor",
+        "Only the nasal cavity",
+        "Only the orbit floor"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11644,
+      question: "The maxillae form which portion of the hard palate?",
+      options: [
+        "The posterior portion",
+        "The lateral portions",
+        "The anterior portion",
+        "The entire hard palate"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11645,
+      question: "Which facial bone articulates with the most other bones?",
+      options: [
+        "Mandible",
+        "Vomer",
+        "Maxilla",
+        "Zygomatic"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11646,
+      question: "What are sutures?",
+      options: [
+        "Muscle attachments on bone",
+        "Fibrous joints between skull bones",
+        "Openings for blood vessels",
+        "Depressions in skull bones"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11647,
+      question: "When do skull sutures fully fuse together?",
+      options: [
+        "At birth",
+        "During childhood",
+        "By age 18",
+        "In adulthood"
+      ],
+      correct: "D"
+    },
+    {
+      id: 11648,
+      question: "The coronal suture is also called the:",
+      options: [
+        "Interparietal suture",
+        "Parietooccipital suture",
+        "Frontoparietal suture",
+        "Temporoparietal suture"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11649,
+      question: "Which suture marks where the frontal and parietal bones meet?",
+      options: [
+        "Sagittal suture",
+        "Lambdoidal suture",
+        "Squamosal suture",
+        "Coronal suture"
+      ],
+      correct: "D"
+    },
+    {
+      id: 11650,
+      question: "The lambdoidal suture is also known as the:",
+      options: [
+        "Frontoparietal suture",
+        "Parietooccipital suture",
+        "Interparietal suture",
+        "Temporoparietal suture"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11651,
+      question: "Where do the parietal and occipital bones meet?",
+      options: [
+        "At the coronal suture",
+        "At the sagittal suture",
+        "At the lambdoidal suture",
+        "At the squamosal suture"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11652,
+      question: "What is unique about the squamosal suture?",
+      options: [
+        "It fuses by age 18",
+        "The bones overlap instead of meeting edge-to-edge",
+        "It is the longest suture",
+        "It only appears in adults"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11653,
+      question: "The squamosal suture is located between which bones?",
+      options: [
+        "Frontal and parietal bones",
+        "Parietal and occipital bones",
+        "Temporal and parietal bones",
+        "Sphenoid and temporal bones"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11654,
+      question: "The sagittal suture is also called the:",
+      options: [
+        "Frontoparietal suture",
+        "Interparietal suture",
+        "Median suture",
+        "Coronal suture"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11655,
+      question: "Which suture runs along the midline at the top of the skull?",
+      options: [
+        "Coronal suture",
+        "Lambdoidal suture",
+        "Sagittal suture",
+        "Squamosal suture"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11656,
+      question: "The intermaxillary suture is located:",
+      options: [
+        "At the back of the hard palate",
+        "Inferior to the nasal cavity at the midline",
+        "Between the maxilla and palatine bones",
+        "Between the two palatine bones"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11657,
+      question: "Which suture is also called the median palatine suture?",
+      options: [
+        "The suture between maxillae on the hard palate",
+        "The suture between palatine bones",
+        "The suture between maxilla and palatine",
+        "The intermaxillary suture"
+      ],
+      correct: "A"
+    },
+    {
+      id: 11658,
+      question: "The transverse palatine suture is also known as the:",
+      options: [
+        "Median palatine suture",
+        "Intermaxillary suture",
+        "Palatomaxillary suture",
+        "Incisive suture"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11659,
+      question: "Where is the transverse palatine suture located?",
+      options: [
+        "Between the two maxillae",
+        "Between maxilla and palatine bones on the hard palate",
+        "Between the two palatine bones",
+        "Anterior to the nasal cavity"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11660,
+      question: "The incisive suture runs from:",
+      options: [
+        "Incisor to incisor",
+        "Canine to canine",
+        "Premolar to premolar",
+        "Molar to molar"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11661,
+      question: "Which suture is rarely present in adults?",
+      options: [
+        "Coronal suture",
+        "Sagittal suture",
+        "Incisive suture",
+        "Lambdoidal suture"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11662,
+      question: "The sphenoccipital synchondrosis disappears by what age?",
+      options: [
+        "10 years old",
+        "18 years old",
+        "25 years old",
+        "30 years old"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11663,
+      question: "What are paranasal sinuses?",
+      options: [
+        "Solid bone structures",
+        "Connected hollow cavities in the skull",
+        "Muscle attachments",
+        "Blood vessel channels"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11664,
+      question: "Paranasal sinuses are generally lined by:",
+      options: [
+        "Bone tissue",
+        "Cartilage",
+        "Mucosa",
+        "Fibrous tissue"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11665,
+      question: "How do sinuses drain into the nasal cavity?",
+      options: [
+        "Through blood vessels",
+        "Through the cribriform plate",
+        "Through an opening called the ostium",
+        "Through the nasal conchae"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11666,
+      question: "What structures move mucus through the nasal canal?",
+      options: [
+        "Blood flow",
+        "Small hairs called cilia",
+        "Muscle contractions",
+        "Gravity alone"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11667,
+      question: "How many paranasal sinuses are there?",
+      options: [
+        "Two sinuses",
+        "Three sinuses",
+        "Four sinuses",
+        "Six sinuses"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11668,
+      question: "Which is a function of paranasal sinuses?",
+      options: [
+        "To strengthen the skull",
+        "To lighten the skull",
+        "To protect the brain",
+        "To support facial muscles"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11669,
+      question: "Sinuses improve which human function?",
+      options: [
+        "Vision",
+        "Hearing",
+        "Voice quality",
+        "Taste"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11670,
+      question: "The frontal sinuses are located:",
+      options: [
+        "Behind the sphenoid bone",
+        "Just above the orbital cavity",
+        "Within the maxillae",
+        "In the ethmoid bone"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11671,
+      question: "Which characteristic of frontal sinuses varies greatly from person to person?",
+      options: [
+        "Their location",
+        "Their function",
+        "Their size",
+        "Their drainage pathway"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11672,
+      question: "Frontal sinus infections typically cause pain:",
+      options: [
+        "Deep in the midline of the head",
+        "Just above the eye",
+        "In the cheek area",
+        "At the back of the head"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11673,
+      question: "Where do the frontal sinuses drain?",
+      options: [
+        "Into the superior meatus",
+        "Into the sphenoid sinus",
+        "Into the anterior hiatus semilunaris",
+        "Into the maxillary sinus"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11674,
+      question: "The sphenoid sinuses are located:",
+      options: [
+        "Above the frontal bone",
+        "In the body of the sphenoid bone",
+        "Within the maxillae",
+        "In the ethmoid bone"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11675,
+      question: "Sphenoid sinuses are located just below which structure?",
+      options: [
+        "The orbital cavity",
+        "The frontal sinus",
+        "The pituitary fossa",
+        "The nasal bones"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11676,
+      question: "What is the average size of sphenoid sinuses?",
+      options: [
+        "1cm x 1cm x 1cm",
+        "2cm x 2cm x 2cm",
+        "3cm x 3cm x 3cm",
+        "4cm x 4cm x 4cm"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11677,
+      question: "Where do the sphenoid sinuses drain?",
+      options: [
+        "Into the anterior nasal cavity",
+        "Into the hiatus semilunaris",
+        "Into the highest and most posterior part of the nasal cavity",
+        "Into the maxillary sinus"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11678,
+      question: "Why are sphenoid sinus infections difficult to identify?",
+      options: [
+        "They cause no symptoms",
+        "They cause pressure deep in the midline of the head",
+        "They only affect children",
+        "They don\'t show on radiographs"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11679,
+      question: "Can sphenoid sinuses be palpated during extraoral examination?",
+      options: [
+        "Yes, easily palpated",
+        "Only in thin patients",
+        "Only when infected",
+        "No, unable to be palpated"
+      ],
+      correct: "D"
+    },
+    {
+      id: 11680,
+      question: "How are ethmoid sinuses structurally different from other sinuses?",
+      options: [
+        "They are solid bone",
+        "They are single large cavities",
+        "They consist of numerous small compartments",
+        "They have no drainage pathway"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11681,
+      question: "The ethmoid sinuses are also called:",
+      options: [
+        "Ethmoid cavities",
+        "Ethmoid air cells",
+        "Ethmoid chambers",
+        "Ethmoid spaces"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11682,
+      question: "How many divisions do the ethmoid sinuses have?",
+      options: [
+        "Two divisions",
+        "Three divisions",
+        "Four divisions",
+        "Five divisions"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11683,
+      question: "The anterior ethmoid sinuses are located in the base of which structure?",
+      options: [
+        "The superior nasal concha",
+        "The middle nasal concha",
+        "The inferior nasal concha",
+        "The nasal septum"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11684,
+      question: "Where do the posterior ethmoid sinuses drain?",
+      options: [
+        "Into the hiatus semilunaris",
+        "Into the ethmoid bulla",
+        "Into the superior meatus",
+        "Into the middle meatus"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11685,
+      question: "Why are ethmoid sinus infections difficult to treat?",
+      options: [
+        "They are too large",
+        "They consist of small compartments",
+        "They have no drainage",
+        "Antibiotics cannot reach them"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11686,
+      question: "Which is the largest of the paranasal sinuses?",
+      options: [
+        "Frontal sinus",
+        "Sphenoid sinus",
+        "Ethmoid sinus",
+        "Maxillary sinus"
+      ],
+      correct: "D"
+    },
+    {
+      id: 11687,
+      question: "The maxillary sinus spans from which teeth posteriorly?",
+      options: [
+        "From the incisor to the first molar",
+        "From the canine to the third molar",
+        "From the first premolar to the second molar",
+        "From the lateral incisor to the canine"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11688,
+      question: "The maxillary sinus extends superiorly to:",
+      options: [
+        "The nasal bones",
+        "The frontal sinus",
+        "The floor of the orbital cavity",
+        "The zygomatic bone"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11689,
+      question: "Where do the maxillary sinuses drain?",
+      options: [
+        "Into the anterior hiatus semilunaris",
+        "Into the posterior end of the hiatus semilunaris",
+        "Into the superior meatus",
+        "Into the sphenoid sinus"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11690,
+      question: "Why can maxillary sinus drainage be problematic?",
+      options: [
+        "The opening is too small",
+        "The opening can be near the middle or top of the cavity",
+        "There is no drainage pathway",
+        "The opening is always blocked"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11691,
+      question: "What can happen if the maxillary sinus opening is sealed by edema?",
+      options: [
+        "The sinus empties completely",
+        "Microorganisms can be trapped, worsening infection",
+        "The sinus shrinks",
+        "Nothing problematic occurs"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11692,
+      question: "Why might maxillary teeth and sinuses create diagnostic confusion?",
+      options: [
+        "They look similar on radiographs",
+        "They are supplied by the same nerves",
+        "They are the same size",
+        "They are located far apart"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11693,
+      question: "What dental procedure could potentially perforate the maxillary sinus wall?",
+      options: [
+        "Filling a cavity",
+        "Extracting maxillary molars",
+        "Cleaning teeth",
+        "Taking radiographs"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11694,
+      question: "What is especially important when planning dental implants near the maxillary sinus?",
+      options: [
+        "Using local anesthesia",
+        "Checking the patient\'s age",
+        "Performing due diligence",
+        "Avoiding radiographs"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11695,
+      question: "Which plane divides the body into left and right portions?",
+      options: [
+        "Transverse plane",
+        "Coronal plane",
+        "Sagittal plane",
+        "Horizontal plane"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11696,
+      question: "The transverse plane divides the body into:",
+      options: [
+        "Left and right",
+        "Front and back",
+        "Upper and lower",
+        "Medial and lateral"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11697,
+      question: "The coronal plane is also known as the:",
+      options: [
+        "Sagittal plane",
+        "Frontal plane",
+        "Transverse plane",
+        "Median plane"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11698,
+      question: "Which term means \"toward the front surface of the body\"?",
+      options: [
+        "Posterior",
+        "Superior",
+        "Anterior",
+        "Inferior"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11699,
+      question: "\"Posterior\" means:",
+      options: [
+        "Toward the front",
+        "Toward the rear surface",
+        "Toward the feet",
+        "Toward the head"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11700,
+      question: "Which term means \"toward the head or above\"?",
+      options: [
+        "Inferior",
+        "Anterior",
+        "Posterior",
+        "Superior"
+      ],
+      correct: "D"
+    },
+    {
+      id: 11701,
+      question: "\"Inferior\" means:",
+      options: [
+        "Toward the head",
+        "Toward the midline",
+        "Toward the feet or below",
+        "Away from the midline"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11702,
+      question: "Which term means \"toward the midline of the body\"?",
+      options: [
+        "Lateral",
+        "Medial",
+        "Superior",
+        "Anterior"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11703,
+      question: "\"Lateral\" means:",
+      options: [
+        "Toward the midline",
+        "Away from the midline",
+        "Toward the feet",
+        "Toward the head"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11704,
+      question: "The nose is ________ to the ear.",
+      options: [
+        "Posterior",
+        "Lateral",
+        "Anterior",
+        "Superior"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11705,
+      question: "The knee is ________ to the hip.",
+      options: [
+        "Superior",
+        "Medial",
+        "Lateral",
+        "Inferior"
+      ],
+      correct: "D"
+    },
+    {
+      id: 11706,
+      question: "The shoulder is ________ to the sternum.",
+      options: [
+        "Medial",
+        "Lateral",
+        "Inferior",
+        "Posterior"
+      ],
+      correct: "B"
+    }
+  
   ],
   "2. Landmarks on bones": [    { id: 11200, question: "The temporomandibular joint is formed by the articulation between the mandible and the:", options: ["Occipital bone", "Temporal bone", "Sphenoid bone", "Zygomatic bone"], correct: 1 },
     { id: 11201, question: "Which structure forms the posterior boundary of the mandibular fossa?", options: ["Articular eminence", "Postglenoid tubercle", "Styloid process", "Mastoid process"], correct: 1 },
@@ -2536,76 +3401,910 @@ export const questions = {
     { id: 11268, question: "The anterior portion of the articular disc attaches to the:", options: ["Inferior head of the lateral pterygoid muscle", "Superior head of the lateral pterygoid muscle", "Medial pterygoid muscle", "Temporalis muscle"], correct: 1 },
     { id: 11269, question: "The TMJ capsule surrounds:", options: ["Only the temporal bone", "Only the mandibular condyle", "The entire TMJ", "Only the synovial cavities"], correct: 2 }
   ],
-  "2-1. Landmarks on bones": [    { id: 11200, question: "The temporomandibular joint is formed by the articulation between the mandible and the:", options: ["Occipital bone", "Temporal bone", "Sphenoid bone", "Zygomatic bone"], correct: 1 },
-    { id: 11201, question: "Which structure forms the posterior boundary of the mandibular fossa?", options: ["Articular eminence", "Postglenoid tubercle", "Styloid process", "Mastoid process"], correct: 1 },
-    { id: 11202, question: "The articular eminence is a key structure for which movement?", options: ["Condylar rotation", "Anterior translation of the condyle", "Lateral deviation", "Jaw depression only"], correct: 1 },
-    { id: 11203, question: "The articular disc of the TMJ is avascular in which zone?", options: ["Posterior band", "Anterior band", "Central (intermediate) zone", "Retrodiscal tissue"], correct: 2 },
-    { id: 11204, question: "The upper synovial cavity is located between which two structures?", options: ["Condylar head and disc", "Temporal bone and disc", "Articular eminence and condylar head", "Retrodiscal tissues and disc"], correct: 1 },
-    { id: 11205, question: "The lower synovial cavity allows for:", options: ["Translation", "Rotation", "Lateral deviation", "Condylar guidance"], correct: 1 },
-    { id: 11206, question: "Which of the following correctly describes the articular disc shape?", options: ["Uniformly thick", "Thicker anteriorly and posteriorly with thin intermediate zone", "Thickest at the intermediate zone", "Completely avascular"], correct: 1 },
-    { id: 11207, question: "What is the primary function of the retrodiscal pad?", options: ["Provide lubrication", "Attach to the lateral pterygoid", "Provide shock absorption and blood supply", "Produce synovial fluid"], correct: 2 },
-    { id: 11208, question: "Which ligament prevents excessive forward movement of the mandible?", options: ["Sphenomandibular ligament", "Stylomandibular ligament", "Temporomandibular ligament", "Posterior ligament"], correct: 2 },
-    { id: 11209, question: "The superior head of the lateral pterygoid muscle attaches primarily to:", options: ["Condylar neck", "Anterior disc margin", "Articular eminence", "Coronoid process"], correct: 1 },
-    { id: 11210, question: "The inferior head of the lateral pterygoid muscle primarily inserts on the:", options: ["Articular disc", "Condylar neck", "Coronoid process", "Temporal bone"], correct: 1 },
-    { id: 11211, question: "Which collagenous lamina provides strength to the retrodiscal area?", options: ["Upper lamina only", "Lower lamina only", "Both upper and lower laminae", "Central lamina"], correct: 2 },
-    { id: 11212, question: "The TMJ capsule attaches superiorly to the:", options: ["Condylar neck", "Articular eminence", "Temporal bone around the mandibular fossa", "Coronoid process"], correct: 2 },
-    { id: 11213, question: "The TMJ capsule attaches inferiorly to the:", options: ["Condylar head", "Condylar neck", "Coronoid process", "Ramus"], correct: 1 },
-    { id: 11214, question: "Which artery is a primary blood supplier to the TMJ?", options: ["Facial artery", "Maxillary artery", "Superficial temporal artery", "Buccal artery"], correct: 2 },
-    { id: 11215, question: "The nerve supply to the TMJ is primarily from branches of which division?", options: ["V1 (Ophthalmic)", "V2 (Maxillary)", "V3 (Mandibular)", "VII (Facial)"], correct: 2 },
-    { id: 11216, question: "Which nerve specifically innervates the TMJ?", options: ["Lingual nerve", "Inferior alveolar nerve", "Auriculotemporal nerve", "Buccal nerve"], correct: 2 },
-    { id: 11217, question: "The upper elastic lamina of the retrodiscal tissues attaches posteriorly to the:", options: ["Posterior band of the disc", "Temporal bone", "Articular eminence", "Condylar head"], correct: 1 },
-    { id: 11218, question: "The lower elastic lamina attaches to the:", options: ["Articular eminence", "Posterior neck of the condyle", "Anterior band of the disc", "Temporal bone"], correct: 1 },
-    { id: 11219, question: "Which statement is true regarding the lateral pterygoid muscle?", options: ["Only the inferior head attaches to the disc", "Only the superior head attaches to the disc", "Both heads attach to the disc equally", "Neither head attaches to the disc"], correct: 1 },
-    { id: 11220, question: "During jaw opening, the condyle performs which combined movement?", options: ["Only rotation", "Only translation", "Rotation followed by translation", "Translation followed by rotation"], correct: 2 },
-    { id: 11221, question: "The intermediate zone of the disc serves which function?", options: ["Absorption of forces during function", "Attachment site for muscles", "Blood supply to the disc", "Producing synovial fluid"], correct: 0 },
-    { id: 11222, question: "Which structural element prevents posterior disc displacement during function?", options: ["Lateral pterygoid muscle alone", "Temporomandibular ligament", "Retrodiscal tissues and elastic laminae", "Articular eminence"], correct: 2 },
-    { id: 11223, question: "The posterior band is thicker than the intermediate zone to:", options: ["Allow for better translation", "Resist compressive forces", "Attach to the lateral pterygoid", "Produce synovial fluid"], correct: 1 },
-    { id: 11224, question: "Synovial fluid within the TMJ serves which primary purpose?", options: ["Provide structural support", "Lubricate articular surfaces", "Provide nerve supply", "Act as a cushion"], correct: 1 },
-    { id: 11225, question: "Which structure provides blood and nerve supply to the posterior disc region?", options: ["Anterior band", "Intermediate zone", "Retrodiscal pad", "Lateral pterygoid muscle"], correct: 2 },
-    { id: 11226, question: "The articular surfaces of the TMJ are covered by:", options: ["Hyaline cartilage", "Fibrocartilage", "Elastic cartilage", "No cartilage"], correct: 1 },
-    { id: 11227, question: "The stylomandibular ligament primarily functions to:", options: ["Limit anterior translation", "Limit excessive jaw opening", "Support the disc", "Attach muscles to bone"], correct: 1 },
-    { id: 11228, question: "The sphenomandibular ligament attaches superiorly to the:", options: ["Sphenoid bone", "Temporal bone", "Zygomatic arch", "Mandibular fossa"], correct: 0 },
-    { id: 11229, question: "The sphenomandibular ligament attaches inferiorly to the:", options: ["Angle of the mandible", "Lingula of the mandible", "Condylar neck", "Coronoid process"], correct: 1 },
-    { id: 11230, question: "The lateral pterygoid muscle plays a role in:", options: ["Disc stabilization", "Posterior disc retraction", "Preventing rotation", "Tightening the TMJ capsule only"], correct: 0 },
-    { id: 11231, question: "Which structure forms the concavity in which the mandibular condyle sits?", options: ["Articular eminence", "Mandibular fossa", "Posterior tubercle", "Retrodiscal pad"], correct: 1 },
-    { id: 11232, question: "The articular disc is primarily composed of:", options: ["Hyaline cartilage", "Dense collagen tissue", "Elastic cartilage", "Fibro-osseous tissue"], correct: 1 },
-    { id: 11233, question: "The thinnest region of the articular disc is the:", options: ["Posterior band", "Intermediate zone", "Anterior band", "Retrodiscal area"], correct: 1 },
-    { id: 11234, question: "Which ligament is located within the TMJ capsule?", options: ["Stylomandibular ligament", "Sphenomandibular ligament", "Temporomandibular ligament", "Zygomaticomandibular ligament"], correct: 2 },
-    { id: 11235, question: "The sphenomandibular ligament attaches to the mandible near the:", options: ["Coronoid process", "Mylohyoid groove", "Condylar neck", "Retromolar triangle"], correct: 1 },
-    { id: 11236, question: "Which structure contains most of the TMJ's blood and nerve supply?", options: ["Anterior band of disc", "Intermediate zone", "Retrodiscal pad", "Lower synovial cavity"], correct: 2 },
-    { id: 11237, question: "The superior head of the lateral pterygoid attaches to the:", options: ["Neck of the condyle", "Posterior disc region", "Anterior disc region", "Articular eminence"], correct: 2 },
-    { id: 11238, question: "The superior synovial cavity primarily allows:", options: ["Rotational movement", "Compression of the disc", "Translational movement", "Retrodiscal tension"], correct: 2 },
-    { id: 11239, question: "Which arterial group supplies the TMJ?", options: ["Maxillary, facial, lingual", "Ascending pharyngeal, superficial temporal, deep auricular", "Inferior alveolar, posterior superior alveolar, buccal", "Occipital, facial, transverse facial"], correct: 1 },
-    { id: 11240, question: "The stylomandibular ligament helps:", options: ["Prevent backward movement", "Limit excessive jaw opening", "Support the mandible like a sling", "Control condylar rotation"], correct: 1 },
-    { id: 11241, question: "The lower collagenous lamina provides:", options: ["Elastic recoil", "Vascular supply", "Strength and stability", "Synovial secretion"], correct: 2 },
-    { id: 11242, question: "The posterior tubercle prevents:", options: ["Forward displacement", "Lateral deviation", "Posterior displacement", "Superior compression"], correct: 2 },
-    { id: 11243, question: "Which nerve branch innervates the TMJ?", options: ["Masseteric nerve", "Auriculotemporal nerve", "Inferior alveolar nerve", "Buccal nerve"], correct: 1 },
-    { id: 11244, question: "The inferior synovial cavity allows which type of movement?", options: ["Sliding", "Rotation", "Retraction", "Deviation"], correct: 1 },
-    { id: 11245, question: "The articular eminence is located:", options: ["Posterior to the mandibular fossa", "On the anterior portion of the temporal bone", "On the lateral side of the mandible", "On the medial surface of the sphenoid"], correct: 1 },
-    { id: 11246, question: "The mandibular condyle articulates with which part of the temporal bone?", options: ["Zygomatic process", "Mandibular fossa", "Styloid process", "Temporal crest"], correct: 1 },
-    { id: 11247, question: "Which region of the articular disc is slightly thicker than the intermediate zone?", options: ["Posterior band", "Anterior band", "Lateral band", "Retrodiscal area"], correct: 1 },
-    { id: 11248, question: "The TMJ capsule is composed primarily of:", options: ["Loose elastic tissue", "Thick fibrous tissue", "Fibrocartilage", "Compact bone"], correct: 1 },
-    { id: 11249, question: "The temporomandibular ligament runs from the articular eminence to the:", options: ["Medial side of the condyle", "Lateral side of the condyle", "Posterior tubercle", "Coronoid process"], correct: 1 },
-    { id: 11250, question: "The function of the stylomandibular ligament is to:", options: ["Prevent posterior displacement", "Limit excessive jaw opening", "Stabilize the disc", "Direct condylar rotation"], correct: 1 },
-    { id: 11251, question: "The sphenomandibular ligament originates from the:", options: ["Sphenoid spine", "Styloid process", "Zygomatic arch", "Temporal crest"], correct: 0 },
-    { id: 11252, question: "Synovial cavities are located:", options: ["Only above the disc", "Only below the disc", "Above and below the disc", "At the retrodiscal pad only"], correct: 2 },
-    { id: 11253, question: "Synovial fluid provides:", options: ["Elastic support", "Lubrication and nutrition", "Muscle attachment points", "Joint stabilization"], correct: 1 },
-    { id: 11254, question: "The upper elastic lamina attaches posteriorly to the:", options: ["Articular eminence", "Posterior tubercle", "Squamous temporal bone", "Retrodiscal tissues"], correct: 3 },
-    { id: 11255, question: "The retrodiscal pad contains:", options: ["Only collagen", "Elastic fibers", "Vascular and nerve tissue", "Hyaline cartilage"], correct: 2 },
-    { id: 11256, question: "The inferior head of the lateral pterygoid inserts on the:", options: ["Neck of the condyle", "Coronoid process", "Retrodiscal tissue", "Anterior disc"], correct: 0 },
-    { id: 11257, question: "Which movement occurs first when opening the mouth?", options: ["Translation", "Rotation (hinge movement)", "Lateral excursion", "Protrusion"], correct: 1 },
-    { id: 11258, question: "The superior synovial cavity is located between the disc and the:", options: ["Condylar head", "Mandibular notch", "Temporal bone", "Inferior pterygoid fibers"], correct: 2 },
-    { id: 11259, question: "The posterior band of the disc functions to:", options: ["Stabilize the condyle anteriorly", "Resist excessive posterior movement", "Provide attachment to the lateral pterygoid", "Produce synovial fluid"], correct: 1 },
-    { id: 11260, question: "Which artery supplies the TMJ region?", options: ["Deep auricular artery", "Posterior superior alveolar artery", "Lingual artery", "Submental artery"], correct: 0 },
-    { id: 11261, question: "The temporomandibular joint is formed by the articulation between the mandible and the:", options: ["Occipital bone", "Temporal bone", "Sphenoid bone", "Zygomatic bone"], correct: 1 },
-    { id: 11262, question: "The TMJ receives blood supply from all of the following arteries EXCEPT:", options: ["Ascending pharyngeal artery", "Superficial temporal artery", "Deep auricular artery", "Posterior alveolar artery"], correct: 3 },
-    { id: 11263, question: "The nerve supply to the TMJ includes branches of which cranial nerve division?", options: ["V1", "V2", "V3", "VII"], correct: 2 },
-    { id: 11264, question: "The articular eminence is located on which bone?", options: ["Mandible", "Sphenoid", "Temporal bone", "Zygomatic bone"], correct: 2 },
-    { id: 11265, question: "The articular disc is primarily composed of:", options: ["Elastic cartilage", "Dense collagenous tissue", "Hyaline cartilage", "Fibrocartilage only"], correct: 1 },
-    { id: 11266, question: "The upper surface of the articular disc is described as:", options: ["Flat", "Convex only", "Concave only", "Concavoconvex"], correct: 3 },
-    { id: 11267, question: "The region of the disc that is thinnest is the:", options: ["Posterior band", "Intermediate zone", "Anterior band", "Retrodiscal pad"], correct: 1 },
-    { id: 11268, question: "The anterior portion of the articular disc attaches to the:", options: ["Inferior head of the lateral pterygoid muscle", "Superior head of the lateral pterygoid muscle", "Medial pterygoid muscle", "Temporalis muscle"], correct: 1 },
-    { id: 11269, question: "The TMJ capsule surrounds:", options: ["Only the temporal bone", "Only the mandibular condyle", "The entire TMJ", "Only the synovial cavities"], correct: 2 }
+  "2-1. Landmarks on bones": [
+    {
+      id: 11700,
+      question: "The supraorbital foramen is located on which bone?",
+      options: [
+        "Temporal bone",
+        "Frontal bone",
+        "Sphenoid bone",
+        "Ethmoid bone"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11701,
+      question: "What structure does the supraorbital foramen provide passage for?",
+      options: [
+        "Optic nerve and ophthalmic artery",
+        "Blood and nerve supply to the forehead",
+        "Middle meningeal artery",
+        "Maxillary nerve"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11702,
+      question: "Which process of the frontal bone forms the superior and lateral portion of the orbit?",
+      options: [
+        "Palatine process",
+        "Alveolar process",
+        "Zygomatic process",
+        "Frontal process"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11703,
+      question: "The anterior cranial fossa of the frontal bone houses which structure?",
+      options: [
+        "Cerebellum",
+        "Brain stem",
+        "Frontal lobe of the brain",
+        "Pituitary gland"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11704,
+      question: "Which wing of the sphenoid bone makes up the posterior medial portion of the orbit?",
+      options: [
+        "Greater wing",
+        "Lesser wing",
+        "Pterygoid process",
+        "Zygomatic process"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11705,
+      question: "The foramen rotundum houses which nerve?",
+      options: [
+        "Mandibular nerve (V3)",
+        "Optic nerve",
+        "Maxillary nerve (V2)",
+        "Facial nerve"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11706,
+      question: "What passes through the foramen ovale?",
+      options: [
+        "Maxillary nerve (V2)",
+        "Mandibular nerve (V3)",
+        "Optic nerve",
+        "Middle meningeal artery"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11707,
+      question: "The foramen spinosum transmits which structure?",
+      options: [
+        "Maxillary nerve",
+        "Mandibular nerve",
+        "Middle meningeal artery",
+        "Internal carotid artery"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11708,
+      question: "What is the mnemonic for remembering the three main sphenoid foramina?",
+      options: [
+        "MAO",
+        "ROS",
+        "SOT",
+        "BAR"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11709,
+      question: "The sella turcica (hypophyseal fossa) houses which gland?",
+      options: [
+        "Thyroid gland",
+        "Adrenal gland",
+        "Pituitary gland",
+        "Pineal gland"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11710,
+      question: "Which cranial nerves pass through the superior orbital fissure?",
+      options: [
+        "2nd, 5th, 6th",
+        "3rd, 4th, 6th and ophthalmic branch of 5th",
+        "7th, 9th, 10th",
+        "1st, 2nd, 3rd"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11711,
+      question: "The inferior orbital fissure is located between which bones?",
+      options: [
+        "Frontal and sphenoid",
+        "Temporal and occipital",
+        "Greater wing of sphenoid, zygoma, and maxilla",
+        "Palatine and ethmoid"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11712,
+      question: "The pterygopalatine fossa is located between which structures?",
+      options: [
+        "Frontal and parietal bones",
+        "Maxilla and pterygoid process",
+        "Temporal and occipital bones",
+        "Mandible and hyoid bone"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11713,
+      question: "What important structures branch in the pterygopalatine fossa?",
+      options: [
+        "Cranial nerves IX, X, XI",
+        "Vertebral arteries",
+        "Major nerves and vessels to oral and nasal cavities",
+        "Spinal cord branches"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11714,
+      question: "The crista galli serves as an attachment for which structure?",
+      options: [
+        "Temporalis muscle",
+        "Falx cerebri",
+        "Masseter muscle",
+        "Stylohyoid ligament"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11715,
+      question: "The cribriform plate provides passage for which nerve?",
+      options: [
+        "Optic nerve",
+        "Facial nerve",
+        "Olfactory nerve",
+        "Trigeminal nerve"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11716,
+      question: "Which structures are part of the ethmoid bone?",
+      options: [
+        "Inferior and middle nasal conchae",
+        "Superior and middle nasal conchae",
+        "All three nasal conchae",
+        "Only the inferior nasal concha"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11717,
+      question: "The foramen magnum transmits which structures?",
+      options: [
+        "Internal carotid artery only",
+        "Spinal cord, vertebral arteries, and 11th cranial nerve",
+        "Jugular vein only",
+        "Optic nerve and ophthalmic artery"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11718,
+      question: "The occipital condyles articulate with which bone?",
+      options: [
+        "First cervical vertebra (atlas)",
+        "Temporal bone",
+        "Sphenoid bone",
+        "Parietal bone"
+      ],
+      correct: "A"
+    },
+    {
+      id: 11719,
+      question: "The hypoglossal canals transmit which nerve?",
+      options: [
+        "10th cranial nerve",
+        "11th cranial nerve",
+        "12th cranial nerve",
+        "9th cranial nerve"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11720,
+      question: "The temporal fossa is composed of how many bones?",
+      options: [
+        "Two bones",
+        "Three bones",
+        "Four bones",
+        "Five bones"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11721,
+      question: "Which bones form the temporal fossa?",
+      options: [
+        "Temporal and parietal only",
+        "Frontal, parietal, sphenoid, and temporal",
+        "Occipital, temporal, and sphenoid",
+        "Maxilla, palatine, and temporal"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11722,
+      question: "The external acoustic meatus is part of which bone?",
+      options: [
+        "Sphenoid bone",
+        "Occipital bone",
+        "Temporal bone",
+        "Frontal bone"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11723,
+      question: "The petrous portion of the temporal bone houses what?",
+      options: [
+        "Middle ear structures",
+        "Inner ear components",
+        "External ear canal",
+        "Mastoid air cells only"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11724,
+      question: "The styloid process serves as an attachment for what?",
+      options: [
+        "Eye muscles",
+        "Muscles and ligaments of head and neck",
+        "Tongue muscles only",
+        "Facial expression muscles only"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11725,
+      question: "The mandibular fossa articulates with which structure?",
+      options: [
+        "Temporal process of zygomatic",
+        "Coronoid process",
+        "Mandibular condyle",
+        "Styloid process"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11726,
+      question: "What structure is located just anterior to the mandibular fossa?",
+      options: [
+        "Postglenoid process",
+        "Articular eminence",
+        "Styloid process",
+        "Mastoid process"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11727,
+      question: "The carotid canal transmits which structure?",
+      options: [
+        "External carotid artery",
+        "Vertebral artery",
+        "Internal carotid artery",
+        "Middle meningeal artery"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11728,
+      question: "The stylomastoid foramen allows exit of which cranial nerve?",
+      options: [
+        "5th cranial nerve",
+        "6th cranial nerve",
+        "7th cranial nerve",
+        "8th cranial nerve"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11729,
+      question: "The jugular foramen is bordered by which bones?",
+      options: [
+        "Sphenoid and ethmoid",
+        "Temporal and occipital",
+        "Frontal and parietal",
+        "Maxilla and palatine"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11730,
+      question: "The mandible consists of how many main parts?",
+      options: [
+        "Two parts",
+        "Three parts",
+        "Four parts",
+        "Five parts"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11731,
+      question: "What does the acronym BAR stand for in mandibular anatomy?",
+      options: [
+        "Base, articulation, ridge",
+        "Body, alveolar process, ramus",
+        "Bone, angle, region",
+        "Border, apex, root"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11732,
+      question: "Where does mandibular growth primarily occur?",
+      options: [
+        "Coronoid process only",
+        "Condyle only",
+        "Alveolar process and body",
+        "Angle only"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11733,
+      question: "The mental foramen is located near which teeth?",
+      options: [
+        "Incisors",
+        "Canines",
+        "Premolars",
+        "Molars"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11734,
+      question: "What does the mental foramen transmit?",
+      options: [
+        "Inferior alveolar nerve only",
+        "Mental nerve and vessels",
+        "Lingual nerve",
+        "Buccal nerve"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11735,
+      question: "The mental protuberance is also known as what?",
+      options: [
+        "The angle of mandible",
+        "The coronoid process",
+        "The tip of the chin",
+        "The condylar neck"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11736,
+      question: "The external oblique line runs from which structure?",
+      options: [
+        "Condyle to mental foramen",
+        "Anterior border of ramus where it meets the body",
+        "Coronoid process to angle",
+        "Lingula to mental spine"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11737,
+      question: "The mandibular foramen allows entry of which structures?",
+      options: [
+        "Mental nerve and vessels",
+        "Inferior alveolar nerve and vessels",
+        "Lingual nerve only",
+        "Mylohyoid nerve only"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11738,
+      question: "The lingula partially covers which opening?",
+      options: [
+        "Mental foramen",
+        "Mandibular foramen",
+        "Incisive foramen",
+        "Greater palatine foramen"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11739,
+      question: "The mylohyoid groove is located where in relation to the mandibular foramen?",
+      options: [
+        "Above the foramen",
+        "Below the foramen",
+        "Anterior to the foramen",
+        "Lateral to the foramen"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11740,
+      question: "What muscle attaches to the mylohyoid line?",
+      options: [
+        "Masseter muscle",
+        "Temporalis muscle",
+        "Mylohyoid muscle",
+        "Lateral pterygoid muscle"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11741,
+      question: "The sublingual fossa houses which gland?",
+      options: [
+        "Parotid gland",
+        "Sublingual salivary gland",
+        "Submandibular gland only",
+        "Thyroid gland"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11742,
+      question: "The retromolar triangle is located where?",
+      options: [
+        "Anterior to the canine",
+        "Between the premolars",
+        "Immediately behind the third molar",
+        "At the angle of mandible"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11743,
+      question: "The mental spines serve as attachment for what?",
+      options: [
+        "Lip muscles",
+        "Tongue muscles",
+        "Facial expression muscles",
+        "Mastication muscles"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11744,
+      question: "The digastric fossa is located where?",
+      options: [
+        "Buccally at the angle",
+        "Lingually at inferior border near midline",
+        "On the coronoid process",
+        "On the condylar neck"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11745,
+      question: "The mandibular notch is located between which two processes?",
+      options: [
+        "Condyle and angle",
+        "Coronoid and condylar processes",
+        "Angle and coronoid",
+        "Mental spine and lingula"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11746,
+      question: "The coronoid process serves as attachment for which muscle?",
+      options: [
+        "Lateral pterygoid",
+        "Medial pterygoid",
+        "Temporalis",
+        "Masseter"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11747,
+      question: "The head of the condyle articulates with which structure to form the TMJ?",
+      options: [
+        "Articular eminence only",
+        "Postglenoid process",
+        "Mandibular fossa of temporal bone",
+        "Zygomatic arch"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11748,
+      question: "The condylar neck is located where?",
+      options: [
+        "Superior to the condyle",
+        "Just inferior to the condyle",
+        "At the sigmoid notch",
+        "At the angle of mandible"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11749,
+      question: "The piriform aperture is which shape?",
+      options: [
+        "Circular",
+        "Triangular",
+        "Heart or pear-shaped",
+        "Square"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11750,
+      question: "Which bone forms the bridge of the nose?",
+      options: [
+        "Ethmoid bone",
+        "Maxilla",
+        "Nasal bone",
+        "Frontal bone"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11751,
+      question: "The inferior orbital fissure is formed by the articulation of which bones?",
+      options: [
+        "Frontal and ethmoid",
+        "Zygomatic, sphenoid, and maxilla",
+        "Palatine and lacrimal",
+        "Nasal and vomer"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11752,
+      question: "The temporal process of the zygomatic bone forms what structure?",
+      options: [
+        "Orbit floor",
+        "Zygomatic arch",
+        "Infraorbital rim",
+        "Nasal cavity"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11753,
+      question: "The frontal process of the zygomatic bone forms which orbital wall?",
+      options: [
+        "Medial wall",
+        "Superior wall",
+        "Anterior lateral wall",
+        "Floor"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11754,
+      question: "The greater palatine foramen transmits what?",
+      options: [
+        "Lesser palatine nerve and vessels",
+        "Greater palatine nerve and vessels",
+        "Nasopalatine nerve",
+        "Infraorbital nerve"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11755,
+      question: "Where is the lesser palatine foramen located relative to the greater palatine foramen?",
+      options: [
+        "Anterior",
+        "Lateral",
+        "Just posterior",
+        "Medial"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11756,
+      question: "The palatine process of the maxilla forms what?",
+      options: [
+        "Most of the hard palate",
+        "The soft palate",
+        "The nasal septum",
+        "The orbit floor"
+      ],
+      correct: "A"
+    },
+    {
+      id: 11757,
+      question: "The maxillary tuberosity is located where?",
+      options: [
+        "Anterior to the incisors",
+        "Between the canine and premolars",
+        "Posterior to the terminal molar",
+        "At the midline suture"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11758,
+      question: "What enters the maxillary tuberosity?",
+      options: [
+        "Infraorbital nerve",
+        "Blood vessels and nerves to supply posterior teeth",
+        "Nasopalatine nerve",
+        "Greater palatine vessels"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11759,
+      question: "The canine eminence is specific to which tooth?",
+      options: [
+        "Central incisor",
+        "Lateral incisor",
+        "Canine",
+        "First premolar"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11760,
+      question: "The canine fossa surrounds which structure?",
+      options: [
+        "Mental foramen",
+        "Infraorbital foramen",
+        "Canine eminence",
+        "Maxillary tuberosity"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11761,
+      question: "The infraorbital foramen transmits structures that supply which areas?",
+      options: [
+        "Lower lip, chin, and mandibular gingiva",
+        "Upper lip, facial gingiva, lower eyelid, and side of nose",
+        "Posterior teeth and palate",
+        "Tongue and floor of mouth"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11762,
+      question: "The incisive foramen is located where?",
+      options: [
+        "Between the central incisors posteriorly",
+        "Most anterior and medial portion of palate",
+        "Posterior to the molars",
+        "At the junction of hard and soft palate"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11763,
+      question: "The maxillary sinus is located in which bone?",
+      options: [
+        "Frontal bone",
+        "Ethmoid bone",
+        "Maxilla",
+        "Sphenoid bone"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11764,
+      question: "Pain from the maxillary sinus can be confused with pain from which teeth?",
+      options: [
+        "Mandibular molars",
+        "Maxillary anterior teeth",
+        "Maxillary posterior teeth",
+        "Mandibular anterior teeth"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11765,
+      question: "The TMJ is formed by the articulation of which two bones?",
+      options: [
+        "Maxilla and mandible",
+        "Temporal and mandible",
+        "Sphenoid and mandible",
+        "Zygomatic and mandible"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11766,
+      question: "The articular disc in the TMJ is located between which structures?",
+      options: [
+        "Condyle and coronoid process",
+        "Mandibular fossa and condyle",
+        "Articular eminence and postglenoid process",
+        "Temporal bone and zygomatic bone"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11767,
+      question: "What type of joint is the temporomandibular joint?",
+      options: [
+        "Hinge joint only",
+        "Ball and socket joint",
+        "Synovial joint with both hinge and gliding movements",
+        "Fibrous joint"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11768,
+      question: "The postglenoid process is located where relative to the TMJ?",
+      options: [
+        "Anterior to articulation point",
+        "Just posterior to articulation point",
+        "Superior to articulation point",
+        "Inferior to articulation point"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11769,
+      question: "How many synovial cavities does the TMJ have?",
+      options: [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11770,
+      question: "The upper synovial cavity of the TMJ is associated with which movement?",
+      options: [
+        "Hinge movement",
+        "Rotation",
+        "Forward movement (protrusion)",
+        "Lateral movement"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11771,
+      question: "The lower synovial cavity of the TMJ is associated with which movement?",
+      options: [
+        "Forward movement",
+        "Hinge movement (depression)",
+        "Lateral excursion",
+        "Elevation only"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11772,
+      question: "The lateral pterygoid muscle attaches to which part of the TMJ?",
+      options: [
+        "Articular eminence",
+        "Articular disc and condyle",
+        "Postglenoid process",
+        "Mandibular fossa"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11773,
+      question: "The middle cranial fossa is formed by which bone(s)?",
+      options: [
+        "Frontal bone only",
+        "Occipital bone only",
+        "Temporal bone (part of)",
+        "Parietal bones"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11774,
+      question: "The posterior cranial fossa houses which structures?",
+      options: [
+        "Frontal lobe",
+        "Pituitary gland",
+        "Brain stem and cerebellum",
+        "Optic chiasm"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11775,
+      question: "The anterior cranial fossa, middle cranial fossa, and posterior cranial fossa are separated by which bones?",
+      options: [
+        "Only the ethmoid",
+        "Sphenoid, temporal, and occipital",
+        "Frontal and parietal",
+        "Maxilla and palatine"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11776,
+      question: "Foramen lacerum is bordered by which bones?",
+      options: [
+        "Frontal and ethmoid",
+        "Sphenoid, temporal, and occipital",
+        "Maxilla and palatine",
+        "Zygomatic and temporal"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11777,
+      question: "What is the significance of foramen lacerum?",
+      options: [
+        "Major artery passes through",
+        "Mostly plugged with cartilage; minimal passage",
+        "Largest cranial nerve exits here",
+        "Spinal cord passes through"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11778,
+      question: "The optic canal transmits which structures?",
+      options: [
+        "Maxillary nerve and vessels",
+        "Optic nerve and ophthalmic artery",
+        "Facial nerve",
+        "Mandibular nerve"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11779,
+      question: "The optic canal is located in which wing of the sphenoid?",
+      options: [
+        "Greater wing",
+        "Lesser wing",
+        "Pterygoid process",
+        "Body"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11780,
+      question: "Which bones contribute to forming the hard palate?",
+      options: [
+        "Maxilla only",
+        "Palatine only",
+        "Maxilla and palatine",
+        "Vomer and ethmoid"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11781,
+      question: "The medial pterygoid plate and lateral pterygoid plate are separated by what?",
+      options: [
+        "Greater palatine foramen",
+        "Pterygoid fossa",
+        "Infraorbital fissure",
+        "Sphenopalatine foramen"
+      ],
+      correct: "B"
+    }
+  
   ],
   "3. Circulation of the Head and Neck": [    {
       id: 11300,
@@ -3675,1073 +5374,943 @@ export const questions = {
       correct: "A"
     },
   ],
-  "3-1. Circulation of the Head and Neck": [    {
-      id: 11300,
-      question: "What type of blood do arteries carry?",
-      options: [
-        "Oxygenated blood from the heart to body systems",
-        "Deoxygenated blood from the heart",
-        "Deoxygenated blood to the heart",
-        "Mixed blood",
-      ],
-      correct: "A"
-    },
+  "3-1. Circulation of the Head and Neck": [
     {
-      id: 11301,
-      question: "What type of blood do veins carry?",
+      id: 11800,
+      question: "What is the primary function of arteries in the circulatory system?",
       options: [
-        "Oxygenated blood from the heart",
-        "Oxygenated blood to the heart",
-        "Arterial blood",
-        "Deoxygenated blood away from body systems back to the heart",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11302,
-      question: "How many common carotid arteries are there?",
-      options: [
-        "One",
-        "Two",
-        "Three",
-        "Four",
+        "Transport de-oxygenated blood from body systems back to the heart",
+        "Carry oxygenated blood from the heart to body systems and parts",
+        "Store excess blood for emergency circulation needs",
+        "Filter blood before it enters the heart chambers"
       ],
       correct: "B"
     },
     {
-      id: 11303,
-      question: "Where does the left common carotid artery originate from?",
+      id: 11801,
+      question: "What is the primary function of veins in the circulatory system?",
       options: [
-        "Brachiocephalic artery",
-        "Subclavian artery",
+        "Distribute oxygenated blood to all body tissues and organs",
+        "Regulate blood pressure throughout the cardiovascular system",
+        "Carry de-oxygenated blood from body parts back to the heart",
+        "Connect arteries to capillaries in tissue beds"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11802,
+      question: "Where does the left common carotid artery originate?",
+      options: [
+        "From the brachiocephalic artery on the left side",
         "Directly from the arch of the aorta",
-        "External carotid artery",
+        "From the subclavian artery on the left side",
+        "From the junction of the ascending and descending aorta"
       ],
-      correct: "C"
+      correct: "B"
     },
     {
-      id: 11304,
-      question: "Where does the right common carotid artery originate from?",
+      id: 11803,
+      question: "How does the right common carotid artery differ in origin from the left?",
       options: [
-        "Directly from the arch of the aorta",
-        "Subclavian artery",
-        "Internal carotid artery",
-        "From the arch of the aorta through the brachiocephalic artery",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11305,
-      question: "What does \"cephalic\" mean in the term brachiocephalic artery?",
-      options: [
-        "Head",
-        "Neck",
-        "Arm",
-        "Chest",
+        "It originates through the brachiocephalic artery before becoming the common carotid",
+        "It branches directly from the ascending aorta",
+        "It emerges from the left ventricle of the heart",
+        "It originates from the right subclavian artery"
       ],
       correct: "A"
     },
     {
-      id: 11306,
-      question: "Where does the common carotid artery run through?",
+      id: 11804,
+      question: "What structure contains the common carotid artery as it travels through the neck?",
       options: [
-        "Jugular sheath",
-        "Carotid sheath",
-        "Vertebral canal",
-        "Pharyngeal space",
+        "The vertebral canal on both sides of the neck",
+        "The carotid sheath on both left and right sides",
+        "The internal jugular foramen bilaterally",
+        "The external carotid canal in the temporal bone"
       ],
       correct: "B"
     },
     {
-      id: 11307,
-      question: "Near what structure does the common carotid artery split?",
+      id: 11805,
+      question: "At what anatomical landmark does the common carotid artery bifurcate?",
       options: [
-        "Hyoid bone",
-        "Clavicle",
-        "Larynx",
-        "Mandible",
+        "At the level of the clavicle",
+        "Near the larynx",
+        "At the base of the skull",
+        "Adjacent to the thyroid cartilage"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11806,
+      question: "Into which two major arteries does the common carotid artery divide?",
+      options: [
+        "The maxillary and superficial temporal arteries",
+        "The external carotid and internal carotid arteries",
+        "The facial and lingual arteries bilaterally",
+        "The superior and inferior thyroid arteries"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11807,
+      question: "What is a key characteristic of the internal carotid artery in the neck?",
+      options: [
+        "It has numerous branches supplying neck muscles",
+        "It branches extensively to supply facial structures",
+        "It has no branches in the neck region",
+        "It terminates at the level of the hyoid bone"
       ],
       correct: "C"
     },
     {
-      id: 11308,
-      question: "What are the two branches of the common carotid artery?",
+      id: 11808,
+      question: "Through which opening does the internal carotid artery enter the skull?",
       options: [
-        "Superficial and deep carotid arteries",
-        "Anterior and posterior carotid arteries",
-        "Superior and inferior carotid arteries",
-        "Internal and external carotid arteries",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11309,
-      question: "How many branches does the internal carotid artery have in the neck?",
-      options: [
-        "None",
-        "Two",
-        "Three",
-        "Five",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11310,
-      question: "Through what structure does the internal carotid artery enter the skull?",
-      options: [
-        "Jugular foramen",
-        "Foramen magnum",
-        "Foramen spinosum",
-        "Carotid canal",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11311,
-      question: "What structures does the internal carotid artery supply?",
-      options: [
-        "Face and neck only",
-        "Eyes, brain, and some brain coverings",
-        "Tongue and pharynx",
-        "Muscles of mastication",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11312,
-      question: "How are the branches of the external carotid artery named?",
-      options: [
-        "By their size",
-        "By their order of branching",
-        "According to the areas they supply",
-        "Alphabetically",
+        "Through the jugular foramen in the temporal bone",
+        "Through the foramen magnum at the skull base",
+        "Through the carotid canal in the skull",
+        "Through the foramen spinosum in the sphenoid bone"
       ],
       correct: "C"
     },
     {
-      id: 11313,
-      question: "Where are the branches of the external carotid artery located relative to the body surface?",
+      id: 11809,
+      question: "Which structures does the internal carotid artery primarily supply?",
       options: [
-        "Deep",
-        "Within bone",
-        "In the cranial cavity",
-        "More superficial (nearer the surface)",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11314,
-      question: "How many categories are the branches of the external carotid artery divided into?",
-      options: [
-        "Two",
-        "Three",
-        "Four",
-        "Five",
+        "The facial muscles, tongue, and oral cavity structures",
+        "The eyes, brain, and some brain coverings",
+        "The thyroid gland, larynx, and pharynx",
+        "The scalp, external ear, and temporal region"
       ],
       correct: "B"
     },
     {
-      id: 11315,
+      id: 11810,
+      question: "What is the location of external carotid artery branches relative to body surface?",
+      options: [
+        "They are deep to bone and muscle layers",
+        "They are located within the cranial cavity",
+        "They are nearer the surface and more superficial",
+        "They travel exclusively through bony canals"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11811,
+      question: "Which structures do the branches of the external carotid artery supply?",
+      options: [
+        "Only the brain and its protective coverings",
+        "The throat, tongue, face, ears, and cranium wall",
+        "Exclusively the muscles of mastication and deglutition",
+        "The cervical vertebrae and spinal cord"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11812,
+      question: "How many categories divide the branches of the external carotid artery?",
+      options: [
+        "Two categories: superficial and deep branches only",
+        "Four categories: anterior, posterior, medial, and lateral",
+        "Three categories: anterior, medial, and posterior branches",
+        "Five categories including terminal and intermediate branches"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11813,
       question: "Which arteries are anterior branches of the external carotid artery?",
       options: [
-        "Occipital, posterior auricular",
-        "Maxillary, superficial temporal",
-        "Superior thyroid, lingual, facial",
-        "Ascending pharyngeal only",
+        "Occipital, posterior auricular, and ascending pharyngeal arteries",
+        "Superior thyroid, lingual, and facial arteries",
+        "Maxillary, superficial temporal, and middle meningeal arteries",
+        "Deep temporal, masseteric, and pterygoid arteries"
       ],
-      correct: "C"
+      correct: "B"
     },
     {
-      id: 11316,
+      id: 11814,
       question: "Which artery is the medial branch of the external carotid artery?",
       options: [
-        "Facial artery",
-        "Lingual artery",
-        "Occipital artery",
-        "Ascending pharyngeal artery",
+        "The lingual artery supplying the tongue",
+        "The facial artery crossing the mandible",
+        "The ascending pharyngeal artery",
+        "The occipital artery to the posterior scalp"
       ],
-      correct: "D"
+      correct: "C"
     },
     {
-      id: 11317,
+      id: 11815,
       question: "Which arteries are posterior branches of the external carotid artery?",
       options: [
-        "Occipital, posterior auricular",
-        "Facial, lingual",
-        "Superior thyroid, lingual",
-        "Maxillary, superficial temporal",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11318,
-      question: "What are the two terminal branches of the external carotid artery?",
-      options: [
-        "Lingual and facial",
-        "Maxillary and superficial temporal",
-        "Occipital and posterior auricular",
-        "Superior thyroid and ascending pharyngeal",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11319,
-      question: "What does the lingual artery supply?",
-      options: [
-        "Face and neck",
-        "Brain and eyes",
-        "Tongue and floor of oral cavity",
-        "Muscles of mastication",
+        "Superior thyroid and lingual arteries posteriorly",
+        "Maxillary and superficial temporal arteries",
+        "Occipital and posterior auricular arteries",
+        "Facial and ascending pharyngeal arteries"
       ],
       correct: "C"
     },
     {
-      id: 11320,
-      question: "At what level does the lingual artery branch from the external carotid artery?",
+      id: 11816,
+      question: "Into which two terminal arteries does the external carotid artery divide?",
       options: [
-        "At the level of the mandible",
-        "At the level of the larynx",
-        "At the level of the thyroid cartilage",
+        "The lingual and facial arteries at termination",
+        "The superior thyroid and ascending pharyngeal arteries",
+        "The maxillary and superficial temporal arteries",
+        "The occipital and posterior auricular arteries"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11817,
+      question: "What anatomical variation may occur with the lingual and facial arteries?",
+      options: [
+        "They may branch directly from the common carotid artery",
+        "They occasionally branch together as the linguofacial trunk",
+        "They sometimes bypass the external carotid entirely",
+        "They may originate from the internal carotid artery"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11818,
+      question: "Which primary structures does the lingual artery supply?",
+      options: [
+        "The facial muscles and external ear structures",
+        "The thyroid gland and surrounding neck tissues",
+        "The tongue and floor of the oral cavity",
+        "The palate and nasal cavity mucosa"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11819,
+      question: "At approximately what anatomical level does the lingual artery branch from the external carotid?",
+      options: [
+        "At the level of the mandibular angle",
         "About even with the hyoid bone",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11321,
-      question: "What are the three branches of the lingual artery?",
-      options: [
-        "Dorsal lingual, deep lingual, and sublingual",
-        "Superior, middle, and inferior lingual",
-        "Anterior, posterior, and lateral lingual",
-        "Maxillary, mandibular, and palatine lingual",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11322,
-      question: "What does the dorsal lingual artery supply?",
-      options: [
-        "Anterior part of the tongue",
-        "Deep posterior part of tongue, tonsils, soft palate, and epiglottis",
-        "Ventral surface of the tongue",
-        "Floor of the mouth only",
+        "Near the thyroid cartilage prominence",
+        "At the base of the tongue muscle"
       ],
       correct: "B"
     },
     {
-      id: 11323,
-      question: "What does the deep lingual artery supply?",
+      id: 11820,
+      question: "In what direction does the lingual artery travel after branching?",
       options: [
-        "Posterior part of the tongue",
-        "Soft palate",
-        "Deep anterior part of the tongue and deep to mucous membranes",
-        "Epiglottis",
+        "Posterior and superficial toward the ear region",
+        "Laterally toward the angle of the mandible",
+        "Anterior and deep under the tongue muscles",
+        "Superior toward the base of the skull"
       ],
       correct: "C"
     },
     {
-      id: 11324,
-      question: "What does the sublingual artery supply?",
+      id: 11821,
+      question: "Which branch of the lingual artery supplies the deep posterior tongue?",
       options: [
-        "Dorsal surface of the tongue",
-        "Posterior tongue",
-        "Soft palate",
-        "Ventral surface of the tongue",
+        "The sublingual artery to posterior structures",
+        "The deep lingual artery posteriorly",
+        "The dorsal lingual artery",
+        "The superior thyroid artery branch"
       ],
-      correct: "D"
+      correct: "C"
     },
     {
-      id: 11325,
-      question: "What does the facial artery supply?",
+      id: 11822,
+      question: "What additional structures does the dorsal lingual artery supply besides the tongue?",
       options: [
-        "Facial skin and muscles of facial expression",
-        "Tongue and floor of mouth",
-        "Muscles of mastication",
-        "Brain coverings",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11326,
-      question: "Where can the facial artery be palpated?",
-      options: [
-        "At the angle of the mandible",
-        "Just anterior to the angle of mandible at the lower border",
-        "On the zygomatic arch",
-        "On the forehead",
+        "The floor of mouth and sublingual gland",
+        "The tonsils, soft palate, and epiglottis",
+        "The hard palate and nasal cavity",
+        "The mandibular teeth and periodontal ligament"
       ],
       correct: "B"
     },
     {
-      id: 11327,
-      question: "What structure does the facial artery supply after branching from the external carotid?",
+      id: 11823,
+      question: "Which lingual artery branch supplies the deep anterior part of the tongue?",
       options: [
-        "Parotid gland",
-        "Sublingual gland",
-        "Submandibular salivary gland",
-        "Thyroid gland",
+        "The dorsal lingual artery to anterior regions",
+        "The sublingual artery anteriorly",
+        "The deep lingual artery deep to mucous membranes",
+        "The anterior thyroid artery branch"
       ],
       correct: "C"
     },
     {
-      id: 11328,
-      question: "What is the submental branch of the facial artery responsible for supplying?",
+      id: 11824,
+      question: "Which lingual artery branch supplies the ventral surface of the tongue?",
       options: [
-        "Lips",
-        "Nose",
-        "Forehead",
-        "Chin",
+        "The deep lingual artery ventrally",
+        "The dorsal lingual artery to ventral areas",
+        "The sublingual artery",
+        "The inferior lingual branch"
       ],
-      correct: "D"
+      correct: "C"
     },
     {
-      id: 11329,
-      question: "How many labial branches does the facial artery have?",
+      id: 11825,
+      question: "Which primary structures does the facial artery supply blood to?",
       options: [
-        "One",
-        "Two",
-        "Three",
-        "Four",
+        "The tongue, floor of mouth, and sublingual structures",
+        "The facial skin and muscles of facial expression",
+        "The brain, eyes, and cranial nerve structures",
+        "The teeth, periodontal ligaments, and alveolar bone"
       ],
       correct: "B"
     },
     {
-      id: 11330,
-      question: "What do the labial branches of the facial artery supply?",
+      id: 11826,
+      question: "What structure does the facial artery supply before crossing the mandible?",
       options: [
-        "Cheeks",
-        "Chin",
-        "Maxillary and mandibular labia (lips)",
-        "Nose",
+        "The parotid salivary gland and duct",
+        "The muscles of mastication inferiorly",
+        "The submandibular salivary gland",
+        "The thyroid and parathyroid glands"
       ],
       correct: "C"
     },
     {
-      id: 11331,
-      question: "Where does the facial artery end?",
+      id: 11827,
+      question: "Where can the facial artery be palpated on the face?",
       options: [
-        "At the medial corner of the eye",
-        "At the angle of the mouth",
-        "At the chin",
-        "At the forehead",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11332,
-      question: "What artery begins where the facial artery ends?",
-      options: [
-        "Infraorbital artery",
-        "Angular artery",
-        "Nasal artery",
-        "Ophthalmic artery",
+        "At the temporal region anterior to the ear",
+        "Just anterior to the mandibular angle",
+        "At the infraorbital foramen below the eye",
+        "Along the zygomatic arch laterally"
       ],
       correct: "B"
     },
     {
-      id: 11333,
-      question: "Why can the facial artery be compressed at the edge of the mandible?",
+      id: 11828,
+      question: "What is the first branch of the facial artery after crossing the mandible?",
       options: [
-        "To measure pulse",
-        "To diagnose disease",
-        "To slow facial bleeding",
-        "To administer medication",
+        "The angular artery near the eye",
+        "The superior and inferior labial branches",
+        "The submental branch to the chin",
+        "The nasal branch to the nose"
       ],
       correct: "C"
     },
     {
-      id: 11334,
-      question: "What is one of the two terminal branches of the external carotid artery?",
+      id: 11829,
+      question: "Which structures do the labial branches of the facial artery supply?",
       options: [
-        "Lingual artery",
-        "Facial artery",
-        "Occipital artery",
-        "Maxillary artery",
+        "The buccal mucosa and gingiva",
+        "The maxillary and mandibular lips (labia)",
+        "The tongue and floor of mouth",
+        "The hard and soft palate"
       ],
-      correct: "D"
+      correct: "B"
     },
     {
-      id: 11335,
-      question: "What structures does the maxillary artery supply?",
+      id: 11830,
+      question: "Where does the facial artery terminate and what does it become?",
       options: [
-        "Muscles of mastication, teeth, oral and nasal cavities, brain coverings, and other areas",
-        "Only the teeth",
-        "Only facial muscles",
-        "Only the tongue",
+        "At the angle of mouth as the labial artery",
+        "At the medial eye corner as the angular artery",
+        "At the nasal tip as the dorsal nasal artery",
+        "At the chin as the mental artery"
       ],
-      correct: "A"
+      correct: "B"
     },
     {
-      id: 11336,
-      question: "At what level does the maxillary artery originate from the external carotid artery?",
+      id: 11831,
+      question: "What is the clinical significance of the facial artery at the mandibular border?",
+      options: [
+        "It serves as a landmark for nerve blocks",
+        "It can be compressed to slow facial bleeding",
+        "It indicates the location of lymph nodes",
+        "It marks the insertion of facial muscles"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11832,
+      question: "Which major structures does the maxillary artery supply?",
+      options: [
+        "Only the maxillary teeth and surrounding gingiva",
+        "The facial skin and superficial neck structures",
+        "Mastication muscles, teeth, oral/nasal cavities, brain coverings, and smaller areas",
+        "Exclusively the brain and cranial nerve pathways"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11833,
+      question: "The maxillary artery is one of which type of branches?",
+      options: [
+        "One of three medial branches of external carotid",
+        "One of two terminal branches of external carotid",
+        "One of four anterior branches of external carotid",
+        "One of two posterior branches of external carotid"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11834,
+      question: "At what anatomical level does the maxillary artery originate?",
       options: [
         "At the level of the hyoid bone",
+        "Near the thyroid cartilage prominence",
         "At the level of the mandibular condyle",
-        "At the level of the zygomatic arch",
-        "At the level of the larynx",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11337,
-      question: "Where does the maxillary artery run after originating?",
-      options: [
-        "Through the parotid gland",
-        "Through the oral cavity",
-        "Through the infratemporal fossa",
-        "Along the surface of the face",
+        "At the angle of the mandible"
       ],
       correct: "C"
     },
     {
-      id: 11338,
-      question: "What is the infratemporal fossa?",
+      id: 11835,
+      question: "Through which space does the maxillary artery initially travel?",
       options: [
-        "The space lateral to the zygomatic arch",
-        "The space above the hard palate",
-        "The space behind the maxilla",
-        "The space medial to the zygomatic arch and ramus of mandible",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11339,
-      question: "Where does the maxillary artery enter after passing through the infratemporal fossa?",
-      options: [
-        "Pterygopalatine fossa",
-        "Oral cavity",
-        "Nasal cavity",
-        "Temporal fossa",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11340,
-      question: "Where do the terminal branches of the maxillary artery emerge onto the face?",
-      options: [
-        "Mental foramen",
-        "Infraorbital foramen",
-        "Greater palatine foramen",
-        "Mandibular foramen",
+        "Through the pterygomaxillary fissure initially",
+        "Through the infratemporal fossa medial to zygomatic arch",
+        "Through the pterygopalatine fossa behind eye",
+        "Through the temporal fossa above zygomatic arch"
       ],
       correct: "B"
     },
     {
-      id: 11341,
+      id: 11836,
+      question: "Into which fossa does the maxillary artery enter after the infratemporal fossa?",
+      options: [
+        "Into the temporal fossa above the ear",
+        "Into the pterygopalatine fossa behind and below the eye",
+        "Into the orbit through the inferior orbital fissure",
+        "Into the nasal cavity through ethmoid foramina"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11837,
+      question: "Through which opening do terminal branches of the maxillary artery emerge onto the face?",
+      options: [
+        "Through the mental foramen on the mandible",
+        "Through the supraorbital foramen above the eye",
+        "Through the infraorbital foramen below the eye",
+        "Through the zygomaticofacial foramen laterally"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11838,
       question: "How many total branches does the maxillary artery have?",
       options: [
-        "10",
-        "12",
-        "15",
-        "20",
+        "Ten major branches in total",
+        "Twelve branches total",
+        "Fifteen branches in total",
+        "Twenty branches throughout its course"
       ],
       correct: "C"
     },
     {
-      id: 11342,
-      question: "How many branches from the infratemporal fossa are studied in detail?",
+      id: 11839,
+      question: "From which fossa do the inferior alveolar, temporal, masseteric, pterygoid, middle meningeal, and buccal arteries branch?",
       options: [
-        "Four",
-        "Five",
-        "Seven",
-        "Six",
+        "From the pterygopalatine fossa posteriorly",
+        "From the temporal fossa superiorly",
+        "From the infratemporal fossa",
+        "From the submandibular fossa inferiorly"
       ],
-      correct: "D"
+      correct: "C"
     },
     {
-      id: 11343,
-      question: "How many branches from the pterygopalatine fossa are studied in detail?",
+      id: 11840,
+      question: "Which arteries branch from the maxillary artery in the pterygopalatine fossa?",
       options: [
-        "Four",
-        "Two",
-        "Three",
-        "Five",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11344,
-      question: "Where does the inferior alveolar artery enter?",
-      options: [
-        "Mental foramen",
-        "Mandibular foramen",
-        "Infraorbital foramen",
-        "Greater palatine foramen",
+        "Inferior alveolar, buccal, and masseteric arteries",
+        "Descending palatine, posterior superior alveolar, pterygopalatine, and infraorbital arteries",
+        "Middle meningeal, temporal, and pterygoid arteries",
+        "Facial, lingual, and superior thyroid arteries"
       ],
       correct: "B"
     },
     {
-      id: 11345,
-      question: "Where does the inferior alveolar artery run after entering the mandible?",
+      id: 11841,
+      question: "Through which opening does the inferior alveolar artery enter the mandible?",
       options: [
-        "Along the surface of the mandible",
-        "Through the mental foramen",
-        "Through the mandibular canal",
-        "Along the alveolar crest",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11346,
-      question: "What structures does the inferior alveolar artery supply?",
-      options: [
-        "Only the teeth",
-        "Only the gingiva",
-        "Only the bone",
-        "Each mandibular tooth, PDLs, and alveolar bone",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11347,
-      question: "What is the most anterior portion of the inferior alveolar artery called?",
-      options: [
-        "Mental artery",
-        "Incisive artery",
-        "Lingual artery",
-        "Buccal artery",
+        "Through the mental foramen on the lateral surface",
+        "Through the mandibular foramen on the medial surface",
+        "Through the mandibular notch superiorly",
+        "Through the submandibular fossa inferiorly"
       ],
       correct: "B"
     },
     {
-      id: 11348,
-      question: "What teeth does the incisive artery supply?",
+      id: 11842,
+      question: "Which structures does the inferior alveolar artery supply within the mandible?",
       options: [
-        "Molars",
-        "Premolars and canines",
-        "Premolars forward",
-        "All mandibular teeth",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11349,
-      question: "Through what foramen does the mental artery exit the mandible?",
-      options: [
-        "Mandibular foramen",
-        "Infraorbital foramen",
-        "Incisive foramen",
-        "Mental foramen",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11350,
-      question: "What does the mental artery supply?",
-      options: [
-        "All mandibular teeth",
-        "Mandibular buccal gingiva and mucosa from premolars to incisors, and mucosa of lower lip and chin",
-        "Only the lower lip",
-        "Only the chin",
+        "Only the mandibular molars and their supporting bone",
+        "Each mandibular tooth, their PDLs, and alveolar bone",
+        "The mandibular gingiva and oral mucosa only",
+        "The muscles attached to the mandible"
       ],
       correct: "B"
     },
     {
-      id: 11351,
-      question: "How many temporal branches arise from the maxillary artery?",
+      id: 11843,
+      question: "What is the name of the most anterior portion of the inferior alveolar artery?",
       options: [
-        "One",
-        "Three",
-        "Two",
-        "Four",
+        "The mental artery supplying anterior teeth",
+        "The anterior alveolar artery",
+        "The incisive artery from premolars forward",
+        "The mandibular incisor branch"
       ],
       correct: "C"
     },
     {
-      id: 11352,
-      question: "What muscle do the temporal branches supply?",
+      id: 11844,
+      question: "Through which opening does the mental artery exit the mandible?",
       options: [
-        "Masseter muscle",
-        "Pterygoid muscles",
-        "Temporal muscle",
-        "Buccinator muscle",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11353,
-      question: "What are the names of the two temporal branches?",
-      options: [
-        "Superior and inferior deep temporal",
-        "Medial and lateral deep temporal",
-        "Internal and external deep temporal",
-        "Anterior and posterior deep temporal",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11354,
-      question: "Through what structure does the masseteric artery run?",
-      options: [
-        "Mandibular foramen",
-        "Coronoid notch",
-        "Mental foramen",
-        "Infraorbital foramen",
+        "Through the mandibular foramen medially",
+        "Through the mental foramen on the lateral surface",
+        "Through the incisive canal anteriorly",
+        "Through the lingual foramen on medial surface"
       ],
       correct: "B"
     },
     {
-      id: 11355,
-      question: "What muscle does the masseteric artery supply?",
+      id: 11845,
+      question: "Which structures does the mental artery supply after exiting the mandible?",
       options: [
-        "Temporal muscle",
-        "Buccinator muscle",
-        "Masseter muscle",
-        "Pterygoid muscles",
+        "All mandibular teeth and periodontal structures",
+        "The floor of mouth and sublingual gland",
+        "Mandibular buccal gingiva and mucosa from premolars to incisors, lower lip mucosa, and chin",
+        "The muscles of facial expression in lower face"
       ],
       correct: "C"
     },
     {
-      id: 11356,
-      question: "How many pterygoid branches may there be?",
+      id: 11846,
+      question: "How many temporal artery branches arise from the maxillary artery?",
       options: [
-        "Always one",
-        "Always two",
-        "Always three",
-        "One or more",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11357,
-      question: "What muscles do the pterygoid branches supply?",
-      options: [
-        "Medial and lateral pterygoid",
-        "Masseter and temporal",
-        "Buccinator and masseter",
-        "Only medial pterygoid",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11358,
-      question: "Through what foramen does the middle meningeal artery run?",
-      options: [
-        "Foramen ovale",
-        "Foramen spinosum",
-        "Jugular foramen",
-        "Carotid canal",
+        "One temporal artery branch only",
+        "Two temporal branches",
+        "Three temporal artery branches",
+        "Four temporal branches bilaterally"
       ],
       correct: "B"
     },
     {
-      id: 11359,
-      question: "What is the middle meningeal artery the major blood supply to?",
+      id: 11847,
+      question: "Which muscle do the temporal branches of the maxillary artery supply?",
       options: [
-        "Brain tissue",
-        "Muscles of mastication",
-        "Meninges of brain (connective tissue enclosing brain)",
-        "Facial muscles",
+        "The masseter muscle of mastication",
+        "The lateral pterygoid muscle",
+        "The temporal muscle",
+        "The medial pterygoid muscle"
       ],
       correct: "C"
     },
     {
-      id: 11360,
-      question: "What structures does the buccal artery supply?",
+      id: 11848,
+      question: "What are the two temporal branches called?",
       options: [
-        "Only maxillary teeth",
-        "Only mandibular teeth",
-        "Lips and chin",
+        "Superior and inferior deep temporal arteries",
+        "Anterior and posterior deep temporal arteries",
+        "Medial and lateral temporal arteries",
+        "Superficial and deep temporal arteries"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11849,
+      question: "Through which anatomical feature does the masseteric artery travel?",
+      options: [
+        "Through the mandibular foramen medially",
+        "Through the pterygomaxillary fissure posteriorly",
+        "Through the coronoid notch laterally",
+        "Through the infratemporal crest superiorly"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11850,
+      question: "Which muscle does the masseteric artery supply?",
+      options: [
+        "The temporal muscle on the cranium",
+        "The lateral pterygoid muscle medially",
+        "The masseter muscle",
+        "The medial pterygoid muscle"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11851,
+      question: "Which muscles do the pterygoid branches supply?",
+      options: [
+        "The masseter and temporalis muscles",
+        "The medial and lateral pterygoid muscles",
+        "The muscles of facial expression",
+        "The suprahyoid muscles of the neck"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11852,
+      question: "How many pterygoid branches may arise from the maxillary artery?",
+      options: [
+        "Always exactly one pterygoid branch",
+        "Always exactly two pterygoid branches",
+        "There may be one or more pterygoid branches",
+        "Always three pterygoid branches"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11853,
+      question: "Through which foramen does the middle meningeal artery pass?",
+      options: [
+        "Through the foramen ovale into cranium",
+        "Through the jugular foramen posteriorly",
+        "Through the foramen spinosum",
+        "Through the carotid canal medially"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11854,
+      question: "What is the primary structure supplied by the middle meningeal artery?",
+      options: [
+        "The muscles of mastication in infratemporal fossa",
+        "The meninges (connective tissue enclosing the brain)",
+        "The brain tissue itself and neurons",
+        "The bones of the cranial vault"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11855,
+      question: "Which areas does the buccal artery supply?",
+      options: [
+        "The lips and labial mucosa exclusively",
+        "The tongue and floor of mouth",
         "Mucosa and gingiva of maxillary and mandibular posterior teeth",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11361,
-      question: "What does the descending palatine artery extend through?",
-      options: [
-        "Pterygopalatine canal",
-        "Infraorbital canal",
-        "Incisive canal",
-        "Mandibular canal",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11362,
-      question: "Where does the descending palatine artery extend downwards to?",
-      options: [
-        "Soft palate",
-        "Nasal cavity",
-        "Hard palate",
-        "Tongue",
+        "The hard and soft palate mucosa"
       ],
       correct: "C"
     },
     {
-      id: 11363,
-      question: "What are the two branches of the descending palatine artery?",
+      id: 11856,
+      question: "What is the descending palatine artery a branch of?",
       options: [
-        "Anterior and posterior palatine",
-        "Greater and lesser palatine",
-        "Superior and inferior palatine",
-        "Medial and lateral palatine",
+        "The facial artery in the face",
+        "The lingual artery near the tongue",
+        "The maxillary artery in pterygopalatine fossa",
+        "The external carotid artery directly"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11857,
+      question: "Through which canal does the descending palatine artery travel?",
+      options: [
+        "Through the incisive canal anteriorly",
+        "Through the greater palatine canal",
+        "Through the pterygopalatine canal",
+        "Through the inferior orbital canal"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11858,
+      question: "Into which two arteries does the descending palatine artery divide?",
+      options: [
+        "The ascending and descending palatine arteries",
+        "The anterior and posterior palatine arteries",
+        "The greater and lesser palatine arteries",
+        "The medial and lateral palatine arteries"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11859,
+      question: "Which structures does the greater palatine artery supply?",
+      options: [
+        "The soft palate and uvula exclusively",
+        "The nasal cavity and turbinates",
+        "The palatal mucosa and maxillary lingual gingiva",
+        "The maxillary teeth and alveolar bone"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11860,
+      question: "Through which foramen does the greater palatine artery emerge?",
+      options: [
+        "Through the lesser palatine foramen",
+        "Through the incisive foramen anteriorly",
+        "Through the greater palatine foramen",
+        "Through the sphenopalatine foramen"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11861,
+      question: "Which structure does the lesser palatine artery primarily supply?",
+      options: [
+        "The hard palate mucosa",
+        "The soft palate",
+        "The maxillary gingiva",
+        "The nasal septum"
       ],
       correct: "B"
     },
     {
-      id: 11364,
-      question: "What does the greater palatine artery supply?",
+      id: 11862,
+      question: "Through which foramen does the lesser palatine artery emerge?",
       options: [
-        "Soft palate only",
-        "Nasal cavity",
-        "Palatal mucosa and maxillary lingual gingiva",
-        "Maxillary teeth",
+        "Through the greater palatine foramen",
+        "Through the incisive foramen",
+        "Through the lesser palatine foramen",
+        "Through the sphenopalatine foramen"
       ],
       correct: "C"
     },
     {
-      id: 11365,
-      question: "What does the lesser palatine artery supply?",
+      id: 11863,
+      question: "From which opening does the posterior superior alveolar artery descend?",
       options: [
-        "Hard palate",
-        "Maxillary teeth",
-        "Soft palate",
-        "Tongue",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11366,
-      question: "Through what foramen does the greater palatine artery emerge?",
-      options: [
-        "Lesser palatine foramen",
-        "Greater palatine foramen",
-        "Incisive foramen",
-        "Infraorbital foramen",
+        "From the inferior orbital fissure",
+        "From the pterygomaxillary fissure",
+        "From the sphenopalatine foramen",
+        "From the infraorbital foramen"
       ],
       correct: "B"
     },
     {
-      id: 11367,
-      question: "Through what foramen does the lesser palatine artery emerge?",
+      id: 11864,
+      question: "Onto which anatomical structure does the posterior superior alveolar artery descend?",
       options: [
-        "Greater palatine foramen",
-        "Incisive foramen",
-        "Infraorbital foramen",
-        "Lesser palatine foramen",
+        "Onto the coronoid process of mandible",
+        "Onto the palatine process of maxilla",
+        "Onto the maxillary tuberosity",
+        "Onto the zygomatic process of maxilla"
       ],
-      correct: "D"
+      correct: "C"
     },
     {
-      id: 11368,
+      id: 11865,
+      question: "Where do some branches of the posterior superior alveolar artery enter bone?",
+      options: [
+        "Through the mental foramen anteriorly",
+        "Through the infraorbital canal superiorly",
+        "Behind the third molar on maxillary tuberosity",
+        "Through the incisive foramen medially"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11866,
+      question: "Which structures do the intraosseous branches of the posterior superior alveolar artery supply?",
+      options: [
+        "The maxillary anterior teeth exclusively",
+        "All maxillary posterior teeth and part of maxillary sinus",
+        "The mandibular posterior teeth and bone",
+        "The hard palate and palatine bone"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11867,
+      question: "What do the extraosseous branches of the posterior superior alveolar artery supply?",
+      options: [
+        "The lingual gingiva of maxillary posteriors",
+        "The palatal mucosa and gingiva",
+        "The posterior buccal gingiva and mucosa of maxillary posterior teeth",
+        "The nasal cavity lateral wall"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11868,
       question: "What is another name for the pterygopalatine artery?",
       options: [
-        "Sphenopalatine artery",
-        "Infraorbital artery",
-        "Descending palatine artery",
-        "Greater palatine artery",
+        "The descending palatine artery",
+        "The greater palatine artery",
+        "The sphenopalatine artery",
+        "The nasopalatine artery"
       ],
-      correct: "A"
+      correct: "C"
     },
     {
-      id: 11369,
-      question: "Through what foramen does the sphenopalatine artery run into the nasal cavity?",
+      id: 11869,
+      question: "Through which foramen does the pterygopalatine artery enter the nasal cavity?",
       options: [
-        "Infraorbital foramen",
-        "Sphenopalatine foramen",
-        "Incisive foramen",
-        "Greater palatine foramen",
+        "Through the greater palatine foramen",
+        "Through the incisive foramen anteriorly",
+        "Through the sphenopalatine foramen",
+        "Through the inferior orbital fissure"
       ],
-      correct: "B"
+      correct: "C"
     },
     {
-      id: 11370,
-      question: "What does the sphenopalatine artery primarily supply?",
+      id: 11870,
+      question: "Which primary structure does the pterygopalatine (sphenopalatine) artery supply?",
       options: [
-        "Hard palate",
-        "Soft palate",
+        "The hard and soft palate",
+        "The maxillary teeth and sinus",
         "Most of the nasal cavity",
-        "Maxillary sinus only",
+        "The orbit and lacrimal gland"
       ],
       correct: "C"
     },
     {
-      id: 11371,
-      question: "Through what foramen does the sphenopalatine artery exit to join the greater palatine artery?",
+      id: 11871,
+      question: "Through which foramen does the pterygopalatine artery exit after supplying the nasal cavity?",
       options: [
-        "Sphenopalatine foramen",
-        "Greater palatine foramen",
-        "Infraorbital foramen",
-        "Incisive foramen",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11372,
-      question: "What is the infraorbital artery?",
-      options: [
-        "A branch of the facial artery",
-        "The terminal end of the maxillary artery",
-        "A branch of the lingual artery",
-        "The first branch of the external carotid",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11373,
-      question: "How many main branches does the infraorbital artery have?",
-      options: [
-        "One",
-        "Three",
-        "Two",
-        "Four",
+        "Through the sphenopalatine foramen",
+        "Through the greater palatine foramen",
+        "Through the incisive foramen to join greater palatine artery",
+        "Through the inferior orbital fissure"
       ],
       correct: "C"
     },
     {
-      id: 11374,
-      question: "What does the middle superior alveolar artery supply?",
+      id: 11872,
+      question: "What is the anatomical significance of the infraorbital artery?",
       options: [
-        "Maxillary molars",
-        "Maxillary premolars",
-        "Maxillary incisors",
-        "All maxillary teeth",
+        "It is the first branch of maxillary artery",
+        "It is one of the posterior branches",
+        "It is the terminal end of the maxillary artery",
+        "It is a branch of the facial artery"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11873,
+      question: "How many main branches does the infraorbital artery have before reaching the face?",
+      options: [
+        "One branch only",
+        "Two branches",
+        "Three branches",
+        "Four branches"
       ],
       correct: "B"
     },
     {
-      id: 11375,
+      id: 11874,
+      question: "Which teeth does the middle superior alveolar artery supply?",
+      options: [
+        "The maxillary molars exclusively",
+        "The maxillary premolars",
+        "The maxillary anterior teeth",
+        "The maxillary canines only"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11875,
       question: "Is the middle superior alveolar artery always present?",
       options: [
-        "Yes, always",
-        "Only in males",
-        "No, not always present",
-        "Only in adults",
+        "Yes, it is always present bilaterally",
+        "No, it is not always present",
+        "It is only present in males",
+        "It only develops after age twenty"
+      ],
+      correct: "B"
+    },
+    {
+      id: 11876,
+      question: "Which teeth does the anterior superior alveolar artery supply?",
+      options: [
+        "The maxillary posterior teeth",
+        "The maxillary premolars bilaterally",
+        "The maxillary anterior teeth",
+        "The mandibular anterior teeth"
       ],
       correct: "C"
     },
     {
-      id: 11376,
-      question: "What teeth does the anterior superior alveolar artery supply?",
+      id: 11877,
+      question: "Where does the anterior superior alveolar artery travel to supply the anterior teeth?",
       options: [
-        "Maxillary premolars",
-        "Maxillary molars",
-        "All maxillary teeth",
-        "Maxillary anterior teeth",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11377,
-      question: "Where does the anterior superior alveolar artery travel?",
-      options: [
+        "Through the palatine bone medially",
         "Down the bone in front of the maxillary sinus",
-        "Through the mandibular canal",
-        "Along the hard palate",
-        "Through the nasal cavity",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11378,
-      question: "What artery may the anterior superior alveolar artery join in the wall of the sinus?",
-      options: [
-        "Middle superior alveolar artery",
-        "Posterior superior alveolar artery",
-        "Infraorbital artery",
-        "Descending palatine artery",
+        "Through the nasal cavity floor",
+        "Along the facial surface of maxilla"
       ],
       correct: "B"
     },
     {
-      id: 11379,
-      question: "Through what foramen do the terminal branches of the infraorbital artery emerge onto the face?",
+      id: 11878,
+      question: "With which other artery may the anterior superior alveolar artery join?",
       options: [
-        "Mental foramen",
-        "Greater palatine foramen",
-        "Infraorbital foramen",
-        "Sphenopalatine foramen",
+        "With the middle superior alveolar artery",
+        "With the infraorbital artery terminus",
+        "With the posterior superior alveolar artery in sinus wall",
+        "With the descending palatine artery"
       ],
       correct: "C"
     },
     {
-      id: 11380,
-      question: "What structures do the terminal infraorbital branches supply on the face?",
+      id: 11879,
+      question: "Which facial structures do the terminal infraorbital branches supply after emerging from the infraorbital foramen?",
       options: [
-        "Only the nose",
-        "Only the upper lip",
-        "Only the lower eyelid",
-        "Upper lip, its mucosa, maxillary labial gingiva, lower eyelid, and sides of nose",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11381,
-      question: "Where does the posterior superior alveolar artery descend from?",
-      options: [
-        "Infraorbital foramen",
-        "Pterygopalatine canal",
-        "Mandibular foramen",
-        "Pterygomaxillary fissure",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11382,
-      question: "Where does the posterior superior alveolar artery descend onto?",
-      options: [
-        "Hard palate",
-        "Mandibular ramus",
-        "Zygomatic arch",
-        "Maxillary tuberosity",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11383,
-      question: "Where do some branches of the posterior superior alveolar artery enter the bone?",
-      options: [
-        "At the infraorbital foramen",
-        "Behind the 3rd molar",
-        "At the greater palatine foramen",
-        "At the incisive foramen",
+        "The lower eyelid, nose, and chin exclusively",
+        "The upper lip, its mucosa, maxillary labial gingiva, lower eyelid, and sides of nose",
+        "The zygomatic region and temporal area",
+        "The nasal cavity and ethmoid sinuses"
       ],
       correct: "B"
     },
     {
-      id: 11384,
-      question: "What do the branches of the posterior superior alveolar artery that enter bone supply?",
+      id: 11880,
+      question: "What is the general relationship between veins and arteries in the head and neck?",
       options: [
-        "Only the maxillary molars",
-        "Only the maxillary sinus",
-        "All maxillary posterior teeth and part of maxillary sinus",
-        "Maxillary anterior teeth",
-      ],
-      correct: "C"
-    },
-    {
-      id: 11385,
-      question: "What do the branches of the posterior superior alveolar artery that don't enter bone supply?",
-      options: [
-        "Hard palate",
-        "Nasal cavity",
-        "Soft palate",
-        "Posterior buccal gingiva and mucosa of maxillary posterior teeth",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11386,
-      question: "Do veins generally follow the same pathways as arteries?",
-      options: [
-        "Yes, generally follow the same pathways",
-        "No, completely different pathways",
-        "Only in the head",
-        "Only in the neck",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11387,
-      question: "What are the veins of the head and neck called?",
-      options: [
-        "Carotid veins",
-        "Cervical veins",
-        "Cephalic veins",
-        "Jugular veins",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11388,
-      question: "What does the internal jugular vein drain?",
-      options: [
-        "Face only",
-        "Entire brain area",
-        "Neck muscles only",
-        "Oral cavity only",
+        "Veins follow completely different pathways than arteries",
+        "Veins generally follow the same pathways as arteries",
+        "Veins are superficial while arteries are always deep",
+        "Veins and arteries never travel together"
       ],
       correct: "B"
     },
     {
-      id: 11389,
-      question: "Through what structure does the internal jugular vein pass out of the skull?",
+      id: 11881,
+      question: "What are the veins of the head and neck collectively called?",
       options: [
-        "Carotid canal",
-        "Foramen magnum",
-        "Jugular foramen",
-        "Foramen spinosum",
+        "The carotid veins bilaterally",
+        "The cervical veins of neck",
+        "The jugular veins",
+        "The cranial veins superiorly"
       ],
       correct: "C"
     },
     {
-      id: 11390,
-      question: "What area does the external jugular vein drain?",
+      id: 11882,
+      question: "Which major area does the internal jugular vein drain?",
       options: [
-        "Brain only",
-        "Posterior neck only",
-        "Oral cavity only",
+        "The facial structures and neck muscles",
+        "The thyroid and parathyroid glands",
+        "The entire brain area",
+        "The scalp and external ear"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11883,
+      question: "Through which opening does the internal jugular vein pass out of the skull?",
+      options: [
+        "Through the carotid canal",
+        "Through the foramen magnum posteriorly",
+        "Through the jugular foramen",
+        "Through the foramen spinosum"
+      ],
+      correct: "C"
+    },
+    {
+      id: 11884,
+      question: "Which anatomical area does the external jugular vein primarily drain?",
+      options: [
+        "The deep neck structures and larynx",
+        "The brain and cranial structures",
         "Much of the area from front of ear to front of face",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11391,
-      question: "What is an alternative name sometimes used for the lingual and facial arteries when they branch together?",
-      options: [
-        "Linguofacial trunk",
-        "Linguomaxillary trunk",
-        "Faciomaxillary trunk",
-        "Cervicofacial trunk",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11392,
-      question: "Are the left and right circulatory systems of the head and neck symmetrical?",
-      options: [
-        "No, completely different",
-        "Yes, symmetrical except for origins of common carotid arteries",
-        "Only the arterial system is symmetrical",
-        "Only the venous system is symmetrical",
-      ],
-      correct: "B"
-    },
-    {
-      id: 11393,
-      question: "When we speak of the \"common carotid artery\" without specifying left or right, what is assumed?",
-      options: [
-        "We mean only the left",
-        "We mean only the right",
-        "We are speaking of both left and right",
-        "We mean neither specifically",
+        "The posterior neck and occipital region"
       ],
       correct: "C"
-    },
-    {
-      id: 11394,
-      question: "What proportion of blood supplied to the head comes through the common carotid arteries?",
-      options: [
-        "All of it",
-        "Half of it",
-        "Most of it",
-        "A small portion",
-      ],
-      correct: "A"
-    },
-    {
-      id: 11395,
-      question: "Which side common carotid artery has a more direct origin from the aorta?",
-      options: [
-        "Right",
-        "Both equal",
-        "Neither direct",
-        "Left",
-      ],
-      correct: "D"
-    },
-    {
-      id: 11396,
-      question: "What is the relationship between arteries and veins in the circulatory system?",
-      options: [
-        "Arteries carry blood away; veins bring it back",
-        "Arteries supply only; veins have no function",
-        "Both carry the same type of blood",
-        "They don't interact",
-      ],
-      correct: "A"
-    },
+    }
+  
   ],
   "4. Lymphatics": [    {
       id: 11400,
