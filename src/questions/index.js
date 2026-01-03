@@ -347,13 +347,21 @@ export const subjectsWithSubtopics = {
   ],
   "Head and Neck Anatomy": [
     "0. TMJ",
+    "0-1. TMJ",
     "1. Bones of the skull",
+    "1-1. Bones of the skull",
     "2. Landmarks on bones",
+    "2-1. Landmarks on bones",
     "3. Circulation of the Head and Neck",
+    "3-1. Circulation of the Head and Neck",
     "4. Lymphatics",
+    "4-1. Lymphatics",
     "5. Cranial Nerves",
+    "5-1. Cranial Nerves",
     "6. Local Anaesthetic",
-    "7. Muscles of Mastication"
+    "6-1. Local Anaesthetic",
+    "7. Muscles of Mastication",
+    "7-1. Muscles of Mastication"
   ],
   "Pharmacology": [
     "1. Pharmacodynamics, ADME, and Adverse Drug Reactions",
