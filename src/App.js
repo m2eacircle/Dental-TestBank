@@ -9,7 +9,7 @@ const subjectsByLesson = subjectsWithSubtopics;
 const questionBank = allQuestions;
 
 // Define which keys are top-level lessons (for main screen display)
-const mainLessons = ["Lesson 1", "Lesson 2", "Lesson 3", "Lesson 4", "Board Exam"];
+const mainLessons = ["Board Exam", "Board Exam 2"];
 
 
 // Global styles for copy protection
