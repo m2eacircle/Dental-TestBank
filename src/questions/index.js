@@ -601,3 +601,14 @@ export const questionBankMetadata = {
     }
   }
 };
+
+// Export list of available lectures for the main screen
+export const availableLectures = [
+  "Lesson 1",
+  "Lesson 2",
+  "Lesson 3",
+  "Lesson 4",
+  "Board Exam",
+  "Board Exam 2"
+];
+
