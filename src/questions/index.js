@@ -34,6 +34,22 @@ import { questions as specialPopulationsQuestions } from './boardexam/boardexam-
 import { questions as medicalConditionsSystemicDiseasesQuestions } from './boardexam/boardexam-medical-conditions-and-systemic-diseases.js';
 import { questions as mentalHealthWellBeingQuestions } from './boardexam/boardexam-mental-health-and-well-being.js';
 
+// Board Exam 2 imports
+import { questions as boardexam2ProfessionalFoundationsQuestions } from './boardexam2/boardexam2-professional-foundations-and-communication.js';
+import { questions as boardexam2InfectionControlQuestions } from './boardexam2/boardexam2-infection-control-and-safety.js';
+import { questions as boardexam2ClinicalEnvironmentQuestions } from './boardexam2/boardexam2-clinical-environment-and-documentation.js';
+import { questions as boardexam2PatientAssessmentQuestions } from './boardexam2/boardexam2-patient-assessment-and-health-history.js';
+import { questions as boardexam2ImagingDiagnosticQuestions } from './boardexam2/boardexam2-imaging-and-diagnostic-methods.js';
+import { questions as boardexam2OralAnatomyQuestions } from './boardexam2/boardexam2-oral-anatomy-and-disease-processes.js';
+import { questions as boardexam2PeriodontalAssessmentQuestions } from './boardexam2/boardexam2-periodontal-assessment-and-therapy.js';
+import { questions as boardexam2CarePlanningQuestions } from './boardexam2/boardexam2-care-planning-and-evaluation.js';
+import { questions as boardexam2PreventiveCareQuestions } from './boardexam2/boardexam2-preventive-care-and-patient-education.js';
+import { questions as boardexam2InstrumentationQuestions } from './boardexam2/boardexam2-instrumentation-and-clinical-procedures.js';
+import { questions as boardexam2PainAnxietyQuestions } from './boardexam2/boardexam2-pain-anxiety-and-sensitivity-management.js';
+import { questions as boardexam2SpecialOralCareQuestions } from './boardexam2/boardexam2-special-oral-care-situations.js';
+import { questions as boardexam2SpecialPopulationsQuestions } from './boardexam2/boardexam2-special-populations.js';
+import { questions as boardexam2MedicalConditionsQuestions } from './boardexam2/boardexam2-medical-conditions-affecting-dental-care.js';
+
 // Export all questions as a single object
 export const allQuestions = {
   ...anatomyPhysiologyQuestions,
@@ -62,7 +78,21 @@ export const allQuestions = {
   ...painAnxietyManagementQuestions,
   ...specialPopulationsQuestions,
   ...medicalConditionsSystemicDiseasesQuestions,
-  ...mentalHealthWellBeingQuestions
+  ...mentalHealthWellBeingQuestions,
+  ...boardexam2ProfessionalFoundationsQuestions,
+  ...boardexam2InfectionControlQuestions,
+  ...boardexam2ClinicalEnvironmentQuestions,
+  ...boardexam2PatientAssessmentQuestions,
+  ...boardexam2ImagingDiagnosticQuestions,
+  ...boardexam2OralAnatomyQuestions,
+  ...boardexam2PeriodontalAssessmentQuestions,
+  ...boardexam2CarePlanningQuestions,
+  ...boardexam2PreventiveCareQuestions,
+  ...boardexam2InstrumentationQuestions,
+  ...boardexam2PainAnxietyQuestions,
+  ...boardexam2SpecialOralCareQuestions,
+  ...boardexam2SpecialPopulationsQuestions,
+  ...boardexam2MedicalConditionsQuestions
 };
 
 // Export as questionBank (alias for allQuestions)
@@ -96,7 +126,21 @@ export {
   painAnxietyManagementQuestions,
   specialPopulationsQuestions,
   medicalConditionsSystemicDiseasesQuestions,
-  mentalHealthWellBeingQuestions
+  mentalHealthWellBeingQuestions,
+  boardexam2ProfessionalFoundationsQuestions,
+  boardexam2InfectionControlQuestions,
+  boardexam2ClinicalEnvironmentQuestions,
+  boardexam2PatientAssessmentQuestions,
+  boardexam2ImagingDiagnosticQuestions,
+  boardexam2OralAnatomyQuestions,
+  boardexam2PeriodontalAssessmentQuestions,
+  boardexam2CarePlanningQuestions,
+  boardexam2PreventiveCareQuestions,
+  boardexam2InstrumentationQuestions,
+  boardexam2PainAnxietyQuestions,
+  boardexam2SpecialOralCareQuestions,
+  boardexam2SpecialPopulationsQuestions,
+  boardexam2MedicalConditionsQuestions
 };
 
 // Subject to topic mapping - for subjects that have subtopics
@@ -158,6 +202,22 @@ export const subjectsWithSubtopics = {
     "Special Populations",
     "Medical Conditions and Systemic Diseases",
     "Mental Health and Well-Being"
+  ],
+  "Board Exam 2": [
+    "Professional Foundations and Communication",
+    "Infection Control and Safety",
+    "Clinical Environment and Documentation",
+    "Patient Assessment and Health History",
+    "Imaging and Diagnostic Methods",
+    "Oral Anatomy and Disease Processes",
+    "Periodontal Assessment and Therapy",
+    "Care Planning and Evaluation",
+    "Preventive Care and Patient Education",
+    "Instrumentation & Clinical Procedures",
+    "Pain, Anxiety and Sensitivity Management",
+    "Special Oral Care Situations",
+    "Special Populations",
+    "Medical Conditions Affecting Dental Care"
   ],
   "Professional Practice and Foundations": [
     "1. Dental Hygiene Profession",
