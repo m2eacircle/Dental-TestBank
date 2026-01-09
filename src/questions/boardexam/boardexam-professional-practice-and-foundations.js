@@ -10386,7 +10386,7 @@ export const questions = {
     },
     {
       id: 13905,
-      question: "A 28-year-old patient asks the dental hygienist, "Why do I need to see you separately? Can't the dentist just clean my teeth during my exam?"\n\nWhich response best educates the patient about the professional role of the dental hygienist?",
+      question: "A 28-year-old patient asks the dental hygienist, \"Why do I need to see you separately? Can't the dentist just clean my teeth during my exam?\"\n\nWhich response best educates the patient about the professional role of the dental hygienist?",
       options: [
         "Dental hygienists provide preventive and therapeutic care that maintains oral wellness and contributes to overall health",
         "Dentists are too busy with complex procedures, so hygienists handle the routine cleaning appointments",
