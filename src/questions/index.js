@@ -356,8 +356,8 @@ export const subjectsWithSubtopics = {
     "2 - Professional Foundations and Communication": [
     "1. Role of the Dental Hygienist",
     "1. Role of the Dental Hygienist (Case Study)",
-    "2. Evidence-Based Practice Basics (Case Study)",
     "2. Evidence-Based Practice Basics",
+    "2. Evidence-Based Practice Basics (Case Study)",
     "3. Patient Communication Skills",
     "3. Patient Communication Skills (Case Study)",
     "4. Dental Hygiene in Alternative Settings",
