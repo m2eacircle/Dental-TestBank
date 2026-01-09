@@ -10408,7 +10408,7 @@ export const questions = {
     },
     {
       id: 13907,
-      question: "A dental hygienist is explaining the metaparadigm concept of "client" to a colleague who is transitioning from private practice to public health.\n\nWhich statement best describes why "client" rather than "patient" is used in the dental hygiene metaparadigm?",
+      question: "A dental hygienist is explaining the metaparadigm concept of \"client\" to a colleague who is transitioning from private practice to public health.\n\nWhich statement best describes why \"client\" rather than \"patient\" is used in the dental hygiene metaparadigm?",
       options: [
         "The term patient implies medical treatment, which is outside the scope of dental hygiene practice",
         "Client is a broader term that includes individuals, families, groups, and communities served",
@@ -10562,7 +10562,7 @@ export const questions = {
     },
     {
       id: 13921,
-      question: "A dental hygienist is explaining the difference between the "art" and "science" of dental hygiene to a prospective student.\n\nWhich statement best describes the "art" of dental hygiene?",
+      question: "A dental hygienist is explaining the difference between the \"art\" and \"science\" of dental hygiene to a prospective student.\n\nWhich statement best describes the \"art\" of dental hygiene?",
       options: [
         "Integration of biological, psychological, and social science knowledge with evidence-based practices",
         "Caring, ethics, professional judgment, critical thinking to enhance patient-provider interactions",
@@ -10661,7 +10661,7 @@ export const questions = {
     },
     {
       id: 13930,
-      question: "A patient presents for care and mentions to the receptionist, "I have an appointment with the dentist for a cleaning today."\n\nWhat issue does this statement represent for the dental hygiene profession?",
+      question: "A patient presents for care and mentions to the receptionist, \"I have an appointment with the dentist for a cleaning today.\"\n\nWhat issue does this statement represent for the dental hygiene profession?",
       options: [
         "It demonstrates proper understanding of the roles of different dental team members",
         "It minimizes professional services and indicates lack of public awareness about dental hygiene",
@@ -10771,7 +10771,7 @@ export const questions = {
     },
     {
       id: 13940,
-      question: "ADHA defines "direct access" in relation to dental hygiene practice. A student is studying different practice models.\n\nAccording to ADHA, what does "direct access" mean for dental hygienists?",
+      question: "ADHA defines \"direct access\" in relation to dental hygiene practice. A student is studying different practice models.\n\nAccording to ADHA, what does \"direct access\" mean for dental hygienists?",
       options: [
         "Direct communication with insurance companies for reimbursement without dentist involvement",
         "Ability to initiate treatment based on assessment without dentist authorization or presence",
@@ -10837,7 +10837,7 @@ export const questions = {
     },
     {
       id: 13946,
-      question: "The "science" of dental hygiene involves specific components that distinguish it from the "art" of the profession.\n\nWhich of the following best describes the "science" of dental hygiene?",
+      question: "The \"science\" of dental hygiene involves specific components that distinguish it from the \"art\" of the profession.\n\nWhich of the following best describes the \"science\" of dental hygiene?",
       options: [
         "Professional judgment, critical thinking, and reflections to enhance patient interactions",
         "Ethical principles and caring behaviors that guide all provider-patient relationships",
@@ -11298,7 +11298,7 @@ export const questions = {
     },
     {
       id: 13988,
-      question: "A dental hygienist is explaining why regular dental hygiene appointments are more than just "cleanings."\n\nWhich statement best educates patients about the value of comprehensive dental hygiene care?",
+      question: "A dental hygienist is explaining why regular dental hygiene appointments are more than just \"cleanings.\"\n\nWhich statement best educates patients about the value of comprehensive dental hygiene care?",
       options: [
         "Professional services maintain oral wellness, prevent disease, and contribute to overall health",
         "Cleaning appointments are simple procedures requiring minimal education or skill",
