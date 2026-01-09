@@ -384,7 +384,10 @@ export default function ImprovedTestBankApp() {
   const [parentSubject, setParentSubject] = useState(null);
   const [lastTestQuestions, setLastTestQuestions] = useState([]);
   const [usedQuestionIds, setUsedQuestionIds] = useState(new Set());
-  const [topicProgress, setTopicProgress] = useState({}); // Track progress per topic
+    const [topicProgress, setTopicProgress] = useState({}); // Track progress per topic
+  const [shuffledQuestionPool, setShuffledQuestionPool] = useState({}); // Shuffled question pool per topic
+  const [currentPoolIndex, setCurrentPoolIndex] = useState({}); // Current index in shuffled pool per topic
+  const [currentTopicKey, setCurrentTopicKey] = useState(null); // Currently selected topic key
   const [isRetakeTest, setIsRetakeTest] = useState(false); // Track if current test is a retake
   const [termsAccepted, setTermsAccepted] = useState(false); // Track terms acknowledgment
   const [showTermsModal, setShowTermsModal] = useState(false); // Track terms modal visibility
