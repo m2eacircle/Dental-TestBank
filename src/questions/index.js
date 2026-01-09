@@ -352,7 +352,174 @@ export const subjectsWithSubtopics = {
   "Mental Health and Well-Being": [
     "1. Mental Health and Self-Care",
     "1. Mental Health and Self-Care (Case Study)"
-  ],  
+  ],
+    "2 - Professional Foundations and Communication": [
+    "1. Role of the Dental Hygienist",
+    "1. Role of the Dental Hygienist (Case Study)",
+    "2. Evidence-Based Practice Basics (Case Study)",
+    "2. Evidence-Based Practice Basics",
+    "3. Patient Communication Skills",
+    "3. Patient Communication Skills (Case Study)",
+    "4. Dental Hygiene in Alternative Settings",
+    "4. Dental Hygiene in Alternative Settings (Case Study)"
+  ],
+
+  "2 - Infection Control and Safety": [
+    "1. Infectious Diseases and Infection Control",
+    "1. Infectious Diseases and Infection Control (Case Study)",
+    "2. Protective Barriers for Safety",
+    "2. Protective Barriers for Safety (Case Study)",
+    "3. Infection Control in Clinical Care",
+    "3. Infection Control in Clinical Care (Case Study)",
+    "4. Dental Emergencies",
+    "4. Dental Emergencies (Case Study)"
+  ],
+
+  "2 - Clinical Environment and Documentation": [
+    "1. Patient Reception and Ergonomics",
+    "1. Patient Reception and Ergonomics (Case Study)",
+    "2. Dental Hygiene Documentation",
+    "2. Dental Hygiene Documentation (Case Study)"
+  ],
+
+  "2 - Patient Assessment and Health History": [
+    "1. Patient Health Histories",
+    "1. Patient Health Histories (Case Study)",
+    "2. Measuring Vital Signs",
+    "2. Measuring Vital Signs (Case Study)",
+    "3. Oral and Facial Examination",
+    "3. Oral and Facial Examination (Case Study)"
+  ],
+
+  "2 - Imaging and Diagnostic Methods": [
+    "1. Dental X-Rays",
+    "1. Dental X-Rays (Case Study)",
+    "2. Dental Indices and Scoring",
+    "2. Dental Indices and Scoring (Case Study)",
+    "3. Dental Hygiene Diagnosis",
+    "3. Dental Hygiene Diagnosis (Case Study)"
+  ],
+
+  "2 - Oral Anatomy and Disease Processes": [
+    "1. Tooth Structure Examination",
+    "1. Tooth Structure Examination (Case Study)",
+    "2. Plaque, Calculus, and Stain",
+    "2. Plaque, Calculus, and Stain (Case Study)",
+    "3. Anatomy of the Periodontium",
+    "3. Anatomy of the Periodontium (Case Study)",
+    "4. Development of Periodontal Disease",
+    "4. Development of Periodontal Disease (Case Study)"
+  ],
+
+  "2 - Periodontal Assessment and Therapy": [
+    "1. Periodontal Assessment",
+    "1. Periodontal Assessment (Case Study)",
+    "2. Nonsurgical Periodontal Treatment",
+    "2. Nonsurgical Periodontal Treatment (Case Study)",
+    "3. Sutures and Periodontal Dressings",
+    "3. Sutures and Periodontal Dressings (Case Study)"
+  ],
+
+  "2 - Care Planning and Evaluation": [
+    "1. Care Planning in Dental Hygiene",
+    "1. Care Planning in Dental Hygiene (Case Study)",
+    "2. Patient Evaluation",
+    "2. Patient Evaluation (Case Study)",
+    "3. Ongoing and Recall Care",
+    "3. Ongoing and Recall Care (Case Study)"
+  ],
+
+  "2 - Preventive Care and Patient Education": [
+    "1. Patient Education and Behavior Change",
+    "1. Patient Education and Behavior Change (Case Study)",
+    "2. Caries Prevention and Control",
+    "2. Caries Prevention and Control (Case Study)",
+    "3. Toothbrushing and Oral Hygiene",
+    "3. Toothbrushing and Oral Hygiene (Case Study)",
+    "4. Interdental Cleaning Methods",
+    "4. Interdental Cleaning Methods (Case Study)",
+    "5. Toothpaste and Mouthrinses",
+    "5. Toothpaste and Mouthrinses (Case Study)",
+    "6. Nutrition and Diet Assessment",
+    "6. Nutrition and Diet Assessment (Case Study)",
+    "7. Fluoride Use",
+    "7. Fluoride Use (Case Study)",
+    "8. Dental Sealants",
+    "8. Dental Sealants (Case Study)"
+  ],
+
+  "2 - Instrumentation & Clinical Procedures": [
+    "1. Dental Instruments and Instrumentation",
+    "1. Dental Instruments and Instrumentation (Case Study)",
+    "2. Instrument Maintenance and Sharpening",
+    "2. Instrument Maintenance and Sharpening (Case Study)",
+    "3. Stain Removal Techniques",
+    "3. Stain Removal Techniques (Case Study)",
+    "4. Tooth Whitening",
+    "4. Tooth Whitening (Case Study)"
+  ],
+
+  "2 - Pain, Anxiety and Sensitivity Management": [
+    "1. Pain and Anxiety Management",
+    "1. Pain and Anxiety Management (Case Study)",
+    "2. Tooth Sensitivity",
+    "2. Tooth Sensitivity (Case Study)"
+  ],
+
+  "2 - Special Oral Care Situations": [
+    "1. Care for Orthodontic Patients",
+    "1. Care for Orthodontic Patients (Case Study)",
+    "2. Care of Dental Prostheses",
+    "2. Care of Dental Prostheses (Case Study)",
+    "3. Care of Dental Implant Patients",
+    "3. Care of Dental Implant Patients (Case Study)",
+    "4. Tobacco and Nicotine Use",
+    "4. Tobacco and Nicotine Use (Case Study)"
+  ],
+
+  "2 - Special Populations": [
+    "1. Family and Domestic Violence Awareness",
+    "1. Family and Domestic Violence Awareness (Case Study)",
+    "2. Care of Pregnant Patients and Infants",
+    "2. Care of Pregnant Patients and Infants (Case Study)",
+    "3. Pediatric Dental Hygiene",
+    "3. Pediatric Dental Hygiene (Case Study)",
+    "4. Geriatric Dental Hygiene",
+    "4. Geriatric Dental Hygiene (Case Study)",
+    "5. Care of Patients with Cleft Lip or Palate",
+    "5. Care of Patients with Cleft Lip or Palate (Case Study)",
+    "6. Neurodevelopmental Disorders",
+    "6. Neurodevelopmental Disorders (Case Study)",
+    "7. Dental Care for Patients with Disabilities",
+    "7. Dental Care for Patients with Disabilities (Case Study)"
+  ],
+
+  "2 - Medical Conditions Affecting Dental Care": [
+    "1. Neurologic Disorders and Stroke",
+    "1. Neurologic Disorders and Stroke (Case Study)",
+    "2. Endocrine Disorders",
+    "2. Endocrine Disorders (Case Study)",
+    "3. Diabetes and Oral Health",
+    "3. Diabetes and Oral Health (Case Study)",
+    "4. Cancer and Oral Care",
+    "4. Cancer and Oral Care (Case Study)",
+    "5. Oral and Maxillofacial Surgery Care",
+    "5. Oral and Maxillofacial Surgery Care (Case Study)",
+    "6. Seizure Disorders",
+    "6. Seizure Disorders (Case Study)",
+    "7. Mental Health Disorders",
+    "7. Mental Health Disorders (Case Study)",
+    "8. Substance Use Disorders",
+    "8. Substance Use Disorders (Case Study)",
+    "9. Respiratory Diseases",
+    "9. Respiratory Diseases (Case Study)",
+    "10. Cardiovascular Diseases (Case Study)",
+    "10. Cardiovascular Diseases",
+    "11. Blood Disorders",
+    "11. Blood Disorders (Case Study)",
+    "12. Autoimmune Diseases",
+    "12. Autoimmune Diseases (Case Study)"
+  ],
   "Anatomy and Physiology": [
     "1. Introduction to the Human Body",
     "2. Cells and Tissues",
