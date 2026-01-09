@@ -193,100 +193,166 @@ export const subjectsWithSubtopics = {
   ],
   "Professional Practice and Foundations": [
     "1. Dental Hygiene Profession",
+    "1. Dental Hygiene Profession (Case Study)",
     "2. Dental Hygiene Practice Models",
+    "2. Dental Hygiene Practice Models (Case Study)",
     "3. Evidence-Based Decision Making",
+    "3. Evidence-Based Decision Making (Case Study)",
     "4. Legal and Ethical Practice",
+    "4. Legal and Ethical Practice (Case Study)",
     "5. Professional e-Portfolios",
+    "5. Professional e-Portfolios (Case Study)",
     "6. Career Development and Job Search",
+    "6. Career Development and Job Search (Case Study)",
     "7. Dental Practice Management",
+    "7. Dental Practice Management (Case Study)",
     "8. Teledentistry"
+    "8. Teledentistry (Case Study)"
   ],
   "Community and Public Health": [
     "1. Community Oral Health",
+    "1. Community Oral Health (Case Study)",
     "2. Health Behavior Change",
+    "2. Health Behavior Change (Case Study)",
     "3. Inclusive Patient Care"
+    "3. Inclusive Patient Care (Case Study)"
   ],
   "Infection Control and Safety": [
     "1. Infection Control",
+    "1. Infection Control (Case Study)",
     "2. Medical Emergencies in Dentistry"
+    "2. Medical Emergencies in Dentistry (Case Study)"
   ],
   "Clinical Environment and Ergonomics": [
     "1. Dental Hygiene Practice Settings",
+    "1. Dental Hygiene Practice Settings (Case Study)",
     "2. Ergonomics and Workplace Injuries"
+    "2. Ergonomics and Workplace Injuries (Case Study)"
   ],
   "Patient Assessment and Health History": [
     "1. Patient Health Histories",
+    "1. Patient Health Histories (Case Study)",
     "2. Vital Signs Assessment",
+    "2. Vital Signs Assessment (Case Study)",
     "3. Medication History",
+    "3. Medication History (Case Study)",
     "4. Head and Neck Examination"
+    "4. Head and Neck Examination (Case Study)"
   ],
   "Oral Assessment and Diagnosis": [
     "1. Tooth Assessment and Charting",
+    "1. Tooth Assessment and Charting (Case Study)",
     "2. Plaque, Calculus, and Stain Assessment",
+    "2. Plaque, Calculus, and Stain Assessment (Case Study)",
     "3. Caries Risk Assessment and Management",
+    "3. Caries Risk Assessment and Management (Case Study)",
     "4. Periodontal Assessment and Charting",
+    "4. Periodontal Assessment and Charting (Case Study)",
     "5. Oral-Systemic Health",
+    "5. Oral-Systemic Health (Case Study)",
     "6. Dental Hygiene Diagnosis"
+    "6. Dental Hygiene Diagnosis (Case Study)"
   ],
   "Care Planning and Documentation": [
     "1. Care Planning, Evaluation, and Documentation"
+    "1. Care Planning, Evaluation, and Documentation (Case Study)"
   ],
   "Preventive Care and Patient Education": [
     "1. Toothbrushing Techniques",
+    "1. Toothbrushing Techniques (Case Study)",
     "2. Interdental and Oral Care Aids",
+    "2. Interdental and Oral Care Aids (Case Study)",
     "3. Toothpaste Products",
+    "3. Toothpaste Products (Case Study)",
     "4. Antimicrobial Therapy for Periodontal Disease",
+    "4. Antimicrobial Therapy for Periodontal Disease (Case Study)",
     "5. Dental Sealants",
+    "5. Dental Sealants (Case Study)",
     "6. Nutrition Counseling",
+    "6. Nutrition Counseling (Case Study)",
     "7. Tobacco Cessation Counseling"
+    "7. Tobacco Cessation Counseling (Case Study)"
   ],
   "Instrumentation and Clinical Procedures": [
     "1. Hand Instrumentation",
+    "1. Hand Instrumentation (Case Study)",
     "2. Ultrasonic Instrumentation",
+    "2. Ultrasonic Instrumentation (Case Study)",
     "3. Root Anatomy for Instrumentation",
+    "3. Root Anatomy for Instrumentation (Case Study)",
     "4. Tooth Polishing and Whitening",
+    "4. Tooth Polishing and Whitening (Case Study)",
     "5. Dental Impressions and Oral Appliances"
+    "5. Dental Impressions and Oral Appliances (Case Study)"
   ],
   "Periodontal Therapy": [
     "1. Nonsurgical Periodontal Therapy Decisions",
+    "1. Nonsurgical Periodontal Therapy Decisions (Case Study)",
     "2. Acute Periodontal Conditions"
+    "2. Acute Periodontal Conditions (Case Study)"
   ],
   "Restorative and Specialty Care": [
     "1. Dental Implants and Implant Care",
+    "1. Dental Implants and Implant Care (Case Study)",
     "2. Restorative Dental Care",
+    "2. Restorative Dental Care (Case Study)",
     "3. Orthodontic Care",
+    "3. Orthodontic Care (Case Study)",
     "4. Dental Prostheses",
+    "4. Dental Prostheses (Case Study)",
     "5. Tooth Sensitivity"
+    "5. Tooth Sensitivity (Case Study)"
   ],
   "Pain and Anxiety Management": [
     "1. Local Anesthesia",
+    "1. Local Anesthesia (Case Study)",
     "2. Nitrous Oxide Sedation"
+    "2. Nitrous Oxide Sedation (Case Study)"
   ],
   "Special Populations": [
     "1. Pediatric and Adolescent Care",
+    "1. Pediatric and Adolescent Care (Case Study)",
     "2. Pregnancy and Oral Health",
+    "2. Pregnancy and Oral Health (Case Study)",
     "3. Geriatric Dental Care",
+    "3. Geriatric Dental Care (Case Study)",
     "4. Palliative Oral Care",
+    "4. Palliative Oral Care (Case Study)",
     "5. Child Abuse and Family Violence",
+    "5. Child Abuse and Family Violence (Case Study)",
     "6. Disability and Access to Care",
+    "6. Disability and Access to Care (Case Study)",
     "7. Intellectual and Developmental Disabilities",
+    "7. Intellectual and Developmental Disabilities (Case Study)",
     "8. Orofacial Cleft Conditions",
+    "8. Orofacial Cleft Conditions (Case Study)",
     "9. Neurologic Disabilities"
+    "9. Neurologic Disabilities (Case Study)"
   ],
   "Medical Conditions and Systemic Diseases": [
     "1. Cardiovascular Disease and Oral Health",
+    "1. Cardiovascular Disease and Oral Health (Case Study)",
     "2. Diabetes and Oral Health",
+    "2. Diabetes and Oral Health (Case Study)",
     "3. Cancer and Oral Care",
+    "3. Cancer and Oral Care (Case Study)",
     "4. HIV and Oral Health",
+    "4. HIV and Oral Health (Case Study)",
     "5. Autoimmune Diseases",
+    "5. Autoimmune Diseases (Case Study)",
     "6. Organ Transplant and Kidney Disease",
+    "6. Organ Transplant and Kidney Disease (Case Study)",
     "7. Respiratory Diseases",
+    "7. Respiratory Diseases (Case Study)",
     "8. Substance Use Disorders",
+    "8. Substance Use Disorders (Case Study)",
     "9. Eating Disorders"
+    "9. Eating Disorders (Case Study)"
   ],
   "Mental Health and Well-Being": [
     "1. Mental Health and Self-Care"
-  ],
+    "1. Mental Health and Self-Care (Case Study)"
+  ],  
   "Anatomy and Physiology": [
     "1. Introduction to the Human Body",
     "2. Cells and Tissues",
