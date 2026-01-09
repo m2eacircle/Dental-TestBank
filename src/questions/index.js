@@ -206,7 +206,7 @@ export const subjectsWithSubtopics = {
     "6. Career Development and Job Search (Case Study)",
     "7. Dental Practice Management",
     "7. Dental Practice Management (Case Study)",
-    "8. Teledentistry"
+    "8. Teledentistry",
     "8. Teledentistry (Case Study)"
   ],
   "Community and Public Health": [
@@ -214,19 +214,19 @@ export const subjectsWithSubtopics = {
     "1. Community Oral Health (Case Study)",
     "2. Health Behavior Change",
     "2. Health Behavior Change (Case Study)",
-    "3. Inclusive Patient Care"
+    "3. Inclusive Patient Care",
     "3. Inclusive Patient Care (Case Study)"
   ],
   "Infection Control and Safety": [
     "1. Infection Control",
     "1. Infection Control (Case Study)",
-    "2. Medical Emergencies in Dentistry"
+    "2. Medical Emergencies in Dentistry",
     "2. Medical Emergencies in Dentistry (Case Study)"
   ],
   "Clinical Environment and Ergonomics": [
     "1. Dental Hygiene Practice Settings",
     "1. Dental Hygiene Practice Settings (Case Study)",
-    "2. Ergonomics and Workplace Injuries"
+    "2. Ergonomics and Workplace Injuries",
     "2. Ergonomics and Workplace Injuries (Case Study)"
   ],
   "Patient Assessment and Health History": [
@@ -236,7 +236,7 @@ export const subjectsWithSubtopics = {
     "2. Vital Signs Assessment (Case Study)",
     "3. Medication History",
     "3. Medication History (Case Study)",
-    "4. Head and Neck Examination"
+    "4. Head and Neck Examination",
     "4. Head and Neck Examination (Case Study)"
   ],
   "Oral Assessment and Diagnosis": [
@@ -250,11 +250,11 @@ export const subjectsWithSubtopics = {
     "4. Periodontal Assessment and Charting (Case Study)",
     "5. Oral-Systemic Health",
     "5. Oral-Systemic Health (Case Study)",
-    "6. Dental Hygiene Diagnosis"
+    "6. Dental Hygiene Diagnosis",
     "6. Dental Hygiene Diagnosis (Case Study)"
   ],
   "Care Planning and Documentation": [
-    "1. Care Planning, Evaluation, and Documentation"
+    "1. Care Planning, Evaluation, and Documentation",
     "1. Care Planning, Evaluation, and Documentation (Case Study)"
   ],
   "Preventive Care and Patient Education": [
@@ -270,7 +270,7 @@ export const subjectsWithSubtopics = {
     "5. Dental Sealants (Case Study)",
     "6. Nutrition Counseling",
     "6. Nutrition Counseling (Case Study)",
-    "7. Tobacco Cessation Counseling"
+    "7. Tobacco Cessation Counseling",
     "7. Tobacco Cessation Counseling (Case Study)"
   ],
   "Instrumentation and Clinical Procedures": [
@@ -282,13 +282,13 @@ export const subjectsWithSubtopics = {
     "3. Root Anatomy for Instrumentation (Case Study)",
     "4. Tooth Polishing and Whitening",
     "4. Tooth Polishing and Whitening (Case Study)",
-    "5. Dental Impressions and Oral Appliances"
+    "5. Dental Impressions and Oral Appliances",
     "5. Dental Impressions and Oral Appliances (Case Study)"
   ],
   "Periodontal Therapy": [
     "1. Nonsurgical Periodontal Therapy Decisions",
     "1. Nonsurgical Periodontal Therapy Decisions (Case Study)",
-    "2. Acute Periodontal Conditions"
+    "2. Acute Periodontal Conditions",
     "2. Acute Periodontal Conditions (Case Study)"
   ],
   "Restorative and Specialty Care": [
@@ -300,13 +300,13 @@ export const subjectsWithSubtopics = {
     "3. Orthodontic Care (Case Study)",
     "4. Dental Prostheses",
     "4. Dental Prostheses (Case Study)",
-    "5. Tooth Sensitivity"
+    "5. Tooth Sensitivity",
     "5. Tooth Sensitivity (Case Study)"
   ],
   "Pain and Anxiety Management": [
     "1. Local Anesthesia",
     "1. Local Anesthesia (Case Study)",
-    "2. Nitrous Oxide Sedation"
+    "2. Nitrous Oxide Sedation",
     "2. Nitrous Oxide Sedation (Case Study)"
   ],
   "Special Populations": [
@@ -326,7 +326,7 @@ export const subjectsWithSubtopics = {
     "7. Intellectual and Developmental Disabilities (Case Study)",
     "8. Orofacial Cleft Conditions",
     "8. Orofacial Cleft Conditions (Case Study)",
-    "9. Neurologic Disabilities"
+    "9. Neurologic Disabilities",
     "9. Neurologic Disabilities (Case Study)"
   ],
   "Medical Conditions and Systemic Diseases": [
@@ -346,11 +346,11 @@ export const subjectsWithSubtopics = {
     "7. Respiratory Diseases (Case Study)",
     "8. Substance Use Disorders",
     "8. Substance Use Disorders (Case Study)",
-    "9. Eating Disorders"
+    "9. Eating Disorders",
     "9. Eating Disorders (Case Study)"
   ],
   "Mental Health and Well-Being": [
-    "1. Mental Health and Self-Care"
+    "1. Mental Health and Self-Care",
     "1. Mental Health and Self-Care (Case Study)"
   ],  
   "Anatomy and Physiology": [
