@@ -11439,5 +11439,5 @@ export const questions = {
       ],
       correct: 3
     }
-  ],  
+  ]  
 };
