@@ -383,8 +383,8 @@ export const subjectsWithSubtopics = {
   ],
 
   "2 - Patient Assessment and Health History": [
-    "1. Patient Health Histories",
-    "1. Patient Health Histories (Case Study)",
+    "1. Patient Health Histories 2",
+    "1. Patient Health Histories 2 (Case Study)",
     "2. Measuring Vital Signs",
     "2. Measuring Vital Signs (Case Study)",
     "3. Oral and Facial Examination",
@@ -509,8 +509,8 @@ export const subjectsWithSubtopics = {
     "6. Seizure Disorders (Case Study)",
     "7. Mental Health Disorders",
     "7. Mental Health Disorders (Case Study)",
-    "8. Substance Use Disorders",
-    "8. Substance Use Disorders (Case Study)",
+    "8. Substance Use Disorders 2",
+    "8. Substance Use Disorders 2 (Case Study)",
     "9. Respiratory Diseases",
     "9. Respiratory Diseases (Case Study)",
     "10. Cardiovascular Diseases (Case Study)",
