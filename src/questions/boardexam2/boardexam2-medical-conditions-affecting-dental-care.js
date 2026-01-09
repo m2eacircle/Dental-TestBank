@@ -1,6 +1,8 @@
 // Board Exam 2 - Medical Conditions Affecting Dental Care
-// Placeholder file - questions to be added
+// FIXED: Using prefixed name to avoid conflicts with Board Exam 1
 
 export const questions = {
-  // Questions will be added here
+  "2 - Medical Conditions Affecting Dental Care": [
+    // Questions to be added here
+  ]
 };

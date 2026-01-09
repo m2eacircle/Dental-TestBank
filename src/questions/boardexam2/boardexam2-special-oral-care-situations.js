@@ -1,6 +1,8 @@
 // Board Exam 2 - Special Oral Care Situations
-// Placeholder file - questions to be added
+// FIXED: Using prefixed name to avoid conflicts with Board Exam 1
 
 export const questions = {
-  // Questions will be added here
+  "2 - Special Oral Care Situations": [
+    // Questions to be added here
+  ]
 };

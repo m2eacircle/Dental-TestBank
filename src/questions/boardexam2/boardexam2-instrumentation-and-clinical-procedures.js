@@ -1,6 +1,8 @@
 // Board Exam 2 - Instrumentation & Clinical Procedures
-// Placeholder file - questions to be added
+// FIXED: Using prefixed name to avoid conflicts with Board Exam 1
 
 export const questions = {
-  // Questions will be added here
+  "2 - Instrumentation & Clinical Procedures": [
+    // Questions to be added here
+  ]
 };

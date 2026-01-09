@@ -1,6 +1,8 @@
 // Board Exam 2 - Pain, Anxiety and Sensitivity Management
-// Placeholder file - questions to be added
+// FIXED: Using prefixed name to avoid conflicts with Board Exam 1
 
 export const questions = {
-  // Questions will be added here
+  "2 - Pain, Anxiety and Sensitivity Management": [
+    // Questions to be added here
+  ]
 };

@@ -1,6 +1,8 @@
 // Board Exam 2 - Imaging and Diagnostic Methods
-// Placeholder file - questions to be added
+// FIXED: Using prefixed name to avoid conflicts with Board Exam 1
 
 export const questions = {
-  // Questions will be added here
+  "2 - Imaging and Diagnostic Methods": [
+    // Questions to be added here
+  ]
 };
