@@ -343,7 +343,7 @@ export const questions = {
     { id: 1618, question: "Which of the following is a sign that gypsum has reached the initial set?", options: ["Surface becomes glossy", "Surface loses its shine and becomes dull", "Cast becomes very hot", "Final hardness is reached"], correct: 1 },
     { id: 1619, question: "Improper trimming of a cast may result in:", options: ["Better accuracy", "Improved strength", "Loss of important anatomic landmarks", "Increased setting speed"], correct: 2 },
   ],
-  "4. Composites, Glass Ionomers, and Compomers": [
+  "4. Composites": [
     { id: 1000, question: "Why was silicate cement eventually abandoned as a restorative material?", options: ["It was too expensive to produce commercially", "It was soluble and washed out over time", "It caused allergic reactions in most patients", "It required complex placement procedures"], correct: 1 },
         { id: 1001, question: "What was the main limitation of early tooth-colored materials made from chemically cured acrylic resins?", options: ["They were too expensive for clinical use", "They required special equipment to place", "They had poor wear resistance and rapid discoloration", "They were only available in one shade"], correct: 2 },
         { id: 1002, question: "Who introduced the acid-etch technique in 1955 that revolutionized adhesive dentistry?", options: ["Dr. Rafael Bowen", "Dr. G.V. Black", "Dr. John Wilson", "Dr. Michael Buonocore"], correct: 3 },
