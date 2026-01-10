@@ -623,7 +623,11 @@ export const subjectsWithSubtopics = {
   ],
   "Periodontology I": [
     "1. Periodontal Anatomy",
-    "2. The microbiology of periodontal diseases"
+    "2. The microbiology of periodontal diseases",
+    "3. Calculus and other disease associated factors",
+    "4. Gingival diseases",
+    "5. Periodontal diseases",
+    "6. Systemic diseases and periodontal health"
   ],
   "Dental Radiography Theory": [
     "1. Radiation History & Radiation Physics",
