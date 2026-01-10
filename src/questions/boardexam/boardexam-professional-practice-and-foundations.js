@@ -10342,9 +10342,7 @@ export const questions = {
   "1. Dental Hygiene Profession (Case Study)": [
     {
       id: 13700,
-      question: "Sarah is a recent dental hygiene graduate who has just passed her National Board examination. She is interviewing for positions in different practice settings and wants to understand her professional scope and responsibilities.
-
-Which of the following best describes the primary focus that distinguishes dental hygiene from other healthcare professions?",
+      question: "Sarah is a recent dental hygiene graduate who has just passed her National Board examination. She is interviewing for positions in different practice settings and wants to understand her professional scope and responsibilities. Which of the following best describes the primary focus that distinguishes dental hygiene from other healthcare professions?",
       options: [
         "Restorative treatment of oral diseases and comprehensive diagnosis of systemic conditions affecting oral health",
         "Surgical intervention for periodontal disease and orthodontic treatment planning for malocclusion",
@@ -10355,9 +10353,7 @@ Which of the following best describes the primary focus that distinguishes denta
     },
     {
       id: 13701,
-      question: "A dental hygienist is working with a 45-year-old patient who presents with generalized moderate periodontitis. The hygienist completes a comprehensive assessment and identifies the patient\'s specific oral health needs.
-
-According to the dental hygiene process of care, what is the next step after completing the assessment?",
+      question: "A dental hygienist is working with a 45-year-old patient who presents with generalized moderate periodontitis. The hygienist completes a comprehensive assessment and identifies the patient\'s specific oral health needs. According to the dental hygiene process of care, what is the next step after completing the assessment?",
       options: [
         "Implement scaling and root planing procedures immediately to address the periodontal condition",
         "Create a dental hygiene diagnosis identifying health behaviors, attitudes, and oral healthcare needs",
@@ -10368,9 +10364,7 @@ According to the dental hygiene process of care, what is the next step after com
     },
     {
       id: 13702,
-      question: "A community health center is developing a school-based fluoride varnish program for underserved elementary school children with high caries rates. The dental hygienist is leading the program development.
-
-Which step of the dental hygiene process of care is being demonstrated when the hygienist assesses community caries rates to determine program needs?",
+      question: "A community health center is developing a school-based fluoride varnish program for underserved elementary school children with high caries rates. The dental hygienist is leading the program development. Which step of the dental hygiene process of care is being demonstrated when the hygienist assesses community caries rates to determine program needs?",
       options: [
         "Assessment - collecting and analyzing data to identify needs of the group being served",
         "Planning - establishing realistic goals and outcomes based on available evidence",
@@ -10381,9 +10375,7 @@ Which step of the dental hygiene process of care is being demonstrated when the 
     },
     {
       id: 13703,
-      question: "A dental hygiene educator is teaching students about the four major paradigm concepts that define the discipline of dental hygiene.
-
-Which of the following correctly identifies all four paradigm concepts of dental hygiene?",
+      question: "A dental hygiene educator is teaching students about the four major paradigm concepts that define the discipline of dental hygiene. Which of the following correctly identifies all four paradigm concepts of dental hygiene?",
       options: [
         "Patient, prevention, treatment, and oral health education as the foundation of practice",
         "Client, environment, health/oral health, and dental hygiene actions as central concepts",
@@ -10394,9 +10386,7 @@ Which of the following correctly identifies all four paradigm concepts of dental
     },
     {
       id: 13704,
-      question: "A 28-year-old patient asks the dental hygienist, \"Why do I need to see you separately? Can\'t the dentist just clean my teeth during my exam?\"
-
-Which response best educates the patient about the professional role of the dental hygienist?",
+      question: "A 28-year-old patient asks the dental hygienist, \"Why do I need to see you separately? Can\'t the dentist just clean my teeth during my exam?\" Which response best educates the patient about the professional role of the dental hygienist?",
       options: [
         "Dental hygienists provide preventive and therapeutic care that maintains oral wellness and contributes to overall health",
         "Dentists are too busy with complex procedures, so hygienists handle the routine cleaning appointments",
@@ -10407,9 +10397,7 @@ Which response best educates the patient about the professional role of the dent
     },
     {
       id: 13705,
-      question: "Dr. Fones opened the first dental hygiene school in 1913 in Bridgeport, Connecticut. A dental hygiene student is researching the historical foundation of the profession.
-
-What was the original conceptual foundation upon which dental hygiene was established?",
+      question: "Dr. Fones opened the first dental hygiene school in 1913 in Bridgeport, Connecticut. A dental hygiene student is researching the historical foundation of the profession. What was the original conceptual foundation upon which dental hygiene was established?",
       options: [
         "Surgical periodontal therapy and comprehensive restorative treatment for underserved populations",
         "Emergency dental services and pain management for children in public school systems",
@@ -10420,9 +10408,7 @@ What was the original conceptual foundation upon which dental hygiene was establ
     },
     {
       id: 13706,
-      question: "A dental hygienist is explaining the metaparadigm concept of \"client\" to a colleague who is transitioning from private practice to public health.
-
-Which statement best describes why \"client\" rather than \"patient\" is used in the dental hygiene metaparadigm?",
+      question: "A dental hygienist is explaining the metaparadigm concept of \"client\" to a colleague who is transitioning from private practice to public health. Which statement best describes why \"client\" rather than \"patient\" is used in the dental hygiene metaparadigm?",
       options: [
         "The term patient implies medical treatment, which is outside the scope of dental hygiene practice",
         "Client is a broader term that includes individuals, families, groups, and communities served",
@@ -10433,9 +10419,7 @@ Which statement best describes why \"client\" rather than \"patient\" is used in
     },
     {
       id: 13707,
-      question: "A dental hygienist is working in a rural community health center where many residents have limited access to dental care due to economic and geographic barriers.
-
-Which paradigm concept is being illustrated by these economic and geographic factors?",
+      question: "A dental hygienist is working in a rural community health center where many residents have limited access to dental care due to economic and geographic barriers. Which paradigm concept is being illustrated by these economic and geographic factors?",
       options: [
         "Dental hygiene actions that reflect preventive oral healthcare interventions",
         "Health/oral health status that fluctuates over time based on multiple factors",
@@ -10446,9 +10430,7 @@ Which paradigm concept is being illustrated by these economic and geographic fac
     },
     {
       id: 13708,
-      question: "A state dental hygiene association is advocating for legislation to create a new workforce model that would allow specially trained dental hygienists to provide an expanded scope of services.
-
-What is the term used by ADHA for this licensed dental hygienist with expanded scope of care?",
+      question: "A state dental hygiene association is advocating for legislation to create a new workforce model that would allow specially trained dental hygienists to provide an expanded scope of services. What is the term used by ADHA for this licensed dental hygienist with expanded scope of care?",
       options: [
         "Independent dental hygiene practitioner providing unsupervised comprehensive dental care",
         "Midlevel oral health practitioner providing primary oral healthcare with expanded services",
@@ -10459,9 +10441,7 @@ What is the term used by ADHA for this licensed dental hygienist with expanded s
     },
     {
       id: 13709,
-      question: "A dental hygienist in Colorado wants to establish her own mobile dental hygiene practice to serve nursing home residents. She reviews her state\'s practice act.
-
-As of 2023, how many US states provide legal avenues for dental hygienists to provide patient care outside the private dental office without the physical presence of a dentist?",
+      question: "A dental hygienist in Colorado wants to establish her own mobile dental hygiene practice to serve nursing home residents. She reviews her state\'s practice act. As of 2023, how many US states provide legal avenues for dental hygienists to provide patient care outside the private dental office without the physical presence of a dentist?",
       options: [
         "12 states have enacted legislation allowing direct access to dental hygiene care",
         "25 states permit independent practice with collaborative agreements only",
@@ -10472,9 +10452,7 @@ As of 2023, how many US states provide legal avenues for dental hygienists to pr
     },
     {
       id: 13710,
-      question: "Minnesota has enacted legislation creating a new dental workforce model. A dental hygienist is interested in this expanded role.
-
-What is the title of the midlevel provider in Minnesota?",
+      question: "Minnesota has enacted legislation creating a new dental workforce model. A dental hygienist is interested in this expanded role. What is the title of the midlevel provider in Minnesota?",
       options: [
         "Registered Dental Hygienist in Alternative Practice providing direct access services",
         "Advanced Dental Therapist who may be dually licensed as a dental hygienist",
@@ -10485,9 +10463,7 @@ What is the title of the midlevel provider in Minnesota?",
     },
     {
       id: 13711,
-      question: "Two healthcare professionals, a dentist and a dental hygienist, are establishing a new practice model where they work as equal partners, each contributing their professional expertise.
-
-Which practice model best describes this collegial relationship between dentist and dental hygienist?",
+      question: "Two healthcare professionals, a dentist and a dental hygienist, are establishing a new practice model where they work as equal partners, each contributing their professional expertise. Which practice model best describes this collegial relationship between dentist and dental hygienist?",
       options: [
         "Traditional supervision model where the dentist maintains authority over all treatment decisions",
         "Independent practice model where each provider works autonomously without collaboration",
@@ -10498,9 +10474,7 @@ Which practice model best describes this collegial relationship between dentist 
     },
     {
       id: 13712,
-      question: "A dental hygienist is negotiating a collaborative practice agreement to provide services in a long-term care facility. She is reviewing the required components.
-
-Which of the following is NOT typically included in a collaborative practice agreement?",
+      question: "A dental hygienist is negotiating a collaborative practice agreement to provide services in a long-term care facility. She is reviewing the required components. Which of the following is NOT typically included in a collaborative practice agreement?",
       options: [
         "Description of the scope of dental hygiene services and legally defined practice protocols",
         "Responsibilities of the collaborating dentist regarding consultation with the dental hygienist",
@@ -10511,9 +10485,7 @@ Which of the following is NOT typically included in a collaborative practice agr
     },
     {
       id: 13713,
-      question: "A dental hygienist graduated from an accredited program in Illinois and is now relocating to Oregon. She wants to practice without retaking clinical examinations.
-
-What process allows dental hygienists to obtain licensure in a new state without repeating examinations?",
+      question: "A dental hygienist graduated from an accredited program in Illinois and is now relocating to Oregon. She wants to practice without retaking clinical examinations. What process allows dental hygienists to obtain licensure in a new state without repeating examinations?",
       options: [
         "Licensing by credentials which recognizes licenses received in other states when appropriate",
         "Interstate compact that automatically grants reciprocal licensure across all state borders",
@@ -10524,9 +10496,7 @@ What process allows dental hygienists to obtain licensure in a new state without
     },
     {
       id: 13714,
-      question: "ADHA has developed Standards for Clinical Dental Hygiene Practice. A dental hygiene educator is incorporating these into curriculum design.
-
-What is the primary purpose of the ADHA Standards for Clinical Dental Hygiene Practice?",
+      question: "ADHA has developed Standards for Clinical Dental Hygiene Practice. A dental hygiene educator is incorporating these into curriculum design. What is the primary purpose of the ADHA Standards for Clinical Dental Hygiene Practice?",
       options: [
         "To establish minimum salary requirements for dental hygienists across all practice settings",
         "To offer guidance about expected practice behavior for providing client-centered, evidence-based care",
@@ -10537,9 +10507,7 @@ What is the primary purpose of the ADHA Standards for Clinical Dental Hygiene Pr
     },
     {
       id: 13715,
-      question: "A dental hygienist is working in a pediatric medical practice alongside physicians and nurses, providing oral health assessments and fluoride varnish applications.
-
-What type of healthcare delivery model is being demonstrated in this practice setting?",
+      question: "A dental hygienist is working in a pediatric medical practice alongside physicians and nurses, providing oral health assessments and fluoride varnish applications. What type of healthcare delivery model is being demonstrated in this practice setting?",
       options: [
         "Traditional dental practice model with auxiliary supervision by the pediatrician",
         "Midlevel provider model requiring advanced certification in medical dentistry",
@@ -10550,9 +10518,7 @@ What type of healthcare delivery model is being demonstrated in this practice se
     },
     {
       id: 13716,
-      question: "A pregnant patient at 12 weeks gestation presents to her obstetrician\'s office where a dental hygienist is colocated to provide preventive oral healthcare.
-
-What is the primary rationale for integrating dental hygienists into obstetrics practice settings?",
+      question: "A pregnant patient at 12 weeks gestation presents to her obstetrician\'s office where a dental hygienist is colocated to provide preventive oral healthcare. What is the primary rationale for integrating dental hygienists into obstetrics practice settings?",
       options: [
         "Obstetricians lack the training to identify basic oral health problems during pregnancy",
         "Hormonal changes increase inflammation risk, and periodontal disease links to preterm birth",
@@ -10563,9 +10529,7 @@ What is the primary rationale for integrating dental hygienists into obstetrics 
     },
     {
       id: 13717,
-      question: "A dental hygiene student is learning about the six steps of the dental hygiene process of care and their sequence.
-
-Which of the following correctly lists the six key behaviors of the dental hygiene process?",
+      question: "A dental hygiene student is learning about the six steps of the dental hygiene process of care and their sequence. Which of the following correctly lists the six key behaviors of the dental hygiene process?",
       options: [
         "Assessment, diagnosis, planning, implementation, evaluation, and documentation occur sequentially",
         "Screening, charting, treatment, patient education, referral, and billing complete the process",
@@ -10576,9 +10540,7 @@ Which of the following correctly lists the six key behaviors of the dental hygie
     },
     {
       id: 13718,
-      question: "During a continuing care appointment, a dental hygienist identifies new areas of gingival inflammation and increased probing depths since the patient\'s last visit.
-
-Which step of the dental hygiene process involves assessing oral health conditions using measurable outcomes?",
+      question: "During a continuing care appointment, a dental hygienist identifies new areas of gingival inflammation and increased probing depths since the patient\'s last visit. Which step of the dental hygiene process involves assessing oral health conditions using measurable outcomes?",
       options: [
         "Documentation - recording all findings accurately in the patient\'s permanent record",
         "Implementation - delivering the planned dental hygiene services to address the needs",
@@ -10589,9 +10551,7 @@ Which step of the dental hygiene process involves assessing oral health conditio
     },
     {
       id: 13719,
-      question: "A dental hygienist completes a comprehensive assessment and develops multiple dental hygiene diagnoses. One diagnosis requires referral to a periodontist.
-
-Which aspect of the dental hygiene diagnosis process is being demonstrated?",
+      question: "A dental hygienist completes a comprehensive assessment and develops multiple dental hygiene diagnoses. One diagnosis requires referral to a periodontist. Which aspect of the dental hygiene diagnosis process is being demonstrated?",
       options: [
         "Determining the need for referrals within dentistry or to other healthcare providers",
         "Planning realistic overall patient goals for behavioral outcomes and oral health",
@@ -10602,9 +10562,7 @@ Which aspect of the dental hygiene diagnosis process is being demonstrated?",
     },
     {
       id: 13720,
-      question: "A dental hygienist is explaining the difference between the \"art\" and \"science\" of dental hygiene to a prospective student.
-
-Which statement best describes the \"art\" of dental hygiene?",
+      question: "A dental hygienist is explaining the difference between the \"art\" and \"science\" of dental hygiene to a prospective student. Which statement best describes the \"art\" of dental hygiene?",
       options: [
         "Integration of biological, psychological, and social science knowledge with evidence-based practices",
         "Caring, ethics, professional judgment, critical thinking to enhance patient-provider interactions",
@@ -10615,9 +10573,7 @@ Which statement best describes the \"art\" of dental hygiene?",
     },
     {
       id: 13721,
-      question: "A community is experiencing high dental caries rates among underserved young children. A dental hygienist is developing a school-based prevention program.
-
-How does the dental hygiene process of care apply to this community health scenario?",
+      question: "A community is experiencing high dental caries rates among underserved young children. A dental hygienist is developing a school-based prevention program. How does the dental hygiene process of care apply to this community health scenario?",
       options: [
         "It only applies to individual patient care in clinical settings, not to community programs",
         "The hygienist assesses community needs, diagnoses problems, plans and evaluates programs universally",
@@ -10628,9 +10584,7 @@ How does the dental hygiene process of care apply to this community health scena
     },
     {
       id: 13722,
-      question: "The American Dental Hygienists\' Association defines the discipline of dental hygiene. A student is studying the official definition.
-
-According to ADHA, how is the discipline of dental hygiene defined?",
+      question: "The American Dental Hygienists\' Association defines the discipline of dental hygiene. A student is studying the official definition. According to ADHA, how is the discipline of dental hygiene defined?",
       options: [
         "The clinical practice of removing calculus and stains from teeth in private dental offices",
         "The art and science of preventive oral healthcare and management of behaviors",
@@ -10641,9 +10595,7 @@ According to ADHA, how is the discipline of dental hygiene defined?",
     },
     {
       id: 13723,
-      question: "A dental hygienist is reviewing the vision statement of the American Dental Hygienists\' Association to understand the profession\'s direction.
-
-What does ADHA\'s vision statement call for regarding the integration of dental hygienists?",
+      question: "A dental hygienist is reviewing the vision statement of the American Dental Hygienists\' Association to understand the profession\'s direction. What does ADHA\'s vision statement call for regarding the integration of dental hygienists?",
       options: [
         "Integration into private dental practices as support staff for restorative procedures",
         "Integration into insurance networks to improve reimbursement for preventive services",
@@ -10654,9 +10606,7 @@ What does ADHA\'s vision statement call for regarding the integration of dental 
     },
     {
       id: 13724,
-      question: "Irene Newman became the first licensed dental hygienist. A dental hygiene historian is researching the early days of the profession.
-
-In what year did Irene Newman receive the first dental hygiene license?",
+      question: "Irene Newman became the first licensed dental hygienist. A dental hygiene historian is researching the early days of the profession. In what year did Irene Newman receive the first dental hygiene license?",
       options: [
         "1913 when Dr. Fones opened the first dental hygiene school in Connecticut",
         "1917 after completing her education and passing required examinations",
@@ -10667,9 +10617,7 @@ In what year did Irene Newman receive the first dental hygiene license?",
     },
     {
       id: 13725,
-      question: "A dental hygienist is working in a long-term care facility collaborating with nurses\' aides and registered nurses to monitor residents\' oral health and provide preventive care.
-
-Which professional role of the dental hygienist is being demonstrated in this setting?",
+      question: "A dental hygienist is working in a long-term care facility collaborating with nurses\' aides and registered nurses to monitor residents\' oral health and provide preventive care. Which professional role of the dental hygienist is being demonstrated in this setting?",
       options: [
         "Clinician providing direct patient care while also functioning as public health professional",
         "Educator teaching facility staff while serving as administrator of the oral care program",
@@ -10680,9 +10628,7 @@ Which professional role of the dental hygienist is being demonstrated in this se
     },
     {
       id: 13726,
-      question: "According to the Standard Occupational Classification, the US Bureau of Labor Statistics recognizes dental hygienists in a specific category.
-
-How does the US Bureau of Labor Statistics classify dental hygienists?",
+      question: "According to the Standard Occupational Classification, the US Bureau of Labor Statistics recognizes dental hygienists in a specific category. How does the US Bureau of Labor Statistics classify dental hygienists?",
       options: [
         "Allied health support staff providing auxiliary services in dental practice settings",
         "Healthcare diagnosing or treating practitioners, similar to dentists in classification",
@@ -10693,9 +10639,7 @@ How does the US Bureau of Labor Statistics classify dental hygienists?",
     },
     {
       id: 13727,
-      question: "A dental hygienist is considering career options and reviews the seven professional roles identified by ADHA.
-
-Which of the following is NOT one of the seven professional roles of dental hygienists?",
+      question: "A dental hygienist is considering career options and reviews the seven professional roles identified by ADHA. Which of the following is NOT one of the seven professional roles of dental hygienists?",
       options: [
         "Clinician providing direct patient care in various healthcare settings",
         "Orthodontist specializing in diagnosis and treatment of malocclusion",
@@ -10706,9 +10650,7 @@ Which of the following is NOT one of the seven professional roles of dental hygi
     },
     {
       id: 13728,
-      question: "A dental hygiene program is developing curriculum competencies. The program director reviews ADEA\'s competency document.
-
-What is the purpose of ADEA Competencies for Entry into the Allied Dental Professions?",
+      question: "A dental hygiene program is developing curriculum competencies. The program director reviews ADEA\'s competency document. What is the purpose of ADEA Competencies for Entry into the Allied Dental Professions?",
       options: [
         "To describe abilities needed by entry-level hygienists to perform independently",
         "To establish continuing education requirements for license renewal nationwide",
@@ -10719,9 +10661,7 @@ What is the purpose of ADEA Competencies for Entry into the Allied Dental Profes
     },
     {
       id: 13729,
-      question: "A patient presents for care and mentions to the receptionist, \"I have an appointment with the dentist for a cleaning today.\"
-
-What issue does this statement represent for the dental hygiene profession?",
+      question: "A patient presents for care and mentions to the receptionist, \"I have an appointment with the dentist for a cleaning today.\" What issue does this statement represent for the dental hygiene profession?",
       options: [
         "It demonstrates proper understanding of the roles of different dental team members",
         "It minimizes professional services and indicates lack of public awareness about dental hygiene",
@@ -10732,9 +10672,7 @@ What issue does this statement represent for the dental hygiene profession?",
     },
     {
       id: 13730,
-      question: "The Canadian Dental Hygienists Association has developed a vision statement. A Canadian dental hygiene student is studying the organization\'s direction.
-
-What is the essence of CDHA\'s vision statement regarding dental hygienists\' role?",
+      question: "The Canadian Dental Hygienists Association has developed a vision statement. A Canadian dental hygiene student is studying the organization\'s direction. What is the essence of CDHA\'s vision statement regarding dental hygienists\' role?",
       options: [
         "Dental hygienists educate and empower Canadians to embrace oral health for better overall well-being",
         "Dental hygienists provide auxiliary support to dentists to improve practice efficiency",
@@ -10745,9 +10683,7 @@ What is the essence of CDHA\'s vision statement regarding dental hygienists\' ro
     },
     {
       id: 13731,
-      question: "The International Federation of Dental Hygienists was established to unite dental hygiene associations worldwide.
-
-In what year was the IFDH established to promote international collaboration?",
+      question: "The International Federation of Dental Hygienists was established to unite dental hygiene associations worldwide. In what year was the IFDH established to promote international collaboration?",
       options: [
         "1913 when the first dental hygiene school opened in Connecticut",
         "1963 when the Canadian Dental Hygienists Association was founded",
@@ -10758,9 +10694,7 @@ In what year was the IFDH established to promote international collaboration?",
     },
     {
       id: 13732,
-      question: "As of current information, dental hygiene is recognized in many countries worldwide that are members of IFDH.
-
-How many countries currently recognize dental hygiene and are members of IFDH?",
+      question: "As of current information, dental hygiene is recognized in many countries worldwide that are members of IFDH. How many countries currently recognize dental hygiene and are members of IFDH?",
       options: [
         "Over 10 countries primarily in North America and Western Europe",
         "Over 30 countries spanning multiple continents worldwide",
@@ -10771,9 +10705,7 @@ How many countries currently recognize dental hygiene and are members of IFDH?",
     },
     {
       id: 13733,
-      question: "A dental hygienist is planning a health promotion program targeting tobacco cessation in preteens and teens, including education and screening.
-
-Which professional role is being emphasized in this community-based prevention program?",
+      question: "A dental hygienist is planning a health promotion program targeting tobacco cessation in preteens and teens, including education and screening. Which professional role is being emphasized in this community-based prevention program?",
       options: [
         "Clinician providing direct therapeutic services to individual patients",
         "Public health professional addressing population needs with preventive programs",
@@ -10784,9 +10716,7 @@ Which professional role is being emphasized in this community-based prevention p
     },
     {
       id: 13734,
-      question: "A dental hygiene educator is teaching students about professional accountability and the licensing process.
-
-What is the primary purpose of licensing boards in dental hygiene?",
+      question: "A dental hygiene educator is teaching students about professional accountability and the licensing process. What is the primary purpose of licensing boards in dental hygiene?",
       options: [
         "To maximize revenue for state governments through licensing fees and penalties",
         "To determine qualification for licensure and ensure high standards of professional competence",
@@ -10797,9 +10727,7 @@ What is the primary purpose of licensing boards in dental hygiene?",
     },
     {
       id: 13735,
-      question: "A dental hygienist is explaining to a patient why documentation is an essential component of the dental hygiene process of care.
-
-Which statement best describes the purpose of documentation in dental hygiene practice?",
+      question: "A dental hygienist is explaining to a patient why documentation is an essential component of the dental hygiene process of care. Which statement best describes the purpose of documentation in dental hygiene practice?",
       options: [
         "Documentation is primarily for billing purposes to ensure insurance reimbursement",
         "Documentation provides continuity of care and serves as an accurate legal document",
@@ -10810,9 +10738,7 @@ Which statement best describes the purpose of documentation in dental hygiene pr
     },
     {
       id: 13736,
-      question: "A state is considering legislation to create an interstate compact for dental hygiene licensure.
-
-What is the primary purpose of an interstate compact for dental hygiene licensure?",
+      question: "A state is considering legislation to create an interstate compact for dental hygiene licensure. What is the primary purpose of an interstate compact for dental hygiene licensure?",
       options: [
         "To eliminate all licensing requirements and allow anyone to practice dental hygiene",
         "To increase the ease of license portability, ultimately improving access to oral healthcare",
@@ -10823,9 +10749,7 @@ What is the primary purpose of an interstate compact for dental hygiene licensur
     },
     {
       id: 13737,
-      question: "Vermont has enacted legislation creating a Dental Therapist workforce model.
-
-What is unique about Vermont\'s requirement for Dental Therapists?",
+      question: "Vermont has enacted legislation creating a Dental Therapist workforce model. What is unique about Vermont\'s requirement for Dental Therapists?",
       options: [
         "They must complete medical school before practicing as dental therapists",
         "They can practice independently without any dental hygiene education",
@@ -10836,9 +10760,7 @@ What is unique about Vermont\'s requirement for Dental Therapists?",
     },
     {
       id: 13738,
-      question: "A dental hygienist is taking the National Board Dental Hygiene Examination. She is preparing for the case-based segment.
-
-What is the primary focus of the case-based segment of the National Board examination?",
+      question: "A dental hygienist is taking the National Board Dental Hygiene Examination. She is preparing for the case-based segment. What is the primary focus of the case-based segment of the National Board examination?",
       options: [
         "Ability to recall specific dates and historical facts about the dental hygiene profession",
         "Knowledge of dental insurance billing codes and office management procedures",
@@ -10849,9 +10771,7 @@ What is the primary focus of the case-based segment of the National Board examin
     },
     {
       id: 13739,
-      question: "ADHA defines \"direct access\" in relation to dental hygiene practice. A student is studying different practice models.
-
-According to ADHA, what does \"direct access\" mean for dental hygienists?",
+      question: "ADHA defines \"direct access\" in relation to dental hygiene practice. A student is studying different practice models. According to ADHA, what does \"direct access\" mean for dental hygienists?",
       options: [
         "Direct communication with insurance companies for reimbursement without dentist involvement",
         "Ability to initiate treatment based on assessment without dentist authorization or presence",
@@ -10862,9 +10782,7 @@ According to ADHA, what does \"direct access\" mean for dental hygienists?",
     },
     {
       id: 13740,
-      question: "A dental hygienist is concerned about maintaining high standards of ethical conduct in her practice. She consults the ADHA Code of Ethics.
-
-What is the primary purpose of a professional code of ethics for dental hygienists?",
+      question: "A dental hygienist is concerned about maintaining high standards of ethical conduct in her practice. She consults the ADHA Code of Ethics. What is the primary purpose of a professional code of ethics for dental hygienists?",
       options: [
         "To establish salary requirements and employment benefits across all practice settings",
         "To define marketing strategies for promoting dental hygiene services to the public",
@@ -10875,9 +10793,7 @@ What is the primary purpose of a professional code of ethics for dental hygienis
     },
     {
       id: 13741,
-      question: "A dental hygienist is working in a company wellness program providing screenings, counseling, and educational resources to employees.
-
-Which interprofessional practice benefit is being demonstrated in this corporate setting?",
+      question: "A dental hygienist is working in a company wellness program providing screenings, counseling, and educational resources to employees. Which interprofessional practice benefit is being demonstrated in this corporate setting?",
       options: [
         "The hygienist can manage educational resources, screen patients, and consult with other disciplines",
         "The hygienist replaces nurses and physicians by providing all primary healthcare services",
@@ -10888,9 +10804,7 @@ Which interprofessional practice benefit is being demonstrated in this corporate
     },
     {
       id: 13742,
-      question: "A dental hygienist notices that a patient has suspected oral lesions that require further evaluation beyond the scope of dental hygiene practice.
-
-Which step of the dental hygiene process of care addresses the need for referral?",
+      question: "A dental hygienist notices that a patient has suspected oral lesions that require further evaluation beyond the scope of dental hygiene practice. Which step of the dental hygiene process of care addresses the need for referral?",
       options: [
         "Assessment when collecting and analyzing comprehensive oral health data systematically",
         "Dental hygiene diagnosis when determining needs for referrals to other providers",
@@ -10901,9 +10815,7 @@ Which step of the dental hygiene process of care addresses the need for referral
     },
     {
       id: 13743,
-      question: "According to research cited in the document, oral healthcare services provided in primary care settings present opportunities for improving patient outcomes.
-
-What is a key benefit of integrating oral healthcare into primary care settings?",
+      question: "According to research cited in the document, oral healthcare services provided in primary care settings present opportunities for improving patient outcomes. What is a key benefit of integrating oral healthcare into primary care settings?",
       options: [
         "It eliminates the need for dentists and specialized oral health professionals completely",
         "It reduces healthcare costs by replacing dental offices with medical clinics",
@@ -10914,9 +10826,7 @@ What is a key benefit of integrating oral healthcare into primary care settings?
     },
     {
       id: 13744,
-      question: "A pediatrician\'s office has hired a dental hygienist to complete oral assessments and apply fluoride varnish.
-
-Why is this interprofessional collaboration particularly important in pediatric settings?",
+      question: "A pediatrician\'s office has hired a dental hygienist to complete oral assessments and apply fluoride varnish. Why is this interprofessional collaboration particularly important in pediatric settings?",
       options: [
         "Pediatricians lack any knowledge of child development and growth patterns",
         "High caries rates in children and professional guidelines recommend oral screenings",
@@ -10927,9 +10837,7 @@ Why is this interprofessional collaboration particularly important in pediatric 
     },
     {
       id: 13745,
-      question: "The \"science\" of dental hygiene involves specific components that distinguish it from the \"art\" of the profession.
-
-Which of the following best describes the \"science\" of dental hygiene?",
+      question: "The \"science\" of dental hygiene involves specific components that distinguish it from the \"art\" of the profession. Which of the following best describes the \"science\" of dental hygiene?",
       options: [
         "Professional judgment, critical thinking, and reflections to enhance patient interactions",
         "Ethical principles and caring behaviors that guide all provider-patient relationships",
@@ -10940,9 +10848,7 @@ Which of the following best describes the \"science\" of dental hygiene?",
     },
     {
       id: 13746,
-      question: "A dental hygienist documents all assessment findings, dental hygiene diagnoses, treatment provided, and patient communication in the patient record.
-
-What is the legal significance of complete and accurate documentation?",
+      question: "A dental hygienist documents all assessment findings, dental hygiene diagnoses, treatment provided, and patient communication in the patient record. What is the legal significance of complete and accurate documentation?",
       options: [
         "Documentation only matters if the patient files a complaint or lawsuit against the provider",
         "Documentation minimizes risk of malpractice claims and provides continuity of care",
@@ -10953,9 +10859,7 @@ What is the legal significance of complete and accurate documentation?",
     },
     {
       id: 13747,
-      question: "In Canada, most provinces have implemented a specific regulatory model for dental hygiene.
-
-How is dental hygiene regulated in most Canadian provinces?",
+      question: "In Canada, most provinces have implemented a specific regulatory model for dental hygiene. How is dental hygiene regulated in most Canadian provinces?",
       options: [
         "It is regulated entirely by provincial dental associations without hygienist input",
         "It is self-regulated with registration as a provincial responsibility",
@@ -10966,9 +10870,7 @@ How is dental hygiene regulated in most Canadian provinces?",
     },
     {
       id: 13748,
-      question: "A dental hygienist is considering membership in professional associations. She is researching the benefits and purposes.
-
-What is a primary purpose of professional associations for dental hygienists?",
+      question: "A dental hygienist is considering membership in professional associations. She is researching the benefits and purposes. What is a primary purpose of professional associations for dental hygienists?",
       options: [
         "To collectively represent views and influence resolution of issues relevant to the profession",
         "To mandate specific clinical techniques that all members must use identically",
@@ -10979,9 +10881,7 @@ What is a primary purpose of professional associations for dental hygienists?",
     },
     {
       id: 13749,
-      question: "The National Dental Hygienists\' Association was founded in 1932 to address specific needs.
-
-Why was the National Dental Hygienists\' Association (NDHA) established?",
+      question: "The National Dental Hygienists\' Association was founded in 1932 to address specific needs. Why was the National Dental Hygienists\' Association (NDHA) established?",
       options: [
         "To create the first licensing examination for dental hygienists in the United States",
         "To address the needs and special challenges of minority dental hygienists",
@@ -10992,9 +10892,7 @@ Why was the National Dental Hygienists\' Association (NDHA) established?",
     },
     {
       id: 13750,
-      question: "A dental hygienist is working with a patient who has limited English proficiency and comes from a different cultural background.
-
-Which paradigm concept addresses cultural factors that affect oral health outcomes?",
+      question: "A dental hygienist is working with a patient who has limited English proficiency and comes from a different cultural background. Which paradigm concept addresses cultural factors that affect oral health outcomes?",
       options: [
         "Client refers to diverse populations served by dental hygienists",
         "Dental hygiene actions that incorporate cultural competency into care",
@@ -11016,9 +10914,7 @@ Which paradigm concept addresses cultural factors that affect oral health outcom
     },
     {
       id: 13752,
-      question: "The IFDH hosts an International Symposium on Dental Hygiene. A dental hygienist is interested in attending.
-
-How frequently does the IFDH House of Delegates normally meet?",
+      question: "The IFDH hosts an International Symposium on Dental Hygiene. A dental hygienist is interested in attending. How frequently does the IFDH House of Delegates normally meet?",
       options: [
         "Annually at a conference hosted by the American Dental Hygienists\' Association",
         "Every 2 years in conjunction with the International Symposium on Dental Hygiene",
@@ -11029,9 +10925,7 @@ How frequently does the IFDH House of Delegates normally meet?",
     },
     {
       id: 13753,
-      question: "A dental hygiene program must meet specific standards to receive and maintain accreditation.
-
-What is the primary purpose of accreditation in dental hygiene education?",
+      question: "A dental hygiene program must meet specific standards to receive and maintain accreditation. What is the primary purpose of accreditation in dental hygiene education?",
       options: [
         "To establish maximum tuition rates that programs can charge students",
         "To promote and ensure quality across institutions and protect the public",
@@ -11042,9 +10936,7 @@ What is the primary purpose of accreditation in dental hygiene education?",
     },
     {
       id: 13754,
-      question: "Maine has legislation that permits a specific type of dental hygiene practitioner with expanded scope.
-
-What is the title of the expanded-scope dental hygienist in Maine?",
+      question: "Maine has legislation that permits a specific type of dental hygiene practitioner with expanded scope. What is the title of the expanded-scope dental hygienist in Maine?",
       options: [
         "Advanced Dental Therapist who may be dually licensed as a hygienist",
         "Dental Hygiene Therapist who may be dually licensed as a hygienist",
@@ -11055,9 +10947,7 @@ What is the title of the expanded-scope dental hygienist in Maine?",
     },
     {
       id: 13755,
-      question: "A dental hygienist is engaged in a program educating preteens about tobacco cessation and conducting oral cancer screenings.
-
-How does this scenario demonstrate the universal application of the dental hygiene process?",
+      question: "A dental hygienist is engaged in a program educating preteens about tobacco cessation and conducting oral cancer screenings. How does this scenario demonstrate the universal application of the dental hygiene process?",
       options: [
         "It shows that the process only applies to clinical settings with individual patients",
         "It demonstrates that the process is used to assess, diagnose, plan, and evaluate group programs",
@@ -11068,9 +10958,7 @@ How does this scenario demonstrate the universal application of the dental hygie
     },
     {
       id: 13756,
-      question: "A dental hygiene student is learning about factors that influence a patient\'s oral health beyond clinical treatment.
-
-Which of the following is an example of an environmental factor in the dental hygiene metaparadigm?",
+      question: "A dental hygiene student is learning about factors that influence a patient\'s oral health beyond clinical treatment. Which of the following is an example of an environmental factor in the dental hygiene metaparadigm?",
       options: [
         "The patient\'s current periodontal condition and presence of dental caries",
         "The dental hygienist\'s clinical skills and knowledge of preventive techniques",
@@ -11081,9 +10969,7 @@ Which of the following is an example of an environmental factor in the dental hy
     },
     {
       id: 13757,
-      question: "A dental hygienist in a hospital emergency department helps triage patients with dental problems and facilitates referrals.
-
-What interprofessional benefit does this model provide?",
+      question: "A dental hygienist in a hospital emergency department helps triage patients with dental problems and facilitates referrals. What interprofessional benefit does this model provide?",
       options: [
         "It eliminates the need for dentists to treat any patients in hospital settings",
         "It allows hygienists to identify concerns, educate patients, and facilitate appropriate referrals",
@@ -11094,9 +10980,7 @@ What interprofessional benefit does this model provide?",
     },
     {
       id: 13758,
-      question: "ADHA has a trilevel structure for member participation. A new graduate is joining the organization.
-
-What are the three levels of ADHA membership structure?",
+      question: "ADHA has a trilevel structure for member participation. A new graduate is joining the organization. What are the three levels of ADHA membership structure?",
       options: [
         "Local (component), state (constituent), and national levels",
         "Student, new graduate, and experienced practitioner levels",
@@ -11107,9 +10991,7 @@ What are the three levels of ADHA membership structure?",
     },
     {
       id: 13759,
-      question: "A dental hygiene diagnosis differs from a dental diagnosis. A student is learning about this distinction.
-
-What is the focus of a dental hygiene diagnosis?",
+      question: "A dental hygiene diagnosis differs from a dental diagnosis. A student is learning about this distinction. What is the focus of a dental hygiene diagnosis?",
       options: [
         "Identifying cavities, periodontal disease, and oral pathology requiring dental treatment",
         "Identifying health behaviors, attitudes, and oral healthcare needs within hygiene scope",
@@ -11120,9 +11002,7 @@ What is the focus of a dental hygiene diagnosis?",
     },
     {
       id: 13760,
-      question: "The CDHA publication serves as the official journal for Canadian dental hygienists.
-
-What is the name of the CDHA\'s official journal?",
+      question: "The CDHA publication serves as the official journal for Canadian dental hygienists. What is the name of the CDHA\'s official journal?",
       options: [
         "Journal of Dental Hygiene published by American association",
         "The Canadian Journal of Dental Hygiene for professional members",
@@ -11133,9 +11013,7 @@ What is the name of the CDHA\'s official journal?",
     },
     {
       id: 13761,
-      question: "A patient asks why the dental hygienist needs to collect a health history and perform various assessments before treatment.
-
-Which statement best explains the importance of comprehensive assessment?",
+      question: "A patient asks why the dental hygienist needs to collect a health history and perform various assessments before treatment. Which statement best explains the importance of comprehensive assessment?",
       options: [
         "It is required by insurance companies before they will authorize any treatment",
         "It identifies the patient\'s current status and provides basis for diagnosis and care planning",
@@ -11146,9 +11024,7 @@ Which statement best explains the importance of comprehensive assessment?",
     },
     {
       id: 13762,
-      question: "According to the 2021 Oral Health in America report, multiple models of medical-dental integrated care exist.
-
-What is the rationale for integrating oral and general healthcare delivery?",
+      question: "According to the 2021 Oral Health in America report, multiple models of medical-dental integrated care exist. What is the rationale for integrating oral and general healthcare delivery?",
       options: [
         "To reduce healthcare costs by eliminating specialized dental professionals",
         "To simplify insurance billing by combining medical and dental claims",
@@ -11159,9 +11035,7 @@ What is the rationale for integrating oral and general healthcare delivery?",
     },
     {
       id: 13763,
-      question: "In the collaborative practice model, the dentist and dental hygienist have a specific type of relationship.
-
-How are the dentist and dental hygienist viewed in a collaborative practice model?",
+      question: "In the collaborative practice model, the dentist and dental hygienist have a specific type of relationship. How are the dentist and dental hygienist viewed in a collaborative practice model?",
       options: [
         "As employer and employee with hierarchical authority structure",
         "As cotherapists with distinct roles contributing professional expertise",
@@ -11172,9 +11046,7 @@ How are the dentist and dental hygienist viewed in a collaborative practice mode
     },
     {
       id: 13764,
-      question: "A dental hygienist is explaining her professional education and credentials to a patient who assumed she was a dental assistant.
-
-Which statement accurately describes dental hygienist education and credentialing?",
+      question: "A dental hygienist is explaining her professional education and credentials to a patient who assumed she was a dental assistant. Which statement accurately describes dental hygienist education and credentialing?",
       options: [
         "Hygienists complete on-the-job training programs lasting several weeks to months",
         "Hygienists graduate from accredited programs in higher education institutions and are licensed",
@@ -11185,9 +11057,7 @@ Which statement accurately describes dental hygienist education and credentialin
     },
     {
       id: 13765,
-      question: "A dental hygiene practice act establishes various requirements and protections.
-
-Which of the following is NOT a typical function of a dental hygiene practice act?",
+      question: "A dental hygiene practice act establishes various requirements and protections. Which of the following is NOT a typical function of a dental hygiene practice act?",
       options: [
         "Establishing criteria for dental hygiene education, licensure, and relicensure",
         "Defining the legal scope of dental hygiene practice within the jurisdiction",
@@ -11198,9 +11068,7 @@ Which of the following is NOT a typical function of a dental hygiene practice ac
     },
     {
       id: 13766,
-      question: "Health/oral health is one of the four paradigm concepts in dental hygiene.
-
-How is health/oral health characterized in the dental hygiene metaparadigm?",
+      question: "Health/oral health is one of the four paradigm concepts in dental hygiene. How is health/oral health characterized in the dental hygiene metaparadigm?",
       options: [
         "As a fixed state that is either present or absent with no variation",
         "As a state of well-being that exists on a continuum and fluctuates over time",
@@ -11211,9 +11079,7 @@ How is health/oral health characterized in the dental hygiene metaparadigm?",
     },
     {
       id: 13767,
-      question: "A dental hygienist is implementing planned interventions and engaging the patient as a cotherapist.
-
-Which step of the dental hygiene process of care is being described?",
+      question: "A dental hygienist is implementing planned interventions and engaging the patient as a cotherapist. Which step of the dental hygiene process of care is being described?",
       options: [
         "Assessment when collecting and analyzing comprehensive patient data",
         "Planning when establishing realistic goals in collaboration with the patient",
@@ -11224,9 +11090,7 @@ Which step of the dental hygiene process of care is being described?",
     },
     {
       id: 13768,
-      question: "A dental hygienist works for an oral healthcare company as a product researcher and educator supporting quality products.
-
-Which professional role of the dental hygienist is being demonstrated?",
+      question: "A dental hygienist works for an oral healthcare company as a product researcher and educator supporting quality products. Which professional role of the dental hygienist is being demonstrated?",
       options: [
         "Clinician providing direct patient care in traditional dental practice settings",
         "Corporate applying expertise in sales, research, education, or administration",
@@ -11237,9 +11101,7 @@ Which professional role of the dental hygienist is being demonstrated?",
     },
     {
       id: 13769,
-      question: "The ADHA publishes an official journal for the dental hygiene profession.
-
-What is the name of ADHA\'s official publication?",
+      question: "The ADHA publishes an official journal for the dental hygiene profession. What is the name of ADHA\'s official publication?",
       options: [
         "The Journal of the American Dental Association for all dental professionals",
         "Journal of Dental Hygiene for dental hygiene professionals and researchers",
@@ -11250,9 +11112,7 @@ What is the name of ADHA\'s official publication?",
     },
     {
       id: 13770,
-      question: "A dental hygienist modifies the care plan after evaluating treatment outcomes and finding that goals were not fully met.
-
-This demonstrates which characteristic of the dental hygiene process of care?",
+      question: "A dental hygienist modifies the care plan after evaluating treatment outcomes and finding that goals were not fully met. This demonstrates which characteristic of the dental hygiene process of care?",
       options: [
         "Documentation occurs only at the end of treatment after all care is complete",
         "Evaluation occurs throughout the process and the plan is modified as needed",
@@ -11263,9 +11123,7 @@ This demonstrates which characteristic of the dental hygiene process of care?",
     },
     {
       id: 13771,
-      question: "In urgent care and emergency departments, patients often present with dental problems but no established dental care provider.
-
-What role can dental hygienists play in these settings?",
+      question: "In urgent care and emergency departments, patients often present with dental problems but no established dental care provider. What role can dental hygienists play in these settings?",
       options: [
         "Replace emergency physicians in diagnosing and treating all medical emergencies",
         "Refuse to provide any assistance since it is outside traditional dental office settings",
@@ -11276,9 +11134,7 @@ What role can dental hygienists play in these settings?",
     },
     {
       id: 13772,
-      question: "A state dental board can take action against a dental hygienist\'s license under certain circumstances.
-
-For which of the following reasons can a license be denied, revoked, or suspended?",
+      question: "A state dental board can take action against a dental hygienist\'s license under certain circumstances. For which of the following reasons can a license be denied, revoked, or suspended?",
       options: [
         "Incompetence, negligence, chemical dependency, illegal practice, or criminal misconduct",
         "Membership in professional organizations that advocate for expanded scope of practice",
@@ -11289,9 +11145,7 @@ For which of the following reasons can a license be denied, revoked, or suspende
     },
     {
       id: 13773,
-      question: "The American Dental Education Association has developed competency documents for dental hygiene.
-
-What is the primary purpose of ADEA\'s competency documents?",
+      question: "The American Dental Education Association has developed competency documents for dental hygiene. What is the primary purpose of ADEA\'s competency documents?",
       options: [
         "To replace state licensing examinations with a national certification program",
         "To describe abilities needed at entry-level and inform accreditation bodies",
@@ -11302,9 +11156,7 @@ What is the primary purpose of ADEA\'s competency documents?",
     },
     {
       id: 13774,
-      question: "A dental hygienist takes ownership of her portion of practice regardless of the employment setting.
-
-Why is taking ownership of practice particularly important for licensed practitioners?",
+      question: "A dental hygienist takes ownership of her portion of practice regardless of the employment setting. Why is taking ownership of practice particularly important for licensed practitioners?",
       options: [
         "It increases personal income by allowing independent billing without oversight",
         "It demonstrates accountability through licensing boards and autonomous practice responsibility",
@@ -11315,9 +11167,7 @@ Why is taking ownership of practice particularly important for licensed practiti
     },
     {
       id: 13775,
-      question: "California has a specific type of permit that allows dental hygienists to provide care in certain settings.
-
-Registered Dental Hygienist Alternative Practice (RDHAP) is an example of which type of practice model?",
+      question: "California has a specific type of permit that allows dental hygienists to provide care in certain settings. Registered Dental Hygienist Alternative Practice (RDHAP) is an example of which type of practice model?",
       options: [
         "A model that requires continuous direct supervision by a licensed dentist",
         "A model providing direct access to dental hygiene care in specific settings",
@@ -11328,9 +11178,7 @@ Registered Dental Hygienist Alternative Practice (RDHAP) is an example of which 
     },
     {
       id: 13776,
-      question: "A dental hygienist is working in a school-based fluoride varnish program. She assesses community needs, plans the program, and evaluates outcomes.
-
-This demonstrates which concept about the dental hygiene process of care?",
+      question: "A dental hygienist is working in a school-based fluoride varnish program. She assesses community needs, plans the program, and evaluates outcomes. This demonstrates which concept about the dental hygiene process of care?",
       options: [
         "The process applies only to individual patient care in clinical settings",
         "The process is universal and applies to individuals, groups, and communities",
@@ -11341,9 +11189,7 @@ This demonstrates which concept about the dental hygiene process of care?",
     },
     {
       id: 13777,
-      question: "Licensing by credentials is being considered in a state as an alternative to repeat examinations.
-
-What does licensing by credentials recognize?",
+      question: "Licensing by credentials is being considered in a state as an alternative to repeat examinations. What does licensing by credentials recognize?",
       options: [
         "Online certificates from unaccredited continuing education providers",
         "Dental hygiene licenses received in other states when requirements are met",
@@ -11354,9 +11200,7 @@ What does licensing by credentials recognize?",
     },
     {
       id: 13778,
-      question: "A dental hygienist is considering joining the Special Care Dentistry Association.
-
-What is the focus of the Special Care Dentistry Association?",
+      question: "A dental hygienist is considering joining the Special Care Dentistry Association. What is the focus of the Special Care Dentistry Association?",
       options: [
         "Providing resources for professionals interested in patients with special needs",
         "Advocating for increased salaries for dental hygienists in specialty practices",
@@ -11367,9 +11211,7 @@ What is the focus of the Special Care Dentistry Association?",
     },
     {
       id: 13779,
-      question: "During implementation of the care plan, the dental hygienist engages the patient in a specific role.
-
-How should patients be engaged during the implementation phase?",
+      question: "During implementation of the care plan, the dental hygienist engages the patient in a specific role. How should patients be engaged during the implementation phase?",
       options: [
         "As passive recipients who simply comply with provider instructions",
         "As cotherapists actively participating in their own oral healthcare",
@@ -11380,9 +11222,7 @@ How should patients be engaged during the implementation phase?",
     },
     {
       id: 13780,
-      question: "A dental hygienist is explaining the relationship between oral health and overall health to a patient.
-
-Which statement reflects the paradigm concept of health/oral health?",
+      question: "A dental hygienist is explaining the relationship between oral health and overall health to a patient. Which statement reflects the paradigm concept of health/oral health?",
       options: [
         "Oral health and overall health are completely separate with no relationship",
         "Oral health and overall health are interrelated; each influences the other",
@@ -11393,9 +11233,7 @@ Which statement reflects the paradigm concept of health/oral health?",
     },
     {
       id: 13781,
-      question: "The Commission on Dental Accreditation establishes standards for dental hygiene education programs.
-
-Accreditation standards describe what aspect of entry-level dental hygienist competence?",
+      question: "The Commission on Dental Accreditation establishes standards for dental hygiene education programs. Accreditation standards describe what aspect of entry-level dental hygienist competence?",
       options: [
         "Competencies that practitioners must perform accurately and efficiently upon graduation",
         "Maximum student-to-faculty ratios for classroom lectures and seminars",
@@ -11406,9 +11244,7 @@ Accreditation standards describe what aspect of entry-level dental hygienist com
     },
     {
       id: 13782,
-      question: "A dental hygienist considers personal factors about a patient that may impact oral health needs.
-
-Which factors should be considered throughout the dental hygiene process of care?",
+      question: "A dental hygienist considers personal factors about a patient that may impact oral health needs. Which factors should be considered throughout the dental hygiene process of care?",
       options: [
         "Only the clinical findings from the oral examination and radiographs",
         "Age, gender, culture, lifestyle, oral health literacy, health beliefs, and socioeconomic status",
@@ -11419,9 +11255,7 @@ Which factors should be considered throughout the dental hygiene process of care
     },
     {
       id: 13783,
-      question: "According to current workforce data, dental hygienists are experiencing expanded opportunities in various settings.
-
-What is a key reason for expansion of dental hygiene workforce models?",
+      question: "According to current workforce data, dental hygienists are experiencing expanded opportunities in various settings. What is a key reason for expansion of dental hygiene workforce models?",
       options: [
         "To reduce dental hygienists\' salaries by increasing competition for positions",
         "To improve access to preventive oral healthcare for vulnerable and underserved populations",
@@ -11432,9 +11266,7 @@ What is a key reason for expansion of dental hygiene workforce models?",
     },
     {
       id: 13784,
-      question: "The American Public Health Association is a professional organization that includes dental hygienists.
-
-What is the focus of the American Public Health Association?",
+      question: "The American Public Health Association is a professional organization that includes dental hygienists. What is the focus of the American Public Health Association?",
       options: [
         "Addressing public health issues and policies backed by science for all people",
         "Providing malpractice insurance exclusively for dental hygienists",
@@ -11445,9 +11277,7 @@ What is the focus of the American Public Health Association?",
     },
     {
       id: 13785,
-      question: "A hallmark characteristic distinguishes professions from other types of occupations.
-
-What is considered a hallmark characteristic of a profession?",
+      question: "A hallmark characteristic distinguishes professions from other types of occupations. What is considered a hallmark characteristic of a profession?",
       options: [
         "Accepting responsibility for the quality of care provided to the public",
         "Maximizing revenue and profit margins above all other considerations",
@@ -11458,9 +11288,7 @@ What is considered a hallmark characteristic of a profession?",
     },
     {
       id: 13786,
-      question: "A dental hygienist in Canada wants to establish an independent practice providing preventive services.
-
-How many Canadian dental hygienists are independent dental hygiene practitioners?",
+      question: "A dental hygienist in Canada wants to establish an independent practice providing preventive services. How many Canadian dental hygienists are independent dental hygiene practitioners?",
       options: [
         "Fewer than 100 practitioners due to restrictive provincial regulations",
         "More than 1000 practitioners supported by CDHA resources and training",
@@ -11471,9 +11299,7 @@ How many Canadian dental hygienists are independent dental hygiene practitioners
     },
     {
       id: 13787,
-      question: "A dental hygienist is explaining why regular dental hygiene appointments are more than just \"cleanings.\"
-
-Which statement best educates patients about the value of comprehensive dental hygiene care?",
+      question: "A dental hygienist is explaining why regular dental hygiene appointments are more than just \"cleanings.\" Which statement best educates patients about the value of comprehensive dental hygiene care?",
       options: [
         "Professional services maintain oral wellness, prevent disease, and contribute to overall health",
         "Cleaning appointments are simple procedures requiring minimal education or skill",
@@ -11484,9 +11310,7 @@ Which statement best educates patients about the value of comprehensive dental h
     },
     {
       id: 13788,
-      question: "CDHA\'s Practice Competencies and Standards document serves multiple purposes.
-
-What is the primary intended use of the practice competencies in this document?",
+      question: "CDHA\'s Practice Competencies and Standards document serves multiple purposes. What is the primary intended use of the practice competencies in this document?",
       options: [
         "By insurance companies to determine reimbursement rates for services",
         "By educators in curriculum development to define entry-level education outcomes",
@@ -11497,9 +11321,7 @@ What is the primary intended use of the practice competencies in this document?"
     },
     {
       id: 13789,
-      question: "A dental hygienist collects data through health history, extraoral and intraoral examinations, periodontal assessment, and dental charting.
-
-Which step of the dental hygiene process of care is being performed?",
+      question: "A dental hygienist collects data through health history, extraoral and intraoral examinations, periodontal assessment, and dental charting. Which step of the dental hygiene process of care is being performed?",
       options: [
         "Assessment through systematic, comprehensive individualized data collection",
         "Diagnosis through critical analysis to reach conclusions about needs",
@@ -11510,9 +11332,7 @@ Which step of the dental hygiene process of care is being performed?",
     },
     {
       id: 13790,
-      question: "The IFDH has established purposes to unite dental hygiene associations worldwide.
-
-Which of the following is a purpose of the International Federation of Dental Hygienists?",
+      question: "The IFDH has established purposes to unite dental hygiene associations worldwide. Which of the following is a purpose of the International Federation of Dental Hygienists?",
       options: [
         "To mandate identical laws and regulations for dental hygiene in all member countries",
         "To promote professional alliances and exchange of knowledge among member associations",
@@ -11523,9 +11343,7 @@ Which of the following is a purpose of the International Federation of Dental Hy
     },
     {
       id: 13791,
-      question: "A dental hygienist is reviewing continuing education opportunities to maintain professional competence.
-
-What is the relationship between standards of practice and continuing professional development?",
+      question: "A dental hygienist is reviewing continuing education opportunities to maintain professional competence. What is the relationship between standards of practice and continuing professional development?",
       options: [
         "Standards eliminate the need for continuing education beyond initial licensure",
         "Standards serve as the foundation to ensure competence and continued development",
@@ -11536,9 +11354,7 @@ What is the relationship between standards of practice and continuing profession
     },
     {
       id: 13792,
-      question: "By 1952, a milestone was reached in dental hygiene licensure across the United States.
-
-What significant milestone occurred by 1952 regarding dental hygiene licensure?",
+      question: "By 1952, a milestone was reached in dental hygiene licensure across the United States. What significant milestone occurred by 1952 regarding dental hygiene licensure?",
       options: [
         "The first dental hygiene license was granted to Irene Newman",
         "All 50 states in the United States had licensed dental hygienists",
@@ -11549,9 +11365,7 @@ What significant milestone occurred by 1952 regarding dental hygiene licensure?"
     },
     {
       id: 13793,
-      question: "A dental hygienist applies fluoride varnish to children in a Head Start program.
-
-Which professional role is being demonstrated in this community-based setting?",
+      question: "A dental hygienist applies fluoride varnish to children in a Head Start program. Which professional role is being demonstrated in this community-based setting?",
       options: [
         "Clinician role limited to private dental office settings exclusively",
         "Public health/interprofessional role addressing unmet needs of underserved groups",
@@ -11562,9 +11376,7 @@ Which professional role is being demonstrated in this community-based setting?",
     },
     {
       id: 13794,
-      question: "The CDHA has developed an Independent Practice Network to support specific practitioners.
-
-What does the CDHA Independent Practice Network provide?",
+      question: "The CDHA has developed an Independent Practice Network to support specific practitioners. What does the CDHA Independent Practice Network provide?",
       options: [
         "Legal defense for practitioners accused of practicing outside their scope",
         "Support, resources, and training for independent dental hygiene practitioners",
@@ -11575,9 +11387,7 @@ What does the CDHA Independent Practice Network provide?",
     },
     {
       id: 13795,
-      question: "A dental hygienist in an interprofessional team setting collaborates with physicians, nurses, and other professionals.
-
-What is the basis for interprofessional collaboration in healthcare?",
+      question: "A dental hygienist in an interprofessional team setting collaborates with physicians, nurses, and other professionals. What is the basis for interprofessional collaboration in healthcare?",
       options: [
         "Each profession brings complementary knowledge, skills, values, and attitudes",
         "One profession is superior and should direct all other healthcare team members",
@@ -11588,9 +11398,7 @@ What is the basis for interprofessional collaboration in healthcare?",
     },
     {
       id: 13796,
-      question: "A dental hygienist works as a faculty member at a university dental hygiene program teaching clinical courses.
-
-Which professional role of the dental hygienist is being demonstrated?",
+      question: "A dental hygienist works as a faculty member at a university dental hygiene program teaching clinical courses. Which professional role of the dental hygienist is being demonstrated?",
       options: [
         "Clinician providing direct patient care in educational institution clinics",
         "Educator applying educational theory and the teaching-learning process",
@@ -11601,9 +11409,7 @@ Which professional role of the dental hygienist is being demonstrated?",
     },
     {
       id: 13797,
-      question: "The National Board Dental Hygiene Examination assesses specific abilities of candidates.
-
-What does the National Board examination primarily assess?",
+      question: "The National Board Dental Hygiene Examination assesses specific abilities of candidates. What does the National Board examination primarily assess?",
       options: [
         "Only memorization of facts without any application to clinical situations",
         "Ability to recall information and apply it in problem-solving situations",
@@ -11614,9 +11420,7 @@ What does the National Board examination primarily assess?",
     },
     {
       id: 13798,
-      question: "A collaborative practice agreement includes various components to clarify the working relationship.
-
-Which component is typically NOT included in a collaborative practice agreement?",
+      question: "A collaborative practice agreement includes various components to clarify the working relationship. Which component is typically NOT included in a collaborative practice agreement?",
       options: [
         "Legally defined protocol for circumstances when hygienist can initiate treatment",
         "Description of the scope of dental hygiene services and practice protocols",
@@ -11627,9 +11431,7 @@ Which component is typically NOT included in a collaborative practice agreement?
     },
     {
       id: 13799,
-      question: "Colorado has been active in integrating dental hygienists into primary care practices.
-
-What strategy is Colorado using to address lack of access to oral healthcare?",
+      question: "Colorado has been active in integrating dental hygienists into primary care practices. What strategy is Colorado using to address lack of access to oral healthcare?",
       options: [
         "Requiring all citizens to travel to specialty dental clinics in urban areas",
         "Colocation of direct-access dental hygienists into medical practices",
