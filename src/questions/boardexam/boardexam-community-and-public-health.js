@@ -1,5 +1,5 @@
 // Board Exam - Community and Public Health
-// Complete file with all 3 topics and questions
+// Complete file with all 6 topics and questions
 
 export const questions = {
   "1. Community Oral Health": [
@@ -1498,9 +1498,12 @@ export const questions = {
         "Only nursing care"
       ],
       correct: "B"
-    },
+    }
+  ],
+
+  "1. Community Oral Health (Case Study)": [
     {
-      id: 14236,
+      id: 14500,
       question: 'George Fountaine, a 45-year-old self-employed graphic designer, attends his dental hygiene appointment with Phyllis at Starlight Dental Clinic. During the health history interview, he reports being recently diagnosed with multiple sclerosis and has begun working with an occupational therapist. He mentions attending a support group where various speakers present health-related topics. His oral examination reveals good oral hygiene with generalized mild gingivitis. A dental hygienist reviewing George\'s case from a healthcare continuum perspective would recognize that speaking at his support group represents which level of care?',
       options: [
         'Disease treatment focusing on managing his existing periodontal condition through scaling procedures',
@@ -1511,7 +1514,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 14237,
+      id: 14501,
       question: 'Sophia Perez, 28 years old, moved to Riverview 2 years ago with her husband and two sons. During her dental hygiene appointment with Jennifer, she reports difficulty finding employment in her field. She describes feeling short-tempered, tired, and uninterested in previously enjoyable activities. Her oral examination shows adequate home care with localized areas of plaque accumulation and mild gingival inflammation. Jennifer\'s recommendation that Sophia visit the local community center to develop a social support network demonstrates understanding of which health promotion principle?',
       options: [
         'Social support networks are recognized determinants of health that influence overall well-being and outcomes',
@@ -1522,7 +1525,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 14238,
+      id: 14502,
       question: 'The Abdul family emigrated from Syria 2 months ago and consists of partners Paula and Paolo, and their children Hassan (9 years) and Adnan (7 years). They were identified by a school screening program as having dental decay. The family has interim publicly provided health benefits for temporary coverage of basic dental needs. Dental hygienist Adi Klein meets them at a community health safety net clinic where she provides services as an independent contractor. Adi\'s involvement with the ad hoc committee on publicly funded oral health benefits programs represents which level of health promotion action?',
       options: [
         'Building healthy public policy through advocacy to address access to care as a determinant',
@@ -1533,7 +1536,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 14239,
+      id: 14503,
       question: 'Meaghan Woo is a 17-year-old Canadian citizen raised in a middle-class household in a small city with active community programs and clean air and water. She sees her healthcare team regularly for preventive care, immunizations, and developmental benchmarks. At age 13, she received orthodontic treatment covered by her parents\' employment health insurance. She plays soccer with a custom-made mouthguard, has never had a toothache, and maintains a strong anti-tobacco stance. Which determinants of health have most significantly contributed to Meaghan\'s current oral health status?',
       options: [
         'Access to healthcare services, socioeconomic status, education, and healthy child development factors',
@@ -1544,7 +1547,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 14240,
+      id: 14504,
       question: 'A dental hygienist is consulting on the case of Jason, a young boy hospitalized with a severe leg infection from a cut sustained while playing in a junkyard near his apartment building. Further investigation reveals his neighborhood is economically disadvantaged, lacks supervised play areas, and his parents face unemployment and health challenges. His oral examination shows extensive early childhood caries requiring general anesthesia for treatment. This scenario best illustrates which health promotion concept?',
       options: [
         'The population health approach recognizes that health outcomes result from multiple interacting determinants',
@@ -1555,7 +1558,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 14241,
+      id: 14505,
       question: 'Wren Marks, a 50-year-old single mother supporting two college-aged children, has smoked 20 cigarettes daily for 35 years. She attends a smoking cessation program run by dental hygienist Fayez in collaboration with a nurse practitioner and pharmacist at a community clinic. The program uses motivational interviewing principles and group cessation counseling. Wren\'s oral examination reveals moderate generalized periodontitis and heavy extrinsic staining. The interprofessional collaborative approach used in this smoking cessation program represents action at which levels?',
       options: [
         'Intrapersonal through health literacy, interpersonal through social support, and policy through legislation',
@@ -1566,7 +1569,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 14242,
+      id: 14506,
       question: 'Karen Fraser, a recently licensed dental hygienist practicing in a downtown shopping center, recognizes she is only reaching individuals who come to her practice for care. Understanding that access to oral health services is a determinant of health, she develops a website on evidence-based oral-systemic health connections and invites community members to contact her with concerns. Many website visitors subsequently seek her professional care. Karen\'s initiative represents which health promotion strategy?',
       options: [
         'Social marketing of oral health as a concept by making the intangible product tangible',
@@ -1577,7 +1580,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 14243,
+      id: 14507,
       question: 'A community dental hygienist works with parents, teachers, and school administrators who have established a school-based breakfast program to ensure all children receive adequate nutrition to support learning and development. The program operates through volunteer coordination and local food donations, with community members managing daily operations and sustainability. This initiative best exemplifies which health promotion principle?',
       options: [
         'Community-centered organization that builds capacity from within for self-led improvement',
@@ -1588,7 +1591,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 14244,
+      id: 14508,
       question: 'During a routine dental hygiene appointment, Harriet Bezu finds that her patient Mr. Smith has elevated blood pressure despite hypertension medication. With his permission, she contacts his physician who schedules an appointment and inquires about salivary flow and oral medication effects. During dietary assessment, Mr. Smith reveals he lives on toast and soup since his wife\'s passing. Harriet provides information about a meal delivery agency. Harriet\'s actions demonstrate which aspect of interprofessional collaboration?',
       options: [
         'Holistic healthcare that enhances patient capacity for preventive, self-care, and health promotional practices',
@@ -1599,7 +1602,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 14245,
+      id: 14509,
       question: 'Dental hygienist Roland Pantel works in a neighborhood where only 50% of 5-year-olds have had oral health screenings. Families are low-income without oral health insurance coverage. Children he sees have high caries rates and would benefit from fluoride varnish. Roland recruits dental hygienists to perform school screenings, collaborates with the mayor and parent council, and applies for grant funding. He also advocates for regulatory changes to expand practice settings. Roland\'s activities represent action at which levels of the healthcare continuum?',
       options: [
         'Disease prevention through screening programs and health promotion through advocacy for policy change',
@@ -1610,7 +1613,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 14246,
+      id: 14510,
       question: 'A community with limited access to dental care has many children experiencing early childhood caries. Children with severe, long-standing ECC may wait years on surgical waitlists requiring general anesthesia at locations far from home, spending time in potentially frightening environments away from family support. This scenario illustrates a deficit in which aspects of comprehensive care models?',
       options: [
         'Sound dentition from human needs perspective and quality of life from OHRQOL perspective',
@@ -1621,7 +1624,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 14247,
+      id: 14511,
       question: 'Rural dental hygienist Jean Schnarr is approached by public health nurses about babies\' first oral health visits after dental therapy services were eliminated. Jean joins the nurses as an oral health promotion consultant, meeting with parents, community health workers, and health directors. The team develops oral health kits containing education literature and dental products distributed according to children\'s developmental needs, including messages for parental oral health. This initiative demonstrates which health promotion strategies?',
       options: [
         'Strengthening community action and developing personal skills through collaborative health education',
@@ -1632,7 +1635,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 14248,
+      id: 14512,
       question: 'After legislative changes enabling direct access to full scope of dental hygiene practice, Bruce Front establishes a mobile dental hygiene service. He provides oral health assessments and care to residents in 15 long-term care facilities, in response to new policy mandating annual oral health assessments for all residents. Bruce conducts monthly mouthcare training sessions for caregivers, making it a valued part of daily hygiene. Bruce\'s practice model demonstrates the relationship between which health promotion elements?',
       options: [
         'Advocacy, legislation, and public policy working together to create supportive environments',
@@ -1643,7 +1646,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 14249,
+      id: 14513,
       question: 'A high school has seen increased e-cigarette use among previously non-tobacco-using students. A dental hygienist develops an educational program about cannabis and e-cigarette effects on health and oral health for students known to be susceptible to substance experimentation. The presentation includes information about public policy prohibiting e-cigarette use in public places and sales to minors. This intervention represents which level of disease prevention?',
       options: [
         'Primary prevention by preventing disease onset in populations at risk but without disease',
@@ -1654,7 +1657,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 14250,
+      id: 14514,
       question: 'A dental hygienist works collaboratively with a diabetes education resource center to facilitate joint educational sessions about the role of oral self-care in managing diabetes and maintaining oral health. The sessions address the bidirectional relationship between periodontal disease and diabetes, medication effects on oral tissues, and self-care strategies for patients managing both conditions. This collaborative approach addresses disease prevention at which level?',
       options: [
         'Secondary prevention through early intervention to minimize progression of existing conditions',
@@ -1665,7 +1668,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 14251,
+      id: 14515,
       question: 'A dental hygienist working in a K-6 school clinic observes that 55% of students over the past 2 years have incipient carious lesions. This early identification prompts implementation of a school fluoride varnish program. Investigation reveals students come from a surrounding community without water fluoridation. The dental hygienist begins an advocacy campaign with the municipality about water fluoridation benefits. The fluoride varnish program represents which prevention level while the advocacy campaign represents which level?',
       options: [
         'Varnish program is secondary prevention; water fluoridation advocacy is primary prevention',
@@ -1676,7 +1679,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 14252,
+      id: 14516,
       question: 'A dental hygienist provides nonsurgical periodontal debridement for a patient diagnosed with moderate chronic periodontitis with localized areas of 5-6mm probing depths, bleeding on probing, and clinical attachment loss. The treatment plan includes scaling and root planing in four quadrants with localized antimicrobial therapy and comprehensive oral hygiene instruction. This clinical intervention represents which level on the healthcare continuum?',
       options: [
         'Both disease treatment and tertiary prevention by managing existing disease',
@@ -1687,7 +1690,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 14253,
+      id: 14517,
       question: 'A dental hygienist counsels a patient who expresses frustration about persistent oral health challenges despite regular care. Rather than focusing only on disease absence, the hygienist discusses oral health as a resource for achieving the patient\'s aspirations, including professional goals requiring clear communication, social interactions, and self-confidence. They explore how oral health enables the patient to satisfy needs and cope with life challenges. This approach reflects which contemporary understanding of health?',
       options: [
         'Health encompasses realizing aspirations, satisfying needs, and coping with changing environments',
@@ -1698,7 +1701,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 14254,
+      id: 14518,
       question: 'A dental hygienist working in a low-income community recognizes that many patients with compromised dentition and oral tissue integrity have difficulty accessing nutritious foods due to high costs, limited nutrition knowledge, and food availability issues. The hygienist collaborates with community organizations to address food security as it relates to both oral and overall health. This scenario illustrates which connection between health models and determinants?',
       options: [
         'Food security affects sound dentition (human needs) and environmental influences (quality of life)',
@@ -1709,7 +1712,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 14255,
+      id: 14519,
       question: 'A public health dental hygienist develops a community oral health program based on WHO principles. The program includes building public policy for school water bottle filling stations, creating supportive environments through peer education networks, strengthening community action through parent committees, reorienting health services toward prevention, and developing personal skills through hands-on oral hygiene workshops. This comprehensive approach demonstrates which core health promotion strategies?',
       options: [
         'Enable, mediate, and advocate for health through multiple interconnected strategies',
@@ -1720,7 +1723,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 14256,
+      id: 14520,
       question: 'A dental hygienist assesses a new patient and documents the following: employed full-time with health insurance, high school education, strong family support network, lives in fluoridated community, exercises regularly, non-smoker, attends preventive care appointments regularly. Patient presents with excellent oral health and no active disease. Which determinants of health have most contributed to this patient\'s positive oral health status?',
       options: [
         'Multiple interacting determinants including income, education, social support, and access to care',
@@ -1731,7 +1734,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 14257,
+      id: 14521,
       question: 'A dental hygienist in private clinical practice provides comprehensive care including disease treatment through scaling and root planing, disease prevention through fluoride applications and sealants, and health promotion through counseling on oral-systemic health connections. The hygienist also advocates for patients needing financial assistance to access care. This practice demonstrates which philosophy of dental hygiene care?',
       options: [
         'Full continuum of care from disease treatment through prevention to health promotion',
@@ -1742,7 +1745,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 14258,
+      id: 14522,
       question: 'A community dental hygienist investigates why certain population groups experience disproportionately high rates of tooth loss. The investigation examines income levels, education, healthcare access, cultural factors, geographic location, and policy barriers. The analysis leads to development of targeted interventions addressing identified disparities. This approach exemplifies which population health principle?',
       options: [
         'Understanding that health disparities result from social determinants requiring system-level change',
@@ -1753,7 +1756,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 14259,
+      id: 14523,
       question: 'A dental hygienist develops patient education materials about the periodontal disease-diabetes bidirectional relationship. Materials are written at 6th-grade reading level, include visual diagrams, use plain language avoiding jargon, and are available in multiple languages. Materials explain concepts clearly and provide actionable self-care steps. This approach addresses which determinant of health?',
       options: [
         'Education and literacy as determinants affecting ability to understand and act on health information',
@@ -1764,7 +1767,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 14260,
+      id: 14524,
       question: 'A dental hygienist participates in an interprofessional healthcare team including physicians, nurses, pharmacists, and dietitians caring for patients with complex medical conditions. The team meets regularly to coordinate care, share expertise, and ensure comprehensive treatment addressing all aspects of patient health and well-being. This model demonstrates which health promotion principle?',
       options: [
         'Interprofessional collaboration enhances quality of care and patient outcomes',
@@ -1775,7 +1778,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 14261,
+      id: 14525,
       question: 'A workplace implements an oral health promotion program including on-site dental hygiene screenings, educational lunch-and-learn sessions, subsidized professional dental care, healthy food options in cafeterias, and tobacco-free campus policies. The program aims to create an environment supporting employee oral health and overall wellness. This workplace initiative represents which health promotion strategy?',
       options: [
         'Creating supportive environments that make healthy choices easier and accessible',
@@ -1786,7 +1789,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 14262,
+      id: 14526,
       question: 'A dental hygienist performs comprehensive oral cancer screenings for all patients, documenting findings using standardized protocols. When abnormalities are detected, patients receive immediate referrals to oral surgeons or physicians for diagnostic biopsy. The hygienist provides tobacco cessation counseling to high-risk patients and educates all patients about oral cancer risk factors. The oral cancer screening represents which prevention level while cessation counseling represents which level?',
       options: [
         'Screening is secondary prevention; tobacco cessation counseling is primary prevention',
@@ -1797,7 +1800,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 14263,
+      id: 14527,
       question: 'A dental hygienist establishes a custom athletic mouthguard clinic at a local sports arena, providing professionally fabricated mouthguards to athletes participating in contact sports. The hygienist educates athletes, parents, and coaches about orofacial injury prevention, proper mouthguard care, and the importance of protection during athletic activities. This initiative represents which level of disease prevention?',
       options: [
         'Primary prevention by preventing orofacial injuries before they occur',
@@ -1808,7 +1811,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 14264,
+      id: 14528,
       question: 'A dental hygiene organization launches a social media campaign about oral health during pregnancy, including Facebook posts, YouTube videos, Instagram stories, and blog articles. Content addresses pregnancy gingivitis, safe dental treatment, medication considerations, and oral hygiene for newborns. The campaign includes testimonials from mothers and healthcare providers. This campaign utilizes which health promotion strategy?',
       options: [
         'Mass and social media to create awareness and engage people in health messages',
@@ -1819,7 +1822,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 14265,
+      id: 14529,
       question: 'A dental hygienist provides comprehensive oral health assessments for residents of a long-term care facility and develops individualized care plans. The hygienist trains nursing staff on daily oral hygiene techniques for residents requiring assistance, establishes protocols for routine care, and educates families about the importance of oral health for quality of life in aging populations. This program addresses oral health across which levels?',
       options: [
         'Individual care, staff education, and policy implementation for systemic change',
@@ -1830,7 +1833,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 14266,
+      id: 14530,
       question: 'A dental hygienist participates in a community coalition advocating for water fluoridation in a municipality currently without fluoridated water. Activities include presenting evidence to city council, organizing community forums, partnering with physicians and pediatricians, responding to opposition concerns, and educating the public about fluoridation benefits and safety. This advocacy effort represents which health promotion approaches?',
       options: [
         'Building healthy public policy, strengthening community action, and developing personal skills',
@@ -1841,7 +1844,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 14267,
+      id: 14531,
       question: 'A school-based dental sealant program targets caries-free second molars in second-grade students. A dental hygienist screens students, obtains parental consent, applies sealants using evidence-based protocols, and provides oral hygiene education. The program includes follow-up assessments to monitor sealant retention and identify students needing additional preventive or treatment services. The sealant application represents which prevention level?',
       options: [
         'Primary prevention by preventing dental caries before disease development',
@@ -1852,7 +1855,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 14268,
+      id: 14532,
       question: 'A dental hygienist considers two scenarios: (1) providing dietary counseling to prevent dental caries, and (2) advocating for policies ensuring all children have access to nutritious foods. The hygienist recognizes these represent different but complementary approaches to oral health. Which statement best differentiates disease prevention from health promotion?',
       options: [
         'Prevention asks "What makes clients sick?" while promotion asks "What makes clients healthy?"',
@@ -1863,7 +1866,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 14269,
+      id: 14533,
       question: 'A dental hygienist adopts a salutogenic (health creation) perspective rather than pathogenic (disease-focused) approach in practice. Consultations emphasize patient strengths, resources, protective factors, and capacity for health rather than exclusively focusing on disease risk factors, deficits, or pathology. This approach aligns with which health philosophy?',
       options: [
         'Health creation focusing on factors that support health rather than only disease absence',
@@ -1874,7 +1877,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 14270,
+      id: 14534,
       question: 'A dental hygienist assesses two patients with similar oral hygiene practices and dietary habits but vastly different oral health outcomes. Patient A lives in a fluoridated community, has dental insurance, completed higher education, maintains stable employment, and has strong social support. Patient B lives in a non-fluoridated area, lacks insurance, faced educational barriers, experiences unemployment, and has limited social support. The different outcomes most likely result from which factors?',
       options: [
         'Social determinants of health including education, income, and access to care',
@@ -1885,7 +1888,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 14271,
+      id: 14535,
       question: 'A dental hygienist provides care for a refugee family requiring language interpretation services. The hygienist researches the family\'s cultural background, arranges for professional interpreters, selects culturally appropriate educational materials, connects the family with community resources including ESL classes and employment assistance, and collaborates with refugee resettlement agencies. This approach demonstrates which aspects of comprehensive care?',
       options: [
         'Cultural competence, interprofessional collaboration, and population health perspective',
@@ -1896,7 +1899,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 14272,
+      id: 14536,
       question: 'A dental hygienist in a rural community identifies that many residents delay seeking care due to lack of transportation, limited clinic hours, shortage of providers, financial constraints, and cultural or language barriers. The hygienist works with community partners to address these access barriers through mobile services, extended hours, sliding fee scales, and interpreter services. These access barriers represent which determinant of health?',
       options: [
         'Access to healthcare services affects ability to receive preventive and treatment care',
@@ -1907,7 +1910,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 14273,
+      id: 14537,
       question: 'A dental hygienist using the Oral Health-Related Quality of Life Model assesses a patient\'s ability to eat comfortably, speak clearly, socialize confidently, and perform work duties effectively. The assessment considers not only clinical findings but also environmental influences, patient perceptions, and functional outcomes. This approach differs from traditional disease-focused models by emphasizing which concept?',
       options: [
         'Oral health as a resource for living a good quality life beyond disease absence',
@@ -1918,7 +1921,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 14274,
+      id: 14538,
       question: 'A dental hygiene practice provides comprehensive care including: restorative referrals for carious lesions (treatment), fluoride varnish for incipient lesions (secondary prevention), pit and fissure sealants for sound teeth (primary prevention), and advocacy for community water fluoridation (health promotion). Staff education emphasizes integration of all approaches. This comprehensive model demonstrates which practice philosophy?',
       options: [
         'Full continuum of care integrating treatment, prevention at all levels, and promotion',
@@ -1929,7 +1932,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 14275,
+      id: 14539,
       question: 'A public health dental hygienist conducts a community oral health needs assessment examining disease prevalence, service availability, insurance coverage, geographic access, cultural factors, health literacy, and community resources. The assessment involves stakeholder interviews, data analysis, and community forum discussions to identify priorities. This assessment process represents which population health principle?',
       options: [
         'Measure the problem, evaluate needs, and use evidence for planning interventions',
@@ -1940,7 +1943,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 14276,
+      id: 14540,
       question: 'A dental hygienist participates in a prenatal and early childhood program providing education to expectant parents about infant oral health, demonstrating proper cleaning techniques, discussing fluoride needs, addressing feeding practices, and scheduling first dental visits. The program includes home visits and ongoing support through the first years of life. This program addresses which determinant of health?',
       options: [
         'Healthy child development through early intervention and family support',
@@ -1951,7 +1954,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 14277,
+      id: 14541,
       question: 'A dental hygienist recognizes that professional practice regulations limit settings where care can be provided, creating barriers for underserved populations. The hygienist joins the professional association\'s legislative committee, testifies at regulatory hearings, educates lawmakers about access issues, and advocates for regulatory modernization enabling practice in diverse settings. This advocacy represents action at which level?',
       options: [
         'Policy level addressing systemic barriers to care access for populations',
@@ -1962,7 +1965,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 14278,
+      id: 14542,
       question: 'A dental hygienist facilitates a community workshop where participants identify their own oral health priorities, develop action plans using available resources, and establish peer support networks. The hygienist serves as facilitator and resource person rather than authority dictating solutions, empowering participants to take ownership of their oral health. This approach exemplifies which health promotion principle?',
       options: [
         'Strengthening community action by empowering communities to control their destinies',
@@ -1973,7 +1976,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 14279,
+      id: 14543,
       question: 'A dental clinic traditionally focused on disease treatment implements a new model emphasizing prevention and health promotion. Changes include extended time for patient education, wellness-focused messaging, preventive care incentives, risk assessment protocols, care coordination with other providers, and outcome measures tracking quality of life in addition to disease indicators. This transformation demonstrates which health promotion strategy?',
       options: [
         'Reorienting health services toward prevention and promotion beyond disease treatment',
@@ -1984,7 +1987,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 14280,
+      id: 14544,
       question: 'A dental hygienist analyzes oral health data revealing significant disparities between population groups based on income, race/ethnicity, geography, and insurance status. The hygienist develops targeted interventions addressing underlying causes of inequities rather than only treating disease in affected populations, working to eliminate gaps through system-level changes. This focus on equity aligns with which health promotion goal?',
       options: [
         'Addressing determinants of health to reduce inequities and promote health for all',
@@ -1995,7 +1998,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 14281,
+      id: 14545,
       question: 'A dental hygienist collaborates with housing authorities, food banks, schools, transportation services, employment agencies, and healthcare providers to address social determinants affecting a community\'s oral health. The hygienist recognizes that oral health cannot be achieved through health sector actions alone. This approach demonstrates which principle?',
       options: [
         'Health promotion requires action beyond healthcare involving multiple sectors',
@@ -2006,7 +2009,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 14282,
+      id: 14546,
       question: 'A dental hygienist conducts a hands-on workshop teaching participants proper toothbrushing and flossing techniques, interdental cleaning, tongue cleaning, and denture care. Participants practice skills with feedback, receive personal oral hygiene kits, and develop individualized home care plans with achievable goals and self-monitoring strategies. This workshop represents which health promotion strategy?',
       options: [
         'Developing personal skills to increase control over and improve health',
@@ -2017,7 +2020,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 14283,
+      id: 14547,
       question: 'A dental hygienist identifies conflicts between patient needs and available services, insurance limitations, provider availability, or system barriers. The hygienist serves as mediator by coordinating services, negotiating payment arrangements, connecting patients with resources, and advocating with insurers and providers to ensure patients receive appropriate care. This mediating role reflects which health promotion principle?',
       options: [
         'Health promotion enables, mediates, and advocates to facilitate health for all',
@@ -2028,7 +2031,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 14284,
+      id: 14548,
       question: 'A community implements comprehensive tobacco control policies including smoke-free public spaces, tobacco sales restrictions, taxation on tobacco products, and mass media campaigns. Dental hygienists participate by providing cessation counseling, educating about oral effects of tobacco, and supporting policy implementation. This multilevel approach demonstrates which concept?',
       options: [
         'Multiple strategies at individual, community, and policy levels create synergy',
@@ -2039,7 +2042,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 14285,
+      id: 14549,
       question: 'A dental hygienist planning a community intervention systematically reviews scientific literature, examines community needs assessment data, considers available resources, evaluates similar programs\' outcomes, and selects evidence-based strategies with demonstrated effectiveness. Implementation includes evaluation protocols to measure outcomes and ensure accountability. This approach reflects which principle of effective health promotion?',
       options: [
         'Using quality evidence and evaluation to inform decision-making and assess outcomes',
@@ -2048,8 +2051,9 @@ export const questions = {
         'Community wants alone guide programs without consideration of effectiveness'
       ],
       correct: "D"
-    },
+    }
   ],
+
   "2. Health Behavior Change": [
     {
       id: 14200,
@@ -3051,9 +3055,12 @@ export const questions = {
         "Not be allowed to speak"
       ],
       correct: "B"
-    },
+    }
+  ],
+
+  "2. Health Behavior Change (Case Study)": [
     {
-      id: 15001,
+      id: 15500,
       question: 'Mrs. Anderson, 45 years old, comes to her dental hygiene appointment. During the health history update, she mentions she has been flossing daily for the past 3 months because her employer offers a $50 insurance premium reduction for employees who maintain good oral hygiene habits verified by their dentist. Her oral examination shows significant improvement in gingival health. Which type of motivation is primarily driving Mrs. Anderson\'s flossing behavior?',
       options: [
         'Intrinsic motivation characterized by inherent satisfaction and spontaneous interest in oral health',
@@ -3064,7 +3071,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 15002,
+      id: 15501,
       question: 'During a dental hygiene appointment, Mr. Thompson, 52 years old with moderate periodontitis, states: "I know I need to floss more because I\'m really concerned that I have bad breath. My wife mentioned it last week and I was embarrassed. I don\'t want to end up like my father who lost all his teeth to gum disease." The dental hygienist recognizes these statements as examples of which motivational interviewing concept?',
       options: [
         'Change talk expressing concerns about current behavior and benefits of recommended change',
@@ -3075,7 +3082,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 15003,
+      id: 15502,
       question: 'Sarah, 14 years old, comes for her routine dental hygiene appointment. She has orthodontic brackets and shows areas of white spot lesions around the brackets. When the dental hygienist begins discussing improved oral hygiene, Sarah crosses her arms, looks away, and responds with short "yes" or "no" answers. Her mother sits in the operatory. Which communication approach would be MOST effective with Sarah?',
       options: [
         'Being attentive and allowing Sarah time to talk while avoiding judgmental lectures',
@@ -3086,7 +3093,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 15004,
+      id: 15503,
       question: 'Mr. Lee, 58 years old, presents for his dental hygiene appointment. During the health history review, the dental hygienist asks, "How do you feel about your oral health?" Mr. Lee responds, "I brush twice a day but I never floss. I know I should, but I just can\'t seem to make it a habit. I\'m too busy with work." Which OARS technique did the dental hygienist demonstrate in the initial question?',
       options: [
         'Open-ended question that cannot be answered with single word and encourages dialogue',
@@ -3097,7 +3104,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 15005,
+      id: 15504,
       question: 'Mrs. Chen, 35 years old, recently started flossing daily after learning about the connection between periodontal disease and cardiovascular health. She reports feeling proud of herself for mastering the technique, enjoys the clean feeling after flossing, and feels she is taking control of her health. She researches oral health topics online regularly. Which three psychologic needs associated with intrinsic motivation does Mrs. Chen\'s behavior demonstrate?',
       options: [
         'Autonomy through perceived control, competence through mastery, and relatedness through connections',
@@ -3108,7 +3115,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 15006,
+      id: 15505,
       question: 'Jessica, 28 years old, presents with generalized gingivitis. The dental hygienist repeatedly emphasizes the importance of flossing and the negative consequences of not flossing. Jessica becomes defensive and states, "Actually, I think my gums are fine. I\'ve never had a cavity, so why should I floss? It just makes my gums bleed anyway." Jessica\'s response demonstrates which phenomenon the dental hygienist should avoid?',
       options: [
         'Paradoxical effect where arguing causes clients to defend the opposite viewpoint',
@@ -3119,7 +3126,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 15007,
+      id: 15506,
       question: 'Tommy, 4 years old, is scheduled for his first dental hygiene appointment. He appears anxious and clings to his mother. The dental hygienist needs to perform an examination and apply fluoride varnish. Tommy\'s mother reports he is usually cooperative but scared of new experiences. Using the Guidance-Cooperation Model, which approach would be MOST appropriate FIRST?',
       options: [
         'Tell Tommy the ground rules and let him know exactly what is expected during the visit',
@@ -3130,7 +3137,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 15008,
+      id: 15507,
       question: 'Mr. Rodriguez, 62 years old, states during his appointment: "I don\'t understand how I could have periodontal disease. My teeth and gums feel fine. I have absolutely no pain. This doesn\'t make sense to me." Which response demonstrates effective reflective listening through paraphrasing?',
       options: [
         '"You\'re not convinced you have periodontal disease because you have no discomfort?"',
@@ -3141,7 +3148,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 15009,
+      id: 15508,
       question: 'Amanda, 19 years old, appears overwhelmed during her appointment. She has multiple carious lesions and moderate gingivitis. When asked about her oral health goals, she states: "I don\'t know what to do. Everything seems so complicated. I need you to just tell me what to do." Which communication style would be MOST appropriate for Amanda initially?',
       options: [
         'Directing style to provide specific guidance when a patient is unable to make decisions',
@@ -3152,7 +3159,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 15010,
+      id: 15509,
       question: 'Mrs. Jackson, 41 years old, states: "I know flossing is good for my gums, but it takes so much time and my gums bleed when I do it. Plus, I\'m always rushing in the morning. But I also don\'t want to lose my teeth like my mother did." Which approach demonstrates proper exploration of Mrs. Jackson\'s ambivalence?',
       options: [
         'Explore both sides by asking benefits of flossing and concerns about not flossing',
@@ -3163,7 +3170,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 15011,
+      id: 15510,
       question: 'David, 16 years old with orthodontic appliances, reports he has been brushing three times daily and using a floss threader every evening for the past month. His oral examination shows significantly improved gingival health and reduced plaque accumulation around brackets. Which response represents an effective affirmation?',
       options: [
         '"You\'ve shown real commitment to your oral health, and the improvement is impressive"',
@@ -3174,7 +3181,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 15012,
+      id: 15511,
       question: 'Mrs. Williams, 55 years old, presents for her dental hygiene appointment. The dental hygienist wants to assess her current oral hygiene practices and motivations. Which question is an example of an OPEN-ENDED question?',
       options: [
         '"What are you currently doing each day to care for your mouth?"',
@@ -3185,7 +3192,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 15013,
+      id: 15512,
       question: 'Mr. Peterson, 48 years old with type 2 diabetes and periodontal disease, expresses frustration about managing both conditions. The dental hygienist wants to establish an effective professional relationship using PACE principles. Which statement BEST demonstrates the Partnership principle?',
       options: [
         '"Let\'s work together to find an oral care routine that fits your lifestyle and health needs"',
@@ -3196,7 +3203,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 15014,
+      id: 15513,
       question: 'Emma, 8 years old, comes for her dental hygiene appointment. When asked about her tooth that hurts, she begins talking about her new puppy, then her birthday party, then her teacher, without clearly identifying which tooth is causing discomfort. Which response demonstrates the focusing communication technique?',
       options: [
         '"Please point to the specific tooth that seems to be causing your discomfort"',
@@ -3207,7 +3214,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 15015,
+      id: 15514,
       question: 'Mr. Davis, 68 years old, has been referred to a periodontist for evaluation of advanced periodontal disease with significant bone loss. He appears anxious and states: "I\'m really worried about this. Do you think I\'m going to lose my teeth? Will the surgery hurt?" Which response AVOIDS offering false reassurance?',
       options: [
         '"I understand you\'re concerned, and these are important questions to discuss with the periodontist"',
@@ -3218,7 +3225,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 15016,
+      id: 15515,
       question: 'Mrs. Kumar, 52 years old, appears upset during her appointment. She states: "Everything is just so stressful right now with work and family. I feel like I\'m falling apart. Nothing is going right." Which response demonstrates the clarifying communication technique?',
       options: [
         '"You seem overwhelmed - can you help me understand what\'s happening specifically?"',
@@ -3229,7 +3236,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 15017,
+      id: 15516,
       question: 'Jason, 22 years old, smokes half a pack of cigarettes daily. During tobacco cessation counseling, he states: "I know smoking is bad for my health and my gums look terrible. But all my friends smoke, and it helps me relax when I\'m stressed out. I don\'t think I can quit right now." Which component of Jason\'s statement represents "sustain talk"?',
       options: [
         '"All my friends smoke and it helps me relax - I don\'t think I can quit now"',
@@ -3240,7 +3247,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 15018,
+      id: 15517,
       question: 'Mrs. Foster, 73 years old, recently had a stroke affecting her right side mobility. She tearfully states: "I used to be able to do everything for myself. Now I can\'t even brush my teeth properly. It\'s so frustrating and embarrassing to need help with basic things." Which response demonstrates empathy according to motivational interviewing principles?',
       options: [
         '"It must be very frustrating to know what you want and not be able to do it"',
@@ -3251,7 +3258,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 15019,
+      id: 15518,
       question: 'Kevin, 10 years old, needs sealants placed on his permanent first molars. He appears curious about the procedure and asks several questions about what will happen. He has good comprehension skills for his age. Which communication approach is MOST appropriate for Kevin\'s developmental level?',
       options: [
         'Demonstrate equipment, allow questions, and give simple explanations of procedures',
@@ -3262,7 +3269,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 15020,
+      id: 15519,
       question: 'Mrs. Patel, 44 years old, mentions during her appointment that she\'s been experiencing sensitivity. The dental hygienist responds: "Sensitivity is very common. Let\'s get started with your cleaning today - we have a lot to accomplish." This response demonstrates which nontherapeutic communication technique?',
       options: [
         'Changing the subject inappropriately before addressing the patient\'s concern',
@@ -3273,7 +3280,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 15021,
+      id: 15520,
       question: 'Marcus, 29 years old, began excellent oral hygiene habits after his dental hygienist explained the connection between oral health and overall wellness. He reports feeling accomplished when he maintains his routine, enjoys the feeling of clean teeth, and appreciates being in charge of his health decisions. Marcus\'s motivation aligns with which end of the Self-Determination Theory continuum?',
       options: [
         'Autonomous motivation with identified and integrated regulation of behavior',
@@ -3284,7 +3291,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 15022,
+      id: 15521,
       question: 'Mrs. Bennett, 59 years old, reports: "My daughter wants to drive me to appointments now, but I\'ve been walking here for years and I enjoy the exercise and independence." The dental hygienist responds: "That\'s wonderful that your daughter offered! You should definitely accept - the walk is probably too much for you now." This response demonstrates which communication error?',
       options: [
         'Showing approval in a way that implies only one behavior is acceptable',
@@ -3295,7 +3302,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 15023,
+      id: 15522,
       question: ' During Sophia\'s dental hygiene appointment, the hygienist maintains eye contact, faces Sophia with shoulders oriented toward her, leans slightly forward, avoids interrupting, and maintains 3-4 feet distance. These behaviors demonstrate which aspect of effective communication?',
       options: [
         'Interpersonal attending skills that facilitate active listening and communication',
@@ -3306,7 +3313,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 15024,
+      id: 15523,
       question: 'Mr. Zhang, 66 years old, arrives for his appointment. When greeted with "How are you, Mr. Zhang?" he responds, "Oh, just fine." However, he appears disheveled, walks with a slow shuffle, and displays unenthusiastic gestures and facial expressions. Which response demonstrates effective reflective observation?',
       options: [
         '"You appear worn out, Mr. Zhang - is everything alright with you?"',
@@ -3317,7 +3324,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 15025,
+      id: 15524,
       question: 'Rachel, 32 years old, has completed her dental hygiene appointment where nonsurgical periodontal therapy was performed and home care was discussed. The dental hygienist is concluding the appointment. Which statement BEST demonstrates the summarizing technique?',
       options: [
         '"Today we discussed periodontal disease and therapy, practiced flossing, and you decided to floss daily"',
@@ -3328,7 +3335,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 15026,
+      id: 15525,
       question: 'Tyler, 18 years old, returns for his appointment. His oral hygiene has deteriorated since his last visit. The dental hygienist notes increased plaque accumulation and gingival inflammation. Which question demonstrates the INAPPROPRIATE use of "why" that may seem accusatory?',
       options: [
         '"Why haven\'t you been flossing like we discussed at your last appointment?"',
@@ -3339,7 +3346,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 15027,
+      id: 15526,
       question: 'Mrs. Martinez, 50 years old with periodontal disease, initially seems overwhelmed but after discussion becomes engaged. She asks about different treatment options and wants to explore various approaches before deciding. She values being involved in decision-making. Which communication style transition would be MOST appropriate?',
       options: [
         'Shift from directing to guiding style to explore options collaboratively',
@@ -3350,7 +3357,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 15028,
+      id: 15527,
       question: 'Hannah, 3 years old, needs a dental examination and fluoride application. She is cooperative initially but becomes restless. When the dental hygienist asks her to open her mouth, she complies and is immediately praised with "That\'s excellent, Hannah! Thank you!" This interaction demonstrates which Guidance-Cooperation Model principle?',
       options: [
         'Praising all cooperative behavior to reinforce positive actions immediately',
@@ -3361,7 +3368,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 15029,
+      id: 15528,
       question: 'Mr. Johnson\'s employer implemented a workplace wellness program offering points for attending dental hygiene appointments (incentive), removing unhealthy snacks from vending machines (consequence), and providing bonuses for health goal achievement (reward). These workplace changes demonstrate which three concepts of extrinsic motivation?',
       options: [
         'Incentives occurring before behavior, consequences following behavior, and rewards for achievement',
@@ -3372,7 +3379,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 15030,
+      id: 15529,
       question: 'Mrs. Anderson complains: "I went to the oral surgeon you recommended and had a terrible experience. The parking was impossible, the wait was 2 hours, and they charged me a fortune!" The dental hygienist responds: "Dr. Smith is an excellent surgeon and I would never recommend someone who wasn\'t qualified. You should appreciate that I referred you to the best specialist." This response demonstrates which communication error?',
       options: [
         'Being defensive instead of using active listening to understand the concern',
@@ -3383,7 +3390,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 15031,
+      id: 15530,
       question: 'Emma, 42 years old, is interested in learning about powered toothbrushes. She asks detailed questions, wants to understand the research evidence, and prefers to make her own informed decision. She values being treated as an adult learner. Which adult learning theory assumption applies to Emma\'s approach?',
       options: [
         'Adults are self-directed and independent, preferring to make their own decisions',
@@ -3394,7 +3401,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 15032,
+      id: 15531,
       question: 'Mrs. Thompson, 38 years old, presents with poor oral hygiene and appears to have an unhealthy lifestyle. She is defensive and critical. Her oral health seems self-imposed. The dental hygienist notices feeling judgmental about Mrs. Thompson\'s choices. According to PACE principles, how should the dental hygienist approach this situation?',
       options: [
         'Accept Mrs. Thompson without allowing judgment to interfere with communication',
@@ -3405,7 +3412,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 15033,
+      id: 15532,
       question: 'Daniel, 15 years old, mentions that he doesn\'t like coming to dental appointments because "the hygienist talks at me instead of listening, and just lectures about flossing." He feels adults don\'t really hear what he has to say. Daniel\'s complaint reflects which common adolescent concern about healthcare communication?',
       options: [
         'Adults don\'t listen and conversations turn into unsolicited advice or mini-lectures',
@@ -3416,7 +3423,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 15034,
+      id: 15533,
       question: 'Mrs. Lopez states: "Part of me knows I should quit smoking because it\'s bad for my gums, but another part of me thinks it\'s not that big a deal since I\'ve smoked for 20 years without major problems." Mrs. Lopez\'s statement demonstrates which concept central to motivational interviewing?',
       options: [
         'Ambivalence characterized by feeling two ways and having contradictory thoughts',
@@ -3427,7 +3434,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 15035,
+      id: 15534,
       question: 'Mr. Williams, 55 years old, has crowded anterior teeth, a large tongue, and darkly pigmented gingiva. The dental hygienist wants to discuss these observations using respectful language. Which statement demonstrates MOST respectful language?',
       options: [
         '"Your anterior teeth are crowded, your tongue is muscular, and your gingiva is pigmented"',
@@ -3438,7 +3445,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 15036,
+      id: 15535,
       question: 'Sophie, 25 years old, has been practicing improved oral hygiene techniques. She reports feeling satisfied and enjoying the process as she masters the skills. She feels effective in her oral health interactions and pursues optimal self-care. Sophie\'s experience reflects fulfillment of which psychologic need associated with intrinsic motivation?',
       options: [
         'Competence need reflecting the desire to pursue and master optimal challenges',
@@ -3449,7 +3456,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 15037,
+      id: 15536,
       question: 'Mr. Garcia, 61 years old, begins discussing his concerns about oral surgery recommended by his dentist. The dental hygienist wants to understand his perspective before offering any information or advice. Which communication style should the dental hygienist employ INITIALLY?',
       options: [
         'Following style where listening predominates without agreeing, disagreeing, or advising',
@@ -3460,7 +3467,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 15038,
+      id: 15537,
       question: 'Olivia, 4 years old, is cooperative during her appointment. The dental hygienist wants to give her some control while maintaining structure. Olivia will receive a fluoride application. Which approach demonstrates allowing the child to play a role through structured choices?',
       options: [
         '"Would you like strawberry or grape-flavored fluoride today, Olivia?"',
@@ -3471,7 +3478,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 15039,
+      id: 15538,
       question: 'Nathan, 28 years old, recently married and just started a demanding new career. He has difficulty maintaining oral hygiene consistency. He mentions stress from learning to manage a home, starting a family, and establishing himself professionally. Nathan\'s challenges reflect which Havinghurst developmental stage concerns?',
       options: [
         'Early adulthood tasks including starting a family, managing a home, and beginning a career',
@@ -3482,7 +3489,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 15040,
+      id: 15539,
       question: 'Mrs. Henderson states: "I brush twice daily but never floss. I know the benefits but it\'s just too difficult with my arthritis." The dental hygienist responds: "Flossing is challenging with your arthritis. If there were something easier you could do to reduce inflammation besides flossing, you would do it." This response demonstrates which level of reflection?',
       options: [
         'Paraphrase making a guess about meaning and adding information beyond what was said',
@@ -3493,7 +3500,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 15041,
+      id: 15540,
       question: 'Mrs. White, 47 years old, decides she is not ready to implement the recommended daily flossing routine despite the dental hygienist\'s education about benefits. Which response demonstrates appropriate support of the client\'s decision?',
       options: [
         '"I understand you\'re not ready now; here\'s information to read, and I\'m available when you\'re ready"',
@@ -3504,7 +3511,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 15042,
+      id: 15541,
       question: 'Emily, 78 years old, has mild hearing loss and appears anxious during her appointment. She takes time to formulate answers to questions and occasionally asks for clarification. Her dental hygienist wants to communicate effectively. Which approach is MOST appropriate for Emily according to life span communication guidelines?',
       options: [
         'Approach with respect, speak clearly and slowly, allow time for responses',
@@ -3515,7 +3522,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 15043,
+      id: 15542,
       question: 'Jacob, 34 years old, states: "I know I should quit smoking for my oral health, but it\'s really hard when all my coworkers take smoke breaks together. That\'s when we socialize." Which response demonstrates double-sided reflection?',
       options: [
         '"On one hand you know quitting is better, but it\'s hard when friends smoke on breaks"',
@@ -3526,7 +3533,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 15044,
+      id: 15543,
       question: 'Mrs. Taylor, 51 years old, flosses daily because "I feel guilty when I don\'t, and I\'d be embarrassed if the dental hygienist found out I wasn\'t flossing. I want her to be proud of me." Mrs. Taylor\'s motivation demonstrates which type of regulation on the Self-Determination Theory continuum?',
       options: [
         'Introjected regulation motivated by self-control, ego involvement, and approval-seeking',
@@ -3537,7 +3544,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 15045,
+      id: 15544,
       question: 'Christopher, 6 years old, begins whining during his appointment but is not interfering with the examination. The dental hygienist continues working calmly without responding to the whining. This approach from the Guidance-Cooperation Model demonstrates which principle?',
       options: [
         'Keep your cool by ignoring negative behavior that isn\'t interfering with healthcare',
@@ -3548,7 +3555,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 15046,
+      id: 15545,
       question: 'Ms. Parker, 33 years old, is considering different options for managing her dental anxiety. She has tried various approaches with mixed success. The dental hygienist wants to help her explore solutions. Which statement demonstrates the guiding communication style?',
       options: [
         '"Let\'s discuss options others have found helpful and explore what might work for you"',
@@ -3559,7 +3566,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 15047,
+      id: 15546,
       question: 'Ryan, 40 years old, mentions he drinks several soft drinks daily. The dental hygienist wants to address this risk factor for caries. Which approach BEST supports Ryan\'s autonomy rather than offering prescriptive directives?',
       options: [
         '"What are your thoughts about your beverage choices and their effect on your oral health?"',
@@ -3568,8 +3575,9 @@ export const questions = {
         '"Most of my patients who drink soft drinks end up with multiple cavities"'
       ],
       correct: "D"
-    },
+    }
   ],
+
   "3. Inclusive Patient Care": [
     {
       id: 14300,
@@ -4703,9 +4711,12 @@ export const questions = {
         "Only matters in large cities"
       ],
       correct: "B"
-    },
+    }
+  ],
+
+  "3. Inclusive Patient Care (Case Study)": [
     {
-      id: 16001,
+      id: 16500,
       question: 'A dental hygienist attends a continuing education course on diversity, equity, and inclusion. The instructor explains that while cultural competence suggests a tangible end goal, another approach emphasizes ongoing self-awareness and learning from patients as a lifelong process. Which concept does the instructor describe as an alternative to cultural competence?',
       options: [
         'Cultural humility involving continual self-exploration, self-critique, and willingness to learn',
@@ -4716,7 +4727,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 16002,
+      id: 16501,
       question: 'Mrs. Chen, a 62-year-old woman with limited English proficiency and low socioeconomic status, presents with advanced periodontal disease. She works two jobs, has no dental insurance, and reports difficulty taking time off for appointments. She lives in a food desert with limited access to fresh produce. This case demonstrates which concept related to health disparities?',
       options: [
         'Social determinants of health including education, employment, income, and environment',
@@ -4727,7 +4738,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 16003,
+      id: 16502,
       question: 'A dental clinic is implementing the National Standards for Culturally and Linguistically Appropriate Services (CLAS). The clinic director reviews the Principal Standard to guide policy development. Which statement reflects the CLAS Principal Standard for healthcare organizations?',
       options: [
         'Provide effective, equitable, understandable, respectful care responsive to diverse beliefs',
@@ -4738,7 +4749,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 16004,
+      id: 16503,
       question: 'A dental hygienist reflects on their practice and realizes they need to maintain both knowledge about different cultures and an attitude of humility while recognizing their own biases and various forms of discrimination. This approach is BEST described as which emerging concept?',
       options: [
         'Cultural competemility infusing principles of cultural humility with cultural competence',
@@ -4749,7 +4760,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 16005,
+      id: 16504,
       question: 'During a staff meeting, the clinic manager states: "We treat all patients exactly the same way regardless of their background. Everyone receives identical care and follows our standard protocols." This statement represents which level on the Cultural Competency Continuum?',
       options: [
         'Cultural blindness ignoring differences and meeting only dominant group needs',
@@ -4760,7 +4771,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 16006,
+      id: 16505,
       question: 'A dental hygienist begins developing cultural humility by examining their own race, ethnicity, religion, socioeconomic class, sexual orientation, gender identity, and other social identities and how these affect their worldview and relationships with patients. This process demonstrates which core construct of the CCEI model?',
       options: [
         'Self-awareness understanding how personal identities affect worldviews and behaviors',
@@ -4771,7 +4782,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 16007,
+      id: 16506,
       question: 'Mr. Rodriguez, 45 years old, is fluent in Spanish but has limited English proficiency. He nods and smiles during oral hygiene instructions but later admits to his daughter that he didn\'t understand the dental hygienist\'s explanation about periodontal disease. This situation demonstrates which barrier to healthcare?',
       options: [
         'Healthcare literacy challenges affecting understanding of health information',
@@ -4782,7 +4793,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 16008,
+      id: 16507,
       question: 'A dental hygienist meets with a patient who expresses concerns about fluoride varnish for her children, stating that her community has cultural beliefs about avoiding certain chemicals. The hygienist listens attentively without interrupting. This action represents which step of the LEARN Model?',
       options: [
         'Listen to the patient\'s perspective without judgment or interruption',
@@ -4793,7 +4804,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 16009,
+      id: 16508,
       question: 'Mrs. Nguyen, 58 years old, tells the dental hygienist that she needs to discuss the proposed treatment plan with her extended family before making any decisions. She explains that healthcare decisions in her culture are made by the family group, not individuals. This patient\'s approach reflects which cultural orientation?',
       options: [
         'Collectivistic culture where group is fundamental unit and decisions are collaborative',
@@ -4804,7 +4815,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 16010,
+      id: 16509,
       question: 'A 67-year-old Mandarin-speaking patient presents for treatment. Her 10-year-old grandson offers to translate. The dental hygienist recognizes that complex medical information needs to be communicated regarding the patient\'s diabetes and periodontal disease connection. What is the MOST appropriate action regarding interpretation services?',
       options: [
         'Arrange for a trained medical interpreter rather than using the minor child',
@@ -4815,7 +4826,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 16011,
+      id: 16510,
       question: 'A dental hygienist assumes that all patients from a particular ethnic group have the same beliefs about oral health and applies generalized treatment approaches without individual assessment. This behavior demonstrates which problematic practice?',
       options: [
         'Stereotyping based solely on culture context without recognizing individual variability',
@@ -4826,7 +4837,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 16012,
+      id: 16511,
       question: 'During an oral examination, a patient from a culture that values modesty and same-gender interactions appears uncomfortable. The patient maintains minimal eye contact and seems hesitant about physical contact. Which action demonstrates cultural sensitivity?',
       options: [
         'Ask permission before touching and honor requests for same-gender providers',
@@ -4837,7 +4848,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 16013,
+      id: 16512,
       question: 'A clinic is updating patient education brochures and intake forms. The materials currently include primarily images of one demographic group and use complex medical terminology without translations. Which change would BEST promote inclusive communication?',
       options: [
         'Use equitable, inclusive images of diverse groups and provide plain language versions',
@@ -4848,7 +4859,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 16014,
+      id: 16513,
       question: 'A patient from a culture that values collective decision-making is presented with an informed consent form emphasizing individual autonomy and choice. The patient seems confused and asks if she can have her family review it first. This situation highlights which cultural consideration?',
       options: [
         'Conflict between Western emphasis on autonomy and collectivistic cultural values',
@@ -4859,7 +4870,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 16015,
+      id: 16514,
       question: 'During treatment, a dental hygienist notices that a patient consistently attempts to increase the distance between them when the hygienist stands close during conversations. The patient appears more comfortable when the hygienist maintains greater distance. This observation relates to which aspect of nonverbal communication?',
       options: [
         'Proxemics involving culturally determined use of space in communication',
@@ -4870,7 +4881,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 16016,
+      id: 16515,
       question: 'A dental hygienist is treating a new patient and wants to understand the patient\'s ethnic origin, valued customs, health beliefs, communication style, and family role in healthcare decisions. This information gathering represents which phase of culturally sensitive care?',
       options: [
         'Assessment phase incorporating cultural considerations into patient evaluation',
@@ -4881,7 +4892,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 16017,
+      id: 16516,
       question: 'A dental hygienist performs an intraoral examination (touching inside the patient\'s mouth) and then holds the patient\'s hand while explaining a procedure. The patient pulls their hand away. Which statement BEST describes these two types of physical contact?',
       options: [
         'Intraoral exam is necessary touch; hand-holding is nonnecessary touch potentially unwelcome',
@@ -4892,7 +4903,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 16018,
+      id: 16517,
       question: 'A patient explains that they believe their oral disease is punishment from a higher being and that treatment may be futile. They prefer to seek guidance from a spiritual advisor before accepting treatment recommendations. This patient\'s health belief system reflects which cultural consideration?',
       options: [
         'Belief in supernatural forces and external control over health outcomes',
@@ -4903,7 +4914,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 16019,
+      id: 16518,
       question: 'After listening to a patient\'s concerns about fluoride, explaining the evidence, and acknowledging different perspectives, the dental hygienist works with the patient to find an acceptable alternative approach they both agree upon. This action represents which step of the LEARN Model?',
       options: [
         'Negotiate a mutually agreed-on treatment plan considering both perspectives',
@@ -4914,7 +4925,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 16020,
+      id: 16519,
       question: 'A dental hygienist is documenting findings for a patient with crowded anterior teeth, a large tongue, and heavily pigmented gingiva. The hygienist wants to use respectful, professional terminology. Which documentation demonstrates MOST respectful language?',
       options: [
         '"Anterior teeth crowded, tongue muscular, gingiva pigmented"',
@@ -4925,7 +4936,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 16021,
+      id: 16520,
       question: 'A dental hygienist is working with a professional interpreter to communicate with a patient who speaks minimal English. During the conversation, the hygienist maintains eye contact with the interpreter while speaking. Which modification would improve the triadic interview process?',
       options: [
         'Make eye contact with the patient, not the interpreter, while speaking',
@@ -4936,7 +4947,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 16022,
+      id: 16521,
       question: 'A patient lives in a neighborhood with limited access to healthy food options, high crime rates, poor quality housing, and environmental pollution. These factors contribute to the patient\'s overall and oral health challenges. These conditions represent which social determinant of health domain?',
       options: [
         'Neighborhood and built environment affecting access to health resources',
@@ -4947,7 +4958,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 16023,
+      id: 16522,
       question: 'A dental hygienist is developing cultural competence using a framework that emphasizes five interrelated constructs: cultural awareness, cultural knowledge, cultural skill, cultural encounters, and cultural desire. This framework is BEST represented by which model?',
       options: [
         'Process of Cultural Competence in the Delivery of Healthcare Services Model',
@@ -4958,7 +4969,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 16024,
+      id: 16523,
       question: 'A dental hygienist needs to communicate complex periodontal treatment information to a patient with limited English proficiency. A professional interpreter is arranged for the appointment. Which practice demonstrates appropriate use of the interpreter?',
       options: [
         'Speak in short sentences using first-person speech while facing the patient',
@@ -4969,7 +4980,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 16025,
+      id: 16524,
       question: 'A clinic implements initiatives to address historical injustices, overcome socioeconomic obstacles to healthcare, and eliminate preventable health disparities among underserved populations. These initiatives demonstrate commitment to which concept?',
       options: [
         'Health equity requiring focused efforts to address injustices and obstacles',
@@ -4980,7 +4991,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 16026,
+      id: 16525,
       question: 'A dental hygienist recognizes their inherent status of privilege as a provider, maintains openness to learning from patients, and acknowledges possible personal biases while developing a nonjudgmental stance. These traits BEST characterize which approach?',
       options: [
         'Cultural humility emphasizing ongoing self-awareness and learning from patients',
@@ -4991,7 +5002,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 16027,
+      id: 16526,
       question: 'A patient prefers clear, direct communication, values privacy, makes independent decisions, and expects to be involved in all healthcare choices without family consultation. This communication style reflects characteristics of which cultural orientation?',
       options: [
         'Individualistic culture emphasizing personal autonomy and independence',
@@ -5002,7 +5013,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 16028,
+      id: 16527,
       question: 'A clinic sends all appointment reminders, post-operative instructions, and patient education materials exclusively through email and a patient portal. Some patients report never receiving information. Which inclusive communication principle is being violated?',
       options: [
         'Recognize that some people lack digital access and literacy; offer multiple formats',
@@ -5013,7 +5024,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 16029,
+      id: 16528,
       question: 'A dental hygienist actively seeks opportunities to interact with patients from diverse backgrounds, engaging in face-to-face cross-cultural interactions to improve understanding and skills. This practice demonstrates which construct of cultural competence?',
       options: [
         'Cultural encounters providing direct cross-cultural interactions to develop skills',
@@ -5024,7 +5035,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 16030,
+      id: 16529,
       question: 'During patient education, a dental hygienist notices that a patient consistently avoids direct eye contact. The hygienist knows that eye contact norms vary significantly across cultures. Which response demonstrates cultural sensitivity?',
       options: [
         'Recognize that eye contact norms vary culturally and avoid misinterpreting behavior',
@@ -5035,7 +5046,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 16031,
+      id: 16530,
       question: 'A dental hygienist observes that a patient speaks very softly with a gentle voice quality. The hygienist raises their own voice volume significantly when speaking to the patient. This response demonstrates which cultural communication consideration?',
       options: [
         'Lack of awareness that voice quality preferences vary across cultures',
@@ -5046,7 +5057,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 16032,
+      id: 16531,
       question: 'A dental hygienist studies how systemic racism, healthcare access disparities, and socioeconomic barriers contribute to oral health inequities in underserved communities. This learning addresses which CCEI model construct?',
       options: [
         'Understanding societal inequities affecting health disparities and outcomes',
@@ -5057,7 +5068,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 16033,
+      id: 16532,
       question: 'A patient reports using both regular dental checkups and traditional healing practices from their culture, including herbal remedies for oral discomfort. The patient asks if they should stop traditional practices. Which response demonstrates cultural humility?',
       options: [
         'Assess the traditional practices for safety; encourage if not harmful while providing dental care',
@@ -5068,7 +5079,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 16034,
+      id: 16533,
       question: 'A dental hygienist casually calls an elderly patient by their first name without asking permission. The patient appears uncomfortable but doesn\'t correct the hygienist. Which principle of inclusive communication is being violated?',
       options: [
         'Assess whether patient values formality; use formal address until directed otherwise',
@@ -5079,7 +5090,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 16035,
+      id: 16534,
       question: 'A medical/dental history form includes only two options for gender: male and female. A patient appears uncomfortable completing this section and leaves it blank. Which change would make the form more culturally inclusive?',
       options: [
         'Add gender identity options and include space for preferred pronouns',
@@ -5090,7 +5101,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 16036,
+      id: 16535,
       question: 'A dental hygienist approaches each patient as a unique individual, reflects on personal biases, demonstrates knowledge of patients\' cultural practices, and promotes cultural exchanges contributing to patient-centered care. These actions align with which practice philosophy?',
       options: [
         'Patient-centered care emphasizing individual uniqueness and cultural sensitivity',
@@ -5101,7 +5112,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 16037,
+      id: 16536,
       question: 'During a conversation, a patient remains silent for extended periods before responding to questions. The dental hygienist waits patiently without interrupting or filling the silence. This approach demonstrates understanding of which communication principle?',
       options: [
         'Use of silence varies culturally in frequency, length, and meaning',
@@ -5112,7 +5123,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 16038,
+      id: 16537,
       question: 'A dental hygienist studies the values, beliefs, health practices, and communication styles of various cultural groups commonly encountered in their practice setting. This learning represents which construct of cultural competence?',
       options: [
         'Cultural knowledge seeking information about different cultural worldviews',
@@ -5123,7 +5134,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 16039,
+      id: 16538,
       question: 'A patient\'s entire extended family attends the dental appointment and expects to be included in all treatment discussions and decisions. The dental hygienist initially feels this is unusual but recognizes it as a cultural practice. This recognition demonstrates which cultural competence principle?',
       options: [
         'Understanding that family social organization and involvement varies across cultures',
@@ -5134,7 +5145,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 16040,
+      id: 16539,
       question: 'A dental hygienist provides nutritional counseling to a patient who follows specific dietary restrictions based on religious and cultural practices. The hygienist modifies recommendations to respect these practices while addressing caries risk. This approach demonstrates which patient education principle?',
       options: [
         'Provide nutritional counseling within framework of patient\'s cultural values',
@@ -5145,7 +5156,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 16041,
+      id: 16540,
       question: 'A patient believes their oral disease resulted from an imbalance in mind, body, and spirit rather than bacterial infection. They seek both dental treatment and holistic healing approaches. This patient\'s health perception reflects which cultural belief category?',
       options: [
         'Health as harmony/disharmony with nature, mind, body, or spirit',
@@ -5156,7 +5167,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 16042,
+      id: 16541,
       question: 'A clinic does not have access to trained medical interpreters for a patient\'s language. The dental hygienist considers various alternatives for communication. Which alternative is MOST appropriate when professional interpreters are unavailable?',
       options: [
         'Use electronic translation applications or fluent colleague if available',
@@ -5167,7 +5178,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 16043,
+      id: 16542,
       question: 'A dental hygienist reads about the disproportionate impact of COVID-19 on Black, Latino, Native American, and other underserved communities and recognizes this as part of a pattern of health inequities. This awareness demonstrates understanding of which concept?',
       options: [
         'Health disparities affecting underserved populations through systemic factors',
@@ -5178,7 +5189,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 16044,
+      id: 16543,
       question: 'A dental hygienist uses motivational interviewing techniques and the LEARN model to engage a patient in developing a mutually acceptable treatment plan that considers both evidence-based practice and the patient\'s values. This approach BEST represents which practice model?',
       options: [
         'Shared decision-making incorporating patient values into treatment planning',
@@ -5189,7 +5200,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 16045,
+      id: 16544,
       question: 'A dental hygienist demonstrates genuine motivation to engage in becoming culturally competent, actively seeks cultural encounters, and shows sincere interest in learning about different cultures. This motivation represents which component of the cultural competence process?',
       options: [
         'Cultural desire reflecting genuine motivation to engage in cultural competence',
@@ -5200,7 +5211,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 16046,
+      id: 16545,
       question: 'A dental hygienist documents a patient\'s use of traditional healing practices, the patient\'s preference for family involvement in decisions, and specific cultural beliefs affecting treatment acceptance. This documentation practice demonstrates which legal and ethical responsibility?',
       options: [
         'Recording all relevant cultural information affecting patient care and outcomes',
@@ -5211,7 +5222,7 @@ export const questions = {
       correct: "A"
     },
     {
-      id: 16047,
+      id: 16546,
       question: 'A patient from a culture that traditionally distrusts Western medicine appears hesitant and skeptical during the appointment. The dental hygienist recognizes this may reflect cultural experiences rather than personal rejection. This understanding relates to which cultural assessment consideration?',
       options: [
         'Patient\'s perception of healthcare professionals varies based on cultural experiences',
@@ -5222,7 +5233,7 @@ export const questions = {
       correct: "B"
     },
     {
-      id: 16048,
+      id: 16547,
       question: 'A dental hygienist works to identify and address inequities in their practice, implements changes to create more inclusive environments, and advocates for system-level changes to improve access to care. These actions demonstrate which CCEI model construct?',
       options: [
         'Skills to foster transformation toward equity and inclusion through action',
@@ -5233,7 +5244,7 @@ export const questions = {
       correct: "D"
     },
     {
-      id: 16049,
+      id: 16548,
       question: 'A dental hygienist provides caries prevention education to a patient who follows a vegan diet for religious reasons. The hygienist modifies calcium and protein source recommendations while respecting dietary practices. This approach demonstrates which cultural competence principle?',
       options: [
         'Integrating professional recommendations within patient\'s cultural values and beliefs',
@@ -5244,7 +5255,7 @@ export const questions = {
       correct: "C"
     },
     {
-      id: 16050,
+      id: 16549,
       question: 'After implementing a culturally tailored care plan, a dental hygienist invites the patient to discuss their health practices, level of understanding, and satisfaction with the mutually developed approach. This action represents which phase of the dental hygiene process?',
       options: [
         'Evaluation determining whether health services meet patient\'s culturally based needs',
