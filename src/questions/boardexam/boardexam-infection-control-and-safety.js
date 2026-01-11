@@ -3767,5 +3767,2198 @@ export const questions = {
       ],
       correct: "B"
     }
+  ],
+  "1. Infection Control (Case Study)": [
+    {
+      id: 15377,
+      question: "A dental hygienist is reviewing the basic infection prevention concepts before starting patient care. The primary objective of infection prevention and control in dental healthcare settings focuses on preventing which outcomes?",
+      options: [
+        "Healthcare-associated infections in patients and occupational injuries in personnel",
+        "Cross-contamination of instruments and environmental surface contamination only",
+        "Patient complaints about safety and regulatory compliance violations",
+        "Equipment malfunction and dental material contamination during procedures",
+      ],
+      correct: "A"
+    },
+    {
+      id: 15378,
+      question: "When developing an infection control program, which model should guide the approach to patient safety?",
+      options: [
+        "The model should focus exclusively on reviewing individual patient health histories",
+        "The model should be based on specific procedures rather than patient characteristics",
+        "The model should target only patients with known infectious disease diagnoses",
+        "The model should emphasize universal screening tests for all patients",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15379,
+      question: "Which federal agency develops infection control guidelines and recommendations for healthcare settings but does NOT have regulatory enforcement authority?",
+      options: [
+        "Environmental Protection Agency (EPA) regulating chemical germicides",
+        "Food and Drug Administration (FDA) regulating medical devices",
+        "Centers for Disease Control and Prevention (CDC) developing guidelines",
+        "Occupational Safety and Health Administration (OSHA) enforcing workplace safety",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15380,
+      question: "The FDA's regulatory mission includes overseeing which aspects of infection control in dental settings?",
+      options: [
+        "Developing evidence-based guidelines for sterilization procedures only",
+        "Regulating medical devices, ensuring product safety and effectiveness",
+        "Enforcing workplace safety regulations for healthcare personnel",
+        "Establishing drinking water quality standards for dental units",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15381,
+      question: "During dental procedures, which of the following represents a potential route of pathogen transmission?",
+      options: [
+        "Contact with properly sterilized instruments stored in sealed packages",
+        "Exposure to municipal water meeting EPA drinking water standards",
+        "Direct contact with blood, oral fluids, or contaminated surfaces",
+        "Breathing air in properly ventilated treatment rooms with HEPA filters",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15382,
+      question: "For disease transmission to occur through the chain of infection, all of the following conditions must be present EXCEPT:",
+      options: [
+        "A pathogenic organism of sufficient virulence in adequate numbers",
+        "A mode of transmission from the source to the host",
+        "A previous documented exposure to the same pathogen",
+        "A portal of entry through which the pathogen enters the host",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15383,
+      question: "According to CDC guidelines, which represents one of the four fundamental principles of infection prevention and control?",
+      options: [
+        "Take action to stay healthy through immunizations and health programs",
+        "Limit patient appointments to reduce overall infection exposure risks",
+        "Screen all patients for infectious diseases before providing care",
+        "Restrict treatment of immunocompromised patients to hospital settings",
+      ],
+      correct: "A"
+    },
+    {
+      id: 15384,
+      question: "Which vaccine series is OSHA-required for dental healthcare personnel at risk of blood exposure?",
+      options: [
+        "Annual influenza vaccine to prevent seasonal respiratory infections",
+        "Hepatitis B vaccine series unless documentation of immunity exists",
+        "Measles, mumps, rubella (MMR) vaccine for healthcare workers",
+        "Tetanus-diphtheria (Td) booster every 10 years as recommended",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15385,
+      question: "After completing the hepatitis B vaccine series, when should anti-HBs testing occur to verify immunity?",
+      options: [
+        "Immediately before receiving the first dose of the vaccine series",
+        "Between the second and third doses to monitor response",
+        "One to two months after completion of the third dose",
+        "Annually to ensure continued protection against hepatitis B",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15386,
+      question: "A dental healthcare professional with an active upper respiratory infection should:",
+      options: [
+        "Continue working with routine personal protective equipment (PPE) precautions",
+        "Avoid contact with medically compromised patients as defined by ACIP",
+        "Wear only a surgical mask while treating all scheduled patients",
+        "Request reassignment to administrative duties for the entire month",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15387,
+      question: "Which engineering control would MOST effectively prevent injuries from contaminated dental instruments?",
+      options: [
+        "Using automated ultrasonic cleaners for decontaminating used instruments",
+        "Wearing heavy-duty utility gloves when handling all dental instruments",
+        "Implementing strict hand hygiene protocols before and after procedures",
+        "Posting warning signs in the sterilization area about sharp instruments",
+      ],
+      correct: "A"
+    },
+    {
+      id: 15388,
+      question: "An anesthetic syringe with a retractable needle or shielding mechanism represents which type of control measure?",
+      options: [
+        "Administrative control measure requiring policy changes and staff training",
+        "Engineering control measure designed to eliminate or reduce hazards",
+        "Work practice control measure altering how procedures are performed",
+        "Personal protective equipment providing barriers against blood exposure",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15389,
+      question: "According to infection control standards, the appropriate method for recapping used anesthetic needles is:",
+      options: [
+        "Using a two-handed technique to ensure proper needle coverage",
+        "Having an assistant hold the cap while the clinician recaps",
+        "Using a one-handed scoop technique or an engineering control device",
+        "Placing needles directly into the sharps container without recapping",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15390,
+      question: "Which work practice control reduces the likelihood of exposure to bloodborne pathogens during instrumentation?",
+      options: [
+        "Using cotton gauze wrapped around a finger to wipe instruments",
+        "Passing instruments directly hand-to-hand between dental team members",
+        "Using a stabilized sponge or cotton rolls to debride instruments",
+        "Maintaining instruments in the oral cavity for extended periods",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15391,
+      question: "For procedures that generate spray or droplets of blood or saliva, such as ultrasonic scaling, which PPE is required?",
+      options: [
+        "Gloves only, as saliva is not considered potentially infectious",
+        "Mask, protective eyewear, gloves, and protective gown or lab coat",
+        "Heavy-duty utility gloves and safety glasses for splash protection",
+        "Disposable gown and examination gloves without face protection",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15392,
+      question: "Which eye protection meets CDC and OSHA standards for dental healthcare settings?",
+      options: [
+        "Prescription eyeglasses without side shields or protective features",
+        "Contact lenses worn alone to protect eyes from contamination",
+        "Goggles, glasses with solid side shields, or face shields",
+        "Reading glasses with anti-glare coating for improved visibility",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15393,
+      question: "According to ASTM ratings recognized by the FDA, which level mask should be used for dental hygiene procedures with potential blood splatter?",
+      options: [
+        "Level 1 masks provide adequate protection for all dental procedures",
+        "Level 2 or 3 masks should be used for procedures producing splatter",
+        "Any mask meeting basic fluid resistance standards is acceptable",
+        "Mask level is irrelevant as long as barriers are changed between patients",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15394,
+      question: "When performing aerosol-generating procedures on patients with suspected airborne infections, which respiratory protection is recommended?",
+      options: [
+        "Standard surgical masks meeting Level 1 ASTM standards",
+        "Cloth face coverings with multiple layers of fabric material",
+        "NIOSH-approved N95 respirators or higher-level equivalents",
+        "Face shields worn alone without additional respiratory protection",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15395,
+      question: "Which protective clothing provides adequate barrier protection during routine dental hygiene procedures?",
+      options: [
+        "Scrubs worn alone without additional protective outer garments",
+        "A long-sleeved lab coat worn over scrubs or street clothes",
+        "Short-sleeved disposable gowns for all non-surgical procedures",
+        "Street clothes with a disposable bib or apron covering the front",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15396,
+      question: "According to OSHA regulations, who is responsible for arranging laundering of reusable protective clothing?",
+      options: [
+        "Employees must launder protective clothing at home using bleach",
+        "A professional laundry service selected and paid by employees",
+        "The employer must arrange and pay for proper laundering",
+        "Either employer or employee depending on the practice policy",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15397,
+      question: "A dental healthcare professional experiencing allergic reactions to glove materials should:",
+      options: [
+        "Continue using the same gloves while applying hand lotion more frequently",
+        "Consult with a qualified healthcare professional for accurate diagnosis and treatment",
+        "Immediately stop performing patient care until all symptoms completely resolve",
+        "Switch to wearing gloves inside-out to reduce exposure to allergens",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15398,
+      question: "Which statement about hand hygiene in dental settings is MOST accurate?",
+      options: [
+        "Hand hygiene with soap and water is required even when using alcohol-based hand rubs",
+        "Alcohol-based hand rubs are preferred over soap and water when hands are not visibly soiled",
+        "Rings and hand jewelry should be rotated regularly but may remain in place during hand hygiene",
+        "Artificial fingernails are acceptable if kept shorter than 1/4 inch and cleaned thoroughly",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15399,
+      question: "For surgical procedures, the appropriate hand hygiene method includes:",
+      options: [
+        "Routine handwash with plain soap and water for 15 seconds",
+        "Antiseptic handrub with alcohol-based product until hands are dry",
+        "Surgical antisepsis of hands and forearms for 2 to 6 minutes",
+        "Standard handwash followed by donning sterile gloves immediately",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15400,
+      question: "Which practice helps maintain skin integrity despite frequent hand hygiene procedures?",
+      options: [
+        "Using hot water to ensure thorough removal of microorganisms",
+        "Wearing powdered gloves to absorb moisture and keep hands dry",
+        "Thoroughly drying hands after washing and before donning gloves",
+        "Limiting hand lotion use as it can interfere with glove integrity",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15401,
+      question: "Critical instruments that penetrate soft tissue or bone require which level of processing between patients?",
+      options: [
+        "Cleaning with soap and water followed by intermediate-level disinfection",
+        "Heat sterilization using autoclaves or acceptable equivalent methods",
+        "High-level disinfection using EPA-registered chemical sterilants",
+        "Barrier protection with single-use plastic sheaths changed between patients",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15402,
+      question: "Which instrument classification accurately describes mouth mirrors and impression trays?",
+      options: [
+        "Critical instruments requiring sterilization because they penetrate soft tissue",
+        "Semicritical instruments contacting mucous membranes requiring sterilization",
+        "Noncritical instruments contacting intact skin requiring only low-level disinfection",
+        "Disposable instruments that must be discarded after single patient use",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15403,
+      question: "The instrument reprocessing workflow should follow which directional pattern to prevent cross-contamination?",
+      options: [
+        "Bidirectional flow allowing staff to move between dirty and clean areas freely",
+        "One-directional flow from receiving through cleaning, packaging, sterilization, and storage",
+        "Circular flow pattern with soiled and sterile instruments processed in same space",
+        "Random flow pattern as long as staff wear appropriate personal protective equipment",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15404,
+      question: "Used contaminated instruments should be transported in which type of container?",
+      options: [
+        "An open instrument tray covered with a disposable paper towel",
+        "A clear plastic bag sealed and hand-carried by staff member",
+        "A solid-sided container labeled with the universal biohazard symbol",
+        "The same sterile pouches used for storing sterilized instruments",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15405,
+      question: "Before instrument sterilization, instruments heavily soiled with blood or organic material should be:",
+      options: [
+        "Placed directly into the steam autoclave for extended sterilization cycles",
+        "Pretreated with an enzyme-containing presoak or prespray product",
+        "Wiped with alcohol-based disinfectant and immediately sterilized",
+        "Stored dry until the end of the day for batch processing",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15406,
+      question: "Which instrument cleaning method provides superior cleaning compared to hand scrubbing?",
+      options: [
+        "Wiping instruments with gauze sponges soaked in disinfectant solution",
+        "Manual scrubbing with brushes under running water with detergent",
+        "Automated devices such as ultrasonic cleaners or instrument washers",
+        "Soaking instruments overnight in cold chemical sterilant solutions",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15407,
+      question: "When using a dynamic air removal steam sterilizer, which test should be performed at the beginning of each day?",
+      options: [
+        "Bowie-Dick air removal test to ensure all air is evacuated from the chamber",
+        "Chemical indicator strip test placed inside every instrument package",
+        "Biological indicator spore test to verify destruction of resistant organisms",
+        "Temperature monitoring test using external thermometer devices",
+      ],
+      correct: "A"
+    },
+    {
+      id: 15408,
+      question: "When loading paper/plastic pouches in a steam sterilizer, the pouches should be positioned:",
+      options: [
+        "Stacked flat in multiple layers to maximize sterilizer capacity",
+        "Placed on their sides with paper facing plastic of adjacent pouches",
+        "Arranged vertically standing upright to promote drainage",
+        "Overlapped to ensure efficient use of available chamber space",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15409,
+      question: "A dynamic air removal sterilizer offers which advantage compared to gravity displacement sterilizers?",
+      options: [
+        "Longer sterilization cycles ensuring complete destruction of all organisms",
+        "Lower temperatures that prevent damage to heat-sensitive materials",
+        "Better steam penetration into lumens with shorter sterilization cycles",
+        "Elimination of the need for daily air removal testing",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15410,
+      question: "According to CDC recommendations, biological indicator spore testing of sterilizers should be performed:",
+      options: [
+        "Only when the sterilizer malfunctions or produces incomplete sterilization results",
+        "At least weekly and with every load containing implantable devices",
+        "Monthly during routine practice operations and quarterly during slow periods",
+        "Daily at the beginning and end of each clinical day for all sterilizers",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15411,
+      question: "Chemical indicators on sterilization pouches indicate:",
+      options: [
+        "Complete sterilization and destruction of all viable organisms including spores",
+        "Exposure to certain parameters such as heat or steam during processing",
+        "The instruments inside are safe for immediate patient use without concerns",
+        "Biological indicators are unnecessary if chemical indicators show proper color change",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15412,
+      question: "Which method provides the highest level of sterility assurance for instrument reprocessing?",
+      options: [
+        "Chemical indicators showing proper color change on sterilization pouches",
+        "Mechanical indicators displaying correct temperature and pressure readings",
+        "Biological indicators confirming destruction of highly resistant bacterial spores",
+        "Visual inspection of instrument packages for tears or moisture contamination",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15413,
+      question: "Geobacillus stearothermophilus spores are the standard biological indicator organism for monitoring which sterilization methods?",
+      options: [
+        "Dry heat sterilization using high temperatures and extended cycle times",
+        "Steam and chemical vapor sterilization in healthcare facilities",
+        "Ethylene oxide gas sterilization for heat-sensitive instruments",
+        "Cold chemical sterilization using liquid glutaraldehyde solutions",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15414,
+      question: "For nonsurgical dental procedures, the CDC recommends that dental unit water should meet which standard?",
+      options: [
+        "Sterile water quality with zero colony-forming units per milliliter",
+        "Distilled water quality equivalent to water used in laboratories",
+        "Drinking water standards with ≤500 CFU/mL heterotrophic bacteria",
+        "Tap water quality as supplied by municipal water treatment facilities",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15415,
+      question: "Which approach helps achieve CDC-recommended water quality for routine dental procedures?",
+      options: [
+        "Using municipal tap water alone in self-contained dental unit water reservoirs",
+        "Filling independent water reservoirs with sterile water without additional treatment",
+        "Combining independent water reservoirs with chemical treatment or filtration systems",
+        "Flushing waterlines for 20-30 seconds at the beginning of the day only",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15416,
+      question: "During oral surgical procedures, which type of irrigant should be used for cooling and irrigation?",
+      options: [
+        "Treated dental unit water meeting drinking water quality standards",
+        "Sterile solutions delivered through sterile single-use devices",
+        "Distilled water from the dental unit's independent water reservoir",
+        "Tap water that has been filtered through a 0.2 micron filter",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15417,
+      question: "Chemical treatment products for dental unit waterlines are regulated by which agencies?",
+      options: [
+        "Continuous treatment products by FDA and intermittent treatment products by EPA",
+        "All waterline treatment products by EPA as environmental disinfectants",
+        "All waterline treatment products by FDA as medical devices",
+        "Continuous treatment by EPA and intermittent treatment by CDC",
+      ],
+      correct: "A"
+    },
+    {
+      id: 15418,
+      question: "Clinical contact surfaces contaminated during patient care should be:",
+      options: [
+        "Cleaned with soap and water only if visibly soiled with blood",
+        "Covered with barriers changed between patients or cleaned and disinfected",
+        "Cleaned weekly using EPA-registered low-level disinfectants",
+        "Left untreated if the patient has no known infectious diseases",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15419,
+      question: "Surfaces with visible blood or other potentially infectious materials should be cleaned and disinfected with:",
+      options: [
+        "Soap and water followed by thorough drying with paper towels",
+        "Alcohol-based hand sanitizer applied directly to contaminated surfaces",
+        "EPA-registered hospital disinfectant with a tuberculocidal claim (intermediate-level)",
+        "Diluted household bleach solutions prepared weekly and stored in spray bottles",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15420,
+      question: "Which personal protective equipment should be worn during environmental surface cleaning and disinfection?",
+      options: [
+        "Examination gloves provide adequate protection for all surface disinfection tasks",
+        "Chemical and puncture-resistant utility gloves with additional PPE as needed",
+        "No gloves are necessary when using EPA-registered disinfectants",
+        "Sterile surgical gloves to prevent contamination of disinfected surfaces",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15421,
+      question: "Which surfaces are appropriate candidates for protection with impervious surface barriers?",
+      options: [
+        "Operatory floors and walls that are easy to clean and disinfect thoroughly",
+        "Dental unit light handles, chair controls, and difficult-to-clean switches",
+        "Countertops and flat surfaces that can be easily wiped with disinfectant",
+        "Instrument cassettes and trays used to organize dental instruments",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15422,
+      question: "Immediately after a percutaneous injury with a contaminated instrument, the hygienist should:",
+      options: [
+        "Apply pressure to the wound to prevent bleeding and potential contamination",
+        "Wash the area with soap and water or flush with saline or sterile irrigants",
+        "Apply household bleach directly to the wound to kill bloodborne pathogens",
+        "Squeeze or \"milk\" the wound to express blood and remove contaminants",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15423,
+      question: "According to postexposure management protocols, the exposed employee should:",
+      options: [
+        "Wait 24 hours to see if symptoms develop before seeking medical evaluation",
+        "Complete an incident report within 7 days and schedule routine followup",
+        "Receive immediate referral to a qualified healthcare professional for evaluation",
+        "Monitor the exposure site for 30 days before determining need for testing",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15424,
+      question: "For an unvaccinated healthcare worker exposed to blood from an HBV-positive source, postexposure management should include:",
+      options: [
+        "Immediate vaccination with hepatitis B vaccine series with no additional prophylaxis needed",
+        "Hepatitis B immune globulin administration and initiation of HBV vaccine series",
+        "Wait-and-see approach with monthly monitoring for 6 months post-exposure",
+        "Administration of broad-spectrum antibiotics to prevent HBV infection",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15425,
+      question: "A previously vaccinated healthcare worker with documented immunity to HBV who is exposed to HBsAg-positive blood requires:",
+      options: [
+        "Immediate administration of hepatitis B immune globulin and revaccination",
+        "A booster dose of hepatitis B vaccine within 24 hours of exposure",
+        "No postexposure prophylaxis because of existing documented immunity",
+        "Anti-HBs titer testing every week for one month after exposure",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15426,
+      question: "When should HIV postexposure prophylaxis (PEP) be initiated following occupational exposure?",
+      options: [
+        "Within 2 hours of exposure for maximum effectiveness against HIV infection",
+        "Within 72 hours after confirming the source patient's HIV-positive status",
+        "After baseline HIV testing confirms the exposed worker is HIV-negative",
+        "Only if the exposed healthcare worker develops flu-like symptoms",
+      ],
+      correct: "A"
+    },
+    {
+      id: 15427,
+      question: "A written postexposure management program must include which essential component?",
+      options: [
+        "Annual training for all staff on proper techniques for recapping needles",
+        "Procedures for prompt reporting, evaluation, counseling, and followup",
+        "Requirement that all employees receive monthly bloodborne pathogen testing",
+        "Protocols for immediate termination of patients with known infectious diseases",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15428,
+      question: "The average risk of HIV infection following a percutaneous exposure to HIV-infected blood is approximately:",
+      options: [
+        "Less than 0.3%, which is relatively low but requires postexposure management",
+        "6-30%, depending on the viral load and depth of injury",
+        "1.8%, similar to the risk of hepatitis C transmission",
+        "50% without immediate postexposure prophylaxis within 2 hours",
+      ],
+      correct: "A"
+    },
+    {
+      id: 15429,
+      question: "There is no vaccine for hepatitis C. After exposure to HCV-positive blood, which management is appropriate?",
+      options: [
+        "Administration of hepatitis C immune globulin within 24 hours of exposure",
+        "Immediate antiviral prophylaxis with interferon and ribavirin combination therapy",
+        "Testing of source patient and exposed worker with followup HCV RNA testing",
+        "No followup is necessary as HCV is not transmitted through needlestick injuries",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15430,
+      question: "Standard Precautions apply to which substances during patient care?",
+      options: [
+        "Blood only, as other body fluids have low infectivity potential",
+        "Blood and other body fluids, secretions, and excretions except sweat",
+        "Blood and saliva only, as these are the primary fluids in dentistry",
+        "All patient body fluids including sweat and tears during dental procedures",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15431,
+      question: "A patient with a history of tuberculosis treatment should be:",
+      options: [
+        "Treated using only standard precautions with routine personal protective equipment",
+        "Evaluated away from other patients and assessed for current TB infectiousness",
+        "Referred immediately to a hospital for all dental treatment permanently",
+        "Treated with windows open and fans running to dilute airborne organisms",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15432,
+      question: "These symptoms may indicate tuberculosis infection. The hygienist should:",
+      options: [
+        "Proceed with scheduled treatment using an N95 respirator only",
+        "Ask the patient to cover their mouth with tissues during treatment",
+        "Defer elective treatment and refer patient to physician for medical evaluation",
+        "Provide treatment as scheduled because TB cannot spread during dental care",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15433,
+      question: "Transmission-based precautions in dental settings are indicated for diseases transmitted by which routes?",
+      options: [
+        "Only bloodborne routes through percutaneous injuries with sharp instruments",
+        "Airborne, droplet, or contact routes when standard precautions are insufficient",
+        "Foodborne routes through contaminated water in dental unit waterlines",
+        "Vector-borne routes through insects in the dental office environment",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15434,
+      question: "A patient with acute influenza should:",
+      options: [
+        "Be treated in a typical outpatient dental office with standard precautions only",
+        "Not seek routine dental care while infectious and postpone elective treatment",
+        "Wear a cloth face covering and receive treatment as normally scheduled",
+        "Be treated first each day before the office becomes contaminated",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15435,
+      question: "Which individual should be designated as the infection prevention coordinator in a dental practice?",
+      options: [
+        "The office receptionist who manages appointment scheduling",
+        "The newest employee who recently completed infection control training",
+        "A designated person or committee responsible for implementing the program",
+        "The dental equipment sales representative providing sterilization equipment",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15436,
+      question: "Demonstrating a culture of safety in a dental practice includes:",
+      options: [
+        "Hiding infection control procedures from patients to avoid causing anxiety",
+        "Explaining infection prevention practices to patients and answering questions",
+        "Performing infection control only when treating patients with known infections",
+        "Limiting infection control education to annual mandatory training sessions",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15437,
+      question: "OSHA requires employers to offer hepatitis B vaccination under which circumstances?",
+      options: [
+        "Only to employees who specifically request vaccination and complete consent forms",
+        "To all personnel at risk of blood exposure unless verification of immunity exists",
+        "Exclusively to dental hygienists and dentists who provide direct patient care",
+        "Only after an employee experiences an occupational exposure to blood",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15438,
+      question: "If an employee initially declined HBV vaccination but later decides to accept it, the employer must:",
+      options: [
+        "Require the employee to pay for the vaccine series if declining the initial offer",
+        "Make the HBV vaccination available at no cost to the employee at that time",
+        "Wait until the next annual open enrollment period to offer vaccination again",
+        "Document that the employee forfeited their right to vaccination by declining initially",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15439,
+      question: "To maintain hand health while performing frequent hand hygiene, the healthcare worker should:",
+      options: [
+        "Use hot water when washing hands to ensure thorough microbial removal",
+        "Skip hand hygiene between some patients to allow skin to recover",
+        "Use cool water, thoroughly dry hands, and frequently apply hand lotion",
+        "Wear gloves continuously throughout the day without removing them",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15440,
+      question: "According to CDC hand hygiene recommendations, jewelry and rings should be:",
+      options: [
+        "Cleaned with alcohol-based hand rub before donning gloves for each patient",
+        "Removed before performing hand hygiene procedures in healthcare settings",
+        "Rotated to different fingers weekly to allow thorough cleaning underneath",
+        "Covered with gloves making removal unnecessary during patient care",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15441,
+      question: "Healthcare personnel performing direct patient care should:",
+      options: [
+        "Keep artificial fingernails trimmed to less than 1/4 inch beyond the fingertip",
+        "Not wear artificial fingernails or extenders when having direct patient contact",
+        "Clean artificial fingernails with a nailbrush for 2 minutes before each patient",
+        "Wear double gloves when artificial fingernails or nail extenders are present",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15442,
+      question: "Which technique reduces the amount of aerosol and spatter during dental hygiene procedures?",
+      options: [
+        "Using low-speed suction or no suction while spraying with an air-water syringe",
+        "Using high-speed evacuation while operating ultrasonic scalers and handpieces",
+        "Positioning the patient in a fully upright position during aerosol-generating procedures",
+        "Aiming the air-water syringe directly at the oral tissues at maximum pressure",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15443,
+      question: "Creating a neutral zone for passing sharps between dental team members serves which purpose?",
+      options: [
+        "Providing a location to store instruments during the procedure for easy access",
+        "Avoiding direct hand-to-hand passing of sharps between healthcare personnel",
+        "Designating an area for disposing of single-use items during treatment",
+        "Establishing a location for placing sterile instruments before use",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15444,
+      question: "Bacillus pumilus spores are the most resistant organisms used to test which sterilization method?",
+      options: [
+        "Steam autoclave sterilization in gravity or dynamic air removal sterilizers",
+        "Unsaturated chemical vapor sterilization using formaldehyde-based vapors",
+        "Dry heat sterilization at high temperatures for extended time periods",
+        "Ethylene oxide gas sterilization for heat-sensitive instruments and materials",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15445,
+      question: "Used anesthetic needles and scalpel blades should be disposed in which type of container?",
+      options: [
+        "Regular waste containers lined with red biohazard bags",
+        "Rigid, puncture-resistant sharps containers properly labeled",
+        "Sealable plastic bags designated for biohazardous waste",
+        "Cardboard boxes labeled with the universal biohazard symbol",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15446,
+      question: "While wearing contaminated gloves during treatment, the hygienist should:",
+      options: [
+        "Remove gloves, adjust the light, perform hand hygiene, and reglove before continuing",
+        "Use a surface barrier on the light handle or remove gloves before touching it",
+        "Continue using contaminated gloves as the light will be disinfected later",
+        "Ask another team member to touch all surfaces while maintaining contaminated gloves",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15447,
+      question: "Medical examination gloves for nonsurgical dental procedures should be:",
+      options: [
+        "Sterile gloves individually packaged in sized pairs for proper fit",
+        "Nonsterile gloves available in various sizes and materials",
+        "Heavy-duty utility gloves that are puncture-resistant",
+        "Single-size ambidextrous gloves made exclusively from latex",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15448,
+      question: "Upon discovering a torn, cut, or punctured glove during patient treatment, the hygienist should:",
+      options: [
+        "Continue the procedure and change gloves at the next convenient stopping point",
+        "Cover the tear with tape or a finger cot and continue treatment",
+        "Immediately remove the gloves, wash hands, and reglove before continuing",
+        "Switch the torn glove to the non-dominant hand where there is less contact",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15449,
+      question: "Sterile surgeon's gloves are specifically indicated for which dental procedures?",
+      options: [
+        "All dental hygiene procedures including examination and scaling",
+        "Oral surgical procedures such as periodontal surgery and tooth extractions",
+        "Any procedure involving contact with blood, saliva, or mucous membranes",
+        "Routine prophylaxis, sealant placement, and fluoride application",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15450,
+      question: "When using a gravity displacement autoclave compared to dynamic air removal, sterilization cycles are typically:",
+      options: [
+        "Shorter because gravity efficiently removes all air from the chamber",
+        "The same length as dynamic air removal for all instrument types",
+        "Longer because gravity displacement is less efficient at removing air",
+        "Unnecessary because gravity displacement does not require sterilization time",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15451,
+      question: "Records of biological indicator spore testing results should be:",
+      options: [
+        "Discarded immediately after verifying negative results",
+        "Maintained according to state regulations and practice policy",
+        "Kept for only 30 days before being destroyed",
+        "Sent to the CDC for national infection control surveillance",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15452,
+      question: "High-level disinfectants are indicated for semicritical items that:",
+      options: [
+        "Can be heat sterilized but the practice prefers using chemicals",
+        "Contact intact skin but not mucous membranes during use",
+        "Contact mucous membranes but cannot be heat sterilized",
+        "Penetrate soft tissue and require sterilization between uses",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15453,
+      question: "When treating a patient known to have hepatitis B infection, the dental hygienist should:",
+      options: [
+        "Refer the patient to a specialist hospital for all dental treatment",
+        "Use standard precautions the same as for all other patients",
+        "Wear double gloves and use dedicated instruments for this patient only",
+        "Schedule this patient at the end of the day to perform terminal disinfection",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15454,
+      question: "During epidemics or pandemics involving airborne diseases, dental healthcare personnel should:",
+      options: [
+        "Continue routine practice operations using only standard precautions",
+        "Follow public health guidelines and implement transmission-based precautions",
+        "Close the practice until public health declares the outbreak is completely over",
+        "Treat only emergency patients with known exposure to infectious diseases",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15455,
+      question: "Used impression trays and impression materials contaminated with blood or saliva should be:",
+      options: [
+        "Rinsed with water and stored in a plastic bag until the case returns",
+        "Cleaned, disinfected following manufacturer's recommendations, and dried",
+        "Wrapped in gauze moistened with disinfectant for transport to the laboratory",
+        "Sprayed with alcohol-based disinfectant and sent immediately to the laboratory",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15456,
+      question: "To reduce disease transmission during epidemic respiratory illness outbreaks, patients should be instructed to:",
+      options: [
+        "Reschedule appointments if they have symptoms of respiratory infection",
+        "Take prophylactic antibiotics before dental appointments during flu season",
+        "Wear examination gloves to prevent spreading germs by hand contact",
+        "Remove face masks upon entering the office to allow normal breathing",
+      ],
+      correct: "A"
+    },
+    {
+      id: 15457,
+      question: "Digital radiography sensors that cannot be heat sterilized or subjected to high-level disinfection should be:",
+      options: [
+        "Cleaned with soap and water and used immediately on the next patient",
+        "Protected with barriers changed for each patient and underlying surfaces cleaned if exposed",
+        "Soaked in intermediate-level disinfectant for 10 minutes between patients",
+        "Dedicated to individual patients and not used on multiple patients in one day",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15458,
+      question: "Chemical indicators should be placed:",
+      options: [
+        "Only on the outside of packages where they can be easily visualized",
+        "Inside every packet with external indicators if internal indicator not visible",
+        "Exclusively in weekly biological indicator test packs for monitoring",
+        "On the outside of alternating packages to reduce supply costs",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15459,
+      question: "When explaining infection control to patients, the hygienist should emphasize that these practices:",
+      options: [
+        "Are required by law but provide minimal actual protection against disease",
+        "Protect both patients and dental healthcare personnel from disease transmission",
+        "Are only necessary when treating patients with known infectious diseases",
+        "Focus primarily on protecting the dental team rather than patients",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15460,
+      question: "High-speed suction disposable tips should be:",
+      options: [
+        "Changed weekly or when visibly soiled with debris or blood",
+        "Changed for each patient to prevent cross-contamination",
+        "Cleaned and disinfected between patients and changed monthly",
+        "Used for an entire day and disposed of at day's end",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15461,
+      question: "After removing instrument packs from the sterilizer, sterile packs should be:",
+      options: [
+        "Used immediately while still warm to prevent recontamination",
+        "Stored in a dry area away from contamination until needed",
+        "Placed in the refrigerator to cool down before storage",
+        "Unwrapped to allow air circulation and prevent moisture buildup",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15462,
+      question: "Ultrasonic scalers with independent water reservoirs used for nonsurgical procedures should use water that:",
+      options: [
+        "Meets sterile water standards with zero microorganisms present",
+        "Comes directly from municipal tap water without treatment",
+        "Meets drinking water standards with appropriate biofilm control",
+        "Has been boiled for 10 minutes and cooled before use",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15463,
+      question: "Dental handpieces should be:",
+      options: [
+        "Wiped with intermediate-level disinfectant and covered with barriers",
+        "Heat sterilized between patients according to manufacturer's instructions",
+        "Flushed with water and alcohol for 30 seconds between patients",
+        "Cleaned with soap and water and allowed to air dry overnight",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15464,
+      question: "During instrument cleaning and processing until removal of sterile packs from the sterilizer, staff should wear:",
+      options: [
+        "Examination gloves only, as instruments are being cleaned",
+        "Heavy-duty gloves, face protection, and protective gown or lab coat",
+        "Sterile surgical gloves to prevent contaminating cleaned instruments",
+        "No gloves during cleaning since instruments will be sterilized",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15465,
+      question: "After mucous membrane exposure to potentially infectious saliva, the exposed area should be:",
+      options: [
+        "Vigorously rubbed with gauze to remove contaminants",
+        "Flushed immediately with clean water, saline, or sterile irrigants",
+        "Treated with antiseptic eye drops to kill microorganisms",
+        "Left alone as tears will naturally flush the contaminants",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15466,
+      question: "Paper patient bibs, gauze, and cotton rolls contaminated with saliva should be disposed of in:",
+      options: [
+        "Regulated medical waste containers designated for infectious waste",
+        "Sharps containers to prevent potential exposure to bloodborne pathogens",
+        "Regular trash as they are not considered regulated medical waste",
+        "Recycling containers after disinfection to promote environmental sustainability",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15467,
+      question: "The CDC provides which tool for dental practices to assess compliance with infection prevention recommendations?",
+      options: [
+        "Annual survey conducted by CDC inspectors visiting dental offices",
+        "Online certification examination testing knowledge of infection control",
+        "Infection Prevention Checklist for Dental Settings for self-assessment",
+        "Mandatory reporting system for all infection control breaches",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15468,
+      question: "Diluted bleach solutions for environmental surface disinfection should be:",
+      options: [
+        "Prepared annually and stored in sealed containers away from light",
+        "Purchased premixed and stored according to manufacturer's expiration dates",
+        "Prepared daily or according to manufacturer's recommendations for diluted solutions",
+        "Mixed at any concentration as bleach is effective at all dilutions",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15469,
+      question: "During a boil-water advisory affecting municipal water supplies, a dental practice should:",
+      options: [
+        "Continue using tap water for patient care as dental equipment sterilizes water",
+        "Use only water from self-contained reservoirs or bottled water for patient care",
+        "Close the practice until the advisory is lifted by public health authorities",
+        "Boil water for exactly 1 minute and use immediately while still hot",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15470,
+      question: "The infection control model differs from traditional patient care models because it focuses primarily on:",
+      options: [
+        "Individual patient health history and documented infectious disease status",
+        "Tasks and procedures to protect both patients and providers",
+        "Treating only patients with verified negative infectious disease testing",
+        "Cost-effectiveness of infection control supplies and equipment",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15471,
+      question: "Housekeeping surfaces such as floors, walls, and sinks should be:",
+      options: [
+        "Cleaned with soap and water or disinfected if visibly contaminated with blood",
+        "Disinfected with tuberculocidal disinfectants after every patient regardless of contamination",
+        "Sterilized using autoclaves or chemical sterilants on a weekly basis",
+        "Covered with impervious barriers that are changed between each patient",
+      ],
+      correct: "A"
+    },
+    {
+      id: 15472,
+      question: "Instrument packs that are wet or show moisture after the sterilization cycle should be:",
+      options: [
+        "Used immediately before moisture allows microbial growth",
+        "Considered contaminated and reprocessed before use",
+        "Air-dried for 24 hours and then stored with other sterile packs",
+        "Wiped with sterile towels to remove moisture before storage",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15473,
+      question: "Protective gowns or lab coats contaminated during patient care should be:",
+      options: [
+        "Removed and laundered at home using hot water and household bleach",
+        "Worn throughout the day and removed only at the end of clinical hours",
+        "Removed before leaving the work area and laundered by employer",
+        "Worn continuously including during lunch breaks and when running errands",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15474,
+      question: "If a sterilizer malfunctions or biological indicator testing shows sterilization failure, the practice should:",
+      options: [
+        "Continue using the sterilizer until it can be serviced at the next scheduled maintenance",
+        "Recall instruments from the affected load and reprocess before use on patients",
+        "Increase sterilization time to compensate for the malfunction",
+        "Use only chemical indicators instead of biological monitoring until repaired",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15475,
+      question: "The majority of occupational exposures to bloodborne pathogens in dental settings occur through:",
+      options: [
+        "Splash exposure to mucous membranes of the eyes, nose, or mouth",
+        "Needlestick or other percutaneous injuries with contaminated sharp devices",
+        "Contact with nonintact skin during provision of patient care",
+        "Inhalation of aerosols generated during dental procedures",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15476,
+      question: "According to OSHA, which type of control is MOST effective in reducing workplace injury risk?",
+      options: [
+        "Administrative controls such as written policies and staff training programs",
+        "Engineering controls such as devices that eliminate or remove hazards",
+        "Work practice controls altering the way tasks or procedures are performed",
+        "Personal protective equipment providing barriers between worker and hazard",
+      ],
+      correct: "B"
+    }
+  ],
+  "2. Medical Emergencies in Dentistry (Case Study)": [
+    {
+      id: 15477,
+      question: "Which factor has contributed to the increased likelihood of medical emergencies in dental settings?",
+      options: [
+        "Decreased number of medically compromised individuals seeking dental care",
+        "Increased number of invasive procedures and longer appointment times",
+        "Reduced use of local anesthetics and sedatives in dental practice",
+        "Decreased availability of emergency drugs and equipment in offices",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15478,
+      question: "All oral healthcare personnel should maintain current certification in which level of emergency training?",
+      options: [
+        "Advanced Cardiac Life Support (ACLS) appropriate for hospital settings",
+        "Basic Life Support (BLS) appropriate for their practice environment",
+        "Pediatric Advanced Life Support (PALS) for treating children only",
+        "Emergency Medical Technician (EMT) certification for advanced interventions",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15479,
+      question: "Emergency contact information that should be posted includes all of the following EXCEPT:",
+      options: [
+        "Local emergency medical services (EMS) number and poison control center",
+        "Office address with room numbers for directing emergency personnel",
+        "Personal cell phone numbers of all staff members' family contacts",
+        "Local police and fire department telephone numbers for emergencies",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15480,
+      question: "At minimum, the basic emergency drug kit should include which combination of medications?",
+      options: [
+        "Antibiotics, antivirals, antifungals, and sterile water for injections",
+        "Epinephrine, histamine blocker, nitroglycerin, bronchodilator, and aspirin",
+        "Narcotic analgesics, muscle relaxants, anti-anxiety drugs, and sedatives",
+        "Antihypertensives, diuretics, anticoagulants, and cardiac glycosides",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15481,
+      question: "A dental practice that administers opioids should include which reversal agent in the emergency kit?",
+      options: [
+        "Flumazenil (Romazicon) to reverse benzodiazepine effects only",
+        "Atropine sulfate to increase heart rate and reverse bradycardia",
+        "Naloxone (Narcan) to reverse opioid overdose by blocking effects",
+        "Adenosine to convert supraventricular tachycardia to normal rhythm",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15482,
+      question: "In the United States, portable oxygen tanks used in dental settings are typically which color?",
+      options: [
+        "White tanks following international standards for medical gas coding",
+        "Green tanks following U.S. standards, though colors vary internationally",
+        "Blue tanks designated specifically for dental office use only",
+        "Yellow tanks indicating compressed oxygen for healthcare facilities",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15483,
+      question: "Before administering supplemental oxygen, the hygienist should first assess oxygen saturation using:",
+      options: [
+        "A stethoscope to auscultate breath sounds bilaterally in all fields",
+        "Visual inspection of skin color and assessment of respiratory rate",
+        "A pulse oximeter to measure peripheral capillary oxygen saturation",
+        "Blood pressure measurement to determine cardiovascular perfusion status",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15484,
+      question: "For a stable patient with peripheral capillary oxygen saturation (SpO2) of 90% to 94%, the hygienist should:",
+      options: [
+        "Immediately administer high-flow oxygen at 15 liters per minute",
+        "Consider that supplemental oxygen may not be required at this level",
+        "Activate emergency medical services for emergency transport immediately",
+        "Administer epinephrine and prepare for cardiopulmonary resuscitation",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15485,
+      question: "When initiating oxygen therapy, the lowest concentration should be delivered via which method?",
+      options: [
+        "Nonrebreather mask at maximum flow rate of 15 liters per minute",
+        "Simple face mask starting at 6 liters per minute flow rate",
+        "Nasal cannula at 2 liters per minute flow rate initially",
+        "Bag-valve-mask with 100% oxygen at 15 liters per minute",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15486,
+      question: "A size E oxygen cylinder will supply approximately how much oxygen delivery time?",
+      options: [
+        "10 minutes of continuous oxygen delivery at standard flow rates",
+        "30 minutes of continuous oxygen delivery at standard flow rates",
+        "60 minutes of continuous oxygen delivery at standard flow rates",
+        "120 minutes of continuous oxygen delivery at standard flow rates",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15487,
+      question: "Which document should be given to EMS personnel and accompany the patient to the hospital?",
+      options: [
+        "The patient's insurance information and payment authorization forms",
+        "Complete dental treatment records from all previous appointments",
+        "Emergency medical report with vital signs and treatments administered",
+        "Office policies and consent forms signed at the initial appointment",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15488,
+      question: "A patient classified as ASA I represents which treatment consideration?",
+      options: [
+        "\"Red light\" requiring hospitalization for any dental treatment procedures",
+        "\"Yellow light\" requiring caution and modifications before proceeding",
+        "\"Green light\" indicating normal health and minimal risk for complications",
+        "\"Orange light\" requiring advanced cardiac life support personnel present",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15489,
+      question: "This patient's physical status would be classified as which ASA category?",
+      options: [
+        "ASA I indicating normal health without systemic disease",
+        "ASA II indicating mild stable systemic disease without functional limitations",
+        "ASA III indicating severe systemic disease with substantive functional limitations",
+        "ASA IV indicating severe systemic disease that constantly threatens life",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15490,
+      question: "This patient's condition represents which ASA classification for dental treatment planning?",
+      options: [
+        "ASA II requiring routine dental care with standard precautions",
+        "ASA III requiring caution and possible treatment modifications",
+        "ASA IV requiring conservative emergency treatment only until stabilization",
+        "ASA V indicating the patient is near death without intervention",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15491,
+      question: "Direct observation signs of severe dental anxiety include all of the following EXCEPT:",
+      options: [
+        "Increased blood pressure and heart rate with overall appearance of uneasiness",
+        "Trembling, excessive perspiration, and dilated pupils indicating distress",
+        "Slow heart rate with decreased blood pressure indicating relaxation",
+        "White-knuckle syndrome with unnaturally stiff posture and restlessness",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15492,
+      question: "Stress reduction protocols should be applied during which timeframes?",
+      options: [
+        "Only during the actual dental procedure when anxiety typically peaks",
+        "Before appointment, throughout treatment, and into postoperative period",
+        "Exclusively before the appointment to prevent anxiety from developing",
+        "After the appointment to address any anxiety that occurred during treatment",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15493,
+      question: "The dental hygienist's immediate response should be to:",
+      options: [
+        "Continue treatment while monitoring for changes in patient responsiveness",
+        "Terminate dental procedures and activate emergency medical services",
+        "Wait 5 minutes to determine if consciousness returns spontaneously",
+        "Administer supplemental oxygen and resume treatment after patient awakens",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15494,
+      question: "The unconscious patient should be positioned in which position for emergency management?",
+      options: [
+        "Upright position to prevent aspiration and facilitate breathing",
+        "Supine horizontal position with brain at same level as body",
+        "Trendelenburg position with head lower than feet at 30 degrees",
+        "Left lateral position to prevent tongue from blocking airway",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15495,
+      question: "When providing information to the EMS dispatcher, the caller should hang up:",
+      options: [
+        "Immediately after providing the address to allow faster response time",
+        "After describing patient condition but before EMS provides any instructions",
+        "Only when the dispatcher indicates it is appropriate to disconnect",
+        "Before providing patient information to maintain HIPAA compliance",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15496,
+      question: "The first link in the chain of survival includes:",
+      options: [
+        "Advanced cardiac life support provided by hospital emergency personnel",
+        "Early recognition of emergency and activation of emergency response system",
+        "Immediate defibrillation within 1 minute of cardiac arrest onset",
+        "Post-cardiac arrest care including rehabilitation and recovery support",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15497,
+      question: "Each minute of delayed defibrillation reduces the patient's chance of survival by approximately:",
+      options: [
+        "1% making early defibrillation only moderately important",
+        "5% indicating defibrillation should occur within 30 minutes",
+        "10% emphasizing critical need for rapid defibrillation response",
+        "25% but survival is possible even after extended delays",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15498,
+      question: "For a responsive patient experiencing adrenal crisis, the hygienist should:",
+      options: [
+        "Place patient supine with feet elevated and assess oxygen saturation",
+        "Place patient upright and administer bronchodilator via inhalation",
+        "Immediately begin chest compressions and activate emergency services",
+        "Encourage patient to walk around office to increase blood pressure",
+      ],
+      correct: "A"
+    },
+    {
+      id: 15499,
+      question: "This represents which type of airway obstruction requiring which management?",
+      options: [
+        "Complete obstruction requiring immediate Heimlich maneuver abdominal thrusts",
+        "Partial obstruction with adequate air exchange; encourage continued coughing",
+        "Severe obstruction requiring activation of EMS and chest compressions",
+        "Mild obstruction requiring oxygen administration and patient repositioning",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15500,
+      question: "Management of this complete airway obstruction includes:",
+      options: [
+        "Back blows delivered between shoulder blades five times rapidly",
+        "Encouraging patient to cough forcefully to dislodge the obstruction",
+        "Abdominal thrusts (Heimlich maneuver) until object is dislodged",
+        "Immediate oxygen administration via nonrebreather mask at high flow",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15501,
+      question: "For airway obstruction in a pregnant or obese patient, the hygienist should perform:",
+      options: [
+        "Abdominal thrusts (Heimlich maneuver) below the diaphragm as usual",
+        "Chest compressions instead of abdominal thrusts until object dislodges",
+        "Back blows only without any chest or abdominal compressions",
+        "Finger sweeps to manually remove the obstruction from the airway",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15502,
+      question: "For a patient with history of stable angina experiencing chest pain, the management includes:",
+      options: [
+        "Placing patient in comfortable position and administering sublingual nitroglycerin",
+        "Immediately activating EMS and beginning cardiopulmonary resuscitation",
+        "Administering high-dose aspirin and oxygen at maximum flow rate",
+        "Continuing treatment while monitoring patient for worsening symptoms",
+      ],
+      correct: "A"
+    },
+    {
+      id: 15503,
+      question: "If angina pain is not relieved after three doses of nitroglycerin, the hygienist should:",
+      options: [
+        "Continue administering nitroglycerin every 5 minutes until pain resolves",
+        "Wait 30 minutes before activating EMS to see if pain improves",
+        "Activate EMS immediately and treat as myocardial infarction",
+        "Administer epinephrine and bronchodilator to manage the emergency",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15504,
+      question: "A patient with no history of angina who develops chest pain should be:",
+      options: [
+        "Given nitroglycerin sublingually and monitored for 15 minutes before EMS activation",
+        "Treated the same as stable angina with three doses of medication",
+        "Managed by immediately activating emergency medical services",
+        "Placed in Trendelenburg position and given supplemental oxygen",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15505,
+      question: "Initial management of an asthma attack includes positioning the patient:",
+      options: [
+        "In supine position to maximize blood flow to brain and organs",
+        "In upright position to facilitate breathing and reduce respiratory effort",
+        "In left lateral position to prevent aspiration of secretions",
+        "In Trendelenburg position with feet elevated above heart level",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15506,
+      question: "If asthma symptoms do not improve after bronchodilator use, the hygienist should:",
+      options: [
+        "Continue dental treatment as planned while monitoring patient status",
+        "Have patient use inhaler again, administer oxygen, and activate EMS",
+        "Wait 1 hour before determining if emergency services are needed",
+        "Administer sublingual nitroglycerin to dilate airways and improve breathing",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15507,
+      question: "For an unresponsive patient with severe asthma attack, which medication should be administered?",
+      options: [
+        "Nitroglycerin 0.4 mg sublingually to dilate blood vessels",
+        "Aspirin 325 mg chewed to prevent thrombosis formation",
+        "Epinephrine 0.3 mg of 1:1000 intramuscularly or subcutaneously",
+        "Diphenhydramine 50 mg orally to reduce allergic response",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15508,
+      question: "Immediate management of cardiac arrest includes:",
+      options: [
+        "Waiting for emergency personnel before beginning any interventions",
+        "Administering oxygen and monitoring for spontaneous return of pulse",
+        "Placing patient supine, activating EMS, and initiating BLS immediately",
+        "Giving sublingual nitroglycerin and aspirin before starting compressions",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15509,
+      question: "These signs and symptoms most likely indicate which medical emergency?",
+      options: [
+        "Hypoglycemia requiring immediate administration of oral glucose",
+        "Cerebrovascular accident (stroke) requiring immediate EMS activation",
+        "Hyperventilation syndrome requiring breathing into cupped hands",
+        "Syncope requiring supine positioning with elevated feet",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15510,
+      question: "A patient experiencing a stroke should be positioned in which position?",
+      options: [
+        "Supine position to maximize cerebral blood flow and perfusion",
+        "Upright position to reduce intracranial pressure from bleeding",
+        "Semisupine position while maintaining airway and activating EMS",
+        "Prone position to prevent aspiration of secretions or vomitus",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15511,
+      question: "Immediate management of a chemical burn to the eye includes:",
+      options: [
+        "Applying antibiotic ointment and covering eye with sterile patch",
+        "Immediately flushing eye mesially to distally with water for 15 minutes",
+        "Having patient keep eye closed and wait for ophthalmologist evaluation",
+        "Removing chemical with cotton-tipped applicator before irrigation",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15512,
+      question: "Management of a foreign particle in the eye includes:",
+      options: [
+        "Using cotton-tipped applicator to manually remove the particle directly",
+        "Rinsing eye mesially to distally or having patient lift upper eyelid over lower",
+        "Applying pressure patch over closed eye until particle works out naturally",
+        "Administering topical anesthetic drops before attempting particle removal",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15513,
+      question: "To control hemorrhage from a dental extraction site, the hygienist should:",
+      options: [
+        "Apply ice externally and wait for bleeding to stop spontaneously",
+        "Have patient rinse vigorously with cold water to promote clotting",
+        "Pack area with gauze and have patient bite down until bleeding stops",
+        "Immediately suture the site to achieve hemostasis and control bleeding",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15514,
+      question: "This blood pressure reading represents which condition requiring which management?",
+      options: [
+        "Normal blood pressure requiring no intervention or treatment modifications",
+        "Hypertensive urgency requiring immediate medical assessment and care",
+        "Hypertensive emergency requiring immediate reduction to prevent organ damage",
+        "Isolated systolic hypertension requiring beta-blocker administration",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15515,
+      question: "This represents hypertensive emergency requiring which immediate action?",
+      options: [
+        "Advising patient to see their physician within the next month",
+        "Having patient rest quietly and rechecking blood pressure in 15 minutes",
+        "Activating EMS or facilitating transfer to advanced care setting immediately",
+        "Administering sublingual nitroglycerin to rapidly lower blood pressure",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15516,
+      question: "These symptoms most likely indicate which condition?",
+      options: [
+        "Hyperventilation syndrome due to excessive loss of carbon dioxide",
+        "Myocardial infarction requiring aspirin and nitroglycerin administration",
+        "Asthma attack requiring bronchodilator and oxygen administration",
+        "Anaphylaxis requiring immediate epinephrine administration",
+      ],
+      correct: "A"
+    },
+    {
+      id: 15517,
+      question: "A hyperventilating patient should be managed by implementing which interventions?",
+      options: [
+        "Administering high-flow oxygen via nonrebreather mask immediately",
+        "Having patient breathe through pursed lips or into cupped hands",
+        "Placing patient in supine position with legs elevated above heart",
+        "Administering epinephrine and activating emergency medical services",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15518,
+      question: "The chest pain is most likely caused by:",
+      options: [
+        "Angina pectoris that will resolve with sublingual nitroglycerin",
+        "Hyperventilation that will improve with breathing techniques",
+        "Myocardial infarction requiring immediate emergency intervention",
+        "Anxiety that will resolve with reassurance and stress reduction",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15519,
+      question: "A patient experiencing possible myocardial infarction should receive which medication?",
+      options: [
+        "325 mg of chewable, non-enteric-coated aspirin chewed immediately",
+        "Three doses of sublingual nitroglycerin spaced 5 minutes apart",
+        "Bronchodilator inhaler to improve oxygen delivery to tissues",
+        "Antihistamine to reduce inflammatory response in cardiac tissue",
+      ],
+      correct: "A"
+    },
+    {
+      id: 15520,
+      question: "A patient with suspected myocardial infarction should be positioned:",
+      options: [
+        "In supine position with legs elevated to maximize cardiac output",
+        "In comfortable position, usually semisupine or upright as tolerated",
+        "In Trendelenburg position to increase venous return to heart",
+        "In prone position to reduce cardiac workload and oxygen demand",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15521,
+      question: "These symptoms most likely indicate:",
+      options: [
+        "Asthma attack requiring bronchodilator administration",
+        "Hyperventilation requiring breathing into cupped hands",
+        "Acute pulmonary edema requiring upright positioning",
+        "Myocardial infarction requiring aspirin administration",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15522,
+      question: "A patient with acute pulmonary edema should receive which medication?",
+      options: [
+        "Bronchodilator via inhalation to dilate airways",
+        "Sublingual nitroglycerin 0.8-1.2 mg every 5-10 minutes",
+        "Oral antihistamine to reduce inflammatory response",
+        "Chewable aspirin to prevent thrombus formation",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15523,
+      question: "These signs most likely indicate which condition?",
+      options: [
+        "Hyperventilation requiring slow breathing through pursed lips",
+        "Psychogenic shock requiring supine position with elevated feet",
+        "Myocardial infarction requiring chewable aspirin administration",
+        "Hyperglycemia requiring patient to self-administer insulin",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15524,
+      question: "The most common cause of sudden loss of consciousness in dental settings is:",
+      options: [
+        "Myocardial infarction with complete cessation of cardiac function",
+        "Cerebrovascular accident with intracranial hemorrhage",
+        "Syncope with transient loss of consciousness from cerebral hypoxia",
+        "Diabetic coma with severe hyperglycemia and ketoacidosis",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15525,
+      question: "An unconscious syncopal patient should be managed by which immediate intervention?",
+      options: [
+        "Placing patient supine with legs slightly elevated and assessing airway",
+        "Administering ammonia inhalants under nose to stimulate consciousness",
+        "Beginning chest compressions at 100-120 per minute immediately",
+        "Giving patient oral glucose while maintaining upright position",
+      ],
+      correct: "A"
+    },
+    {
+      id: 15526,
+      question: "A pregnant patient who lost consciousness should be positioned:",
+      options: [
+        "In supine position with legs elevated above heart level",
+        "In upright position to prevent aspiration of secretions",
+        "Rolled onto left side rather than flat supine position",
+        "In prone position with head turned to side for airway",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15527,
+      question: "If consciousness is not rapidly regained after proper positioning, the hygienist should:",
+      options: [
+        "Continue monitoring and wait 15 minutes before taking further action",
+        "Administer ammonia inhalants repeatedly until patient awakens",
+        "Activate emergency medical services immediately for advanced care",
+        "Begin chest compressions even if pulse is present and adequate",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15528,
+      question: "This represents which type of seizure disorder?",
+      options: [
+        "Nonconvulsive petit mal seizure with momentary loss of awareness",
+        "Generalized tonic-clonic grand mal seizure requiring protective positioning",
+        "Focal partial seizure affecting only one area of the body",
+        "Absence seizure with brief blank stare lasting several seconds",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15529,
+      question: "During a generalized tonic-clonic seizure, the hygienist should:",
+      options: [
+        "Restrain patient firmly to prevent injury from involuntary movements",
+        "Place tongue blade between teeth to prevent tongue biting",
+        "Lower dental chair and protect patient from injury without restraining",
+        "Administer high-flow oxygen and epinephrine immediately",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15530,
+      question: "After a seizure resolves, the hygienist should:",
+      options: [
+        "Immediately resume dental treatment once patient regains consciousness",
+        "Monitor airway, assess oxygen saturation, and allow patient to rest",
+        "Administer oral glucose to prevent hypoglycemia-induced seizures",
+        "Have patient walk around to improve circulation and consciousness",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15531,
+      question: "These symptoms most likely indicate:",
+      options: [
+        "Hyperglycemia with excess glucose and insufficient insulin",
+        "Hypoglycemia with insufficient glucose requiring rapid intervention",
+        "Diabetic ketoacidosis requiring insulin administration",
+        "Hyperosmolar hyperglycemic state requiring hospitalization",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15532,
+      question: "A responsive patient experiencing hypoglycemia should receive:",
+      options: [
+        "Patient's own insulin to lower blood glucose to normal levels",
+        "Intramuscular glucagon to stimulate glucose release from liver",
+        "Concentrated oral sugar such as juice or glucose tablets",
+        "High-flow oxygen via nonrebreather mask immediately",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15533,
+      question: "An unconscious diabetic patient should receive which intervention?",
+      options: [
+        "Oral glucose placed between cheek and gum for absorption",
+        "Intramuscular or subcutaneous glucagon 1 mg if available and trained",
+        "Patient's own insulin subcutaneously to reduce blood glucose",
+        "Fruit juice given slowly by spoon to prevent aspiration",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15534,
+      question: "These signs and symptoms indicate:",
+      options: [
+        "Hypoglycemia requiring immediate administration of oral glucose",
+        "Hyperglycemia requiring activation of EMS and oxygen as needed",
+        "Anaphylaxis requiring immediate epinephrine administration",
+        "Adrenal crisis requiring supine positioning with feet elevated",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15535,
+      question: "These symptoms represent which condition requiring immediate management?",
+      options: [
+        "Localized allergic reaction requiring oral antihistamine administration",
+        "Anaphylaxis requiring immediate epinephrine and EMS activation",
+        "Hyperventilation requiring slow breathing through pursed lips",
+        "Vasovagal syncope requiring supine positioning with elevated legs",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15536,
+      question: "A responsive patient experiencing anaphylaxis should be positioned:",
+      options: [
+        "In supine position with legs elevated to maximize blood pressure",
+        "In comfortable position, usually upright, before administering epinephrine",
+        "In Trendelenburg position with head lower than feet",
+        "In left lateral position to prevent aspiration of secretions",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15537,
+      question: "The appropriate epinephrine dose for anaphylaxis in a 40 kg adult is:",
+      options: [
+        "0.15 mg intramuscularly as this patient weighs less than 30 kg",
+        "0.3 to 0.5 mg intramuscularly as this patient weighs greater than 30 kg",
+        "1.0 mg intravenously to rapidly reverse severe anaphylaxis",
+        "0.01 mg subcutaneously to minimize cardiovascular side effects",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15538,
+      question: "If anaphylaxis symptoms persist after initial epinephrine, the hygienist should:",
+      options: [
+        "Wait 30 minutes before considering additional interventions",
+        "Switch to oral antihistamine instead of additional epinephrine",
+        "Consider repeat epinephrine dose if advanced care won't arrive within 5-10 minutes",
+        "Administer bronchodilator inhaler rather than additional epinephrine",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15539,
+      question: "This represents which type of allergic reaction requiring which management?",
+      options: [
+        "Anaphylaxis requiring immediate intramuscular epinephrine administration",
+        "Localized skin response requiring oral diphenhydramine administration",
+        "Severe allergic reaction requiring EMS activation and oxygen administration",
+        "Hyperventilation requiring breathing exercises and reassurance",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15540,
+      question: "The appropriate diphenhydramine dose for a localized allergic reaction in adults is:",
+      options: [
+        "10 mg orally to minimize sedation side effects",
+        "25 to 50 mg orally with physician consultation for repeat doses",
+        "100 mg orally for maximum antihistamine effect",
+        "5 mg intravenously for rapid absorption and effect",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15541,
+      question: "These symptoms most likely indicate:",
+      options: [
+        "Anaphylactic reaction to local anesthetic requiring epinephrine",
+        "Vasovagal syncope requiring supine positioning with elevated feet",
+        "Toxicity from local anesthetic requiring supportive care and monitoring",
+        "Hyperventilation requiring breathing into cupped hands or bag",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15542,
+      question: "These symptoms indicate toxicity from which component?",
+      options: [
+        "Local anesthetic agent causing central nervous system depression",
+        "Vasoconstrictor or vasopressor causing cardiovascular stimulation",
+        "Preservative in anesthetic solution causing allergic response",
+        "Latex from anesthetic carpule causing anaphylactic reaction",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15543,
+      question: "The ideal immediate management of tooth avulsion is to:",
+      options: [
+        "Immediately reimplant the tooth into the socket at the scene",
+        "Store tooth in tap water until professional care is available",
+        "Scrub tooth vigorously with soap to remove debris before reimplanting",
+        "Wrap tooth in dry gauze and transport to emergency department",
+      ],
+      correct: "A"
+    },
+    {
+      id: 15544,
+      question: "If immediate reimplantation of an avulsed tooth is not possible, the tooth should be:",
+      options: [
+        "Stored in tap water until professional dental care is available",
+        "Wrapped in dry gauze to protect during transport to dentist",
+        "Stored in Hanks' balanced salt solution or wrapped in cling film",
+        "Placed in alcohol solution to sterilize before reimplantation",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15545,
+      question: "The individual designated to monitor the emergency kit should check contents:",
+      options: [
+        "Annually and after every emergency situation that occurs in office",
+        "Quarterly at minimum and after every emergency requiring kit use",
+        "Monthly during active practice months and semi-annually during slow periods",
+        "Only when staff members notice items are missing or expired",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15546,
+      question: "At minimum, every dental facility should have all of the following EXCEPT:",
+      options: [
+        "First aid kit, emergency drug kit, portable oxygen, and AED",
+        "Advanced life support medications for intravenous administration",
+        "Pulse oximeter, blood pressure cuff, and stethoscope",
+        "Pocket mask or bag-valve-mask for rescue breathing",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15547,
+      question: "Dental hygienists should have their own resuscitation masks in treatment areas to ensure:",
+      options: [
+        "Masks are always available during patient care for potential emergencies",
+        "Hygienists can avoid using practice-owned emergency equipment",
+        "Individual hygienists are solely responsible for emergency management",
+        "Contaminated masks can be assigned to specific patients for reuse",
+      ],
+      correct: "A"
+    },
+    {
+      id: 15548,
+      question: "Emergency protocols should be reviewed with all staff members at which intervals?",
+      options: [
+        "Every 5 years when BLS certifications expire and require renewal",
+        "Only when new employees are hired and oriented to facility",
+        "At least annually with simulations to ensure staff preparedness",
+        "Monthly during staff meetings to maintain constant awareness",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15549,
+      question: "The maximum oxygen flow rate via nasal cannula should not exceed:",
+      options: [
+        "2 liters per minute to prevent drying of nasal mucosa",
+        "6 liters per minute when titrating up for adequate saturation",
+        "10 liters per minute to achieve maximum oxygen delivery",
+        "15 liters per minute for critically ill patients requiring support",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15550,
+      question: "For acutely ill patients with difficulty breathing, the target oxygen saturation is:",
+      options: [
+        "85-90% to prevent oxygen toxicity from excessive administration",
+        "90-94% which is adequate for most clinical situations",
+        "94-98% for patients showing obvious signs of distress",
+        "100% to maximize oxygen delivery to all tissues",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15551,
+      question: "Recent research indicates oxygen administration should be:",
+      options: [
+        "Used routinely for nearly every medical emergency except hyperventilation",
+        "Titrated appropriately based on pulse oximetry rather than given routinely",
+        "Avoided completely as oxygen causes more harm than benefit",
+        "Given at maximum flow rates to all patients experiencing emergencies",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15552,
+      question: "Basic Life Support continues until which endpoint is reached?",
+      options: [
+        "The patient recovers, is stabilized and transported, or advanced support arrives",
+        "Exactly 10 minutes have elapsed from initiation of resuscitation efforts",
+        "Family members arrive and request discontinuation of resuscitation",
+        "Dental staff members become fatigued and unable to continue compressions",
+      ],
+      correct: "A"
+    },
+    {
+      id: 15553,
+      question: "Each member of the dental team should have which role during emergencies?",
+      options: [
+        "All team members should perform the same tasks simultaneously",
+        "Specific predetermined roles that are reviewed and practiced periodically",
+        "Flexible roles determined spontaneously based on patient needs",
+        "Minimal involvement with most care provided by single team leader",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15554,
+      question: "Current evidence indicates ammonia inhalants for unconscious patients:",
+      options: [
+        "Are essential for treating all cases of syncope in dental settings",
+        "Should be used as first-line treatment before other interventions",
+        "Are no longer recommended due to potential complications and harm",
+        "Must be used within 30 seconds of unconsciousness for effectiveness",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15555,
+      question: "Good Samaritan statutes generally provide immunity from civil liability when:",
+      options: [
+        "Any healthcare professional provides care regardless of circumstances",
+        "Emergency care is provided at scene, person is trained, and acts gratuitously",
+        "Care is provided in exchange for payment or expectation of compensation",
+        "Gross negligence or willful misconduct occurs during emergency care",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15556,
+      question: "Good Samaritan protection would NOT apply if:",
+      options: [
+        "The emergency care is provided at the scene of the emergency",
+        "The healthcare professional has proper training for care provided",
+        "The volunteer acts gratuitously expecting remuneration for services",
+        "The person rendered aid to an injured stranger on voluntary basis",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15557,
+      question: "A dental hygienist has a duty to deliver emergency services when:",
+      options: [
+        "Providing emergency care is part of the person's job responsibilities",
+        "The emergency occurs outside the dental office during off hours",
+        "The injured person is a family member or close personal friend",
+        "Payment is guaranteed before any emergency services are rendered",
+      ],
+      correct: "A"
+    },
+    {
+      id: 15558,
+      question: "If a patient is conscious during a medical emergency:",
+      options: [
+        "Consent is assumed and emergency assistance can begin immediately",
+        "Consent must be expressly obtained before providing any assistance",
+        "No consent is required as emergency situations override normal protocols",
+        "Only verbal consent is needed as written consent takes too much time",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15559,
+      question: "When a patient is unconscious and unable to consent to treatment:",
+      options: [
+        "No emergency treatment can be provided until family gives permission",
+        "Permission can be assumed and emergency assistance begins immediately",
+        "Dental professionals must wait for EMS personnel to provide consent",
+        "Treatment can only include basic first aid without advanced interventions",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15560,
+      question: "Magnetized retrieval instruments such as periotrievers are used to:",
+      options: [
+        "Remove all types of instrument tips regardless of metal composition",
+        "Sterilize contaminated instruments before reuse on subsequent patients",
+        "Retrieve broken instrument tips though may not work on all metals",
+        "Measure the magnetic field around electronic dental equipment",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15561,
+      question: "Whenever possible during emergencies, conscious patients should be encouraged to:",
+      options: [
+        "Wait for dental professionals to administer all medications for safety",
+        "Self-administer their own medications such as inhalers or EpiPens",
+        "Avoid taking any medications until EMS personnel arrive and evaluate",
+        "Share their medications with other patients experiencing similar symptoms",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15562,
+      question: "To prevent medical emergencies, patients should be encouraged to:",
+      options: [
+        "Skip all medications on days when dental appointments are scheduled",
+        "Double medication doses before appointments to prevent emergencies",
+        "Comply with prescribed medication schedules and take medications regularly",
+        "Stop all medications one week before dental appointments to prevent interactions",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15563,
+      question: "Every dental emergency kit should include which monitoring equipment?",
+      options: [
+        "Electrocardiogram machine to record electrical cardiac activity",
+        "Blood pressure cuff, stethoscope, and pulse oximeter for monitoring",
+        "Advanced pulse wave analysis equipment for cardiac output measurement",
+        "Capnography monitor to measure end-tidal carbon dioxide levels",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15564,
+      question: "When vital signs are recorded outside normal ranges, the hygienist should:",
+      options: [
+        "Proceed with treatment as planned since vital signs often normalize",
+        "Discuss findings with patient and consult physician if treatment modification needed",
+        "Refuse to treat the patient permanently and refer to hospital for care",
+        "Ignore findings if patient reports feeling normal despite abnormal readings",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15565,
+      question: "Recognition of patient anxiety can be accomplished by:",
+      options: [
+        "Asking directly about fear, anxiety, and past experiences during health history",
+        "Assuming all patients have similar anxiety levels regardless of statements",
+        "Waiting until emergency situations occur before assessing anxiety levels",
+        "Ignoring patient statements since anxiety cannot be reliably assessed",
+      ],
+      correct: "A"
+    },
+    {
+      id: 15566,
+      question: "Pharmacologic options for stress reduction may include:",
+      options: [
+        "Long-acting benzodiazepines taken one week before the appointment",
+        "Short-acting benzodiazepine premedication or nitrous oxide during appointment",
+        "Antibiotic prophylaxis to reduce anxiety about post-treatment infections",
+        "Opioid analgesics taken 24 hours before scheduled appointment",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15567,
+      question: "Which represents an appropriate non-pharmacologic technique for managing dental anxiety?",
+      options: [
+        "Distraction, relaxation techniques, and cognitive therapy approaches",
+        "Physical restraint to prevent patient movement during procedures",
+        "Ignoring patient concerns to avoid reinforcing anxiety behaviors",
+        "Extending appointment times to 3 hours to complete all treatment",
+      ],
+      correct: "A"
+    },
+    {
+      id: 15568,
+      question: "Scheduling short morning appointments represents which aspect of stress reduction?",
+      options: [
+        "Pharmacologic intervention requiring prescription medications",
+        "General stress-reduction protocol to minimize patient anxiety",
+        "Advanced sedation technique requiring special training",
+        "Inappropriate accommodation that reinforces avoidance behavior",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15569,
+      question: "Patient health history and risk assessment should be completed and updated:",
+      options: [
+        "Only at initial appointment and never needs updating in future",
+        "Every 5 years or when patient volunteers changes have occurred",
+        "At initial appointment and updated at each subsequent visit",
+        "Only when patient appears to be experiencing medical emergency",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15570,
+      question: "This patient cannot climb stairs or walk two blocks without stopping to rest. This represents:",
+      options: [
+        "ASA I classification indicating normal health and minimal risk",
+        "ASA II classification indicating mild stable systemic disease",
+        "ASA III classification indicating severe disease with functional limitations",
+        "ASA IV classification indicating disease constantly threatening life",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15571,
+      question: "This condition represents which ASA classification?",
+      options: [
+        "ASA II as kidney disease is managed with conservative treatment",
+        "ASA III as dialysis can be scheduled when needed for treatment",
+        "ASA IV as severe disease constantly threatens life without dialysis",
+        "ASA V as patient is near death without dialysis intervention",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15572,
+      question: "A patient experiencing acute pulmonary edema should be positioned:",
+      options: [
+        "Supine with legs elevated to maximize venous return to heart",
+        "Upright to reduce fluid accumulation in lungs and ease breathing",
+        "Prone to allow drainage of fluid from lungs by gravity",
+        "Left lateral position to prevent aspiration of frothy sputum",
+      ],
+      correct: "B"
+    },
+    {
+      id: 15573,
+      question: "A patient experiencing hyperventilation should receive oxygen therapy:",
+      options: [
+        "At maximum flow rate to correct respiratory alkalosis quickly",
+        "At moderate flow rate to achieve target saturation levels",
+        "Through nonrebreather mask to deliver highest oxygen concentration",
+        "Not at all as oxygen would worsen respiratory alkalosis",
+      ],
+      correct: "D"
+    },
+    {
+      id: 15574,
+      question: "Status epilepticus requires which immediate intervention?",
+      options: [
+        "Continuing to protect patient and wait for seizure to stop spontaneously",
+        "Restraining patient firmly to prevent injury from violent movements",
+        "Activating emergency medical services for advanced seizure management",
+        "Administering oral glucose to treat potential hypoglycemia cause",
+      ],
+      correct: "C"
+    },
+    {
+      id: 15575,
+      question: "During a medical emergency, which team member should be assigned documentation responsibilities?",
+      options: [
+        "The person performing CPR chest compressions on patient",
+        "A designated team member recording information on incident report form",
+        "The dentist who is managing the patient's airway",
+        "No one should document until after emergency is completely resolved",
+      ],
+      correct: "B"
+    }
   ]
 };
