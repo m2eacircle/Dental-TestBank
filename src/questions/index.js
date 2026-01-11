@@ -628,6 +628,7 @@ export const subjectsWithSubtopics = {
     "3. Calculus and other disease associated factors",
     "4. Gingival diseases",
     "5. Periodontal diseases",
+    "5. Periodontal diseases (Case Study)",
     "6. Systemic diseases and periodontal health"
   ],
   "Dental Radiography Theory": [
