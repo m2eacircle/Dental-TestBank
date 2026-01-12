@@ -619,8 +619,10 @@ export const subjectsWithSubtopics = {
   "Dental Materials Theory": [
     "1. Introduction to Dental Materials and Oral environment and patient considerations",
     "2. Physical and Mechanical properties of dental materials and General handling and safety of dental materials in the dental office",
-    "3. Dental amalgams, Metals and Alloys",
-    "4. Composites"
+    "3. Dental amalgams, Metals and Alloys (Part 1)",
+    "3. Dental amalgams, Metals and Alloys (Part 2)",
+    "4. Composites (Part 1)",
+    "4. Composites (Part 2)"
   ],
   "Periodontology I": [
     "1. Periodontal Anatomy",
