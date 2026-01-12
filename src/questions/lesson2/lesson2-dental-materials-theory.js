@@ -551,7 +551,7 @@ export const questions = {
         { id: 1204, question: "Microfilled composites have the highest tensile and shear strength among all composite types.", options: ["True", "False"], correct: 1 },
         { id: 1205, question: "Newly placed composites may release chemicals that can irritate the pulp if tubules are not sealed.", options: ["True", "False"], correct: 0 }
   ],
-  "3. Dental amalgams, Metals and alloys (Part 2)": [
+  "3. Dental amalgams, Metals and Alloys (Part 2)": [
     { id: 1206, question: "What is the primary reason for the declining use of dental amalgam despite its strength and durability?", options: ["Increased cost compared to composite materials and modern alternatives", "Development of bacterial resistance to amalgam restoration materials", "Difficulty in placing the material and extended chair time", "Concerns about esthetics and public perception of mercury safety"], correct: 3 },
     { id: 1207, question: "Which component is NOT typically found in powdered alloy used for dental amalgam?", options: ["Calcium carbonate for improved bonding strength", "Silver for increased strength and durability", "Tin to help the alloy mix with mercury", "Copper to strengthen the alloy and reduce brittleness"], correct: 0 },
     { id: 1208, question: "How much mercury do lathe-cut particles require compared to spherical particles?", options: ["Lathe-cut particles require 42-45% mercury while spherical require 50-52%", "Lathe-cut particles require 50-52% mercury while spherical require 42-45%", "Lathe-cut particles require 60-65% mercury while spherical require 35-40%", "Both lathe-cut and spherical particles require exactly 50% mercury"], correct: 1 },
