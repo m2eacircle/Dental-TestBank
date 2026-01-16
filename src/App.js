@@ -154,7 +154,7 @@ const AIAssistantPanel = ({ question, options, show }) => {
         console.error('Auto-copy failed:', err);
       });
     }
-  }, [show, formatQuestionForAI]);
+  }, [show, formatQuestionForAI, options, question]);
   
   if (!show) return null;
   
