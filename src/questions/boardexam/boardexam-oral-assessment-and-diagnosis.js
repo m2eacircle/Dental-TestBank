@@ -7,8 +7,8 @@ export const questions = {
       id: 18100,
       question: "What is the primary purpose of hard tissue assessment in dental hygiene?",
       options: [
-        "To determine whether the patient\'s dentition is biologically sound and functional",
-        "To replace the dentist\'s examination",
+        "To determine whether the patient's dentition is biologically sound and functional",
+        "To replace the dentist's examination",
         "To calculate insurance payments",
         "To schedule appointments"
       ],
@@ -30,7 +30,7 @@ export const questions = {
       question: "What is dental charting?",
       options: [
         "A list of patient appointments",
-        "The graphic representation of the condition of the patient\'s teeth on a specific date",
+        "The graphic representation of the condition of the patient's teeth on a specific date",
         "A financial record of dental procedures",
         "A schedule for cleaning procedures"
       ],
@@ -273,7 +273,7 @@ export const questions = {
       options: [
         "The tooth surface",
         "The quadrant location",
-        "The patient\'s age",
+        "The patient's age",
         "The restoration type"
       ],
       correct: "B"
@@ -1358,7 +1358,7 @@ export const questions = {
     },
     {
       id: 18223,
-      question: "How many types of malocclusion are in Angle\'s classification?",
+      question: "How many types of malocclusion are in Angle's classification?",
       options: [
         "Two",
         "Three (Class I, II, and III)",
@@ -1567,7 +1567,7 @@ export const questions = {
     },
     {
       id: 18242,
-      question: "The patient\'s record is admissible evidence in what?",
+      question: "The patient's record is admissible evidence in what?",
       options: [
         "No legal proceedings",
         "A court of law",
@@ -1581,7 +1581,7 @@ export const questions = {
       question: "According to the document, 3D charting programs provide what advantage?",
       options: [
         "Lower cost",
-        "More accurate representation of patient\'s current condition",
+        "More accurate representation of patient's current condition",
         "Easier to learn",
         "No advantages"
       ],
@@ -2541,7 +2541,7 @@ export const questions = {
       options: [
         "Due to food pigments",
         "Due to absorption of blood pigments from the gingival sulcus",
-        "Because it\'s older",
+        "Because it's older",
         "From toothpaste residue"
       ],
       correct: "B"
@@ -2904,7 +2904,7 @@ export const questions = {
       options: [
         "They are toxic if used earlier",
         "They can camouflage clinical signs of disease",
-        "Patients don\'t like them",
+        "Patients don't like them",
         "They damage tissues"
       ],
       correct: "B"
@@ -3309,7 +3309,7 @@ export const questions = {
       id: 18301,
       question: "How might subgingival calculus be visible?",
       options: [
-        "It\'s never visible",
+        "It's never visible",
         "By deflecting gingival margin with air or through thin tissues",
         "Only on radiographs",
         "With special lights only"
@@ -3442,7 +3442,7 @@ export const questions = {
       question: "What should oral hygiene assessment evaluate?",
       options: [
         "Only brushing frequency",
-        "Patient\'s knowledge, skill, attitude, and motivation related to oral self-care",
+        "Patient's knowledge, skill, attitude, and motivation related to oral self-care",
         "Only flossing technique",
         "Only product cost"
       ],
@@ -3453,7 +3453,7 @@ export const questions = {
       question: "Why is oral biofilm significant to assess?",
       options: [
         "Only for aesthetics",
-        "It\'s an etiologic agent for caries, periodontal disease, stains, and malodor",
+        "It's an etiologic agent for caries, periodontal disease, stains, and malodor",
         "It has no health implications",
         "Only for insurance purposes"
       ],
@@ -4245,7 +4245,7 @@ export const questions = {
       question: "What is contributory negligence?",
       options: [
         "Dentist error only",
-        "Patient\'s lack of compliance that may contribute to poor outcomes",
+        "Patient's lack of compliance that may contribute to poor outcomes",
         "Hygienist mistakes",
         "Office policy violations"
       ],
@@ -4253,7 +4253,7 @@ export const questions = {
     },
     {
       id: 18387,
-      question: "What is the dental hygienist\'s responsibility regarding deposits documentation?",
+      question: "What is the dental hygienist's responsibility regarding deposits documentation?",
       options: [
         "No documentation needed",
         "Document oral hygiene assessment data over time and patient compliance",
@@ -4555,7 +4555,7 @@ export const questions = {
       question: "Which is a high-risk factor for caries in children ages birth to 5 years?",
       options: [
         "Fluoridated water exposure",
-        "Parent cleans child\'s teeth twice daily with fluoride toothpaste",
+        "Parent cleans child's teeth twice daily with fluoride toothpaste",
         "Parent/caregiver has had active decay in last 12 months",
         "Normal salivary flow"
       ],
@@ -5476,7 +5476,7 @@ export const questions = {
     },
     {
       id: 18410,
-      question: "What is the dental hygienist\'s responsibility regarding fluoride therapy?",
+      question: "What is the dental hygienist's responsibility regarding fluoride therapy?",
       options: [
         "To apply it to all patients regardless of risk",
         "To never recommend it",
@@ -5498,7 +5498,7 @@ export const questions = {
     },
     {
       id: 18412,
-      question: "What is the dental hygienist\'s ethical responsibility regarding caries management products?",
+      question: "What is the dental hygienist's ethical responsibility regarding caries management products?",
       options: [
         "To use whatever is available",
         "To read scientific literature and use evidence-based practice",
@@ -5588,7 +5588,7 @@ export const questions = {
       id: 18420,
       question: "How might antibacterial composites help with secondary caries?",
       options: [
-        "They don\'t help at all",
+        "They don't help at all",
         "They may markedly reduce incidence if widely used and successful",
         "They eliminate all caries forever",
         "They only help with primary caries"
@@ -5786,7 +5786,7 @@ export const questions = {
       id: 18438,
       question: "Should the clinician remain chairside during fluoride gel application?",
       options: [
-        "No, it\'s not necessary",
+        "No, it's not necessary",
         "Yes, to monitor the patient",
         "Only for adults",
         "Only for the first minute"
@@ -5819,7 +5819,7 @@ export const questions = {
       id: 18441,
       question: "Is a fluoride varnish unit dose safer than a gel in terms of fluoride ingestion risk?",
       options: [
-        "No, it\'s more dangerous",
+        "No, it's more dangerous",
         "They are exactly the same",
         "Yes, about one-tenth the amount of fluoride compared to gels",
         "Varnish contains no fluoride"
@@ -6026,7 +6026,7 @@ export const questions = {
     },
     {
       id: 18460,
-      question: "Is there scientific evidence supporting antifluoridationists\' health concerns?",
+      question: "Is there scientific evidence supporting antifluoridationists' health concerns?",
       options: [
         "Yes, strong evidence",
         "No, well-designed studies do not support their claims",
@@ -6042,7 +6042,7 @@ export const questions = {
         "High, about 1.0 ppm",
         "Moderate, about 0.5 ppm",
         "Very low, less than 0.01 ppm",
-        "Higher than cow\'s milk"
+        "Higher than cow's milk"
       ],
       correct: "C"
     },
@@ -6050,7 +6050,7 @@ export const questions = {
       id: 18462,
       question: "Should infant formula manufacturers be contacted about fluoride content?",
       options: [
-        "No, it\'s not important",
+        "No, it's not important",
         "Yes, to determine fluoride levels in prepared products",
         "Only if the baby has decay",
         "Only for premature infants"
@@ -6083,7 +6083,7 @@ export const questions = {
       id: 18465,
       question: "Should patients be asked about their primary source of drinking water?",
       options: [
-        "No, it\'s not relevant",
+        "No, it's not relevant",
         "Yes, to assess fluoride exposure",
         "Only if they have decay",
         "Only if they are children"
@@ -6345,7 +6345,7 @@ export const questions = {
     },
     {
       id: 18489,
-      question: "What is the dental hygienist\'s role in patient compliance?",
+      question: "What is the dental hygienist's role in patient compliance?",
       options: [
         "No role",
         "Minor role",
@@ -6369,7 +6369,7 @@ export const questions = {
       id: 18491,
       question: "What creates a prevention-focused CAMBRA practice?",
       options: [
-        "Only the dentist\'s efforts",
+        "Only the dentist's efforts",
         "Only using fluoride",
         "Every team member working together",
         "Expensive equipment"
@@ -6460,7 +6460,7 @@ export const questions = {
         "No role",
         "Minor role",
         "Important role along with lifestyle changes",
-        "Only role, lifestyle doesn\'t matter"
+        "Only role, lifestyle doesn't matter"
       ],
       correct: "C"
     }
@@ -6622,7 +6622,7 @@ export const questions = {
     },
     {
       id: 18414,
-      question: "What are Sharpey\'s fibers?",
+      question: "What are Sharpey's fibers?",
       options: [
         "Nerve fibers in the pulp",
         "Collagen fibers connecting PDL to cementum and bone",
@@ -7241,7 +7241,7 @@ export const questions = {
       question: "What is fremitus?",
       options: [
         "Tooth mobility from external forces",
-        "Vibration or movement of teeth from patient\'s own occlusal forces",
+        "Vibration or movement of teeth from patient's own occlusal forces",
         "Gingival bleeding",
         "Bone loss pattern"
       ],
@@ -7348,7 +7348,7 @@ export const questions = {
     },
     {
       id: 18480,
-      question: "What percentage of bone mineral must be destroyed before it\'s visible on radiographs?",
+      question: "What percentage of bone mineral must be destroyed before it's visible on radiographs?",
       options: [
         "10%",
         "20%",
@@ -7867,7 +7867,7 @@ export const questions = {
       id: 18527,
       question: "What does severity refer to in periodontal assessment?",
       options: [
-        "Patient\'s pain level",
+        "Patient's pain level",
         "How much destruction is present at one time",
         "Length of disease",
         "Number of teeth present"
@@ -8054,7 +8054,7 @@ export const questions = {
       id: 18544,
       question: "What information helps determine the level of dental hygiene care needed?",
       options: [
-        "Patient\'s age only",
+        "Patient's age only",
         "Comprehensive assessment data including history and clinical findings",
         "Insurance coverage only",
         "Appointment availability"
@@ -8066,7 +8066,7 @@ export const questions = {
       question: "What is contributory negligence?",
       options: [
         "Dentist error",
-        "Patient\'s responsibility for less-than-satisfactory results",
+        "Patient's responsibility for less-than-satisfactory results",
         "Insurance fraud",
         "Equipment failure"
       ],
@@ -8527,7 +8527,7 @@ export const questions = {
     },
     {
       id: 18536,
-      question: "What do studies demonstrate about periodontal therapy\'s effect on cardiovascular events?",
+      question: "What do studies demonstrate about periodontal therapy's effect on cardiovascular events?",
       options: [
         "Conclusive prevention",
         "No effect",
@@ -8571,7 +8571,7 @@ export const questions = {
     },
     {
       id: 18540,
-      question: "What does the smooth muscle\'s inability to respond to nitrous oxide result in?",
+      question: "What does the smooth muscle's inability to respond to nitrous oxide result in?",
       options: [
         "Improved blood flow",
         "Arterial stiffness and atherothrombotic lesion formation",
@@ -8703,7 +8703,7 @@ export const questions = {
     },
     {
       id: 18552,
-      question: "In Case One, what was the patient\'s BMI?",
+      question: "In Case One, what was the patient's BMI?",
       options: [
         "25 kg/m²",
         "30 kg/m²",
@@ -8714,7 +8714,7 @@ export const questions = {
     },
     {
       id: 18553,
-      question: "In Case One, what was the patient\'s last HbA1c level?",
+      question: "In Case One, what was the patient's last HbA1c level?",
       options: [
         "5.7%",
         "7.0%",
@@ -8802,7 +8802,7 @@ export const questions = {
     },
     {
       id: 18561,
-      question: "What was the patient\'s HbA1c level four months after treatment in Case One?",
+      question: "What was the patient's HbA1c level four months after treatment in Case One?",
       options: [
         "5%",
         "7%",
@@ -8824,7 +8824,7 @@ export const questions = {
     },
     {
       id: 18563,
-      question: "In Case Two, what was the patient\'s age?",
+      question: "In Case Two, what was the patient's age?",
       options: [
         "20 years old",
         "26 years old",
@@ -8835,7 +8835,7 @@ export const questions = {
     },
     {
       id: 18564,
-      question: "What was the patient\'s occupation in Case Two?",
+      question: "What was the patient's occupation in Case Two?",
       options: [
         "Dental assistant",
         "Nurse",
@@ -8857,7 +8857,7 @@ export const questions = {
     },
     {
       id: 18566,
-      question: "What was the patient\'s chief complaint in Case Two?",
+      question: "What was the patient's chief complaint in Case Two?",
       options: [
         "Tooth pain",
         "Bleeding gums when flossing",
@@ -8945,7 +8945,7 @@ export const questions = {
     },
     {
       id: 18574,
-      question: "In Case Three, what was the patient\'s age?",
+      question: "In Case Three, what was the patient's age?",
       options: [
         "42 years old",
         "50 years old",
@@ -8956,7 +8956,7 @@ export const questions = {
     },
     {
       id: 18575,
-      question: "What was the patient\'s occupation in Case Three?",
+      question: "What was the patient's occupation in Case Three?",
       options: [
         "Construction worker",
         "Car mechanic",
@@ -8967,7 +8967,7 @@ export const questions = {
     },
     {
       id: 18576,
-      question: "How long was the patient\'s history of cigarette smoking in Case Three?",
+      question: "How long was the patient's history of cigarette smoking in Case Three?",
       options: [
         "10 years",
         "15 years",
@@ -9004,7 +9004,7 @@ export const questions = {
       options: [
         "Before the MI event",
         "Since his MI event",
-        "He hasn\'t quit yet",
+        "He hasn't quit yet",
         "10 years ago"
       ],
       correct: "B"
@@ -9033,7 +9033,7 @@ export const questions = {
     },
     {
       id: 18582,
-      question: "What was most teeth\'s mobility grade in Case Three?",
+      question: "What was most teeth's mobility grade in Case Three?",
       options: [
         "Grade 1",
         "Grade 2 or 3",
@@ -9396,7 +9396,7 @@ export const questions = {
     },
     {
       id: 18615,
-      question: "What is the clinician\'s responsibility regarding referrals?",
+      question: "What is the clinician's responsibility regarding referrals?",
       options: [
         "Never make referrals",
         "Make appropriate referrals when patients have signs/symptoms of undiagnosed disease",
@@ -9442,7 +9442,7 @@ export const questions = {
       id: 18619,
       question: "Why is it important for dental care providers to know HbA1c levels?",
       options: [
-        "It\'s not important",
+        "It's not important",
         "To assess diabetes control and periodontal disease risk",
         "Only for medical records",
         "For insurance purposes only"
@@ -9495,7 +9495,7 @@ export const questions = {
     },
     {
       id: 18624,
-      question: "What is dental hygienists\' responsibility regarding interprofessional care?",
+      question: "What is dental hygienists' responsibility regarding interprofessional care?",
       options: [
         "Work in isolation",
         "Collaborate with other healthcare providers for overall patient health",
@@ -9618,7 +9618,7 @@ export const questions = {
     },
     {
       id: 18604,
-      question: "When did the American Dental Hygienists\' Association (ADHA) release Standards for Clinical Dental Hygiene Practice?",
+      question: "When did the American Dental Hygienists' Association (ADHA) release Standards for Clinical Dental Hygiene Practice?",
       options: [
         "2010",
         "2016",
@@ -9644,7 +9644,7 @@ export const questions = {
       options: [
         "Only physical symptoms",
         "Laboratory results",
-        "Person\'s response to illness and effects on patient and family",
+        "Person's response to illness and effects on patient and family",
         "Medication prescriptions"
       ],
       correct: "C"
@@ -9695,7 +9695,7 @@ export const questions = {
     },
     {
       id: 18611,
-      question: "How many US states permitted direct access to dental hygienists at the time of this chapter\'s writing?",
+      question: "How many US states permitted direct access to dental hygienists at the time of this chapter's writing?",
       options: [
         "25",
         "35",
@@ -9785,7 +9785,7 @@ export const questions = {
       id: 18619,
       question: "What is person-centered care defined as?",
       options: [
-        "Following provider\'s instructions",
+        "Following provider's instructions",
         "Way of thinking that sees people as equal partners in planning care",
         "Provider-directed treatment",
         "Insurance-based care"
@@ -9816,7 +9816,7 @@ export const questions = {
     },
     {
       id: 18622,
-      question: "The 2000 Surgeon General\'s Report called attention to what effect on oral health?",
+      question: "The 2000 Surgeon General's Report called attention to what effect on oral health?",
       options: [
         "Age effects",
         "Gender effects",
@@ -9827,7 +9827,7 @@ export const questions = {
     },
     {
       id: 18623,
-      question: "What year did Michigan state agencies change Flint\'s water supply?",
+      question: "What year did Michigan state agencies change Flint's water supply?",
       options: [
         "2010",
         "2012",
@@ -9838,7 +9838,7 @@ export const questions = {
     },
     {
       id: 18624,
-      question: "What contaminant was found in high levels in Flint\'s drinking water?",
+      question: "What contaminant was found in high levels in Flint's drinking water?",
       options: [
         "Mercury",
         "Lead",
@@ -10181,9 +10181,9 @@ export const questions = {
       id: 18655,
       question: "What does the dental hygiene diagnosis clarify?",
       options: [
-        "Dentist\'s role",
+        "Dentist's role",
         "Role of dental hygienist and defined scope and domain",
-        "Patient\'s responsibilities only",
+        "Patient's responsibilities only",
         "Insurance coverage"
       ],
       correct: "B"
@@ -10256,7 +10256,7 @@ export const questions = {
     },
     {
       id: 18662,
-      question: "In Case Study 22.1, what is the patient\'s age?",
+      question: "In Case Study 22.1, what is the patient's age?",
       options: [
         "25 years old",
         "27 years old",
@@ -10267,7 +10267,7 @@ export const questions = {
     },
     {
       id: 18663,
-      question: "In Case Study 22.1, what is the patient\'s ethnicity?",
+      question: "In Case Study 22.1, what is the patient's ethnicity?",
       options: [
         "Asian",
         "African American",
@@ -10278,7 +10278,7 @@ export const questions = {
     },
     {
       id: 18664,
-      question: "What is the patient\'s chief complaint in Case Study 22.1?",
+      question: "What is the patient's chief complaint in Case Study 22.1?",
       options: [
         "Tooth pain",
         "Bleeding gums",
@@ -10289,7 +10289,7 @@ export const questions = {
     },
     {
       id: 18665,
-      question: "What is the patient\'s blood pressure in Case Study 22.1?",
+      question: "What is the patient's blood pressure in Case Study 22.1?",
       options: [
         "120/80 mm Hg",
         "130/90 mm Hg",
@@ -10300,7 +10300,7 @@ export const questions = {
     },
     {
       id: 18666,
-      question: "What is the patient\'s heart rate in Case Study 22.1?",
+      question: "What is the patient's heart rate in Case Study 22.1?",
       options: [
         "70 bpm",
         "75 bpm",
@@ -10322,7 +10322,7 @@ export const questions = {
     },
     {
       id: 18668,
-      question: "What is the patient\'s HbA1c level in Case Study 22.1?",
+      question: "What is the patient's HbA1c level in Case Study 22.1?",
       options: [
         "6.5%",
         "7.5%",
@@ -10410,7 +10410,7 @@ export const questions = {
     },
     {
       id: 18676,
-      question: "What is the patient\'s molar relationship in Case Study 22.1?",
+      question: "What is the patient's molar relationship in Case Study 22.1?",
       options: [
         "Class I",
         "Class II",
@@ -10421,7 +10421,7 @@ export const questions = {
     },
     {
       id: 18677,
-      question: "What is the patient\'s overbite in Case Study 22.1?",
+      question: "What is the patient's overbite in Case Study 22.1?",
       options: [
         "1 mm",
         "2 mm",
@@ -10564,7 +10564,7 @@ export const questions = {
     },
     {
       id: 18690,
-      question: "What is the patient\'s perception of his oral health in Case Study 22.1?",
+      question: "What is the patient's perception of his oral health in Case Study 22.1?",
       options: [
         "Excellent",
         "Good",
@@ -10586,7 +10586,7 @@ export const questions = {
     },
     {
       id: 18692,
-      question: "What cultural factor affects the patient\'s dental care in Case Study 22.1?",
+      question: "What cultural factor affects the patient's dental care in Case Study 22.1?",
       options: [
         "Language barrier",
         "Seeking oral healthcare not a cultural norm",

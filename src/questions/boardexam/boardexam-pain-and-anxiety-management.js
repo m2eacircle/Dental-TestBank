@@ -302,7 +302,7 @@ export const questions = {
     },
     {
       id: 24127,
-      question: "How long should the patient\'s mouth remain open after a Gow-Gates injection?",
+      question: "How long should the patient's mouth remain open after a Gow-Gates injection?",
       options: [
         "30 seconds to prevent muscle spasm",
         "1 minute for initial solution diffusion",
@@ -1496,7 +1496,7 @@ export const questions = {
       options: [
         "Only the time sedation began recording",
         "Maximum percentage delivered and oxygenation time",
-        "Patient\'s subjective experience only without data",
+        "Patient's subjective experience only without data",
         "Equipment manufacturer and model number exclusively"
       ],
       correct: "B"
@@ -1629,7 +1629,7 @@ export const questions = {
         "Tape to secure hood to face",
         "Gauze placed under hood on bridge",
         "Larger hood size for better coverage",
-        "Elastic bands around patient\'s head"
+        "Elastic bands around patient's head"
       ],
       correct: "B"
     },
@@ -1794,7 +1794,7 @@ export const questions = {
         "Only the pressure gauges on cylinders",
         "Patient signs, symptoms, and reservoir bag",
         "Room temperature and humidity levels exclusively",
-        "Equipment manufacturer\'s recommendations only"
+        "Equipment manufacturer's recommendations only"
       ],
       correct: "B"
     },

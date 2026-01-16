@@ -282,7 +282,7 @@ export const questions = {
       id: 60026,
       question: "What is unintentional plagiarism?",
       options: [
-        "Deliberately presenting others\' ideas as your own",
+        "Deliberately presenting others' ideas as your own",
         "Using too much original text from referenced works while citing them extensively",
         "Making up data without experiments",
         "Changing research results",
@@ -294,7 +294,7 @@ export const questions = {
       question: "What is intentional plagiarism?",
       options: [
         "Accidentally using similar wording to other papers",
-        "Presenting results or ideas from other published articles as one\'s own without citing the real authors",
+        "Presenting results or ideas from other published articles as one's own without citing the real authors",
         "Making typographical errors in citations",
         "Using outdated references",
       ],
@@ -315,7 +315,7 @@ export const questions = {
       id: 60029,
       question: "In the conflict of interest example provided, what should the research team do when a pharmaceutical company wants them to suppress negative results?",
       options: [
-        "Accept the manufacturer\'s request",
+        "Accept the manufacturer's request",
         "Only report positive findings",
         "Not accept what the manufacturer requests",
         "Withdraw from the study",
@@ -379,7 +379,7 @@ export const questions = {
     },
     {
       id: 60035,
-      question: "Which component is NOT listed as part of a research article\'s basic structure?",
+      question: "Which component is NOT listed as part of a research article's basic structure?",
       options: [
         "Abstract",
         "Discussion",
@@ -448,7 +448,7 @@ export const questions = {
       question: "What happens if your abstract is not attractive and does not make a good first impression?",
       options: [
         "The paper will automatically be accepted",
-        "There\'s a chance of rejection at the outset",
+        "There's a chance of rejection at the outset",
         "The paper will be published faster",
         "More reviewers will be assigned",
       ],
@@ -748,7 +748,7 @@ export const questions = {
       options: [
         "To calculate statistical significance",
         "To measure numerical outcomes",
-        "To study people\'s perceptions and experiences",
+        "To study people's perceptions and experiences",
         "To test mathematical formulas",
       ],
       correct: "C"
@@ -867,7 +867,7 @@ export const questions = {
       id: 60112,
       question: "What does the descriptive approach in phenomenology explain?",
       options: [
-        "The researcher\'s personal opinions",
+        "The researcher's personal opinions",
         "The experience as alleged by the study participants",
         "Statistical findings",
         "Historical trends",
@@ -1022,7 +1022,7 @@ export const questions = {
       question: "What does dependability refer to in trustworthiness?",
       options: [
         "The funding source",
-        "The researcher\'s qualifications",
+        "The researcher's qualifications",
         "Consistency of data over time",
         "The publication venue",
       ],
@@ -1463,7 +1463,7 @@ export const questions = {
       id: 60200,
       question: "What is the final goal of quantitative research?",
       options: [
-        "To study people\'s perceptions",
+        "To study people's perceptions",
         "To describe and compare different variables and characteristics",
         "To conduct interviews",
         "To observe behaviors",
@@ -1631,7 +1631,7 @@ export const questions = {
         "Only once for all participants",
         "Separately and equally within each stratum",
         "Based on patient preference",
-        "By the researcher\'s choice",
+        "By the researcher's choice",
       ],
       correct: "B"
     },
@@ -2301,7 +2301,7 @@ export const questions = {
       id: 60303,
       question: "Which aspect of selection may affect study outcome?",
       options: [
-        "Researcher\'s favorite color",
+        "Researcher's favorite color",
         "Socioeconomic situation or geographical location",
         "Time of publication",
         "Journal selection",
@@ -2336,7 +2336,7 @@ export const questions = {
       options: [
         "The disease name",
         "The interpretation of results",
-        "The researcher\'s name",
+        "The researcher's name",
         "The publication date",
       ],
       correct: "B"
@@ -2356,7 +2356,7 @@ export const questions = {
       id: 60308,
       question: "What is a key issue regarding sample size and outcomes?",
       options: [
-        "The researcher\'s experience",
+        "The researcher's experience",
         "The frequency of the main outcome",
         "The publication venue",
         "The funding amount",
@@ -2524,7 +2524,7 @@ export const questions = {
         "Testing the same person twice",
         "Evaluation of infection control in an OR by two investigators",
         "Measuring internal consistency",
-        "Calculating Cronbach\'s alpha",
+        "Calculating Cronbach's alpha",
       ],
       correct: "B"
     },
@@ -2556,14 +2556,14 @@ export const questions = {
       options: [
         "Inter-rater reliability",
         "Test-retest reliability",
-        "Cronbach\'s alpha",
+        "Cronbach's alpha",
         "Specificity",
       ],
       correct: "C"
     },
     {
       id: 60327,
-      question: "What is an acceptable Cronbach\'s alpha value?",
+      question: "What is an acceptable Cronbach's alpha value?",
       options: [
         "≥0.50",
         "≥0.60",
@@ -2777,13 +2777,13 @@ export const questions = {
         "Test-retest reliability",
         "Internal consistency",
         "Inter-rater reliability",
-        "Cronbach\'s alpha",
+        "Cronbach's alpha",
       ],
       correct: "C"
     },
     {
       id: 60347,
-      question: "Which reliability type uses Cronbach\'s alpha for evaluation?",
+      question: "Which reliability type uses Cronbach's alpha for evaluation?",
       options: [
         "Inter-rater reliability",
         "Test-retest reliability",
@@ -2794,7 +2794,7 @@ export const questions = {
     },
     {
       id: 60348,
-      question: "What does a Cronbach\'s alpha of 0.75 indicate?",
+      question: "What does a Cronbach's alpha of 0.75 indicate?",
       options: [
         "Unacceptable internal consistency",
         "Acceptable internal consistency",
@@ -2805,7 +2805,7 @@ export const questions = {
     },
     {
       id: 60349,
-      question: "What does a Cronbach\'s alpha of 0.65 indicate?",
+      question: "What does a Cronbach's alpha of 0.65 indicate?",
       options: [
         "Acceptable internal consistency",
         "Below acceptable internal consistency",
@@ -2895,7 +2895,7 @@ export const questions = {
       id: 60357,
       question: "What affects whether a sample size is sufficient?",
       options: [
-        "Only the researcher\'s preference",
+        "Only the researcher's preference",
         "The ability to detect clinically substantial differences",
         "Only the funding available",
         "Only the time available",
@@ -4220,7 +4220,7 @@ export const questions = {
       question: "For three, four, or five authors, what should the first text citation include?",
       options: [
         "Only the first author",
-        "All authors\' names such as Sharp, Aarons, Wittenberg, & Gittens, 2007",
+        "All authors' names such as Sharp, Aarons, Wittenberg, & Gittens, 2007",
         "Only the last author",
         "The institution name",
       ],
@@ -4230,7 +4230,7 @@ export const questions = {
       id: 60593,
       question: "For three, four, or five authors, what format is used in subsequent text citations?",
       options: [
-        "All authors\' names",
+        "All authors' names",
         "Sharp et al., 2007",
         "Only the first two authors",
         "The journal name",
@@ -4241,7 +4241,7 @@ export const questions = {
       id: 60594,
       question: "For six or more authors, what is used in the first text citation?",
       options: [
-        "All authors\' names",
+        "All authors' names",
         "Mendelsohn et al., 2010",
         "Only the first author",
         "The institution name",
@@ -4252,7 +4252,7 @@ export const questions = {
       id: 60595,
       question: "For six or more authors, what is used in subsequent text citations?",
       options: [
-        "All authors\' names",
+        "All authors' names",
         "Mendelsohn et al., 2010",
         "Only the last author",
         "Anonymous",
@@ -5381,7 +5381,7 @@ export const questions = {
         "By hand calculation",
         "By a computer",
         "By estimation",
-        "By the researcher\'s judgment",
+        "By the researcher's judgment",
       ],
       correct: "B"
     },
@@ -6106,7 +6106,7 @@ export const questions = {
       id: 60922,
       question: "What does intervention refer to in PICO?",
       options: [
-        "The patient\'s problem",
+        "The patient's problem",
         "What has to be done for the patient",
         "The control group",
         "The expected result",
@@ -6239,7 +6239,7 @@ export const questions = {
       question: "Which of the following IS a factor in feasibility?",
       options: [
         "Access to subjects",
-        "Researcher\'s age",
+        "Researcher's age",
         "Journal impact factor",
         "Weather conditions",
       ],
@@ -6480,7 +6480,7 @@ export const questions = {
     },
     {
       id: 61003,
-      question: "What type of evidence influences a researcher\'s thinking but not the action?",
+      question: "What type of evidence influences a researcher's thinking but not the action?",
       options: [
         "Decision-driven evidence",
         "Action-based evidence",
@@ -6515,7 +6515,7 @@ export const questions = {
       id: 61006,
       question: "Which model is given as an example of decision-driven evidence application?",
       options: [
-        "Rogers\' diffusion model",
+        "Rogers' diffusion model",
         "CURN model",
         "RNABC model",
         "Iowa Model of Evidence-Based Practice to Promote Quality Care",
@@ -6628,7 +6628,7 @@ export const questions = {
         "Iowa Model of Evidence-Based Practice",
         "Ottawa Model of Research Use (OMRU)",
         "SWOT Analysis Model",
-        "Rogers\' diffusion of innovations model",
+        "Rogers' diffusion of innovations model",
       ],
       correct: "C"
     },

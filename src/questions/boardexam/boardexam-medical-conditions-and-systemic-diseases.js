@@ -2218,7 +2218,7 @@ export const questions = {
     },
     {
       id: 26301,
-      question: "Which type of diabetes results from lack of insulin or body\'s inability to use insulin efficiently?",
+      question: "Which type of diabetes results from lack of insulin or body's inability to use insulin efficiently?",
       options: [
         "Type 1 diabetes",
         "Type 2 diabetes",
@@ -2416,7 +2416,7 @@ export const questions = {
     },
     {
       id: 26319,
-      question: "What is the condition called when the body\'s immune system attacks insulin-producing beta cells?",
+      question: "What is the condition called when the body's immune system attacks insulin-producing beta cells?",
       options: [
         "Autoimmune reaction",
         "Beta-cell destruction",
@@ -2972,7 +2972,7 @@ export const questions = {
       options: [
         "Irradiated bone that becomes infected within 1 month",
         "Bone fracture following radiation",
-        "Irradiated bone that becomes devitalized, exposed, and doesn\'t heal for at least 2 months",
+        "Irradiated bone that becomes devitalized, exposed, and doesn't heal for at least 2 months",
         "Temporary bone inflammation from radiation"
       ],
       correct: "C"
@@ -3584,7 +3584,7 @@ export const questions = {
     },
     {
       id: 26386,
-      question: "What type of cancer treatment approach is based on genetic assessment of the patient\'s disease?",
+      question: "What type of cancer treatment approach is based on genetic assessment of the patient's disease?",
       options: [
         "Standard chemotherapy",
         "Precision medicine or personalized medicine",
@@ -3650,7 +3650,7 @@ export const questions = {
     },
     {
       id: 26392,
-      question: "What is used in some immunotherapy to boost the body\'s immune response to cancer?",
+      question: "What is used in some immunotherapy to boost the body's immune response to cancer?",
       options: [
         "Antibodies only",
         "Cytokines",
@@ -3676,7 +3676,7 @@ export const questions = {
       options: [
         "To reduce treatment time",
         "Cancer cells can become resistant with targeted therapy alone",
-        "It\'s less expensive",
+        "It's less expensive",
         "It has no side effects"
       ],
       correct: "B"
@@ -3793,7 +3793,7 @@ export const questions = {
     },
     {
       id: 26405,
-      question: "What should be avoided throughout a patient\'s lifetime after radiation therapy to the jaw?",
+      question: "What should be avoided throughout a patient's lifetime after radiation therapy to the jaw?",
       options: [
         "Dental cleanings",
         "All surgical insult to irradiated bone",
@@ -4455,7 +4455,7 @@ export const questions = {
     },
     {
       id: 26453,
-      question: "What is cobicistat\'s role in Stribild?",
+      question: "What is cobicistat's role in Stribild?",
       options: [
         "Integrase inhibitor",
         "NRTI",
@@ -4818,7 +4818,7 @@ export const questions = {
     },
     {
       id: 26486,
-      question: "What happens when HIV integrates into the host cell\'s genome?",
+      question: "What happens when HIV integrates into the host cell's genome?",
       options: [
         "The cell immediately dies",
         "The cell becomes immune",
@@ -5305,7 +5305,7 @@ export const questions = {
       question: "What should the care plan be based on?",
       options: [
         "HIV status only",
-        "Patient\'s insurance",
+        "Patient's insurance",
         "Identified conditions rather than serostatus",
         "Age only"
       ],
@@ -5623,7 +5623,7 @@ export const questions = {
     },
     {
       id: 26501,
-      question: "What process occurs when activated T cells and antibodies begin to attack an individual\'s own tissues?",
+      question: "What process occurs when activated T cells and antibodies begin to attack an individual's own tissues?",
       options: [
         "Inflammation",
         "Immunosuppression",
@@ -6140,7 +6140,7 @@ export const questions = {
     },
     {
       id: 26548,
-      question: "What is acetaminophen\'s limitation in treating autoimmune diseases?",
+      question: "What is acetaminophen's limitation in treating autoimmune diseases?",
       options: [
         "Too expensive",
         "No antiinflammatory activity",
@@ -6484,7 +6484,7 @@ export const questions = {
       question: "What does chronic corticosteroid use suppress?",
       options: [
         "Appetite",
-        "Body\'s own cortisol production and release",
+        "Body's own cortisol production and release",
         "Thyroid function",
         "Kidney function"
       ],
@@ -6803,9 +6803,9 @@ export const questions = {
       question: "What is helpful to determine safe coordination of care?",
       options: [
         "Patient preference",
-        "Consultation with patient\'s physician",
+        "Consultation with patient's physician",
         "Internet research",
-        "Patient\'s family input"
+        "Patient's family input"
       ],
       correct: "B"
     },
@@ -6869,7 +6869,7 @@ export const questions = {
       question: "What must the clinician review for potential medical emergency?",
       options: [
         "Insurance coverage",
-        "Patient\'s condition and medications",
+        "Patient's condition and medications",
         "Appointment schedule",
         "Treatment costs"
       ],
@@ -7466,7 +7466,7 @@ export const questions = {
       options: [
         "State organ databases",
         "Regional transplant centers",
-        "Nation\'s only Organ Procurement and Transplantation Network",
+        "Nation's only Organ Procurement and Transplantation Network",
         "International organ registry"
       ],
       correct: "C"
@@ -8104,7 +8104,7 @@ export const questions = {
       options: [
         "Physician",
         "Pharmacist",
-        "Patient\'s renal dietitian",
+        "Patient's renal dietitian",
         "Nurse"
       ],
       correct: "C"
@@ -8246,7 +8246,7 @@ export const questions = {
       question: "What is the pretransplant coordinator usually?",
       options: [
         "Physician or surgeon",
-        "Registered nurse or physician\'s assistant",
+        "Registered nurse or physician's assistant",
         "Social worker",
         "Pharmacist"
       ],
@@ -8335,7 +8335,7 @@ export const questions = {
       options: [
         "Artificial kidney",
         "Dialysis machine",
-        "Person\'s own peritoneal lining",
+        "Person's own peritoneal lining",
         "External filter"
       ],
       correct: "C"
@@ -8444,7 +8444,7 @@ export const questions = {
       question: "What is dialysis access for hemodialysis patient?",
       options: [
         "Temporary access",
-        "Patient\'s lifeline",
+        "Patient's lifeline",
         "Optional equipment",
         "Backup system"
       ],
@@ -9730,7 +9730,7 @@ export const questions = {
     },
     {
       id: 26775,
-      question: "At what angle should the ventilated patient\'s head be elevated?",
+      question: "At what angle should the ventilated patient's head be elevated?",
       options: [
         "10° to 20°",
         "20° to 30°",
@@ -10120,7 +10120,7 @@ export const questions = {
       question: "What is physiological dependence?",
       options: [
         "Emotional need for substance",
-        "Biologic alteration in user\'s brain",
+        "Biologic alteration in user's brain",
         "Social pressure to use",
         "Environmental factors"
       ],
@@ -10141,7 +10141,7 @@ export const questions = {
       id: 26820,
       question: "What is drug tolerance?",
       options: [
-        "Accepting others\' drug use",
+        "Accepting others' drug use",
         "Decreasing doses needed over time",
         "Increasingly larger dose needed for same effect",
         "No change in dosage requirements"
@@ -11861,7 +11861,7 @@ export const questions = {
       options: [
         "Laboratory results",
         "Insurance information",
-        "Patient\'s personal evaluation",
+        "Patient's personal evaluation",
         "Family input only"
       ],
       correct: "C"
@@ -11904,7 +11904,7 @@ export const questions = {
       question: "Why does brain function improve with weight restoration?",
       options: [
         "Psychological effects",
-        "Starved brain doesn\'t function optimally",
+        "Starved brain doesn't function optimally",
         "Social pressure",
         "Medication effects"
       ],

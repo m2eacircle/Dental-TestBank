@@ -63,7 +63,7 @@ export const questions = {
       question: "What does host modulation therapy target?",
       options: [
         "Only the bacterial infection directly",
-        "The patient\'s daily oral hygiene habits only",
+        "The patient's daily oral hygiene habits only",
         "Host-bacteria interactions and tissue destruction process",
         "The surgical healing process exclusively only"
       ],
@@ -910,9 +910,9 @@ export const questions = {
       question: "What is the code basis for SRP procedures?",
       options: [
         "Time spent on procedure",
-        "Patient\'s insurance plan",
+        "Patient's insurance plan",
         "Number of teeth and quadrant location",
-        "Clinician\'s experience level"
+        "Clinician's experience level"
       ],
       correct: "C"
     },
@@ -1880,7 +1880,7 @@ export const questions = {
       question: "Why should dental care not be performed with recurrent herpes present?",
       options: [
         "Patient discomfort only",
-        "Insurance won\'t cover",
+        "Insurance won't cover",
         "No equipment available",
         "Risk of inoculation to clinician"
       ],
@@ -2078,7 +2078,7 @@ export const questions = {
       question: "What was the common name for necrotizing disease in World War I?",
       options: [
         "Trench mouth",
-        "Vincent\'s infection",
+        "Vincent's infection",
         "War gingivitis",
         "Military periodontitis"
       ],

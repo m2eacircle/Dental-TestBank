@@ -720,7 +720,7 @@ export const questions = {
     },
     {
       id: 27165,
-      question: "What is recommended minimum for adults\' sleep?",
+      question: "What is recommended minimum for adults' sleep?",
       options: [
         "5 hours minimum",
         "7 to 9 hours minimum",
@@ -1061,7 +1061,7 @@ export const questions = {
     },
     {
       id: 27196,
-      question: "What can affect individual\'s mental health and job satisfaction?",
+      question: "What can affect individual's mental health and job satisfaction?",
       options: [
         "Only positive factors",
         "Only pay increases",
@@ -1242,7 +1242,7 @@ export const questions = {
         "Perfect timing",
         "Complete breakdown",
         "Life feeling uncontrollable to seek help",
-        "Others\' permission"
+        "Others' permission"
       ],
       correct: "C"
     },
