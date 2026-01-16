@@ -79,10 +79,10 @@ const CopyButton = ({ question, options, className = "" }) => {
 
 // AI Assistant Panel Component - Shows after submitting answer
 const AIAssistantPanel = ({ question, options, show }) => {
-  const formatQuestionForAI = () => {
+  const formatQuestionForAI = useCallback(() => {
     const optionsText = options.map((opt, i) => `${String.fromCharCode(65 + i)}. ${opt}`).join('\n');
     return `${question}\n\n${optionsText}`;
-  };
+  }, [question, options]);
   
   // AI Assistant configurations
   const aiAssistants = [
