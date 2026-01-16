@@ -724,6 +724,12 @@ export default function ImprovedTestBankApp() {
   };
 
   const nextQuestion = () => {
+    // Safety check: ensure we have a valid answer
+    if (selectedAnswer === null) {
+      console.warn('nextQuestion called with null selectedAnswer');
+      return;
+    }
+    
     const currentQuestion = selectedQuestions[currentQuestionIndex];
     const correctIndex = getCorrectAnswerIndex(currentQuestion);
     
@@ -740,53 +746,77 @@ export default function ImprovedTestBankApp() {
     };
     setReviewAnswers([...reviewAnswers, reviewData]);
     
-    if (currentQuestionIndex < selectedQuestions.length - 1) {
+    // Check if this is the last question
+    const isLastQuestion = currentQuestionIndex >= selectedQuestions.length - 1;
+    
+    if (!isLastQuestion) {
+      // Move to next question
       setCurrentQuestionIndex(currentQuestionIndex + 1);
       setSelectedAnswer(null);
       setIsAnswerSubmitted(false);
     } else {
-      finishTest(newAnswers);
+      // Finish the test - ensure this happens synchronously
+      console.log('Finishing test with', newAnswers.length, 'answers');
+      try {
+        finishTest(newAnswers);
+      } catch (error) {
+        console.error('Error in finishTest:', error);
+      }
     }
   };
 
   const finishTest = (finalAnswers = answers) => {
-    setTestStarted(false);
-    let correct = 0;
+    console.log('finishTest called with', finalAnswers.length, 'answers out of', selectedQuestions.length, 'questions');
     
-    finalAnswers.forEach((answer, idx) => {
-      const correctIndex = getCorrectAnswerIndex(selectedQuestions[idx]);
-      if (answer === correctIndex) correct++;
-    });
-    
-    const score = selectedQuestions.length > 0 ? Math.round((correct / selectedQuestions.length) * 100) : 0;
-    const timeTaken = studyMode ? 0 : totalTestTime - timeLeft;
-    
-    // Update topic progress only for NEW tests (not retakes)
-    // Track the highest question number reached in this topic
-    if (!isRetakeTest) {
-      const topicKey = selectedSubtopic || selectedSubject;
-      const currentProgress = topicProgress[topicKey] || 0;
-      const newProgress = currentProgress + selectedQuestions.length;
-      setTopicProgress(prev => ({
-        ...prev,
-        [topicKey]: Math.max(currentProgress, newProgress)
-      }));
+    try {
+      setTestStarted(false);
+      let correct = 0;
+      
+      finalAnswers.forEach((answer, idx) => {
+        const correctIndex = getCorrectAnswerIndex(selectedQuestions[idx]);
+        if (answer === correctIndex) correct++;
+      });
+      
+      const score = selectedQuestions.length > 0 ? Math.round((correct / selectedQuestions.length) * 100) : 0;
+      const timeTaken = studyMode ? 0 : totalTestTime - timeLeft;
+      
+      // Update topic progress only for NEW tests (not retakes)
+      // Track the highest question number reached in this topic
+      if (!isRetakeTest) {
+        const topicKey = selectedSubtopic || selectedSubject;
+        const currentProgress = topicProgress[topicKey] || 0;
+        const newProgress = currentProgress + selectedQuestions.length;
+        setTopicProgress(prev => ({
+          ...prev,
+          [topicKey]: Math.max(currentProgress, newProgress)
+        }));
+      }
+      
+      const result = {
+        subject: selectedSubject,
+        subtopic: selectedSubtopic,
+        score,
+        correct,
+        total: selectedQuestions.length,
+        timeTaken,
+        date: new Date().toLocaleString(),
+        studyMode
+      };
+      
+      setTestHistory([result, ...testHistory]);
+      setShowReview(false);
+      
+      // Force screen change after a brief delay to ensure state updates complete
+      setTimeout(() => {
+        setScreen('results');
+        console.log('Screen changed to results');
+      }, 100);
+    } catch (error) {
+      console.error('Error in finishTest:', error);
+      // Fallback: still try to show results screen
+      setTestStarted(false);
+      setScreen('results');
     }
-    
-    const result = {
-      subject: selectedSubject,
-      subtopic: selectedSubtopic,
-      score,
-      correct,
-      total: selectedQuestions.length,
-      timeTaken,
-      date: new Date().toLocaleString(),
-      studyMode
-    };
-    
-    setTestHistory([result, ...testHistory]);
-    setShowReview(false);
-    setScreen('results');
   };
 
   // Save partial progress when user exits mid-test
@@ -1674,9 +1704,9 @@ export default function ImprovedTestBankApp() {
             {/* Normal Submit/Next button (Test Mode and Study Mode after answer submitted) */}
             <button
               onClick={isAnswerSubmitted ? nextQuestion : submitAnswer}
-              disabled={selectedAnswer === null || isPaused}
+              disabled={(!isAnswerSubmitted && selectedAnswer === null) || isPaused}
               className={`w-full mt-6 py-4 rounded-xl font-bold text-lg transition-all ${
-                selectedAnswer !== null && !isPaused
+                (isAnswerSubmitted || selectedAnswer !== null) && !isPaused
                   ? isAnswerSubmitted 
                     ? 'bg-gradient-to-r from-blue-500 to-blue-600 text-white hover:shadow-lg'
                     : 'bg-gradient-to-r from-green-500 to-green-600 text-white hover:shadow-lg'
