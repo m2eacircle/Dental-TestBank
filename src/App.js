@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo, useCallback } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { Clock, Trophy, BarChart3, CheckCircle, XCircle, Home, Play, ArrowLeft, ChevronRight, Download, Flag, Eye, TrendingUp, Pause, X, Copy } from 'lucide-react';
 
 // Import everything from centralized index
@@ -79,10 +79,10 @@ const CopyButton = ({ question, options, className = "" }) => {
 
 // AI Assistant Panel Component - Shows after submitting answer
 const AIAssistantPanel = ({ question, options, show }) => {
-  const formatQuestionForAI = useCallback(() => {
+  const formatQuestionForAI = () => {
     const optionsText = options.map((opt, i) => `${String.fromCharCode(65 + i)}. ${opt}`).join('\n');
     return `${question}\n\n${optionsText}`;
-  }, [question, options]);
+  };
   
   // AI Assistant configurations
   const aiAssistants = [
@@ -154,7 +154,7 @@ const AIAssistantPanel = ({ question, options, show }) => {
         console.error('Auto-copy failed:', err);
       });
     }
-  }, [show, formatQuestionForAI, options, question]);
+  }, [show]);
   
   if (!show) return null;
   
@@ -378,12 +378,16 @@ export default function ImprovedTestBankApp() {
   const [isAnswerSubmitted, setIsAnswerSubmitted] = useState(false);
   const [studyMode, setStudyMode] = useState(false);
   const [flaggedQuestions, setFlaggedQuestions] = useState([]);
+  const [showReview, setShowReview] = useState(false);
   const [reviewAnswers, setReviewAnswers] = useState([]);
   const [isPaused, setIsPaused] = useState(false);
   const [parentSubject, setParentSubject] = useState(null);
   const [lastTestQuestions, setLastTestQuestions] = useState([]);
   const [usedQuestionIds, setUsedQuestionIds] = useState(new Set());
     const [topicProgress, setTopicProgress] = useState({}); // Track progress per topic
+  const [shuffledQuestionPool, setShuffledQuestionPool] = useState({}); // Shuffled question pool per topic
+  const [currentPoolIndex, setCurrentPoolIndex] = useState({}); // Current index in shuffled pool per topic
+  const [currentTopicKey, setCurrentTopicKey] = useState(null); // Currently selected topic key
   const [isRetakeTest, setIsRetakeTest] = useState(false); // Track if current test is a retake
   const [termsAccepted, setTermsAccepted] = useState(false); // Track terms acknowledgment
   const [showTermsModal, setShowTermsModal] = useState(false); // Track terms modal visibility
@@ -497,7 +501,7 @@ export default function ImprovedTestBankApp() {
     } else if (!studyMode && timeLeft === 0 && testStarted && screen === 'test') {
       finishTest();
     }
-  }, [testStarted, timeLeft, screen, studyMode, isPaused, finishTest]);
+  }, [testStarted, timeLeft, screen, studyMode, isPaused]);
 
   // Memoized statistics calculation
   const detailedStats = useMemo(() => {
@@ -720,12 +724,6 @@ export default function ImprovedTestBankApp() {
   };
 
   const nextQuestion = () => {
-    // Safety check: ensure we have a valid answer
-    if (selectedAnswer === null) {
-      console.warn('nextQuestion called with null selectedAnswer');
-      return;
-    }
-    
     const currentQuestion = selectedQuestions[currentQuestionIndex];
     const correctIndex = getCorrectAnswerIndex(currentQuestion);
     
@@ -742,77 +740,54 @@ export default function ImprovedTestBankApp() {
     };
     setReviewAnswers([...reviewAnswers, reviewData]);
     
-    // Check if this is the last question
-    const isLastQuestion = currentQuestionIndex >= selectedQuestions.length - 1;
-    
-    if (!isLastQuestion) {
-      // Move to next question
+    if (currentQuestionIndex < selectedQuestions.length - 1) {
       setCurrentQuestionIndex(currentQuestionIndex + 1);
       setSelectedAnswer(null);
       setIsAnswerSubmitted(false);
     } else {
-      // Finish the test - ensure this happens synchronously
-      console.log('Finishing test with', newAnswers.length, 'answers');
-      try {
-        finishTest(newAnswers);
-      } catch (error) {
-        console.error('Error in finishTest:', error);
-      }
+      finishTest(newAnswers);
     }
   };
 
-  const finishTest = useCallback((finalAnswers = answers) => {
-    console.log('finishTest called with', finalAnswers.length, 'answers out of', selectedQuestions.length, 'questions');
+  const finishTest = (finalAnswers = answers) => {
+    setTestStarted(false);
+    let correct = 0;
     
-    try {
-      setTestStarted(false);
-      let correct = 0;
-      
-      finalAnswers.forEach((answer, idx) => {
-        const correctIndex = getCorrectAnswerIndex(selectedQuestions[idx]);
-        if (answer === correctIndex) correct++;
-      });
-      
-      const score = selectedQuestions.length > 0 ? Math.round((correct / selectedQuestions.length) * 100) : 0;
-      const timeTaken = studyMode ? 0 : totalTestTime - timeLeft;
-      
-      // Update topic progress only for NEW tests (not retakes)
-      // Track the highest question number reached in this topic
-      if (!isRetakeTest) {
-        const topicKey = selectedSubtopic || selectedSubject;
-        const currentProgress = topicProgress[topicKey] || 0;
-        const newProgress = currentProgress + selectedQuestions.length;
-        setTopicProgress(prev => ({
-          ...prev,
-          [topicKey]: Math.max(currentProgress, newProgress)
-        }));
-      }
-      
-      const result = {
-        subject: selectedSubject,
-        subtopic: selectedSubtopic,
-        score,
-        correct,
-        total: selectedQuestions.length,
-        timeTaken,
-        date: new Date().toLocaleString(),
-        studyMode
-      };
-      
-      setTestHistory([result, ...testHistory]);
-      
-      // Force screen change after a brief delay to ensure state updates complete
-      setTimeout(() => {
-        setScreen('results');
-        console.log('Screen changed to results');
-      }, 100);
-    } catch (error) {
-      console.error('Error in finishTest:', error);
-      // Fallback: still try to show results screen
-      setTestStarted(false);
-      setScreen('results');
+    finalAnswers.forEach((answer, idx) => {
+      const correctIndex = getCorrectAnswerIndex(selectedQuestions[idx]);
+      if (answer === correctIndex) correct++;
+    });
+    
+    const score = selectedQuestions.length > 0 ? Math.round((correct / selectedQuestions.length) * 100) : 0;
+    const timeTaken = studyMode ? 0 : totalTestTime - timeLeft;
+    
+    // Update topic progress only for NEW tests (not retakes)
+    // Track the highest question number reached in this topic
+    if (!isRetakeTest) {
+      const topicKey = selectedSubtopic || selectedSubject;
+      const currentProgress = topicProgress[topicKey] || 0;
+      const newProgress = currentProgress + selectedQuestions.length;
+      setTopicProgress(prev => ({
+        ...prev,
+        [topicKey]: Math.max(currentProgress, newProgress)
+      }));
     }
-  }, [answers, selectedQuestions, studyMode, totalTestTime, timeLeft, isRetakeTest, selectedSubtopic, selectedSubject, topicProgress, testHistory]);
+    
+    const result = {
+      subject: selectedSubject,
+      subtopic: selectedSubtopic,
+      score,
+      correct,
+      total: selectedQuestions.length,
+      timeTaken,
+      date: new Date().toLocaleString(),
+      studyMode
+    };
+    
+    setTestHistory([result, ...testHistory]);
+    setShowReview(false);
+    setScreen('results');
+  };
 
   // Save partial progress when user exits mid-test
   const savePartialProgress = () => {
@@ -1699,9 +1674,9 @@ export default function ImprovedTestBankApp() {
             {/* Normal Submit/Next button (Test Mode and Study Mode after answer submitted) */}
             <button
               onClick={isAnswerSubmitted ? nextQuestion : submitAnswer}
-              disabled={(!isAnswerSubmitted && selectedAnswer === null) || isPaused}
+              disabled={selectedAnswer === null || isPaused}
               className={`w-full mt-6 py-4 rounded-xl font-bold text-lg transition-all ${
-                (isAnswerSubmitted || selectedAnswer !== null) && !isPaused
+                selectedAnswer !== null && !isPaused
                   ? isAnswerSubmitted 
                     ? 'bg-gradient-to-r from-blue-500 to-blue-600 text-white hover:shadow-lg'
                     : 'bg-gradient-to-r from-green-500 to-green-600 text-white hover:shadow-lg'
