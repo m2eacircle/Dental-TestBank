@@ -17,11 +17,7 @@
   "eslintConfig": {
     "extends": [
       "react-app"
-    ],
-    "rules": {
-      "no-useless-escape": "off",
-      "no-use-before-define": "off"
-    }
+    ]
   },
   "browserslist": {
     "production": [
