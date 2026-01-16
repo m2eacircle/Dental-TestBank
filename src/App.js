@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo } from 'react';
+import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import { Clock, Trophy, BarChart3, CheckCircle, XCircle, Home, Play, ArrowLeft, ChevronRight, Download, Flag, Eye, TrendingUp, Pause, X, Copy } from 'lucide-react';
 
 // Import everything from centralized index
@@ -154,7 +154,7 @@ const AIAssistantPanel = ({ question, options, show }) => {
         console.error('Auto-copy failed:', err);
       });
     }
-  }, [show]);
+  }, [show, formatQuestionForAI]);
   
   if (!show) return null;
   
@@ -378,16 +378,12 @@ export default function ImprovedTestBankApp() {
   const [isAnswerSubmitted, setIsAnswerSubmitted] = useState(false);
   const [studyMode, setStudyMode] = useState(false);
   const [flaggedQuestions, setFlaggedQuestions] = useState([]);
-  const [showReview, setShowReview] = useState(false);
   const [reviewAnswers, setReviewAnswers] = useState([]);
   const [isPaused, setIsPaused] = useState(false);
   const [parentSubject, setParentSubject] = useState(null);
   const [lastTestQuestions, setLastTestQuestions] = useState([]);
   const [usedQuestionIds, setUsedQuestionIds] = useState(new Set());
     const [topicProgress, setTopicProgress] = useState({}); // Track progress per topic
-  const [shuffledQuestionPool, setShuffledQuestionPool] = useState({}); // Shuffled question pool per topic
-  const [currentPoolIndex, setCurrentPoolIndex] = useState({}); // Current index in shuffled pool per topic
-  const [currentTopicKey, setCurrentTopicKey] = useState(null); // Currently selected topic key
   const [isRetakeTest, setIsRetakeTest] = useState(false); // Track if current test is a retake
   const [termsAccepted, setTermsAccepted] = useState(false); // Track terms acknowledgment
   const [showTermsModal, setShowTermsModal] = useState(false); // Track terms modal visibility
@@ -501,7 +497,7 @@ export default function ImprovedTestBankApp() {
     } else if (!studyMode && timeLeft === 0 && testStarted && screen === 'test') {
       finishTest();
     }
-  }, [testStarted, timeLeft, screen, studyMode, isPaused]);
+  }, [testStarted, timeLeft, screen, studyMode, isPaused, finishTest]);
 
   // Memoized statistics calculation
   const detailedStats = useMemo(() => {
@@ -765,7 +761,7 @@ export default function ImprovedTestBankApp() {
     }
   };
 
-  const finishTest = (finalAnswers = answers) => {
+  const finishTest = useCallback((finalAnswers = answers) => {
     console.log('finishTest called with', finalAnswers.length, 'answers out of', selectedQuestions.length, 'questions');
     
     try {
@@ -804,7 +800,6 @@ export default function ImprovedTestBankApp() {
       };
       
       setTestHistory([result, ...testHistory]);
-      setShowReview(false);
       
       // Force screen change after a brief delay to ensure state updates complete
       setTimeout(() => {
@@ -817,7 +812,7 @@ export default function ImprovedTestBankApp() {
       setTestStarted(false);
       setScreen('results');
     }
-  };
+  }, [answers, selectedQuestions, studyMode, totalTestTime, timeLeft, isRetakeTest, selectedSubtopic, selectedSubject, topicProgress, testHistory]);
 
   // Save partial progress when user exits mid-test
   const savePartialProgress = () => {
