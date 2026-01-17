@@ -614,7 +614,8 @@ export const subjectsWithSubtopics = {
     "3. Immunity and Infection (Part 2)",
     "4. Nervous System Disorders",
     "5. Stress and Associated Problems",
-    "6. Blood and Circulatory System Disorders"
+    "6. Blood and Circulatory System Disorders",
+    "7. Cardiovascular System (Part 1)"
   ],
   "Dental Materials Theory": [
     "1. Introduction to Dental Materials and Oral environment and patient considerations",
