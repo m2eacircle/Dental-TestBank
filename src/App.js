@@ -1819,6 +1819,12 @@ export default function ImprovedTestBankApp() {
   if (screen === 'results') {
     const lastResult = testHistory[0];
     
+    // Check if the topic is completed
+    const topicKey = selectedSubtopic || selectedSubject;
+    const totalQuestionsInTopic = (questionBank[topicKey] || []).length;
+    const currentProgress = topicProgress[topicKey] || 0;
+    const isTopicCompleted = currentProgress >= totalQuestionsInTopic;
+    
     return (
       <ScreenWithTerms showTermsModal={showTermsModal} onCloseTerms={() => setShowTermsModal(false)}>
       <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
@@ -1831,6 +1837,14 @@ export default function ImprovedTestBankApp() {
               </h2>
               <p className="text-gray-600">{lastResult.subject}</p>
               {lastResult.subtopic && <p className="text-sm text-gray-500">{lastResult.subtopic}</p>}
+              
+              {/* Show completion badge if topic is completed */}
+              {isTopicCompleted && (
+                <div className="mt-4 inline-flex items-center bg-green-100 text-green-800 px-4 py-2 rounded-full font-semibold">
+                  <CheckCircle className="w-5 h-5 mr-2" />
+                  Topic Completed! ({currentProgress}/{totalQuestionsInTopic} questions)
+                </div>
+              )}
             </div>
 
             <div className="bg-gradient-to-r from-blue-50 to-purple-50 rounded-2xl p-6 mb-6">
@@ -1876,15 +1890,25 @@ export default function ImprovedTestBankApp() {
                 </button>
               )}
               <button
-                onClick={() => startTest(selectedSubject, selectedSubtopic, true)}
-                className="w-full bg-gradient-to-r from-blue-500 to-blue-600 text-white py-4 rounded-xl font-semibold hover:shadow-lg transition-all flex items-center justify-center"
+                onClick={() => !isTopicCompleted && startTest(selectedSubject, selectedSubtopic, true)}
+                disabled={isTopicCompleted}
+                className={`w-full py-4 rounded-xl font-semibold transition-all flex items-center justify-center ${
+                  isTopicCompleted 
+                    ? 'bg-gray-300 text-gray-500 cursor-not-allowed' 
+                    : 'bg-gradient-to-r from-blue-500 to-blue-600 text-white hover:shadow-lg'
+                }`}
               >
                 <Play className="w-5 h-5 mr-2" />
                 Retake Test (Same Questions)
               </button>
               <button
-                onClick={() => startTest(selectedSubject, selectedSubtopic, false)}
-                className="w-full bg-gradient-to-r from-green-500 to-green-600 text-white py-4 rounded-xl font-semibold hover:shadow-lg transition-all flex items-center justify-center"
+                onClick={() => !isTopicCompleted && startTest(selectedSubject, selectedSubtopic, false)}
+                disabled={isTopicCompleted}
+                className={`w-full py-4 rounded-xl font-semibold transition-all flex items-center justify-center ${
+                  isTopicCompleted 
+                    ? 'bg-gray-300 text-gray-500 cursor-not-allowed' 
+                    : 'bg-gradient-to-r from-green-500 to-green-600 text-white hover:shadow-lg'
+                }`}
               >
                 <ChevronRight className="w-5 h-5 mr-2" />
                 Next Test (New Questions)
