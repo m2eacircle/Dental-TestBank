@@ -1628,7 +1628,6 @@ export const questions = {
   ],
 
   "7. Cardiovascular System (Part 2)": [
-    { id: 1426, question: "Create new '7. Cardiovascular System (Part 2)' topic to the attached 'lesson2-pathophysiology.js' file and add below questions. Which structure initiates the electrical impulse that starts normal cardiac contraction?", options: ["Atrioventricular node in the ventricular septum","Sinoatrial node in the right atrial wall","Bundle of His in the interventricular septum","Purkinje fibers in the ventricular walls"], correct: 1 },
     { id: 1427, question: "Which structure is the only normal electrical connection between the atria and ventricles?", options: ["Purkinje fiber network","Sinoatrial node","Atrioventricular node","Right coronary artery"], correct: 2 },
     { id: 1428, question: "Which ECG wave represents ventricular depolarization?", options: ["P wave","T wave","PR interval","QRS complex"], correct: 3 },
     { id: 1429, question: "The cardiac control center that regulates heart rate is located in the:", options: ["Hypothalamus","Cerebellum","Medulla oblongata","Cerebral cortex"], correct: 2 },
@@ -1673,7 +1672,6 @@ export const questions = {
   ],
 
   "8. Respiratory System Disorders (Part 2)": [
-    { id: 1468, question: "Create new '8. Respiratory System Disorders (Part 2)' topic to the attached 'lesson2-pathophysiology.js' file and add below questions. Nasal passages primarily function to:", options: ["Exchange oxygen and carbon dioxide directly","Warm, moisten air, and filter foreign materials","Produce surfactant for alveoli","Regulate blood pH levels"], correct: 1 },
     { id: 1469, question: "Which structure is a connected system of hollow cavities in the skull?", options: ["Tonsils","Bronchi","Sinuses","Alveoli"], correct: 2 },
     { id: 1470, question: "Which sinus is located between the eyes?", options: ["Maxillary","Ethmoid","Frontal","Sphenoid"], correct: 1 },
     { id: 1471, question: "The ciliary escalator functions mainly to:", options: ["Increase oxygen diffusion in alveoli","Produce mucus for lubrication only","Trap particles and move them upward","Regulate bronchial smooth muscle tone"], correct: 2 },
@@ -1725,7 +1723,6 @@ export const questions = {
   ],
 
   "9. Digestive System Disorders (Part 2)": [
-    { id: 1517, question: "Create new '9. Digestive System Disorders (Part 2)' topic to the attached 'lesson2-pathophysiology.js' file and add below questions. The gastrointestinal (GI) tract is best described as:", options: ["A solid organ system limited to digestion","A hollow tube extending from mouth to anus","A glandular system producing digestive enzymes","A muscular system controlling metabolism"], correct: 1 },
     { id: 1518, question: "Which structure is NOT considered an accessory digestive organ?", options: ["Liver","Pancreas","Gallbladder","Esophagus"], correct: 3 },
     { id: 1519, question: "The peritoneum is best defined as:", options: ["A muscular layer of the intestine","A serous membrane lining the abdominal cavity","A digestive enzyme-producing gland","A connective tissue supporting the liver"], correct: 1 },
     { id: 1520, question: "Mechanical breakdown of food begins primarily in the:", options: ["Esophagus","Stomach","Oral cavity","Duodenum"], correct: 2 },
