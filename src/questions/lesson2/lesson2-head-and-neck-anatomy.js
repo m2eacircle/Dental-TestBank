@@ -10796,7 +10796,7 @@ export const questions = {
         "Second trimester",
         "Third trimester",
       ],
-      correct: "B"
+      correct: "C"
     },
     {
       id: 11806,
@@ -12250,7 +12250,7 @@ export const questions = {
         "Third trimester",
         "They cannot be used during pregnancy"
       ],
-      correct: "A"
+      correct: "B"
     },
     {
       id: 12107,
