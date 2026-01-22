@@ -601,17 +601,35 @@ export default function ImprovedTestBankApp() {
       const questionKey = subtopic || subject;
       const allQuestions = questionBank[questionKey] || [];
       
-      // Reset topic progress when selecting a DIFFERENT topic (but not on retake)
-      if (!isRetake && questionKey !== (selectedSubtopic || selectedSubject)) {
+      if (allQuestions.length === 0) {
+        alert('No questions available for this topic yet.');
+        return;
+      }
+      
+      // Check if topic is completed
+      const currentProgress = topicProgress[questionKey] || 0;
+      const totalQuestionsInTopic = allQuestions.length;
+      const isTopicCompleted = currentProgress >= totalQuestionsInTopic;
+      
+      // If topic is completed, reset everything for a fresh start
+      if (isTopicCompleted && !isRetake) {
         setTopicProgress(prev => ({
           ...prev,
           [questionKey]: 0
         }));
+        setUsedQuestionIds(prev => {
+          const newSet = new Set(prev);
+          allQuestions.forEach(q => newSet.delete(q.id));
+          return newSet;
+        });
       }
       
-      if (allQuestions.length === 0) {
-        alert('No questions available for this topic yet.');
-        return;
+      // Reset topic progress when selecting a DIFFERENT topic (but not on retake)
+      if (!isRetake && questionKey !== (selectedSubtopic || selectedSubject) && !isTopicCompleted) {
+        setTopicProgress(prev => ({
+          ...prev,
+          [questionKey]: 0
+        }));
       }
       
       let questionsToUse;
@@ -626,7 +644,6 @@ export default function ImprovedTestBankApp() {
         if (availableQuestions.length === 0) {
           // All questions used, reset
           setUsedQuestionIds(new Set());
-          alert('You\'ve completed all available questions! Starting fresh with new questions.');
           questionsToUse = shuffleArray(allQuestions);
         } else {
           questionsToUse = shuffleArray(availableQuestions);
@@ -1840,9 +1857,14 @@ export default function ImprovedTestBankApp() {
               
               {/* Show completion badge if topic is completed */}
               {isTopicCompleted && (
-                <div className="mt-4 inline-flex items-center bg-green-100 text-green-800 px-4 py-2 rounded-full font-semibold">
-                  <CheckCircle className="w-5 h-5 mr-2" />
-                  Topic Completed! ({currentProgress}/{totalQuestionsInTopic} questions)
+                <div className="mt-4 space-y-2">
+                  <div className="inline-flex items-center bg-green-100 text-green-800 px-4 py-2 rounded-full font-semibold">
+                    <CheckCircle className="w-5 h-5 mr-2" />
+                    Topic Completed! ({currentProgress}/{totalQuestionsInTopic} questions)
+                  </div>
+                  <p className="text-sm text-gray-600 mt-2">
+                    Starting a new test will reset your progress and reshuffle all questions.
+                  </p>
                 </div>
               )}
             </div>
@@ -1890,28 +1912,18 @@ export default function ImprovedTestBankApp() {
                 </button>
               )}
               <button
-                onClick={() => !isTopicCompleted && startTest(selectedSubject, selectedSubtopic, true)}
-                disabled={isTopicCompleted}
-                className={`w-full py-4 rounded-xl font-semibold transition-all flex items-center justify-center ${
-                  isTopicCompleted 
-                    ? 'bg-gray-300 text-gray-500 cursor-not-allowed' 
-                    : 'bg-gradient-to-r from-blue-500 to-blue-600 text-white hover:shadow-lg'
-                }`}
+                onClick={() => startTest(selectedSubject, selectedSubtopic, true)}
+                className="w-full bg-gradient-to-r from-blue-500 to-blue-600 text-white py-4 rounded-xl font-semibold hover:shadow-lg transition-all flex items-center justify-center"
               >
                 <Play className="w-5 h-5 mr-2" />
                 Retake Test (Same Questions)
               </button>
               <button
-                onClick={() => !isTopicCompleted && startTest(selectedSubject, selectedSubtopic, false)}
-                disabled={isTopicCompleted}
-                className={`w-full py-4 rounded-xl font-semibold transition-all flex items-center justify-center ${
-                  isTopicCompleted 
-                    ? 'bg-gray-300 text-gray-500 cursor-not-allowed' 
-                    : 'bg-gradient-to-r from-green-500 to-green-600 text-white hover:shadow-lg'
-                }`}
+                onClick={() => startTest(selectedSubject, selectedSubtopic, false)}
+                className="w-full bg-gradient-to-r from-green-500 to-green-600 text-white py-4 rounded-xl font-semibold hover:shadow-lg transition-all flex items-center justify-center"
               >
                 <ChevronRight className="w-5 h-5 mr-2" />
-                Next Test (New Questions)
+                {isTopicCompleted ? 'Start Fresh (Reset & Reshuffle)' : 'Next Test (New Questions)'}
               </button>
               {selectedSubtopic && (
                 <button
