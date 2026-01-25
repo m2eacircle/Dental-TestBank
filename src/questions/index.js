@@ -679,7 +679,7 @@ export const subjectsWithSubtopics = {
     "1. Pharmacodynamics, ADME, and Adverse Drug Reactions",
     "2. Drug Metabolism, Antibiotics, and Clinical Pharmacology",
     "3. Clinical Case Applications and Patient Care Scenarios"
-  ]
+  ],
   "Oral Health Education": [
     "1. Soft and Hard Deposits",
     "2. Toothbrushing",
