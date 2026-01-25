@@ -2751,5 +2751,3 @@ export const questions = {
     { id: 3573, question: "Lead foil from film packets should be collected separately for recycling.", options: ["True", "False"], correct: 0 }
   ]
 };
-
-export default radiographyQuestions;
