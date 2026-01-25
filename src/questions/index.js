@@ -771,6 +771,12 @@ export const questionBankMetadata = {
       totalQuestions: 691,
       file: 'lesson2-pharmacology.js'
     },
+    oralHealthEducation: {
+      name: 'Oral Health Education',
+      topics: 10,
+      totalQuestions: 0,
+      file: 'lesson2-oral-health-education.js'
+    },    
     professionalFoundations: {
       name: 'Professional Foundations',
       topics: 0,
