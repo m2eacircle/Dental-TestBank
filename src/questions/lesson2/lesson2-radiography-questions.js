@@ -2056,7 +2056,7 @@ export const radiographyQuestions = {
     { id: 2887, question: "What is the average dose of human-made radiation per year?", options: ["1.0 mSv/year", "2.0 mSv/year", "3.1 mSv/year", "5.0 mSv/year"], correct: 2 },
     { id: 2888, question: "What is the total average radiation exposure per person per year?", options: ["3.1 mSv", "4.5 mSv", "6.2 mSv", "9.0 mSv"], correct: 2 },
     { id: 2889, question: "What is the estimated risk of dental radiography inducing a fatal cancer?", options: ["3 in 100", "3 in 1,000", "3 in 10,000", "3 in 1 million"], correct: 3 },
-    { id: 2890, question: "What is the risk of a person spontaneously developing cancer?", options: ["33 in 1 million", "330 in 1 million", "3300 in 1 million", "33,000 in 1 million"], correct: 2 },
+    { id: 2890, question: "What is the risk of a person spontaneously developing cancer?", options: ["33 in 1 million", "330 in 1 million", "3300 in 1 million", "33,000 in 1 million"], correct: 4 },
     { id: 2891, question: "How much radiation is necessary to induce cancer in the thyroid gland?", options: ["0.006 Gy", "0.06 Gy (6000 mrad)", "0.6 Gy", "6.0 Gy"], correct: 1 },
     { id: 2892, question: "Does the thyroid dose from dental imaging reach levels that can induce cancer?", options: ["Yes, regularly", "Yes, in most cases", "Sometimes, depending on technique", "No, such large doses do not occur in dental imaging"], correct: 3 },
     { id: 2893, question: "How much radiation is necessary to induce leukemia?", options: ["0.005 Gy", "0.05 Gy (5000 mrad) or more", "0.5 Gy", "5.0 Gy"], correct: 1 },
