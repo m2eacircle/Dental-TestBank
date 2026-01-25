@@ -776,7 +776,7 @@ export const questionBankMetadata = {
     oralHealthEducation: {
       name: 'Oral Health Education',
       topics: 10,
-      totalQuestions: 0,
+      totalQuestions: 948,
       file: 'lesson2-oral-health-education.js'
     },
     professionalFoundations: {
