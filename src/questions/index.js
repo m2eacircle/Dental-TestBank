@@ -127,10 +127,8 @@ export const subjectsWithSubtopics = {
   ],
   "Lesson 2": [
     "Dental Hygiene Clinic II",
-    "Dental Hygiene Theory II",
     "Dental Materials Theory",
     "Dental Radiography Interpretation",
-    "Dental Radiography Lab",
     "Dental Radiography Theory",
     "Head and Neck Anatomy",
     "Oral Health Education",
