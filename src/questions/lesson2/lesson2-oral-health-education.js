@@ -13,6 +13,7 @@
 export const questions = {
   "1. Soft and Hard Deposits": [
     {
+      id: 40001,
       question: "What is the primary purpose of oral hygiene assessment?",
       choices: [
       "To determine only the amount of hard deposits",
@@ -23,6 +24,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40002,
       question: "Which assessment tool is specifically used to make oral biofilm clinically visible?",
       choices: [
       "Periodontal explorer",
@@ -33,6 +35,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40003,
       question: "What are the three different types of disclosing agents mentioned in the document?",
       choices: [
       "Powder, spray, and foam",
@@ -43,6 +46,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40004,
       question: "According to the document, soft and hard dental deposits are assessed according to location. Which locations are specified?",
       choices: [
       "Anterior and posterior only",
@@ -53,6 +57,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40005,
       question: "When assessing the extent and distribution of deposits, which classification indicates the most severe condition?",
       choices: [
       "Slight",
@@ -63,6 +68,7 @@ export const questions = {
       correctAnswer: "D"
     },
     {
+      id: 40006,
       question: "Dental plaque is defined as a dense, nonmineralized mass of bacterial colonies in what type of matrix?",
       choices: [
       "Crystalline, rigid, water-based matrix",
@@ -73,6 +79,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40007,
       question: "What property does dental plaque exhibit according to the document?",
       choices: [
       "Easily removable and water-soluble properties",
@@ -83,6 +90,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40008,
       question: "What is the first stage of biofilm formation?",
       choices: [
       "Rapid growth bacterial colonization",
@@ -93,6 +101,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40009,
       question: "During which stage of biofilm formation do planktonic bacteria become sessile and growth lags?",
       choices: [
       "Initial adherence stage",
@@ -103,6 +112,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40010,
       question: "In the rapid growth bacterial colonization stage, what begins to form?",
       choices: [
       "Pellicle layer only",
@@ -113,6 +123,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40011,
       question: "What occurs during the steady state and detachment stage of biofilm formation?",
       choices: [
       "Pellicle provides attachment sites",
@@ -123,6 +134,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40012,
       question: "What is the most effective way to clinically assess the presence of oral biofilm?",
       choices: [
       "Visual observation only",
@@ -133,6 +145,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40013,
       question: "What influences the growth, retention, and removal of oral biofilm according to the document?",
       choices: [
       "Only patient age and gender",
@@ -143,6 +156,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40014,
       question: "Dental calculus is defined as oral biofilm that has been mineralized by which substances?",
       choices: [
       "Fluoride and chloride salts",
@@ -153,6 +167,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40015,
       question: "What is another common name for dental calculus?",
       choices: [
       "Plaque",
@@ -163,6 +178,7 @@ export const questions = {
       correctAnswer: "D"
     },
     {
+      id: 40016,
       question: "Where is supragingival calculus located?",
       choices: [
       "Below the free gingival margin",
@@ -173,6 +189,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40017,
       question: "What are the most common locations for supragingival calculus formation?",
       choices: [
       "Sublingual and parotid salivary gland ducts",
@@ -183,6 +200,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40018,
       question: "What is the most effective way to identify supragingival calculus?",
       choices: [
       "Tactile examination only",
@@ -193,6 +211,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40019,
       question: "What color does supragingival calculus typically appear?",
       choices: [
       "Always dark brown or black",
@@ -203,6 +222,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40020,
       question: "Where is subgingival calculus located?",
       choices: [
       "Above the free gingival margin",
@@ -213,6 +233,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40021,
       question: "What is the most effective way to identify subgingival calculus?",
       choices: [
       "Visual observation only",
@@ -223,6 +244,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40022,
       question: "How does subgingival calculus appear on radiographs or through thin gingiva?",
       choices: [
       "Bright white and opaque",
@@ -233,6 +255,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40023,
       question: "What characteristics describe subgingival calculus deposits?",
       choices: [
       "Soft and easily removed",
@@ -243,6 +266,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40024,
       question: "Approximately how many days are typically required for oral biofilm to become mineralized calculus?",
       choices: [
       "1 to 5 days",
@@ -253,6 +277,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40025,
       question: "What do heavy calculus formers have higher salivary concentrations of compared to light formers?",
       choices: [
       "Sodium and chloride",
@@ -263,6 +288,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40026,
       question: "What do light calculus formers have higher salivary levels of compared to heavy formers?",
       choices: [
       "Calcium",
@@ -273,6 +299,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40027,
       question: "What is materia alba?",
       choices: [
       "A hard, mineralized deposit on teeth",
@@ -283,6 +310,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40028,
       question: "What color does materia alba typically present as on teeth?",
       choices: [
       "Black or dark brown",
@@ -293,6 +321,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40029,
       question: "What is food debris composed of?",
       choices: [
       "Only bacteria",
@@ -303,6 +332,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40030,
       question: "Tooth stains are defined as what?",
       choices: [
       "Normal tooth color variations",
@@ -313,6 +343,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40031,
       question: "What are intrinsic stains?",
       choices: [
       "Stains that can be removed by scaling or polishing",
@@ -323,6 +354,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40032,
       question: "What are extrinsic stains?",
       choices: [
       "Stains within the tooth structure that cannot be removed",
@@ -333,6 +365,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40033,
       question: "What are oral hygiene indices used to measure?",
       choices: [
       "Only the color of teeth",
@@ -343,6 +376,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40034,
       question: "What does the O'Leary Plaque Score demonstrate?",
       choices: [
       "Only calculus levels",
@@ -353,6 +387,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40035,
       question: "According to the Calculus Index (CI), what does a score of 0 indicate?",
       choices: [
       "Heavy calculus present",
@@ -363,6 +398,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40036,
       question: "According to the Calculus Index, what does a score of 1 indicate?",
       choices: [
       "No calculus present",
@@ -373,6 +409,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40037,
       question: "According to the Calculus Index, what does a score of 2 indicate?",
       choices: [
       "No calculus present",
@@ -383,6 +420,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40038,
       question: "According to the Calculus Index, what does a score of 3 indicate?",
       choices: [
       "No calculus present",
@@ -393,6 +431,7 @@ export const questions = {
       correctAnswer: "D"
     },
     {
+      id: 40039,
       question: "How should a client's ability to manage oral self-care be assessed?",
       choices: [
       "Through written tests only",
@@ -403,6 +442,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40040,
       question: "Why is maintaining a record of a client's oral hygiene status important?",
       choices: [
       "For insurance purposes only",
@@ -413,6 +453,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40041,
       question: "What should be documented regarding oral hygiene products in the client's record?",
       choices: [
       "Only the brand names",
@@ -423,6 +464,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40042,
       question: "In biofilm formation, what does the pellicle provide?",
       choices: [
       "Nutrients for bacteria",
@@ -433,6 +475,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40043,
       question: "What type of bacteria transition occurs during the lag phase of biofilm formation?",
       choices: [
       "Sessile to planktonic",
@@ -443,6 +486,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40044,
       question: "What connects bacterial colonies during the steady state of biofilm formation?",
       choices: [
       "Pellicle layer",
@@ -453,6 +497,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40045,
       question: "When assessing deposits by amount, what are the two categories mentioned?",
       choices: [
       "Mild and severe",
@@ -463,6 +508,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40046,
       question: "What environmental surface does dental plaque attach to according to the definition?",
       choices: [
       "Dry surface",
@@ -473,6 +519,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40047,
       question: "Which assessment tool uses compressed air in conjunction with visual observation?",
       choices: [
       "Plaque assessment",
@@ -483,6 +530,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40048,
       question: "What is the primary difference between supragingival and subgingival calculus in terms of identification method?",
       choices: [
       "Both use only visual observation",
@@ -493,6 +541,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40049,
       question: "What type of deposit is described as having self-sustaining and protective properties?",
       choices: [
       "Materia alba",
@@ -503,6 +552,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40050,
       question: "What can materia alba be removed with?",
       choices: [
       "Scaling only",
@@ -513,6 +563,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40051,
       question: "What is the relationship between calculus formation time and oral biofilm?",
       choices: [
       "Biofilm forms from calculus",
@@ -523,6 +574,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40052,
       question: "Which stage of biofilm formation involves the formation of the water-insoluble slime matrix?",
       choices: [
       "Initial adherence",
@@ -533,6 +585,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40053,
       question: "What lives symbiotically during the steady state stage of biofilm formation?",
       choices: [
       "Only one species of bacteria",
@@ -543,6 +596,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40054,
       question: "What makes subgingival calculus occasionally visible without instruments?",
       choices: [
       "Its bright white color",
@@ -553,6 +607,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40055,
       question: "What factor influences whether someone is a heavy or light calculus former?",
       choices: [
       "Age only",
@@ -563,6 +618,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40056,
       question: "According to the document, what should assessment of oral biofilm begin with?",
       choices: [
       "Measuring pocket depths",
@@ -573,6 +629,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40057,
       question: "What type of cells are included in materia alba composition?",
       choices: [
       "Only bacterial cells",
@@ -583,6 +640,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40058,
       question: "Which component is NOT mentioned as part of materia alba?",
       choices: [
       "Bacteria",
@@ -593,6 +651,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40059,
       question: "What is the key difference between intrinsic and extrinsic stains regarding removal?",
       choices: [
       "Both can be removed equally",
@@ -603,6 +662,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40060,
       question: "When do intrinsic stains result according to the document?",
       choices: [
       "From surface deposits only",
@@ -613,6 +673,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40061,
       question: "What is the purpose of establishing a baseline for an individual using oral hygiene indices?",
       choices: [
       "For comparison with future assessments",
@@ -623,6 +684,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40062,
       question: "What can oral hygiene indices be used to evaluate?",
       choices: [
       "Only patient compliance",
@@ -633,6 +695,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40063,
       question: "Dental plaque is a mineralized mass of bacterial colonies.",
       choices: [
       "True",
@@ -641,6 +704,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40064,
       question: "Disclosing agents are used to make oral biofilm clinically visible.",
       choices: [
       "True",
@@ -649,6 +713,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40065,
       question: "Supragingival calculus is located below the free gingival margin.",
       choices: [
       "True",
@@ -657,6 +722,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40066,
       question: "It typically takes approximately 10 to 20 days for oral biofilm to become mineralized calculus.",
       choices: [
       "True",
@@ -665,6 +731,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40067,
       question: "Heavy calculus formers have higher salivary concentrations of calcium and phosphate compared to light formers.",
       choices: [
       "True",
@@ -673,6 +740,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40068,
       question: "Intrinsic stains can be removed by scaling or polishing.",
       choices: [
       "True",
@@ -681,6 +749,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40069,
       question: "Extrinsic stains occur on the tooth surface and can usually be removed with coronal polishing or scaling.",
       choices: [
       "True",
@@ -689,6 +758,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40070,
       question: "The most effective way to identify subgingival calculus is through visual observation with compressed air.",
       choices: [
       "True",
@@ -699,6 +769,7 @@ export const questions = {
   ],
   "2. Toothbrushing": [
     {
+      id: 40071,
       question: "What is the most commonly used device for removing oral biofilm?",
       choices: [
       "Interdental brushes",
@@ -709,6 +780,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40072,
       question: "Manual toothbrushes are designed to remove oral biofilm from which tooth surfaces?",
       choices: [
       "Facial, lingual, and occlusal surfaces",
@@ -719,6 +791,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40073,
       question: "Which characteristic is NOT listed as essential for an effective toothbrush?",
       choices: [
       "Appropriate strength, rigidity, and weight",
@@ -729,6 +802,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40074,
       question: "What is the typical length of most toothbrush filaments?",
       choices: [
       "5 to 7 mm long",
@@ -739,6 +813,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40075,
       question: "How does filament design affect toothbrushing?",
       choices: [
       "It affects toothbrushing efficacy",
@@ -749,6 +824,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40076,
       question: "Power toothbrushes are typically activated by what source?",
       choices: [
       "Manual hand motion only",
@@ -759,6 +835,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40077,
       question: "For which group are power toothbrushes especially beneficial?",
       choices: [
       "Professional athletes only",
@@ -769,6 +846,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40078,
       question: "Which mode of action involves oscillation-rotations with microvibrations?",
       choices: [
       "Circular mode",
@@ -779,6 +857,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40079,
       question: "What type of power toothbrush has bristles that vibrate at ultrasonic frequencies greater than 20 kHz?",
       choices: [
       "Circular power toothbrush",
@@ -789,6 +868,7 @@ export const questions = {
       correctAnswer: "D"
     },
     {
+      id: 40080,
       question: "Which power toothbrush mode involves the entire brush head rotating in one direction?",
       choices: [
       "Side-to-side mode",
@@ -799,6 +879,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40081,
       question: "Power toothbrushes are particularly indicated for individuals with which condition?",
       choices: [
       "Perfect oral health only",
@@ -809,6 +890,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40082,
       question: "Which is an indication for power toothbrush use?",
       choices: [
       "Healthy gingiva only",
@@ -819,6 +901,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40083,
       question: "What type of instructions do manual and power toothbrushes require?",
       choices: [
       "Generic universal instructions for all",
@@ -829,6 +912,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40084,
       question: "What is the minimum recommended duration for toothbrushing?",
       choices: [
       "30 seconds",
@@ -839,6 +923,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40085,
       question: "How often is brushing commonly recommended?",
       choices: [
       "Once daily",
@@ -849,6 +934,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40086,
       question: "What is a common problem clients face regarding toothbrushing force?",
       choices: [
       "They apply too little pressure",
@@ -859,6 +945,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40087,
       question: "What type of grasp do clinicians recommend to help reduce brushing force?",
       choices: [
       "Palm grasp",
@@ -869,6 +956,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40088,
       question: "What feature do some power toothbrushes have to prevent excessive force application?",
       choices: [
       "Louder motors",
@@ -879,6 +967,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40089,
       question: "In the Bass toothbrushing method, at what angle are filaments directed to the long axis of the tooth?",
       choices: [
       "90 degrees",
@@ -889,6 +978,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40090,
       question: "What is another name for the Bass toothbrushing method?",
       choices: [
       "Crown technique",
@@ -899,6 +989,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40091,
       question: "In which direction are filaments directed in the Bass method?",
       choices: [
       "Toward the crown",
@@ -909,6 +1000,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40092,
       question: "How are the filaments positioned in the Stillman method compared to the Bass method?",
       choices: [
       "They are directed occlusally",
@@ -919,6 +1011,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40093,
       question: "In the Stillman method, where are filaments placed?",
       choices: [
       "Only on tooth surfaces",
@@ -929,6 +1022,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40094,
       question: "What is the key characteristic of the Charter method?",
       choices: [
       "Filaments directed apically",
@@ -939,6 +1033,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40095,
       question: "At what angle are filaments positioned in the Charter method?",
       choices: [
       "90 degrees to tooth axis",
@@ -949,6 +1044,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40096,
       question: "What motion characterizes the Roll Stroke method?",
       choices: [
       "Horizontal back-and-forth motion",
@@ -959,6 +1055,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40097,
       question: "What modification is made in the Modified Bass, Stillman, and Charter methods?",
       choices: [
       "Use of electric brush only",
@@ -969,6 +1066,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40098,
       question: "What motion characterizes the Fones method?",
       choices: [
       "Vertical strokes",
@@ -979,6 +1077,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40099,
       question: "For whom is the Fones method recommended?",
       choices: [
       "Adults with periodontal disease",
@@ -989,6 +1088,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40100,
       question: "What characterizes the Horizontal Scrub technique?",
       choices: [
       "Circular brushing motions",
@@ -999,6 +1099,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40101,
       question: "For which surfaces is the Horizontal Scrub technique recommended?",
       choices: [
       "All tooth surfaces",
@@ -1009,6 +1110,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40102,
       question: "What is the primary indication for the Bass (sulcular) method?",
       choices: [
       "Orthodontic appliances",
@@ -1019,6 +1121,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40103,
       question: "The Stillman method is indicated for which condition?",
       choices: [
       "Orthodontic treatment",
@@ -1029,6 +1132,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40104,
       question: "For what purpose is the Charter method particularly useful?",
       choices: [
       "Heavy calculus removal",
@@ -1039,6 +1143,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40105,
       question: "When is the Roll Stroke method used?",
       choices: [
       "As a standalone method only",
@@ -1049,6 +1154,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40106,
       question: "What should be included when educating patients about toothbrushing?",
       choices: [
       "Only verbal instructions",
@@ -1059,6 +1165,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40107,
       question: "According to patient education tips, what should be incorporated along with toothbrushing?",
       choices: [
       "Only fluoride toothpaste",
@@ -1069,6 +1176,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40108,
       question: "What should be explained to patients regarding tongue brushing?",
       choices: [
       "It is unnecessary",
@@ -1079,6 +1187,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40109,
       question: "What ethical principle requires dental hygienists to increase public awareness of oral health practices?",
       choices: [
       "Autonomy",
@@ -1089,6 +1198,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40110,
       question: "What does beneficent dental hygiene care require?",
       choices: [
       "Minimal patient interaction",
@@ -1099,6 +1209,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40111,
       question: "The ethical principle of autonomy requires dental hygienists to do what?",
       choices: [
       "Make all decisions for patients",
@@ -1109,6 +1220,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40112,
       question: "What should care plans include regarding oral biofilm?",
       choices: [
       "Only professional cleaning",
@@ -1119,6 +1231,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40113,
       question: "What must be documented in the patient's legal record?",
       choices: [
       "Only the appointment date",
@@ -1129,6 +1242,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40114,
       question: "What form can toothbrush trauma appear as on soft tissues?",
       choices: [
       "Only bleeding gums",
@@ -1139,6 +1253,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40115,
       question: "What percentage of middle-aged Americans experience gingival recession to some degree?",
       choices: [
       "20% to 40%",
@@ -1149,6 +1264,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40116,
       question: "What risks are associated with gingival recession?",
       choices: [
       "Only cosmetic concerns",
@@ -1159,6 +1275,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40117,
       question: "The cause of gingival recession is described as what?",
       choices: [
       "Only toothbrushing factors",
@@ -1169,6 +1286,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40118,
       question: "Which is considered a pathologic factor contributing to recession?",
       choices: [
       "Tooth color",
@@ -1179,6 +1297,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40119,
       question: "Where is tooth abrasion typically located?",
       choices: [
       "On the incisal edges",
@@ -1189,6 +1308,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40120,
       question: "What causes dental abfractions?",
       choices: [
       "Poor oral hygiene only",
@@ -1199,6 +1319,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40121,
       question: "What are noncarious cervical lesions (NCCL) caused by?",
       choices: [
       "Bacterial infection",
@@ -1209,6 +1330,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40122,
       question: "What benefits does tongue cleansing provide?",
       choices: [
       "Only fresher breath",
@@ -1219,6 +1341,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40123,
       question: "What tools can be used for tongue cleaning?",
       choices: [
       "Only specialized scrapers",
@@ -1229,6 +1352,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40124,
       question: "What can result from vigorous tongue scrubbing or scraping?",
       choices: [
       "Improved taste only",
@@ -1239,6 +1363,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40125,
       question: "How should a toothbrush be cared for after use?",
       choices: [
       "Stored in a closed container immediately",
@@ -1249,6 +1374,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40126,
       question: "Can toothbrushes be a mode of indirect transmission for pathogenic organisms?",
       choices: [
       "No, they are always sterile",
@@ -1259,6 +1385,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40127,
       question: "Have studies confirmed that toothbrush contamination results in disease transmission?",
       choices: [
       "Yes, definitely",
@@ -1269,6 +1396,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40128,
       question: "When should instruction, practice, and reinforcement of toothbrushing be provided?",
       choices: [
       "Only at the first appointment",
@@ -1279,6 +1407,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40129,
       question: "What must hygienists be aware of when working with clients?",
       choices: [
       "Only their technical skills",
@@ -1289,6 +1418,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40130,
       question: "In shared decision-making, what does the dental hygienist provide to the patient?",
       choices: [
       "Only treatment options",
@@ -1299,6 +1429,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40131,
       question: "What does the patient provide to the dental hygienist in shared decision-making?",
       choices: [
       "Only payment",
@@ -1309,6 +1440,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40132,
       question: "Who may be included in the deliberation and decision-making process?",
       choices: [
       "Only the patient",
@@ -1319,6 +1451,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40133,
       question: "What is the direction of knowledge transfer in shared decision-making?",
       choices: [
       "One-way from hygienist to patient",
@@ -1329,6 +1462,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40134,
       question: "What should be communicated to patients in a manner appropriate to?",
       choices: [
       "Only clinical standards",
@@ -1339,6 +1473,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40135,
       question: "What should toothbrushing effectiveness be correlated with?",
       choices: [
       "Only time spent brushing",
@@ -1349,6 +1484,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40136,
       question: "What should be discussed with patients who exhibit gingival recession?",
       choices: [
       "Only cosmetic treatments",
@@ -1359,6 +1495,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40137,
       question: "Power toothbrushes are safe and effective.",
       choices: [
       "True",
@@ -1367,6 +1504,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40138,
       question: "Filament design affects toothbrushing efficacy.",
       choices: [
       "True",
@@ -1375,6 +1513,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40139,
       question: "Most toothbrush filaments are 15 to 18 mm long.",
       choices: [
       "True",
@@ -1383,6 +1522,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40140,
       question: "Power toothbrushes are suitable for almost any client.",
       choices: [
       "True",
@@ -1391,6 +1531,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40141,
       question: "The Oral-B oscillating rotating power toothbrush has the ADA Seal of Acceptance.",
       choices: [
       "True",
@@ -1399,6 +1540,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40142,
       question: "Sonic power toothbrushes cause fluid motion through sound waves.",
       choices: [
       "True",
@@ -1407,6 +1549,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40143,
       question: "Toothbrushing duration should be a minimum of 30 seconds.",
       choices: [
       "True",
@@ -1415,6 +1558,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40144,
       question: "Twice daily brushing is commonly recommended.",
       choices: [
       "True",
@@ -1423,6 +1567,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40145,
       question: "The Fones method is recommended for young children with primary teeth.",
       choices: [
       "True",
@@ -1431,6 +1576,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40146,
       question: "The Horizontal Scrub technique is recommended for all tooth surfaces.",
       choices: [
       "True",
@@ -1439,6 +1585,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40147,
       question: "Gingival recession affects less than 50% of middle-aged Americans.",
       choices: [
       "True",
@@ -1447,6 +1594,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40148,
       question: "Dental abfractions are caused by excessive occlusal loading.",
       choices: [
       "True",
@@ -1455,6 +1603,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40149,
       question: "Tongue cleansing helps control oral malodor.",
       choices: [
       "True",
@@ -1463,6 +1612,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40150,
       question: "Studies have confirmed that toothbrush contamination results in disease transmission.",
       choices: [
       "True",
@@ -1471,6 +1621,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40151,
       question: "The toothbrush should be rinsed and air dried after each use.",
       choices: [
       "True",
@@ -1479,6 +1630,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40152,
       question: "In the Bass method, filaments are directed toward the crown of the tooth.",
       choices: [
       "True",
@@ -1487,6 +1639,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40153,
       question: "The Charter method directs filaments toward the crown of the tooth.",
       choices: [
       "True",
@@ -1497,6 +1650,7 @@ export const questions = {
   ],
   "3. Interdental & Supplemental Self-Care Aids": [
     {
+      id: 40154,
       question: "What percentage of tooth surfaces does toothbrushing typically miss?",
       choices: [
       "Up to 25% of tooth surfaces",
@@ -1507,6 +1661,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40155,
       question: "What is the col in periodontal anatomy?",
       choices: [
       "The keratinized tissue at the gingival margin",
@@ -1517,6 +1672,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40156,
       question: "Which embrasure classification is characterized by gingival tissue that fills the interdental space completely?",
       choices: [
       "Class III embrasure space",
@@ -1527,6 +1683,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40157,
       question: "What type of interdental aid is most appropriate for Class I embrasures?",
       choices: [
       "Interdental brushes with thick bristles",
@@ -1537,6 +1694,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40158,
       question: "Which clinical condition should be assessed when selecting interdental devices?",
       choices: [
       "Patient's dietary preferences and meal frequency",
@@ -1547,6 +1705,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40159,
       question: "What factor related to tooth anatomy affects interdental device selection?",
       choices: [
       "The color and translucency of enamel",
@@ -1557,6 +1716,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40160,
       question: "Which patient factor is important when recommending interdental aids?",
       choices: [
       "Level of dexterity and ability to use a device",
@@ -1567,6 +1727,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40161,
       question: "What determines the choice between waxed and unwaxed dental floss?",
       choices: [
       "The patient's budget and insurance coverage",
@@ -1577,6 +1738,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40162,
       question: "Which flossing method involves wrapping floss around the middle fingers?",
       choices: [
       "The loop method for easy handling",
@@ -1587,6 +1749,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40163,
       question: "What is the primary advantage of tufted or braided floss?",
       choices: [
       "It is less expensive than regular floss",
@@ -1597,6 +1760,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40164,
       question: "When are floss threaders particularly useful?",
       choices: [
       "For patients with only natural teeth and no restorations",
@@ -1607,6 +1771,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40165,
       question: "What is the recommended technique for using a floss holder?",
       choices: [
       "Insert horizontally and pull straight out without vertical movement",
@@ -1617,6 +1782,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40166,
       question: "What is a key benefit of dental water jets (oral irrigators)?",
       choices: [
       "They completely replace the need for toothbrushing",
@@ -1627,6 +1793,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40167,
       question: "What is the proper angle for directing a water jet tip?",
       choices: [
       "Perpendicular to the gingival margin at 90 degrees",
@@ -1637,6 +1804,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40168,
       question: "When are interdental brushes most appropriate?",
       choices: [
       "For all patients regardless of their oral anatomy",
@@ -1647,6 +1815,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40169,
       question: "What is important when selecting the size of an interdental brush?",
       choices: [
       "Always choose the largest size available for better cleaning",
@@ -1657,6 +1826,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40170,
       question: "How should an interdental brush be inserted between teeth?",
       choices: [
       "With force to ensure it reaches the contact point",
@@ -1667,6 +1837,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40171,
       question: "What is the primary use of end-tufted or single-tufted brushes?",
       choices: [
       "For cleaning large open interdental spaces only",
@@ -1677,6 +1848,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40172,
       question: "What is the main concern with using household toothpicks?",
       choices: [
       "They are too expensive for most patients",
@@ -1687,6 +1859,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40173,
       question: "What makes triangular wooden wedges safer than regular toothpicks?",
       choices: [
       "They are shorter in length and easier to hold",
@@ -1697,6 +1870,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40174,
       question: "What is the correct technique for using a triangular toothpick?",
       choices: [
       "Insert perpendicular to the gingival margin with maximum pressure",
@@ -1707,6 +1881,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40175,
       question: "What is the primary function of rubber tip stimulators?",
       choices: [
       "To replace toothbrushing in patients with sensitive teeth",
@@ -1717,6 +1892,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40176,
       question: "How should a rubber tip stimulator be positioned?",
       choices: [
       "Perpendicular to the tooth surface at 90 degrees",
@@ -1727,6 +1903,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40177,
       question: "What motion should be used with a rubber tip stimulator?",
       choices: [
       "Rapid side-to-side movements across all teeth",
@@ -1737,6 +1914,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40178,
       question: "What is a sulcabrush designed for?",
       choices: [
       "Cleaning the occlusal surfaces of molars only",
@@ -1747,6 +1925,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40179,
       question: "What is the primary benefit of using tongue cleaners?",
       choices: [
       "They strengthen the tongue muscles for better speech",
@@ -1757,6 +1936,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40180,
       question: "What technique should be used with a tongue cleaner?",
       choices: [
       "Scrape from the tip of the tongue backward toward the throat",
@@ -1767,6 +1947,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40181,
       question: "What is a concern regarding oral piercings and interdental care?",
       choices: [
       "Piercings have no impact on oral health or care recommendations",
@@ -1777,6 +1958,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40182,
       question: "What should be avoided around oral piercings during interdental cleaning?",
       choices: [
       "All forms of interdental cleaning devices",
@@ -1787,6 +1969,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40183,
       question: "What is essential for effective patient education on interdental devices?",
       choices: [
       "Providing only verbal instructions without demonstration",
@@ -1797,6 +1980,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40184,
       question: "Why should patients repeat techniques back to the clinician?",
       choices: [
       "To ensure they can teach others the same technique",
@@ -1807,6 +1991,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40185,
       question: "What type of educational reinforcement should be provided?",
       choices: [
       "Only verbal instructions during the appointment",
@@ -1817,6 +2002,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40186,
       question: "What is the benefit of regular interdental cleaning?",
       choices: [
       "It eliminates the need for any professional dental care",
@@ -1827,6 +2013,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40187,
       question: "What percentage of total questions should true/false questions represent?",
       choices: [
       "Around 10% of the total question count",
@@ -1837,6 +2024,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40188,
       question: "Which factor affects the recommendation of floss type?",
       choices: [
       "The patient's hair color and eye color",
@@ -1847,6 +2035,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40189,
       question: "What is critical about interdental biofilm removal?",
       choices: [
       "It is optional for patients with healthy gums",
@@ -1857,6 +2046,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40190,
       question: "What should guide the selection of self-care devices?",
       choices: [
       "Effectiveness, client needs, preferences, and specific factors like piercings",
@@ -1867,6 +2057,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40191,
       question: "How should clients be educated about using interdental devices?",
       choices: [
       "Clients should figure out techniques independently without help",
@@ -1877,6 +2068,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40192,
       question: "What happens when gingival tissue does not fill the embrasure space?",
       choices: [
       "No interdental cleaning is necessary in these areas",
@@ -1887,6 +2079,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40193,
       question: "What is the location of the col relative to the contact area?",
       choices: [
       "Occlusal to the contact area between adjacent teeth",
@@ -1897,6 +2090,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40194,
       question: "Toothbrushing alone can effectively clean all tooth surfaces including interdental areas.",
       choices: [
       "True",
@@ -1905,6 +2099,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40195,
       question: "Interdental areas harbor pathogenic bacteria that contribute to periodontal disease.",
       choices: [
       "True",
@@ -1913,6 +2108,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40196,
       question: "Patients with increased risk for periodontal disease may need specialized devices beyond toothbrushing.",
       choices: [
       "True",
@@ -1921,6 +2117,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40197,
       question: "The col is a keratinized epithelial structure in the interdental area.",
       choices: [
       "True",
@@ -1929,6 +2126,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40198,
       question: "Class I embrasures are characterized by gingival tissue completely filling the interdental space.",
       choices: [
       "True",
@@ -1937,6 +2135,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40199,
       question: "Probing depths are a clinical factor to consider when selecting interdental aids.",
       choices: [
       "True",
@@ -1945,6 +2144,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40200,
       question: "Patient preference is irrelevant when selecting interdental cleaning devices.",
       choices: [
       "True",
@@ -1953,6 +2153,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40201,
       question: "Waxed floss is always superior to unwaxed floss for all patients.",
       choices: [
       "True",
@@ -1961,6 +2162,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40202,
       question: "The spool method involves wrapping floss around the middle fingers of each hand.",
       choices: [
       "True",
@@ -1969,6 +2171,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40203,
       question: "Floss holders can help patients with limited dexterity use dental floss effectively.",
       choices: [
       "True",
@@ -1977,6 +2180,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40204,
       question: "Dental water jets can completely replace manual flossing and toothbrushing.",
       choices: [
       "True",
@@ -1985,6 +2189,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40205,
       question: "Interdental brushes are most appropriate for Class II and Class III embrasures.",
       choices: [
       "True",
@@ -1993,6 +2198,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40206,
       question: "The same size interdental brush should be used for all interdental spaces in the mouth.",
       choices: [
       "True",
@@ -2001,6 +2207,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40207,
       question: "End-tufted brushes are useful for cleaning hard-to-reach areas like distal surfaces of last molars.",
       choices: [
       "True",
@@ -2009,6 +2216,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40208,
       question: "Household toothpicks provide significant oral health benefits beyond removing impacted food.",
       choices: [
       "True",
@@ -2017,6 +2225,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40209,
       question: "Triangular wooden wedges are safer than regular toothpicks for interdental cleaning.",
       choices: [
       "True",
@@ -2025,6 +2234,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40210,
       question: "Rubber tip stimulators should be positioned perpendicular to the tooth surface at 90 degrees.",
       choices: [
       "True",
@@ -2033,6 +2243,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40211,
       question: "A circular or vibratory motion is recommended when using rubber tip stimulators.",
       choices: [
       "True",
@@ -2041,6 +2252,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40212,
       question: "Tongue cleaners help reduce bacteria and control oral malodor.",
       choices: [
       "True",
@@ -2049,6 +2261,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40213,
       question: "Oral piercings have no impact on self-care recommendations or oral health.",
       choices: [
       "True",
@@ -2057,6 +2270,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40214,
       question: "Metal interdental brushes should be avoided around oral piercings to prevent trauma.",
       choices: [
       "True",
@@ -2065,6 +2279,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40215,
       question: "Hands-on demonstration is essential for effective patient education on interdental devices.",
       choices: [
       "True",
@@ -2073,6 +2288,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40216,
       question: "Patients should repeat techniques back to the clinician to confirm proper understanding.",
       choices: [
       "True",
@@ -2081,6 +2297,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40217,
       question: "Regular interdental cleaning reduces inflammation and bleeding while supporting periodontal stability.",
       choices: [
       "True",
@@ -2089,6 +2306,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40218,
       question: "Gingival attachment levels are irrelevant when selecting interdental cleaning devices.",
       choices: [
       "True",
@@ -2097,6 +2315,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40219,
       question: "The condition and types of restorative work present should be considered when recommending interdental aids.",
       choices: [
       "True",
@@ -2105,6 +2324,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40220,
       question: "Patient motivation is a factor in selecting appropriate interdental cleaning devices.",
       choices: [
       "True",
@@ -2113,6 +2333,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40221,
       question: "Tufted floss is particularly effective for cleaning around orthodontic appliances and bridges.",
       choices: [
       "True",
@@ -2121,6 +2342,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40222,
       question: "Water jet tips should be directed at a 45-degree angle toward the gingival margin.",
       choices: [
       "True",
@@ -2129,6 +2351,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40223,
       question: "Interdental brushes should be forced into tight spaces to ensure thorough cleaning.",
       choices: [
       "True",
@@ -2137,6 +2360,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40224,
       question: "Written or digital reinforcement resources support effective patient education.",
       choices: [
       "True",
@@ -2145,6 +2369,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40225,
       question: "The size of interproximal embrasures has no bearing on device selection.",
       choices: [
       "True",
@@ -2153,6 +2378,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40226,
       question: "Interdental cleaning should be tailored to the patient's oral conditions and risk factors.",
       choices: [
       "True",
@@ -2161,6 +2387,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40227,
       question: "Tooth position and alignment affect the choice of interdental cleaning devices.",
       choices: [
       "True",
@@ -2169,6 +2396,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40228,
       question: "Cost, safety, and effectiveness are all important considerations when recommending devices.",
       choices: [
       "True",
@@ -2177,6 +2405,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40229,
       question: "Sulcabrushes are designed for accessing difficult areas like furcations and isolated teeth.",
       choices: [
       "True",
@@ -2185,6 +2414,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40230,
       question: "Floss threaders are useful for cleaning under fixed bridges and orthodontic wires.",
       choices: [
       "True",
@@ -2193,6 +2423,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40231,
       question: "Regular interdental cleaning supports long-term periodontal stability.",
       choices: [
       "True",
@@ -2201,6 +2432,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40232,
       question: "The loop method is an alternative flossing technique to the spool method.",
       choices: [
       "True",
@@ -2209,6 +2441,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40233,
       question: "Tongue cleaners should be scraped from the back to the front of the tongue.",
       choices: [
       "True",
@@ -2217,6 +2450,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40234,
       question: "All interdental devices work equally well for every patient regardless of individual anatomy.",
       choices: [
       "True",
@@ -2225,6 +2459,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40235,
       question: "Patient dexterity level should be assessed when recommending interdental aids.",
       choices: [
       "True",
@@ -2235,6 +2470,7 @@ export const questions = {
   ],
   "4. Dentifrices": [
     {
+      id: 40236,
       question: "What is a dentifrice?",
       choices: [
       "A device used only for tongue cleaning",
@@ -2245,6 +2481,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40237,
       question: "What are the three main effects of dentifrices?",
       choices: [
       "Cosmetic, hygienic, and therapeutic effects",
@@ -2255,6 +2492,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40238,
       question: "Which type of dentifrice is recommended for use with power toothbrushes?",
       choices: [
       "High-foaming dentifrices with maximum detergent",
@@ -2265,6 +2503,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40239,
       question: "What type of dentifrice is designed for persons with special needs who may swallow it?",
       choices: [
       "Fluoride dentifrices with high concentration",
@@ -2275,6 +2514,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40240,
       question: "Which ingredient is commonly excluded from dentifrices for allergic persons?",
       choices: [
       "Fluoride and calcium phosphate",
@@ -2285,6 +2525,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40241,
       question: "What is the purpose of fluoride in dentifrices?",
       choices: [
       "To whiten teeth and remove stains",
@@ -2295,6 +2536,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40242,
       question: "What does amorphous calcium phosphate do in dentifrices?",
       choices: [
       "Controls dentinal hypersensitivity effectively",
@@ -2305,6 +2547,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40243,
       question: "What should a dental hygienist check before recommending a dentifrice?",
       choices: [
       "Only the patient's age and gender",
@@ -2315,6 +2558,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40244,
       question: "What should be documented in the patient's record regarding dentifrice recommendations?",
       choices: [
       "Only the brand name and price",
@@ -2325,6 +2569,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40245,
       question: "What does the patient's signature confirm regarding dentifrice recommendations?",
       choices: [
       "Agreement to purchase the most expensive product",
@@ -2335,6 +2580,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40246,
       question: "What must organic or bio dentifrices NOT contain?",
       choices: [
       "Fluoride or calcium compounds",
@@ -2345,6 +2591,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40247,
       question: "What is the requirement for vegan or vegetarian dentifrices?",
       choices: [
       "Must contain only synthetic chemicals",
@@ -2355,6 +2602,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40248,
       question: "What characterizes biodegradable dentifrices?",
       choices: [
       "Must be packaged in plastic tubes",
@@ -2365,6 +2613,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40249,
       question: "What factors does the general public consider when choosing a dentifrice?",
       choices: [
       "Evidence-based clinical recommendations only",
@@ -2375,6 +2624,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40250,
       question: "What do dental professionals prioritize when recommending dentifrices?",
       choices: [
       "Marketing claims and brand popularity",
@@ -2385,6 +2635,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40251,
       question: "What do manufacturers consider regarding client health when formulating dentifrices?",
       choices: [
       "Only the client's age demographics",
@@ -2395,6 +2646,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40252,
       question: "Why is the orifice of the toothpaste tube a concern?",
       choices: [
       "It affects the amount dispensed per use",
@@ -2405,6 +2657,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40253,
       question: "What infectious diseases can be transmitted through toothpaste tube contamination?",
       choices: [
       "Only common cold and flu viruses",
@@ -2415,6 +2668,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40254,
       question: "What is the recommended practice to prevent toothpaste tube cross-contamination?",
       choices: [
       "Share tubes but clean the orifice daily",
@@ -2425,6 +2679,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40255,
       question: "How much of a dentifrice is water?",
       choices: [
       "5% to 10% of dentifrice composition",
@@ -2435,6 +2690,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40256,
       question: "What makes tablet dentifrices different from paste dentifrices?",
       choices: [
       "Tablets contain more fluoride than pastes",
@@ -2445,6 +2701,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40257,
       question: "What is the purpose of preservatives in dentifrices?",
       choices: [
       "To enhance flavor and sweetness",
@@ -2455,6 +2712,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40258,
       question: "What is the function of binders in dentifrices?",
       choices: [
       "To enhance the flavor profile",
@@ -2465,6 +2723,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40259,
       question: "What is the role of detergents in dentifrices?",
       choices: [
       "To preserve the product from bacterial growth",
@@ -2475,6 +2734,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40260,
       question: "What do copolymers do when added to dentifrices?",
       choices: [
       "Increase abrasiveness for better cleaning",
@@ -2485,6 +2745,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40261,
       question: "What is a medicinal ingredient in a dentifrice?",
       choices: [
       "Added to provide flavor or color only",
@@ -2495,6 +2756,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40262,
       question: "What is a nonmedicinal ingredient in a dentifrice?",
       choices: [
       "Provides therapeutic effects on tissues",
@@ -2505,6 +2767,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40263,
       question: "What are the five common dentifrice abrasives?",
       choices: [
       "Fluoride, chlorhexidine, triclosan, peroxide, enzymes",
@@ -2515,6 +2778,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40264,
       question: "What do phosphates do as abrasives in dentifrices?",
       choices: [
       "Control bacterial growth in the mouth",
@@ -2525,6 +2789,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40265,
       question: "What is the function of carbonates as abrasives?",
       choices: [
       "To prevent tooth decay through remineralization",
@@ -2535,6 +2800,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40266,
       question: "Why are silicas frequently used as abrasives in dentifrices?",
       choices: [
       "They are the least expensive abrasive option",
@@ -2545,6 +2811,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40267,
       question: "What is the concern with alumina and aluminum compounds as abrasives?",
       choices: [
       "They are too expensive for commercial use",
@@ -2555,6 +2822,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40268,
       question: "What other substances can be used as abrasives in dentifrices?",
       choices: [
       "Sugars and artificial sweeteners",
@@ -2565,6 +2833,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40269,
       question: "On the Mohs hardness scale, what is the hardness range of cementum and dentin?",
       choices: [
       "1 to 1.5 on the Mohs scale",
@@ -2575,6 +2844,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40270,
       question: "On the Mohs hardness scale, what is the hardness of enamel?",
       choices: [
       "2 to 3 on the Mohs scale",
@@ -2585,6 +2855,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40271,
       question: "What percentage of dentifrices fall below 2% on the abrasiveness scale?",
       choices: [
       "50% of all dentifrices",
@@ -2595,6 +2866,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40272,
       question: "What does the Relative Dentin Abrasivity (RDA) Scale measure?",
       choices: [
       "The fluoride content of dentifrices",
@@ -2605,6 +2877,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40273,
       question: "What RDA value range is considered low abrasive?",
       choices: [
       "0-70 on the RDA scale",
@@ -2615,6 +2888,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40274,
       question: "What RDA value range is considered medium abrasive?",
       choices: [
       "0-70 on the RDA scale",
@@ -2625,6 +2899,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40275,
       question: "What RDA value range is considered highly abrasive?",
       choices: [
       "50-100 on the RDA scale",
@@ -2635,6 +2910,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40276,
       question: "What RDA value range is regarded as harmful limit?",
       choices: [
       "100-150 on the RDA scale",
@@ -2645,6 +2921,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40277,
       question: "What is bioavailability in the context of dentifrices?",
       choices: [
       "The amount of product needed per brushing",
@@ -2655,6 +2932,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40278,
       question: "What ingredient increases the bioavailability of fluoride ions?",
       choices: [
       "Sodium lauryl sulfate in high concentrations",
@@ -2665,6 +2943,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40279,
       question: "What factors affect fluoride bioavailability in dentifrices?",
       choices: [
       "Only the brand name and marketing",
@@ -2675,6 +2954,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40280,
       question: "What is the bioavailability percentage of Colgate Cavity Protection with 1450 ppm MFP/NaF?",
       choices: [
       "45.2% bioavailability of fluoride",
@@ -2685,6 +2965,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40281,
       question: "Which product shows the highest fluoride bioavailability percentage?",
       choices: [
       "Colgate Total with 1450 ppm NaF",
@@ -2695,6 +2976,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40282,
       question: "What adverse effect can fluoride cause when ingested during tooth development?",
       choices: [
       "Increased tooth sensitivity to cold",
@@ -2705,6 +2987,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40283,
       question: "What soft-tissue reaction can sodium lauryl sulfate cause?",
       choices: [
       "Tooth enamel erosion",
@@ -2715,6 +2998,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40284,
       question: "What reactions can tartar control and herbal dentifrices cause?",
       choices: [
       "Increased tooth strength and hardness",
@@ -2725,6 +3009,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40285,
       question: "What is cheilitis?",
       choices: [
       "Inflammation of the gingival tissues",
@@ -2735,6 +3020,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40286,
       question: "What is stomatitis?",
       choices: [
       "Tooth sensitivity to temperature changes",
@@ -2745,6 +3031,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40287,
       question: "What are the main components that determine dentifrice abrasiveness?",
       choices: [
       "Color and flavor only",
@@ -2755,6 +3042,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40288,
       question: "What is the advantage of higher levels of abrasives (>2%)?",
       choices: [
       "Reduce cost of the product",
@@ -2765,6 +3053,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40289,
       question: "What is the disadvantage of higher levels of abrasives (>2%)?",
       choices: [
       "Reduce the shelf life of the product",
@@ -2775,6 +3064,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40290,
       question: "What percentage of dentifrices do not risk damaging dentin or exposing cementum?",
       choices: [
       "50% fall below 2% abrasiveness",
@@ -2785,6 +3075,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40291,
       question: "What is the majority pH characteristic of most dentifrices?",
       choices: [
       "Most dentifrices have an acidic pH",
@@ -2795,6 +3086,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40292,
       question: "What is an advantage of low pH in dentifrices?",
       choices: [
       "Prevents bacterial growth in the tube",
@@ -2805,6 +3097,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40293,
       question: "What pH level is considered problematic for exposed root surfaces?",
       choices: [
       "pH above 7.5 causes demineralization",
@@ -2815,6 +3108,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40294,
       question: "What is the average pH threshold for cementum and dentin demineralization?",
       choices: [
       "Average pH of 7.5 on surfaces",
@@ -2825,6 +3119,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40295,
       question: "What is the pH threshold for enamel (hydroxyapatite) demineralization?",
       choices: [
       "pH of 7.0 on enamel",
@@ -2835,6 +3130,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40296,
       question: "What is the pH threshold for fluorapatite enamel demineralization?",
       choices: [
       "pH of 5.5 on fluorapatite",
@@ -2845,6 +3141,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40297,
       question: "What is erosion in the context of tooth structure loss?",
       choices: [
       "Tooth wear from tooth-to-tooth contact",
@@ -2855,6 +3152,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40298,
       question: "What is abrasion in dental terms?",
       choices: [
       "Chemical dissolution of tooth structure",
@@ -2865,6 +3163,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40299,
       question: "What is abfraction?",
       choices: [
       "Tooth wear from acidic beverages",
@@ -2875,6 +3174,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40300,
       question: "What is attrition?",
       choices: [
       "Chemical erosion from acidic foods",
@@ -2885,6 +3185,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40301,
       question: "What is a risk of using peroxide-containing toothpaste daily?",
       choices: [
       "Increased fluoride uptake in enamel",
@@ -2895,6 +3196,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40302,
       question: "What diverse factors contribute to loss of tooth structure?",
       choices: [
       "Only genetic predisposition",
@@ -2905,6 +3207,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40303,
       question: "Why are dentifrices not easily compared?",
       choices: [
       "All use identical testing protocols",
@@ -2915,6 +3218,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40304,
       question: "What should be assessed before making a dentifrice recommendation?",
       choices: [
       "Only the patient's age",
@@ -2925,6 +3229,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40305,
       question: "What should be considered along with client histories when recommending dentifrices?",
       choices: [
       "Office inventory levels only",
@@ -2935,6 +3240,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40306,
       question: "What type of products should be recommended to clients?",
       choices: [
       "Only the least expensive options",
@@ -2945,6 +3251,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40307,
       question: "What is a legal and ethical responsibility regarding dentifrice recommendations?",
       choices: [
       "Verbal recommendations are sufficient",
@@ -2955,6 +3262,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40308,
       question: "Which therapeutic agent category includes fluoride and antimicrobial components?",
       choices: [
       "Desensitizing agents for hypersensitivity",
@@ -2965,6 +3273,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40309,
       question: "What are examples of antigingivitis agents in dentifrices?",
       choices: [
       "Fluoride and calcium compounds",
@@ -2975,6 +3284,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40310,
       question: "What is the anticalculus agent commonly used in dentifrices?",
       choices: [
       "Sodium fluoride for prevention",
@@ -2985,6 +3295,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40311,
       question: "What are examples of antistain agents in dentifrices?",
       choices: [
       "Fluoride, chlorhexidine, and triclosan",
@@ -2995,6 +3306,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40312,
       question: "What type of dentifrice is recommended for patients with low carious risk?",
       choices: [
       "High-concentration fluoride only",
@@ -3005,6 +3317,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40313,
       question: "What fluoride concentration is recommended for moderate carious risk?",
       choices: [
       "500 ppm fluoride concentration",
@@ -3015,6 +3328,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40314,
       question: "What is recommended for patients with high carious risk?",
       choices: [
       "No fluoride, only abrasives",
@@ -3025,6 +3339,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40315,
       question: "What is recommended for extreme carious risk or vulnerable patients?",
       choices: [
       "Standard 1000 ppm fluoride",
@@ -3035,6 +3350,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40316,
       question: "What instruction is given for patients using high-concentration fluoride dentifrices?",
       choices: [
       "Rinse immediately after brushing",
@@ -3045,6 +3361,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40317,
       question: "What is the recommended fluoride concentration range for children's dentifrices like Pronamel?",
       choices: [
       "500-750 ppm fluoride",
@@ -3055,6 +3372,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40318,
       question: "What age group is Pronamel for Children designed for?",
       choices: [
       "Ages 2-5 years old",
@@ -3065,6 +3383,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40319,
       question: "What is the primary feature of Sensodyne Rapid Relief?",
       choices: [
       "Maximum whitening capability",
@@ -3075,6 +3394,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40320,
       question: "What percentage and type of fluoride does Sensodyne Rapid Relief contain?",
       choices: [
       "0.254% sodium fluoride",
@@ -3085,6 +3405,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40321,
       question: "What is the minimum age for using Sensodyne Rapid Relief?",
       choices: [
       "6 years and older",
@@ -3095,6 +3416,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40322,
       question: "What unique ingredient technology does Sensodyne Repair & Protect contain?",
       choices: [
       "Hydrogen peroxide whitening system",
@@ -3105,6 +3427,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40323,
       question: "A dentifrice is used only for cleaning teeth and has no therapeutic purposes.",
       choices: [
       "True",
@@ -3113,6 +3436,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40324,
       question: "Dentifrices have cosmetic, hygienic, and therapeutic effects.",
       choices: [
       "True",
@@ -3121,6 +3445,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40325,
       question: "Nonfoaming to low-foaming dentifrices are recommended for use with power toothbrushes.",
       choices: [
       "True",
@@ -3129,6 +3454,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40326,
       question: "Ingestible dentifrices are specifically designed for persons with special needs.",
       choices: [
       "True",
@@ -3137,6 +3463,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40327,
       question: "All dentifrices contain sodium lauryl sulfate as a required ingredient.",
       choices: [
       "True",
@@ -3145,6 +3472,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40328,
       question: "Fluoride in dentifrices helps prevent caries and remineralize teeth.",
       choices: [
       "True",
@@ -3153,6 +3481,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40329,
       question: "Amorphous calcium phosphate is used to control dentinal hypersensitivity.",
       choices: [
       "True",
@@ -3161,6 +3490,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40330,
       question: "Before recommending a dentifrice, dental hygienists should check the patient's medical history.",
       choices: [
       "True",
@@ -3169,6 +3499,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40331,
       question: "Dentifrice recommendations do not need to be documented in patient records.",
       choices: [
       "True",
@@ -3177,6 +3508,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40332,
       question: "The patient's signature confirms understanding and acceptance of dentifrice recommendations.",
       choices: [
       "True",
@@ -3185,6 +3517,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40333,
       question: "Organic or bio dentifrices must not contain animal ingredients.",
       choices: [
       "True",
@@ -3193,6 +3526,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40334,
       question: "Vegan dentifrices can contain animal-derived ingredients.",
       choices: [
       "True",
@@ -3201,6 +3535,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40335,
       question: "Biodegradable dentifrices must not include polluting ingredients.",
       choices: [
       "True",
@@ -3209,6 +3544,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40336,
       question: "The orifice of the toothpaste tube can be a source of cross-contamination.",
       choices: [
       "True",
@@ -3217,6 +3553,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40337,
       question: "Sharing toothpaste tubes between family members is recommended for cost savings.",
       choices: [
       "True",
@@ -3225,6 +3562,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40338,
       question: "Toothpaste tube contamination can transmit hepatitis B and gastroenteritis.",
       choices: [
       "True",
@@ -3233,6 +3571,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40339,
       question: "Each family member should have their own tube of toothpaste.",
       choices: [
       "True",
@@ -3241,6 +3580,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40340,
       question: "Water makes up 20% to 30% of dentifrice composition.",
       choices: [
       "True",
@@ -3249,6 +3589,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40341,
       question: "Tablet dentifrices contain the same amount of water as paste dentifrices.",
       choices: [
       "True",
@@ -3257,6 +3598,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40342,
       question: "Preservatives in dentifrices inhibit mold and bacterial growth.",
       choices: [
       "True",
@@ -3265,6 +3607,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40343,
       question: "Binders are thickeners that prevent separation of ingredients.",
       choices: [
       "True",
@@ -3273,6 +3616,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40344,
       question: "Detergents in dentifrices act as foaming agents to loosen debris.",
       choices: [
       "True",
@@ -3281,6 +3625,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40345,
       question: "Copolymers increase substantivity, extending duration in the mouth.",
       choices: [
       "True",
@@ -3289,6 +3634,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40346,
       question: "Medicinal ingredients are intended to produce therapeutic effects on oral tissues.",
       choices: [
       "True",
@@ -3297,6 +3643,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40347,
       question: "Nonmedicinal ingredients provide flavor, color, or consistency to dentifrices.",
       choices: [
       "True",
@@ -3305,6 +3652,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40348,
       question: "The five common dentifrice abrasives include phosphates, carbonates, silicas, aluminum compounds, and other substances.",
       choices: [
       "True",
@@ -3313,6 +3661,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40349,
       question: "Phosphates help whiten teeth and make them feel clean.",
       choices: [
       "True",
@@ -3321,6 +3670,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40350,
       question: "Carbonates help clean and deodorize the mouth.",
       choices: [
       "True",
@@ -3329,6 +3679,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40351,
       question: "Silicas are chemically compatible with NaF and MFP fluoride compounds.",
       choices: [
       "True",
@@ -3337,6 +3688,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40352,
       question: "Alumina and aluminum compounds have low abrasive potential.",
       choices: [
       "True",
@@ -3345,6 +3697,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40353,
       question: "Cementum and dentin have a hardness of 2 to 2.5 on the Mohs scale.",
       choices: [
       "True",
@@ -3353,6 +3706,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40354,
       question: "Enamel has a hardness of 4 to 5 on the Mohs scale.",
       choices: [
       "True",
@@ -3361,6 +3715,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40355,
       question: "72% of dentifrices fall below 2% on the abrasiveness scale.",
       choices: [
       "True",
@@ -3369,6 +3724,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40356,
       question: "The Relative Dentin Abrasivity (RDA) Scale measures dentifrice abrasiveness.",
       choices: [
       "True",
@@ -3377,6 +3733,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40357,
       question: "An RDA value of 0-70 is considered low abrasive.",
       choices: [
       "True",
@@ -3385,6 +3742,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40358,
       question: "An RDA value of 71-100 is considered medium abrasive.",
       choices: [
       "True",
@@ -3393,6 +3751,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40359,
       question: "An RDA value of 101-150 is considered highly abrasive.",
       choices: [
       "True",
@@ -3401,6 +3760,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40360,
       question: "An RDA value of 151-250 is regarded as harmful limit.",
       choices: [
       "True",
@@ -3409,6 +3769,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40361,
       question: "Bioavailability occurs when the medicinal agent is stable during storage and biologically active in the mouth.",
       choices: [
       "True",
@@ -3417,6 +3778,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40362,
       question: "Cocamidopropyl betaine decreases the bioavailability of fluoride ions.",
       choices: [
       "True",
@@ -3425,6 +3787,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40363,
       question: "The type of abrasive used affects fluoride bioavailability.",
       choices: [
       "True",
@@ -3433,6 +3796,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40364,
       question: "The pH level of a dentifrice affects fluoride bioavailability.",
       choices: [
       "True",
@@ -3441,6 +3805,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40365,
       question: "Sodium lauryl sulfate (SLS) presence affects fluoride bioavailability.",
       choices: [
       "True",
@@ -3449,6 +3814,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40366,
       question: "Fluoride ingested during tooth development can cause fluorosis.",
       choices: [
       "True",
@@ -3457,6 +3823,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40367,
       question: "Sodium lauryl sulfate can cause mucosal desquamation or ulceration.",
       choices: [
       "True",
@@ -3465,6 +3832,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40368,
       question: "Essential oils in dentifrices can cause cheilitis or circumoral dermatitis.",
       choices: [
       "True",
@@ -3473,6 +3841,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40369,
       question: "The majority of dentifrices have a neutral pH.",
       choices: [
       "True",
@@ -3481,6 +3850,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40370,
       question: "Low pH dentifrices promote the formation of fluorapatite crystals.",
       choices: [
       "True",
@@ -3489,6 +3859,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40371,
       question: "A pH of less than 6.5 can cause erosion of dentin and cementum.",
       choices: [
       "True",
@@ -3497,6 +3868,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40372,
       question: "Low pH dentifrices can tarnish titanium implants.",
       choices: [
       "True",
@@ -3505,6 +3877,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40373,
       question: "The average pH of 6.5 is the demineralization threshold for cementum and dentin.",
       choices: [
       "True",
@@ -3513,6 +3886,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40374,
       question: "Enamel (hydroxyapatite) demineralizes at pH of 5.5.",
       choices: [
       "True",
@@ -3521,6 +3895,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40375,
       question: "Fluorapatite enamel demineralizes at pH of 4.5.",
       choices: [
       "True",
@@ -3529,6 +3904,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40376,
       question: "Erosion is the dissolution of tooth structure from chemical agents.",
       choices: [
       "True",
@@ -3537,6 +3913,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40377,
       question: "Abrasion is pathologic tooth wear from substances harder than the tooth.",
       choices: [
       "True",
@@ -3545,6 +3922,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40378,
       question: "Abfraction is caused by high occlusal load causing cervical cracking.",
       choices: [
       "True",
@@ -3553,6 +3931,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40379,
       question: "Attrition is loss of tooth structure from tooth-to-tooth contact.",
       choices: [
       "True",
@@ -3561,6 +3940,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40380,
       question: "Using peroxide-containing toothpaste daily increases the risk of tooth erosion.",
       choices: [
       "True",
@@ -3569,6 +3949,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40381,
       question: "Type of dentifrice used affects loss of tooth structure.",
       choices: [
       "True",
@@ -3577,6 +3958,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40382,
       question: "Brushing frequency contributes to tooth structure loss.",
       choices: [
       "True",
@@ -3585,6 +3967,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40383,
       question: "Toothbrush filament hardness affects tooth abrasion.",
       choices: [
       "True",
@@ -3593,6 +3976,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40384,
       question: "Pressure during brushing can cause tooth structure loss.",
       choices: [
       "True",
@@ -3601,6 +3985,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40385,
       question: "The direction of brush strokes influences tooth abrasion.",
       choices: [
       "True",
@@ -3609,6 +3994,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40386,
       question: "Manual and powered toothbrushes have the same abrasive effect.",
       choices: [
       "True",
@@ -3617,6 +4003,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40387,
       question: "Insufficient salivary flow can contribute to tooth structure loss.",
       choices: [
       "True",
@@ -3625,6 +4012,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40388,
       question: "Dentifrices are easily compared because all use the same evaluation methods.",
       choices: [
       "True",
@@ -3633,6 +4021,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40389,
       question: "Manufacturers use different protocols making direct dentifrice comparisons difficult.",
       choices: [
       "True",
@@ -3641,6 +4030,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40390,
       question: "Comparing dentifrices is important for confident recommendations.",
       choices: [
       "True",
@@ -3649,6 +4039,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40391,
       question: "Client's health, dental, and pharmacologic histories should be assessed before recommending dentifrices.",
       choices: [
       "True",
@@ -3657,6 +4048,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40392,
       question: "Client's assessed needs and expectations should be considered when recommending dentifrices.",
       choices: [
       "True",
@@ -3665,6 +4057,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40393,
       question: "Only ADA or CDA approved products with FDA-approved ingredients should be recommended.",
       choices: [
       "True",
@@ -3673,6 +4066,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40394,
       question: "Documentation of dentifrice recommendations in the client's record is required.",
       choices: [
       "True",
@@ -3681,6 +4075,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40395,
       question: "Anticaries agents include fluoride and antimicrobial components targeting caries pathogens.",
       choices: [
       "True",
@@ -3689,6 +4084,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40396,
       question: "Triclosan and chlorhexidine gluconate are antigingivitis agents.",
       choices: [
       "True",
@@ -3697,6 +4093,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40397,
       question: "Pyrophosphate is used as an anticalculus agent.",
       choices: [
       "True",
@@ -3705,6 +4102,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40398,
       question: "Hydrogen peroxide, sodium bicarbonate, and abrasives are antistain agents.",
       choices: [
       "True",
@@ -3713,6 +4111,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40399,
       question: "For low carious risk, fluoride 1000 ppm or fluoride-free options are recommended.",
       choices: [
       "True",
@@ -3721,6 +4120,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40400,
       question: "For moderate carious risk, 1000-1500 ppm fluoride is recommended.",
       choices: [
       "True",
@@ -3729,6 +4129,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40401,
       question: "For high carious risk, at least 1500 ppm fluoride is recommended.",
       choices: [
       "True",
@@ -3737,6 +4138,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40402,
       question: "For extreme carious risk, 5000 ppm with calcium and CPP-ACP plus fluoride is recommended.",
       choices: [
       "True",
@@ -3745,6 +4147,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40403,
       question: "Patients using high-concentration fluoride should spit and not rinse after brushing.",
       choices: [
       "True",
@@ -3753,6 +4156,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40404,
       question: "Patients should wait 30 minutes before eating or drinking after using high-concentration fluoride.",
       choices: [
       "True",
@@ -3763,6 +4167,7 @@ export const questions = {
   ],
   "4. Mouthrinse Comparison": [
     {
+      id: 40405,
       question: "What is the primary purpose of therapeutic mouthrinses according to the presentation?",
       choices: [
       "To whiten teeth and freshen breath temporarily",
@@ -3773,6 +4178,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40406,
       question: "What are the two types of antimicrobial activity that therapeutic agents in mouthrinses can provide?",
       choices: [
       "Antiseptic activity and antifungal activity",
@@ -3783,6 +4189,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40407,
       question: "What percentage of a typical mouthrinse formulation is water by volume?",
       choices: [
       "Approximately 50% by volume",
@@ -3793,6 +4200,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40408,
       question: "Which property of chlorhexidine is primarily responsible for its effectiveness as an antimicrobial agent?",
       choices: [
       "Its ability to produce oxygen that kills bacteria",
@@ -3803,6 +4211,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40409,
       question: "How does chlorhexidine achieve its antimicrobial effect according to the mechanism of action described?",
       choices: [
       "It disrupts bacterial DNA replication and protein synthesis",
@@ -3813,6 +4222,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40410,
       question: "What is a significant drawback of chlorhexidine's cationic nature?",
       choices: [
       "It increases the cost of manufacturing the product",
@@ -3823,6 +4233,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40411,
       question: "What is the typical concentration range of cetylpyridinium chloride (CPC) when used as an active ingredient in mouthrinses?",
       choices: [
       "Approximately 0.07% by volume",
@@ -3833,6 +4244,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40412,
       question: "According to the FDA, at what concentration level is CPC not considered an effective antiplaque/antigingivitis agent?",
       choices: [
       "Below 0.025% by volume",
@@ -3843,6 +4255,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40413,
       question: "How does the substantivity of CPC compare to chlorhexidine?",
       choices: [
       "CPC has higher substantivity than chlorhexidine",
@@ -3853,6 +4266,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40414,
       question: "How many different essential oils comprise the fixed combination used in essential oil mouthrinses?",
       choices: [
       "Two different essential oils",
@@ -3863,6 +4277,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40415,
       question: "Which of the following is NOT one of the four essential oils mentioned in the presentation?",
       choices: [
       "Thymol derived from herbs",
@@ -3873,6 +4288,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40416,
       question: "What is the primary mechanism by which essential oils achieve antimicrobial activity?",
       choices: [
       "They create a physical barrier on tooth surfaces",
@@ -3883,6 +4299,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40417,
       question: "Beyond bactericidal activity, what additional capability have essential oil formulations demonstrated?",
       choices: [
       "They can reverse existing periodontal disease",
@@ -3893,6 +4310,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40418,
       question: "What is a key advantage of essential oils being nonionic compared to cationic antimicrobials?",
       choices: [
       "They have stronger antimicrobial properties",
@@ -3903,6 +4321,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40419,
       question: "What is the typical concentration range of flavoring agents in mouthrinse formulations?",
       choices: [
       "0.1 - 0.4% by volume",
@@ -3913,6 +4332,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40420,
       question: "What is the primary role of alcohol in mouthrinse formulations?",
       choices: [
       "To provide antimicrobial activity as the active ingredient",
@@ -3923,6 +4343,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40421,
       question: "What is the typical concentration range of humectants in mouthrinse formulations?",
       choices: [
       "1 - 5% by volume",
@@ -3933,6 +4354,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40422,
       question: "What is the primary purpose of humectants in mouthrinse formulations?",
       choices: [
       "To kill bacteria and prevent plaque formation",
@@ -3943,6 +4365,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40423,
       question: "What role do surfactants play in mouthrinse formulations?",
       choices: [
       "They provide the primary antimicrobial activity",
@@ -3953,6 +4376,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40424,
       question: "Why is the correct selection of surfactant important in mouthrinse formulations?",
       choices: [
       "It determines the color of the final product",
@@ -3963,6 +4387,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40425,
       question: "According to the clinical efficacy data presented, which antimicrobial agent generally showed the highest percentage reduction in plaque?",
       choices: [
       "Cetylpyridinium chloride at all concentrations",
@@ -3973,6 +4398,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40426,
       question: "In the gingivitis reduction studies presented, what was the highest percentage reduction observed?",
       choices: [
       "Approximately 40% reduction",
@@ -3983,6 +4409,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40427,
       question: "What pathway does the FDA use to evaluate over-the-counter mouthrinse ingredients?",
       choices: [
       "Clinical trial approval process",
@@ -3993,6 +4420,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40428,
       question: "Which antimicrobial agents have been recommended by an FDA advisory committee to be classified as safe and effective?",
       choices: [
       "Chlorhexidine and triclosan",
@@ -4003,6 +4431,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40429,
       question: "Through which FDA process has chlorhexidine been approved for use in mouthrinses?",
       choices: [
       "Over-the-counter monograph process",
@@ -4013,6 +4442,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40430,
       question: "According to ADA Seal of Acceptance guidelines, what is the minimum required gingivitis reduction in clinical trials?",
       choices: [
       "An average of 15% reduction in one trial",
@@ -4023,6 +4453,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40431,
       question: "What must manufacturers demonstrate regarding plaque reduction to meet ADA Seal criteria?",
       choices: [
       "Any measurable reduction in plaque levels",
@@ -4033,6 +4464,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40432,
       question: "Which of the following is a safety criterion for the ADA Seal of Acceptance?",
       choices: [
       "The product must be alcohol-free",
@@ -4043,6 +4475,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40433,
       question: "Which antimicrobial mouthrinse formulations have earned the ADA Seal of Acceptance?",
       choices: [
       "Only prescription chlorhexidine products",
@@ -4053,6 +4486,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40434,
       question: "Why do chlorhexidine mouthrinses no longer carry the ADA Seal of Acceptance?",
       choices: [
       "They failed to meet safety standards",
@@ -4063,6 +4497,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40435,
       question: "What specific advantage does chlorhexidine's mechanism of action provide?",
       choices: [
       "It only targets harmful bacteria",
@@ -4073,6 +4508,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40436,
       question: "What additional antimicrobial activities do essential oils exhibit beyond cell wall disruption?",
       choices: [
       "They only disrupt cell walls",
@@ -4083,6 +4519,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40437,
       question: "How do essential oils affect pioneer plaque bacteria according to research cited?",
       choices: [
       "They have no effect on pioneer bacteria",
@@ -4093,6 +4530,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40438,
       question: "What effect do essential oils have on bacterial co-aggregation?",
       choices: [
       "They promote beneficial bacterial aggregation",
@@ -4103,6 +4541,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40439,
       question: "In what way do essential oils demonstrate anti-inflammatory properties?",
       choices: [
       "By stimulating white blood cell production",
@@ -4113,6 +4552,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40440,
       question: "What percentage of mouthrinse formulations typically consists of surfactants?",
       choices: [
       "0 - 1% by volume",
@@ -4123,6 +4563,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40441,
       question: "What happens to chlorhexidine when it encounters anionic compounds in dentifrices?",
       choices: [
       "It becomes more effective",
@@ -4133,6 +4574,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40442,
       question: "According to the presentation, what causes tooth staining with cationic antimicrobials?",
       choices: [
       "Direct pigmentation of tooth enamel",
@@ -4143,6 +4585,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40443,
       question: "What is described as a \"timed release of the antimicrobial\" in the presentation?",
       choices: [
       "The manufacturing process of adding ingredients",
@@ -4153,6 +4596,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40444,
       question: "To what surfaces does chlorhexidine adsorb according to the presentation?",
       choices: [
       "Only to tooth enamel surfaces",
@@ -4163,6 +4607,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40445,
       question: "What is the main difference in desorption rate between CPC and chlorhexidine?",
       choices: [
       "They have identical desorption rates",
@@ -4173,6 +4618,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40446,
       question: "According to the quick reference guide, what is the substantivity level of essential oils?",
       choices: [
       "High substantivity comparable to chlorhexidine",
@@ -4183,6 +4629,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40447,
       question: "What common property do both chlorhexidine and CPC share that affects their use?",
       choices: [
       "They are both nonionic compounds",
@@ -4193,6 +4640,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40448,
       question: "How many six-month clinical trials meet ADA guidelines for essential oil mouthrinses according to the presentation?",
       choices: [
       "Two clinical trials",
@@ -4203,6 +4651,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40449,
       question: "Which statement best describes the manufacturer's variety of mouthrinse products available?",
       choices: [
       "Only one type of antimicrobial mouthrinse exists",
@@ -4213,6 +4662,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40450,
       question: "What challenge do patients face when selecting mouthrinses according to the presentation?",
       choices: [
       "All products work equally well",
@@ -4223,6 +4673,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40451,
       question: "Why must dental practitioners have fundamental understanding of mouthrinse formulations?",
       choices: [
       "To manufacture their own products",
@@ -4233,6 +4684,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40452,
       question: "What type of product development process applies to essential oils and CPC according to FDA classification?",
       choices: [
       "Prescription drug approval",
@@ -4243,6 +4695,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40453,
       question: "What clinical duration was used for most of the efficacy studies cited in the presentation?",
       choices: [
       "Three-month clinical trials",
@@ -4253,6 +4706,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40454,
       question: "In terms of plaque reduction, what was the approximate range of effectiveness shown by chlorhexidine in the studies?",
       choices: [
       "5-25% reduction",
@@ -4263,6 +4717,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40455,
       question: "What was the approximate range of gingivitis reduction shown by essential oils in the studies presented?",
       choices: [
       "5-15% reduction",
@@ -4273,6 +4728,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40456,
       question: "According to the presentation disclaimer, what should be noted about essential oils in current formulas?",
       choices: [
       "All essential oils are synthetic",
@@ -4283,6 +4739,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40457,
       question: "What electron microscopy evidence was presented regarding mouthrinse effectiveness?",
       choices: [
       "Increased biofilm formation after rinsing",
@@ -4293,6 +4750,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40458,
       question: "What organization created the educational tools package presented in this document?",
       choices: [
       "American Dental Association",
@@ -4303,6 +4761,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40459,
       question: "Therapeutic mouthrinses are designed only to freshen breath and have no impact on gingival health or caries prevention.",
       choices: [
       "True",
@@ -4311,6 +4770,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40460,
       question: "Water typically comprises approximately 70% of a mouthrinse formulation by volume.",
       choices: [
       "True",
@@ -4319,6 +4779,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40461,
       question: "Both active and inactive ingredients are present in therapeutic mouthrinses.",
       choices: [
       "True",
@@ -4327,6 +4788,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40462,
       question: "The purpose of inactive ingredients includes helping deliver therapeutic agents and assisting with patient acceptance.",
       choices: [
       "True",
@@ -4335,6 +4797,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40463,
       question: "Chlorhexidine, cetylpyridinium chloride, and essential oils all have identical chemical structures and mechanisms of action.",
       choices: [
       "True",
@@ -4343,6 +4806,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40464,
       question: "Chlorhexidine demonstrates high substantivity which contributes to its prolonged antimicrobial effect.",
       choices: [
       "True",
@@ -4351,6 +4815,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40465,
       question: "Cationic antimicrobials like chlorhexidine and CPC may interact adversely with anionic compounds in some dentifrices.",
       choices: [
       "True",
@@ -4359,6 +4824,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40466,
       question: "Cetylpyridinium chloride at concentrations below 0.045% is considered by the FDA to be an effective antiplaque/antigingivitis agent.",
       choices: [
       "True",
@@ -4367,6 +4833,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40467,
       question: "The substantivity of CPC is comparable to or higher than chlorhexidine.",
       choices: [
       "True",
@@ -4375,6 +4842,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40468,
       question: "Essential oils consist of a fixed combination of exactly four different oils with antimicrobial properties.",
       choices: [
       "True",
@@ -4383,6 +4851,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40469,
       question: "Menthol, methyl salicylate, thymol, and eucalyptol are the four components of the essential oil combination.",
       choices: [
       "True",
@@ -4391,6 +4860,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40470,
       question: "Essential oils achieve antimicrobial activity by selectively targeting only harmful bacteria.",
       choices: [
       "True",
@@ -4399,6 +4869,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40471,
       question: "Essential oil formulations have demonstrated the ability to penetrate plaque biofilm.",
       choices: [
       "True",
@@ -4407,6 +4878,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40472,
       question: "Essential oils are nonionic, meaning they do not have significant interactions with toothpastes or produce significant staining.",
       choices: [
       "True",
@@ -4415,6 +4887,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40473,
       question: "Flavoring agents in mouthrinses serve only to improve taste and have no antimicrobial properties.",
       choices: [
       "True",
@@ -4423,6 +4896,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40474,
       question: "Alcohol in mouthrinse formulations acts primarily as a solvent and vehicle for delivering active ingredients.",
       choices: [
       "True",
@@ -4431,6 +4905,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40475,
       question: "Humectants typically comprise 5-20% of mouthrinse formulation by volume.",
       choices: [
       "True",
@@ -4439,6 +4914,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40476,
       question: "Surfactants play no role in stabilizing mouthrinse formulations.",
       choices: [
       "True",
@@ -4447,6 +4923,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40477,
       question: "According to the clinical data presented, chlorhexidine generally demonstrated the highest percentage reductions in plaque among the antimicrobials studied.",
       choices: [
       "True",
@@ -4455,6 +4932,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40478,
       question: "All antimicrobial mouthrinse ingredients are evaluated through the same FDA approval pathway.",
       choices: [
       "True",
@@ -4463,6 +4941,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40479,
       question: "An FDA advisory committee has recommended that essential oils and CPC be classified as safe and effective.",
       choices: [
       "True",
@@ -4471,6 +4950,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40480,
       question: "Chlorhexidine has been approved through the FDA's New Drug Application process.",
       choices: [
       "True",
@@ -4479,6 +4959,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40481,
       question: "To meet ADA Seal of Acceptance guidelines, a mouthrinse must demonstrate an average gingivitis reduction of 20% in two six-month trials.",
       choices: [
       "True",
@@ -4487,6 +4968,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40482,
       question: "Products containing the fixed combination of essential oils have earned the ADA Seal of Acceptance.",
       choices: [
       "True",
@@ -4495,6 +4977,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40483,
       question: "Chlorhexidine mouthrinse formulations currently carry the ADA Seal of Acceptance.",
       choices: [
       "True",
@@ -4503,6 +4986,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40484,
       question: "The ADA Seal program was recently discontinued for prescription and professional products.",
       choices: [
       "True",
@@ -4511,6 +4995,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40485,
       question: "All antimicrobial mouthrinses are formulated with identical ingredients and demonstrate the same clinical efficacy.",
       choices: [
       "True",
@@ -4519,6 +5004,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40486,
       question: "Chlorhexidine binds to salivary mucins, which helps reduce pellicle formation and bacterial colony development.",
       choices: [
       "True",
@@ -4527,6 +5013,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40487,
       question: "Essential oils have been shown to affect the growth rate of pioneer plaque bacteria.",
       choices: [
       "True",
@@ -4535,6 +5022,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40488,
       question: "The ionic charge of an antimicrobial agent has no impact on its interaction with other oral care products.",
       choices: [
       "True",
@@ -4543,6 +5031,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40489,
       question: "Tooth staining from cationic antimicrobials is caused by precipitation of negatively charged dietary chromogens.",
       choices: [
       "True",
@@ -4551,6 +5040,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40490,
       question: "The desorption of chlorhexidine from dental surfaces over time has been described as a \"timed release of the antimicrobial.\"",
       choices: [
       "True",
@@ -4559,6 +5049,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40491,
       question: "CPC desorbs from oral surfaces at approximately the same rate as chlorhexidine.",
       choices: [
       "True",
@@ -4567,6 +5058,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40492,
       question: "Essential oils demonstrate negligible substantivity compared to chlorhexidine.",
       choices: [
       "True",
@@ -4575,6 +5067,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40493,
       question: "Both chlorhexidine and CPC are cationic compounds which can lead to interactions with toothpastes and potential staining.",
       choices: [
       "True",
@@ -4583,6 +5076,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40494,
       question: "More than six clinical trials supporting essential oil mouthrinses meet ADA guidelines according to the presentation.",
       choices: [
       "True",
@@ -4591,6 +5085,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40495,
       question: "Patients find it easy to select the appropriate mouthrinse due to clear labeling and limited product variety.",
       choices: [
       "True",
@@ -4599,6 +5094,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40496,
       question: "Dental practitioners need fundamental understanding of mouthrinse formulations to properly advise their patients.",
       choices: [
       "True",
@@ -4607,6 +5103,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40497,
       question: "All antimicrobial mouthrinses require prescription authorization for purchase.",
       choices: [
       "True",
@@ -4615,6 +5112,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40498,
       question: "Most efficacy studies cited in the presentation were six-month clinical trials.",
       choices: [
       "True",
@@ -4623,6 +5121,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40499,
       question: "The presentation states that all essential oils in current mouthrinse formulas are natural ingredients.",
       choices: [
       "True",
@@ -4631,6 +5130,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40500,
       question: "Electron microscopy evidence showed reduced bacterial presence after rinsing with antimicrobial mouthrinses.",
       choices: [
       "True",
@@ -4641,6 +5141,7 @@ export const questions = {
   ],
   "4. Sensodyne ProNamel Product Table": [
     {
+      id: 40501,
       question: "What is the minimum age recommendation for ProNamel for Children?",
       choices: [
       "6 years and older",
@@ -4651,6 +5152,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40502,
       question: "Which product is described as having \"our most advanced enamel care formulation\"?",
       choices: [
       "ProNamel for Children",
@@ -4661,6 +5163,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40503,
       question: "What is the active ingredient concentration of sodium fluoride in ProNamel for Children?",
       choices: [
       "0.2299% sodium fluoride",
@@ -4671,6 +5174,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40504,
       question: "Which product contains NovaMin® technology as its primary active ingredient?",
       choices: [
       "Sensodyne Fresh Mint",
@@ -4681,6 +5185,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40505,
       question: "How quickly does Sensodyne Rapid Relief provide dentin hypersensitivity relief when used as directed?",
       choices: [
       "Within 30 seconds",
@@ -4691,6 +5196,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40506,
       question: "What is the concentration of potassium nitrate in Sensodyne Fresh Mint?",
       choices: [
       "2.5% potassium nitrate",
@@ -4701,6 +5207,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40507,
       question: "Which product is specifically formulated to provide dual relief of dentin hypersensitivity and gingivitis?",
       choices: [
       "Sensodyne Fresh Mint",
@@ -4711,6 +5218,7 @@ export const questions = {
       correctAnswer: "D"
     },
     {
+      id: 40508,
       question: "What is the minimum age recommendation for Sensodyne Rapid Relief?",
       choices: [
       "6 years and older",
@@ -4721,6 +5229,7 @@ export const questions = {
       correctAnswer: "D"
     },
     {
+      id: 40509,
       question: "Which patient profile best describes someone who would benefit from ProNamel Intensive Enamel Repair?",
       choices: [
       "Children with strong healthy teeth",
@@ -4731,6 +5240,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40510,
       question: "What concentration of stannous fluoride is found in Sensodyne Rapid Relief?",
       choices: [
       "0.254% stannous fluoride",
@@ -4741,6 +5251,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40511,
       question: "Which product is specifically mentioned as helping relieve dentin hypersensitivity associated with professional whitening?",
       choices: [
       "ProNamel Intensive Enamel Repair",
@@ -4751,6 +5262,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40512,
       question: "What is the concentration of calcium sodium phosphosilicate (NovaMin®) in Sensodyne Repair & Protect?",
       choices: [
       "2.5% calcium sodium phosphosilicate",
@@ -4761,6 +5273,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40513,
       question: "Which product category does ProNamel for Children fall under?",
       choices: [
       "Dentin hypersensitivity",
@@ -4771,6 +5284,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40514,
       question: "What type of patient would most benefit from Sensodyne Rapid Relief?",
       choices: [
       "Children with strong healthy teeth",
@@ -4781,6 +5295,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40515,
       question: "Which product helps control plaque buildup to improve gum health?",
       choices: [
       "ProNamel for Children",
@@ -4791,6 +5306,7 @@ export const questions = {
       correctAnswer: "D"
     },
     {
+      id: 40516,
       question: "What is the sodium fluoride concentration in Sensodyne Repair & Protect?",
       choices: [
       "0.254% sodium fluoride",
@@ -4801,6 +5317,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40517,
       question: "Which product is described as \"engineered for speed\"?",
       choices: [
       "Sensodyne Fresh Mint",
@@ -4811,6 +5328,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40518,
       question: "What patient characteristic is associated with someone who would benefit from Sensodyne Repair & Protect?",
       choices: [
       "Frequently consumes acidic foods",
@@ -4821,6 +5339,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40519,
       question: "Which two products share the same active ingredient combination of sodium fluoride and potassium nitrate?",
       choices: [
       "ProNamel products only",
@@ -4831,6 +5350,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40520,
       question: "What type of relief does Sensodyne Fresh Mint provide according to the product table?",
       choices: [
       "Immediate 60-second relief",
@@ -4841,6 +5361,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40521,
       question: "Which product would be most appropriate for a patient with coexisting dentin hypersensitivity and gingivitis?",
       choices: [
       "Sensodyne Fresh Mint",
@@ -4851,6 +5372,7 @@ export const questions = {
       correctAnswer: "D"
     },
     {
+      id: 40522,
       question: "What is the active ingredient concentration in ProNamel Intensive Enamel Repair besides sodium fluoride?",
       choices: [
       "2.5% potassium nitrate",
@@ -4861,6 +5383,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40523,
       question: "Which product is specifically designed to help protect children's teeth against acid wear and cavities?",
       choices: [
       "ProNamel for Children",
@@ -4871,6 +5394,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40524,
       question: "What characteristic distinguishes Sensodyne Sensitivity & Gum from other Sensodyne products?",
       choices: [
       "It contains NovaMin® technology",
@@ -4881,6 +5405,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40525,
       question: "Which product actively repairs acid-weakened enamel?",
       choices: [
       "ProNamel for Children",
@@ -4891,6 +5416,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40526,
       question: "What patient symptom would indicate the need for Sensodyne Sensitivity & Gum?",
       choices: [
       "Localized sensitivity only",
@@ -4901,6 +5427,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40527,
       question: "Which product contains 0.454% stannous fluoride as its sole active ingredient?",
       choices: [
       "Sensodyne Fresh Mint",
@@ -4911,6 +5438,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40528,
       question: "What feature is unique to Sensodyne Repair & Protect compared to other sensitivity products?",
       choices: [
       "Contains potassium nitrate",
@@ -4921,6 +5449,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40529,
       question: "Which product would be recommended for someone considering whitening treatment?",
       choices: [
       "ProNamel for Children",
@@ -4931,6 +5460,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40530,
       question: "What is the concentration of stannous fluoride in Sensodyne Sensitivity & Gum?",
       choices: [
       "0.254% stannous fluoride",
@@ -4941,6 +5471,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40531,
       question: "Which product is designed to strengthen tooth enamel in children?",
       choices: [
       "Sensodyne Fresh Mint",
@@ -4951,6 +5482,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40532,
       question: "What type of protection does Sensodyne Fresh Mint build around the nerves?",
       choices: [
       "Immediate fast-acting protection",
@@ -4961,6 +5493,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40533,
       question: "Which product category addresses gum problems?",
       choices: [
       "ProNamel for Children only",
@@ -4971,6 +5504,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40534,
       question: "What patient profile describes someone who wants healthy, stronger, better-protected teeth/enamel?",
       choices: [
       "Candidate for ProNamel for Children",
@@ -4981,6 +5515,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40535,
       question: "Which product provides long-lasting protection when used as directed?",
       choices: [
       "ProNamel for Children",
@@ -4991,6 +5526,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40536,
       question: "What additional benefit does Sensodyne Sensitivity & Gum provide beyond sensitivity relief?",
       choices: [
       "Whitening benefits",
@@ -5001,6 +5537,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40537,
       question: "Which product contains both sodium fluoride at 0.2299% and another active ingredient?",
       choices: [
       "ProNamel for Children",
@@ -5011,6 +5548,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40538,
       question: "What is the primary purpose of ProNamel Intensive Enamel Repair?",
       choices: [
       "To provide immediate sensitivity relief",
@@ -5021,6 +5559,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40539,
       question: "Which product would be most appropriate for generalized sensitivity with exposed dentin?",
       choices: [
       "Sensodyne Fresh Mint",
@@ -5031,6 +5570,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40540,
       question: "What is the active ingredient combination in Sensodyne Sensitivity & Gum?",
       choices: [
       "Sodium fluoride and potassium nitrate",
@@ -5041,6 +5581,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40541,
       question: "Which product helps protect enamel against future acid wear?",
       choices: [
       "Sensodyne Fresh Mint",
@@ -5051,6 +5592,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40542,
       question: "What type of technology does Sensodyne Repair & Protect use to repair exposed dentin?",
       choices: [
       "Potassium nitrate technology",
@@ -5061,6 +5603,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40543,
       question: "Which product is specifically indicated for someone who wants all benefits of regular toothpaste?",
       choices: [
       "ProNamel for Children",
@@ -5071,6 +5614,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40544,
       question: "What is the minimum age for using Sensodyne Repair & Protect?",
       choices: [
       "6 years and older",
@@ -5081,6 +5625,7 @@ export const questions = {
       correctAnswer: "D"
     },
     {
+      id: 40545,
       question: "Which product category does Sensodyne Fresh Mint fall under?",
       choices: [
       "Healthy teeth",
@@ -5091,6 +5636,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40546,
       question: "What distinguishes the patient profile for ProNamel for Children?",
       choices: [
       "Has gingival recession",
@@ -5101,6 +5647,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40547,
       question: "Which product helps relieve tooth sensitivity while also protecting against acid wear?",
       choices: [
       "Sensodyne Fresh Mint",
@@ -5111,6 +5658,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40548,
       question: "What makes Sensodyne Rapid Relief different from other sensitivity toothpastes?",
       choices: [
       "It contains NovaMin® technology",
@@ -5121,6 +5669,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40549,
       question: "Which product contains potassium nitrate at 5% concentration combined with 0.254% sodium fluoride?",
       choices: [
       "ProNamel for Children",
@@ -5131,6 +5680,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40550,
       question: "What patient condition is specifically addressed by Sensodyne Repair & Protect?",
       choices: [
       "Localized sensitivity",
@@ -5141,6 +5691,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40551,
       question: "Which product would be appropriate for a patient with plaque buildup in addition to sensitivity?",
       choices: [
       "ProNamel Intensive Enamel Repair",
@@ -5151,6 +5702,7 @@ export const questions = {
       correctAnswer: "D"
     },
     {
+      id: 40552,
       question: "ProNamel for Children contains 0.254% sodium fluoride as its active ingredient.",
       choices: [
       "True",
@@ -5159,6 +5711,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40553,
       question: "All Sensodyne products are suitable for children ages 6 and older.",
       choices: [
       "True",
@@ -5167,6 +5720,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40554,
       question: "Sensodyne Rapid Relief provides dentin hypersensitivity relief in 60 seconds when used as directed.",
       choices: [
       "True",
@@ -5175,6 +5729,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40555,
       question: "ProNamel Intensive Enamel Repair contains potassium nitrate as one of its active ingredients.",
       choices: [
       "True",
@@ -5183,6 +5738,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40556,
       question: "Sensodyne Sensitivity & Gum addresses only dentin hypersensitivity and not gum problems.",
       choices: [
       "True",
@@ -5191,6 +5747,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40557,
       question: "The minimum age recommendation for Sensodyne Rapid Relief is 12 years and older.",
       choices: [
       "True",
@@ -5199,6 +5756,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40558,
       question: "Sensodyne Repair & Protect uses NovaMin® technology to help repair exposed dentin.",
       choices: [
       "True",
@@ -5207,6 +5765,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40559,
       question: "ProNamel for Children is categorized under the \"Dentin Hypersensitivity\" product category.",
       choices: [
       "True",
@@ -5215,6 +5774,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40560,
       question: "Sensodyne Fresh Mint contains both potassium nitrate and sodium fluoride as active ingredients.",
       choices: [
       "True",
@@ -5223,6 +5783,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40561,
       question: "Sensodyne Sensitivity & Gum contains 0.454% stannous fluoride as its active ingredient.",
       choices: [
       "True",
@@ -5231,6 +5792,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40562,
       question: "ProNamel Intensive Enamel Repair is described as providing immediate 60-second relief.",
       choices: [
       "True",
@@ -5239,6 +5801,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40563,
       question: "Sensodyne Rapid Relief is described as \"engineered for speed.\"",
       choices: [
       "True",
@@ -5247,6 +5810,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40564,
       question: "All products in the table help prevent cavities.",
       choices: [
       "True",
@@ -5255,6 +5819,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40565,
       question: "Sensodyne Repair & Protect contains 5% calcium sodium phosphosilicate (NovaMin®).",
       choices: [
       "True",
@@ -5263,6 +5828,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40566,
       question: "ProNamel for Children helps strengthen tooth enamel.",
       choices: [
       "True",
@@ -5271,6 +5837,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40567,
       question: "Sensodyne Fresh Mint helps relieve dentin hypersensitivity associated with professional whitening.",
       choices: [
       "True",
@@ -5279,6 +5846,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40568,
       question: "The concentration of sodium fluoride in Sensodyne Repair & Protect is 0.454%.",
       choices: [
       "True",
@@ -5287,6 +5855,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40569,
       question: "Sensodyne Sensitivity & Gum helps control plaque buildup to improve gum health.",
       choices: [
       "True",
@@ -5295,6 +5864,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40570,
       question: "ProNamel Intensive Enamel Repair actively repairs acid-weakened enamel.",
       choices: [
       "True",
@@ -5303,6 +5873,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40571,
       question: "Sensodyne Rapid Relief contains NovaMin® technology.",
       choices: [
       "True",
@@ -5311,6 +5882,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40572,
       question: "The patient profile for ProNamel Intensive Enamel Repair includes those who frequently consume acidic foods and beverages.",
       choices: [
       "True",
@@ -5319,6 +5891,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40573,
       question: "Sensodyne Fresh Mint provides dual relief of dentin hypersensitivity and gingivitis.",
       choices: [
       "True",
@@ -5327,6 +5900,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40574,
       question: "ProNamel for Children is recommended for children ages 6 and older.",
       choices: [
       "True",
@@ -5335,6 +5909,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40575,
       question: "Sensodyne Sensitivity & Gum is appropriate for patients with red, swollen, bleeding gums in addition to sensitivity.",
       choices: [
       "True",
@@ -5343,6 +5918,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40576,
       question: "The concentration of stannous fluoride in Sensodyne Rapid Relief is 0.254%.",
       choices: [
       "True",
@@ -5351,6 +5927,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40577,
       question: "ProNamel Intensive Enamel Repair helps protect enamel against future acid wear.",
       choices: [
       "True",
@@ -5359,6 +5936,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40578,
       question: "Sensodyne Repair & Protect is suitable for patients with generalized sensitivity and gingival recession.",
       choices: [
       "True",
@@ -5367,6 +5945,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40579,
       question: "The minimum age for ProNamel Intensive Enamel Repair is 6 years and older.",
       choices: [
       "True",
@@ -5375,6 +5954,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40580,
       question: "Sensodyne Fresh Mint builds soothing protection around the nerves to provide 24/7 relief.",
       choices: [
       "True",
@@ -5383,6 +5963,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40581,
       question: "ProNamel for Children helps protect children's teeth against acid wear and cavities.",
       choices: [
       "True",
@@ -5393,6 +5974,7 @@ export const questions = {
   ],
   "5. Denture": [
     {
+      id: 40582,
       question: "What continues to accumulate throughout the mouth even after losing natural teeth?",
       choices: [
       "Only food particles and saliva",
@@ -5403,6 +5985,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40583,
       question: "What potential problems can plaque on dentures cause?",
       choices: [
       "Whitening, smoothness, and freshness",
@@ -5413,6 +5996,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40584,
       question: "How often should dentures be taken out for appropriate cleaning?",
       choices: [
       "Weekly or as needed",
@@ -5423,6 +6007,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40585,
       question: "What should be placed at the bottom of the sink during denture cleaning?",
       choices: [
       "A hard plastic mat",
@@ -5433,6 +6018,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40586,
       question: "Why should a towel be placed in a sink half-full of water during cleaning?",
       choices: [
       "To absorb excess cleaning solution",
@@ -5443,6 +6029,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40587,
       question: "What type of brush should be used for cleaning dentures?",
       choices: [
       "A hard-bristled scrub brush",
@@ -5453,6 +6040,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40588,
       question: "What type of cleanser should be used when brushing dentures?",
       choices: [
       "Abrasive powder or strong detergent",
@@ -5463,6 +6051,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40589,
       question: "When should dentures be rinsed and brushed?",
       choices: [
       "Only in the morning",
@@ -5473,6 +6062,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40590,
       question: "What should you check for when examining dentures?",
       choices: [
       "Color changes and surface texture",
@@ -5483,6 +6073,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40591,
       question: "How long should dentures be left out to allow gums to rest?",
       choices: [
       "Overnight or for a few hours",
@@ -5493,6 +6084,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40592,
       question: "Why is it important to leave dentures out for periods of time?",
       choices: [
       "To air out the dentures completely",
@@ -5503,6 +6095,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40593,
       question: "Who should you consult about the most effective way to store dentures?",
       choices: [
       "Family members or friends",
@@ -5513,6 +6106,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40594,
       question: "What type of toothbrush should be used to clean natural teeth and oral tissues?",
       choices: [
       "A hard-bristled electric brush",
@@ -5523,6 +6117,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40595,
       question: "What areas should be brushed besides natural teeth?",
       choices: [
       "Only the tongue surface",
@@ -5533,6 +6128,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40596,
       question: "What devices should be used to remove plaque between natural teeth?",
       choices: [
       "Toothpicks and wooden sticks",
@@ -5543,6 +6139,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40597,
       question: "How often should you see your oral health professional for denture care?",
       choices: [
       "Only when problems occur",
@@ -5553,6 +6150,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40598,
       question: "What professional equipment can dental hygienists use to clean dentures?",
       choices: [
       "High-pressure water jets",
@@ -5563,6 +6161,7 @@ export const questions = {
       correctAnswer: "D"
     },
     {
+      id: 40599,
       question: "What additional service can dental hygienists provide for denture wearers?",
       choices: [
       "Denture whitening and polishing",
@@ -5573,6 +6172,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40600,
       question: "What special consideration is mentioned for implant-supported dentures?",
       choices: [
       "They never require cleaning",
@@ -5583,6 +6183,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40601,
       question: "According to the caregiver section, what do many people not realize?",
       choices: [
       "The cost of denture maintenance",
@@ -5593,6 +6194,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40602,
       question: "What protective equipment should caregivers wear when providing denture care?",
       choices: [
       "Face shields and gowns",
@@ -5603,6 +6205,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40603,
       question: "What should caregivers apply to the individual's lips before denture care?",
       choices: [
       "Antiseptic solution",
@@ -5613,6 +6216,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40604,
       question: "What type of container should be used for storing dentures?",
       choices: [
       "Any clean cup or glass",
@@ -5623,6 +6227,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40605,
       question: "What type of toothpaste is recommended in the caregiver materials list?",
       choices: [
       "Whitening gel toothpaste",
@@ -5633,6 +6238,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40606,
       question: "What tool may be helpful to ensure adequate access when brushing?",
       choices: [
       "A tongue depressor",
@@ -5643,6 +6249,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40607,
       question: "Where should individuals spit if they have difficulty swallowing?",
       choices: [
       "Into a paper towel",
@@ -5653,6 +6260,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40608,
       question: "How should dentures be removed if the individual cannot do it themselves?",
       choices: [
       "Pull firmly on the front teeth",
@@ -5663,6 +6271,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40609,
       question: "What should caregivers look for after cleaning dentures and mouth?",
       choices: [
       "Only color changes in tissues",
@@ -5673,6 +6282,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40610,
       question: "When should caregivers encourage seeking care from an oral health professional?",
       choices: [
       "Only during annual checkups",
@@ -5683,6 +6293,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40611,
       question: "According to the document, dentures should be removed for cleaning for what minimum time?",
       choices: [
       "30 minutes daily",
@@ -5693,6 +6304,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40612,
       question: "What can dental hygienists do to help prevent denture misplacement?",
       choices: [
       "Provide storage containers only",
@@ -5703,6 +6315,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40613,
       question: "What organization published this denture care information?",
       choices: [
       "American Dental Association",
@@ -5713,6 +6326,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40614,
       question: "Where can the Helpful Hints for Daily Denture and Mouth Care be found online?",
       choices: [
       "www.dentalcare.com",
@@ -5723,6 +6337,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40615,
       question: "What website is provided for general denture care information?",
       choices: [
       "www.dentalhygienecanada.ca",
@@ -5733,6 +6348,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40616,
       question: "What is the copyright year for this denture care document?",
       choices: [
       "2010",
@@ -5743,6 +6359,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40617,
       question: "What abbreviation is used for the Canadian Dental Hygienists Association?",
       choices: [
       "CDHA or ACHD",
@@ -5753,6 +6370,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40618,
       question: "What can food debris and bacteria accumulate on besides dentures?",
       choices: [
       "Only the palate",
@@ -5763,6 +6381,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40619,
       question: "What should caregivers determine before beginning denture care?",
       choices: [
       "The individual's insurance coverage",
@@ -5773,6 +6392,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40620,
       question: "What is recommended if the individual is able to perform self-care?",
       choices: [
       "Complete all care for them anyway",
@@ -5783,6 +6403,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40621,
       question: "Many people understand the importance of maintaining oral health after losing their natural teeth.",
       choices: [
       "True",
@@ -5791,6 +6412,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40622,
       question: "Food debris and bacteria continue to accumulate in the mouth even after losing natural teeth.",
       choices: [
       "True",
@@ -5799,6 +6421,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40623,
       question: "Plaque formation on dentures and oral tissues can cause cavities, odours, sores, and irritation.",
       choices: [
       "True",
@@ -5807,6 +6430,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40624,
       question: "It is important to take dentures out daily for appropriate cleaning.",
       choices: [
       "True",
@@ -5815,6 +6439,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40625,
       question: "A towel or face cloth should be placed at the bottom of a sink half-full of water when cleaning dentures.",
       choices: [
       "True",
@@ -5823,6 +6448,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40626,
       question: "Dentures should be cleaned with hard-bristled brushes and abrasive cleansers.",
       choices: [
       "True",
@@ -5831,6 +6457,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40627,
       question: "Dentures should be rinsed and brushed after each meal and before going to bed.",
       choices: [
       "True",
@@ -5839,6 +6466,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40628,
       question: "Implant-supported dentures have the same care requirements as regular dentures.",
       choices: [
       "True",
@@ -5847,6 +6475,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40629,
       question: "You should check dentures for any broken, cracked, or weakened areas during cleaning.",
       choices: [
       "True",
@@ -5855,6 +6484,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40630,
       question: "Dentures should be worn 24 hours a day without removal.",
       choices: [
       "True",
@@ -5863,6 +6493,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40631,
       question: "Leaving dentures out overnight or for a few hours allows gums to rest and maintains healthy tissues.",
       choices: [
       "True",
@@ -5871,6 +6502,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40632,
       question: "Natural teeth, gums, tongue, and roof of mouth should be brushed with a soft-bristled toothbrush.",
       choices: [
       "True",
@@ -5879,6 +6511,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40633,
       question: "Interdental devices such as floss or interdental brushes should be used between natural teeth.",
       choices: [
       "True",
@@ -5887,6 +6520,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40634,
       question: "Regular visits to oral health professionals are necessary to maintain oral health and denture integrity.",
       choices: [
       "True",
@@ -5895,6 +6529,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40635,
       question: "Dental hygienists can professionally remove debris from dentures using an ultrasonic cleaner.",
       choices: [
       "True",
@@ -5903,6 +6538,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40636,
       question: "Dental hygienists can label dentures to avoid misplacement in multi-denture households.",
       choices: [
       "True",
@@ -5911,6 +6547,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40637,
       question: "Dentures require just as much care as natural teeth.",
       choices: [
       "True",
@@ -5919,6 +6556,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40638,
       question: "Caregivers should wear protective gloves when providing denture care assistance.",
       choices: [
       "True",
@@ -5927,6 +6565,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40639,
       question: "Lip lubrication should be applied before beginning denture care assistance.",
       choices: [
       "True",
@@ -5935,6 +6574,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40640,
       question: "A labelled denture container is one of the materials needed for caregiver assistance.",
       choices: [
       "True",
@@ -5943,6 +6583,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40641,
       question: "Non-foaming toothpaste is recommended in the materials list for caregivers.",
       choices: [
       "True",
@@ -5951,6 +6592,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40642,
       question: "A mouth prop may be helpful when brushing an individual's teeth to ensure adequate access.",
       choices: [
       "True",
@@ -5959,6 +6601,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40643,
       question: "If dentures need to be removed by a caregiver, gentle pressure should be applied with a finger on the back of the denture.",
       choices: [
       "True",
@@ -5967,6 +6610,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40644,
       question: "Individuals with difficulty swallowing should spit into a kidney basin during oral care.",
       choices: [
       "True",
@@ -5975,6 +6619,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40645,
       question: "After cleaning, caregivers should look for changes and ask how the mouth and dentures feel.",
       choices: [
       "True",
@@ -5983,6 +6628,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40646,
       question: "Caregivers should make appropriate referrals if they identify an area of concern.",
       choices: [
       "True",
@@ -5991,6 +6637,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40647,
       question: "The document was published by the Canadian Dental Hygienists Association in 2015.",
       choices: [
       "True",
@@ -5999,6 +6646,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40648,
       question: "The helpful hints for daily denture care can be found at www.dentalhygienecanada.ca/denturehints.",
       choices: [
       "True",
@@ -6009,6 +6657,7 @@ export const questions = {
   ],
   "6. A String around Your Finger": [
     {
+      id: 40649,
       question: "What is the average time that US adults spend brushing their teeth daily according to the document?",
       choices: [
       "30 seconds",
@@ -6019,6 +6668,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40650,
       question: "Approximately what percentage of US adults floss daily and consistently?",
       choices: [
       "2%",
@@ -6029,6 +6679,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40651,
       question: "What is the recommended return on investment for each dollar spent on community water fluoridation?",
       choices: [
       "Up to $3",
@@ -6039,6 +6690,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40652,
       question: "What percentage of US adults ages 20-44 years have untreated dental caries?",
       choices: [
       "15%",
@@ -6049,6 +6701,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40653,
       question: "What percentage of dentate adults have decay in a permanent tooth?",
       choices: [
       "63%",
@@ -6059,6 +6712,7 @@ export const questions = {
       correctAnswer: "D"
     },
     {
+      id: 40654,
       question: "On average, patients with periodontitis demonstrate how much attachment loss per year?",
       choices: [
       "0.01 mm",
@@ -6069,6 +6723,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40655,
       question: "What is the estimated prevalence of periodontitis among US adults over 30 years of age?",
       choices: [
       "26%",
@@ -6079,6 +6734,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40656,
       question: "Among older individuals who never floss, the increased risk of death is approximately what percentage?",
       choices: [
       "10%",
@@ -6089,6 +6745,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40657,
       question: "According to the 2014 Delta Dental Oral Health and Well-Being Survey, what percentage of Americans never floss?",
       choices: [
       "20%",
@@ -6099,6 +6756,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40658,
       question: "How many species of microorganisms have been identified in dental biofilm?",
       choices: [
       "Over 200",
@@ -6109,6 +6767,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40659,
       question: "What percentage of children ages 2-19 had untreated caries in 2015-2016?",
       choices: [
       "8%",
@@ -6119,6 +6778,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40660,
       question: "What is the total incidence of caries (treated and untreated) among children ages 2-19?",
       choices: [
       "32.5%",
@@ -6129,6 +6789,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40661,
       question: "How many restricted activity days result from dental caries annually?",
       choices: [
       "2 million days",
@@ -6139,6 +6800,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40662,
       question: "How many work hours do employed adults lose each year to dental disease?",
       choices: [
       "52.4 million",
@@ -6149,6 +6811,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40663,
       question: "What percentage of severe periodontitis was found among adults 65 years or older?",
       choices: [
       "5.2%",
@@ -6159,6 +6822,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40664,
       question: "According to the ADA, how long should individuals brush their teeth?",
       choices: [
       "At least 1 minute once daily",
@@ -6169,6 +6833,7 @@ export const questions = {
       correctAnswer: "D"
     },
     {
+      id: 40665,
       question: "How often must biofilm be completely removed to prevent inflammation in experimental settings?",
       choices: [
       "Every 24 hours",
@@ -6179,6 +6844,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40666,
       question: "What percentage of teenagers reportedly floss daily?",
       choices: [
       "2%",
@@ -6189,6 +6855,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40667,
       question: "What percentage of Americans reported they would rather perform an unpleasant task than floss?",
       choices: [
       "Over 20%",
@@ -6199,6 +6866,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40668,
       question: "What year was the Cochrane systematic review on flossing published that influenced the Dietary Guidelines?",
       choices: [
       "2008",
@@ -6209,6 +6877,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40669,
       question: "Which government agency omitted flossing recommendations from the 2015-2020 Dietary Guidelines for Americans?",
       choices: [
       "Centers for Disease Control",
@@ -6219,6 +6888,7 @@ export const questions = {
       correctAnswer: "D"
     },
     {
+      id: 40670,
       question: "What was the nickname given to the controversy about the flossing recommendation omission?",
       choices: [
       "Flossgate",
@@ -6229,6 +6899,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40671,
       question: "In what year did the European Federation of Periodontology hold its 11th European Workshop on flossing?",
       choices: [
       "2011",
@@ -6239,6 +6910,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40672,
       question: "According to the document, what percentage of US children ages 3-15 report brushing their teeth twice daily?",
       choices: [
       "45.2%",
@@ -6249,6 +6921,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40673,
       question: "What percentage of adult Americans reported brushing twice daily?",
       choices: [
       "41%",
@@ -6259,6 +6932,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40674,
       question: "What percentage of Americans have gone two or more days without brushing in the past year?",
       choices: [
       "13%",
@@ -6269,6 +6943,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40675,
       question: "According to research, toothbrushing duration is associated with greater biofilm removal up to approximately how many minutes?",
       choices: [
       "One minute",
@@ -6279,6 +6954,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40676,
       question: "What type of toothbrush bristles result in superior plaque removal both subgingivally and interproximally?",
       choices: [
       "Hard bristles",
@@ -6289,6 +6965,7 @@ export const questions = {
       correctAnswer: "D"
     },
     {
+      id: 40677,
       question: "After how many weeks of normal use can toothbrush efficacy decrease?",
       choices: [
       "3 weeks",
@@ -6299,6 +6976,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40678,
       question: "Which type of power toothbrush has been shown to remove significantly more plaque than manual toothbrushes?",
       choices: [
       "Sonic action brushes",
@@ -6309,6 +6987,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40679,
       question: "In patients with adequate interdental space, which method was superior for biofilm removal compared to toothbrushing and flossing?",
       choices: [
       "Water flossing",
@@ -6319,6 +6998,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40680,
       question: "What did the 2011 Cochrane review conclude about flossing's effect on gingivitis?",
       choices: [
       "No evidence of benefit",
@@ -6329,6 +7009,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40681,
       question: "According to the EFP statement, for which patient group is floss optimal for primary prevention?",
       choices: [
       "Patients with periodontitis",
@@ -6339,6 +7020,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40682,
       question: "For patients with established periodontitis, what does the EFP recommend over floss where space allows?",
       choices: [
       "Water flossers",
@@ -6349,6 +7031,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40683,
       question: "In a matched twin cohort study, what was the effect of supervised flossing and toothbrushing?",
       choices: [
       "Increased visible plaque",
@@ -6359,6 +7042,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40684,
       question: "Flossing even how many days per week was associated with lower prevalence of periodontitis?",
       choices: [
       "1-2 days",
@@ -6369,6 +7053,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40685,
       question: "When should flossing or interdental cleaning be performed for maximal biofilm removal?",
       choices: [
       "After toothbrushing",
@@ -6379,6 +7064,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40686,
       question: "What percentage more plaque do interdental brushes remove compared to floss?",
       choices: [
       "They remove less plaque",
@@ -6389,6 +7075,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40687,
       question: "According to research, triangular wooden tips demonstrate what level of reduction in plaque when compared to toothbrushing alone?",
       choices: [
       "Significant reduction",
@@ -6399,6 +7086,7 @@ export const questions = {
       correctAnswer: "D"
     },
     {
+      id: 40688,
       question: "What do powered flossers decrease when used adjunctively with toothbrushing?",
       choices: [
       "Enamel thickness",
@@ -6409,6 +7097,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40689,
       question: "Which psychological interventions have been shown to improve oral hygiene practices?",
       choices: [
       "Authoritarian models",
@@ -6419,6 +7108,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40690,
       question: "What is the primary etiology of both dental caries and periodontal disease?",
       choices: [
       "Genetic factors",
@@ -6429,6 +7119,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40691,
       question: "According to the document, what happens to the oral microbiome when dysbiosis occurs?",
       choices: [
       "Symbiotic bacteria increase",
@@ -6439,6 +7130,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40692,
       question: "What is the critical pH threshold below which demineralization of teeth occurs?",
       choices: [
       "pH 7.0",
@@ -6449,6 +7141,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40693,
       question: "What mineral does fluoride help incorporate into remineralized tooth tissues?",
       choices: [
       "Calcium phosphate",
@@ -6459,6 +7152,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40694,
       question: "The average US adult has how many decayed, missing, or filled teeth?",
       choices: [
       "1.28",
@@ -6469,6 +7163,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40695,
       question: "Which groups have higher prevalence of tooth decay according to the document?",
       choices: [
       "Adults and younger children",
@@ -6479,6 +7174,7 @@ export const questions = {
       correctAnswer: "D"
     },
     {
+      id: 40696,
       question: "Gingivitis is described as what type of condition?",
       choices: [
       "Irreversible gingival inflammation",
@@ -6489,6 +7185,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40697,
       question: "What is periodontitis classified as in the updated AAP/EFP system?",
       choices: [
       "By color (red, yellow, green)",
@@ -6499,6 +7196,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40698,
       question: "How does periodontitis prevalence compare to diabetes mellitus in US adults?",
       choices: [
       "Periodontitis is less prevalent",
@@ -6509,6 +7207,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40699,
       question: "How many hours after cessation of oral hygiene do well-organized biofilms grow?",
       choices: [
       "Within 2 hours",
@@ -6519,6 +7218,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40700,
       question: "What is one limitation of using floss at interproximal sites?",
       choices: [
       "It's too expensive",
@@ -6529,6 +7229,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40701,
       question: "According to research on powered toothbrushes, which patient groups show additional benefit?",
       choices: [
       "Only healthy adults",
@@ -6539,6 +7240,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40702,
       question: "What does the document recommend regarding toothbrush replacement?",
       choices: [
       "Replace every 3 months regardless",
@@ -6549,6 +7251,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40703,
       question: "In patients with dental implants, which cleaning method may provide additional benefit?",
       choices: [
       "Manual flossing only",
@@ -6559,6 +7262,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40704,
       question: "What percentage of the population lost work/school hours seeking unplanned dental care?",
       choices: [
       "45.5%",
@@ -6569,6 +7273,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40705,
       question: "Which organizations continue to support the importance of flossing despite the Dietary Guidelines omission?",
       choices: [
       "Only the ADA",
@@ -6579,6 +7284,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40706,
       question: "What is the relationship between flossing frequency and periodontitis according to observational studies?",
       choices: [
       "More frequent flossing is associated with higher periodontitis",
@@ -6589,6 +7295,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40707,
       question: "According to the document, what percentage of adults ages 18-24 have gone days without brushing?",
       choices: [
       "23%",
@@ -6599,6 +7306,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40708,
       question: "What is the recommended toothbrushing technique most endorsed by dental professionals?",
       choices: [
       "Circular motion technique",
@@ -6609,6 +7317,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40709,
       question: "Dental caries result from acid erosion of hard tooth surfaces due to bacterial metabolism of simple sugars.",
       choices: [
       "True",
@@ -6617,6 +7326,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40710,
       question: "Children with poor oral health demonstrate similar scholastic performance to children with higher levels of oral wellness.",
       choices: [
       "True",
@@ -6625,6 +7335,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40711,
       question: "Periodontal disease is bacterially initiated, and disease progression is propagated by inflammatory host factors.",
       choices: [
       "True",
@@ -6633,6 +7344,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40712,
       question: "Manual toothbrushing alone is adequate in the treatment of gingivitis.",
       choices: [
       "True",
@@ -6641,6 +7353,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40713,
       question: "Improvement in effectiveness of oral hygiene measures requires multiple rounds of oral hygiene instruction and reinforcement over time.",
       choices: [
       "True",
@@ -6649,6 +7362,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40714,
       question: "Hard toothbrush bristles are more effective at plaque removal than soft bristles.",
       choices: [
       "True",
@@ -6657,6 +7371,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40715,
       question: "The 2011 Cochrane review found strong evidence that flossing prevents dental caries.",
       choices: [
       "True",
@@ -6667,6 +7382,7 @@ export const questions = {
   ],
   "7. Toothbrushing": [
     {
+      id: 40716,
       question: "What is tooth brushing considered to be in terms of plaque removal?",
       choices: [
       "A secondary chemical means of removing plaque",
@@ -6677,6 +7393,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40717,
       question: "How many papers were identified and retrieved in full text for this position paper?",
       choices: [
       "138 papers total",
@@ -6687,6 +7404,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40718,
       question: "What percentage of all plaque does average daily toothbrush cleaning of two minutes remove?",
       choices: [
       "Approximately 30% of all plaque",
@@ -6697,6 +7415,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40719,
       question: "Where was the toothbrush reportedly invented around 1000 AD?",
       choices: [
       "In China using ivory handles",
@@ -6707,6 +7426,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40720,
       question: "When were nylon bristles reported to have largely replaced natural bristles?",
       choices: [
       "In the early 1920s",
@@ -6717,6 +7437,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40721,
       question: "What event gave impetus for widespread use of tooth brushing in North America?",
       choices: [
       "Mandatory brushing for American soldiers in WWI",
@@ -6727,6 +7448,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40722,
       question: "When were powered toothbrushes first developed after WWII?",
       choices: [
       "They were developed in Switzerland",
@@ -6737,6 +7459,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40723,
       question: "When did the second generation of powered toothbrushes emerge?",
       choices: [
       "In the 1970s",
@@ -6747,6 +7470,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40724,
       question: "Which databases were used in the literature search for this position paper?",
       choices: [
       "MedLine, PubMed, and Google Scholar",
@@ -6757,6 +7481,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40725,
       question: "What time period did the Brothwell et al. review cover?",
       choices: [
       "From 1974 to 1985",
@@ -6767,6 +7492,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40726,
       question: "What was the conclusion of the Frandsen review regarding toothbrush superiority?",
       choices: [
       "Power brushes were clearly superior",
@@ -6777,6 +7503,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40727,
       question: "According to the Brothwell review, which type of power brush was more effective?",
       choices: [
       "Side-to-side action power brushes",
@@ -6787,6 +7514,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40728,
       question: "How many modes of action were powered toothbrushes clustered into in the 2003 Cochrane review?",
       choices: [
       "Four modes of action",
@@ -6797,6 +7525,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40729,
       question: "Which cluster removed more plaque in both short and long term in the Cochrane review?",
       choices: [
       "The side-to-side cluster",
@@ -6807,6 +7536,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40730,
       question: "What percentage more plaque did rotation oscillation brushes remove in the Cochrane update?",
       choices: [
       "7% more plaque removal",
@@ -6817,6 +7547,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40731,
       question: "What was added as a seventh group in the 2005 Cochrane update?",
       choices: [
       "The pulsating group",
@@ -6827,6 +7558,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40732,
       question: "What was the primary reason for excluding studies from the Cochrane meta-analysis?",
       choices: [
       "Studies lacked proper control groups",
@@ -6837,6 +7569,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40733,
       question: "What is the minimum duration requirement for studies included in the Cochrane review?",
       choices: [
       "At least 14 days",
@@ -6847,6 +7580,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40734,
       question: "What manual toothbrush design has undergone considerable study with angled filaments?",
       choices: [
       "Colgate Total Advanced",
@@ -6857,6 +7591,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40735,
       question: "What unique feature does the Oral-B CrossAction Vitalizer have?",
       choices: [
       "One row of silicon cleaning cups",
@@ -6867,6 +7602,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40736,
       question: "What diameter were the bristles that Frandsen recommended?",
       choices: [
       "Approximately 0.1 mm in diameter",
@@ -6877,6 +7613,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40737,
       question: "What length were the bristles that Frandsen recommended?",
       choices: [
       "8 mm in length",
@@ -6887,6 +7624,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40738,
       question: "Which type of brush has been shown to be less effective according to Brothwell?",
       choices: [
       "Brushes with serrated tufts",
@@ -6897,6 +7635,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40739,
       question: "What happens to bristle tips when less than 10% of toothbrush life has elapsed?",
       choices: [
       "Tips become sharper and pointed",
@@ -6907,6 +7646,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40740,
       question: "How long do individuals typically brush their teeth according to studies?",
       choices: [
       "About 30 seconds or less",
@@ -6917,6 +7657,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40741,
       question: "How much do people typically overestimate their tooth-brushing duration?",
       choices: [
       "By 30 to 50 seconds",
@@ -6927,6 +7668,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40742,
       question: "What brushing frequency did Frandsen identify from previous workshops?",
       choices: [
       "Up to one time a day",
@@ -6937,6 +7679,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40743,
       question: "What has been found to be the optimal force for tooth brushing?",
       choices: [
       "Between 100 to 200 grams",
@@ -6947,6 +7690,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40744,
       question: "What is the optimal range of feedback force determined in recent studies?",
       choices: [
       "From 150 to 180 grams",
@@ -6957,6 +7701,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40745,
       question: "At what force do some Braun oscillating/rotational powered toothbrushes stop?",
       choices: [
       "Over 1.5 Newtons",
@@ -6967,6 +7712,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40746,
       question: "What percentage of people employ their \"personal tooth-brushing method\"?",
       choices: [
       "Over 70% of people",
@@ -6977,6 +7723,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40747,
       question: "Which tooth-brushing method was found especially effective on lingual sites?",
       choices: [
       "The Stillman's method",
@@ -6987,6 +7734,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40748,
       question: "How often has it typically been recommended that toothbrushes be replaced?",
       choices: [
       "Every one month",
@@ -6997,6 +7745,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40749,
       question: "What range of time does toothbrush wear vary according to studies?",
       choices: [
       "From one week to three months",
@@ -7007,6 +7756,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40750,
       question: "What percentage of middle-aged U.S. population shows some level of recession?",
       choices: [
       "58% to 80% show recession",
@@ -7017,6 +7767,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40751,
       question: "What percentage of 30-to-90 year olds in the U.S. had recession of 3mm or greater?",
       choices: [
       "Almost one tenth had recession",
@@ -7027,6 +7778,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40752,
       question: "What difference in force has been reported between power and manual brushing?",
       choices: [
       "A 0.5 Newton difference",
@@ -7037,6 +7789,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40753,
       question: "What technique was found to be associated with the greatest recession?",
       choices: [
       "A vertical scrubbing technique",
@@ -7047,6 +7800,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40754,
       question: "What term has been more recently accepted for cervical hard tissue loss?",
       choices: [
       "Cervical abrasion lesion",
@@ -7057,6 +7811,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40755,
       question: "What is well recognized about toothpaste in relation to hard-tissue lesions?",
       choices: [
       "Toothpaste is the sole cause",
@@ -7067,6 +7822,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40756,
       question: "What does current understanding consider about the toothbrush alone?",
       choices: [
       "It causes severe enamel damage",
@@ -7077,6 +7833,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40757,
       question: "Which bristle type has the most influence on abrasion?",
       choices: [
       "Hard-bristled brushes",
@@ -7087,6 +7844,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40758,
       question: "Why do soft bristles cause more abrasion according to research?",
       choices: [
       "They move faster across tooth surfaces",
@@ -7097,6 +7855,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40759,
       question: "What do toothbrushes support according to contamination studies?",
       choices: [
       "Only aerobic bacteria",
@@ -7107,6 +7866,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40760,
       question: "Which design made retention of micro-organisms significantly more difficult?",
       choices: [
       "Staple set tufting design",
@@ -7117,6 +7877,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40761,
       question: "What has been shown to be associated with the least toothbrush contamination?",
       choices: [
       "Post-brushing antimicrobial spray",
@@ -7127,6 +7888,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40762,
       question: "What material more effectively inhibited retention of micro-organisms?",
       choices: [
       "Opaque brush head materials",
@@ -7137,6 +7899,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40763,
       question: "How many recommendations were developed in this position paper?",
       choices: [
       "Five recommendations total",
@@ -7147,6 +7910,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40764,
       question: "What does Recommendation 1 state about manual toothbrushes?",
       choices: [
       "They are obsolete for plaque control",
@@ -7157,6 +7921,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40765,
       question: "What action must power toothbrushes incorporate to be superior according to Recommendation 2?",
       choices: [
       "Side-to-side and circular motion",
@@ -7167,6 +7932,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40766,
       question: "What design must superior power toothbrushes have according to Recommendation 2?",
       choices: [
       "A battery-operated disposable design",
@@ -7177,6 +7943,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40767,
       question: "What does Recommendation 3 state about power toothbrush tissue damage?",
       choices: [
       "Power brushes cause more damage than manual",
@@ -7187,6 +7954,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40768,
       question: "What does Recommendation 4 conclude about tooth-brushing technique efficacy?",
       choices: [
       "Bass method is clearly superior",
@@ -7197,6 +7965,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40769,
       question: "What does Recommendation 5 state about worn toothbrush bristles?",
       choices: [
       "Worn bristles are definitely less effective",
@@ -7207,6 +7976,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40770,
       question: "What should recommendations include for clients with recession according to Recommendation 6?",
       choices: [
       "Information on bacterial etiology only",
@@ -7217,6 +7987,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40771,
       question: "What has not been shown according to Recommendation 7?",
       choices: [
       "Toothbrushes support micro-organisms",
@@ -7227,6 +7998,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40772,
       question: "What organization commissioned this position paper?",
       choices: [
       "American Dental Hygienists Association",
@@ -7237,6 +8009,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40773,
       question: "Who is the author of this CDHA position paper?",
       choices: [
       "Joanna Asadoorian, AAS(DH), MSc",
@@ -7247,6 +8020,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40774,
       question: "In what journal was this position paper published?",
       choices: [
       "Journal of Dental Hygiene",
@@ -7257,6 +8031,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40775,
       question: "What volume and number was this paper published in?",
       choices: [
       "Volume 38, Number 3",
@@ -7267,6 +8042,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40776,
       question: "When was this position paper published?",
       choices: [
       "July-August 2006",
@@ -7277,6 +8053,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40777,
       question: "What is inadequate plaque control considered to be the primary cause of?",
       choices: [
       "Dental caries only",
@@ -7287,6 +8064,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40778,
       question: "What is tooth brushing also used as a means of delivering?",
       choices: [
       "Nutritional supplements via toothpaste",
@@ -7297,6 +8075,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40779,
       question: "Where is plaque control particularly critical in preventing inflammation?",
       choices: [
       "In the occlusal area",
@@ -7307,6 +8086,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40780,
       question: "What type of studies are considered the gold standard for assessing healthcare intervention effectiveness?",
       choices: [
       "Case-control studies",
@@ -7317,6 +8097,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40781,
       question: "What were the primary outcome measures used in the Cochrane meta-analysis?",
       choices: [
       "Tooth sensitivity and halitosis levels",
@@ -7327,6 +8108,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40782,
       question: "Why were plaque values taken before brushing at assessment visits?",
       choices: [
       "To reduce patient anxiety levels",
@@ -7337,6 +8119,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40783,
       question: "What could not be assessed due to the length of clinical trials in the Cochrane review?",
       choices: [
       "Patient compliance with brushing",
@@ -7347,6 +8130,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40784,
       question: "What effect has been described for sonic brushes?",
       choices: [
       "Direct bristle contact effect",
@@ -7357,6 +8141,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40785,
       question: "What does \"micro-streaming\" of sonic brushes generate?",
       choices: [
       "Electrical charges on tooth surfaces",
@@ -7367,6 +8152,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40786,
       question: "What is believed to impact tooth-brushing efficacy in difficult-to-clean areas?",
       choices: [
       "Toothpaste formulation",
@@ -7377,6 +8163,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40787,
       question: "What traditionally difficult areas does toothbrush design aim to improve?",
       choices: [
       "Occlusal, buccal, and anterior surfaces",
@@ -7387,6 +8174,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40788,
       question: "What contributes to plaque removal efficacy according to bristle design studies?",
       choices: [
       "Bristle color and texture",
@@ -7397,6 +8185,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40789,
       question: "What have more tapered bristles been shown to improve in vitro?",
       choices: [
       "Access to the occlusal region",
@@ -7407,6 +8196,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40790,
       question: "What is believed to contribute to the traumatic potential of a toothbrush?",
       choices: [
       "Handle length and grip",
@@ -7417,6 +8207,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40791,
       question: "What are the majority of commercially available toothbrushes marketed as today?",
       choices: [
       "\"Hard\" bristle toothbrushes",
@@ -7427,6 +8218,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40792,
       question: "What do contemporary understanding favor for bristle tips?",
       choices: [
       "Pointed sharp-edged tips",
@@ -7437,6 +8229,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40793,
       question: "What occurs to bristle tips when the brush is being used by the client?",
       choices: [
       "Sharp edges become sharper",
@@ -7447,6 +8240,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40794,
       question: "What is an important variable in plaque removal efficacy according to recent reports?",
       choices: [
       "Toothbrush color and brand",
@@ -7457,6 +8251,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40795,
       question: "What has been recommended as ideal for manual brushing duration?",
       choices: [
       "One minute for manual brushing",
@@ -7467,6 +8262,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40796,
       question: "What have recent studies shown exists between recession and tooth-brushing duration?",
       choices: [
       "No relationship exists",
@@ -7477,6 +8273,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40797,
       question: "What have powered toothbrush designs incorporated to enable accurate time assessment?",
       choices: [
       "Digital displays showing elapsed time",
@@ -7487,6 +8284,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40798,
       question: "What did Frandsen conclude about brushing quality versus frequency?",
       choices: [
       "Frequency is more important than quality",
@@ -7497,6 +8295,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40799,
       question: "What did recent research on dogs show about brushing frequency?",
       choices: [
       "Brushing twice daily is necessary",
@@ -7507,6 +8306,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40800,
       question: "What has been associated with increased pressure up to a point?",
       choices: [
       "Decreased plaque removal efficacy",
@@ -7517,6 +8317,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40801,
       question: "What has manual tooth brushing been associated with compared to power brushing?",
       choices: [
       "Lower levels of force",
@@ -7527,6 +8328,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40802,
       question: "What do some powered toothbrushes incorporate to provide feedback on excessive force?",
       choices: [
       "Visual color change indicators",
@@ -7537,6 +8339,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40803,
       question: "What were the most commonly recommended manual tooth-brushing methods historically?",
       choices: [
       "Stillman's and Charter's methods",
@@ -7547,6 +8350,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40804,
       question: "What method do over 90% of people generally employ?",
       choices: [
       "A modified Bass technique",
@@ -7557,6 +8361,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40805,
       question: "Why has the scrub method been considered detrimental?",
       choices: [
       "It removes too little plaque",
@@ -7567,6 +8372,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40806,
       question: "What are indicators of a worn-out toothbrush?",
       choices: [
       "Bristles that are new and straight",
@@ -7577,6 +8383,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40807,
       question: "How variable is the occurrence of toothbrush wear?",
       choices: [
       "It is completely uniform among users",
@@ -7587,6 +8394,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40808,
       question: "What factors affect toothbrush wear according to research?",
       choices: [
       "Toothbrush brand, cost, and color",
@@ -7597,6 +8405,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40809,
       question: "What have some studies indicated about newer versus worn toothbrushes?",
       choices: [
       "No difference in plaque or gingivitis scores",
@@ -7607,6 +8416,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40810,
       question: "What has tooth brushing been described as to the gingiva?",
       choices: [
       "A beneficial therapeutic procedure",
@@ -7617,6 +8427,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40811,
       question: "What percentage range of gingival abrasion sizes are small according to studies?",
       choices: [
       "Small abrasions are uncommon",
@@ -7627,6 +8438,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40812,
       question: "What was the initial concern about power toothbrushes regarding gingival tissue?",
       choices: [
       "They may cause tooth sensitivity",
@@ -7637,6 +8449,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40813,
       question: "What is current understanding about powered tooth brushing safety?",
       choices: [
       "Power brushing is less safe than manual",
@@ -7647,6 +8460,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40814,
       question: "What have studies recognized about technique, frequency, and duration regarding recession?",
       choices: [
       "No relationship to recession exists",
@@ -7657,6 +8471,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40815,
       question: "Where were gingival abrasions mostly located according to studies?",
       choices: [
       "In the apical gingival aspect",
@@ -7667,6 +8482,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40816,
       question: "What have studies shown about end-rounding of toothbrush bristles?",
       choices: [
       "It has no effect on abrasions",
@@ -7677,6 +8493,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40817,
       question: "Tooth brushing is the most commonly recommended oral hygiene behavior in North America.",
       choices: [
       "True",
@@ -7685,6 +8502,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40818,
       question: "The toothbrush was reportedly invented in China in approximately 1000 AD.",
       choices: [
       "True",
@@ -7693,6 +8511,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40819,
       question: "Nylon bristles largely replaced natural bristles in the late 1930s.",
       choices: [
       "True",
@@ -7701,6 +8520,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40820,
       question: "Powered toothbrushes were first developed in the United States after World War II.",
       choices: [
       "True",
@@ -7709,6 +8529,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40821,
       question: "The second generation of powered toothbrushes emerged in the 1990s.",
       choices: [
       "True",
@@ -7717,6 +8538,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40822,
       question: "A total of 238 papers were identified and retrieved in full text for this position paper.",
       choices: [
       "True",
@@ -7725,6 +8547,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40823,
       question: "The Frandsen review concluded that power toothbrushes were superior to manual toothbrushes.",
       choices: [
       "True",
@@ -7733,6 +8556,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40824,
       question: "The Brothwell review found oscillating/rotating action power brushes more effective in reducing gingivitis.",
       choices: [
       "True",
@@ -7741,6 +8565,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40825,
       question: "The 2003 Cochrane review clustered powered toothbrushes into seven modes of action.",
       choices: [
       "True",
@@ -7749,6 +8574,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40826,
       question: "Rotation oscillation brushes removed more plaque in both short and long term studies.",
       choices: [
       "True",
@@ -7757,6 +8583,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40827,
       question: "The ionic group was added in the 2005 Cochrane update.",
       choices: [
       "True",
@@ -7765,6 +8592,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40828,
       question: "Studies of fewer than 28 days were included in the Cochrane review.",
       choices: [
       "True",
@@ -7773,6 +8601,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40829,
       question: "The Oral-B CrossAction has angled filaments in opposing directions along the horizontal axis.",
       choices: [
       "True",
@@ -7781,6 +8610,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40830,
       question: "The Oral-B CrossAction Vitalizer has two lateral rows of non-latex rubber nubs.",
       choices: [
       "True",
@@ -7789,6 +8619,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40831,
       question: "Frandsen recommended bristles with a diameter of approximately 0.2 mm.",
       choices: [
       "True",
@@ -7797,6 +8628,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40832,
       question: "Foam brushes have been shown to be as effective as conventional manual brushes.",
       choices: [
       "True",
@@ -7805,6 +8637,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40833,
       question: "Individuals typically brush for about one minute or less.",
       choices: [
       "True",
@@ -7813,6 +8646,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40834,
       question: "Most people accurately estimate their tooth-brushing duration.",
       choices: [
       "True",
@@ -7821,6 +8655,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40835,
       question: "Frandsen identified a brushing frequency up to two times a day from previous workshops.",
       choices: [
       "True",
@@ -7829,6 +8664,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40836,
       question: "The optimal force for tooth brushing has been found to be between 300 to 400 grams.",
       choices: [
       "True",
@@ -7837,6 +8673,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40837,
       question: "Over 90% of people employ their \"personal tooth-brushing method.\"",
       choices: [
       "True",
@@ -7845,6 +8682,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40838,
       question: "The modified Bass method was found especially effective on lingual sites.",
       choices: [
       "True",
@@ -7853,6 +8691,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40839,
       question: "It has typically been recommended that toothbrushes be replaced every three months.",
       choices: [
       "True",
@@ -7861,6 +8700,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40840,
       question: "Toothbrush wear occurs uniformly for all individuals.",
       choices: [
       "True",
@@ -7869,6 +8709,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40841,
       question: "Worn toothbrushes have definitively been shown to be less effective than unworn brushes.",
       choices: [
       "True",
@@ -7877,6 +8718,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40842,
       question: "Bristle tips display a flattened shape when less than 10% of toothbrush life has elapsed.",
       choices: [
       "True",
@@ -7885,6 +8727,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40843,
       question: "Gingival recession has a multi-factorial etiology.",
       choices: [
       "True",
@@ -7893,6 +8736,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40844,
       question: "78% to 100% of middle-aged U.S. population shows some level of recession.",
       choices: [
       "True",
@@ -7901,6 +8745,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40845,
       question: "A horizontal scrubbing technique was associated with the greatest recession.",
       choices: [
       "True",
@@ -7909,6 +8754,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40846,
       question: "The term \"non-carious cervical lesion\" has been more recently accepted for hard tissue loss.",
       choices: [
       "True",
@@ -7917,6 +8763,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40847,
       question: "The toothbrush alone has negligible effects on dentin and enamel.",
       choices: [
       "True",
@@ -7925,6 +8772,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40848,
       question: "Hard-bristled brushes have the most influence on abrasion.",
       choices: [
       "True",
@@ -7933,6 +8781,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40849,
       question: "Soft bristles hold toothpaste better than hard filaments.",
       choices: [
       "True",
@@ -7941,6 +8790,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40850,
       question: "Toothbrushes support a wide variety of micro-organisms.",
       choices: [
       "True",
@@ -7949,6 +8799,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40851,
       question: "Individual in-mold placement made retention of micro-organisms more difficult.",
       choices: [
       "True",
@@ -7957,6 +8808,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40852,
       question: "Pre-brushing mouth rinse has been shown to be associated with the least toothbrush contamination.",
       choices: [
       "True",
@@ -7965,6 +8817,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40853,
       question: "Transparent brush head materials more effectively inhibited retention of micro-organisms.",
       choices: [
       "True",
@@ -7973,6 +8826,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40854,
       question: "Seven recommendations were developed in this position paper.",
       choices: [
       "True",
@@ -7981,6 +8835,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40855,
       question: "Manual toothbrushes are a viable option for plaque control according to the recommendations.",
       choices: [
       "True",
@@ -7989,6 +8844,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40856,
       question: "All power toothbrush designs have been shown to be superior to manual toothbrushes.",
       choices: [
       "True",
@@ -7997,6 +8853,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40857,
       question: "Power toothbrushes with oscillating, rotating action in a re-chargeable design are superior.",
       choices: [
       "True",
@@ -8005,6 +8862,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40858,
       question: "Use of a power toothbrush is more damaging than a manual toothbrush to oral tissues.",
       choices: [
       "True",
@@ -8013,6 +8871,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40859,
       question: "No tooth-brushing method has been shown to be clearly superior.",
       choices: [
       "True",
@@ -8021,6 +8880,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40860,
       question: "There is conclusive evidence that worn bristles are less effective than unworn bristles.",
       choices: [
       "True",
@@ -8029,6 +8889,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40861,
       question: "The paper was commissioned by the Canadian Dental Hygienists Association.",
       choices: [
       "True",
@@ -8037,6 +8898,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40862,
       question: "The position paper was published in September-October 2006.",
       choices: [
       "True",
@@ -8047,6 +8909,7 @@ export const questions = {
   ],
   "8. Rinsing Recommendations": [
     {
+      id: 40863,
       question: "What organization published this position statement on oral rinsing recommendations?",
       choices: [
       "American Dental Hygienists Association",
@@ -8057,6 +8920,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40864,
       question: "When was this oral rinsing recommendations document copyrighted?",
       choices: [
       "March 2015",
@@ -8067,6 +8931,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40865,
       question: "What role does oral biofilm play in disease according to the document?",
       choices: [
       "A minor role in oral diseases only",
@@ -8077,6 +8942,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40866,
       question: "What do clients often find challenging according to the introduction?",
       choices: [
       "Selecting appropriate toothpaste brands",
@@ -8087,6 +8953,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40867,
       question: "What may integrating oral rinsing into daily home care practices help to reduce?",
       choices: [
       "Tooth sensitivity and enamel wear",
@@ -8097,6 +8964,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40868,
       question: "How are most oral rinses categorized in Canada?",
       choices: [
       "As \"consumer health products\"",
@@ -8107,6 +8975,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40869,
       question: "How can consumer health products be identified in Canada?",
       choices: [
       "By their manufacturing date on the packaging",
@@ -8117,6 +8986,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40870,
       question: "What does the product number on the label indicate?",
       choices: [
       "The date of manufacture and expiration",
@@ -8127,6 +8997,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40871,
       question: "Under which regulations are prescription oral rinse products regulated?",
       choices: [
       "Natural Health Products Regulations",
@@ -8137,6 +9008,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40872,
       question: "Which natural compound is mentioned as being of growing interest for home oral care?",
       choices: [
       "Aloe vera",
@@ -8147,6 +9019,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40873,
       question: "Which of these natural compounds is mentioned as being of growing interest?",
       choices: [
       "Peppermint oil",
@@ -8157,6 +9030,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40874,
       question: "What other natural extract is mentioned as being of growing interest?",
       choices: [
       "Cranberry extract",
@@ -8167,6 +9041,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40875,
       question: "What has long been considered the gold standard for therapeutic home oral rinsing?",
       choices: [
       "Essential oil compounds",
@@ -8177,6 +9052,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40876,
       question: "What is an example of prescription chlorhexidine gluconate mentioned in the document?",
       choices: [
       "LISTERINE® 0.12%",
@@ -8187,6 +9063,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40877,
       question: "What percentage concentration is the PERIDEX™ chlorhexidine gluconate?",
       choices: [
       "0.06%",
@@ -8197,6 +9074,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40878,
       question: "What is the thymol concentration in the essential oil compound?",
       choices: [
       "0.042%",
@@ -8207,6 +9085,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40879,
       question: "What is the eucalyptol concentration in the essential oil compound?",
       choices: [
       "0.042%",
@@ -8217,6 +9096,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40880,
       question: "What is the menthol concentration in the essential oil compound?",
       choices: [
       "0.042%",
@@ -8227,6 +9107,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40881,
       question: "What brand name is associated with the essential oil compound mentioned?",
       choices: [
       "Scope®",
@@ -8237,6 +9118,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40882,
       question: "How many essential oils are combined in the effective essential oil compound?",
       choices: [
       "Two essential oils",
@@ -8247,6 +9129,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40883,
       question: "What negative side effect of CHG involves visual appearance?",
       choices: [
       "Causing tooth discoloration",
@@ -8257,6 +9140,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40884,
       question: "What negative side effect of CHG involves sensory perception?",
       choices: [
       "Increasing tooth sensitivity",
@@ -8267,6 +9151,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40885,
       question: "What negative side effect involves hard deposit formation?",
       choices: [
       "Reducing enamel mineralization",
@@ -8277,6 +9162,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40886,
       question: "For what duration is CHG indicated for use?",
       choices: [
       "Long-term use only",
@@ -8287,6 +9173,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40887,
       question: "What is an example of cetylpyridinium chloride mentioned in the document?",
       choices: [
       "LISTERINE® Total Care",
@@ -8297,6 +9184,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40888,
       question: "How does cetylpyridinium chloride compare to placebo?",
       choices: [
       "Inferior efficacy to placebo",
@@ -8307,6 +9195,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40889,
       question: "How effective is cetylpyridinium chloride compared to CHG or essential oils?",
       choices: [
       "More effective than both",
@@ -8317,6 +9206,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40890,
       question: "What is lacking for non-commercially available oral rinse formulations?",
       choices: [
       "Consumer interest and market demand",
@@ -8327,6 +9217,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40891,
       question: "What minimum duration defines \"long-term\" studies according to the document?",
       choices: [
       "At least 3 months",
@@ -8337,6 +9228,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40892,
       question: "What should dental hygienists recommend to their adult clients?",
       choices: [
       "Oral rinsing as a replacement for brushing",
@@ -8347,6 +9239,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40893,
       question: "What should dental hygienists only recommend regarding oral rinsing products?",
       choices: [
       "The most expensive products available",
@@ -8357,6 +9250,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40894,
       question: "What should be taken into consideration when recommending products?",
       choices: [
       "Clients' income and insurance coverage",
@@ -8367,6 +9261,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40895,
       question: "Among non-prescription oral rinses, which has been shown to be most effective?",
       choices: [
       "Hydrogen peroxide solutions",
@@ -8377,6 +9272,7 @@ export const questions = {
       correctAnswer: "D"
     },
     {
+      id: 40896,
       question: "What should the essential oil rinse be recommended as a complement to?",
       choices: [
       "Professional cleanings only",
@@ -8387,6 +9283,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40897,
       question: "For which population should dental hygienists recommend therapeutic oral rinses?",
       choices: [
       "Only children under 12",
@@ -8397,6 +9294,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40898,
       question: "What is the primary purpose of recommending therapeutic oral rinses?",
       choices: [
       "To whiten teeth and improve aesthetics",
@@ -8407,6 +9305,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40899,
       question: "According to the position statement, what type of evidence is lacking for non-commercial formulations?",
       choices: [
       "Any research studies whatsoever",
@@ -8417,6 +9316,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40900,
       question: "What should dental hygienists continue to recommend?",
       choices: [
       "Experimental and unproven products",
@@ -8427,6 +9327,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40901,
       question: "Who authored the reference about therapeutic oral rinsing with non-commercially available products?",
       choices: [
       "Consumer Health Products Canada",
@@ -8437,6 +9338,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40902,
       question: "In what year was the reference about non-commercially available products published?",
       choices: [
       "2009",
@@ -8447,6 +9349,7 @@ export const questions = {
       correctAnswer: "D"
     },
     {
+      id: 40903,
       question: "What journal published the 2017 reference by Asadoorian about non-commercial products?",
       choices: [
       "J Periodontol",
@@ -8457,6 +9360,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40904,
       question: "What volume and issue was the 2017 Asadoorian reference published in?",
       choices: [
       "50(3)",
@@ -8467,6 +9371,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40905,
       question: "Who authored the reference about selecting study designs for mouthrinses?",
       choices: [
       "Asadoorian J",
@@ -8477,6 +9382,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40906,
       question: "In what year was the Lorenz reference about study designs published?",
       choices: [
       "2009",
@@ -8487,6 +9393,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40907,
       question: "What journal published the Lorenz reference?",
       choices: [
       "J Clin Dent",
@@ -8497,6 +9404,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40908,
       question: "Who authored the systematic review comparing essential oils to chlorhexidine?",
       choices: [
       "Van Strydonck DA",
@@ -8507,6 +9415,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40909,
       question: "In what year was the Van Leeuwen systematic review published?",
       choices: [
       "2009",
@@ -8517,6 +9426,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40910,
       question: "What journal published the Van Leeuwen systematic review?",
       choices: [
       "J Periodontol",
@@ -8527,6 +9437,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40911,
       question: "Who authored the systematic review about chlorhexidine effects on staining?",
       choices: [
       "Van Leeuwen MP",
@@ -8537,6 +9448,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40912,
       question: "In what year was the Van Strydonck systematic review published?",
       choices: [
       "2009",
@@ -8547,6 +9459,7 @@ export const questions = {
       correctAnswer: "D"
     },
     {
+      id: 40913,
       question: "What journal published the Van Strydonck systematic review?",
       choices: [
       "J Periodontol",
@@ -8557,6 +9470,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40914,
       question: "Who was the first author on the comparative investigation of CPC-containing mouthwash?",
       choices: [
       "Sharma NC",
@@ -8567,6 +9481,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40915,
       question: "In what year was the Ayad comparative investigation published?",
       choices: [
       "2009",
@@ -8577,6 +9492,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40916,
       question: "What journal published the Ayad comparative investigation?",
       choices: [
       "J Periodontol",
@@ -8587,6 +9503,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40917,
       question: "Where was the Ayad clinical study conducted?",
       choices: [
       "Toronto, Canada",
@@ -8597,6 +9514,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40918,
       question: "Who was the first author on the superiority study of essential oil mouthrinse?",
       choices: [
       "Ayad F",
@@ -8607,6 +9525,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40919,
       question: "In what year was the Sharma superiority study published?",
       choices: [
       "2009",
@@ -8617,6 +9536,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40920,
       question: "What journal published the Sharma superiority study?",
       choices: [
       "J Periodontol",
@@ -8627,6 +9547,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40921,
       question: "What concentration of cetylpyridinium chloride was compared in the Sharma study?",
       choices: [
       "0.05%",
@@ -8637,6 +9558,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40922,
       question: "Who authored the 2016 reference about commercially available products?",
       choices: [
       "Van Leeuwen MP",
@@ -8647,6 +9569,7 @@ export const questions = {
       correctAnswer: "C"
     },
     {
+      id: 40923,
       question: "In what year was the Asadoorian reference about commercially available products published?",
       choices: [
       "2010",
@@ -8657,6 +9580,7 @@ export const questions = {
       correctAnswer: "D"
     },
     {
+      id: 40924,
       question: "What volume and issue was the 2016 Asadoorian reference published in?",
       choices: [
       "50(3)",
@@ -8667,6 +9591,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40925,
       question: "What website is provided for Consumer Health Products Canada?",
       choices: [
       "www.healthcanada.ca",
@@ -8677,6 +9602,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40926,
       question: "In what year was Consumer Health Products Canada information dated?",
       choices: [
       "2009",
@@ -8687,6 +9613,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40927,
       question: "Dental hygienists are encouraged to recommend therapeutic oral rinses to complement home care routines.",
       choices: [
       "True",
@@ -8695,6 +9622,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40928,
       question: "There is strong evidence that non-commercially available oral rinses are as effective as commercial rinses.",
       choices: [
       "True",
@@ -8703,6 +9631,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40929,
       question: "Long-term studies are defined as those lasting 6 months or longer.",
       choices: [
       "True",
@@ -8711,6 +9640,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40930,
       question: "Oral biofilm plays a significant role in many oral and systemic diseases.",
       choices: [
       "True",
@@ -8719,6 +9649,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40931,
       question: "Most oral rinses in Canada are categorized as \"consumer health products.\"",
       choices: [
       "True",
@@ -8727,6 +9658,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40932,
       question: "Products requiring a prescription are regulated under the Natural Health Products Regulations.",
       choices: [
       "True",
@@ -8735,6 +9667,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40933,
       question: "Green tea is mentioned as a natural compound of growing interest for oral care.",
       choices: [
       "True",
@@ -8743,6 +9676,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40934,
       question: "Chlorhexidine gluconate (CHG) has long been considered the gold standard for therapeutic oral rinsing.",
       choices: [
       "True",
@@ -8751,6 +9685,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40935,
       question: "PERIDEX™ contains 0.24% chlorhexidine gluconate.",
       choices: [
       "True",
@@ -8759,6 +9694,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40936,
       question: "The essential oil compound contains three essential oils.",
       choices: [
       "True",
@@ -8767,6 +9703,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40937,
       question: "The essential oil compound is marketed under the brand name LISTERINE®.",
       choices: [
       "True",
@@ -8775,6 +9712,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40938,
       question: "CHG has negative side effects including staining oral tissues.",
       choices: [
       "True",
@@ -8783,6 +9721,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40939,
       question: "CHG is indicated for long-term use.",
       choices: [
       "True",
@@ -8791,6 +9730,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40940,
       question: "Cetylpyridinium chloride demonstrates superior efficacy to placebo.",
       choices: [
       "True",
@@ -8799,6 +9739,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40941,
       question: "Cetylpyridinium chloride is as effective as CHG at reducing biofilm.",
       choices: [
       "True",
@@ -8807,6 +9748,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40942,
       question: "Consistent, high-quality, long-term studies are lacking for non-commercial formulations.",
       choices: [
       "True",
@@ -8815,6 +9757,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40943,
       question: "Dental hygienists should recommend oral rinsing products proven safe and effective.",
       choices: [
       "True",
@@ -8823,6 +9766,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40944,
       question: "Client needs, beliefs, and preferences should be considered when recommending products.",
       choices: [
       "True",
@@ -8831,6 +9775,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40945,
       question: "The essential oil rinse compound has been shown to be the most effective non-prescription rinse.",
       choices: [
       "True",
@@ -8839,6 +9784,7 @@ export const questions = {
       correctAnswer: "A"
     },
     {
+      id: 40946,
       question: "The essential oil rinse should replace tooth brushing and interdental cleansing.",
       choices: [
       "True",
@@ -8847,6 +9793,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40947,
       question: "The position statement applies to all age groups equally.",
       choices: [
       "True",
@@ -8855,6 +9802,7 @@ export const questions = {
       correctAnswer: "B"
     },
     {
+      id: 40948,
       question: "The document was copyrighted in March 2017.",
       choices: [
       "True",
