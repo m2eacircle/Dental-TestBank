@@ -17,6 +17,7 @@ import { questions as periodontologyQuestions } from './lesson2/lesson2-periodon
 import { questions as anatomyQuestions } from './lesson2/lesson2-head-and-neck-anatomy.js';
 import { questions as pharmacologyQuestions } from './lesson2/lesson2-pharmacology.js';
 import { questions as oralHealthEducationQuestions } from './lesson2/lesson2-oral-health-education.js';
+import { questions as dentalHygieneTheory2Questions } from './lesson2/lesson2-dental-hygiene-theory-ii.js';
 
 // Board Exam imports
 import { questions as professionalPracticeFoundationsQuestions } from './boardexam/boardexam-professional-practice-and-foundations.js';
@@ -66,6 +67,7 @@ export const allQuestions = {
   ...anatomyQuestions,
   ...pharmacologyQuestions,
   ...oralHealthEducationQuestions,
+  ...dentalHygieneTheory2Questions,
   ...professionalPracticeFoundationsQuestions,
   ...communityPublicHealthQuestions,
   ...infectionControlSafetyQuestions,
@@ -101,6 +103,7 @@ export {
   anatomyQuestions,
   pharmacologyQuestions,
   oralHealthEducationQuestions,
+  dentalHygieneTheory2Questions,
   professionalPracticeFoundationsQuestions,
   communityPublicHealthQuestions,
   infectionControlSafetyQuestions,
