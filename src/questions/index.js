@@ -129,7 +129,7 @@ export const subjectsWithSubtopics = {
     "Microbiology"
   ],
   "Lesson 2": [
-    "Dental Hygiene Clinic II",
+    "Dental Hygiene Theory II",
     "Dental Materials Theory",
     "Dental Radiography Interpretation",
     "Dental Radiography Theory",
@@ -142,7 +142,6 @@ export const subjectsWithSubtopics = {
   ],
   "Lesson 3": [
     "Community Dental Health I",
-    "Dental Hygiene Clinic III",
     "Dental Hygiene Theory III",
     "Dental Materials Lab",
     "Ethics and Jurisprudence",
@@ -156,7 +155,6 @@ export const subjectsWithSubtopics = {
     "Business Practice",
     "Community Dental Health II",
     "Consolidated Learning",
-    "Dental Hygiene Clinic IV",
     "Dental Hygiene Theory IV"
   ],
   "Board Exam": [
