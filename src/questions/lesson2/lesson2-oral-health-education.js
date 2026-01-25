@@ -2,9 +2,9 @@
 // Topic 1: Soft and Hard Deposits
 // Topic 2: Toothbrushing
 // Topic 3: Interdental & Supplemental Self-Care Aids
-// Topic 4-1: Dentifrices
-// Topic 4-2: Mouthrinse Comparison
-// Topic 4-3: Sensodyne ProNamel Product Table
+// Topic 4: Dentifrices
+// Topic 4: Mouthrinse Comparison
+// Topic 4: Sensodyne ProNamel Product Table
 // Topic 5: Denture
 // Topic 6: A String around Your Finger
 // Topic 7: Toothbrushing
@@ -20,13 +20,13 @@ export const questions = {
   "3. Interdental & Supplemental Self-Care Aids": [
     // Add questions here
   ],
-  "4-1. Dentifrices": [
+  "4. Dentifrices": [
     // Add questions here
   ],
-  "4-2. Mouthrinse Comparison": [
+  "4. Mouthrinse Comparison": [
     // Add questions here
   ],
-  "4-3. Sensodyne ProNamel Product Table": [
+  "4. Sensodyne ProNamel Product Table": [
     // Add questions here
   ],
   "5. Denture": [
