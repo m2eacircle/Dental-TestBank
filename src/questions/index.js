@@ -682,13 +682,13 @@ export const subjectsWithSubtopics = {
     "1. Soft and Hard Deposits",
     "2. Toothbrushing",
     "3. Interdental & Supplemental Self-Care Aids",
-    "4-1. Dentifrices",
-    "4-2. Mouthrinse Comparison",
-    "4-3. Sensodyne ProNamel Product Table",
-    "5. Mouthrinse Comparison",
-    "6. Sensodyne ProNamel Product Table",
-    "7. Denture",
-    "8. A String around Your Finger"
+    "4. Dentifrices",
+    "4. Mouthrinse Comparison",
+    "4. Sensodyne ProNamel Product Table",
+    "5. Denture",
+    "6. A String around Your Finger",
+    "7. Toothbrushing",
+    "8. Rinsing Recommendations"
   ]
 };
 
@@ -776,7 +776,7 @@ export const questionBankMetadata = {
       topics: 10,
       totalQuestions: 0,
       file: 'lesson2-oral-health-education.js'
-    },    
+    },
     professionalFoundations: {
       name: 'Professional Foundations',
       topics: 0,
