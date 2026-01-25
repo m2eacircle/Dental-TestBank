@@ -10,7 +10,7 @@ import { questions as statisticsResearchQuestions } from './lesson1/lesson1-intr
 import { questions as microbiologyQuestions } from './lesson1/lesson1-microbiology.js';
 
 // Lesson 2 imports
-import { radiographyQuestions } from './lesson2/lesson2-radiography-questions.js';
+import { questions as radiographyQuestions } from './lesson2/lesson2-radiography-questions.js';
 import { questions as pathophysiologyQuestions } from './lesson2/lesson2-pathophysiology.js';
 import { questions as dentalMaterialsQuestions } from './lesson2/lesson2-dental-materials-theory.js';
 import { questions as periodontologyQuestions } from './lesson2/lesson2-periodontology-i.js';
@@ -621,7 +621,15 @@ export const subjectsWithSubtopics = {
     "9. Digestive System Disorders (Part 1)",
     "9. Digestive System Disorders (Part 2)"
   ],
-  "Dental Materials Theory": [
+  "Dental Hygiene Theory II": [
+    "7. Care Plan",
+    "8. Ultrasonic",
+    "9. Dentinal Hypersensitivity",
+    "10. Polishing and Whitening",
+    "11. Handpiece Maintenance",    
+    "12. Local Anesthetic"
+  ],
+    "Dental Materials Theory": [
     "1. Introduction to Dental Materials and Oral environment and patient considerations",
     "2. Physical and Mechanical properties of dental materials and General handling and safety of dental materials in the dental office",
     "3. Dental amalgams, Metals and Alloys (Part 1)",
