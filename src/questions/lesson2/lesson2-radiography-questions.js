@@ -10,7 +10,7 @@
 //   7. Dental Radiography Theory (85 questions) - COMPLETE
 //   8. Dental Radiography Theory (63 questions) - COMPLETE
 
-export const radiographyQuestions = {
+export const questions = {
   "1. Radiation History & Radiation Physics": [
     { id: 1620, question: "What is the main function of the vacuum inside the X-ray tube?", options: ["To accelerate the electrons faster", "To prevent electrons from colliding with air molecules", "To increase heat production", "To cool the anode"], correct: 1 },
     { id: 1621, question: "The vacuum in the X-ray tube also prevents:", options: ["Metal oxidation inside the tube", "X-ray scattering", "Photon filtration", "Oil leakage"], correct: 0 },
