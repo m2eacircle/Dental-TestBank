@@ -307,7 +307,8 @@ export const subjectsWithSubtopics = {
   ],
   "Pain and Anxiety Management": [
     "1. Local Anesthesia",
-    "1. Local Anesthesia (Case Study)",
+    "1. Local Anesthesia (Case Study 1)",
+    "1. Local Anesthesia (Case Study 2)",
     "2. Nitrous Oxide Sedation",
     "2. Nitrous Oxide Sedation (Case Study)"
   ],
