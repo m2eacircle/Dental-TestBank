@@ -13231,4 +13231,4973 @@ export const questions = {
       correct: "B"
     }
   ]
+,
+  "1. Pediatric and Adolescent Care (Case Study)": [
+    {
+      id: 26076,
+      question: "What is the PRIMARY reason for establishing a dental home by 12 months of age?",
+      options: [
+        "To ensure proper tooth eruption patterns are monitored throughout childhood development",
+        "To establish ongoing comprehensive oral healthcare and promote healthy behaviors early",
+        "To identify genetic conditions that may affect oral health in later years",
+        "To provide fluoride treatments before the child develops dental caries risk"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26077,
+      question: "According to the Fisher-Owens model, which factor is MOST directly contributing to Marcus's current oral health condition?",
+      options: [
+        "Community-level influences related to access to fluoridated water systems",
+        "Family-level influences including health behaviors and dietary practices",
+        "Genetic and biologic endowment affecting enamel development patterns",
+        "Physical environment factors affecting the child's exposure to cariogenic bacteria"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26078,
+      question: "Which recommendation is MOST appropriate for managing Sofia's teething symptoms?",
+      options: [
+        "Apply teething gel containing benzocaine to numb the affected gingival areas",
+        "Provide clean, cool washcloths or solid teething rings for the child to chew",
+        "Give the child a teething necklace to wear throughout the day and night",
+        "Offer warm beverages in a bottle to soothe the inflamed gingival tissues"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26079,
+      question: "What type of bacterial transmission is occurring in this scenario?",
+      options: [
+        "Environmental transmission through contaminated surfaces in the home setting",
+        "Horizontal transmission between the child and other children at daycare",
+        "Vertical transmission from the mother to child through salivary contact",
+        "Secondary transmission through airborne pathogens during close contact"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26080,
+      question: "What is the PRIMARY concern regarding enamel developmental defects in primary dentition?",
+      options: [
+        "They indicate underlying systemic diseases requiring immediate medical referral",
+        "They create retention areas for plaque, increasing dental caries risk significantly",
+        "They will automatically transfer to permanent teeth during tooth development",
+        "They suggest nutritional deficiencies that must be corrected through supplementation"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26081,
+      question: "According to ADA guidelines, what fluoride supplement dosage is recommended for these children?",
+      options: [
+        "0.25 mg fluoride daily based on their age and water fluoride concentration",
+        "0.50 mg fluoride daily to compensate for the low community water levels",
+        "1.0 mg fluoride daily since they are past their first year of life",
+        "No supplementation needed until permanent teeth begin to erupt around age six"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26082,
+      question: "What preventive intervention is MOST appropriate at this appointment?",
+      options: [
+        "Application of fluoride varnish only to strengthen the newly erupted enamel",
+        "Prophylactic antibiotic therapy to prevent bacterial colonization of the molars",
+        "Placement of dental sealants to protect the occlusal surfaces from caries",
+        "Prescription of fluoride supplements to enhance systemic fluoride exposure"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26083,
+      question: "Which classification BEST describes Nina's gingival condition?",
+      options: [
+        "Necrotizing ulcerative gingivitis caused by opportunistic bacterial infection",
+        "Drug-influenced gingival enlargement related to hormonal contraceptive use",
+        "Endogenous sex steroid hormone gingival disease modified by systemic factors",
+        "Chronic periodontitis with attachment loss due to inadequate oral hygiene"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26084,
+      question: "Based on these findings, how should Ethan's caries risk be classified?",
+      options: [
+        "Low risk because he is still in the primary dentition stage of development",
+        "Moderate risk requiring enhanced preventive measures and dietary counseling",
+        "High risk due to the presence of multiple risk factors and clinical findings",
+        "Questionable risk pending further diagnostic radiographs and clinical testing"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26085,
+      question: "Which practice should the hygienist recommend to PREVENT vertical transmission of cariogenic bacteria?",
+      options: [
+        "Share eating utensils with the infant to build immune system tolerance",
+        "Clean the pacifier in the parent's mouth before giving it to the baby",
+        "Seek regular preventive dental care and avoid sharing utensils with the infant",
+        "Test the temperature of food by tasting it before feeding the baby"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26086,
+      question: "What is Isabella's dmft score?",
+      options: [
+        "7, representing only the decayed and filled teeth in the primary dentition",
+        "9, representing the sum of all decayed, missing, and filled primary teeth",
+        "11, including both affected primary teeth and permanent molars",
+        "5, counting only the currently active carious lesions requiring treatment"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26087,
+      question: "What recommendation should the hygienist make regarding athletic mouthguard use?",
+      options: [
+        "Continue using the stock mouthguard as it provides adequate protection for sports",
+        "Switch to a boil-and-bite mouthguard for slightly improved fit and protection",
+        "Obtain a custom-fitted mouthguard for optimal protection during sports activities",
+        "Use the mouthguard only during football since basketball has lower injury risk"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26088,
+      question: "What is the MOST appropriate guidance regarding Sophia's thumb-sucking habit?",
+      options: [
+        "Immediate intervention is necessary to prevent permanent malocclusion development",
+        "This is a normal soothing mechanism; most children stop between ages 2-4 years",
+        "Apply bitter-tasting solutions to the thumb to discourage the habit immediately",
+        "Use restraining devices at night to physically prevent thumb access to mouth"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26089,
+      question: "What concentration and frequency of fluoride varnish application is recommended?",
+      options: [
+        "1.23% APF varnish applied every 3 months for children in this age group",
+        "2.26% sodium fluoride varnish applied every 3-6 months for at-risk children",
+        "5% sodium fluoride varnish applied only once yearly for moderate-risk children",
+        "0.5% fluoride varnish applied every 12 months for children with primary dentition"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26090,
+      question: "What is the FIRST symptom of acute fluoride toxicity the hygienist should inform the parent to monitor?",
+      options: [
+        "Immediate respiratory distress requiring emergency medical intervention",
+        "Gastrointestinal irritation including nausea, vomiting, and abdominal pain",
+        "Cardiac arrhythmias and significant changes in blood pressure levels",
+        "Central nervous system depression leading to confusion and disorientation"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26091,
+      question: "According to best practices, at what age should children be weaned from the bottle?",
+      options: [
+        "6-8 months when solid foods are first introduced into the diet",
+        "12-14 months to prevent prolonged bottle use and associated caries risk",
+        "18-20 months when the child has developed sufficient motor coordination",
+        "24-30 months after all primary teeth have erupted into the oral cavity"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26092,
+      question: "Which statement is MOST accurate regarding e-cigarette use in adolescents?",
+      options: [
+        "E-cigarettes are FDA-approved cessation devices safe for teenage use",
+        "Vaping contains no nicotine and poses minimal health risks to adolescents",
+        "E-cigarettes are unsafe, contain nicotine, and increase cigarette smoking risk",
+        "Occasional vaping has no long-term health consequences for this age group"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26093,
+      question: "What is the MOST likely cause of Liam's delayed tooth eruption?",
+      options: [
+        "Genetic factors related to familial patterns of late tooth development",
+        "Endocrine factors associated with his hypothyroidism diagnosis",
+        "Oral space limitations preventing normal eruption of primary teeth",
+        "Nutritional deficiencies affecting calcium and phosphorus metabolism"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26094,
+      question: "What is the MOST likely mode of transmission for this infection?",
+      options: [
+        "Airborne transmission from infected individuals in public settings",
+        "Vertical transmission during delivery from maternal genital infection",
+        "Sharing toys, towels, or toothbrushes with infected individuals",
+        "Contaminated food or water sources in the home environment"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26095,
+      question: "How should the tooth with both a restoration and new decay be recorded in the DMFT index?",
+      options: [
+        "Counted as one decayed tooth (D) only, since active disease takes precedence",
+        "Counted as one filled tooth (F) only, since the restoration was placed first",
+        "Counted as both D and F, adding two points to the total DMFT score",
+        "Excluded from the DMFT calculation due to the mixed disease presentation"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26096,
+      question: "What is the MAXIMUM amount of fluoride gel that should be placed in each tray?",
+      options: [
+        "2 mL per tray since the child weighs less than 60 pounds",
+        "4 mL per tray as the child is over 44 pounds body weight",
+        "6 mL per tray to ensure complete coverage of all tooth surfaces",
+        "8 mL per tray for maximum fluoride uptake in high-risk children"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26097,
+      question: "Which teeth are MOST susceptible to decay at Mason's age according to decay susceptibility patterns?",
+      options: [
+        "Mandibular first molars which erupt earliest in the primary dentition",
+        "Maxillary central and lateral incisors due to nocturnal feeding patterns",
+        "All posterior teeth equally regardless of eruption timing or location",
+        "Mandibular anterior teeth due to pooling of liquids in the floor of mouth"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26098,
+      question: "What amount of fluoridated toothpaste should be recommended for Harper?",
+      options: [
+        "A smear or rice grain-sized amount until the child reaches age 6 years",
+        "A pea-sized amount now that the child is over 3 years of age",
+        "A full brush head amount to ensure adequate fluoride exposure daily",
+        "No fluoridated toothpaste until the child can reliably expectorate"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26099,
+      question: "According to CDC recommendations, what should the hygienist communicate about HPV vaccination?",
+      options: [
+        "HPV vaccination is only recommended for males to prevent oral cancer transmission",
+        "Vaccination is unnecessary after age 15 as HPV exposure has likely occurred",
+        "HPV vaccination is recommended for individuals through age 26 years for prevention",
+        "The vaccine only prevents genital HPV and has no effect on oral HPV transmission"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26100,
+      question: "What is the CURRENT recommended optimal fluoride concentration in community water supplies?",
+      options: [
+        "0.3 mg/L to minimize any risk of dental fluorosis in children",
+        "0.7 mg/L to protect against caries while minimizing fluorosis",
+        "1.2 mg/L to provide maximum caries prevention in all age groups",
+        "2.0 mg/L in communities with high dental caries prevalence rates"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26101,
+      question: "What resource should the hygienist recommend for determining fluoride levels in community water?",
+      options: [
+        "Contact the child's pediatrician for information about local water fluoride levels",
+        "Purchase home water testing kits from the pharmacy for immediate results",
+        "Contact the CDC or state public health department for community fluoride data",
+        "Assume all city water is optimally fluoridated and requires no verification"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26102,
+      question: "What is the MOST critical preventive strategy to recommend for Elijah?",
+      options: [
+        "Prescribe high-dose fluoride supplements regardless of water fluoridation status",
+        "Schedule monthly professional fluoride applications starting at 12 months of age",
+        "Treat the mother's active decay and educate about preventing bacterial transmission",
+        "Delay establishing a dental home until the child has more teeth erupted"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26103,
+      question: "What instruction is MOST important to give the parents following fluoride varnish application?",
+      options: [
+        "Have the child rinse vigorously with water immediately after application",
+        "Avoid hard foods, hot beverages, brushing, and flossing for 4-6 hours minimum",
+        "Brush and floss the child's teeth within 30 minutes to spread the varnish",
+        "Apply additional over-the-counter fluoride gel at home within 2 hours"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26104,
+      question: "When calculating Alex's DMFS index, how many surfaces are measured per posterior tooth?",
+      options: [
+        "Three surfaces including mesial, distal, and occlusal",
+        "Four surfaces including buccal, lingual, mesial, and distal",
+        "Five surfaces including mesial, distal, buccal, lingual, and occlusal",
+        "Six surfaces to include all anatomical aspects of posterior teeth"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26105,
+      question: "What is the PRIMARY purpose of the show-tell-do behavioral guidance technique?",
+      options: [
+        "To physically restrain uncooperative children during necessary dental procedures",
+        "To explain procedures in age-appropriate language and demonstrate before performing",
+        "To use sedation medications to reduce anxiety in all pediatric dental patients",
+        "To allow parents to perform dental procedures while the clinician provides verbal guidance"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26106,
+      question: "What is a PRIMARY consideration when recommending SDF treatment for cavitated primary teeth?",
+      options: [
+        "SDF permanently stains the treated area black, which may be esthetically undesirable",
+        "SDF application requires general anesthesia for proper placement in young children",
+        "SDF is only effective on permanent teeth and should not be used in primary dentition",
+        "SDF eliminates the need for any follow-up dental visits or oral hygiene practices"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26107,
+      question: "What guidance should the hygienist provide regarding toothpaste selection for Ava?",
+      options: [
+        "Continue using fluoride-free toothpaste until age 6 to completely prevent fluorosis risk",
+        "Use a smear amount of fluoridated toothpaste to prevent caries while minimizing fluorosis risk",
+        "Apply adult-strength fluoride toothpaste since optimal water fluoridation is already present",
+        "Alternate between fluoridated and non-fluoridated toothpaste throughout the week"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26108,
+      question: "What is Caleb's DMFS score?",
+      options: [
+        "3, representing one surface decayed, one filled, and one tooth missing",
+        "4, accounting for all affected surfaces including the missing tooth",
+        "6, counting multiple surfaces for the missing molar tooth",
+        "8, including all surfaces of affected teeth in the calculation"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26109,
+      question: "Which anticipatory guidance topic is MOST appropriate for this age group regarding injury prevention?",
+      options: [
+        "Proper mouthguard fitting for organized sports participation",
+        "Safety measures including car seats, stairs, and household hazards",
+        "Orthodontic evaluation for bite relationship and alignment concerns",
+        "Third molar assessment and potential impaction risk factors"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26110,
+      question: "Which primary teeth typically exfoliate FIRST in the normal eruption sequence?",
+      options: [
+        "Maxillary central incisors around age 6-7 years",
+        "Mandibular central incisors around age 6-7 years",
+        "Mandibular first molars around age 9-10 years",
+        "Maxillary lateral incisors around age 7-8 years"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26111,
+      question: "According to the Academy of Sports Dentistry, in which types of sports are mouthguards encouraged?",
+      options: [
+        "Only in contact sports like football, hockey, and boxing",
+        "Only in sports with documented high rates of facial injury",
+        "In all collision and contact sports for optimal injury prevention",
+        "Only in organized school-sponsored competitive athletic programs"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26112,
+      question: "What information should the hygienist provide about prolonged breastfeeding beyond 12 months?",
+      options: [
+        "Breastfeeding beyond 12 months has no relationship to dental caries development",
+        "Nocturnal and frequent breastfeeding beyond 12 months may increase caries risk",
+        "Breastfeeding should stop immediately at 12 months to prevent enamel damage",
+        "Extended breastfeeding provides natural fluoride and prevents all dental caries"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26113,
+      question: "At what age do children typically have the dexterity to brush effectively without caregiver follow-up?",
+      options: [
+        "Age 3 when children develop fine motor control for toothbrush manipulation",
+        "Age 6 when children have the coordination to reach all tooth surfaces adequately",
+        "Age 8 when permanent teeth are erupting and children understand caries concepts",
+        "Age 10 when children have fully developed manual dexterity and responsibility"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26114,
+      question: "What is the MOST likely explanation for Christopher's transient oral changes?",
+      options: [
+        "Early-onset aggressive periodontitis requiring immediate antibiotic therapy",
+        "Altered host response related to increased sex steroid hormone levels during puberty",
+        "Severe vitamin deficiency causing systemic effects on oral tissues",
+        "Undiagnosed autoimmune disorder affecting multiple body systems"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26115,
+      question: "What is the PRIMARY goal of improving oral health literacy among caregivers?",
+      options: [
+        "To ensure all parents can read and understand complex dental terminology",
+        "To enable caregivers to evaluate, understand, and use oral health information for good decisions",
+        "To require parents to attend dental school-level courses on oral disease processes",
+        "To mandate that all oral health information be provided in written format only"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26116,
+      question: "What clinical finding automatically classifies a child as HIGH risk for caries?",
+      options: [
+        "Visible plaque accumulation on anterior teeth only",
+        "Presence of white spot lesions or obvious decay",
+        "Gingivitis with mild gingival bleeding on probing",
+        "History of previous dental visits within the past year"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26117,
+      question: "What oral care recommendation is MOST appropriate for this pre-dentate infant?",
+      options: [
+        "Begin brushing with fluoride toothpaste as soon as any teeth are visible",
+        "Thoroughly clean gums after each feeding with a water-soaked washcloth",
+        "No oral care is needed until the first tooth erupts into the mouth",
+        "Apply fluoride varnish monthly to prevent early childhood caries development"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26118,
+      question: "What adolescent oral health concern is reflected in Madison's behavior?",
+      options: [
+        "Pathologic dental anxiety requiring behavioral intervention",
+        "Early signs of body dysmorphic disorder needing psychological referral",
+        "Normal aesthetic appearance desires common in adolescent development",
+        "Indication of underlying eating disorder requiring immediate assessment"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26119,
+      question: "What is the recommended application time for professionally applied APF gel?",
+      options: [
+        "1 minute to minimize patient discomfort and fluoride exposure",
+        "2 minutes for adequate fluoride uptake in permanent dentition",
+        "4 minutes for optimal fluoride incorporation into tooth enamel",
+        "10 minutes for maximum caries prevention in high-risk patients"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26120,
+      question: "What is the PRIMARY concern with frequent snacking on cariogenic foods throughout the day?",
+      options: [
+        "Increased caloric intake leading to childhood obesity and related health problems",
+        "Development of food allergies and sensitivities affecting overall health status",
+        "Frequent sugar intake prevents acid neutralization, increasing caries risk significantly",
+        "Choking hazards associated with chewy snacks in young children under supervision"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26121,
+      question: "Which behavioral guidance technique involves asking the patient questions, providing information, and then having the patient explain the information back?",
+      options: [
+        "Show-tell-do technique for demonstrating procedures",
+        "Positive reinforcement of desired behaviors",
+        "Teach-back method for assessing understanding",
+        "Motivational interviewing for behavioral change"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26122,
+      question: "What protective factor should be documented in Jordan's oral health risk assessment?",
+      options: [
+        "Medicaid eligibility providing access to dental care services",
+        "Participation in the school lunch program indicating nutritional support",
+        "Presence of deep pits and fissures allowing better plaque retention",
+        "Current enrollment in school providing structured daily routine"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26123,
+      question: "What is the MOST appropriate response regarding delayed tooth eruption at 9 months?",
+      options: [
+        "This is significantly delayed; refer immediately for genetic testing",
+        "This is within normal range; first teeth typically erupt between 5-8 months but can vary",
+        "This indicates serious endocrine disorder requiring urgent medical evaluation",
+        "This is expected; primary teeth don't normally erupt until 12-15 months of age"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26124,
+      question: "Which healthcare professionals have the MOST frequent interactions with young children and caregivers, making them well-positioned to promote early dental visits?",
+      options: [
+        "School nurses, teachers, and athletic coaches in educational settings",
+        "Midwives, obstetricians, pediatricians, and WIC program personnel",
+        "Physical therapists, occupational therapists, and speech pathologists",
+        "Pharmacists, optometrists, and audiologists in community settings"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26125,
+      question: "Which epidemiologic index is MOST appropriate for measuring dental caries prevalence in permanent teeth?",
+      options: [
+        "Community Periodontal Index (CPI) for assessing periodontal disease",
+        "Decayed, Missing, Filled Teeth (DMFT) index for quantifying caries experience",
+        "Gingival Index (GI) for measuring gingival inflammation levels",
+        "Plaque Index (PI) for assessing oral hygiene effectiveness"
+      ],
+      correct: "B"
+    }
+  ],
+  "2. Pregnancy and Oral Health (Case Study)": [
+    {
+      id: 26126,
+      question: "What is the MOST appropriate scheduling recommendation for Maria's next dental appointment?",
+      options: [
+        "Schedule appointments in the late morning during the first trimester to accommodate nausea patterns",
+        "Schedule appointments in the early afternoon during the first and early second trimester",
+        "Schedule appointments only in the third trimester when morning sickness has completely resolved",
+        "Schedule appointments in the early morning before breakfast to prevent nausea during treatment"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26127,
+      question: "What is the PRIMARY etiology of Jennifer's current gingival condition?",
+      options: [
+        "Bacterial plaque accumulation combined with hormonal changes increasing inflammatory response",
+        "Vitamin deficiency resulting from inadequate prenatal nutrition and supplement intake",
+        "Decreased salivary flow rate due to hormonal changes during pregnancy",
+        "Increased consumption of cariogenic foods and beverages to manage pregnancy cravings"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26128,
+      question: "What is the MOST likely diagnosis for this lesion?",
+      options: [
+        "Squamous cell carcinoma requiring immediate biopsy and oncology referral",
+        "Pyogenic granuloma that typically regresses after pregnancy without intervention",
+        "Necrotizing ulcerative gingivitis requiring immediate antibiotic therapy",
+        "Peripheral giant cell granuloma requiring surgical excision before delivery"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26129,
+      question: "What is the MOST appropriate positioning modification for Lisa?",
+      options: [
+        "Keep her head higher than feet and place pillow under right hip or turn slightly left",
+        "Position her completely supine with feet elevated above heart level",
+        "Keep her in fully upright sitting position throughout the entire appointment",
+        "Position her on right side with head lower than feet to improve blood flow"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26130,
+      question: "According to current recommendations, what guidance should the dental hygienist provide about fluoride supplementation?",
+      options: [
+        "Prescribe 2.2 mg fluoride tablets daily throughout pregnancy for optimal fetal tooth development",
+        "Recommend drinking optimally fluoridated bottled water or discuss fluoride supplements with her physician",
+        "Avoid all fluoride during pregnancy due to potential teratogenic effects on fetus",
+        "Apply fluoride varnish monthly throughout pregnancy to maximize maternal and fetal benefits"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26131,
+      question: "What is the MOST important information to communicate to Rachel about gestational diabetes and oral health?",
+      options: [
+        "Gestational diabetes has no relationship to oral health or periodontal disease progression",
+        "There is a bidirectional relationship between diabetes and oral health affecting pregnancy outcomes",
+        "Gestational diabetes only affects the baby and has no impact on maternal oral health",
+        "Diabetes during pregnancy eliminates the need for professional oral healthcare until delivery"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26132,
+      question: "What is the MOST appropriate response regarding dental radiographs during pregnancy?",
+      options: [
+        "Dental radiographs should never be taken during pregnancy regardless of clinical need",
+        "Radiographs are only safe during the second trimester between 14-27 weeks gestation",
+        "Dental radiographs with proper shielding are safe during all trimesters of pregnancy",
+        "Radiographs should be delayed until after delivery unless there is life-threatening emergency"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26133,
+      question: "According to current guidelines, which statement about local anesthetics during pregnancy is CORRECT?",
+      options: [
+        "All local anesthetics are contraindicated during the first trimester of pregnancy",
+        "Local anesthetics with epinephrine may be used safely during pregnancy",
+        "Only local anesthetics without vasoconstrictor are safe during pregnancy",
+        "Local anesthetics should only be used during the third trimester of pregnancy"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26134,
+      question: "What is the MOST appropriate recommendation for Christine after vomiting episodes?",
+      options: [
+        "Brush teeth immediately with fluoride toothpaste to remove gastric acid",
+        "Rinse mouth with one teaspoon baking soda in water and avoid brushing for one hour",
+        "Rinse vigorously with commercial mouthwash containing alcohol to neutralize acid",
+        "Eat acidic fruits immediately to stimulate saliva production and buffer gastric acid"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26135,
+      question: "What evidence-based guidance should the dental hygienist provide?",
+      options: [
+        "Postpone all dental care until after delivery to ensure maximum safety for the baby",
+        "Oral healthcare during pregnancy has been repeatedly shown to be safe during all trimesters",
+        "Only emergency dental care should be provided during pregnancy to minimize risks",
+        "Dental care is safe but should be limited to the second trimester only"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26136,
+      question: "What is the MOST appropriate recommendation for infant oral care?",
+      options: [
+        "Wait until the first tooth erupts at approximately 6-8 months before beginning oral care",
+        "Begin cleaning the infant's mouth with a clean damp washcloth as soon as they return home",
+        "Start brushing with fluoride toothpaste when the infant reaches 12 months of age",
+        "No oral care is needed until all primary teeth have erupted by age 2-3 years"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26137,
+      question: "What is the MOST important PRIMARY prevention strategy to teach Michelle?",
+      options: [
+        "Give the baby fluoride supplements starting immediately after birth regardless of water fluoridation",
+        "Restore all of Michelle's carious lesions before delivery to reduce bacterial transmission to baby",
+        "Avoid breastfeeding and use only bottled formula to prevent early childhood caries development",
+        "Wait until age 2 to begin brushing the child's teeth to avoid fluorosis risk"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26138,
+      question: "What type of bacterial transmission occurs when Patricia shares utensils and pre-chews food?",
+      options: [
+        "Horizontal transmission between family members or peers placing the child at caries risk",
+        "Vertical transmission from mother to child through saliva increasing child's caries risk",
+        "Environmental transmission through contaminated surfaces in the home",
+        "Airborne transmission through respiratory droplets during close contact"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26139,
+      question: "According to current pharmacologic guidelines, is this antibiotic prescription appropriate during pregnancy?",
+      options: [
+        "Amoxicillin is contraindicated and should be avoided during all trimesters of pregnancy",
+        "Amoxicillin may be used safely during pregnancy for indicated medical conditions",
+        "Amoxicillin is only safe during the second trimester between 14-27 weeks",
+        "Amoxicillin should never be prescribed and penicillin must be substituted"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26140,
+      question: "What is the CORRECT information regarding acetaminophen use during pregnancy?",
+      options: [
+        "Acetaminophen should never be used during pregnancy due to teratogenic effects",
+        "Acetaminophen may be used safely during pregnancy for pain management",
+        "Acetaminophen is only safe during the third trimester after organogenesis",
+        "Acetaminophen should be avoided but aspirin is a safe alternative"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26141,
+      question: "What is the PRIMARY concern regarding poorly controlled diabetes during the first trimester?",
+      options: [
+        "Increased risk of gestational hypertension and preeclampsia later in pregnancy",
+        "Potential birth defects affecting heart, brain, kidneys, and spine development",
+        "Higher likelihood of developing gestational diabetes in subsequent pregnancies",
+        "Maternal weight gain exceeding recommended guidelines during pregnancy"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26142,
+      question: "According to FDA recommendations, how many servings of fish per week should pregnant women consume?",
+      options: [
+        "Avoid all fish during pregnancy due to mercury contamination concerns",
+        "Eat 2 to 3 servings per week from \"Best Choices\" list with low mercury levels",
+        "Consume unlimited amounts of any type of fish for omega-3 fatty acids",
+        "Eat only canned tuna fish to ensure adequate protein intake during pregnancy"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26143,
+      question: "What is the recommended timeline for first tooth eruption and establishing a dental home?",
+      options: [
+        "First tooth erupts at 3-4 months and first dental visit should occur at 6 months",
+        "First tooth erupts at 5-8 months and dental home should be established by 12 months",
+        "First tooth erupts at 10-12 months and first dental visit should occur at 18 months",
+        "First tooth erupts at 12-14 months and dental home should be established by 24 months"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26144,
+      question: "What is the CORRECT amount of fluoride toothpaste recommended for infants?",
+      options: [
+        "A pea-sized amount of fluoride toothpaste on a soft infant toothbrush",
+        "A smear or rice grain-sized amount of fluoride toothpaste on a soft toothbrush",
+        "A full brush head of fluoride toothpaste for maximum caries protection",
+        "No fluoride toothpaste until the child reaches 2 years of age"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26145,
+      question: "What is the PRIMARY factor contributing to Melissa's increased caries risk?",
+      options: [
+        "Hormonal changes during pregnancy altering salivary pH and buffering capacity",
+        "Frequent carbohydrate consumption and decreased attention to oral hygiene practices",
+        "Reduced salivary flow rate causing inadequate clearance of food debris",
+        "Increased calcium demands by the developing fetus depleting maternal tooth structure"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26146,
+      question: "What is the PRIMARY goal of improving oral health literacy for pregnant women?",
+      options: [
+        "Ensuring all women can read complex dental terminology and scientific literature",
+        "Enabling women to find, understand, and use information to make good health decisions",
+        "Requiring women to attend dental school-level courses on oral disease processes",
+        "Mandating that all oral health information be provided only in written format"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26147,
+      question: "What communication method should the hygienist use to confirm Jessica's understanding?",
+      options: [
+        "Provide written materials in multiple languages and ask her to read them later",
+        "Use the Teach Back Method having Jessica explain the information in her own words",
+        "Ask simple yes/no questions that require minimal verbal response from the patient",
+        "Assume understanding if Jessica nods in agreement during the educational session"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26148,
+      question: "What is the PRIMARY purpose of monthly \"lift the lip\" examinations for infants?",
+      options: [
+        "To check for proper tooth eruption patterns and developmental anomalies",
+        "To detect white spot lesions along the gum line that indicate early caries",
+        "To monitor for tongue-tie or other frenum attachments affecting feeding",
+        "To assess for proper jaw development and potential orthodontic problems"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26149,
+      question: "According to US Preventive Services Task Force recommendations, what fluoride supplementation is appropriate?",
+      options: [
+        "No fluoride supplementation until the first tooth erupts into the oral cavity",
+        "Begin oral fluoride supplementation at 6 months for infants with deficient water fluoride",
+        "Wait until age 12 months to start fluoride supplements regardless of water levels",
+        "Provide fluoride varnish applications monthly instead of oral supplementation"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26150,
+      question: "What barrier to care does this scenario PRIMARILY represent?",
+      options: [
+        "Cost of dental care and inability to afford necessary treatment fees",
+        "Lack of knowledge among prenatal providers about importance of oral healthcare",
+        "Fear of dental procedures based on previous negative experiences",
+        "Inability to find transportation to and from dental appointments"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26151,
+      question: "What information should the hygienist provide about tooth mobility during pregnancy?",
+      options: [
+        "Tooth mobility during pregnancy indicates severe periodontal disease requiring extractions",
+        "Increased mobility is associated with inflammation and mineral changes that reverse after pregnancy",
+        "All teeth with mobility must be splinted immediately to prevent tooth loss",
+        "Tooth mobility is permanent and indicates irreversible periodontal attachment loss"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26152,
+      question: "What is a potential consequence of poorly controlled maternal diabetes during early pregnancy?",
+      options: [
+        "Increased risk of low birth weight but no other developmental concerns",
+        "Higher risk of birth defects affecting organs forming during the first 8 weeks",
+        "No effects on the baby since diabetes only affects maternal health outcomes",
+        "Gestational diabetes development later in pregnancy regardless of control"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26153,
+      question: "What is the MOST accurate evidence-based information regarding periodontal treatment during pregnancy?",
+      options: [
+        "Periodontal treatment definitively prevents preterm birth and low birth weight",
+        "Treatment is safe but evidence is unclear if it prevents adverse pregnancy outcomes",
+        "Periodontal treatment causes preterm labor and should be avoided until delivery",
+        "Treatment should only be provided during the second trimester for safety"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26154,
+      question: "What is the CORRECT guidance regarding ibuprofen use during the second trimester at 19 weeks?",
+      options: [
+        "Ibuprofen may be used for short duration of 48-72 hours during this time period",
+        "Ibuprofen should be completely avoided during all trimesters of pregnancy",
+        "Ibuprofen is the safest analgesic option throughout the entire pregnancy",
+        "Ibuprofen may be used unlimited for the entire second trimester duration"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26155,
+      question: "What is the CURRENT recommended optimal fluoride concentration in drinking water?",
+      options: [
+        "0.3 mg/L to minimize any risk of dental fluorosis development",
+        "0.7 mg/L to protect against caries while minimizing fluorosis risk",
+        "1.5 mg/L to provide maximum caries prevention benefits",
+        "2.0 mg/L in areas with high caries prevalence rates"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26156,
+      question: "What guidance should be provided regarding prolonged breastfeeding and caries risk?",
+      options: [
+        "Breastfeeding at any duration has no relationship to dental caries development",
+        "Nocturnal and frequent breastfeeding beyond 12 months may increase caries risk",
+        "Breastfeeding should stop at 6 months to completely prevent early childhood caries",
+        "Extended breastfeeding provides natural immunity preventing all dental diseases"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26157,
+      question: "What is the MOST appropriate response regarding substance use during pregnancy?",
+      options: [
+        "Marijuana is safe during pregnancy and has no effects on fetal development",
+        "All illicit drugs including marijuana should be avoided during pregnancy",
+        "Marijuana is safer than prescription medications for nausea management",
+        "Marijuana use is acceptable during the first trimester only"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26158,
+      question: "What is the CORRECT guidance regarding tetracycline use during pregnancy?",
+      options: [
+        "Tetracycline may be used safely during pregnancy with dose adjustments",
+        "Tetracycline should never be used during pregnancy under any circumstances",
+        "Tetracycline is safe only during the third trimester after tooth development",
+        "Tetracycline is the preferred antibiotic during pregnancy for all infections"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26159,
+      question: "What population does the WIC program primarily serve?",
+      options: [
+        "All pregnant women regardless of income level or nutritional risk status",
+        "Low-income pregnant women, infants, and children through age 5 at nutritional risk",
+        "Middle-income families needing temporary assistance with food purchases",
+        "Elderly women with infants in their care requiring nutritional support"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26160,
+      question: "What is the recommended age for weaning infants from the bottle?",
+      options: [
+        "6-8 months when solid foods are first introduced",
+        "12-14 months to prevent prolonged bottle use",
+        "18-20 months when all primary teeth have erupted",
+        "24-30 months when the child can hold a cup independently"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26161,
+      question: "What is the CORRECT information regarding nitrous oxide use during pregnancy?",
+      options: [
+        "Nitrous oxide is absolutely contraindicated during all trimesters of pregnancy",
+        "Nitrous oxide at 30% may be used when local anesthetics are inadequate",
+        "Nitrous oxide is safe only during the third trimester after organogenesis",
+        "Nitrous oxide should replace local anesthetics as the primary pain control method"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26162,
+      question: "What oral condition might Elizabeth be experiencing during pregnancy?",
+      options: [
+        "Pregnancy-induced xerostomia from hormonal changes affecting salivary glands",
+        "Normal physiologic changes causing temporary reduced salivary flow",
+        "Early signs of gestational diabetes requiring immediate medical evaluation",
+        "Sjögren's syndrome triggered by pregnancy requiring rheumatology referral"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26163,
+      question: "What is the CORRECT recommendation regarding juice consumption for infants?",
+      options: [
+        "Offer unlimited juice for vitamin C intake and hydration throughout the day",
+        "No juice should be given during the first year of life to prevent caries",
+        "Give juice only at mealtimes diluted with water to reduce sugar exposure",
+        "Provide juice in bottles at bedtime to ensure adequate caloric intake"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26164,
+      question: "What is the current estimated prevalence of periodontitis among US adults 30 years and older?",
+      options: [
+        "Approximately 15% of US adults have periodontitis",
+        "Approximately 42% of US adults have periodontitis",
+        "Approximately 65% of US adults have periodontitis",
+        "Approximately 80% of US adults have periodontitis"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26165,
+      question: "According to the 2017 Cochrane review, what is the evidence regarding periodontal treatment and birth outcomes?",
+      options: [
+        "Strong evidence proves treatment reduces preterm birth and low birth weight",
+        "Low quality evidence suggests there may be fewer babies born under 2500g",
+        "High quality evidence shows treatment increases risk of preterm birth",
+        "No evidence exists examining relationship between treatment and birth outcomes"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26166,
+      question: "What population does Early Head Start primarily serve?",
+      options: [
+        "Middle-income pregnant women seeking prenatal education classes",
+        "Low-income pregnant women, infants, and toddlers until age 3",
+        "All pregnant women regardless of income in specific geographic areas",
+        "High-risk pregnant women with multiple medical complications"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26167,
+      question: "What does the ALARA principle mean in dental radiography?",
+      options: [
+        "Always Limit All Radiographic Assessments regardless of clinical need",
+        "As Low As Reasonably Achievable to minimize patient radiation exposure",
+        "Avoid Low-quality Analog Radiographs and use digital sensors only",
+        "All Levels Are Relatively Acceptable for pregnant patients with proper shielding"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26168,
+      question: "What is the PRIMARY focus of Maternal, Infant and Early Childhood Home Visiting Programs?",
+      options: [
+        "Providing in-home dental examinations and preventive services for families",
+        "Improving maternal-child health, preventing child abuse, and promoting development",
+        "Offering financial assistance for dental care to low-income pregnant women",
+        "Delivering prenatal vitamins and nutritional supplements to pregnant women"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26169,
+      question: "According to current guidelines, is metronidazole appropriate during pregnancy?",
+      options: [
+        "Metronidazole should never be used during pregnancy due to teratogenic effects",
+        "Metronidazole may be used safely during pregnancy for indicated conditions",
+        "Metronidazole is only safe during the third trimester after 28 weeks",
+        "Metronidazole should be avoided but tetracycline may be substituted"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26170,
+      question: "What does this National Performance Measure assess?",
+      options: [
+        "Number of pregnant women enrolled in Medicaid with dental benefits",
+        "Percentage of women who had a dental visit during pregnancy",
+        "Number of dental providers accepting pregnant women in their practices",
+        "Percentage of prenatal providers who refer patients to dentists"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26171,
+      question: "According to current guidelines, what is the recommendation for opioid use during pregnancy?",
+      options: [
+        "Opioids should never be prescribed during pregnancy under any circumstances",
+        "Prescribe lowest dose for shortest duration, usually less than 3 days, no refills",
+        "Opioids are safe throughout pregnancy with unlimited refills as needed",
+        "Opioids should only be prescribed during the second trimester exclusively"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26172,
+      question: "What is the CORRECT guidance regarding chlorhexidine mouth rinse use during pregnancy?",
+      options: [
+        "Chlorhexidine should never be used during pregnancy due to teratogenic effects",
+        "Alcohol-free chlorhexidine mouth rinse may be used safely during pregnancy",
+        "Chlorhexidine may only be used during the third trimester after 28 weeks",
+        "Chlorhexidine should be avoided but hydrogen peroxide is a safe substitute"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26173,
+      question: "What ethical issue does this scenario present for dental professionals?",
+      options: [
+        "Practices have the right to refuse any patients based on pregnancy status",
+        "Refusing pregnant patients may violate ethical principles of justice and access to care",
+        "Medicaid patients should only be seen in community health centers",
+        "Pregnant women should wait until after delivery for all dental treatment"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26174,
+      question: "What are the three components of the Triple Aim in healthcare?",
+      options: [
+        "Access, quality, and continuity of care for all patient populations",
+        "Improving health, enhancing patient experience, and decreasing costs",
+        "Prevention, treatment, and rehabilitation services for patients",
+        "Education, intervention, and evaluation of healthcare outcomes"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26175,
+      question: "What is the PRIMARY reason medical providers often fail to refer pregnant women for dental care?",
+      options: [
+        "They believe dental care during pregnancy is unsafe for mother and fetus",
+        "They lack knowledge about importance and safety of oral healthcare during pregnancy",
+        "They do not have time to discuss oral health during prenatal visits",
+        "They believe pregnant women will automatically seek dental care independently"
+      ],
+      correct: "B"
+    }
+  ],
+  "3. Geriatric Dental Care (Case Study)": [
+    {
+      id: 26176,
+      question: "What is the PRIMARY difference between life expectancy and life span?",
+      options: [
+        "Life expectancy refers to quality of life; life span measures chronologic age only",
+        "Life expectancy applies to females only; life span applies to males only",
+        "Life expectancy is calculated at birth; life span is determined at age 65",
+        "Life expectancy is the average years lived by a birth cohort; life span is the maximum potential age"
+      ],
+      correct: "D"
+    },
+    {
+      id: 26177,
+      question: "Which demographic factor is MOST likely contributing to George's limited access to dental care?",
+      options: [
+        "Reduced income and lack of dental insurance coverage after retirement",
+        "His advanced age requiring specialized geriatric dental treatment protocols",
+        "Geographic location in a state with low elderly population density",
+        "Male gender predisposing him to lower dental care utilization rates"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26178,
+      question: "According to the Americans with Disabilities Act, what modification is REQUIRED for the dental office?",
+      options: [
+        "Provide home-based dental services for all patients with disabilities",
+        "Ensure wheelchair-accessible parking, ramps, and doorways for public facilities",
+        "Refer all wheelchair-bound patients to hospital dental clinics exclusively",
+        "Schedule appointments only during off-hours to accommodate special needs"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26179,
+      question: "What classification of functional abilities do Robert's limitations represent?",
+      options: [
+        "Activities of Daily Living (ADLs) affecting bathing, dressing, and toileting",
+        "Basic physical mobility limitations affecting gait and balance only",
+        "Instrumental Activities of Daily Living (IADLs) requiring complex skills",
+        "Cognitive impairments affecting memory and decision-making exclusively"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26180,
+      question: "According to World Health Organization, what term describes the interaction between Eleanor's capabilities and environmental supports?",
+      options: [
+        "Chronologic age measurement based on calendar time since birth",
+        "Life expectancy calculation for remaining years at current age",
+        "Instrumental activities requiring complex cognitive and motor skills",
+        "Functional ability enabling wellbeing and healthy aging in older adults"
+      ],
+      correct: "D"
+    },
+    {
+      id: 26181,
+      question: "What is the MOST appropriate approach when communicating with Harold?",
+      options: [
+        "Speak to Harold directly to create a respectful, independent environment",
+        "Direct all questions to the daughter since she provides daily care",
+        "Alternate questions between Harold and daughter equally throughout appointment",
+        "Write all questions for Harold to read independently without verbal communication"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26182,
+      question: "What term describes Patricia's use of multiple medications to manage her conditions?",
+      options: [
+        "Therapeutic drug monitoring for chronic disease management protocols",
+        "Polypharmacy involving multiple drugs taken simultaneously",
+        "Adverse drug reaction syndrome requiring immediate hospitalization",
+        "Medication compliance program ensuring proper dosing schedules"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26183,
+      question: "What percentage of the total US population will adults 65 and older represent in 2030?",
+      options: [
+        "Approximately 13% of the total United States population",
+        "Approximately 35% of the total United States population",
+        "Approximately 20% of the total United States population",
+        "Approximately 50% of the total United States population"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26184,
+      question: "What is the PRIMARY advantage of providing dental care in Dorothy's long-term care facility?",
+      options: [
+        "Eliminates the need for informed consent from patient or guardian",
+        "Allows dental professionals to bill at higher rates for institutional care",
+        "Requires less equipment and supplies than traditional office-based care",
+        "Provides care in comfortable, familiar setting without transportation disruptions"
+      ],
+      correct: "D"
+    },
+    {
+      id: 26185,
+      question: "From whom should the dental hygienist obtain written permission before providing care?",
+      options: [
+        "William's physician, family member, or legal guardian before treatment",
+        "The nursing home administrator who oversees all resident medical decisions",
+        "The dental insurance company that provides coverage for the procedure",
+        "Any nursing staff member familiar with the patient's daily care routine"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26186,
+      question: "What is the PRIMARY cause of the darkened enamel color in Margaret's teeth?",
+      options: [
+        "Acute dental caries requiring immediate restorative intervention",
+        "Lifetime consumption of stain-producing foods and secondary dentin formation",
+        "Medication-induced discoloration from long-term antibiotic use",
+        "Pathologic enamel changes indicating underlying systemic disease"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26187,
+      question: "What age-related tooth change is Frank exhibiting?",
+      options: [
+        "Dental caries requiring immediate restorative treatment to prevent pulpal involvement",
+        "Enamel erosion from dietary acids requiring fluoride varnish application",
+        "Occlusal attrition from lifetime of habits reducing microbial accumulation in fissures",
+        "Abfraction lesions from excessive toothbrushing force at cervical margins"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26188,
+      question: "What condition is MOST likely responsible for Ruth's cervical tooth structure loss?",
+      options: [
+        "Root caries from bacterial infection requiring restorative treatment",
+        "Dental erosion from chronic gastric acid exposure over time",
+        "Attrition from bruxism and clenching habits during sleep",
+        "Tooth abrasion from incorrect brushing technique and abrasive dentifrice"
+      ],
+      correct: "D"
+    },
+    {
+      id: 26189,
+      question: "What is the PRIMARY factor causing Charles's tooth erosion?",
+      options: [
+        "Exposure to dietary acids and gastric acid from reflux disease",
+        "Bacterial acid production from inadequate plaque biofilm removal",
+        "Mechanical wear from abrasive toothpaste and hard toothbrush",
+        "Normal age-related enamel changes occurring in all elderly patients"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26190,
+      question: "According to national statistics on older adults, edentulousness (total tooth loss) has changed significantly over the past 60 years. In 2021, what percentage of adults 65 and older are completely edentulous?",
+      options: [
+        "Approximately 24% of adults 65 years and older are edentulous",
+        "Approximately 13% of adults 65 years and older are edentulous",
+        "Approximately 35% of adults 65 years and older are edentulous",
+        "Approximately 50% of adults 65 years and older are edentulous"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26191,
+      question: "According to statistics, how does poverty affect edentulousness rates in older adults?",
+      options: [
+        "Poverty has no relationship to tooth loss rates among elderly patients",
+        "Elders in poverty have slightly lower rates due to Medicaid coverage",
+        "Elders in poverty have three times higher edentulousness than those above poverty",
+        "Poverty affects males more than females regarding total tooth loss"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26192,
+      question: "What local oral factor is PRIMARY in Thomas's increased root caries risk?",
+      options: [
+        "Decreased salivary flow from normal aging process in all elderly",
+        "Increased consumption of fermentable carbohydrates throughout the day",
+        "Genetic predisposition to root caries development in older adults",
+        "Exposed root surfaces and tooth longevity increasing caries susceptibility"
+      ],
+      correct: "D"
+    },
+    {
+      id: 26193,
+      question: "Which intervention is MOST important for Linda's caries prevention program?",
+      options: [
+        "Daily mechanical biofilm removal, fluoride use, and salivary substitutes",
+        "Recommending sugar-free gum only without any other preventive measures",
+        "Increasing consumption of acidic beverages to stimulate saliva production",
+        "Reducing toothbrushing frequency to prevent additional enamel damage"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26194,
+      question: "What is the PRIMARY advantage of silver diamine fluoride for Edward's caries management?",
+      options: [
+        "Provides permanent white restoration matching natural tooth color",
+        "Noninvasive treatment requiring no tooth removal or complex equipment",
+        "Eliminates need for daily oral hygiene and fluoride applications",
+        "Requires general anesthesia for proper application and effectiveness"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26195,
+      question: "What is the MOST likely cause of Alice's xerostomia?",
+      options: [
+        "Normal age-related decrease in salivary gland function affecting all elderly",
+        "Insufficient fluid intake due to decreased thirst sensation with age",
+        "Side effect of medications rather than normal aging process",
+        "Salivary gland tumor requiring immediate surgical intervention"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26196,
+      question: "What is the recommended recall interval for David?",
+      options: [
+        "Annual recall visits are sufficient for patients with xerostomia",
+        "Recall visits every 2 years to allow adequate healing time",
+        "No recall needed once all carious lesions are restored",
+        "More frequent recall visits to assess and manage high caries risk"
+      ],
+      correct: "D"
+    },
+    {
+      id: 26197,
+      question: "What population group is MOST commonly affected by Sjögren syndrome?",
+      options: [
+        "Postmenopausal females, with 60% over age 50 years",
+        "Young adult males under age 40 with family history",
+        "Adolescents during puberty experiencing hormonal changes",
+        "Middle-aged males between ages 45-55 years exclusively"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26198,
+      question: "Which product can Joseph use without limitation on frequency to manage xerostomia?",
+      options: [
+        "Prescription pilocarpine tablets requiring physician monitoring for side effects",
+        "Saliva substitutes in liquid, gel, or spray formulations containing fluoride",
+        "Chlorhexidine gluconate rinse limited to short-term use only",
+        "High-dose fluoride supplements requiring prescription authorization"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26199,
+      question: "What percentage of US adults 65 years and older have periodontitis?",
+      options: [
+        "Approximately 30% of adults age 65 years and older",
+        "Approximately 75% of adults age 65 years and older",
+        "Approximately 60% of adults age 65 years and older",
+        "Approximately 90% of adults age 65 years and older"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26200,
+      question: "What term describes the increased susceptibility to periodontal infection in elderly from repeated immune challenges?",
+      options: [
+        "Acquired immunodeficiency syndrome requiring antibiotic prophylaxis",
+        "Autoimmune disorder requiring immunosuppressive medication therapy",
+        "Periodontal immunity developing resistance to pathogenic bacteria",
+        "Immunosenescence from cumulative immune system challenges throughout life"
+      ],
+      correct: "D"
+    },
+    {
+      id: 26201,
+      question: "How should the dental hygienist approach Ethel's periodontal treatment?",
+      options: [
+        "Proceed conservatively based on patient's dental needs and health status",
+        "Refuse treatment until patient discontinues bisphosphonate medication permanently",
+        "Provide only prophylaxis without any instrumentation below gumline",
+        "Require general anesthesia for all periodontal treatment procedures"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26202,
+      question: "What condition is Walter MOST likely experiencing?",
+      options: [
+        "Squamous cell carcinoma requiring immediate biopsy and referral",
+        "Chronic atrophic candidiasis from poor denture fit and hygiene",
+        "Normal palatal tissue appearance in all complete denture wearers",
+        "Allergic reaction to denture acrylic requiring material replacement"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26203,
+      question: "What condition is Grace experiencing, and what is a PRIMARY causative factor?",
+      options: [
+        "Oral cancer requiring immediate surgical excision and chemotherapy",
+        "Herpes simplex virus infection requiring antiviral medication therapy",
+        "Angular cheilitis from moisture, vitamin B2 deficiency, or Candida infection",
+        "Traumatic injury from accidental falls requiring wound care management"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26204,
+      question: "What population has experienced the MOST significant increase in oral cancer in the past 25 years?",
+      options: [
+        "Young adults under age 30 with no tobacco or alcohol history",
+        "Females over age 65 with history of heavy tobacco use",
+        "Adolescents with family history of oral cancer regardless of risk factors",
+        "Males with oropharyngeal cancer caused by human papillomavirus (HPV)"
+      ],
+      correct: "D"
+    },
+    {
+      id: 26205,
+      question: "Are Irene's sublingual varicosities a cause for concern?",
+      options: [
+        "No, sublingual varicosities are customary findings among elderly and not problematic",
+        "Yes, they indicate serious vascular disease requiring immediate medical referral",
+        "Yes, they are precancerous lesions requiring biopsy and surgical excision",
+        "No, but they require monthly monitoring for changes in size or color"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26206,
+      question: "What condition is Paul experiencing as a symptom of his anemia?",
+      options: [
+        "Median rhomboid glossitis requiring antifungal medication treatment",
+        "Atrophic glossitis appearing smooth and shiny with burning sensation",
+        "Geographic tongue with migratory patches requiring no treatment",
+        "Fissured tongue with deep grooves requiring improved oral hygiene"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26207,
+      question: "What is the MOST effective preventive measure to reduce phenytoin-induced gingival enlargement?",
+      options: [
+        "Discontinue medication immediately to prevent further gingival growth",
+        "Apply topical antibiotics daily to inflamed gingival tissues",
+        "Maintain adequate plaque control, especially before starting medication",
+        "Schedule surgical gingivectomy every 3 months to remove tissue"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26208,
+      question: "What is the MOST appropriate action for the dental hygienist?",
+      options: [
+        "Require the patient to use wheelchair exclusively for all appointments",
+        "Refuse to treat patient until medical clearance is obtained",
+        "Ask patient to wait for family member to provide assistance",
+        "Observe gait and offer assistance to treatment area for patient safety"
+      ],
+      correct: "D"
+    },
+    {
+      id: 26209,
+      question: "What is the MOST appropriate approach to obtain Rose's health history information?",
+      options: [
+        "Interview Rose directly to obtain needed information efficiently",
+        "Mail the form to her home and ask her to return it completed",
+        "Ask the receptionist to complete the form based on previous records",
+        "Provide the form in Braille for all visually impaired patients"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26210,
+      question: "What modification would MOST improve communication with Henry?",
+      options: [
+        "Speak louder while keeping the face mask on during all conversations",
+        "Remove face mask, eliminate background noise, and address patient directly",
+        "Write all communication on paper since verbal communication is ineffective",
+        "Have the dental assistant relay all information to the patient"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26211,
+      question: "What aspect of care should the dental hygienist emphasize during Florence's nutritional counseling?",
+      options: [
+        "Increasing consumption of refined carbohydrates for adequate caloric intake",
+        "Recommending dietary supplements exclusively without food modifications",
+        "Discussing nutritional deficiencies and healthy food choices for oral health",
+        "Ignoring dietary habits since they do not affect oral health status"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26212,
+      question: "What is the recommended appointment scheduling approach for Arthur?",
+      options: [
+        "Schedule long appointments in the evening when the patient is most relaxed",
+        "Schedule appointments during lunch hour for convenience only",
+        "Schedule random appointment times without considering patient's daily patterns",
+        "Schedule short morning appointments since elderly are strongest in morning"
+      ],
+      correct: "D"
+    },
+    {
+      id: 26213,
+      question: "What is the PRIMARY reason for providing Emma with written appointment information?",
+      options: [
+        "To help remind patient and assist caregivers due to potential memory concerns",
+        "To comply with legal documentation requirements for all elderly patients",
+        "To reduce phone calls to the office from patients asking about appointments",
+        "To demonstrate professionalism and standard office protocol to patients"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26214,
+      question: "What is the PRIMARY reason for minimizing tissue trauma during instrumentation with elderly patients?",
+      options: [
+        "Elderly patients experience more pain than younger patients during scaling",
+        "Reduced healing capabilities require less trauma to gingival tissues",
+        "Elderly patients cannot tolerate any discomfort during dental procedures",
+        "Liability concerns are higher when treating older adults in the practice"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26215,
+      question: "What recommendations should the dental hygienist provide for Violet's oral hygiene?",
+      options: [
+        "Discontinue oral hygiene attempts and rely only on professional care",
+        "Brush once weekly to prevent excessive strain on arthritic joints",
+        "Use power toothbrush and modifications to improve plaque removal",
+        "Ask family members to avoid helping with oral hygiene tasks"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26216,
+      question: "What is the MOST appropriate action to prevent postural hypotension?",
+      options: [
+        "Immediately recline the chair completely flat and elevate patient's feet",
+        "Ask patient to stand quickly and walk around the operatory",
+        "Dismiss patient immediately since treatment has been completed",
+        "Return chair slowly to upright position and allow patient time to adjust"
+      ],
+      correct: "D"
+    },
+    {
+      id: 26217,
+      question: "What alternative fluoride delivery method would be MOST appropriate for Clara?",
+      options: [
+        "Monthly professional fluoride varnish applications only without home use",
+        "Fluoride gel applied by toothbrush to reach proximal and root surfaces",
+        "Fluoride supplements taken orally with meals three times daily",
+        "Fluoride-free products since she cannot manage rinsing properly"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26218,
+      question: "What fluoride application method is MOST appropriate for Norman's high-risk status?",
+      options: [
+        "Over-the-counter fluoride rinse used once daily before bedtime",
+        "Fluoride toothpaste only without additional fluoride supplementation",
+        "Custom tray with fluoride gel applied for 5 minutes twice daily",
+        "Professional fluoride varnish applied once yearly at recall appointments"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26219,
+      question: "What should be included in the educational session with Gladys's daughter?",
+      options: [
+        "Provide verbal instructions only since written materials are not necessary",
+        "Instruct the patient only since caregivers should not be involved",
+        "Assume the caregiver knows proper techniques without demonstration",
+        "Involve caregiver in providing routine and thorough oral hygiene with patient"
+      ],
+      correct: "D"
+    },
+    {
+      id: 26220,
+      question: "What antimicrobial mouth rinse concentration is recommended for additional microbial control in high-risk elderly patients?",
+      options: [
+        "0.12% chlorhexidine gluconate rinse for patients needing additional control",
+        "0.05% sodium fluoride rinse used daily for fluoride benefits only",
+        "3% hydrogen peroxide solution used undiluted four times daily",
+        "1.5% alcohol-based mouthwash for antimicrobial effects exclusively"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26221,
+      question: "What recall interval is MOST appropriate for Esther?",
+      options: [
+        "Annual recall visits are sufficient for patients with good oral hygiene",
+        "More frequent maintenance visits to evaluate changes and provide care",
+        "Recall visits only when patient experiences pain or discomfort",
+        "Biannual visits regardless of periodontal disease history or risk"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26222,
+      question: "What equipment option would be MOST practical for providing dental care to Leonard?",
+      options: [
+        "Permanent dental operatory construction in dedicated space exclusively",
+        "Mobile dental vehicle parked outside facility for all appointments",
+        "Portable dental equipment set up in conference room as needed",
+        "Transport patient to external dental office for all treatment needs"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26223,
+      question: "What does \"direct access\" to dental hygiene services mean?",
+      options: [
+        "Dental hygienists must have a dentist present during all treatment procedures",
+        "Dental hygienists can only provide care in traditional dental office settings",
+        "Dental hygienists require physician orders before providing any treatment",
+        "Dental hygienists provide care without specific authorization from a dentist"
+      ],
+      correct: "D"
+    },
+    {
+      id: 26224,
+      question: "What screening tool can be used to systematically evaluate Agnes's oral health status in the facility?",
+      options: [
+        "Brief Oral Health Status Examination (BOHSE) for systematic evaluation",
+        "Comprehensive periodontal examination with full mouth radiographs",
+        "Self-reported oral health questionnaire completed by the patient",
+        "Annual medical physical examination by the facility physician"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26225,
+      question: "What percentage of elderly were homebound and semi-dependent in 2020?",
+      options: [
+        "Approximately 4.5% were homebound and semi-dependent",
+        "Approximately 25% were homebound and semi-dependent",
+        "Approximately 35% were homebound and semi-dependent",
+        "Approximately 13% were homebound and semi-dependent"
+      ],
+      correct: "D"
+    }
+  ],
+  "4. Palliative Oral Care (Case Study)": [
+    {
+      id: 26226,
+      question: "What is the PRIMARY focus of palliative dental hygiene oral care for Mrs. Johnson?",
+      options: [
+        "Performing comprehensive periodontal debridement using ultrasonic scalers",
+        "Reducing oral symptoms, preventing pain, and maintaining mouth cleanliness to end of life",
+        "Completing all restorative dental treatment before her condition deteriorates further",
+        "Scheduling regular office visits for traditional dental hygiene appointments every 6 months"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26227,
+      question: "According to the Canadian Framework for Palliative Care, which principle BEST describes the approach to Mr. Chen's care?",
+      options: [
+        "Healthcare decisions should be made primarily by medical professionals",
+        "Palliative care is person- and family-centered, respecting individual choices",
+        "Oral care should be postponed until the patient can travel to the office",
+        "Family members should not be involved in healthcare decision-making processes"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26228,
+      question: "When a person becomes dependent for toileting and eating assistance, what can the dental hygienist anticipate regarding their oral care needs?",
+      options: [
+        "They will likely maintain independent oral hygiene without any assistance needed",
+        "They should discontinue all oral hygiene until they regain independence completely",
+        "They will likely require assistance with oral care as decline affects all aspects",
+        "They only need assistance with denture care but not natural tooth brushing"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26229,
+      question: "What is the significance of these pulpal changes in relation to palliative oral care?",
+      options: [
+        "These changes always require immediate endodontic treatment for all teeth involved",
+        "These changes often lead to tooth death and are part of oral frailty considerations",
+        "These changes only occur in patients with diabetes and require insulin adjustment",
+        "These changes reverse completely with improved oral hygiene and fluoride application"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26230,
+      question: "What dietary pattern is MOST likely contributing to this patient's increased caries risk?",
+      options: [
+        "Consumption of sugar-free beverages with meals three times daily only",
+        "Eating three balanced meals per day with thorough oral care afterward",
+        "Continuous food exposure keeping the mouth constantly in an acidic state",
+        "Following a strict vegetarian diet with limited carbohydrate intake throughout day"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26231,
+      question: "What is the PRIMARY cause of this patient's xerostomia?",
+      options: [
+        "Normal age-related changes that occur in all elderly patients over 70",
+        "Side effects from multiple medications disturbing saliva's buffering capacity",
+        "Excessive consumption of water and hydrating fluids throughout the day",
+        "Genetic predisposition that cannot be modified with any interventions"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26232,
+      question: "What should be the PRIMARY fluid recommendation for managing this patient's xerostomia?",
+      options: [
+        "Sweetened fruit juices and sugary drinks to stimulate saliva production",
+        "Caffeinated coffee and tea to increase alertness and oral moisture",
+        "Alcoholic beverages in moderation to enhance salivary gland function",
+        "Water as the fluid of choice while avoiding caffeine and alcohol"
+      ],
+      correct: "D"
+    },
+    {
+      id: 26233,
+      question: "What dietary modification would be MOST beneficial for this patient's oral health?",
+      options: [
+        "Increasing the frequency of high-sugar supplement drinks to six times daily",
+        "Switching to diabetic versions of supplement drinks to reduce sugar content",
+        "Adding additional refined carbohydrates to improve nutritional caloric intake",
+        "Eliminating all nutritional supplements regardless of patient's nutritional needs"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26234,
+      question: "What oral complication is this patient MOST likely experiencing?",
+      options: [
+        "Normal age-related changes requiring no intervention or treatment",
+        "Mucositis from chemotherapy affecting oral tissue mitosis rate",
+        "Acute necrotizing ulcerative gingivitis requiring immediate antibiotic therapy",
+        "Traumatic injury from aggressive toothbrushing requiring softer brush only"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26235,
+      question: "What type of oral candidiasis is this patient exhibiting?",
+      options: [
+        "Erythematous candidiasis with red lesions on hard palate",
+        "Hyperplastic candidiasis with elevated patches that cannot be removed",
+        "Pseudomembranous candidiasis or thrush with removable white plaques",
+        "Chronic atrophic candidiasis associated with denture wearing only"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26236,
+      question: "What condition is this patient experiencing?",
+      options: [
+        "Oral cancer requiring immediate biopsy and oncology referral",
+        "Herpes simplex virus infection requiring antiviral medication",
+        "Angular cheilitis from overclosure, vitamin deficiency, or Candida infection",
+        "Traumatic ulceration from accidental falls requiring wound care only"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26237,
+      question: "A dental hygienist is treating a denture-wearing patient diagnosed with oral candidiasis. In addition to antifungal medication, what denture care instruction is ESSENTIAL?",
+      options: [
+        "Wear dentures 24 hours daily to maintain proper tissue adaptation",
+        "Remove dentures overnight and store in disinfecting solution daily",
+        "Clean dentures only once weekly to avoid excessive wear damage",
+        "Store dentures in a sealed plastic bag without any solution"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26238,
+      question: "What intervention has been shown to reduce aspiration pneumonia risk in geriatric patients?",
+      options: [
+        "Encouraging nightly denture wearing to maintain proper oral structures",
+        "Using chlorhexidine gluconate solution (0.12%) for oral hygiene care",
+        "Avoiding all oral hygiene to prevent stimulating the gag reflex",
+        "Positioning patient completely flat during all oral care procedures"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26239,
+      question: "What is the CORRECT positioning for oral hygiene care in patients with dysphagia?",
+      options: [
+        "Completely supine position with head lower than feet for comfort",
+        "Sitting upright at 90 degrees with head hyperextended backward",
+        "Head elevated at least 30 degrees with head in neutral to slightly downward position",
+        "Side-lying position with no elevation and head rotated to the left side"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26240,
+      question: "What product can this patient use WITHOUT limitation on frequency for xerostomia management?",
+      options: [
+        "Alcohol-based mouthwashes for antimicrobial effects and freshness",
+        "Lemon glycerin swabs for moisture and pleasant taste throughout day",
+        "Saliva substitutes in liquid, gel, or spray formulations",
+        "Petroleum-based lip products for internal mucous membrane hydration"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26241,
+      question: "What frequency is recommended for baking soda and saline rinse in xerostomia management?",
+      options: [
+        "Once monthly for maintenance of oral pH balance",
+        "Every 1 to 3 hours for 1 week during acute episodes",
+        "Every 6 hours for indefinite period throughout life",
+        "Only as needed when patient remembers to use it"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26242,
+      question: "As Bruna's frailty increased, what was the appropriate change in her dental hygiene care frequency?",
+      options: [
+        "Dental hygiene visits were decreased to once yearly due to her declining health",
+        "Dental hygiene visits were discontinued completely as she entered long-term care",
+        "Dental hygiene visits were increased from every 2 weeks to once weekly",
+        "Dental hygiene visits remained at standard 6-month intervals throughout her life"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26243,
+      question: "Why are dental hygienists considered the IDEAL oral health professional for palliative care?",
+      options: [
+        "They have medical degrees allowing them to prescribe all medications needed",
+        "They can perform surgical extractions in the long-term care setting independently",
+        "They are educated to recognize effects of aging, frailties, and changing oral conditions",
+        "They are only needed for annual examinations in healthy ambulatory patients"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26244,
+      question: "What is the PRIMARY limitation of current direct care staff providing oral care?",
+      options: [
+        "Direct care staff have extensive dental education and need no support",
+        "Direct care staff lack knowledge and experience about oral care",
+        "Direct care staff are overqualified for basic oral hygiene tasks",
+        "Direct care staff refuse to provide any oral care under any circumstances"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26245,
+      question: "What does this evidence suggest about dental hygienists' role in long-term care?",
+      options: [
+        "Dental hygienists should be identified as essential workers in long-term care",
+        "Dental hygienists are not needed since nursing staff can provide adequate care",
+        "Dental care can be safely postponed for years without consequences",
+        "Oral care has no impact on overall health outcomes in frail elders"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26246,
+      question: "From whom should the dental hygienist obtain initial consent for the oral assessment?",
+      options: [
+        "Any nursing staff member working the current shift at the facility",
+        "The facility administrator who oversees all resident care decisions",
+        "The patient's power of attorney for healthcare (the daughter)",
+        "No consent is needed since the patient resides in a long-term care facility"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26247,
+      question: "What training can prepare the dental hygienist to work with these patients?",
+      options: [
+        "Gentle Persuasive Approach for patients with cognitive impairment",
+        "Advanced cardiac life support for medical emergencies only",
+        "Surgical extraction techniques for uncooperative patients",
+        "Restraint application methods to force compliance with care"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26248,
+      question: "Which assessment tool is internationally recognized for use in healthcare settings including long-term care?",
+      options: [
+        "Periodontal Screening and Recording (PSR) for community screening only",
+        "Resident Assessment Instrument Minimum Data Set (RAI-MDS) for oral/dental status",
+        "Basic Screening Survey (BSS) for school-based prevention programs exclusively",
+        "Caries Risk Assessment Tool (CRAT) designed only for pediatric populations"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26249,
+      question: "According to the Index of Debris, what level of debris does this represent?",
+      options: [
+        "Level 0 - No debris present on any surfaces",
+        "Level 1 - Minimal debris along gumline only",
+        "Level 2 - Moderate debris covering one-third of surfaces",
+        "Level 4 - Abundant debris covering greater than two-thirds of surfaces"
+      ],
+      correct: "D"
+    },
+    {
+      id: 26250,
+      question: "Why is the traditional schedule INSUFFICIENT for dependent palliative care patients?",
+      options: [
+        "Traditional schedules provide excessive care causing unnecessary treatment burden",
+        "Traditional schedules are inadequate to keep the mouth clean for dependent persons",
+        "Dependent patients never require professional care beyond annual examinations",
+        "Insurance will not cover any visits beyond one appointment every two years"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26251,
+      question: "What approach should the dental hygienist use for treatment planning discussions?",
+      options: [
+        "Make all decisions independently without consulting patient or family members",
+        "Use a systematic approach to promote person-centered decision making",
+        "Defer all treatment decisions to the nursing staff at the facility",
+        "Implement the same treatment plan for all patients regardless of goals"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26252,
+      question: "Where should the dental hygienist provide care for this patient?",
+      options: [
+        "Only in a fully equipped dental operatory with reclining chair",
+        "In the patient's environment where they are most comfortable",
+        "Standing upright in the hallway for proper hygienist positioning",
+        "Postpone care until patient can be transported to dental office"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26253,
+      question: "What is the MOST likely explanation for this behavior?",
+      options: [
+        "The patient recognizes themselves and is pleased with their appearance",
+        "The patient doesn't recognize themselves and becomes disturbed by unfamiliar image",
+        "All cognitively impaired patients prefer to perform oral care in bathrooms",
+        "Mirrors are required equipment for all oral care procedures with no exceptions"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26254,
+      question: "What should be the FIRST step in the oral care procedure?",
+      options: [
+        "Apply petroleum-based products to dry lips for moisture",
+        "Begin aggressive scaling with ultrasonic instruments immediately",
+        "Apply nonpetroleum moisturizer to lips, then sanitize mouth with antimicrobial rinse",
+        "Complete full mouth periodontal charting with exploration of all pockets"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26255,
+      question: "What technique is recommended for removing debris and biofilm without toothpaste?",
+      options: [
+        "Dip and brush technique with oral physiotherapy tools dipped in chlorhexidine rinse",
+        "Aggressive scrubbing with abrasive pumice paste on all surfaces",
+        "High-speed ultrasonic scaling with continuous aerosol generation",
+        "Application of hydrogen peroxide paste left on tissues for 30 minutes"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26256,
+      question: "What technique can the dental hygienist use to assist with mouth opening?",
+      options: [
+        "Two-toothbrush technique using one brush handle as mouth prop",
+        "Immediate referral to oral surgeon for jaw dislocation treatment",
+        "Discontinuation of all oral care until patient can cooperate fully",
+        "Use of general anesthesia for all routine oral hygiene procedures"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26257,
+      question: "What therapy can be applied to prevent, reverse, and arrest carious lesions?",
+      options: [
+        "Complete extraction of all asymptomatic teeth as preventive measure",
+        "Interim Stabilization Therapy using silver diamine fluoride or glass ionomers",
+        "No intervention since asymptomatic teeth require no treatment ever",
+        "Immediate full mouth rehabilitation with crowns and bridges for all teeth"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26258,
+      question: "When should the dental hygienist consider NOT removing calculus?",
+      options: [
+        "Always remove all calculus regardless of patient condition or safety concerns",
+        "When risk-benefit analysis shows removal may cause more harm than good",
+        "Never remove calculus from any palliative care patients under any circumstances",
+        "Only when the patient specifically requests calculus removal in writing"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26259,
+      question: "What instruments should be used for calculus removal in palliative care settings?",
+      options: [
+        "High-powered ultrasonic instruments with maximum aerosol generation",
+        "Manual curettes ensuring proper transport for instrument reprocessing",
+        "Laser devices for all patients regardless of safety considerations",
+        "Air polishing units with sodium bicarbonate powder exclusively"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26260,
+      question: "What should be included in the documentation?",
+      options: [
+        "Only the date of service without any clinical findings or procedures",
+        "Dental hygiene process of care and discussions with family and caregivers",
+        "Personal opinions about the patient's prognosis without objective findings",
+        "No documentation is required for patients in long-term care settings"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26261,
+      question: "What is ESSENTIAL for the dental hygienist to do as the patient's condition changes?",
+      options: [
+        "Maintain the original care plan without modifications regardless of changes",
+        "Discontinue all oral care when any decline in abilities is noted",
+        "Continually evaluate and modify the care plan adjusting goals appropriately",
+        "Transfer all responsibility for oral care decisions to the nursing staff"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26262,
+      question: "According to United Nations projections, what proportion of the world's population will be aged 65 years or over by 2050?",
+      options: [
+        "One in twenty people will be 65 or over",
+        "One in sixteen people will be 65 or over",
+        "One in ten people will be 65 or over",
+        "One in six people will be 65 or over"
+      ],
+      correct: "D"
+    },
+    {
+      id: 26263,
+      question: "What oral manifestation can result from decreased blood vessels and cells in tooth pulp with increased secondary dentin?",
+      options: [
+        "Immediate reversal of all carious lesions without intervention",
+        "Death of teeth requiring recognition by dental hygienist",
+        "Spontaneous tooth regeneration and improved vitality",
+        "Elimination of all periodontal disease without treatment"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26264,
+      question: "What is the PRIMARY goal of palliative dental hygiene oral care?",
+      options: [
+        "Performing all comprehensive restorative procedures regardless of prognosis",
+        "Providing compassion, support, and care for oral health through chronic illness to end of life",
+        "Discontinuing all preventive services once patient enters palliative stage",
+        "Focusing exclusively on cosmetic improvements regardless of patient comfort"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26265,
+      question: "What tools are used in noninvasive debridement?",
+      options: [
+        "Scalers, curettes, ultrasonic instruments, and aerosol generation tools",
+        "Oral physiotherapy tools including brushes, floss, stimulators, and tongue cleaners",
+        "High-speed handpieces with diamond burs for removal of deposits",
+        "Surgical instruments including elevators and forceps for extractions"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26266,
+      question: "What is a PRIMARY barrier to oral care access for palliative patients?",
+      options: [
+        "Excessive insurance coverage providing too many dental benefits",
+        "Lack of funding and limited insurance coverage for therapeutic services",
+        "Overwhelming number of dental hygienists in long-term care facilities",
+        "Excessive government funding requiring patients to use all benefits"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26267,
+      question: "What correlation exists between oral health and aspiration pneumonia?",
+      options: [
+        "Good oral hygiene and plaque control have no relationship to pneumonia risk",
+        "Poor dental plaque control and periodontal disease increase aspiration pneumonia risk",
+        "Aspiration pneumonia only occurs in patients without any natural teeth",
+        "Oral health status has no impact on respiratory health outcomes"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26268,
+      question: "What dietary modification is commonly recommended for patients with dysphagia?",
+      options: [
+        "Very thin liquids that flow rapidly requiring fast swallowing",
+        "Hard, crunchy foods requiring extensive chewing for safety",
+        "Pureed texture foods and honey-thick fluid consistency",
+        "Raw vegetables and tough meats to strengthen swallowing muscles"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26269,
+      question: "What distinguishes hyperplastic candidiasis from pseudomembranous candidiasis?",
+      options: [
+        "Hyperplastic candidiasis can be easily wiped off leaving bleeding tissue",
+        "Hyperplastic candidiasis presents as elevated patches that cannot be wiped off",
+        "Hyperplastic candidiasis only appears on the dorsal surface of tongue",
+        "Hyperplastic candidiasis resolves spontaneously without any treatment required"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26270,
+      question: "What instruction should the dental hygienist give regarding eating and drinking after topical antifungal application?",
+      options: [
+        "Eat and drink immediately to help spread the medication",
+        "Wait 5 minutes before eating to allow minimal absorption",
+        "Do not eat or drink for 20 minutes after topical treatment",
+        "Rinse mouth thoroughly with water immediately after application"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26271,
+      question: "What should be replaced to prevent reinfection after candidiasis treatment?",
+      options: [
+        "All dental restorations including fillings and crowns",
+        "Denture container and toothbrush",
+        "All clothing and bed linens in the household",
+        "Eyeglasses and hearing aids"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26272,
+      question: "What solution can be used to disinfect dentures overnight during candidiasis treatment?",
+      options: [
+        "Boiling water at 100 degrees Celsius for sterilization",
+        "Undiluted bleach to ensure maximum antimicrobial effect",
+        "Diluted sodium hypochlorite or chlorhexidine solution",
+        "Petroleum jelly applied to all denture surfaces for protection"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26273,
+      question: "What rinse provides soothing relief for mucositis symptoms?",
+      options: [
+        "Undiluted hydrogen peroxide rinse for maximum antimicrobial effect",
+        "Baking soda, saline, and water rinse for soothing comfort",
+        "Alcohol-based mouthwash for antibacterial properties",
+        "Lemon juice rinse for acidic cleansing of tissues"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26274,
+      question: "What is the ESSENTIAL denture care instruction for patients with mucositis?",
+      options: [
+        "Wear dentures continuously 24 hours daily for tissue support",
+        "Daily denture cleaning and remove dentures while sleeping",
+        "Clean dentures only monthly to minimize tissue trauma",
+        "Never remove dentures once they are inserted initially"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26275,
+      question: "What local factor is a PRIMARY predisposing factor for oral candidiasis?",
+      options: [
+        "Excellent oral hygiene with thorough daily plaque removal",
+        "Poor oral hygiene and inadequate plaque biofilm control",
+        "Excessive saliva production causing tissue maceration",
+        "Absence of dentures with all natural teeth present"
+      ],
+      correct: "B"
+    }
+  ],
+  "5. Child Abuse and Family Violence (Case Study)": [
+    {
+      id: 26276,
+      question: "What is the MOST appropriate initial action for the dental hygienist?",
+      options: [
+        "Complete the examination, document all findings objectively including location and appearance of injuries, and report suspicions to Child Protective Services",
+        "Confront the mother about the inconsistencies and ask her directly if she caused the injuries before making any report to authorities",
+        "Call law enforcement immediately while the patient is still in the office and have them question the mother about potential abuse",
+        "Treat only the dental emergency, make a note in the chart for future reference, and wait to see if similar injuries appear at the next visit"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26277,
+      question: "Based on the clinical findings, what does the presence of condyloma acuminatum in a prepubertal child most likely indicate?",
+      options: [
+        "A common viral infection transmitted through respiratory droplets that requires topical antiviral treatment and close monitoring",
+        "An allergic reaction to certain foods or dental products that will resolve with antihistamine therapy and dietary modifications",
+        "A possible indicator of sexual abuse that requires immediate documentation and mandatory reporting to Child Protective Services",
+        "A benign growth caused by chronic irritation from thumb sucking that can be surgically removed without further investigation"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26278,
+      question: "What is the MOST appropriate assessment of this situation?",
+      options: [
+        "This represents clear dental neglect requiring immediate reporting to Child Protective Services regardless of the parent's circumstances or apparent concern",
+        "This situation requires differentiation between willful neglect and lack of oral health literacy combined with socioeconomic barriers before determining reporting obligations",
+        "This is simply poor parenting that should be addressed through patient education only, with no need for documentation or reporting",
+        "This represents medical child abuse similar to Munchausen syndrome by proxy and requires psychiatric evaluation of the parent"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26279,
+      question: "Which pediatric assessment principle is MOST relevant to this case?",
+      options: [
+        "Infants commonly sustain facial injuries from falls when learning developmental milestones, so this presentation is consistent with normal childhood accidents",
+        "The proverb \"those who don't cruise rarely bruise\" indicates that bruising and oral injuries in non-ambulatory infants are sentinel findings suspicious for abuse",
+        "Torn frenums are typical injuries in infants who are teething and should be treated as normal developmental occurrences requiring only observation",
+        "Subconjunctival hemorrhage in infants always results from increased intracranial pressure and indicates the need for immediate neurosurgical consultation only"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26280,
+      question: "What characteristic of this injury most strongly suggests an adult human bite rather than an animal bite?",
+      options: [
+        "The elliptical shape and intercanine distance greater than 3.0 cm with tooth indentations consistent with human adult arch form",
+        "The location on the upper arm which is the most common site for dog bites in children of this age group",
+        "The presence of tearing and irregular breaks in the skin which are pathognomonic for carnivorous animal attacks",
+        "The child's nervous behavior which typically indicates fear of animals rather than fear of people or specific adults"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26281,
+      question: "What is the MOST appropriate course of action?",
+      options: [
+        "Report this case to Child Protective Services immediately because any dental trauma in children requires mandatory reporting by dental professionals",
+        "Document the injury with date, time, location, and description; obtain necessary consent for treatment photographs; and treat the fractured tooth appropriately",
+        "Separate the mother and child to question them individually about the incident to ensure their stories match exactly in every detail",
+        "Refuse to treat the child until law enforcement can investigate the incident to rule out any possibility of inflicted trauma"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26282,
+      question: "Which finding would MOST clearly distinguish potential caregiver-fabricated illness from genuine medical complexity?",
+      options: [
+        "The pattern of seeking care from multiple different providers combined with inconsistent stories, implausible histories, or symptoms occurring only in the caregiver's presence",
+        "The presence of multiple carious lesions which always indicates intentional neglect regardless of other circumstances or family situation",
+        "The history of multiple moves which definitively proves the parent is trying to avoid detection by Child Protective Services",
+        "The parent's attentiveness and detailed questioning which demonstrates obsessive behavior characteristic of factitious disorder by proxy"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26283,
+      question: "What additional clinical significance might palatal petechiae have in the context of child maltreatment assessment?",
+      options: [
+        "Petechiae on the palate are always caused by aggressive tooth brushing and require only oral hygiene instruction with proper technique demonstration",
+        "Palatal petechiae combined with behavioral indicators may suggest forced oral sex and warrant further assessment and mandatory reporting procedures",
+        "This finding indicates a bleeding disorder such as idiopathic thrombocytopenic purpura and requires immediate referral to hematology only",
+        "Palatal petechiae in adolescents are a normal finding related to hormonal changes during puberty and require no further assessment or action"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26284,
+      question: "What characteristic of oral burns from abuse would be MOST concerning in this presentation?",
+      options: [
+        "Burns from accidentally drinking hot liquids typically show uniform, symmetric patterns because children drink quickly without stopping",
+        "The father's explanation is completely consistent with accidental injury since children commonly grab hot beverages from tables",
+        "Burns from forced feeding or scalding as abuse often show patterns inconsistent with accidental injury and may involve aggressive or forced feeding with hot substances",
+        "The child's fearful behavior is normal for a 3-year-old in a dental office and provides no useful information for assessment"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26285,
+      question: "Which combination of findings is MOST indicative of a concerning situation requiring further assessment?",
+      options: [
+        "The recent move to the area combined with the stepfather's defensiveness, which are normal responses to implied criticism from healthcare providers",
+        "The pattern of untreated dental disease, poor hygiene, malnourished appearance, controlling behavior, and refusal to allow private conversation with the child",
+        "The tooth pain and emergency presentation, which indicate good parenting because the stepfather brought the child in for needed treatment",
+        "The lack of previous dental care in the area, which simply reflects the family's recent relocation and adjustment period to a new community"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26286,
+      question: "What is the victimization rate per 1,000 children for infants younger than 1 year old according to national statistics?",
+      options: [
+        "8.4 per 1,000, which is the same as the national average victim rate for all children in the population",
+        "15.5 per 1,000, which is the highest rate and equivalent to American Indian or Alaska Native children",
+        "25.1 per 1,000, representing the highest victimization rate among all age groups of children",
+        "13.2 per 1,000, which is the same rate as African American children of all ages"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26287,
+      question: "Which type of child maltreatment accounted for the highest percentage of victims in 2020?",
+      options: [
+        "Physical abuse at 76.1% because it is the most visible and easily identified form of maltreatment",
+        "Sexual abuse at 16.5% because it represents the majority of cases seen by healthcare providers",
+        "Neglect at 76.1%, continuing to be the most common type of maltreatment reported in the United States",
+        "Psychological maltreatment at 9.4% because emotional abuse has become more recognized in recent years"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26288,
+      question: "What relationship exists between bullying and intimate partner violence (IPV) according to current understanding?",
+      options: [
+        "Bullying and IPV are completely separate phenomena with no correlation or shared characteristics in terms of power dynamics",
+        "The power and control tactics used in bullying overlap with those in IPV, suggesting bullying may be a precursor to IPV",
+        "Bullying only occurs in school settings while IPV only occurs in adult relationships, so they cannot be related",
+        "Adolescent dating violence is not considered IPV because intimate partner violence only applies to married couples"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26289,
+      question: "This scenario describes which aspect of intimate partner violence?",
+      options: [
+        "Normal adolescent relationship dynamics that will resolve with maturity and do not require intervention or concern",
+        "Reproductive coercion, which is a form of IPV involving control of reproductive and sexual health decisions",
+        "Appropriate partner involvement in healthcare decisions that demonstrates caring and commitment to the relationship",
+        "A misunderstanding of relationship boundaries that requires only education about healthy communication skills"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26290,
+      question: "What is the significance of strangulation in intimate partner violence situations?",
+      options: [
+        "Strangulation is a minor form of IPV that rarely results in serious injury and requires only documentation in the patient record",
+        "Victims with one previous nonfatal strangulation are seven times more likely to die by homicide than those without this experience",
+        "Strangulation marks indicate consensual sexual activity and should not be considered evidence of intimate partner violence",
+        "Nonfatal strangulation has no correlation with future violence and does not require any specific intervention or safety planning"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26291,
+      question: "Which screening approach is MOST appropriate when assessing for intimate partner violence?",
+      options: [
+        "Ask detailed questions about the abuse in the reception area to save time and ensure the partner cannot overhear the conversation",
+        "Confront the partner directly about the abuse to determine their side of the story before documenting or taking any action",
+        "Ask screening questions such as \"Do you feel safe at home?\" and \"Has your partner ever threatened, hit, or harmed you?\" always in private",
+        "Avoid asking any questions because patients will disclose abuse voluntarily if they want help, and asking may offend them"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26292,
+      question: "What is the significance of intimate partner violence during pregnancy?",
+      options: [
+        "IPV rates decrease during pregnancy because partners become protective, making this presentation highly unusual and unlikely",
+        "IPV during pregnancy has minimal health impacts and affects outcomes no differently than IPV at other times in a woman's life",
+        "IPV rates are alarmingly high during pregnancy with risks including preterm birth, low birth weight, miscarriage, and pregnancy-associated homicide",
+        "Pregnancy provides legal protection from IPV, so screening is unnecessary during prenatal periods because abuse cannot occur"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26293,
+      question: "What is the MOST appropriate response when a patient denies abuse but you still have concerns?",
+      options: [
+        "Continue to press the patient for details and insist she admit to the abuse before you can help her or provide any resources",
+        "State \"I'm concerned. There is help available for you. I have information if you would like\" without forcing the issue or jeopardizing safety",
+        "Contact law enforcement immediately and make a report regardless of the patient's wishes or concerns about her safety",
+        "Document your suspicions in the patient's chart using accusatory language about the partner to ensure a clear record is established"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26294,
+      question: "Which type of elder abuse is MOST likely occurring in this scenario?",
+      options: [
+        "Financial exploitation because the daughter is controlling the patient's finances by bringing her to dental appointments",
+        "Neglect, involving failure to provide basic needs such as personal hygiene, nutrition, and healthcare including dental care",
+        "Physical abuse because weight loss always indicates intentional withholding of food as punishment for the elder's behavior",
+        "Self-neglect because all older adults are responsible for their own care regardless of cognitive or physical limitations"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26295,
+      question: "What is your professional obligation regarding this situation?",
+      options: [
+        "Accept the son's explanation because elderly patients do bruise easily, and there is no need for further assessment or reporting",
+        "Report suspected vulnerable adult abuse and neglect as mandated in every state, documenting all observations objectively",
+        "Call the patient's physician to report the bruises but take no other action since elder abuse reporting is optional in most states",
+        "Wait until you see the patient again to determine if new bruises appear before making any reports to authorities"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26296,
+      question: "This situation MOST likely represents which phenomenon?",
+      options: [
+        "Normal aging that requires no intervention because all elderly people eventually experience decline in self-care abilities",
+        "Elder abuse by the neighbor who is trying to gain control of the patient's finances by bringing them to medical appointments",
+        "Self-neglect, defined as harm or potential harm created by a person's own failure to address their self-care needs",
+        "Institutional abuse even though the patient lives alone because any neglect of an elderly person is institutional by definition"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26297,
+      question: "What type of elder neglect does this scenario MOST likely represent?",
+      options: [
+        "Physical neglect involving failure to provide protection from health hazards by withholding medical devices and medications",
+        "Financial exploitation because the caregiver is stealing the patient's prescription medication to sell for profit",
+        "Emotional abuse because forgetting to fill prescriptions occasionally is a normal occurrence that causes temporary distress",
+        "Self-neglect because the patient should be responsible for managing her own medications regardless of cognitive status"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26298,
+      question: "Which red flags in this scenario are MOST concerning for human trafficking?",
+      options: [
+        "The request for cosmetic dental work paid in cash, which indicates financial success and ability to afford quality dental care",
+        "The language barrier and need for the employer to interpret, which is standard practice when patients don't speak English",
+        "The controlling third party who refuses to leave, answers for the patient, and the patient's fearful demeanor, poor health, and lack of autonomy",
+        "The presence of untreated dental disease, which simply indicates the patient has not had access to dental care until now"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26299,
+      question: "What is the PRIMARY distinction between human trafficking and human smuggling?",
+      options: [
+        "Human trafficking requires crossing international borders while human smuggling only involves movement within one country",
+        "Human trafficking involves ongoing exploitation for profit through labor or sex servitude, while smuggling typically ends when destination is reached",
+        "Human smuggling is always violent while human trafficking involves only consensual agreements between adults for employment",
+        "Human trafficking only affects children under 18 while human smuggling only involves adults over 18 years of age"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26300,
+      question: "What is the MOST appropriate immediate action?",
+      options: [
+        "Complete the cosmetic dental work as requested since the boyfriend is paying and the patient appears to be over 18 years old",
+        "Immediately contact law enforcement or the National Human Trafficking Hotline, as dental professionals are mandated reporters for trafficking victims",
+        "Confront the boyfriend in the reception area about your suspicions to gauge his reaction before taking any further action",
+        "Give the patient information about trafficking resources but take no other action since she is an adult and must report herself"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26301,
+      question: "What is the National Human Trafficking Hotline number available 24/7 in over 200 languages?",
+      options: [
+        "1-800-555-HELP (4357) for general human trafficking information and local resources only during business hours",
+        "1-888-373-7888 or text \"HELP\" or \"INFO\" to 233733 (BeFree) for immediate assistance available 24/7",
+        "911, which is the only number that should be called for any suspected trafficking situations in all circumstances",
+        "1-866-DHS-2-ICE (1-866-347-2423), which is exclusively for immigration-related issues and not for trafficking victims"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26302,
+      question: "What should you AVOID doing when you suspect human trafficking?",
+      options: [
+        "Asking screening questions that identify your interest in helping without conveying judgment of the individual or situation",
+        "Making promises to the patient, divulging your personal address, or offering to harbor the trafficked person yourself",
+        "Documenting your observations objectively in the patient record and reporting suspicions to appropriate authorities",
+        "Using a trauma-informed approach that builds trust and demonstrates sensitivity during any screening process"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26303,
+      question: "Which documentation practice is MOST appropriate for suspected abuse cases?",
+      options: [
+        "Record your opinion that the parent is lying and include judgmental statements about the family's credibility in the chart",
+        "Wait several days to document the findings to see if your suspicions are confirmed before writing anything in the record",
+        "Separate facts from opinion, document all clinical and behavioral findings objectively, use quotes for verbal statements, and record the CPS report",
+        "Destroy any photographs taken during the examination to protect patient privacy and avoid legal complications for the practice"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26304,
+      question: "What legal protection exists for mandated reporters who file reports in good faith?",
+      options: [
+        "No legal protections exist, and mandated reporters can be sued for civil damages if their suspicions prove to be unfounded",
+        "State-established immunity laws protect reporters from civil or criminal penalties when filing confidential reports of suspected abuse in good faith",
+        "Legal protection only applies if the reporter can prove beyond reasonable doubt that abuse occurred before making the report",
+        "Mandated reporters are protected only if they personally witness the abuse occurring and can provide eyewitness testimony"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26305,
+      question: "What is the role of Child Protective Services (CPS) after receiving a report of suspected child maltreatment?",
+      options: [
+        "CPS provides no services and simply maintains records of reports without conducting investigations or offering interventions",
+        "CPS investigates cases and provides intervention and treatment services to children and families when maltreatment has occurred",
+        "CPS only prosecutes perpetrators criminally and has no role in providing support services to affected families",
+        "CPS contacts the dental office to gather additional evidence and requires dental professionals to participate in court proceedings"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26306,
+      question: "How should cultural healing practices that leave marks on children be assessed?",
+      options: [
+        "All marks on children must be reported as abuse regardless of cultural context because traditional practices cannot be considered during assessment",
+        "Cultural practices such as cupping, coining, or scraping used in some families to treat illness may cause unintentional marks that can be mistaken for abuse",
+        "Any mark left by a parent is automatically considered child abuse under CAPTA regardless of intent or cultural background",
+        "Healthcare providers should ignore all cultural practices and only use Western medicine standards when evaluating any injuries"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26307,
+      question: "What is Ehlers-Danlos syndrome, and how might it affect assessment for abuse?",
+      options: [
+        "EDS is a psychiatric disorder that causes children to self-injure, so all bruising in these children represents intentional self-harm",
+        "EDS is a group of inherited connective tissue disorders causing extremely loose joints, hyperelastic skin that bruises easily, and easily damaged blood vessels",
+        "EDS is a form of child abuse itself where parents intentionally damage children's connective tissue through repeated trauma",
+        "EDS only affects elderly adults and cannot occur in children, so this diagnosis should be questioned and investigated immediately"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26308,
+      question: "What is idiopathic thrombocytopenic purpura, and why is it relevant to abuse assessment?",
+      options: [
+        "ITP is a bleeding disorder where the immune system destroys platelets, causing easy bruising and bleeding that can mimic abuse",
+        "ITP is a genetic condition caused by child abuse that develops only in children who have experienced repeated physical trauma",
+        "ITP is a skin infection that always indicates neglect because it results from poor hygiene and lack of basic medical care",
+        "ITP is a form of cancer that requires immediate chemotherapy and has no relevance to child abuse assessment procedures"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26309,
+      question: "What condition presents with a port-wine stain birthmark that might be mistaken for abuse?",
+      options: [
+        "Ehlers-Danlos syndrome, which causes skin elasticity problems and always includes port-wine stains as a diagnostic feature",
+        "Idiopathic thrombocytopenic purpura, which destroys platelets and creates red port-wine staining across the face",
+        "Sturge-Weber syndrome, a rare disorder present at birth with a port-wine stain birthmark and nervous system problems",
+        "Munchausen syndrome by proxy, where caregivers create port-wine stains on children to gain medical attention"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26310,
+      question: "Which statement BEST represents CAPTA's definition of child abuse and neglect?",
+      options: [
+        "Only physical abuse resulting in visible injuries that can be photographed and documented with medical evidence",
+        "Any recent act or failure to act by a parent or caretaker resulting in death, serious harm, sexual abuse, exploitation, or presenting imminent risk of serious harm",
+        "Exclusively sexual abuse and exploitation, as these are the only forms of maltreatment addressed by federal legislation",
+        "Any disagreement between parents and children about discipline, education, or household rules regardless of severity"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26311,
+      question: "What significant change did the Justice for Victims of Trafficking Act of 2015 make to CAPTA?",
+      options: [
+        "It removed all references to sexual abuse from the federal definition of child maltreatment and neglect",
+        "It eliminated mandatory reporting requirements for dental professionals in all states and territories",
+        "It identified children who are victims of sex trafficking or other forms of trafficking within the federal definitions of abuse and neglect",
+        "It reduced the age of child protection from 18 years to 16 years to focus resources on younger children"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26312,
+      question: "Which statement BEST describes Adverse Childhood Experiences (ACEs)?",
+      options: [
+        "ACEs include only physical and sexual abuse that occurs before age 12 in school settings exclusively",
+        "ACEs include abuse, neglect, and potentially traumatic events before age 18 that affect health across the lifetime",
+        "ACEs are limited to witnessing violence and do not include direct experiences of abuse or household dysfunction",
+        "ACEs only affect children in low-income families and have no impact on children from middle or upper-class backgrounds"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26313,
+      question: "Which household or caregiver factor is associated with increased risk for child maltreatment?",
+      options: [
+        "High educational attainment and professional employment status of both parents in the household",
+        "Caregiver substance use disorder, mental health problems, domestic violence, instability, or poverty in the household",
+        "Living in a two-parent household with stable employment and adequate health insurance coverage",
+        "Regular participation in community activities and strong extended family support networks nearby"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26314,
+      question: "What is the typical difference in injury patterns between accidental injuries and injuries from abuse?",
+      options: [
+        "Accidental injuries show multiple injuries in various stages of healing while abuse injuries heal at the same time",
+        "Accidental injuries normally occur over bony protuberances like knees and elbows; abuse injuries often occur on non-bony areas like neck, trunk, or upper arms",
+        "Accidental injuries always leave permanent scars while injuries from abuse heal completely without any marks",
+        "Accidental injuries only occur indoors while abuse injuries only occur in outdoor or public settings"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26315,
+      question: "What has replaced the term \"shaken baby syndrome\" and why?",
+      options: [
+        "\"Accidental head trauma\" because research proved that shaking cannot cause serious injury to infants",
+        "\"Abusive head trauma\" because neuropathological symptoms can result from shaking, blunt force trauma, or hypoxic-ischemic (smothering) means",
+        "\"Developmental head injury\" because all head trauma in infants is part of normal development and learning",
+        "\"Caregiver-fabricated head trauma\" because all infant head injuries are intentionally fabricated by caregivers seeking attention"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26316,
+      question: "What percentage of U.S. youth have been electronically bullied according to national statistics?",
+      options: [
+        "Nearly 5% have been electronically bullied, making it a rare occurrence in U.S. schools",
+        "Nearly 15% have been electronically bullied, while 19% have been bullied on school property",
+        "Nearly 40% have been electronically bullied, making it more common than in-person bullying",
+        "Nearly 60% have been electronically bullied, affecting the majority of all U.S. adolescents"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26317,
+      question: "What percentage of female adults in the U.S. who experience IPV first encounter it before age 25?",
+      options: [
+        "An estimated 25.5% of females experienced their first IPV incident before age 25 years",
+        "An estimated 45.8% of females experienced their first IPV incident before age 25 years",
+        "An estimated 71.1% of females experienced their first IPV incident before age 25 years",
+        "An estimated 95.2% of females experienced their first IPV incident before age 25 years"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26318,
+      question: "What is the dental professional's role versus CPS's role in suspected abuse cases?",
+      options: [
+        "Dental professionals must gather all evidence, interview witnesses, and build a complete legal case before contacting CPS",
+        "Dental professionals report suspicions and document objectively; CPS has expertise and resources to investigate and provide intervention",
+        "Dental professionals should investigate suspected abuse themselves and only contact CPS if they can prove abuse occurred",
+        "Dental professionals have no role in abuse detection and should refer all concerning cases to physicians only"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26319,
+      question: "What are potential consequences for mandated reporters who fail to report suspected abuse or neglect?",
+      options: [
+        "There are no consequences because reporting is voluntary and based solely on the professional's personal judgment",
+        "Failure to report can carry harsh penalties including fines, prison time, and for professionals, possible loss of licensure",
+        "Consequences are limited to verbal warnings for first-time offenders with no impact on professional licensure",
+        "Only physicians face consequences for failure to report; dental professionals are exempt from penalties"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26320,
+      question: "What legal protection exists for this situation?",
+      options: [
+        "No protection exists and the hygienist can be sued for damages, legal fees, and defamation of character",
+        "The law provides protection for mandated reporters who make reports in good faith, protecting them from civil and criminal penalties",
+        "Protection only exists if the hygienist can prove actual abuse occurred before the report was made",
+        "Protection applies only to physicians and nurses, not to dental hygienists or other dental professionals"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26321,
+      question: "What is the relationship between harsh physical punishment and future maltreatment or violence?",
+      options: [
+        "Harsh physical punishment teaches children discipline and has no correlation with future abuse or violence",
+        "Exposure to harsh physical punishment and physical discipline is related to more severe child maltreatment or revictimization in IPV in the future",
+        "Harsh physical punishment only affects children under age 2 and has no long-term consequences for older children",
+        "Physical discipline is completely separate from abuse and has no relationship to any form of violence"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26322,
+      question: "Where is it MOST appropriate to place IPV resource materials in a dental office?",
+      options: [
+        "In the reception area where partners can see the information and understand that abuse is not tolerated",
+        "Posted on the front desk so staff can hand them directly to suspected victims during check-out",
+        "In restrooms or inconspicuous places where victims can privately access information away from potential perpetrators",
+        "Mailed to patients' homes so they have information available, ensuring partners will see it as well"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26323,
+      question: "What is your legal and ethical obligation in this situation?",
+      options: [
+        "Honor the patient's request for confidentiality because patient privacy always takes precedence over reporting obligations",
+        "Report the disclosure to Child Protective Services immediately because dental professionals are mandated reporters and this constitutes suspected sexual abuse",
+        "Wait until the patient turns 18 to report because adolescents have the right to consent to keeping abuse confidential",
+        "Only report if the patient gives written permission because verbal disclosures do not trigger mandatory reporting requirements"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26324,
+      question: "How are infants with prenatal substance exposure categorized in NCANDS child maltreatment reporting?",
+      options: [
+        "They are not included in NCANDS reporting because prenatal exposure is not considered a form of child maltreatment",
+        "They are reported under the code of \"Other\" maltreatment, a category added for states to report beginning in 2018",
+        "They are exclusively classified as \"Medical Neglect\" and cannot be coded under any other maltreatment category",
+        "They are categorized as \"Sexual Abuse\" because substance exposure during pregnancy is considered sexual maltreatment"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26325,
+      question: "How did the COVID-19 pandemic affect child maltreatment reporting in 2020?",
+      options: [
+        "Reports increased dramatically because children were home more and abuse was more visible to medical providers",
+        "Reports decreased due to school closures and lockdowns, making it difficult for educational personnel, the largest reporting group, to observe maltreatment",
+        "Reports remained exactly the same as previous years because the pandemic had no impact on abuse rates or reporting",
+        "Reports increased because dental professionals replaced teachers as the largest group of child abuse reporters during lockdowns"
+      ],
+      correct: "B"
+    }
+  ],
+  "6. Disability and Access to Care (Case Study)": [
+    {
+      id: 26326,
+      question: "According to the Americans with Disabilities Act (ADA) of 1990, how is an individual with a disability defined?",
+      options: [
+        "A person who requires institutionalized care, has cognitive impairments, and needs assistance with all activities of daily living",
+        "A person who has a physical or mental impairment that substantially limits one or more major life activities or has a history of such impairment",
+        "A person who is permanently unable to work, requires a wheelchair for mobility, and depends entirely on others for care",
+        "A person who has a temporary medical condition lasting less than 6 months that affects their ability to perform work-related tasks"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26327,
+      question: "What is the recommended approach for speaking appropriately and respectfully to or about individuals with disabilities?",
+      options: [
+        "Handicapped language, which focuses on the disability first to ensure proper accommodations and medical management",
+        "Medical-model language, which emphasizes the pathologic condition and treatment needs before considering the individual",
+        "People-first language, which focuses on the person first and not the disability, preventing dehumanization of individuals",
+        "Disability-centered language, which highlights the assistive equipment and limitations before mentioning the person's name"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26328,
+      question: "Which statement demonstrates proper people-first language when documenting this patient's information?",
+      options: [
+        "\"The wheelchair-bound patient requires special accommodations for dental treatment and cannot ambulate independently\"",
+        "\"The patient with a physical disability uses a wheelchair for mobility and is confined to the wheelchair for all daily activities\"",
+        "\"A person who uses a wheelchair arrived for appointment; patient sustained spinal cord injury 10 years ago in accident\"",
+        "\"The handicapped individual is restricted to a wheelchair and demonstrates limitations in mobility requiring assistance\""
+      ],
+      correct: "C"
+    },
+    {
+      id: 26329,
+      question: "Approximately how many adults in the United States live with disabilities according to current statistics?",
+      options: [
+        "Approximately 15 million adults, representing about 6% of the U.S. population living in communities across all states",
+        "Approximately 61 million adults, representing nearly 1 in 4 (26%) of people in the United States living in communities",
+        "Approximately 100 million adults, representing nearly 1 in 3 (33%) of people in the United States requiring daily assistance",
+        "Approximately 200 million adults, representing over half (52%) of the U.S. population experiencing some form of limitation"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26330,
+      question: "Based on the stage of exposure, how would autism spectrum disorder be classified?",
+      options: [
+        "Acquired disability, referring to disabilities present after birth that can be traceable to disease, trauma, or environmental factors",
+        "Age-associated disability, referring to disabilities that develop after age 65 due to chronic diseases or cognitive impairment",
+        "Developmental disability, referring to conditions with impairment in physical, learning, language, or behavioral areas diagnosed before age 22",
+        "Congenital disability, referring to irregularities present at birth that are always directly traceable to specific genetic factors"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26331,
+      question: "How would Alzheimer disease be classified based on stage of exposure to disability?",
+      options: [
+        "Age-associated disability, as cognitive impairments like dementia and Alzheimer disease can cause older individuals to become disabled",
+        "Congenital disability, as Alzheimer disease is always present at birth but symptoms don't manifest until later in life",
+        "Developmental disability, as Alzheimer disease must be diagnosed before age 22 years to meet classification criteria",
+        "Acquired disability, as Alzheimer disease is traceable to traumatic events or injuries sustained earlier in life"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26332,
+      question: "How would this patient's disabilities be classified based on stage of exposure?",
+      options: [
+        "Developmental disabilities, as they affect learning and behavioral areas requiring comprehensive management throughout life",
+        "Military service disabilities, as they resulted from injuries sustained during active duty in the United States military",
+        "Age-associated disabilities, as they typically occur in individuals over 65 years with chronic disease development",
+        "Congenital disabilities, as they represent irregularities that were present at birth but only recently diagnosed"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26333,
+      question: "What are the three primary dimensions used to classify disabilities according to the ICF model?",
+      options: [
+        "Congenital conditions, acquired conditions, and developmental conditions that affect physical and mental functioning",
+        "Impairments, activity limitations, and participation restrictions that result from health conditions and contextual factors",
+        "Physical disabilities, cognitive disabilities, and sensory disabilities that require specialized healthcare interventions",
+        "Temporary disabilities, permanent disabilities, and progressive disabilities that vary in duration and severity over time"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26334,
+      question: "This scenario BEST represents which dimension of disability classification?",
+      options: [
+        "Impairment, representing loss or abnormality in function from the pathologic condition of rheumatoid arthritis",
+        "Activity limitation, representing difficulty in performing activities due to the medical condition of arthritis",
+        "Participation restriction, representing inability to engage in everyday life activities due to lack of reasonable accommodations",
+        "Disability adjusted life year, representing years of productive life lost due to the disability from arthritis"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26335,
+      question: "This scenario BEST represents which dimension of disability classification?",
+      options: [
+        "Participation restriction, as the patient cannot engage in everyday life activities for reasons outside their control",
+        "Activity limitation, as the patient has difficulty performing activities due to the medical condition affecting motor control",
+        "Environmental factor, as architectural characteristics and social structures limit the patient's ability to function independently",
+        "Personal factor, as the patient's age, coping styles, and behavior patterns determine their level of functioning"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26336,
+      question: "What is the MOST common barrier to healthcare experienced by patients with disabilities?",
+      options: [
+        "Fear and embarrassment about their condition, which prevents them from seeking necessary healthcare services",
+        "Lack of training among healthcare providers, making it difficult to find qualified professionals to treat them",
+        "Access to healthcare, including affordability of services, which prevents patients from receiving needed care",
+        "Communication difficulties with healthcare providers, resulting in inadequate understanding of treatment recommendations"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26337,
+      question: "According to the ADA, which statement about public accommodations is correct?",
+      options: [
+        "Only dental offices built after 1990 must provide barrier-free access; older facilities are grandfathered and exempt",
+        "Dental offices under 5,000 square feet are exempt from ADA requirements for physical accessibility",
+        "People who own, lease, or operate dental offices are responsible for ensuring removal of all barriers regardless of building age",
+        "Dental offices can charge additional fees to patients with disabilities to cover costs of providing accommodations"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26338,
+      question: "When assessing this patient for oral self-care assistive devices, which factors should the dental hygienist evaluate?",
+      options: [
+        "Only the patient's skill level and cognitive application, as physical abilities are not relevant to device selection",
+        "Range of motion, grip strength, skill level, and cognitive application to determine appropriate assistive device adaptations",
+        "Exclusively the patient's financial ability to purchase expensive specialized equipment from medical supply companies",
+        "The caregiver's willingness to provide daily care, as patients with tremors cannot perform any oral care independently"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26339,
+      question: "What characteristic would be MOST important for this patient's customized oral self-care device?",
+      options: [
+        "A wider grip handle to accommodate the patient's inability to grasp small objects securely",
+        "Extended length to accommodate the patient's limited range of motion in reaching the oral cavity",
+        "Powered mechanism to compensate for the patient's cognitive impairment and confusion",
+        "Weighted base to provide stability for patients with uncontrolled tremors and spasms"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26340,
+      question: "Which characteristics are ideal for customized oral self-care assistive devices?",
+      options: [
+        "Expensive and professionally manufactured, requiring specialized training to use, with complex interchangeable parts",
+        "Lightweight and easy to use, readily available and accessible, inexpensive and easily constructed, with water-resistant parts",
+        "Heavy and durable to withstand years of use, requiring professional maintenance, with permanent non-removable components",
+        "Custom-molded to each patient's specific anatomy, requiring prescription from physician, with non-transferable features"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26341,
+      question: "Which scenario represents an appropriate indication for protective stabilization?",
+      options: [
+        "A cooperative patient without sedation who needs routine preventive care and has no history of movement disorders",
+        "Emergent care is needed and uncontrolled movements risk safety of patient and staff without use of protective stabilization",
+        "A patient with nonemergent treatment needs for full mouth rehabilitation over multiple appointments requiring extensive time",
+        "A patient who can be safely immobilized but has history of psychological trauma from previous restraint experiences"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26342,
+      question: "What is required before using protective stabilization on this patient?",
+      options: [
+        "Only verbal permission from the parent, as written consent is never required for protective stabilization procedures",
+        "Informed consent that includes explanation of indications, benefits, risks, and alternative approaches such as sedation",
+        "Approval from the state dental board, as protective stabilization requires special licensure in all jurisdictions",
+        "Documentation that at least three dental offices refused to treat the patient before stabilization can be used"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26343,
+      question: "What is the MOST important technique when inserting a mouth prop to prevent patient injury?",
+      options: [
+        "Insert the larger end of mouth prop first horizontally, then turn vertically without protecting the lips from injury",
+        "Use the mouth prop between anterior teeth, which are best suited to withstand the pressure of biting forces",
+        "Gently pull lower lip forward while inserting prop horizontally, then turn to vertical position, using double fulcrum",
+        "Have the primary operator hold the mouth prop throughout the procedure while delivering dental hygiene care"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26344,
+      question: "Which information MUST be included in the patient's record regarding protective stabilization?",
+      options: [
+        "Only the type of device used, as other details are not legally required for documentation purposes",
+        "Indication, type used, informed consent, duration of application, behavior evaluation, untoward outcomes, and future implications",
+        "Just the informed consent form, as this document contains all necessary information about the procedure",
+        "Only complications that occurred, as routine stabilization procedures do not require documentation if uneventful"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26345,
+      question: "Which technique involves verbally explaining procedures, demonstrating them in a nonthreatening way, then completing the procedure?",
+      options: [
+        "Voice control, which provides deliberate alterations of voice volume, tone, or pace to influence patient behavior",
+        "Direct observation, which shows the patient a video or permits observation of another patient undergoing treatment",
+        "Tell-show-do, which involves explaining, demonstrating, and then completing procedures without deviating from demonstration",
+        "Positive pre-visit imagery, which shows the patient positive images of dentistry in the waiting area before appointments"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26346,
+      question: "What strategy would be MOST helpful for assessing this patient's grip strength?",
+      options: [
+        "Having the patient hold various prescription medications to determine if they can manage their own healthcare independently",
+        "Having the patient grasp various sizes of foam cylinders and retain finger closure for an extended length of time",
+        "Observing the patient write their signature on forms to assess fine motor control and coordination abilities",
+        "Asking the patient to describe their grip strength verbally without any physical demonstration or testing"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26347,
+      question: "What can the dental hygienist do to reduce the risk of muscle spasms during wheelchair transfers?",
+      options: [
+        "Transfer the patient as quickly as possible without warning to minimize the time muscles are in motion",
+        "Place supportive pillows or beanbags to provide support and use stress reduction protocols before transfer",
+        "Avoid using any assistive devices, as they increase anxiety and contribute to more frequent muscle spasms",
+        "Schedule appointments early in the morning only, as muscle spasms never occur before 10:00 AM"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26348,
+      question: "What should the dental hygienist do to prevent pressure injuries during the extended appointment?",
+      options: [
+        "Keep the patient in the same position throughout the appointment, as movement increases the risk of new injuries",
+        "Discuss presence of pressure injuries during health history, avoid positioning on affected areas, and reposition every 20 minutes",
+        "Apply heavy pressure to insensate areas to stimulate circulation and prevent development of new pressure injuries",
+        "Refuse to treat the patient until all existing pressure injuries are completely healed to avoid liability concerns"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26349,
+      question: "When preparing for wheelchair transfer, at what height should the dental chair be positioned relative to the wheelchair?",
+      options: [
+        "The dental chair should be significantly higher than wheelchair to allow patient to step up during transfer process",
+        "The dental chair should be at the same height or slightly lower than wheelchair to accommodate weight and minimize strength needed",
+        "The dental chair should be at its highest position regardless of wheelchair height to facilitate clinician access",
+        "The dental chair should be at its lowest position touching the floor to prevent any possibility of patient falling"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26350,
+      question: "Which body mechanics should the dental hygienist use during the transfer to prevent back injury?",
+      options: [
+        "Keep feet together for stability, bend at the waist instead of knees, and twist the back while lifting the patient",
+        "Separate feet for balance, bend knees, keep back straight and slightly forward at waist, lift with legs using stand-pivot-sit method",
+        "Stand with feet together, keep legs straight and locked, bend forward at waist with rounded back to reach patient",
+        "Position feet in narrow stance, hyperextend the back during lift, and rotate the spine while moving the patient"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26351,
+      question: "What precautionary step should the dental hygienist take during the transfer?",
+      options: [
+        "Remove the catheter and collection bag before transfer, as these devices should never remain in place during dental appointments",
+        "Inquire about use of assistive bowel and bladder devices and take precautionary steps to prevent dislodgement during transfer",
+        "Ignore the presence of the catheter completely, as urinary devices have no relevance to dental care or transfers",
+        "Refuse to transfer the patient and provide all dental care in the wheelchair to avoid any contact with medical devices"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26352,
+      question: "What is the correct placement of a sliding board during wheelchair transfer?",
+      options: [
+        "Place sliding board vertically between patient's back and wheelchair to provide lumbar support during transfer process",
+        "Place one end of sliding board underneath patient's thighs and the other end across the dental chair to allow sliding",
+        "Place sliding board on the floor between wheelchair and dental chair for patient to slide their feet across during transfer",
+        "Place sliding board across patient's lap horizontally to provide a surface for patient to rest arms during the transfer"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26353,
+      question: "Where should the dental hygienist's knees or thighs be positioned during the lift?",
+      options: [
+        "Behind the patient's back to provide support and prevent the patient from falling backward during the lifting process",
+        "At the sides of patient's hips to stabilize the pelvis and prevent lateral movement during the transfer",
+        "Closed on patient's knees to support and stabilize the patient's leg, allowing patient to bear some weight during lift",
+        "Extended straight without any contact with patient to maintain maximum distance and prevent injury to clinician"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26354,
+      question: "What should the dental hygienist do immediately after lifting the patient off the wheelchair seat?",
+      options: [
+        "Immediately release the transfer belt and step away to allow the patient to complete the transfer independently",
+        "Stand still in place without moving until the patient indicates they are ready to be moved toward the dental chair",
+        "Pivot on the foot closer to dental chair and maneuver patient over the seat, then lower patient by bending at knees",
+        "Twist the back and shoulders while keeping feet planted to rotate the patient toward the dental chair"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26355,
+      question: "Who should coordinate the lift signal during a two-person wheelchair transfer?",
+      options: [
+        "The person supporting the patient's legs should coordinate because they can see the dental chair clearly",
+        "The person supporting the patient's torso should coordinate because they are lifting the most weight",
+        "The dental assistant should coordinate from across the room to provide objective oversight of transfer",
+        "The patient should coordinate the lift signal because they know best when they are ready to move"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26356,
+      question: "What is the MOST appropriate way to provide dental hygiene care for this patient?",
+      options: [
+        "Refuse to treat the patient until they can be transferred to the dental chair, as dental care cannot be provided in wheelchairs",
+        "Provide care with patient remaining in wheelchair positioned alongside or behind dental chair, using portable headrest or chair's headrest",
+        "Refer the patient to a hospital operating room, as this is the only setting where patients in wheelchairs can receive dental care",
+        "Schedule the appointment for 15 minutes or less, as extended care cannot be safely delivered to patients in wheelchairs"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26357,
+      question: "How can the dental hygienist provide adequate head support for this patient during care?",
+      options: [
+        "Have the patient hold their own head up throughout treatment without any additional support or assistance",
+        "Use a portable headrest or turn wheelchair around so patient's head leans back against dental chair's headrest",
+        "Position patient's head hanging forward toward chest throughout appointment to maintain stability and prevent movement",
+        "Have another staff member manually hold patient's head in position for the entire duration of dental hygiene treatment"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26358,
+      question: "What is the MOST important assessment for this patient regarding oral self-care?",
+      options: [
+        "Assessing the patient's range of motion and grip strength to determine which assistive devices to recommend for independent care",
+        "Conducting caregiver interviews to assess willingness to provide daily care, determine skill level, provide instruction, and address concerns",
+        "Evaluating the patient's cognitive application to ensure they can learn proper brushing technique with minimal assistance",
+        "Testing the patient's skill level by watching them simulate brushing to determine what they can accomplish with ease"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26359,
+      question: "What type of protective stabilization involves physical immobilization by another person such as a parent or healthcare professional?",
+      options: [
+        "Active stabilization, which involves physical immobilization by another person during the procedure",
+        "Passive stabilization, which involves using an immobilization device such as a papoose board",
+        "Restrictive stabilization, which involves using chemical sedation to reduce patient movement",
+        "Preventive stabilization, which involves behavior modification techniques without any physical restriction"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26360,
+      question: "What type of protective stabilization does a papoose board represent?",
+      options: [
+        "Active stabilization involving physical immobilization by another person such as parent or healthcare professional",
+        "Passive stabilization involving use of an immobilization device rather than physical restraint by people",
+        "Voluntary stabilization involving patient's conscious decision to limit their own movements during procedure",
+        "Chemical stabilization involving use of medications to sedate the patient and reduce movement"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26361,
+      question: "Why is it critical to inspect for mobile teeth before using a mouth prop?",
+      options: [
+        "Mobile teeth increase revenue opportunities because they can be extracted during the same appointment for additional fees",
+        "Mobile teeth indicate excellent oral hygiene and suggest the patient does not need mouth prop assistance during treatment",
+        "Mobile teeth increase aspiration-related risks if the mouth prop inadvertently dislodges a tooth during use",
+        "Mobile teeth prevent proper mouth prop placement and make it impossible to use the device safely in any situation"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26362,
+      question: "What special precaution should be taken when using protective stabilization devices on patients prone to seizures?",
+      options: [
+        "Apply protective stabilization devices as tightly as possible to prevent any movement if a seizure occurs during treatment",
+        "Never remove protective stabilization devices regardless of patient status, as this would violate protocol standards",
+        "Use protective stabilization with caution and remove immobilization devices quickly in the event of seizure onset",
+        "Protective stabilization is absolutely contraindicated in all patients with seizure disorders under any circumstances"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26363,
+      question: "Who should ideally hold and control the mouth prop during dental hygiene treatment?",
+      options: [
+        "The primary healthcare professional delivering treatment, as this provides the best control and visibility of the oral cavity",
+        "The assisting healthcare professional, not the primary healthcare professional delivering the dental hygiene care",
+        "The patient should hold their own mouth prop throughout treatment to promote independence and cooperation",
+        "The parent or caregiver should hold the mouth prop since they know the patient best and can anticipate movements"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26364,
+      question: "What does establishing a \"double fulcrum\" mean when using a mouth prop?",
+      options: [
+        "Using two mouth props simultaneously, one on each side of the mouth to provide bilateral support during treatment",
+        "Having two different healthcare professionals each hold one end of the mouth prop for stability and control",
+        "Placing ring finger on mandibular anterior gingiva (first fulcrum) and pinky on patient's chin (second fulcrum) while holding prop",
+        "Using the mouth prop to create two pressure points on maxillary and mandibular teeth simultaneously during procedure"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26365,
+      question: "Which behavioral guidance technique shows the patient a video or permits them to observe a cooperative patient receiving treatment?",
+      options: [
+        "Tell-show-do technique, which verbally explains and demonstrates procedures before completing them",
+        "Direct observation technique, which shows videos or permits observation of cooperative patients undergoing treatment",
+        "Positive reinforcement technique, which rewards desired behaviors to strengthen likelihood of recurrence",
+        "Voice control technique, which uses deliberate alterations in voice volume and tone to influence behavior"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26366,
+      question: "Which technique involves giving the patient a short break during a stressful procedure before considering more advanced techniques?",
+      options: [
+        "Voice control, which provides deliberate alterations of voice volume and tone to influence patient behavior",
+        "Distraction, which diverts patient's attention from unpleasant procedures and includes short breaks during stressful procedures",
+        "Memory restructuring, which restructures memories of negative events into positive memories after the event occurs",
+        "Protective stabilization, which immobilizes or reduces patient's ability to move arms, legs, body, or head"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26367,
+      question: "Which behavioral guidance technique emphasizes specific cooperative behaviors rather than generalized praise?",
+      options: [
+        "Nonverbal communication, which provides reinforcement through appropriate contact, posture, and facial expression",
+        "Positive pre-visit imagery, which shows positive images of dentistry before appointments to reduce anxiety",
+        "Descriptive praise, which emphasizes specific behaviors such as \"Thank you for sitting still\" rather than generalized praise",
+        "Tell-show-do technique, which explains and demonstrates procedures before completing them without deviation"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26368,
+      question: "How should the patient be positioned to reduce aspiration risk during dental hygiene treatment?",
+      options: [
+        "In a fully supine position with head lower than feet to facilitate drainage of fluids away from the airway",
+        "In a sitting position or as close to upright as possible, using semi-inclined position to prevent aspiration",
+        "In a Trendelenburg position with head tilted down 15-20 degrees below the horizontal plane of the body",
+        "In a side-lying lateral position throughout treatment to allow fluids to drain out of the corner of mouth"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26369,
+      question: "What alternative method can be used instead of the air-water syringe for patients with increased aspiration risk?",
+      options: [
+        "Increase water pressure and flow rate to quickly flush debris before patient can aspirate materials into airway",
+        "Use wet gauze as towelettes to cleanse the oral cavity of debris rather than using air-water syringe",
+        "Skip all rinsing procedures entirely and leave all debris and calculus in the mouth to avoid aspiration",
+        "Use air only without any water to dry the mouth completely, eliminating all moisture to prevent aspiration"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26370,
+      question: "How can the dental hygienist provide additional head support and stabilization during care?",
+      options: [
+        "Have the patient hold their own head steady without any assistance from the clinician throughout the appointment",
+        "Wrap nondominant arm around patient's head and firmly under patient's chin for stabilization, placing pillows or rolls on sides of head",
+        "Position patient's head hanging off the end of the dental chair to provide natural stabilization through gravity",
+        "Instruct patient to turn head constantly from side to side throughout treatment to prevent muscle fatigue and stiffness"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26371,
+      question: "What assistive equipment can provide additional support for patients with unstable joints and limbs during dental treatment?",
+      options: [
+        "Metal restraints attached to the dental chair arms to prevent any movement of extremities during treatment procedures",
+        "Beanbag chairs or cushions placed in dental chair to provide support and minimize pressure injuries for patients with paralysis",
+        "Elastic bands wrapped tightly around all joints to immobilize them completely and prevent any movement during care",
+        "Wooden boards placed under the patient to create a rigid flat surface that eliminates all cushioning and support"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26372,
+      question: "What should the dental hygienist do with the patient's specialized wheelchair cushion during the appointment?",
+      options: [
+        "Leave the cushion in the wheelchair, as patients should never have personal items with them in the dental chair",
+        "Transfer any special padding underneath patient from wheelchair to dental chair to help with patient comfort throughout appointment",
+        "Discard the cushion as it is contaminated from wheelchair use and cannot be safely used in the dental environment",
+        "Store the cushion in a separate room away from the patient to prevent cross-contamination during dental procedures"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26373,
+      question: "What is an essential safety step before beginning any wheelchair transfer?",
+      options: [
+        "Remove wheelchair brakes to allow easy movement during transfer and prevent the chair from being too stable",
+        "Ensure wheelchair locks into position and check nearby area for sharp edges, hazards, obstacles, or cords that could cause injury",
+        "Position dental chair at its highest elevation to create maximum distance between wheelchair and chair during transfer",
+        "Have patient stand up and walk around the operatory first to demonstrate they are capable of ambulating independently"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26374,
+      question: "What is the BEST course of action for this patient?",
+      options: [
+        "Refuse treatment and reschedule for another day when the patient has more energy and can transfer to dental chair",
+        "Force the transfer despite patient's fatigue, as dental care can only be delivered with patient in the dental chair",
+        "Provide dental care with patient remaining in wheelchair, as some patients may be too tired or weak to transfer",
+        "Call emergency medical services to transport patient to hospital for treatment, as this is the only safe alternative"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26375,
+      question: "What is the unique feature of the Plak-Vac Oral Suction Toothbrush?",
+      options: [
+        "It is a standard toothbrush that must be used without any suction or water to prevent aspiration in patients",
+        "It is a uniquely designed toothbrush that can be connected to bedside or portable suction devices during use",
+        "It is an electric toothbrush with a built-in water reservoir that automatically dispenses water during brushing",
+        "It is a manual toothbrush with an extended handle designed exclusively for use by caregivers on bedridden patients"
+      ],
+      correct: "B"
+    }
+  ],
+  "7. Intellectual and Developmental Disabilities (Case Study)": [
+    {
+      id: 26376,
+      question: "Based on the IQ level and functional abilities, what level of intellectual disability does this patient have?",
+      options: [
+        "Mild intellectual disability with IQ 50-69, representing approximately 85% of the ID population",
+        "Moderate intellectual disability with IQ 36-49, capable of learning self-care and social adjustment",
+        "Severe intellectual disability with IQ 20-35, requiring elementary self-care training with supervision",
+        "Profound intellectual disability with IQ less than 20, requiring continual supervision and total care"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26377,
+      question: "What level of intellectual disability does this patient have, and what teaching approach is MOST appropriate?",
+      options: [
+        "Mild ID; explain and demonstrate oral hygiene instructions, teach activities instead of concepts, provide recognition and rewards",
+        "Moderate ID; teach only fundamental skills via show-and-tell method, provide tangible rewards after every step",
+        "Severe ID; use habit training by repeating procedures continuously, include caregiver in all instruction",
+        "Profound ID; provide all education to caregiver only, as patient is incapable of learning any self-care"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26378,
+      question: "What is the MOST appropriate teaching method for this patient?",
+      options: [
+        "Teach detailed oral hygiene concepts using written instructions and expect independent performance",
+        "Use habit training by repeating procedures continuously, set realistic goals, and include caregiver in teaching",
+        "Provide education only to caregiver, as patient cannot acquire any oral care behaviors whatsoever",
+        "Teach complex interdental cleaning techniques first, then progress to basic brushing skills"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26379,
+      question: "Who should receive the oral hygiene education for this patient?",
+      options: [
+        "The patient only, using simplified language and demonstrations until they master all techniques independently",
+        "Both patient and caregiver equally, as they will share responsibility for performing all oral hygiene procedures",
+        "The caregiver, who is responsible for the patient's general and oral hygiene care and performs daily regimen",
+        "The group home staff only, as they are legally responsible for all medical and dental care decisions"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26380,
+      question: "Which prenatal infection-related dental manifestations might be observed in this patient?",
+      options: [
+        "Microdontia, congenitally missing teeth, and delayed eruption patterns from developmental abnormalities",
+        "Hutchinson incisors, mulberry molars, and microdontia as dental-related signs of prenatal infections",
+        "Enamel hypoplasia, tetracycline staining, and shortened roots from postnatal antibiotic therapy",
+        "Fissured tongue, enlarged circumvallate papillae, and tongue thrust from medication side effects"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26381,
+      question: "What term describes these behaviors, and what is their significance?",
+      options: [
+        "Adaptive behaviors that help the patient cope with stress and should be encouraged during appointments",
+        "Self-injurious behaviors (SIBs) that may intimidate caregivers and can make the patient difficult to manage",
+        "Attention-seeking behaviors that indicate the patient is bored and needs more stimulating activities",
+        "Communication behaviors that represent the patient's only way to express needs and should be interpreted"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26382,
+      question: "What is the MOST commonly used behavioral treatment for self-injurious behavior?",
+      options: [
+        "Physical restraint using papoose board immediately upon any sign of self-injurious behavior",
+        "Differential reinforcement of another behavior, giving patient something to hold or assemble with hands",
+        "Ignoring all behaviors completely throughout appointment without any acknowledgment or response",
+        "Immediate sedation with pharmacologic agents at the first indication of any self-injurious behavior"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26383,
+      question: "What is the MOST likely cause of this tooth surface abrasion?",
+      options: [
+        "Aggressive toothbrushing with hard-bristled brush and abrasive dentifrice applied with excessive pressure",
+        "Dietary erosion from frequent consumption of acidic beverages and citrus fruits throughout the day",
+        "Bruxism linked to anxiety and emotional distress, which increases with age and can cause attrition",
+        "Congenital enamel defects that cause teeth to be softer and wear more easily than normal enamel"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26384,
+      question: "Which factors contribute to the high prevalence of periodontal disease and dental caries in patients with intellectual disabilities?",
+      options: [
+        "Genetic predisposition only, as oral hygiene and access to care have no impact on disease development",
+        "Lack of professional care, limited funds, host susceptibility, poor oral hygiene, and caregiver oral health knowledge",
+        "Excessive fluoride exposure during childhood causing fluorosis, which increases susceptibility to disease",
+        "Normal aging process that affects all individuals equally regardless of disability status or care received"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26385,
+      question: "What percentage of the world population is diagnosed with intellectual disability?",
+      options: [
+        "Less than 1% to 3% of the world population, representing a very small fraction of global population",
+        "Approximately 10% to 15% of the world population, representing a moderate portion of global population",
+        "Approximately 25% to 30% of the world population, representing a significant portion of global population",
+        "More than 50% of the world population, representing the majority of individuals worldwide"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26386,
+      question: "Which prenatal factors can cause intellectual disabilities in the developing fetus?",
+      options: [
+        "Only genetic factors present at conception, as environmental factors have no impact on fetal development",
+        "Infections like rubella and HIV, drug/alcohol consumption, poor nutrition, hypertension, diabetes, and irradiation",
+        "Exclusively nutritional deficiencies, as maternal infections cannot cross the placental barrier to affect fetus",
+        "Postnatal factors only, as intellectual disabilities cannot develop until after the baby is born"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26387,
+      question: "During which period did this patient's intellectual disability most likely develop?",
+      options: [
+        "Prenatal period (32% of IDs), which includes time before birth when infections or maternal factors cause disabilities",
+        "Perinatal period (11% of IDs), which includes time immediately before, during, and after birth with complications",
+        "Postnatal period (4% of IDs), which includes time after birth when brain infections or trauma occurs",
+        "Genetic period at conception, which includes chromosomal disturbances and metabolic disorders evident from conception"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26388,
+      question: "What causes fragile X syndrome, and what is its significance?",
+      options: [
+        "Fragile X results from prenatal infections and is the least common type of ID due to environmental factors",
+        "Fragile X results from perinatal hypoxemia and represents a rare form of acquired intellectual disability",
+        "Fragile X results from changes in fragile X messenger ribonucleoprotein gene and is the most common genetic cause of ID",
+        "Fragile X results from postnatal brain trauma and represents a preventable cause of intellectual disability"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26389,
+      question: "What causes intellectual disability in phenylketonuria?",
+      options: [
+        "Abnormal accumulation of phenylalanine that is toxic to the brain, requiring strict dietary management",
+        "Deletion of part of chromosome 15 causing behavior issues and short stature along with intellectual disability",
+        "Toxic accumulation of bilirubin in the brain from blood incompatibilities during the perinatal period",
+        "Dietary protein deficiency during postnatal development that prevents normal brain growth and function"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26390,
+      question: "Approximately what percentage of intellectual disabilities occur during the prenatal period?",
+      options: [
+        "Approximately 4% of IDs occur prenatally, making it the least common period for ID development",
+        "Approximately 11% of IDs occur prenatally, making it less common than perinatal causes",
+        "Approximately 32% of IDs occur prenatally, making it the most common period for ID development",
+        "Approximately 85% of IDs occur prenatally, representing the vast majority of all intellectual disabilities"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26391,
+      question: "What causes trisomy 21, and how common is it among individuals with Down syndrome?",
+      options: [
+        "Trisomy 21 results from translocation of chromosome 21 to another chromosome and occurs in 95% of cases",
+        "Trisomy 21 results from mosaicism error in first cell divisions after conception and occurs in 95% of cases",
+        "Trisomy 21 results from failure of chromosome 21 pair to segregate during egg or sperm formation and occurs in 95% of cases",
+        "Trisomy 21 results from deletion of part of chromosome 21 during fetal development and occurs in 95% of cases"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26392,
+      question: "What is the relationship between maternal age and Down syndrome incidence?",
+      options: [
+        "Down syndrome incidence decreases with increased maternal age, with lowest rates in mothers over 40 years",
+        "Down syndrome incidence is correlated with increased maternal age; however, 51% are born to mothers under 35 due to high fertility rates",
+        "Down syndrome only occurs in mothers over 40 years of age and never occurs in younger mothers",
+        "Maternal age has no relationship to Down syndrome incidence, as it is purely a random genetic occurrence"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26393,
+      question: "What characteristic of Down syndrome contributes to the high incidence of ear problems and hearing loss?",
+      options: [
+        "Enlarged tongue and mandibular prognathism that create pressure changes affecting the auditory canal",
+        "Anatomic predispositions including small ear canals and persistent middle ear fluid from chronic infections",
+        "Medication side effects from seizure medications that damage auditory nerves over time",
+        "Excessive cerumen production from thyroid disorders that block the ear canal and prevent sound transmission"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26394,
+      question: "What causes the appearance of tongue enlargement in patients with Down syndrome?",
+      options: [
+        "The tongue is actually enlarged due to hypertrophy of tongue muscles from chronic tongue thrusting behaviors",
+        "The tongue appears enlarged due to underdeveloped maxilla, mandibular prognathism, narrow palate, and enlarged tonsils creating small oral space",
+        "The tongue is swollen from undiagnosed hypothyroidism that causes fluid retention in all soft tissues",
+        "The tongue appears large due to atrophied jaw muscles that cannot support the mandible in proper position"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26395,
+      question: "What oral hygiene recommendations are MOST appropriate for this patient?",
+      options: [
+        "Avoid all tongue cleaning, as it will damage the papillae and cause bleeding and pain",
+        "Perform tongue brushing and use ADA-accepted antimicrobial dentifrice and mouth rinse to reduce biofilm, gingivitis, and halitosis",
+        "Use only water for oral care, as all dentifrices and mouth rinses cause irritation to fissured tongues",
+        "Apply topical anesthetic before every meal to numb the tongue and reduce discomfort from eating"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26396,
+      question: "What percentage of older individuals with Down syndrome have thyroid disorders?",
+      options: [
+        "As many as 5% of older individuals with Down syndrome have thyroid disorders",
+        "As many as 24% of older individuals with Down syndrome have thyroid disorders",
+        "As many as 50% of older individuals with Down syndrome have thyroid disorders",
+        "As many as 75% of older individuals with Down syndrome have thyroid disorders"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26397,
+      question: "What is the MOST common serious medical condition among persons with Down syndrome?",
+      options: [
+        "Thyroid disorders affecting growth and development, occurring in all individuals with Down syndrome",
+        "Seizure disorders requiring lifelong medication management, occurring in majority of individuals",
+        "Congenital heart disease, present in 40-60% of children and major cause of mortality in first 2 years",
+        "Alzheimer disease beginning in childhood, affecting all individuals with Down syndrome by age 10"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26398,
+      question: "Which cardiac conditions in patients with Down syndrome require antibiotic prophylaxis according to current guidelines?",
+      options: [
+        "All congenital heart defects require prophylactic antibiotics regardless of type or severity of defect",
+        "Only cardiac conditions associated with highest risk of adverse outcomes from endocarditis require prophylaxis",
+        "No cardiac conditions require prophylaxis, as current guidelines eliminated this requirement for all patients",
+        "Only patients who have already had endocarditis in the past require prophylactic antibiotic coverage"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26399,
+      question: "What is atlantoaxial instability, and what percentage of individuals with Down syndrome are affected?",
+      options: [
+        "Abnormal increase in mobility between first two cervical vertebrae, found in 10-20% of younger individuals with Down syndrome",
+        "Decreased mobility of all cervical vertebrae causing complete neck rigidity, found in 50-60% of individuals",
+        "Curvature of the spine that affects the thoracic and lumbar regions, found in 80-90% of individuals",
+        "Excessive external hip rotation and abduction causing gait problems, found in all individuals with Down syndrome"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26400,
+      question: "What is the relationship between phenytoin and gingival enlargement in patients with Down syndrome?",
+      options: [
+        "Phenytoin causes gingival enlargement regardless of oral hygiene, and oral care has no impact on severity",
+        "Effective oral biofilm control reduces extent of drug-influenced gingival enlargement, so daily self-care must be effective before using medication",
+        "Phenytoin prevents gingival enlargement, so patients taking this medication have healthier gingiva than those not taking it",
+        "Gingival enlargement from phenytoin only occurs in patients without Down syndrome and never in those with it"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26401,
+      question: "What is the incidence of congenitally missing permanent teeth in persons with Down syndrome compared to the general population?",
+      options: [
+        "Congenitally missing teeth occur less frequently in Down syndrome (1-5%) compared to general population",
+        "Congenitally missing teeth occur at the same rate in Down syndrome as in the general population",
+        "Congenitally missing teeth occur at a significantly higher rate in Down syndrome (25-50%) compared to general population",
+        "All individuals with Down syndrome have congenitally missing teeth, representing 100% of this population"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26402,
+      question: "Which maxillary teeth are MOST frequently reduced in size in patients with Down syndrome?",
+      options: [
+        "Central incisors and canines, which are reduced in approximately 25% of individuals",
+        "First molars and lateral incisors, which are never affected by size reduction in any patients",
+        "Second molars (52%), lateral incisors (42%), canines (41%), first molars (40%), and central incisors (35%)",
+        "All maxillary teeth are equally affected by microdontia in 100% of patients with Down syndrome"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26403,
+      question: "At what age does periodontal disease typically begin in individuals with Down syndrome?",
+      options: [
+        "Periodontal disease begins as early as age 6 years in these individuals, with nearly all adults affected",
+        "Periodontal disease begins at age 18 years, which is the same as the general population",
+        "Periodontal disease begins at age 40 years, affecting only elderly individuals with Down syndrome",
+        "Periodontal disease never occurs in individuals with Down syndrome due to genetic protection"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26404,
+      question: "What is the PRIMARY cause of high incidence of periodontal disease in individuals with Down syndrome?",
+      options: [
+        "Poor oral hygiene alone, as immunologic factors play no role in periodontal disease development",
+        "Immunodeficiency and impaired host defense rather than poor oral hygiene alone, though hygiene contributes",
+        "Excessive fluoride exposure during childhood causing enamel defects that promote bacterial accumulation",
+        "Genetic factors that cause gingival tissue to spontaneously break down regardless of bacteria or hygiene"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26405,
+      question: "What percentage of persons with Down syndrome have obstructive sleep apnea?",
+      options: [
+        "Approximately 5% of persons with Down syndrome have obstructive sleep apnea",
+        "Approximately 15% of persons with Down syndrome have obstructive sleep apnea",
+        "Approximately 45% of persons with Down syndrome have obstructive sleep apnea",
+        "Approximately 85% of persons with Down syndrome have obstructive sleep apnea"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26406,
+      question: "How does obstructive sleep apnea affect patients with Down syndrome who also have heart disease?",
+      options: [
+        "Sleep apnea has no effect on cardiac conditions, as these are completely separate and unrelated problems",
+        "Low blood oxygenation from apnea causes increased lung blood pressure, enlarging right heart and causing cardiac complications",
+        "Sleep apnea improves cardiac conditions by allowing the heart to rest during periods of apnea",
+        "Sleep apnea only affects the brain and has no impact on any other organs including the heart"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26407,
+      question: "What is the relationship between Alzheimer disease and Down syndrome in adults?",
+      options: [
+        "Alzheimer disease never occurs in individuals with Down syndrome due to genetic protection factors",
+        "Neuropathologic changes of Alzheimer disease appear almost universal in adults with Down syndrome over age 40, though not all show behavioral signs",
+        "Alzheimer disease only occurs in individuals with Down syndrome who have severe intellectual disability",
+        "All individuals with Down syndrome develop clinical Alzheimer disease by age 30 with complete memory loss"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26408,
+      question: "What is the typical behavioral characteristic of persons with Down syndrome?",
+      options: [
+        "Generally aggressive and violent, requiring restraint and sedation for all dental procedures",
+        "Generally content and affectionate, but can become aggressive if confused or disoriented",
+        "Always completely uncooperative, making dental treatment impossible under any circumstances",
+        "Always hyperactive with inability to sit still, requiring constant physical restraint throughout appointments"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26409,
+      question: "What should guide the dental hygienist's treatment planning approach for this patient?",
+      options: [
+        "Provide minimal treatment only, as patients with Down syndrome cannot tolerate or benefit from extensive care",
+        "Assess patient's tolerance for extensive treatment and provide same treatment options as patients without Down syndrome, adapting as needed",
+        "Refer patient to hospital for general anesthesia, as this is the only setting where patients with Down syndrome can receive care",
+        "Provide only emergency care to relieve pain, as comprehensive treatment is contraindicated for all patients with Down syndrome"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26410,
+      question: "According to the DSM-5, what criteria must be present for a diagnosis of autism spectrum disorder?",
+      options: [
+        "Only communication difficulties, as social interaction and behavior patterns are not relevant to diagnosis",
+        "Developmental deficits in communication/interaction with others, restricted interests/repetitive behaviors, and symptoms affecting function in school/work/life",
+        "Only repetitive behaviors and restricted interests, as communication skills are always normal in autism",
+        "Symptoms must begin after age 10 years and only affect academic performance in school settings"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26411,
+      question: "What is the current prevalence of autism spectrum disorders according to the CDC?",
+      options: [
+        "1 in every 1000 eight-year-old children in the United States",
+        "1 in every 500 eight-year-old children in the United States",
+        "1 in every 150 eight-year-old children in the United States",
+        "1 in every 44 eight-year-old children in the United States"
+      ],
+      correct: "D"
+    },
+    {
+      id: 26412,
+      question: "What is the gender distribution of autism spectrum disorders?",
+      options: [
+        "Females have approximately four times higher incidence of ASD than males",
+        "Males have approximately four times higher incidence of ASD than females",
+        "Males and females have exactly equal incidence of ASD with no gender differences",
+        "ASD only occurs in males and never occurs in females under any circumstances"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26413,
+      question: "Which form of autism spectrum disorder does this child MOST likely have?",
+      options: [
+        "Autistic disorder (classic autism), the most severe form with difficulty talking and relating to others",
+        "Asperger syndrome, a mild form with impaired social interactions without significant language or cognitive problems",
+        "Rett syndrome, a rare form found almost exclusively in females with poor head growth",
+        "Childhood disintegrative disorder, developing after 2 years of normal development with dramatic loss of skills"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26414,
+      question: "Which form of autism spectrum disorder does this patient MOST likely have?",
+      options: [
+        "Asperger syndrome, characterized by social awkwardness without significant developmental regression",
+        "Autistic disorder, characterized by lifelong communication difficulties without any period of normal development",
+        "Rett syndrome, a rare form found almost exclusively in females with regression after normal development",
+        "Pervasive developmental disorder not otherwise specified, with mild symptoms that don't meet other criteria"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26415,
+      question: "What is risperidone, and what is its purpose in treating autism spectrum disorder?",
+      options: [
+        "Risperidone is a stimulant medication like methylphenidate used to increase attention and focus",
+        "Risperidone is an anticonvulsant medication like phenytoin used to prevent seizures in all patients",
+        "Risperidone is an antipsychotic medication used to improve behavior, though it cannot treat all ASD symptoms",
+        "Risperidone is an antidepressant medication used to cure autism spectrum disorder completely"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26416,
+      question: "At what age can ASD symptoms typically be realized, and when can a reliable diagnosis be made?",
+      options: [
+        "Symptoms realized by 6 months of age; reliable diagnosis can be made at birth through genetic testing",
+        "Symptoms realized by 18 months of age; reliable diagnosis can be made by age 2 by medical professional",
+        "Symptoms realized by 5 years of age; reliable diagnosis cannot be made until child enters school",
+        "Symptoms realized by 10 years of age; reliable diagnosis requires waiting until adolescence for confirmation"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26417,
+      question: "What is the first characteristic sign of autism spectrum disorder?",
+      options: [
+        "Excessive crying and screaming beginning immediately at birth in the hospital nursery",
+        "Few or no big smiles or other warm, joyful, engaging expressions by 6 months of age",
+        "Delayed motor milestones such as rolling over, sitting up, and crawling by 12 months",
+        "Aggressive behaviors toward parents and caregivers beginning at 3 months of age"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26418,
+      question: "What term describes this communication pattern observed in children with autism?",
+      options: [
+        "Expressive aphasia, representing inability to formulate original thoughts or sentences in response to questions",
+        "Echolalia, meaninglessly imitating what they hear as memory exercise without use for communication",
+        "Receptive aphasia, representing inability to understand spoken language or comprehend verbal instructions",
+        "Selective mutism, representing conscious choice not to speak in certain situations due to anxiety"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26419,
+      question: "A 6-year-old patient with autism spectrum disorder has language skills but uses pronouns incorrectly. When the child wants milk, they say \"Do you want your milk?\" instead of \"I want milk.\" What characteristic of autism does this language pattern represent?",
+      options: [
+        "Children with autism slowly learn to use first person for self and second person for others around age 6",
+        "This represents normal language development that occurs in all children regardless of autism diagnosis",
+        "This indicates severe cognitive impairment requiring immediate referral to speech pathology for evaluation",
+        "This language pattern never changes, and individuals with autism always use pronouns incorrectly throughout life"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26420,
+      question: "What characteristic of autism does this behavior represent?",
+      options: [
+        "Oppositional defiant disorder requiring immediate psychiatric intervention and behavior medication",
+        "Normal childhood behavior that occurs in all children when they are placed in unfamiliar situations",
+        "Extreme need for sameness; minor changes in routine or environment cause despair and confusion",
+        "Sign of physical pain indicating the chair position is causing musculoskeletal discomfort and injury"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26421,
+      question: "What characteristic of autism does this behavior represent?",
+      options: [
+        "Children with autism are more interested in objects than people because objects rarely change appearance",
+        "Children with autism prefer people over objects because people provide more stimulation and interaction",
+        "This behavior indicates visual impairment requiring immediate referral to ophthalmology for evaluation",
+        "This is normal behavior for all children and is not specific to autism spectrum disorder diagnosis"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26422,
+      question: "What changes typically occur in children with autism around age 5-6 years?",
+      options: [
+        "All symptoms of autism completely resolve and the child becomes neurotypical with normal social skills",
+        "Language becomes more communicative after experiencing patterns; food is accepted, noises tolerated, and panic tantrums subside",
+        "Symptoms become more severe with complete loss of all communication and social skills previously acquired",
+        "No changes occur at any age, as autism symptoms remain completely static throughout the entire lifespan"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26423,
+      question: "What does this patient's response to the dental environment represent?",
+      options: [
+        "Normal response to dental treatment that occurs in all patients regardless of autism diagnosis",
+        "Sensory overload common in children with ASD, which can lead to aggression, emotional outbursts, and self-injurious behaviors",
+        "Oppositional defiant disorder requiring immediate psychiatric referral and behavior modification medications",
+        "Pain response indicating the dental hygienist is causing physical injury and should stop all treatment immediately"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26424,
+      question: "What is the MOST effective way to condition a child with ASD before the first dental visit?",
+      options: [
+        "Schedule the appointment without any preparation, as advanced notice will increase anxiety and fear",
+        "Have caregiver bring child to office to familiarize with environment; use instructional video clips showing what will happen during visit",
+        "Prescribe sedation medication for first visit, as behavioral conditioning is never effective for children with autism",
+        "Restrain the child immediately upon arrival using papoose board to prevent any behavioral problems during treatment"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26425,
+      question: "Which communication tool is MOST beneficial for children with more severe forms of ASD?",
+      options: [
+        "Verbal explanations only, as visual aids are not helpful for children with autism spectrum disorders",
+        "Picture Exchange Communication System (PECS) with picture cards and social stories to express feelings and understand procedures",
+        "Complex written instructions at college reading level to ensure comprehensive understanding of all procedures",
+        "No communication tools, as children with severe autism cannot understand or participate in any form of communication"
+      ],
+      correct: "B"
+    }
+  ],
+  "8. Orofacial Cleft Conditions (Case Study)": [
+    {
+      id: 26426,
+      question: "What is the ranking of orofacial clefts among congenital disabilities in the United States?",
+      options: [
+        "Orofacial clefts are the first most prevalent congenital disability, affecting approximately 10,000 infants annually",
+        "Orofacial clefts are the second most prevalent congenital disability, affecting approximately 8,000 infants annually",
+        "Orofacial clefts are the third most prevalent congenital disability, affecting approximately 6,000 infants annually",
+        "Orofacial clefts are the fifth most prevalent congenital disability, affecting approximately 4,000 infants annually"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26427,
+      question: "What is the overall prevalence of orofacial clefts in infants?",
+      options: [
+        "One in 500 infants is affected by an orofacial cleft in the United States",
+        "One in 1000 infants is affected by an orofacial cleft in the United States",
+        "One in 2000 infants is affected by an orofacial cleft in the United States",
+        "One in 5000 infants is affected by an orofacial cleft in the United States"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26428,
+      question: "Which type of orofacial cleft is LEAST common?",
+      options: [
+        "Cleft lip only (1 in 2807 infants), which is less common than clefts involving palate",
+        "Cleft palate only (1 in 1687 infants), which is less common than combined presentations",
+        "Cleft lip with palate (1 in 1563 infants), which is less common than isolated clefts",
+        "All types occur with equal frequency, with no significant difference in prevalence rates"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26429,
+      question: "Which racial or ethnic group has the HIGHEST prevalence of orofacial clefts?",
+      options: [
+        "African Americans or Blacks have the highest prevalence among all racial and ethnic groups",
+        "Non-Hispanic Whites have the highest prevalence, followed by Hispanics and Asian populations",
+        "Non-Hispanic American Indians or Alaska Natives have the highest prevalence of orofacial clefts",
+        "Non-Hispanic Asians or Pacific Islanders have the highest prevalence in the United States"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26430,
+      question: "What is the gender distribution for orofacial clefts involving both lip and palate?",
+      options: [
+        "Females are more likely to exhibit clefts involving both lip and palate than males",
+        "Males are more likely to exhibit clefts involving both lip and palate than females",
+        "Males and females have exactly equal prevalence of clefts involving both structures",
+        "Gender has no relationship to the type or location of orofacial clefts that develop"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26431,
+      question: "What term describes orofacial clefts that occur without other related health problems?",
+      options: [
+        "Syndromic clefts, which indicate the patient has no other congenital disorders or syndromes",
+        "Nonsyndromic (isolated) clefts, which indicate the patient has no other related health problems",
+        "Pierre Robin sequence, which indicates three distinct characteristics including cleft palate only",
+        "Chromosomal clefts, which indicate genetic abnormalities without any physical health problems"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26432,
+      question: "What is this specific presentation of three distinct characteristics called?",
+      options: [
+        "Down syndrome, which is the most common syndrome associated with orofacial clefts",
+        "Treacher Collins syndrome, which always presents with these three characteristic findings",
+        "Pierre Robin sequence, which includes cleft palate, small mandible, and airway obstruction from tongue displacement",
+        "Crouzon syndrome, which is characterized by premature fusion of cranial sutures with clefting"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26433,
+      question: "Which statement BEST describes teratogens in relation to orofacial clefts?",
+      options: [
+        "Teratogens are protective agents that reduce the risk of congenital abnormalities in the fetus",
+        "Teratogens are genetic mutations passed from parents to offspring through chromosomal inheritance",
+        "Teratogens are agents or substances that can cause congenital abnormalities in a developing embryo or fetus",
+        "Teratogens are prenatal vitamins that prevent neural tube defects when taken during pregnancy"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26434,
+      question: "Which environmental factors are known teratogens that increase orofacial cleft risk?",
+      options: [
+        "Only genetic factors increase risk; environmental factors have no impact on orofacial cleft development",
+        "Maternal smoking, alcohol consumption, nutritional deficiencies, diabetes, obesity, and certain medications during pregnancy",
+        "Exclusively nutritional excesses such as high protein intake and excessive vitamin supplementation",
+        "Only medications taken after birth; prenatal exposures do not affect orofacial cleft development"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26435,
+      question: "Which maternal factors are identified as PROTECTIVE and reduce orofacial cleft risk?",
+      options: [
+        "Using WIC program services and being a Medicaid recipient, which indicate lower socioeconomic status",
+        "Maternal education level of bachelor's degree or higher and early prenatal care",
+        "Maternal smoking cessation after first trimester and alcohol consumption in moderation only",
+        "Taking anticonvulsant medications as prescribed and maintaining gestational diabetes with insulin"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26436,
+      question: "During which weeks of fetal development does cleft lip (cheiloschisis) formation occur?",
+      options: [
+        "Cleft lip begins during the fifth week and is complete by the tenth week of pregnancy",
+        "Cleft lip begins during the tenth week and is complete by the fifteenth week of pregnancy",
+        "Cleft lip begins during the first week and is complete by the fifth week of pregnancy",
+        "Cleft lip begins during the fifteenth week and is complete by the twentieth week of pregnancy"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26437,
+      question: "What structure is formed by the fusion of the medial nasal and maxillary processes?",
+      options: [
+        "The uvula at the posterior aspect of the soft palate in the oropharyngeal region",
+        "The hard palate extending from incisive foramen to junction with soft palate posteriorly",
+        "The philtrum, which is the vertical groove in the midline of the upper lip",
+        "The nasal septum, which divides the nasal cavity into right and left chambers"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26438,
+      question: "When does the palate begin to form, and when is it complete during fetal development?",
+      options: [
+        "Palate begins at end of third week and is complete by the eighth week of pregnancy",
+        "Palate begins at end of fifth week and is complete by the twelfth week of pregnancy",
+        "Palate begins at end of tenth week and is complete by the fifteenth week of pregnancy",
+        "Palate begins at end of first week and is complete by the fifth week of pregnancy"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26439,
+      question: "Which factors might prevent fusion of the lateral palatine processes?",
+      options: [
+        "Only genetic factors; anatomic factors cannot affect palatal shelf movement or fusion",
+        "Late horizontal movement of shelves, rupture after fusion, or micrognathia and macroglossia blocking movement",
+        "Exclusively nutritional factors during second trimester; anatomic factors play no role",
+        "Only maternal smoking; other environmental and anatomic factors do not affect fusion"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26440,
+      question: "What type of cleft does this infant have?",
+      options: [
+        "Complete cleft lip, which always extends into nostrils and involves alveolar bone",
+        "Incomplete cleft lip, which is a notch involving philtrum without invading hard structures or nostrils",
+        "Bifid uvula, which represents the mildest form of clefting involving only soft tissue",
+        "Submucosal cleft, which lacks muscle or bone fusion yet soft tissue is present"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26441,
+      question: "What type of cleft does this infant have?",
+      options: [
+        "Incomplete bilateral cleft lip without involvement of any hard structures or bone",
+        "Complete bilateral cleft lip involving alveolar bone and primary palate, extending into nostrils",
+        "Cleft palate only involving secondary palate without any involvement of lip structures",
+        "Bifid uvula representing the least severe form of orofacial clefting possible"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26442,
+      question: "What type of cleft does this patient have?",
+      options: [
+        "Incomplete cleft palate involving only the uvula without any hard or soft palate involvement",
+        "Complete cleft palate involving both anterior and posterior palates, hard and soft palate structures",
+        "Bifid uvula representing a cleft of the uvula only without any other palatal involvement",
+        "Submucosal cleft lacking muscle or bone fusion with intact soft tissue covering the defect"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26443,
+      question: "What type of cleft does this patient have?",
+      options: [
+        "Complete cleft palate involving anterior and posterior palates with significant functional impairment",
+        "Submucosal cleft with lack of muscle or bone fusion but soft tissue coverage",
+        "Bifid uvula, an incomplete cleft palate where cleft of uvula is observed",
+        "Complete bilateral cleft palate with involvement of primary and secondary palates"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26444,
+      question: "What type of cleft does this patient have?",
+      options: [
+        "Bifid uvula with visible cleft of the uvula only without palatal involvement",
+        "Complete cleft palate with full-thickness defect through hard and soft palate",
+        "Submucosal cleft lacking muscle or bone fusion, yet soft tissue is present",
+        "Incomplete unilateral cleft lip with notch involving philtrum without hard structure invasion"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26445,
+      question: "At what age does cleft lip repair (cheiloplasty) typically occur?",
+      options: [
+        "Cleft lip repair occurs within first 12 months, often between 3 and 6 months of age",
+        "Cleft lip repair must wait until age 2 years when facial growth is more stable",
+        "Cleft lip repair occurs immediately after birth within the first week of life",
+        "Cleft lip repair is delayed until age 5 years when child can cooperate with recovery"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26446,
+      question: "At what age does cleft palate closure (palatoplasty) typically occur?",
+      options: [
+        "Palatoplasty occurs within first month of life, immediately after birth for optimal results",
+        "Palatoplasty transpires between 9 and 18 months of age for appropriate timing",
+        "Palatoplasty is delayed until age 5 years when palatal growth is complete",
+        "Palatoplasty occurs between 3 and 6 months, same timing as cleft lip repair"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26447,
+      question: "What does the \"rule of 10\" for elective cleft surgery include?",
+      options: [
+        "10 days of age, 10 ounces in weight, and blood pressure value greater than 10 mmHg",
+        "10 months of age, 10 kilograms in weight, and hemoglobin value greater than 10 g/dL",
+        "10 weeks of age, 10 pounds in weight, and hemoglobin value greater than 10 g/dL",
+        "10 years of age, 10 pounds above ideal weight, and platelet count greater than 10,000"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26448,
+      question: "What type of secondary surgery may be indicated after primary orofacial cleft surgery?",
+      options: [
+        "Cardiac surgery to correct congenital heart defects that always accompany orofacial clefts",
+        "Orthognathic surgery to correct jaw and face relationships, sometimes with orthodontic treatment",
+        "Neurological surgery to address developmental delays that always result from cleft repairs",
+        "Pulmonary surgery to correct respiratory problems that universally occur after cleft surgery"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26449,
+      question: "Which specialists are part of the interprofessional team managing orofacial clefts?",
+      options: [
+        "Only plastic surgeon and pediatrician, as other specialists are not needed for cleft management",
+        "Plastic surgeon, pediatrician, pediatric dentist, orthodontist, speech pathologist, psychologist, otolaryngologist, social worker, oral surgeon, geneticist, audiologist, prosthodontist, sociologist",
+        "Only dental specialists including pediatric dentist, orthodontist, and prosthodontist for oral care",
+        "Exclusively medical specialists; dental professionals are not involved in interprofessional cleft teams"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26450,
+      question: "What is the PRIMARY reason infants with cleft palate have feeding difficulties?",
+      options: [
+        "Infants have abnormal sucking and swallowing reflexes that prevent any oral feeding attempts",
+        "Infants have difficulty producing negative pressure needed to suck milk due to underdeveloped or improperly oriented musculature",
+        "Infants refuse to eat due to pain from the cleft defect in the palate",
+        "Infants have esophageal abnormalities that prevent swallowing of any liquids or solids"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26451,
+      question: "What feeding intervention would be MOST helpful for an infant with cleft palate?",
+      options: [
+        "Continue using rigid bottle with standard nipple, as this is the only safe feeding method",
+        "Use squeezable bottle or syringe with soft, elongated, cross-cut nipple rather than rigid bottle",
+        "Discontinue all oral feeding and use feeding tube exclusively until after surgical repair",
+        "Use spoon feeding only, as bottles are contraindicated for all infants with cleft palate"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26452,
+      question: "What is the MOST common problem in children with orofacial clefts?",
+      options: [
+        "Dental caries affecting all primary teeth due to enamel defects from the cleft condition",
+        "Middle ear infection from lack of eustachian tube ventilation because palatal muscles control tube opening",
+        "Severe allergies causing chronic sinus infections unrelated to the palatal cleft defect",
+        "Gastroesophageal reflux disease causing damage to teeth and oral tissues from acid"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26453,
+      question: "What can result from chronic ear infections if not addressed in children with clefts?",
+      options: [
+        "Hearing impairments from permanent damage to auditory sensory nerves if problem not addressed",
+        "Vision problems from optic nerve damage that occurs secondary to chronic ear infections",
+        "Intellectual disabilities that develop when chronic infections spread to brain tissue",
+        "Complete deafness within months that is always irreversible regardless of treatment"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26454,
+      question: "What causes hypernasal speech in patients with cleft palate?",
+      options: [
+        "Enlarged adenoids and tonsils that completely block the nasal airway during speech",
+        "Velopharyngeal dysfunction (VPD) that allows air to escape into nasal cavity during speech",
+        "Tongue thrust habit that forces air through the nose rather than the oral cavity",
+        "Chronic sinusitis that creates resonance changes unrelated to palatal function or closure"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26455,
+      question: "What treatment approaches are used for velopharyngeal dysfunction?",
+      options: [
+        "Only speech therapy, as surgical and prosthetic options are contraindicated for all patients",
+        "Surgery, special speech device/obturator that closes palate, speech therapy, or combination of approaches",
+        "Exclusively medications to strengthen palatal muscles; no other treatments are effective",
+        "Only observation, as VPD always resolves spontaneously without any intervention required"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26456,
+      question: "What is the MOST common type of malocclusion in individuals with cleft palates?",
+      options: [
+        "Class I malocclusion with normal molar relationship and proper overbite and overjet",
+        "Class II malocclusion with mandibular retrusion and excessive overjet of maxillary teeth",
+        "Class III malocclusion, which is most common in individuals with cleft palates",
+        "Open bite malocclusion without any sagittal jaw relationship discrepancy present"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26457,
+      question: "What causes Class III malocclusion in individuals with cleft palates?",
+      options: [
+        "Excessive maxillary growth from overactive bone formation after surgical cleft repair",
+        "Missing teeth or stunted maxillary growth; maxillary growth constricted due to scar tissue from primary surgeries",
+        "Mandibular deficiency from underdevelopment of mandible unrelated to cleft or surgery",
+        "Excessive mandibular growth from genetic factors unrelated to the cleft or surgical repairs"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26458,
+      question: "Which teeth are MOST commonly congenitally missing in patients with clefts?",
+      options: [
+        "Central incisors and first molars, which are always absent in all patients with clefts",
+        "Lateral incisor and canine, which may be absent or severely displaced due to cleft location",
+        "Second molars and third molars, which fail to develop in patients with any type of cleft",
+        "All teeth are present in patients with clefts; congenitally missing teeth never occur"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26459,
+      question: "What dental problems may be present in patients with orofacial clefts?",
+      options: [
+        "All teeth are perfectly formed; enamel defects never occur in patients with orofacial clefts",
+        "Teeth may be morphologically deformed, hypoplastic, or hypomineralized in cleft patients",
+        "Only supernumerary teeth occur; enamel defects and hypoplasia never develop in these patients",
+        "Teeth are always oversized and hypermineralized due to excessive enamel formation"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26460,
+      question: "Why do children with orofacial clefts have significantly higher caries prevalence?",
+      options: [
+        "Enamel defects only; other factors like oral clearance and biofilm have no impact on caries",
+        "Longer oral clearance time, more fermentable sugars, longer bottle-feeding, decreased salivary flow, mouth breathing, tenacious nasal fluid",
+        "Only genetic factors; oral hygiene and feeding practices have no effect on caries development",
+        "Exclusively poor oral hygiene by caregivers; no other factors contribute to increased caries risk"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26461,
+      question: "Which teeth show the highest caries prevalence in primary dentition of patients with clefts?",
+      options: [
+        "Mandibular anterior teeth and mandibular molars, which are always most severely affected",
+        "Maxillary incisors, teeth adjacent to cleft, and molars show highest caries prevalence",
+        "Only third molars are affected; other teeth never develop caries in patients with clefts",
+        "All teeth are equally affected with no pattern of increased caries in any specific location"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26462,
+      question: "Why does wearing orthodontic appliances and obturators increase caries risk?",
+      options: [
+        "Appliances have no effect on caries risk; only dietary factors influence decay development",
+        "More surface irregularities with orthodontics and obturators retain food and biofilm; appliances and soft foods increase substrate retention",
+        "Appliances stimulate saliva production and decrease caries risk compared to patients without appliances",
+        "Orthodontics and obturators prevent biofilm formation and significantly reduce caries risk"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26463,
+      question: "What complications can occur from wearing prostheses in patients with clefts?",
+      options: [
+        "Prostheses have no effect on periodontal tissues; inflammation never occurs with appliance wear",
+        "Chronic tissue irritation from ill-fitting prostheses increases gingival inflammation and hyperplastic response; mechanical rubbing causes recessed gingiva",
+        "Prostheses always improve periodontal health by protecting tissues from bacterial accumulation",
+        "Only dental caries increases; periodontal disease never develops in patients wearing prostheses"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26464,
+      question: "What preventive measures should be included for patients with orofacial clefts?",
+      options: [
+        "Only dietary counseling; fluoride and sealants are contraindicated for patients with clefts",
+        "Patient and parental dietary counseling, frequent hygiene recall, fluoride therapy, and dental sealants",
+        "No preventive care is necessary; treatment of decay after it develops is the only approach",
+        "Exclusively systemic fluoride supplements; topical fluoride and sealants provide no benefit"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26465,
+      question: "What recall interval would be MOST beneficial for children with orofacial clefts?",
+      options: [
+        "Annual recall only, as more frequent appointments are unnecessary and provide no additional benefit",
+        "Every 3 or 4 months for additional assessments, reinforcement, biofilm reduction, and fluoride varnish",
+        "Every 2 years, as infrequent visits are adequate for children with clefts and high caries risk",
+        "No recall appointments are needed; only emergency appointments when pain develops are appropriate"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26466,
+      question: "Which toothbrushing technique is MOST appropriate for children with orofacial clefts?",
+      options: [
+        "Bass technique only, as this is the only method proven effective for children with clefts",
+        "Fones technique and sulcular technique; power toothbrush with small head helpful due to limited lip elasticity and cleft anatomy",
+        "No toothbrushing until after all surgical repairs are complete to avoid damaging tissues",
+        "Stillman technique exclusively, as circular motions are contraindicated in patients with clefts"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26467,
+      question: "What instructions should be given regarding obturator care?",
+      options: [
+        "Obturators should never be removed or cleaned; cleaning can damage the appliance permanently",
+        "Daily care for obturators is similar to care of partial and complete dentures with regular cleaning",
+        "Obturators require professional cleaning only; home care is contraindicated for these appliances",
+        "Soak obturators in bleach overnight daily, as this is the only effective cleaning method"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26468,
+      question: "What communication challenges might the hygienist encounter with patients with clefts?",
+      options: [
+        "No communication challenges exist; all patients with clefts have normal speech and hearing",
+        "Difficulty understanding hypernasal speech and verbally explaining procedures; hearing problems affect communication",
+        "Only vision problems affect communication; speech and hearing are always normal in cleft patients",
+        "Communication is easier with cleft patients than other patients due to enhanced listening skills"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26469,
+      question: "What emotional responses might parents exhibit when learning of a cleft diagnosis?",
+      options: [
+        "Only happiness and relief, as cleft diagnosis is always considered positive news by parents",
+        "Disbelief, confusion, fear, shock, grief, guilt, sadness, and anxiety about child's diagnosis",
+        "No emotional response at all, as parents are never affected emotionally by cleft diagnosis",
+        "Exclusively anger at healthcare providers; no other emotional responses typically occur"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26470,
+      question: "What education should the dental hygienist provide to parents of children with clefts?",
+      options: [
+        "No education needed; parents should discover information on their own without professional guidance",
+        "Education regarding potential dental complications, feeding difficulties, timing and frequency of hygiene care, and building relationship with multidisciplinary team",
+        "Only information about surgical procedures; dental complications and preventive care are irrelevant",
+        "Exclusively information about genetic testing; no other topics need to be discussed with parents"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26471,
+      question: "What additional roles can dental hygienists fulfill in interprofessional collaborations?",
+      options: [
+        "Only direct clinical care; dental hygienists cannot participate in any other team activities",
+        "Provide oral screenings, risk assessment, oral health education to support groups, and continuing education for other healthcare providers",
+        "Exclusively surgical assistance; no other roles are appropriate for dental hygienists on teams",
+        "Only documentation; dental hygienists should not provide education or screenings for cleft patients"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26472,
+      question: "What should the dental hygienist do regarding suspected abuse in a child with cleft?",
+      options: [
+        "Ignore findings, as reporting is optional and not required by law for dental professionals",
+        "Note findings in patient's chart and report suspected abuse to Child Protective Services as required by law",
+        "Confront parents immediately and accuse them of abuse without documenting or reporting",
+        "Discuss with patient only and do not document or report findings to any authorities"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26473,
+      question: "How does palatal development progress during fetal development?",
+      options: [
+        "Palatal development progresses from posterior to anterior or from uvula to primary palate",
+        "Palatal development progresses from lateral to medial or from sides toward the midline",
+        "Palatal development progresses from anterior to posterior or from primary palate to uvula",
+        "Palatal development occurs simultaneously in all areas without any specific directional pattern"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26474,
+      question: "How can micrognathia affect palatal development?",
+      options: [
+        "Micrognathia enlarges the oral cavity space and facilitates easier palatal shelf fusion",
+        "Micrognathia (small mandible) can block or affect movement of palatal shelves during fusion",
+        "Micrognathia has no effect on palate; it only affects mandibular development and function",
+        "Micrognathia prevents tongue development but does not affect palatal shelf movement"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26475,
+      question: "Which statement about folic acid and orofacial clefts is correct?",
+      options: [
+        "Folic acid has been proven to completely prevent all orofacial clefts when taken during pregnancy",
+        "Folic acid definitely causes orofacial clefts and should be avoided by all pregnant women",
+        "Although preventative extent of folic acid in reducing clefts remains inconclusive, multivitamin high in folic acid is recommended to reduce neural tube defects",
+        "Folic acid supplementation is harmful during pregnancy and increases risk of all birth defects"
+      ],
+      correct: "C"
+    }
+  ],
+  "9. Neurologic Disabilities (Case Study)": [
+    {
+      id: 26476,
+      question: "When should this patient's appointment be scheduled for optimal treatment?",
+      options: [
+        "Early morning before breakfast when the patient is most rested from sleep",
+        "60 to 90 minutes after a meal when medications are most effective",
+        "Late afternoon when medications have reached peak blood levels throughout the day",
+        "Immediately before lunch so the patient can eat right after the appointment"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26477,
+      question: "Which oral condition is this patient MOST likely experiencing as a side effect of Parkinson disease medications?",
+      options: [
+        "Xerostomia resulting from anticholinergic effects of the medications taken for disease management",
+        "Burning mouth syndrome caused by vitamin B12 deficiency unrelated to medications",
+        "Oral candidiasis from immunosuppression due to the neurodegenerative disease process itself",
+        "Traumatic ulcerations from involuntary biting during tremor episodes while eating meals"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26478,
+      question: "Which reflex should the dental hygienist help control by maintaining the patient's head in a supported and flexed position?",
+      options: [
+        "Asymmetric tonic neck reflex that occurs when the head turns away from midline",
+        "Tonic labyrinthine reflex triggered by tilting the head backward without neck support",
+        "Startle reflex activated by surprising stimuli such as sudden lights or movements",
+        "Gag reflex stimulated by instruments touching the posterior portion of the tongue"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26479,
+      question: "What is the estimated occurrence of GERD in patients with cerebral palsy, especially with severe motor disabilities?",
+      options: [
+        "GERD occurs in approximately 25% of cerebral palsy patients with motor involvement",
+        "GERD occurs in approximately 50% of cerebral palsy patients with motor involvement",
+        "GERD occurs in approximately 75% of cerebral palsy patients with motor involvement",
+        "GERD occurs in approximately 90% of cerebral palsy patients with motor involvement"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26480,
+      question: "What percentage of multiple sclerosis cases are initially diagnosed as relapsing-remitting MS?",
+      options: [
+        "Over 50% of patients are initially diagnosed with relapsing-remitting MS as first presentation",
+        "Over 65% of patients are initially diagnosed with relapsing-remitting MS as first presentation",
+        "Over 75% of patients are initially diagnosed with relapsing-remitting MS as first presentation",
+        "Over 85% of patients are initially diagnosed with relapsing-remitting MS as first presentation"
+      ],
+      correct: "D"
+    },
+    {
+      id: 26481,
+      question: "Which oral hygiene recommendation would be MOST beneficial for this patient?",
+      options: [
+        "Manual toothbrush with detailed verbal instructions given slowly during the appointment",
+        "Power toothbrush with visual aids and written instructions for patient and caregiver",
+        "Interdental brushes only as the primary cleaning method to simplify the routine",
+        "Chlorhexidine rinse as a substitute for mechanical plaque removal by brushing"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26482,
+      question: "What is the leading cause of death for patients with amyotrophic lateral sclerosis?",
+      options: [
+        "Cardiac complications from progressive heart muscle weakness and cardiomyopathy over time",
+        "Renal failure from chronic dehydration and inability to maintain adequate fluid balance",
+        "Aspiration pneumonia and respiratory complications from inability to breathe and swallow properly",
+        "Septic shock from recurrent infections due to compromised immune system function"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26483,
+      question: "What adaptive device would be MOST helpful for this patient to improve oral self-care?",
+      options: [
+        "Standard manual toothbrush with ergonomic handle and soft bristles for gentle cleaning",
+        "Toothbrush that cleans buccal and lingual surfaces simultaneously with weighted handle for stability",
+        "Electric toothbrush with small brush head and automatic timer for consistent cleaning",
+        "Interdental cleaning device with long handle for posterior access and biofilm removal"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26484,
+      question: "Which oral complication is this patient at HIGHEST risk for developing?",
+      options: [
+        "Enamel hypoplasia from disruption in tooth development during the traumatic injury",
+        "Xerostomia from medications increasing caries and periodontal disease risk significantly",
+        "Aggressive periodontitis from immune system suppression caused by brain injury",
+        "Oral cancer from radiation therapy commonly used to treat brain trauma complications"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26485,
+      question: "What is this patient's functional potential for independence based on the C4 spinal cord injury level?",
+      options: [
+        "Can perform minimal self-care activities using electric wheelchair without ventilator support",
+        "Can perform complete personal self-care and wheelchair transfers using manual wheelchair independently",
+        "Can walk with leg braces and crutches without need for any wheelchair assistance",
+        "Has no functional independence and requires wheelchair, ventilator, and tracheostomy for survival"
+      ],
+      correct: "D"
+    },
+    {
+      id: 26486,
+      question: "What percentage of patients taking phenytoin experience drug-influenced gingival enlargement?",
+      options: [
+        "Gingival enlargement occurs in approximately 25% of patients taking phenytoin medication",
+        "Gingival enlargement occurs in approximately 35% of patients taking phenytoin medication",
+        "Gingival enlargement occurs in approximately 50% of patients taking phenytoin medication",
+        "Gingival enlargement occurs in approximately 75% of patients taking phenytoin medication"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26487,
+      question: "What is the MOST appropriate recommendation regarding nitrous oxide use for this patient?",
+      options: [
+        "Nitrous oxide sedation is recommended as it helps prevent seizures during dental treatment",
+        "Nitrous oxide sedation is not recommended as it is known to elicit seizures in epilepsy patients",
+        "Nitrous oxide sedation is appropriate only if combined with oxygen at 100% concentration",
+        "Nitrous oxide sedation is safe if the patient takes anticonvulsant medication 30 minutes before"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26488,
+      question: "What cranial nerve is affected in Bell palsy causing these symptoms?",
+      options: [
+        "Trigeminal nerve (cranial nerve V) responsible for facial sensation and mastication muscles",
+        "Facial nerve (cranial nerve VII) responsible for facial expression and taste sensation",
+        "Glossopharyngeal nerve (cranial nerve IX) responsible for swallowing and gag reflex function",
+        "Hypoglossal nerve (cranial nerve XII) responsible for tongue movement and speech articulation"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26489,
+      question: "What is the MOST important oral self-care recommendation for this patient during recovery?",
+      options: [
+        "Aggressive flossing twice daily in all areas to prevent food impaction between teeth",
+        "Rinsing with water after eating and using oral irrigator to remove food from vestibule",
+        "Using chlorhexidine mouthwash four times daily as a substitute for mechanical cleaning",
+        "Brushing teeth vigorously three times daily focusing on the affected side only"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26490,
+      question: "What is the MOST likely diagnosis based on these clinical characteristics?",
+      options: [
+        "Bell palsy with acute onset facial paralysis and temporary unilateral weakness",
+        "Type 1 trigeminal neuralgia with episodic severe shocking pain and complete resolution between attacks",
+        "Atypical facial pain with constant aching sensation and no identifiable trigger points",
+        "Temporomandibular joint disorder with chronic pain exacerbated by jaw movement"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26491,
+      question: "How long did it take for more than 40% of trigeminal neuralgia patients to receive evaluation by a neurologist or neurosurgeon?",
+      options: [
+        "More than 40% of patients took less than 6 months for neurological evaluation",
+        "More than 40% of patients took between 6 months and 1 year for evaluation",
+        "More than 40% of patients took between 1 year and 18 months for evaluation",
+        "More than 40% of patients took more than 2 years for neurological evaluation"
+      ],
+      correct: "D"
+    },
+    {
+      id: 26492,
+      question: "What is the MOST effective communication technique for providing oral hygiene instructions to this patient?",
+      options: [
+        "Give detailed written instructions with multiple steps for the patient to review independently",
+        "Provide instructions slowly step-by-step in simple concrete language with demonstrations",
+        "Explain all procedures quickly using technical dental terminology for accuracy and precision",
+        "Have the caregiver perform all oral hygiene while explaining the process to the patient"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26493,
+      question: "What is the PRIMARY mechanism by which phenytoin causes gingival enlargement?",
+      options: [
+        "Phenytoin stimulates excessive inflammatory cytokine production in gingival tissues",
+        "Phenytoin alters fibroblast metabolism causing cells to produce excessive collagen",
+        "Phenytoin causes vitamin C deficiency leading to defective collagen synthesis",
+        "Phenytoin induces chronic dehydration of tissues leading to compensatory hyperplasia"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26494,
+      question: "What type of brain damage has this patient experienced based on his clinical presentation?",
+      options: [
+        "Right-sided brain damage causing left-sided paralysis with spatial and perceptual deficits",
+        "Left-sided brain damage causing right-sided paralysis with language and speech problems",
+        "Bilateral brain damage causing complete paralysis with severe cognitive and memory deficits",
+        "Brainstem damage causing cranial nerve dysfunction with loss of protective reflexes"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26495,
+      question: "At what blood pressure reading is hypertensive crisis diagnosed requiring immediate medical consultation?",
+      options: [
+        "Blood pressure of 160/100 mmHg or higher indicates hypertensive crisis requiring medical intervention",
+        "Blood pressure of 170/110 mmHg or higher indicates hypertensive crisis requiring medical intervention",
+        "Blood pressure of 180/120 mmHg or higher indicates hypertensive crisis requiring medical intervention",
+        "Blood pressure of 190/130 mmHg or higher indicates hypertensive crisis requiring medical intervention"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26496,
+      question: "What is the maximum time window for most effective stroke treatment after symptom onset?",
+      options: [
+        "Treatments are most effective when initiated within 1 hour of symptom onset",
+        "Treatments are most effective when initiated within 2 hours of symptom onset",
+        "Treatments are most effective when initiated within 3 hours of symptom onset",
+        "Treatments are most effective when initiated within 6 hours of symptom onset"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26497,
+      question: "What is the characteristic manifestation of tremor in Parkinson disease?",
+      options: [
+        "Action tremor that occurs when the patient contracts muscles during voluntary movement",
+        "Resting tremor that is rhythmic, stops during intended movements, and primarily involves hands",
+        "Intention tremor that worsens as the patient approaches a target during coordinated movements",
+        "Postural tremor that occurs when the patient maintains a position against gravity"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26498,
+      question: "What neurotransmitter is deficient in Parkinson disease due to loss of dopamine-synthesizing neurons?",
+      options: [
+        "Serotonin deficiency affecting mood regulation and emotional stability in disease progression",
+        "Dopamine deficiency interfering with nerve impulse conduction related to muscle activity coordination",
+        "Acetylcholine deficiency causing cognitive impairment and memory loss over time",
+        "Norepinephrine deficiency resulting in autonomic dysfunction and blood pressure regulation problems"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26499,
+      question: "What is the MOST common type of cerebral palsy?",
+      options: [
+        "Ataxic cerebral palsy affecting balance and coordination from cerebellar damage",
+        "Spastic cerebral palsy characterized by muscle stiffness from frontal lobe damage",
+        "Athetoid cerebral palsy with uncontrolled movements from basal ganglia damage",
+        "Mixed form cerebral palsy with combination of multiple symptoms from various areas"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26500,
+      question: "Which brain area is damaged in athetoid cerebral palsy?",
+      options: [
+        "Frontal lobe of the cerebral cortex causing spasticity in muscles leading to stiffness",
+        "Basal ganglia causing damage to motor centers resulting in dyskinetic movements",
+        "Cerebellum causing problems in balance coordination and depth perception deficits",
+        "Parietal lobe of the cerebral cortex causing somatic sensory loss and perception problems"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26501,
+      question: "Which factors may cause transient worsening of existing MS symptoms?",
+      options: [
+        "Cold weather exposure and cool baths that cause vasoconstriction and reduced blood flow",
+        "Fever, heavy physical exertion, hot weather, hot showers, and exposure to sunlight",
+        "Mild exercise and moderate physical activity that maintains cardiovascular fitness levels",
+        "Adequate sleep and stress reduction techniques that promote nervous system healing"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26502,
+      question: "What medication is commonly used to treat acute exacerbations of multiple sclerosis?",
+      options: [
+        "Antibiotic therapy to treat underlying infection causing the exacerbation of symptoms",
+        "Corticosteroids such as steroids for their anti-inflammatory effects during acute episodes",
+        "Anticoagulant medications to prevent blood clots that may worsen the neurologic symptoms",
+        "Antidepressant medications to manage the psychological aspects of disease exacerbation"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26503,
+      question: "What percentage of ALS cases are sporadic with no known risk factors or family history?",
+      options: [
+        "Sporadic ALS accounts for 50% to 60% of all cases diagnosed",
+        "Sporadic ALS accounts for 70% to 80% of all cases diagnosed",
+        "Sporadic ALS accounts for 90% to 95% of all cases diagnosed",
+        "Sporadic ALS accounts for 98% to 100% of all cases diagnosed"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26504,
+      question: "What is the mode of inheritance for Huntington disease?",
+      options: [
+        "Autosomal recessive requiring both parents to carry the mutated gene for expression",
+        "Inherited through mutation on huntingtin gene on chromosome 4 passed from parent to child",
+        "X-linked recessive affecting primarily males with females being asymptomatic carriers only",
+        "Sporadic mutation occurring randomly without any family history or genetic predisposition"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26505,
+      question: "What is the probability that each child of a parent with Huntington disease will develop the disease?",
+      options: [
+        "Each child has a 25% chance of developing the disease from inheriting mutated gene",
+        "Each child has a 50% chance of developing the disease from inheriting mutated gene",
+        "Each child has a 75% chance of developing the disease from inheriting mutated gene",
+        "Each child has a 100% chance of developing the disease from inheriting mutated gene"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26506,
+      question: "What is the gold standard for diagnosing traumatic brain injury?",
+      options: [
+        "Computed tomography scan showing structural brain damage and hemorrhage presence",
+        "Clinical interview assessing difficulties with learning memory concentration and problem solving",
+        "Magnetic resonance imaging revealing microscopic damage to brain tissue and axons",
+        "Electroencephalogram demonstrating abnormal electrical activity patterns in the brain"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26507,
+      question: "What is the PRIMARY cause of most spinal cord injuries?",
+      options: [
+        "Motor vehicle accidents are the primary cause of spinal cord injuries in the United States",
+        "Falls are the primary cause of spinal cord injuries especially in elderly populations",
+        "Acts of violence including gunshot wounds are the primary cause of injuries",
+        "Sports and recreation accidents are the primary cause of spinal cord injuries"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26508,
+      question: "What functional abilities would a patient with C6 spinal cord injury have?",
+      options: [
+        "Can perform sitting and eating with devices and use manual wheelchair for mobility",
+        "Can perform complete personal self-care with wheelchair self-transfers independently",
+        "Has no functional abilities and requires ventilator and electric wheelchair for survival",
+        "Can walk with leg braces and crutches without need for any wheelchair"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26509,
+      question: "What is this life-threatening condition called when seizures last longer than 5 minutes?",
+      options: [
+        "Absence seizure requiring immediate administration of anticonvulsant medications intravenously",
+        "Status Epilepticus requiring emergency intervention to prevent irreversible neurologic damage",
+        "Focal onset seizure requiring observation only as it will resolve spontaneously without treatment",
+        "Petit mal seizure requiring placement in recovery position until consciousness returns naturally"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26510,
+      question: "At what age range are absence seizures most common in children?",
+      options: [
+        "Absence seizures are most common in children between 2 to 4 years of age",
+        "Absence seizures are most common in children between 4 to 14 years of age",
+        "Absence seizures are most common in children between 10 to 16 years of age",
+        "Absence seizures are most common in children between 14 to 18 years of age"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26511,
+      question: "When should corticosteroids be started for maximum benefit in Bell palsy treatment?",
+      options: [
+        "Corticosteroids should be started within 24 hours of symptom onset for maximum benefit",
+        "Corticosteroids should be started within 48 hours of symptom onset for maximum benefit",
+        "Corticosteroids should be started within 72 hours of symptom onset for maximum benefit",
+        "Corticosteroids should be started within 1 week of symptom onset for maximum benefit"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26512,
+      question: "What is the MOST important eye care recommendation for this patient?",
+      options: [
+        "Wear sunglasses outdoors only during daytime hours to protect from UV radiation exposure",
+        "Use lubricants artificial tears and protective eyewear as eye cannot be closed fully",
+        "Apply warm compresses to the affected eye three times daily to improve circulation",
+        "Instill antibiotic eye drops four times daily to prevent bacterial infection of cornea"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26513,
+      question: "Which branches of the trigeminal nerve are MOST commonly affected in trigeminal neuralgia?",
+      options: [
+        "Ophthalmic branch affecting the eye and forehead causing vision problems and headaches",
+        "Maxillary and mandibular branches affecting cheek jaw teeth gums and lips more commonly",
+        "All three branches equally affected with no predilection for any specific area distribution",
+        "Lingual and inferior alveolar branches affecting tongue and lower teeth exclusively only"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26514,
+      question: "What is the PRIMARY cause of trigeminal neuralgia pain?",
+      options: [
+        "Bacterial infection of the trigeminal ganglion causing inflammatory neuritis and nerve damage",
+        "Pressure from blood vessel against trigeminal nerve wearing away myelin sheath causing abnormal signals",
+        "Autoimmune destruction of trigeminal nerve causing progressive loss of nerve function over time",
+        "Traumatic injury to trigeminal nerve branches during dental procedures causing permanent nerve damage"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26515,
+      question: "What is the average duration from earliest symptoms to death in Alzheimer disease?",
+      options: [
+        "Average duration is 4 years from earliest symptoms to death in Alzheimer disease",
+        "Average duration is 6 years from earliest symptoms to death in Alzheimer disease",
+        "Average duration is 8 years from earliest symptoms to death in Alzheimer disease",
+        "Average duration is 12 years from earliest symptoms to death in Alzheimer disease"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26516,
+      question: "What bacterium has been identified in brain tissue of Alzheimer disease patients associated with periodontal infection?",
+      options: [
+        "Aggregatibacter actinomycetemcomitans and its leukotoxin in hippocampus and cortex regions",
+        "Porphyromonas gingivalis and its gingipain proteases in brain areas associated with memory",
+        "Tannerella forsythia and its surface layer proteins in cerebrospinal fluid and brain tissue",
+        "Prevotella intermedia and its inflammatory mediators in cerebral cortex and white matter"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26517,
+      question: "What toothbrushing technique is recommended for patients with Alzheimer disease who cannot tolerate noise?",
+      options: [
+        "Bass technique with manual toothbrush to avoid vibration and noise from power devices",
+        "Modified Stillman technique with manual toothbrush for gentle sulcular cleaning approach",
+        "Fones technique with power toothbrush if patient tolerates noise or manual if cannot",
+        "Charters technique with manual toothbrush to stimulate gingival tissues effectively"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26518,
+      question: "What type of stroke results from a blood clot that travels to the brain from another part of the body?",
+      options: [
+        "Thrombotic stroke where clot develops within blood vessel of brain or neck blocking flow",
+        "Embolic stroke where blood clot travels to brain from another body part blocking circulation",
+        "Hemorrhagic stroke where vessel ruptures leaking blood into brain tissue causing pressure",
+        "Stenotic stroke where severe narrowing of artery reduces blood flow to brain tissue"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26519,
+      question: "What is the MOST important modifiable risk factor for cerebrovascular accident?",
+      options: [
+        "Family history of stroke which cannot be changed but indicates increased genetic susceptibility",
+        "Age and gender which are non-modifiable risk factors that increase stroke probability",
+        "Hypertension which increases stroke risk by 2 to 4 times and can be controlled",
+        "Race and ethnicity which are non-modifiable factors affecting stroke incidence rates"
+      ],
+      correct: "C"
+    },
+    {
+      id: 26520,
+      question: "What deficit is characteristic of left-sided brain damage from stroke?",
+      options: [
+        "Spatial and perceptual deficits with quick impulsive behavior and difficulty using mirrors",
+        "Language and speech problems with decreased auditory memory for long instructions",
+        "Memory deficits for events and people with generalized memory loss affecting daily function",
+        "Visual field deficits with neglect of left side and decreased awareness of left body parts"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26521,
+      question: "What is the PRIMARY cause of hemorrhagic stroke?",
+      options: [
+        "Atherosclerotic plaque rupture causing clot formation and vessel occlusion blocking blood flow",
+        "Rupture of brain vessel from high blood pressure or aneurysm causing blood leakage into tissue",
+        "Cardiac arrhythmia causing irregular heartbeat and clot formation traveling to brain vessels",
+        "Severe arterial stenosis causing gradual reduction in blood flow leading to tissue death"
+      ],
+      correct: "B"
+    },
+    {
+      id: 26522,
+      question: "Which factor is associated with worsening of multiple sclerosis symptoms?",
+      options: [
+        "Various types of infections that may trigger immune system activation causing disease relapse",
+        "Cold exposure and decreased ambient temperature that causes vasoconstriction and reduced circulation",
+        "Adequate rest and stress reduction that allows immune system to function optimally",
+        "Regular moderate exercise that maintains cardiovascular fitness and overall health status"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26523,
+      question: "What is the MOST likely cause of enamel hypoplasia in children with congenital cerebral palsy?",
+      options: [
+        "Enamel defect related to stage of tooth development during time of cerebral injury",
+        "Medication side effect from antispasticity drugs taken during tooth development years",
+        "Nutritional deficiency from difficulty eating and malnutrition during childhood growth",
+        "Genetic syndrome associated with cerebral palsy causing inherited enamel defects"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26524,
+      question: "What is this patient's functional potential for independence based on the spinal cord injury level?",
+      options: [
+        "Can perform personal self-care and wheelchair self-transfers independently using manual wheelchair",
+        "Requires complete assistance for all activities with electric wheelchair and ventilator support needed",
+        "Can perform minimal activities with assistance requiring electric wheelchair for all mobility",
+        "Can walk independently with leg braces and crutches without need for wheelchair assistance"
+      ],
+      correct: "A"
+    },
+    {
+      id: 26525,
+      question: "What treatment approach is effective for improving cognition in traumatic brain injury?",
+      options: [
+        "Cognitive behavioral therapy improving cognition and reducing anxiety in both TBI and PTSD",
+        "Pharmacological therapy exclusively using antipsychotic medications for all cognitive symptoms",
+        "Physical therapy focusing on motor rehabilitation without cognitive intervention components",
+        "Occupational therapy addressing only activities of daily living without cognitive training"
+      ],
+      correct: "A"
+    }
+  ]
 };
