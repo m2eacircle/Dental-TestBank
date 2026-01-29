@@ -626,12 +626,23 @@ export const subjectsWithSubtopics = {
     "9. Digestive System Disorders (Part 2)"
   ],
   "Dental Hygiene Theory II": [
+    "1-1. Medical and Dental History",
+    "1-2. Vitals",
+    "2. Hard Tissue Assessment",
+    "3. Extra Intra Oral Examination",
+    "4. Periodontal Assessments",
+    "5-1. Soft Deposits, Biofilm, Calculus and Stain",
+    "5-2. Assessment of Stains and Deposit",
+    "6-1. Oral Systemic Health Connection",
+    "6-2. Dental Hygiene Diagnosis",
     "7. Care Plan",
     "8. Ultrasonic",
     "9. Dentinal Hypersensitivity",
     "10. Polishing and Whitening",
     "11. Handpiece Maintenance",    
-    "12. Local Anesthetic"
+    "12. Local Anesthetic",
+    "13. Pit Fissure Sealants",
+    "14. Rubber Dam"
   ],
     "Dental Materials Theory": [
     "1. Introduction to Dental Materials and Oral environment and patient considerations",
