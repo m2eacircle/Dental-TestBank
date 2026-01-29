@@ -3096,17 +3096,6 @@ export const questions = {
       correct: 2
     },
     {
-      id: 51050,
-      question: "Where should completed work be placed for the patient to access?",
-      options: [
-        "/home/claude directory",
-        "/mnt/user-data/uploads directory",
-        "/mnt/user-data/outputs directory",
-        "Temporary directory",
-      ],
-      correct: 2
-    },
-    {
       id: 51051,
       question: "How should a used needle be transported back to the sterilization area?",
       options: [
