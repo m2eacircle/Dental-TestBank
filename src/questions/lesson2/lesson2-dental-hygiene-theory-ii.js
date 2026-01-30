@@ -8537,7 +8537,7 @@ export const questions = {
       correct: 0
     }
   ],
-  "3. Extra/Intra Oral Examination": [
+  "3. Extra Intra Oral Examination": [
     {
       id: 58001,
       question: "What is the primary purpose of conducting extraoral and intraoral assessments in dental hygiene practice?",
