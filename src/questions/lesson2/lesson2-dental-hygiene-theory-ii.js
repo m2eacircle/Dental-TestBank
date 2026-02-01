@@ -8537,7 +8537,7 @@ export const questions = {
       correct: 0
     }
   ],
-  "3-1. Extraoral and Intraoral Clinical Assessment": [
+  "3. Extra Intra Oral Examination": [
     {
       id: 58001,
       question: "What is the primary purpose of conducting extraoral and intraoral assessments in dental hygiene practice?",
@@ -13878,6 +13878,1077 @@ export const questions = {
         "False",
       ],
       correct: 1
+    }
+  ],
+  "3-2. Soft Tissue": [
+    {
+      id: 70001,
+      question: "What is the outer surface characteristic of the free gingiva in healthy tissue?",
+      options: [
+        "Smooth and non-keratinized",
+        "Keratinized outer surface",
+        "Highly vascular and red",
+        "Covered with mucous membrane",
+      ],
+      correct: 1
+    },
+    {
+      id: 70002,
+      question: "Which structure represents the coronal portion of the junctional epithelium?",
+      options: [
+        "Mucogingival junction",
+        "Gingival sulcus",
+        "Epithelial attachment",
+        "Free gingival groove",
+      ],
+      correct: 2
+    },
+    {
+      id: 70003,
+      question: "What characteristic describes healthy gingival tissue color?",
+      options: [
+        "Bright red with shiny appearance",
+        "Uniform pink color, may be pigmented",
+        "Purple or blue coloration",
+        "Dark red with white patches",
+      ],
+      correct: 1
+    },
+    {
+      id: 70004,
+      question: "How is healthy tissue contour described in relation to the alveolar bone?",
+      options: [
+        "Loose and separated from bone",
+        "Inflamed and swollen",
+        "Snug and firm against the alveolar bone",
+        "Retracted away from teeth",
+      ],
+      correct: 2
+    },
+    {
+      id: 70005,
+      question: "What term describes the elastic quality of healthy gingival tissue?",
+      options: [
+        "Fibrotic",
+        "Resilient",
+        "Flabby",
+        "Spongy",
+      ],
+      correct: 1
+    },
+    {
+      id: 70006,
+      question: "What is the surface texture characteristic of healthy gingiva?",
+      options: [
+        "Smooth and shiny",
+        "Rough and irregular",
+        "Firm and dimpled (stippled)",
+        "Soft and edematous",
+      ],
+      correct: 2
+    },
+    {
+      id: 70007,
+      question: "Where is the position of the gingival margin in healthy tissue relative to the CEJ?",
+      options: [
+        "Apical to the CEJ",
+        "At the same level as the CEJ",
+        "Slightly coronal to the CEJ",
+        "3mm coronal to the CEJ",
+      ],
+      correct: 2
+    },
+    {
+      id: 70008,
+      question: "What happens when healthy tissue is gently probed?",
+      options: [
+        "It bleeds immediately",
+        "It does not bleed",
+        "It shows spontaneous bleeding",
+        "It becomes inflamed",
+      ],
+      correct: 1
+    },
+    {
+      id: 70009,
+      question: "What does \"generalized\" mean when describing tissue color changes?",
+      options: [
+        "Affecting less than 10% of areas",
+        "Affecting less than 30% of areas",
+        "Affecting over 30% of areas",
+        "Affecting only one quadrant",
+      ],
+      correct: 2
+    },
+    {
+      id: 70010,
+      question: "What causes gingival tissue color changes according to the document?",
+      options: [
+        "Only bacterial infections",
+        "Thickness of connective tissue, number and size of blood vessels",
+        "Diet and nutrition only",
+        "Age of the patient only",
+      ],
+      correct: 1
+    },
+    {
+      id: 70011,
+      question: "How do fair-skinned individuals typically present gingival tissue color?",
+      options: [
+        "Darker pink shade",
+        "Red or purple color",
+        "Lighter pink shade",
+        "Blue coloration",
+      ],
+      correct: 2
+    },
+    {
+      id: 70012,
+      question: "What indicates a \"localized\" condition on the soft tissue exam form?",
+      options: [
+        "The color is circled",
+        "The color is underlined and areas identified",
+        "The color is highlighted",
+        "The color is crossed out",
+      ],
+      correct: 1
+    },
+    {
+      id: 70013,
+      question: "What does recession of the free gingival margin indicate?",
+      options: [
+        "Tissue enlargement",
+        "Loss of free gingival margin exposing root surface",
+        "Healthy tissue adaptation",
+        "Increased keratinization",
+      ],
+      correct: 1
+    },
+    {
+      id: 70014,
+      question: "What shape characterizes clefting of the gingival margin?",
+      options: [
+        "Round margin",
+        "Flat margin",
+        "\"Y\" shaped margin",
+        "Rolled margin",
+      ],
+      correct: 2
+    },
+    {
+      id: 70015,
+      question: "What does a \"flat\" gingival margin indicate?",
+      options: [
+        "Presence of stippling",
+        "Healthy rolled margin",
+        "Lack of a rolled margin",
+        "Excessive keratinization",
+      ],
+      correct: 2
+    },
+    {
+      id: 70016,
+      question: "What does \"snug\" indicate about tissue health?",
+      options: [
+        "Tissue recession",
+        "Tissue inflammation",
+        "Firmness indicating health",
+        "Tissue enlargement",
+      ],
+      correct: 2
+    },
+    {
+      id: 70017,
+      question: "What might cause enlarged gingival tissue?",
+      options: [
+        "Excellent oral hygiene",
+        "Medications taken by the client",
+        "Calculus removal",
+        "Professional cleaning",
+      ],
+      correct: 1
+    },
+    {
+      id: 70018,
+      question: "What classification is given when assessment reveals no inflammation and no additional bone loss?",
+      options: [
+        "Gingivitis",
+        "Periodontitis",
+        "Healthy on a reduced periodontium",
+        "Acute inflammation",
+      ],
+      correct: 2
+    },
+    {
+      id: 70019,
+      question: "What is the primary cause of gingival inflammation?",
+      options: [
+        "Nutritional deficiency",
+        "Bacterial infection by pathogens",
+        "Mechanical trauma only",
+        "Genetic factors only",
+      ],
+      correct: 1
+    },
+    {
+      id: 70020,
+      question: "What color characterizes gingival inflammation?",
+      options: [
+        "Uniform pink",
+        "Bright red",
+        "Light pink",
+        "White",
+      ],
+      correct: 1
+    },
+    {
+      id: 70021,
+      question: "How does the margin of the tooth appear during gingival inflammation?",
+      options: [
+        "Flat and thin",
+        "Pointed and firm",
+        "Rolled and edematous",
+        "Stippled and healthy",
+      ],
+      correct: 2
+    },
+    {
+      id: 70022,
+      question: "What happens to the interdental papilla during inflammation?",
+      options: [
+        "Becomes pointed and firm",
+        "Becomes edematous, bulbous, may be blunted or cratered",
+        "Remains unchanged",
+        "Becomes keratinized",
+      ],
+      correct: 1
+    },
+    {
+      id: 70023,
+      question: "What is the consistency of inflamed tissue when pressed?",
+      options: [
+        "Firm and resistant",
+        "Hard and calcified",
+        "Spongy, indents easily",
+        "Elastic and resilient",
+      ],
+      correct: 2
+    },
+    {
+      id: 70024,
+      question: "How does inflamed tissue appear in terms of texture?",
+      options: [
+        "Dimpled with stippling",
+        "Rough and irregular",
+        "Smooth and shiny, no dimpling or stippling",
+        "Keratinized and firm",
+      ],
+      correct: 2
+    },
+    {
+      id: 70025,
+      question: "Where is the free gingival margin positioned during gingivitis?",
+      options: [
+        "Apical to the CEJ",
+        "At the CEJ level",
+        "More coronal above the CEJ",
+        "Receded from the CEJ",
+      ],
+      correct: 2
+    },
+    {
+      id: 70026,
+      question: "What is a key clinical sign of gingivitis?",
+      options: [
+        "Absence of bleeding",
+        "Presence of bleeding on probing",
+        "Tissue recession",
+        "Bone loss",
+      ],
+      correct: 1
+    },
+    {
+      id: 70027,
+      question: "How does healthy papilla appear in the embrasure?",
+      options: [
+        "Bulbous and swollen",
+        "Flat and receded",
+        "Pointed and fills the embrasure",
+        "Cratered and scooped",
+      ],
+      correct: 2
+    },
+    {
+      id: 70028,
+      question: "What does \"bulbous\" papilla indicate?",
+      options: [
+        "Healthy tissue",
+        "Papilla is enlarged and bulges out of interproximal space",
+        "Papilla is receded",
+        "Papilla has stippling",
+      ],
+      correct: 1
+    },
+    {
+      id: 70029,
+      question: "What does \"blunted\" papilla mean?",
+      options: [
+        "Papilla is swollen",
+        "Papilla fills the embrasure completely",
+        "Papilla is flat and does not fill the embrasure",
+        "Papilla is pointed",
+      ],
+      correct: 2
+    },
+    {
+      id: 70030,
+      question: "What does \"cratered\" papilla describe?",
+      options: [
+        "Enlarged appearance",
+        "\"Scooped out\" appearance",
+        "Pointed appearance",
+        "Firm texture",
+      ],
+      correct: 1
+    },
+    {
+      id: 70031,
+      question: "What does \"marginal\" distribution of gingivitis refer to?",
+      options: [
+        "Only the attached gingiva",
+        "Free gingival margin and papilla",
+        "Only the alveolar mucosa",
+        "The entire periodontium",
+      ],
+      correct: 1
+    },
+    {
+      id: 70032,
+      question: "What does \"papillary\" distribution indicate?",
+      options: [
+        "Entire gingiva affected",
+        "Only free margin affected",
+        "Interdental papilla only",
+        "Alveolar bone affected",
+      ],
+      correct: 2
+    },
+    {
+      id: 70033,
+      question: "What does \"diffuse\" distribution of inflammation mean?",
+      options: [
+        "Only the papilla",
+        "Only the margin",
+        "Gingival margin, papilla, and attached gingiva",
+        "Only attached gingiva",
+      ],
+      correct: 2
+    },
+    {
+      id: 70034,
+      question: "Why may the gingival margin appear more coronally during gingivitis?",
+      options: [
+        "Bone growth",
+        "Tissue swelling and enlargement",
+        "Tooth eruption",
+        "Calculus buildup",
+      ],
+      correct: 1
+    },
+    {
+      id: 70035,
+      question: "What relationship exists between sulcular tissue ulceration and bleeding?",
+      options: [
+        "No relationship",
+        "More ulceration leads to less bleeding",
+        "More ulceration leads to more bleeding and inflammation",
+        "Ulceration prevents bleeding",
+      ],
+      correct: 2
+    },
+    {
+      id: 70036,
+      question: "How is tissue consistency determined to be \"spongy\"?",
+      options: [
+        "By visual inspection only",
+        "Side of probe pressed on tissue retains an imprint",
+        "Tissue appears shiny",
+        "Air deflects the tissue",
+      ],
+      correct: 1
+    },
+    {
+      id: 70037,
+      question: "What describes \"soft\" tissue appearance?",
+      options: [
+        "Firm and resilient",
+        "Stippled texture",
+        "Shiny and stretched appearance",
+        "Dimpled surface",
+      ],
+      correct: 2
+    },
+    {
+      id: 70038,
+      question: "How is \"flabby\" tissue determined?",
+      options: [
+        "By pressing with probe",
+        "Visual inspection only",
+        "Air is used and tissue is moveable and flaccid",
+        "Bleeding on probing",
+      ],
+      correct: 2
+    },
+    {
+      id: 70039,
+      question: "What characterizes fibrotic gingiva?",
+      options: [
+        "Soft and pink tissue",
+        "Hyperkeratinized with abnormal whitish thickening",
+        "Red and inflamed",
+        "Normal pink color",
+      ],
+      correct: 1
+    },
+    {
+      id: 70040,
+      question: "In whom is fibrotic gingiva often found?",
+      options: [
+        "Children only",
+        "Smokers (past or current) and certain medication users",
+        "Only elderly patients",
+        "Patients with excellent oral hygiene",
+      ],
+      correct: 1
+    },
+    {
+      id: 70041,
+      question: "What does stippling indicate about gingival health?",
+      options: [
+        "Sign of disease",
+        "Sign of health",
+        "Sign of inflammation",
+        "Sign of medication side effects",
+      ],
+      correct: 1
+    },
+    {
+      id: 70042,
+      question: "What appearance is associated with stippling?",
+      options: [
+        "Smooth surface",
+        "Shiny surface",
+        "Orange peel appearance",
+        "Glassy surface",
+      ],
+      correct: 2
+    },
+    {
+      id: 70043,
+      question: "What does \"shiny\" texture indicate?",
+      options: [
+        "Healthy stippling",
+        "Firm consistency",
+        "Stretched appearance with soft tissue",
+        "Keratinized surface",
+      ],
+      correct: 2
+    },
+    {
+      id: 70044,
+      question: "What defines \"acute\" plaque-induced gingivitis?",
+      options: [
+        "Long-lasting inflammation",
+        "Chronic bone loss",
+        "Sudden onset and short duration",
+        "Permanent tissue damage",
+      ],
+      correct: 2
+    },
+    {
+      id: 70045,
+      question: "What happens to tissue after debridement in acute gingivitis?",
+      options: [
+        "Remains inflamed",
+        "Returns to healthy state",
+        "Becomes fibrotic",
+        "Develops periodontitis",
+      ],
+      correct: 1
+    },
+    {
+      id: 70046,
+      question: "What characterizes \"chronic\" gingivitis?",
+      options: [
+        "Sudden onset",
+        "Short duration",
+        "Long-lasting gingivitis, more commonly encountered",
+        "Easily reversible",
+      ],
+      correct: 2
+    },
+    {
+      id: 70047,
+      question: "What is the sulcular epithelium characteristic?",
+      options: [
+        "Keratinized",
+        "Nonkeratinized",
+        "Highly vascular",
+        "Calcified",
+      ],
+      correct: 1
+    },
+    {
+      id: 70048,
+      question: "Where is the cementoenamel junction located in the diagram?",
+      options: [
+        "At the gingival margin",
+        "Between enamel and cementum",
+        "At the alveolar crest",
+        "In the gingival sulcus",
+      ],
+      correct: 1
+    },
+    {
+      id: 70049,
+      question: "What fibers are located coronally in the gingiva?",
+      options: [
+        "Periodontal ligament fibers",
+        "Circular and gingival fibers",
+        "Alveolar crest fibers only",
+        "Transseptal fibers",
+      ],
+      correct: 1
+    },
+    {
+      id: 70050,
+      question: "What is the characteristic of attached gingiva's outer surface?",
+      options: [
+        "Nonkeratinized",
+        "Keratinized",
+        "Smooth texture",
+        "Highly vascular",
+      ],
+      correct: 1
+    },
+    {
+      id: 70051,
+      question: "What is the characteristic of alveolar mucosa's outer surface?",
+      options: [
+        "Keratinized",
+        "Stippled",
+        "Nonkeratinized",
+        "Firm texture",
+      ],
+      correct: 2
+    },
+    {
+      id: 70052,
+      question: "What does the gingival groove represent?",
+      options: [
+        "Always present",
+        "May be absent",
+        "Site of inflammation",
+        "Attachment loss",
+      ],
+      correct: 1
+    },
+    {
+      id: 70053,
+      question: "What tissue type is connective tissue in the periodontium?",
+      options: [
+        "Epithelial tissue",
+        "Muscle tissue",
+        "Supporting tissue between epithelium and bone",
+        "Nervous tissue",
+      ],
+      correct: 2
+    },
+    {
+      id: 70054,
+      question: "What bleeding level indicates \"Low\" on the form?",
+      options: [
+        "Over 50% of sites",
+        "30-50% of sites",
+        "Less than 30% of sites",
+        "No bleeding present",
+      ],
+      correct: 2
+    },
+    {
+      id: 70055,
+      question: "What bleeding level indicates \"Medium\" on the form?",
+      options: [
+        "Less than 30%",
+        "30-50% of sites",
+        "Over 50%",
+        "100% of sites",
+      ],
+      correct: 1
+    },
+    {
+      id: 70056,
+      question: "What bleeding level indicates \"High\" on the form?",
+      options: [
+        "Less than 30%",
+        "30-50%",
+        "Over 50% of sites",
+        "Exactly 40%",
+      ],
+      correct: 2
+    },
+    {
+      id: 70057,
+      question: "What are considered \"local factors\" on the soft tissue exam?",
+      options: [
+        "Systemic diseases only",
+        "Stain, plaque, and calculus",
+        "Medications only",
+        "Genetic factors",
+      ],
+      correct: 1
+    },
+    {
+      id: 70058,
+      question: "How is client compliance rated on the form?",
+      options: [
+        "Poor, fair, good",
+        "Excellent, good, fair, needs improvement",
+        "High, medium, low",
+        "Satisfactory, unsatisfactory",
+      ],
+      correct: 1
+    },
+    {
+      id: 70059,
+      question: "What does \"WNL\" stand for in oral cancer screenings?",
+      options: [
+        "Will Need Labs",
+        "Without New Lesions",
+        "Within Normal Limits",
+        "Weekly Needs List",
+      ],
+      correct: 2
+    },
+    {
+      id: 70060,
+      question: "What documentation is required if oral cancer screening shows findings?",
+      options: [
+        "No documentation needed",
+        "Findings must be documented",
+        "Only visual inspection",
+        "Referral only",
+      ],
+      correct: 1
+    },
+    {
+      id: 70061,
+      question: "What determines the case type on the soft tissue form?",
+      options: [
+        "Patient age",
+        "Insurance coverage",
+        "DD level (difficulty/disease level)",
+        "Appointment length",
+      ],
+      correct: 2
+    },
+    {
+      id: 70062,
+      question: "Where should the DH instructor's signature appear?",
+      options: [
+        "Top of form",
+        "Each section",
+        "On the completed form",
+        "Not required",
+      ],
+      correct: 2
+    },
+    {
+      id: 70063,
+      question: "What diagnostic date format is used on the example form?",
+      options: [
+        "MM/DD/YYYY",
+        "Month Day, Year (May 24, 2023)",
+        "DD/MM/YYYY",
+        "Year/Month/Day",
+      ],
+      correct: 1
+    },
+    {
+      id: 70064,
+      question: "In the example, what areas showed pink-red color?",
+      options: [
+        "Entire maxillary arch",
+        "4.3 – 3.3 facial areas",
+        "All mandibular teeth",
+        "Only anterior teeth",
+      ],
+      correct: 1
+    },
+    {
+      id: 70065,
+      question: "In the example, what areas showed recession?",
+      options: [
+        "All teeth",
+        "Maxillary molars",
+        "4.1, 3.1, and 1.6 Facial",
+        "Mandibular anteriors",
+      ],
+      correct: 2
+    },
+    {
+      id: 70066,
+      question: "What consistency was noted for teeth 4.1 and 3.1 lingual in the example?",
+      options: [
+        "Firm",
+        "Spongy",
+        "Soft",
+        "Fibrotic",
+      ],
+      correct: 2
+    },
+    {
+      id: 70067,
+      question: "What is located between the gingival margin and mucogingival junction?",
+      options: [
+        "Junctional epithelium",
+        "Free gingiva",
+        "Attached gingiva",
+        "Alveolar mucosa",
+      ],
+      correct: 2
+    },
+    {
+      id: 70068,
+      question: "What connects the tooth to the alveolar bone?",
+      options: [
+        "Gingival fibers",
+        "Periodontal ligament",
+        "Circular fibers",
+        "Junctional epithelium",
+      ],
+      correct: 1
+    },
+    {
+      id: 70069,
+      question: "What structure is the gingiva firmly connected to?",
+      options: [
+        "Enamel only",
+        "Mucosa only",
+        "Underlying cementum and bone",
+        "Oral epithelium",
+      ],
+      correct: 2
+    },
+    {
+      id: 70070,
+      question: "What does gentle pressure with the side of the probe test?",
+      options: [
+        "Bleeding tendency",
+        "Tissue resilience and resistance to compression",
+        "Pocket depth",
+        "Attachment level",
+      ],
+      correct: 1
+    },
+    {
+      id: 70071,
+      question: "What happens to healthy tissue after compression with a probe?",
+      options: [
+        "Remains indented",
+        "Bleeds immediately",
+        "Springs back quickly",
+        "Becomes inflamed",
+      ],
+      correct: 2
+    },
+    {
+      id: 70072,
+      question: "Healthy tissue has a uniform pink color and may be pigmented.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 0
+    },
+    {
+      id: 70073,
+      question: "The outer surface of the free gingiva is nonkeratinized.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 1
+    },
+    {
+      id: 70074,
+      question: "Healthy tissue bleeds when gently probed.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 1
+    },
+    {
+      id: 70075,
+      question: "Stippling is also known as dimpling and indicates healthy tissue.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 0
+    },
+    {
+      id: 70076,
+      question: "The gingival margin in healthy tissue is positioned slightly coronal to the CEJ.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 0
+    },
+    {
+      id: 70077,
+      question: "Generalized conditions affect less than 30% of the areas.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 1
+    },
+    {
+      id: 70078,
+      question: "Clefting presents as a \"Y\" shaped margin of tissue.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 0
+    },
+    {
+      id: 70079,
+      question: "Enlarged tissue may be due to medications taken by the client.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 0
+    },
+    {
+      id: 70080,
+      question: "Gingival inflammation is caused by bacterial infection of the gingival tissue by pathogens.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 0
+    },
+    {
+      id: 70081,
+      question: "During inflammation, the gingival tissue color is bright red.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 0
+    },
+    {
+      id: 70082,
+      question: "Inflamed tissue has a firm consistency that resists compression.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 1
+    },
+    {
+      id: 70083,
+      question: "Bulbous papilla is enlarged and appears to bulge out of the interproximal space.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 0
+    },
+    {
+      id: 70084,
+      question: "Blunted papilla is pointed and fills the embrasure.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 1
+    },
+    {
+      id: 70085,
+      question: "Cratered papilla has a \"scooped out\" appearance.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 0
+    },
+    {
+      id: 70086,
+      question: "Marginal distribution affects only the alveolar mucosa.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 1
+    },
+    {
+      id: 70087,
+      question: "Diffuse inflammation affects the gingival margin, papilla, and attached gingiva.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 0
+    },
+    {
+      id: 70088,
+      question: "Spongy tissue is determined by pressing with the side of the probe and the tissue retains an imprint.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 0
+    },
+    {
+      id: 70089,
+      question: "Fibrotic gingiva is hyperkeratinized with an abnormal whitish thickening.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 0
+    },
+    {
+      id: 70090,
+      question: "Fibrotic gingiva can often be found in smokers.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 0
+    },
+    {
+      id: 70091,
+      question: "Stippling gives an orange peel appearance to healthy gingiva.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 0
+    },
+    {
+      id: 70092,
+      question: "Shiny tissue texture is associated with the stretched appearance of soft tissue.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 0
+    },
+    {
+      id: 70093,
+      question: "Acute gingivitis has a sudden onset and short duration.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 0
+    },
+    {
+      id: 70094,
+      question: "After debridement, acute gingivitis tissue returns to a healthy state.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 0
+    },
+    {
+      id: 70095,
+      question: "Chronic gingivitis is less commonly encountered than acute gingivitis.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 1
+    },
+    {
+      id: 70096,
+      question: "The alveolar mucosa has a keratinized outer surface.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 1
+    },
+    {
+      id: 70097,
+      question: "The gingival groove may be absent in some cases.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 0
+    },
+    {
+      id: 70098,
+      question: "\"Low\" bleeding indicates over 50% of sites bleeding.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 1
+    },
+    {
+      id: 70099,
+      question: "Client compliance can be rated as \"needs improvement\" on the soft tissue exam form.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 0
+    },
+    {
+      id: 70100,
+      question: "WNL in oral cancer screenings stands for \"Within Normal Limits.\"",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 0
+    },
+    {
+      id: 70101,
+      question: "The junctional epithelium's coronal portion is the epithelial attachment.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 0
+    },
+    {
+      id: 70102,
+      question: "Healthy tissue is resilient and elastic when tested with gentle pressure.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 0
+    },
+    {
+      id: 70103,
+      question: "The position of inflammation in gingivitis may make the gingival margin appear more coronal due to swelling.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: 0
     }
   ]
 };
