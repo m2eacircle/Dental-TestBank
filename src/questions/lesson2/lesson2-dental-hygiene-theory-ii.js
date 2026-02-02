@@ -5198,17 +5198,6 @@ export const questions = {
       correct: 2
     },
     {
-      id: 55003,
-      question: "What is the minimum age for children to be seen at the Oxford College dental hygiene clinic?",
-      options: [
-        "3 years old",
-        "5 years old",
-        "7 years old",
-        "10 years old",
-      ],
-      correct: 1
-    },
-    {
       id: 55004,
       question: "Which of the following describes client-centered interviewing?",
       options: [
@@ -5218,17 +5207,6 @@ export const questions = {
         "An approach that prioritizes the clinician's treatment plan over client concerns",
       ],
       correct: 2
-    },
-    {
-      id: 55005,
-      question: "How often must medical histories be re-done at the Oxford DH Clinic?",
-      options: [
-        "Every year",
-        "Every 2 years",
-        "Every 3 years",
-        "Every 5 years",
-      ],
-      correct: 1
     },
     {
       id: 55006,
@@ -5262,17 +5240,6 @@ export const questions = {
         "ASA IV",
       ],
       correct: 0
-    },
-    {
-      id: 55009,
-      question: "What color ink must be used to document items in the Medical Alert Box at Oxford DH Clinic?",
-      options: [
-        "Blue ink",
-        "Black ink",
-        "Red ink",
-        "Green ink",
-      ],
-      correct: 2
     },
     {
       id: 55010,
@@ -5407,28 +5374,6 @@ export const questions = {
       correct: 2
     },
     {
-      id: 55022,
-      question: "Which textbook is mentioned as mainly used for this class?",
-      options: [
-        "The Oxford Manual of Dental Hygiene",
-        "Bowen and Pieren textbook",
-        "The American Dental Hygienist's Guide",
-        "Fundamentals of Periodontics",
-      ],
-      correct: 1
-    },
-    {
-      id: 55023,
-      question: "For clients under 16 years of age, who must sign the medical history form at Oxford College?",
-      options: [
-        "The client only",
-        "Any adult family member",
-        "The dental hygienist",
-        "Parent or legal guardian",
-      ],
-      correct: 3
-    },
-    {
       id: 55024,
       question: "What does \"back channeling\" refer to in communication strategies?",
       options: [
@@ -5440,17 +5385,6 @@ export const questions = {
       correct: 1
     },
     {
-      id: 55025,
-      question: "Which of the following is considered a prohibited action for students at Oxford College clinic?",
-      options: [
-        "Treating children under proper supervision",
-        "Treating spouses, boyfriends, girlfriends, or partners",
-        "Taking vital signs",
-        "Documenting medical histories",
-      ],
-      correct: 1
-    },
-    {
       id: 55026,
       question: "What should be done if a client reveals a condition that may jeopardize safety during care?",
       options: [
@@ -5458,17 +5392,6 @@ export const questions = {
         "Cancel all future appointments permanently",
         "Contact the physician of record for consultation",
         "Refer the client to the emergency room immediately",
-      ],
-      correct: 2
-    },
-    {
-      id: 55027,
-      question: "Which method of physician consultation is preferred at Oxford DH Clinic for medico-legal reasons?",
-      options: [
-        "Telephone contact only",
-        "Email communication",
-        "Written request",
-        "Text message",
       ],
       correct: 2
     },
@@ -5493,17 +5416,6 @@ export const questions = {
         "Only for medications that affect dental treatment",
       ],
       correct: 2
-    },
-    {
-      id: 55030,
-      question: "What is the consequence of failing to follow clinical protocols regarding medical history at Oxford College?",
-      options: [
-        "A verbal warning only",
-        "A mark of INCOMPLETE",
-        "Suspension from clinic",
-        "A written exam requirement",
-      ],
-      correct: 1
     },
     {
       id: 55031,
@@ -5601,17 +5513,6 @@ export const questions = {
         "Seasonal allergies",
         "Leukemia",
         "Broken bone",
-      ],
-      correct: 2
-    },
-    {
-      id: 55040,
-      question: "What must accompany a client under 16 years of age at all times in the Oxford College clinic?",
-      options: [
-        "A sibling over 18",
-        "Any adult relative",
-        "A parent",
-        "No one, if the client is responsible",
       ],
       correct: 2
     },
@@ -5935,17 +5836,6 @@ export const questions = {
       correct: 1
     },
     {
-      id: 55070,
-      question: "What type of clients may start completing the medical history form in the reception area at Oxford?",
-      options: [
-        "All clients for all sections",
-        "Only up to personal history and registration",
-        "New clients only",
-        "No clients should start in reception",
-      ],
-      correct: 1
-    },
-    {
       id: 55071,
       question: "Why should health or personal issues requiring discussion be addressed in treatment areas?",
       options: [
@@ -6030,33 +5920,6 @@ export const questions = {
       correct: 0
     },
     {
-      id: 55079,
-      question: "Students at Oxford College are permitted to treat their spouses or partners in the dental hygiene clinic.",
-      options: [
-        "True",
-        "False",
-      ],
-      correct: 1
-    },
-    {
-      id: 55080,
-      question: "The minimum age requirement for children to be seen at Oxford College DH clinic is 5 years old.",
-      options: [
-        "True",
-        "False",
-      ],
-      correct: 0
-    },
-    {
-      id: 55081,
-      question: "Medical histories must be re-done every year at the Oxford DH Clinic.",
-      options: [
-        "True",
-        "False",
-      ],
-      correct: 1
-    },
-    {
       id: 55082,
       question: "MET stands for Medical Emergency Treatment in cardiovascular assessment.",
       options: [
@@ -6068,15 +5931,6 @@ export const questions = {
     {
       id: 55083,
       question: "If a client has an ASA classification of IV or higher, they may not be able to receive elective dental treatment without medical consult.",
-      options: [
-        "True",
-        "False",
-      ],
-      correct: 0
-    },
-    {
-      id: 55084,
-      question: "Items in the Medical Alert Box at Oxford DH Clinic must be written in red ink.",
       options: [
         "True",
         "False",
@@ -6156,26 +6010,8 @@ export const questions = {
       correct: 1
     },
     {
-      id: 55093,
-      question: "Clients under 16 years of age must have a parent or legal guardian sign their medical history form at Oxford College.",
-      options: [
-        "True",
-        "False",
-      ],
-      correct: 0
-    },
-    {
       id: 55094,
       question: "Drug write-ups must be completed for all medications including basic multivitamins like Centrum.",
-      options: [
-        "True",
-        "False",
-      ],
-      correct: 1
-    },
-    {
-      id: 55095,
-      question: "Telephone contact is the preferred method for physician consultation at Oxford DH Clinic for medico-legal reasons.",
       options: [
         "True",
         "False",
@@ -6219,15 +6055,6 @@ export const questions = {
       correct: 0
     },
     {
-      id: 55100,
-      question: "All clients under the age of 16 must have a parent with them at all times in the Oxford College clinic.",
-      options: [
-        "True",
-        "False",
-      ],
-      correct: 0
-    },
-    {
       id: 55101,
       question: "The ASA Physical Status Classification System was developed by the American Dental Association.",
       options: [
@@ -6248,15 +6075,6 @@ export const questions = {
     {
       id: 55103,
       question: "The client should be positioned lying flat during the health history interview for comfort.",
-      options: [
-        "True",
-        "False",
-      ],
-      correct: 1
-    },
-    {
-      id: 55104,
-      question: "Vitals that need monitoring are documented in the medical alert box at Oxford College.",
       options: [
         "True",
         "False",
@@ -13326,17 +13144,6 @@ export const questions = {
       correct: 2
     },
     {
-      id: 62030,
-      question: "Who must provide consent at Oxford College Clinic for sealant placement?",
-      options: [
-        "Any adult neighbor or friend",
-        "A family member only",
-        "The school principal",
-        "Any legal guardian present",
-      ],
-      correct: 1
-    },
-    {
       id: 62031,
       question: "Who is responsible for obtaining informed consent prior to sealant placement?",
       options: [
@@ -13612,17 +13419,6 @@ export const questions = {
       correct: 1
     },
     {
-      id: 62056,
-      question: "Who performs the bite adjustment with a round bur at Oxford College?",
-      options: [
-        "The dental hygiene student independently",
-        "The dental assistant under supervision",
-        "The instructor will do this part",
-        "The dentist must be called in",
-      ],
-      correct: 2
-    },
-    {
       id: 62057,
       question: "What safety equipment must the patient wear during sealant placement?",
       options: [
@@ -13799,15 +13595,6 @@ export const questions = {
       correct: 1
     },
     {
-      id: 62075,
-      question: "At Oxford College Clinic, guardianship can be transferred to a neighbor or friend.",
-      options: [
-        "True",
-        "False",
-      ],
-      correct: 1
-    },
-    {
       id: 62076,
       question: "Sealant integrity must be reassessed at each re-care visit.",
       options: [
@@ -13860,15 +13647,6 @@ export const questions = {
         "False",
       ],
       correct: 1
-    },
-    {
-      id: 62082,
-      question: "At Oxford College, the instructor performs the bite adjustment with a round bur.",
-      options: [
-        "True",
-        "False",
-      ],
-      correct: 0
     },
     {
       id: 62083,
