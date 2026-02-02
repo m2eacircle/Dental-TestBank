@@ -5320,7 +5320,7 @@ export const questions = {
     },
     {
       id: 55017,
-      question: "What percentage of adults in the United States are functionally illiterate according to the lecture?",
+      question: "What percentage of adults in the United States are functionally illiterate ?",
       options: [
         "1 in 5",
         "1 in 7",
@@ -5408,7 +5408,7 @@ export const questions = {
     },
     {
       id: 55029,
-      question: "How should drug write-ups be completed in clinic according to the lecture?",
+      question: "How should drug write-ups be completed in clinic ?",
       options: [
         "Only for prescription medications",
         "For all medications including multivitamins like Centrum",
@@ -5463,7 +5463,7 @@ export const questions = {
     },
     {
       id: 55035,
-      question: "According to the lecture, what can medical issues do in relation to periodontal diseases?",
+      question: "What can medical issues do in relation to periodontal diseases?",
       options: [
         "Completely prevent periodontal diseases",
         "Have no effect on periodontal health",
@@ -5485,7 +5485,7 @@ export const questions = {
     },
     {
       id: 55037,
-      question: "What should students do before each clinical session according to the lecture?",
+      question: "What should students do before each clinical session ?",
       options: [
         "Only bring their instruments",
         "Review client charts and come prepared",
@@ -5661,7 +5661,7 @@ export const questions = {
     },
     {
       id: 55054,
-      question: "According to the lecture, where can medical clearance forms be found?",
+      question: "Where can medical clearance forms be found?",
       options: [
         "In the textbook only",
         "Online at the ADA website",
@@ -5826,7 +5826,7 @@ export const questions = {
     },
     {
       id: 55069,
-      question: "According to the lecture, what facilitates planning appropriate modifications to the care plan?",
+      question: "What facilitates planning appropriate modifications to the care plan?",
       options: [
         "Ignoring potential barriers",
         "Early recognition of barriers to effective communication",
