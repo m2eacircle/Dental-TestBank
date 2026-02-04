@@ -623,7 +623,9 @@ export const subjectsWithSubtopics = {
     "8. Respiratory System Disorders (Part 1)",
     "8. Respiratory System Disorders (Part 2)",
     "9. Digestive System Disorders (Part 1)",
-    "9. Digestive System Disorders (Part 2)"
+    "9. Digestive System Disorders (Part 2)",
+    "10. Endocrine System Disorders",
+    "11. Neoplasms and Cancer"
   ],
   "Dental Hygiene Theory II": [
     "1-1. Medical and Dental History",
