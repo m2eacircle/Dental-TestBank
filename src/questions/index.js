@@ -662,7 +662,9 @@ export const subjectsWithSubtopics = {
     "4. Gingival diseases",
     "5. Periodontal diseases",
     "5. Periodontal diseases (Case Study)",
-    "6. Systemic diseases and periodontal health"
+    "6. Systemic diseases and periodontal health",
+    "7. TMD and Periodontal Diseases",
+    "8. Periodontal Diseases and Risk Assessment"
   ],
   "Dental Radiography Theory": [
     "1. Radiation History & Radiation Physics",
