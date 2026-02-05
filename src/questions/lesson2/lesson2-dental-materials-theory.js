@@ -914,7 +914,7 @@ export const questions = {
     { id: 1559, question: "What are sectional matrix systems used for?", options: ["Full crown buildup and cervical restorations exclusively", "Anterior teeth requiring clear plastic strip matrices", "Class II composite restorations with better proximal contacts", "Amalgam restorations requiring circumferential banding"], correct: 2 },
     { id: 1560, question: "What is a circumferential matrix system and what are its characteristics?", options: ["Sectional bands with pressure rings creating tooth separation for tight contacts", "Clear plastic matrices extending subgingivally for cervical restorations", "Tofflemire system wrapping around entire tooth, more difficult with composites due to shrinkage", "Mylar strips used for anterior teeth allowing light transmission"], correct: 2 },
     { id: 1561, question: "What is a cervical matrix and what is it used for?", options: ["Metal bands for posterior Class II amalgam restorations", "Clear plastic matrices for cervical composite or glass ionomer restorations", "Sectional bands with pressure rings for tight proximal contacts", "Circumferential Tofflemire system for full coverage restorations"], correct: 1 }
-,
+  ],
   "5. Glass Ionomers and Compomers": [
     { id: 1562, question: "What are the three correct parameters required for composite curing?", options: ["Energy, exposure time, and temperature", "Energy, exposure time, and wavelength", "Wavelength, intensity, and temperature", "Temperature, pressure, and wavelength"], correct: 1 },
     { id: 1563, question: "What is the minimum light output required for adequate composite curing?", options: ["100-200 mW/cm\u00b2", "200-300 mW/cm\u00b2", "300-400 mW/cm\u00b2", "400-500 mW/cm\u00b2"], correct: 2 },
