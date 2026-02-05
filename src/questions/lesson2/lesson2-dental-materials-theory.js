@@ -1057,7 +1057,7 @@ export const questions = {
     { id: 1700, question: "How is the ceramic restoration created in CAD/CAM?", options: ["Hand-carved by the dentist", "Milled from a ceramic block", "Poured into a mold", "3D printed from resin"], correct: 1 },
     { id: 1701, question: "What is a major advantage of CAD/CAM ceramic restorations?", options: ["Lower initial equipment cost", "Can be completed in one appointment", "Never require occlusal adjustment", "Last forever without maintenance"], correct: 1 }
   ],
-  "7. Preventive and Abrasive Materials (Part 1)": [
+  "7. Preventive and Abrasive (Part 1)": [
     { id: 1702, question: "What are the two most common types of dental diseases?", options: ["Periodontal disease and oral cancer", "Dental caries and periodontal disease", "Tooth erosion and gum recession", "Gingivitis and dental abscesses"], correct: 1 },
     { id: 1703, question: "What is the primary goal of preventive dentistry?", options: ["To treat dental emergencies quickly", "To reduce the cost of dental care", "To achieve optimal oral health for a lifetime", "To eliminate the need for restorations"], correct: 2 },
     { id: 1704, question: "Which bacterium is the leading cause of tooth decay?", options: ["Porphyromonas gingivalis", "Streptococcus mutans", "Lactobacillus acidophilus", "Actinomyces naeslundii"], correct: 1 },
@@ -1137,7 +1137,7 @@ export const questions = {
     { id: 1778, question: "Which fluoride type is ideal for adults with restorations?", options: ["APF (acidulated phosphate fluoride)", "Stannous fluoride", "NaF (neutral sodium fluoride)", "Fluoride varnish only"], correct: 2 },
     { id: 1779, question: "How is fluoride varnish applied?", options: ["In a tray for 4 minutes", "As a rinse for 60 seconds", "Directly to the tooth surface", "Mixed with prophy paste"], correct: 2 }
   ],
-  "7. Preventive and Abrasive Materials (Part 2)": [
+  "7. Preventive and Abrasive (Part 2)": [
     { id: 1780, question: "What is the primary consequence of incomplete etching of the enamel surface during sealant placement?", options: ["Increased fluoride uptake by the tooth", "Decreased retention of the sealant", "Enhanced biofilm accumulation on the surface", "Improved occlusal adjustment of the restoration"], correct: 1 },
     { id: 1781, question: "After etching the enamel surface, what visual appearance indicates successful etching?", options: ["A shiny, translucent appearance with smooth texture", "A frosty white matte appearance on the surface", "A yellowish discoloration with rough patches distributed unevenly", "A gray, cloudy appearance with visible striations"], correct: 1 },
     { id: 1782, question: "What should be done if the frosty white matte enamel surface is not evident after the initial etching procedure?", options: ["Proceed with sealant placement using additional adhesive materials", "Apply a bonding agent to compensate for inadequate preparation", "Repeat the etch step to ensure proper surface preparation", "Increase the viscosity of the sealant material before application"], correct: 2 },
