@@ -655,7 +655,14 @@ export const subjectsWithSubtopics = {
     "3. Dental amalgams, Metals and Alloys (Part 3)",
     "4. Composites (Part 1)",
     "4. Composites (Part 2)",
-    "4. Composites (Part 3)"
+    "4. Composites (Part 3)",
+    "5. Glass Ionomers and Compomers",
+    "7. Preventive and Abrasive (Part 1)",
+    "7. Preventive and Abrasive (Part 2)",
+    "8. Teeth Whitening Materials and Corrective Appliances",
+    "9. Dental Dam and Implants (Part 1)",
+    "9. Dental Dam and Implants (Part 2)",
+    "10. Dental Cements"
   ],
   "Periodontology I": [
     "1. Periodontal Anatomy",
