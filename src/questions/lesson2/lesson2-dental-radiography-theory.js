@@ -11,7 +11,7 @@
 //   8. Dental Radiography Theory (63 questions) - COMPLETE
 
 export const questions = {
-  "1. Radiation History & Radiation Physics": [
+  "1. Radiation History & Radiation Physics (Part 1)": [
     { id: 1620, question: "What is the main function of the vacuum inside the X-ray tube?", options: ["To accelerate the electrons faster", "To prevent electrons from colliding with air molecules", "To increase heat production", "To cool the anode"], correct: 1 },
     { id: 1621, question: "The vacuum in the X-ray tube also prevents:", options: ["Metal oxidation inside the tube", "X-ray scattering", "Photon filtration", "Oil leakage"], correct: 0 },
     { id: 1622, question: "The metal housing around the X-ray tube primarily serves to:", options: ["Increase radiation intensity", "Prevent electric shock and radiation leakage", "Produce characteristic radiation", "Hold the anode in place"], correct: 1 },
@@ -288,7 +288,7 @@ export const questions = {
     { id: 1893, question: "What does the embossed identification dot determine?", options: ["Film expiration", "Film orientation for mounting", "Exposure intensity", "Film speed"], correct: 1 },
     { id: 1894, question: "What is the purpose of the step-up transformer?", options: ["Reduce voltage", "Stabilize voltage fluctuations", "Increase voltage to accelerate electrons", "Prevent film fog"], correct: 2 }
   ],
-  "2. Dental X-ray Equipment, Film Processing": [
+  "2. Dental X-ray Equipment, Film Processing (Part 1)": [
     { id: 1895, question: "Which component of the X-ray film is the radiation-sensitive layer?", options: ["Base", "Adhesive", "Emulsion", "Protective coating"], correct: 2 },
     { id: 1896, question: "Why does double emulsion film require less radiation?", options: ["It absorbs less light", "It is thicker", "Both sides of the film are sensitive", "It has a faster base"], correct: 2 },
     { id: 1897, question: "Which size film is most commonly used for adult periapical exposures?", options: ["0", "1", "2", "3"], correct: 2 },
@@ -545,7 +545,7 @@ export const questions = {
     { id: 2148, question: "What is the purpose of film mounts?", options: ["Arrange and identify radiographs properly", "Reduce radiation", "Increase density", "Store chemicals"], correct: 0 },
     { id: 2149, question: "The overall goal of radiographic practice is to:", options: ["Produce diagnostic-quality images with minimal exposure", "Complete exams quickly", "Eliminate all radiation", "Replace digital systems"], correct: 0 }
   ],
-  "3. X-Ray Production and Equipment": [
+  "3. X-Ray Production and Equipment (Part 1)": [
     // X-ray Discovery & Physics (13 questions)
     { id: 2150, question: "Who discovered X-rays?", options: ["Wilhelm Conrad Roentgen", "Pierre Curie", "G.V. Black", "William Morton"], correct: 0 },
     { id: 2151, question: "X-rays are a form of:", options: ["Particulate radiation", "Electromagnetic radiation", "Sound waves", "Alpha particles"], correct: 1 },
@@ -803,7 +803,7 @@ export const questions = {
     { id: 2365, question: "What was the instructor's closing message regarding radiography practice?", options: ["Follow all safety rules, respect your role, and never compromise ethics", "Take shortcuts to finish faster", "Avoid monitoring devices", "Skip maintenance if busy"], correct: 0 },
     { id: 2366, question: "What was the instructor's view on continuous learning?", options: ["Stay updated because radiography techniques and safety standards evolve", "Only learn during school", "Once certified, no updates are needed", "Focus only on clinical skills"], correct: 0 }
   ],
-  "4. Film Mounting and Quality Control": [
+  "4. Film Mounting and Quality Control (Part 1)": [
     // Film Mounting - Labial vs Lingual (11 questions)
     { id: 2367, question: "In labial mounting, how should the identification dot appear?", options: ["Dimple toward the viewer", "Pimple toward the viewer", "Should not be visible", "Either way is fine"], correct: 1 },
     { id: 2368, question: "Under labial mounting, the left side of the mount represents:", options: ["The viewer's left", "The patient's left", "The patient's right", "The viewer's right"], correct: 2 },
@@ -1061,7 +1061,7 @@ export const questions = {
     { id: 2580, question: "The Curve of Spee on properly mounted bitewings should appear:", options: ["Reversed", "Flat", "Convex downward (correct curvature)", "Irregular zigzag"], correct: 2 },
     { id: 2581, question: "Labial vs lingual mounting: in routine practice we use:", options: ["Labial (dot/pimple toward the viewer; view as facing the patient)", "Lingual (dimple toward viewer)", "Either—both standard in clinics", "Lingual only for pediatrics"], correct: 0 }
   ],
-  "5. Film Processing Chemistry": [
+  "5. Film Processing Chemistry (Part 1)": [
     // Processing Chemistry - Developer (11 questions)
     { id: 2582, question: "The developer's main function is to:", options: ["Reduce exposed silver halide crystals to black metallic silver", "Remove unexposed crystals", "Harden the emulsion", "Fix the latent image"], correct: 0 },
     { id: 2583, question: "Which chemical acts as the reducing agent in the developer?", options: ["Hydroquinone and Elon (Metol)", "Sodium thiosulfate", "Potassium bromide", "Acetic acid"], correct: 0 },
@@ -1368,7 +1368,7 @@ export const questions = {
     { id: 3194, question: "Which of the following structures should appear MOST radiopaque?", options: ["Pulp", "Soft tissue", "Metal crown", "Cancellous bone"], correct: 2 },
     { id: 3195, question: "The ability to distinguish enamel from dentin depends mainly on:", options: ["Sharpness", "Density", "Contrast", "Magnification"], correct: 2 }
   ],
-  "6. Radiographic Density and Exposure Factors": [
+  "6. Radiographic Density and Exposure Factors (Part 1)": [
     // Density - Basic Concepts (10 questions)
     { id: 2728, question: "In radiography, density of the image means:", options: ["Thickness of the enamel", "Number of crystals in the film", "Overall darkness or blackness of the radiographic image", "Amount of radiation produced by the tubehead"], correct: 2 },
     { id: 2729, question: "A radiograph that appears very dark overall is described as having:", options: ["Low density", "High density", "No contrast", "High sharpness"], correct: 1 },
@@ -1675,7 +1675,7 @@ export const questions = {
     { id: 2968, question: "Purpose of occlusal radiograph:", options: ["Check interproximal decay", "Capture large area of maxilla or mandible", "Detect TMJ disorders", "Measure root length only"], correct: 1 },
     { id: 2969, question: "Ideal image shows:", options: ["Good density, contrast, sharpness, minimal distortion", "Only crown", "Only roots", "Overlapped contacts"], correct: 0 }
   ],
-  "7. Beam Quality and Inverse Square Law": [
+  "7. Beam Quality and Inverse Square Law (Part 1)": [
     // Beam Quality & Exposure Factors - kVp (13 questions)
     { id: 2970, question: "Which factor is the primary controller of X-ray beam quality (penetrating power)?", options: ["Exposure time", "Milliamperage (mA)", "Kilovoltage peak (kVp)", "Source–receptor distance"], correct: 2 },
     { id: 2971, question: "Which of the following controls x-ray beam quality?", options: ["mA", "Exposure time", "kVp", "Source-to-film distance"], correct: 2 },
@@ -1801,7 +1801,7 @@ export const questions = {
     // Bisecting Technique Elongation (1 question)
     { id: 3054, question: "Bisecting Technique: elongation occurs when:", options: ["Central ray too steep", "Central ray too shallow", "Horizontal angulation too far mesial", "Dot not placed occlusally"], correct: 1 }
   ],
-  "8. Bisecting Angle Technique": [
+  "8. Bisecting Angle Technique (Part 1)": [
     // Bisecting Angle Technique - Basic Principles (7 questions)
     { id: 2665, question: "In the bisecting angle technique, the imaginary bisector is the line that:", options: ["Divides the root into two equal halves", "Divides the angle between the tooth's long axis and the receptor into two equal parts", "Is parallel to the occlusal plane", "Is perpendicular to the long axis of the tooth"], correct: 1 },
     { id: 2666, question: "The rule of isometry in bisecting angle technique states that:", options: ["Two triangles with equal bases are always congruent", "Two triangles with one common side and two equal angles are congruent", "All right triangles are congruent", "Any triangle with a 90° angle is isometric"], correct: 1 },
