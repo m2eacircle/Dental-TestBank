@@ -3020,7 +3020,7 @@ export const questions = {
     { id: 3819, question: "Which developer component is very temperature sensitive?", options: ["Elon works best at varying temperatures", "Potassium bromide requires constant temperature", "Hydroquinone is very temperature sensitive and works best at 68°F", "Sodium sulfite maintains activity across all temperatures"], correct: 2 },
     { id: 3820, question: "Which developer component is not temperature sensitive?", options: ["Hydroquinone requires precise temperature control", "Potassium bromide is highly temperature dependent", "Elon is not temperature sensitive", "Sodium sulfite needs constant monitoring"], correct: 2 },
     { id: 3821, question: "What is the key ingredient in developer that prevents fogging?", options: ["Hydroquinone as the primary reducing agent", "Elon as the secondary reducing agent", "Sodium sulfite as the preservative", "Potassium bromide as the restrainer"], correct: 3 }
-  ],,
+  ],
 
   "6. Radiographic Density and Exposure Factors (Part 2)": [
     { id: 3822, question: "What is a dental radiograph composed of?", options: ["A dental radiograph is a colored image with red and blue components", "A dental radiograph is a white and black image including varying shades of grey", "A dental radiograph is a three-dimensional holographic projection image", "A dental radiograph is a negative image with inverted color spectrum"], correct: 1 },
@@ -3077,7 +3077,7 @@ export const questions = {
     { id: 3873, question: "When does improper film alignment occur?", options: ["Improper alignment occurs when object and film are not parallel to each other", "Improper alignment occurs when object and film are parallel", "Improper alignment occurs when object and film are perfectly matched", "Improper alignment occurs when object and film are equidistant"], correct: 0 },
     { id: 3874, question: "When does improper x-ray angulation cause distortion?", options: ["When beam is perpendicular to film and tooth perfectly", "When beam is parallel to film and tooth simultaneously", "When beam is tangential to film and tooth surfaces", "When beam is not perpendicular to film and tooth"], correct: 3 },
     { id: 3875, question: "What else can cause shape and size distortion?", options: ["Equal magnification of the same object creates distortion", "Unequal magnification of the same object causes distortion", "Consistent magnification of the same object prevents distortion", "No magnification of the same object eliminates distortion"], correct: 1 }
-  ],,
+  ],
 
   "7. Beam Quality and Inverse Square Law (Part 2)": [
     { id: 3876, question: "What determines the energy and penetrating power of the x-ray beam?", options: ["Wavelength determines the energy and penetrating power of x-ray beam", "Film speed determines the energy and penetrating power of x-ray beam", "Patient size determines the energy and penetrating power of x-ray beam", "Processing time determines the energy and penetrating power of x-ray beam"], correct: 0 },
@@ -3153,7 +3153,7 @@ export const questions = {
     { id: 3946, question: "What determines open contact in bite-wing radiography?", options: ["Vertical angulation determines open contact visualization", "Horizontal angulation determines open contact visualization", "Film size determines open contact visualization", "Exposure time determines open contact visualization"], correct: 1 },
     { id: 3947, question: "What is the vertical angulation for bite-wing radiography?", options: ["Vertical angulation is set at 0 degrees", "Vertical angulation is set at -10 degrees", "Vertical angulation is set at +20 degrees", "Vertical angulation is set at +10 degrees"], correct: 3 },
     { id: 3948, question: "What replaces missing teeth during bite-wing radiography?", options: ["Plastic wedges replace missing teeth during radiography", "Cotton roll replaces missing teeth during radiography", "Metal clips replace missing teeth during radiography", "Nothing replaces missing teeth during radiography"], correct: 1 }
-  ],,
+  ],
 
   "8. Bisecting Angle Technique (Part 2)": [
     { id: 3949, question: "What is an angle in geometric terms?", options: ["An angle is three lines forming a closed shape", "An angle is two lines extending from a common point", "An angle is a curved line connecting two points", "An angle is a parallel set of lines at equal distance"], correct: 1 },
