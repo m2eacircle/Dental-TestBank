@@ -665,8 +665,10 @@ export const subjectsWithSubtopics = {
     "10. Dental Cements"
   ],
   "Periodontology I": [
-    "1. Periodontal Anatomy",
-    "2. The microbiology of periodontal diseases",
+    "1. Periodontal Anatomy (Part 1)",
+    "1. Periodontal Anatomy (Part 2)",
+    "2. The microbiology of periodontal diseases (Part 1)",
+    "2. The microbiology of periodontal diseases (Part 2)",
     "3. Calculus and other disease associated factors",
     "4. Gingival diseases",
     "5. Periodontal diseases",
