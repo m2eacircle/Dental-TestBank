@@ -10,7 +10,7 @@ import { questions as statisticsResearchQuestions } from './lesson1/lesson1-intr
 import { questions as microbiologyQuestions } from './lesson1/lesson1-microbiology.js';
 
 // Lesson 2 imports
-import { questions as radiographyTheoryQuestions } from './lesson2-dental-radiography-theory.js';
+import { questions as radiographyTheoryQuestions } from './lesson2/lesson2-dental-radiography-theory.js';
 import { questions as pathophysiologyQuestions } from './lesson2/lesson2-pathophysiology.js';
 import { questions as dentalMaterialsQuestions } from './lesson2/lesson2-dental-materials-theory.js';
 import { questions as periodontologyQuestions } from './lesson2/lesson2-periodontology-i.js';
