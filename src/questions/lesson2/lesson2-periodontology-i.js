@@ -2,7 +2,7 @@
 // lesson2-periodontology-i.js
 
 export const questions = {
-  "1. Periodontal Anatomy": [
+  "1. Periodontal Anatomy (Part 1)": [
     { id: 1113, question: "The gingiva is part of the oral mucosa that:", options: ["Covers the alveolar processes and surrounds the necks of the teeth", "Covers the tongue surface", "Lines the pharynx", "Covers the palate only"], correct: 0 },
     { id: 1114, question: "In health, the color of gingiva is usually:", options: ["Red", "Coral pink", "White", "Purple"], correct: 1 },
     { id: 1115, question: "The variation in gingival color depends primarily on:", options: ["Bone density", "Amount of melanin pigmentation", "Enamel shade", "Blood type"], correct: 1 },
@@ -226,7 +226,7 @@ export const questions = {
     { id: 1333, question: "The periodontal ligament is innervated primarily by branches of the:", options: ["Facial nerve (VII)", "Trigeminal nerve (V)", "Glossopharyngeal nerve (IX)", "Hypoglossal nerve (XII)"], correct: 1 },
     { id: 1334, question: "Sensory nerve endings in the periodontal ligament detect:", options: ["Taste", "Pressure and proprioception", "Temperature", "Pain only"], correct: 1 }
   ],
-  "2. The microbiology of periodontal diseases": [
+  "2. The microbiology of periodontal diseases (Part 1)": [
     { id: 1335, question: "The oral epithelium of the gingiva is primarily:", options: ["Nonkeratinized", "Keratinized or parakeratinized", "Transitional", "Cuboidal"], correct: 1 },
     { id: 1336, question: "The sulcular epithelium extends from the outer epithelium into:", options: ["The gingival sulcus", "The periodontal ligament", "The lamina propria", "The alveolar crest"], correct: 0 },
     { id: 1337, question: "Which statement about sulcular epithelium is TRUE?", options: ["It is keratinized with rete pegs", "It is nonkeratinized and smooth in health", "It is attached to the tooth by hemidesmosomes", "It contains melanocytes and Merkel cells"], correct: 1 },
