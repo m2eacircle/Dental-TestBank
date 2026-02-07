@@ -161,39 +161,39 @@ export const subjectsWithSubtopics = {
     "Dental Hygiene Theory IV"
   ],
   "Board Exam": [
-    "Professional Practice and Foundations",
-    "Community and Public Health",
-    "Infection Control and Safety",
-    "Clinical Environment and Ergonomics",
-    "Patient Assessment and Health History",
-    "Oral Assessment and Diagnosis",
-    "Care Planning and Documentation",
-    "Preventive Care and Patient Education",
-    "Instrumentation and Clinical Procedures",
-    "Periodontal Therapy",
-    "Restorative and Specialty Care",
-    "Pain and Anxiety Management",
-    "Special Populations",
-    "Medical Conditions and Systemic Diseases",
-    "Mental Health and Well-Being"
+    "BX1-Professional Practice and Foundations",
+    "BX1-Community and Public Health",
+    "BX1-Infection Control and Safety",
+    "BX1-Clinical Environment and Ergonomics",
+    "BX1-Patient Assessment and Health History",
+    "BX1-Oral Assessment and Diagnosis",
+    "BX1-Care Planning and Documentation",
+    "BX1-Preventive Care and Patient Education",
+    "BX1-Instrumentation and Clinical Procedures",
+    "BX1-Periodontal Therapy",
+    "BX1-Restorative and Specialty Care",
+    "BX1-Pain and Anxiety Management",
+    "BX1-Special Populations",
+    "BX1-Medical Conditions and Systemic Diseases",
+    "BX1-Mental Health and Well-Being"
   ],
   "Board Exam 2": [
-    "2 - Professional Foundations and Communication",
-    "2 - Infection Control and Safety",
-    "2 - Clinical Environment and Documentation",
-    "2 - Patient Assessment and Health History",
-    "2 - Imaging and Diagnostic Methods",
-    "2 - Oral Anatomy and Disease Processes",
-    "2 - Periodontal Assessment and Therapy",
-    "2 - Care Planning and Evaluation",
-    "2 - Preventive Care and Patient Education",
-    "2 - Instrumentation & Clinical Procedures",
-    "2 - Pain, Anxiety and Sensitivity Management",
-    "2 - Special Oral Care Situations",
-    "2 - Special Populations",
-    "2 - Medical Conditions Affecting Dental Care"
+    "BX2-Professional Foundations and Communication",
+    "BX2-Infection Control and Safety",
+    "BX2-Clinical Environment and Documentation",
+    "BX2-Patient Assessment and Health History",
+    "BX2-Imaging and Diagnostic Methods",
+    "BX2-Oral Anatomy and Disease Processes",
+    "BX2-Periodontal Assessment and Therapy",
+    "BX2-Care Planning and Evaluation",
+    "BX2-Preventive Care and Patient Education",
+    "BX2-Instrumentation & Clinical Procedures",
+    "BX2-Pain, Anxiety and Sensitivity Management",
+    "BX2-Special Oral Care Situations",
+    "BX2-Special Populations",
+    "BX2-Medical Conditions Affecting Dental Care"
   ],
-  "Professional Practice and Foundations": [
+  "BX1-Professional Practice and Foundations": [
     "1. Dental Hygiene Profession",
     "1. Dental Hygiene Profession (Case Study)",
     "2. Dental Hygiene Practice Models",
@@ -211,7 +211,7 @@ export const subjectsWithSubtopics = {
     "8. Teledentistry",
     "8. Teledentistry (Case Study)"
   ],
-  "Community and Public Health": [
+  "BX1-Community and Public Health": [
     "1. Community Oral Health",
     "1. Community Oral Health (Case Study)",
     "2. Health Behavior Change",
@@ -219,19 +219,19 @@ export const subjectsWithSubtopics = {
     "3. Inclusive Patient Care",
     "3. Inclusive Patient Care (Case Study)"
   ],
-  "Infection Control and Safety": [
+  "BX1-Infection Control and Safety": [
     "1. Infection Control",
     "1. Infection Control (Case Study)",
     "2. Medical Emergencies in Dentistry",
     "2. Medical Emergencies in Dentistry (Case Study)"
   ],
-  "Clinical Environment and Ergonomics": [
+  "BX1-Clinical Environment and Ergonomics": [
     "1. Dental Hygiene Practice Settings",
     "1. Dental Hygiene Practice Settings (Case Study)",
     "2. Ergonomics and Workplace Injuries",
     "2. Ergonomics and Workplace Injuries (Case Study)"
   ],
-  "Patient Assessment and Health History": [
+  "BX1-Patient Assessment and Health History": [
     "1. Patient Health Histories",
     "1. Patient Health Histories (Case Study)",
     "2. Vital Signs Assessment",
@@ -241,7 +241,7 @@ export const subjectsWithSubtopics = {
     "4. Head and Neck Examination",
     "4. Head and Neck Examination (Case Study)"
   ],
-  "Oral Assessment and Diagnosis": [
+  "BX1-Oral Assessment and Diagnosis": [
     "1. Tooth Assessment and Charting",
     "1. Tooth Assessment and Charting (Case Study)",
     "2. Plaque, Calculus, and Stain Assessment",
@@ -255,11 +255,11 @@ export const subjectsWithSubtopics = {
     "6. Dental Hygiene Diagnosis",
     "6. Dental Hygiene Diagnosis (Case Study)"
   ],
-  "Care Planning and Documentation": [
+  "BX1-Care Planning and Documentation": [
     "1. Care Planning, Evaluation, and Documentation",
     "1. Care Planning, Evaluation, and Documentation (Case Study)"
   ],
-  "Preventive Care and Patient Education": [
+  "BX1-Preventive Care and Patient Education": [
     "1. Toothbrushing Techniques",
     "1. Toothbrushing Techniques (Case Study)",
     "2. Interdental and Oral Care Aids",
@@ -275,7 +275,7 @@ export const subjectsWithSubtopics = {
     "7. Tobacco Cessation Counseling",
     "7. Tobacco Cessation Counseling (Case Study)"
   ],
-  "Instrumentation and Clinical Procedures": [
+  "BX1-Instrumentation and Clinical Procedures": [
     "1. Hand Instrumentation",
     "1. Hand Instrumentation (Case Study)",
     "2. Ultrasonic Instrumentation",
@@ -287,13 +287,13 @@ export const subjectsWithSubtopics = {
     "5. Dental Impressions and Oral Appliances",
     "5. Dental Impressions and Oral Appliances (Case Study)"
   ],
-  "Periodontal Therapy": [
+  "BX1-Periodontal Therapy": [
     "1. Nonsurgical Periodontal Therapy Decisions",
     "1. Nonsurgical Periodontal Therapy Decisions (Case Study)",
     "2. Acute Periodontal Conditions",
     "2. Acute Periodontal Conditions (Case Study)"
   ],
-  "Restorative and Specialty Care": [
+  "BX1-Restorative and Specialty Care": [
     "1. Dental Implants and Implant Care",
     "1. Dental Implants and Implant Care (Case Study)",
     "2. Restorative Dental Care",
@@ -305,14 +305,14 @@ export const subjectsWithSubtopics = {
     "5. Tooth Sensitivity",
     "5. Tooth Sensitivity (Case Study)"
   ],
-  "Pain and Anxiety Management": [
+  "BX1-Pain and Anxiety Management": [
     "1. Local Anesthesia",
     "1. Local Anesthesia (Case Study 1)",
     "1. Local Anesthesia (Case Study 2)",
     "2. Nitrous Oxide Sedation",
     "2. Nitrous Oxide Sedation (Case Study)"
   ],
-  "Special Populations": [
+  "BX1-Special Populations": [
     "1. Pediatric and Adolescent Care",
     "1. Pediatric and Adolescent Care (Case Study)",
     "2. Pregnancy and Oral Health",
@@ -332,7 +332,7 @@ export const subjectsWithSubtopics = {
     "9. Neurologic Disabilities",
     "9. Neurologic Disabilities (Case Study)"
   ],
-  "Medical Conditions and Systemic Diseases": [
+  "BX1-Medical Conditions and Systemic Diseases": [
     "1. Cardiovascular Disease and Oral Health",
     "1. Cardiovascular Disease and Oral Health (Case Study)",
     "2. Diabetes and Oral Health",
@@ -352,11 +352,11 @@ export const subjectsWithSubtopics = {
     "9. Eating Disorders",
     "9. Eating Disorders (Case Study)"
   ],
-  "Mental Health and Well-Being": [
+  "BX1-Mental Health and Well-Being": [
     "1. Mental Health and Self-Care",
     "1. Mental Health and Self-Care (Case Study)"
   ],
-    "2 - Professional Foundations and Communication": [
+    "BX2-Professional Foundations and Communication": [
     "1. Role of the Dental Hygienist",
     "1. Role of the Dental Hygienist (Case Study)",
     "2. Evidence-Based Practice Basics",
@@ -367,7 +367,7 @@ export const subjectsWithSubtopics = {
     "4. Dental Hygiene in Alternative Settings (Case Study)"
   ],
 
-  "2 - Infection Control and Safety": [
+  "BX2-Infection Control and Safety": [
     "1. Infectious Diseases and Infection Control",
     "1. Infectious Diseases and Infection Control (Case Study)",
     "2. Protective Barriers for Safety",
@@ -378,14 +378,14 @@ export const subjectsWithSubtopics = {
     "4. Dental Emergencies (Case Study)"
   ],
 
-  "2 - Clinical Environment and Documentation": [
+  "BX2-Clinical Environment and Documentation": [
     "1. Patient Reception and Ergonomics",
     "1. Patient Reception and Ergonomics (Case Study)",
     "2. Dental Hygiene Documentation",
     "2. Dental Hygiene Documentation (Case Study)"
   ],
 
-  "2 - Patient Assessment and Health History": [
+  "BX2-Patient Assessment and Health History": [
     "1. Patient Health Histories 2",
     "1. Patient Health Histories 2 (Case Study)",
     "2. Measuring Vital Signs",
@@ -394,7 +394,7 @@ export const subjectsWithSubtopics = {
     "3. Oral and Facial Examination (Case Study)"
   ],
 
-  "2 - Imaging and Diagnostic Methods": [
+  "BX2-Imaging and Diagnostic Methods": [
     "1. Dental X-Rays",
     "1. Dental X-Rays (Case Study)",
     "2. Dental Indices and Scoring",
@@ -403,7 +403,7 @@ export const subjectsWithSubtopics = {
     "3. Dental Hygiene Diagnosis (Case Study)"
   ],
 
-  "2 - Oral Anatomy and Disease Processes": [
+  "BX2-Oral Anatomy and Disease Processes": [
     "1. Tooth Structure Examination",
     "1. Tooth Structure Examination (Case Study)",
     "2. Plaque, Calculus, and Stain",
@@ -414,7 +414,7 @@ export const subjectsWithSubtopics = {
     "4. Development of Periodontal Disease (Case Study)"
   ],
 
-  "2 - Periodontal Assessment and Therapy": [
+  "BX2-Periodontal Assessment and Therapy": [
     "1. Periodontal Assessment",
     "1. Periodontal Assessment (Case Study)",
     "2. Nonsurgical Periodontal Treatment",
@@ -423,7 +423,7 @@ export const subjectsWithSubtopics = {
     "3. Sutures and Periodontal Dressings (Case Study)"
   ],
 
-  "2 - Care Planning and Evaluation": [
+  "BX2-Care Planning and Evaluation": [
     "1. Care Planning in Dental Hygiene",
     "1. Care Planning in Dental Hygiene (Case Study)",
     "2. Patient Evaluation",
@@ -432,7 +432,7 @@ export const subjectsWithSubtopics = {
     "3. Ongoing and Recall Care (Case Study)"
   ],
 
-  "2 - Preventive Care and Patient Education": [
+  "BX2-Preventive Care and Patient Education": [
     "1. Patient Education and Behavior Change",
     "1. Patient Education and Behavior Change (Case Study)",
     "2. Caries Prevention and Control",
@@ -451,7 +451,7 @@ export const subjectsWithSubtopics = {
     "8. Dental Sealants (Case Study)"
   ],
 
-  "2 - Instrumentation & Clinical Procedures": [
+  "BX2-Instrumentation & Clinical Procedures": [
     "1. Dental Instruments and Instrumentation",
     "1. Dental Instruments and Instrumentation (Case Study)",
     "2. Instrument Maintenance and Sharpening",
@@ -462,14 +462,14 @@ export const subjectsWithSubtopics = {
     "4. Tooth Whitening (Case Study)"
   ],
 
-  "2 - Pain, Anxiety and Sensitivity Management": [
+  "BX2-Pain, Anxiety and Sensitivity Management": [
     "1. Pain and Anxiety Management",
     "1. Pain and Anxiety Management (Case Study)",
     "2. Tooth Sensitivity",
     "2. Tooth Sensitivity (Case Study)"
   ],
 
-  "2 - Special Oral Care Situations": [
+  "BX2-Special Oral Care Situations": [
     "1. Care for Orthodontic Patients",
     "1. Care for Orthodontic Patients (Case Study)",
     "2. Care of Dental Prostheses",
@@ -480,7 +480,7 @@ export const subjectsWithSubtopics = {
     "4. Tobacco and Nicotine Use (Case Study)"
   ],
 
-  "2 - Special Populations": [
+  "BX2-Special Populations": [
     "1. Family and Domestic Violence Awareness",
     "1. Family and Domestic Violence Awareness (Case Study)",
     "2. Care of Pregnant Patients and Infants",
@@ -497,7 +497,7 @@ export const subjectsWithSubtopics = {
     "7. Dental Care for Patients with Disabilities (Case Study)"
   ],
 
-  "2 - Medical Conditions Affecting Dental Care": [
+  "BX2-Medical Conditions Affecting Dental Care": [
     "1. Neurologic Disorders and Stroke",
     "1. Neurologic Disorders and Stroke (Case Study)",
     "2. Endocrine Disorders",
