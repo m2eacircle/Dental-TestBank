@@ -83,7 +83,20 @@ export const allQuestions = {
   ...specialPopulationsQuestions,
   ...medicalConditionsSystemicDiseasesQuestions,
   ...mentalHealthWellBeingQuestions,
-  ...boardexam2ProfessionalFoundationsQuestions
+  ...boardexam2ProfessionalFoundationsQuestions,
+  ...boardexam2InfectionControlQuestions,
+  ...boardexam2ClinicalEnvironmentQuestions,
+  ...boardexam2PatientAssessmentQuestions,
+  ...boardexam2ImagingDiagnosticQuestions,
+  ...boardexam2OralAnatomyQuestions,
+  ...boardexam2PeriodontalAssessmentQuestions,
+  ...boardexam2CarePlanningQuestions,
+  ...boardexam2PreventiveCareQuestions,
+  ...boardexam2InstrumentationQuestions,
+  ...boardexam2PainAnxietyQuestions,
+  ...boardexam2SpecialOralCareQuestions,
+  ...boardexam2SpecialPopulationsQuestions,
+  ...boardexam2MedicalConditionsQuestions
 };
 
 // Export as questionBank (alias for allQuestions)
@@ -120,7 +133,20 @@ export {
   specialPopulationsQuestions,
   medicalConditionsSystemicDiseasesQuestions,
   mentalHealthWellBeingQuestions,
-  boardexam2ProfessionalFoundationsQuestions
+  boardexam2ProfessionalFoundationsQuestions,
+  boardexam2InfectionControlQuestions,
+  boardexam2ClinicalEnvironmentQuestions,
+  boardexam2PatientAssessmentQuestions,
+  boardexam2ImagingDiagnosticQuestions,
+  boardexam2OralAnatomyQuestions,
+  boardexam2PeriodontalAssessmentQuestions,
+  boardexam2CarePlanningQuestions,
+  boardexam2PreventiveCareQuestions,
+  boardexam2InstrumentationQuestions,
+  boardexam2PainAnxietyQuestions,
+  boardexam2SpecialOralCareQuestions,
+  boardexam2SpecialPopulationsQuestions,
+  boardexam2MedicalConditionsQuestions
 };
 
 // Subject to topic mapping - for subjects that have subtopics
