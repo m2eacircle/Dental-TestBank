@@ -82,7 +82,8 @@ export const allQuestions = {
   ...painAnxietyManagementQuestions,
   ...specialPopulationsQuestions,
   ...medicalConditionsSystemicDiseasesQuestions,
-  ...mentalHealthWellBeingQuestions
+  ...mentalHealthWellBeingQuestions,
+  ...boardexam2ProfessionalFoundationsQuestions
 };
 
 // Export as questionBank (alias for allQuestions)
@@ -118,7 +119,8 @@ export {
   painAnxietyManagementQuestions,
   specialPopulationsQuestions,
   medicalConditionsSystemicDiseasesQuestions,
-  mentalHealthWellBeingQuestions
+  mentalHealthWellBeingQuestions,
+  boardexam2ProfessionalFoundationsQuestions
 };
 
 // Subject to topic mapping - for subjects that have subtopics
