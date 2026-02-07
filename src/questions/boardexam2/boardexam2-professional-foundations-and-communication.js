@@ -1,7 +1,7 @@
 // Board Exam 2 - Professional Foundations and Communication
 // Complete test bank with separate topic arrays
 
-export const questions1 = {
+export const questions = {
   "1. Role of the Dental Hygienist": [
     {
       question: "Who trained the first dental hygienist and is considered the \"father of dental hygiene\"?",
@@ -813,10 +813,7 @@ export const questions1 = {
       ],
       correct: 1
     }
-  ]
-};
-
-export const questions2 = {
+  ],
   "1. Role of the Dental Hygienist (Case Study)": [
     {
       question: "Which individual became the first licensed dental hygienist in the early 20th century?",
@@ -1818,10 +1815,7 @@ export const questions2 = {
       ],
       correct: 1
     }
-  ]
-};
-
-export const questions3 = {
+  ],
   "2. Evidence-Based Practice Basics": [
     {
       question: "Evidence-based decision making (EBDM) is best defined as a process that involves which of the following components?",
@@ -2673,10 +2667,7 @@ export const questions3 = {
       ],
       correct: 1
     }
-  ]
-};
-
-export const questions4 = {
+  ],
   "2. Evidence-Based Practice Basics (Case Study)": [
     {
       question: "What is evidence-based decision making (EBDM) according to current professional standards and definitions?",
@@ -3678,10 +3669,7 @@ export const questions4 = {
       ],
       correct: 3
     }
-  ]
-};
-
-export const questions5 = {
+  ],
   "3. Patient Communication Skills": [
     {
       question: "What is the primary goal of health communication?",
@@ -4443,10 +4431,7 @@ export const questions5 = {
       ],
       correct: 1
     }
-  ]
-};
-
-export const questions6 = {
+  ],
   "3. Patient Communication Skills (Case Study)": [
     {
       question: "What is the MOST appropriate initial action for the dental hygienist to take?",
@@ -4948,10 +4933,7 @@ export const questions6 = {
       ],
       correct: 3
     }
-  ]
-};
-
-export const questions7 = {
+  ],
   "4. Dental Hygiene in Alternative Settings": [
     {
       question: "What is the primary reason individuals in alternative settings experience barriers to accessing dental care?",
@@ -5613,10 +5595,7 @@ export const questions7 = {
       ],
       correct: 1
     }
-  ]
-};
-
-export const questions8 = {
+  ],
   "4. Dental Hygiene in Alternative Settings (Case Study)": [
     {
       question: "Which statement BEST describes the equipment requirements for portable dental hygiene care?",
