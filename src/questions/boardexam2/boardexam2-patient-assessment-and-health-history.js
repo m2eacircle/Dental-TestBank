@@ -2,7 +2,7 @@
 // FIXED: Using prefixed name to avoid conflicts with Board Exam 1
 
 export const questions = {
-  "1. Patient Health Histories": [
+  "1. Dental & Patient Health Histories": [
     {
       question: "What is the primary purpose of obtaining a thorough patient health history before dental treatment?",
       options: [
@@ -1235,7 +1235,7 @@ export const questions = {
     }
   ],
 
-  "1. Patient Health Histories (Case Study)": [
+  "1. Dental & Patient Health Histories (Case Study)": [
     {
       question: "A dental hygiene practice is implementing a new patient intake system. The office manager is deciding whether to have patients complete health history forms online before their first appointment or during their visit at the office.",
       options: [
