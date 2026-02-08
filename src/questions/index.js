@@ -414,8 +414,8 @@ export const subjectsWithSubtopics = {
   ],
 
   "BX2-Patient Assessment and Health History": [
-    "1. Patient Health Histories 2",
-    "1. Patient Health Histories 2 (Case Study)",
+    "1. Dental & Patient Health Histories",
+    "1. Dental & Patient Health Histories (Case Study)",
     "2. Measuring Vital Signs",
     "2. Measuring Vital Signs (Case Study)",
     "3. Oral and Facial Examination",
