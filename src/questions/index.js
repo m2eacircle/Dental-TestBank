@@ -765,7 +765,7 @@ export const subjectsWithSubtopics = {
     "8. Rinsing Recommendations"
   ]
 };
-
+/*
 // Export metadata about the question bank
 export const questionBankMetadata = {
   totalSubjects: 12,
@@ -913,3 +913,4 @@ export const questionBankMetadata = {
     }
   }
 };
+*/
