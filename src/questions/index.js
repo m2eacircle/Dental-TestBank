@@ -12,7 +12,7 @@ import { questions as microbiologyQuestions } from './lesson1/lesson1-microbiolo
 // Lesson 2 imports
 import { questions as radiographyTheoryQuestions } from './lesson2/lesson2-dental-radiography-theory.js';
 import { questions as pathophysiologyQuestions } from './lesson2/lesson2-pathophysiology.js';
-//import { questions as dentalMaterialsInterpretationQuestions } from './lesson2/lesson2-dental-materials-interpretation.js';
+import { questions as radiographyInterpretationQuestions } from './lesson2/lesson2-dental-radiography-interpretation.js';
 import { questions as dentalMaterialsQuestions } from './lesson2/lesson2-dental-materials-theory.js';
 import { questions as periodontologyQuestions } from './lesson2/lesson2-periodontology-i.js';
 import { questions as anatomyQuestions } from './lesson2/lesson2-head-and-neck-anatomy.js';
@@ -63,7 +63,7 @@ export const allQuestions = {
   ...microbiologyQuestions,
   ...radiographyTheoryQuestions,
   ...pathophysiologyQuestions,
- // ...dentalMaterialsInterpretationQuestions,
+  ...radiographyInterpretationQuestions,
   ...dentalMaterialsQuestions,
   ...periodontologyQuestions,
   ...anatomyQuestions,
@@ -114,7 +114,7 @@ export {
   microbiologyQuestions,
   radiographyTheoryQuestions,
   pathophysiologyQuestions,
-//  dentalMaterialsInterpretationQuestions,
+  radiographyInterpretationQuestions,
   dentalMaterialsQuestions,
   periodontologyQuestions,
   anatomyQuestions,
@@ -708,13 +708,13 @@ export const subjectsWithSubtopics = {
     "7. TMD and Periodontal Diseases",
     "8. Periodontal Diseases and Risk Assessment"
   ],
-/*  "Dental Radiography Interpretation": [
+  "Dental Radiography Interpretation": [
     "1. Fundamentals and Professional Practice",
     "2. Normal Anatomical Landmarks of the Maxilla and Tooth Structure",
     "3. Radiographic Anatomy of the Mandible and Periodontal Structures",
     "4. Normal Anatomical Landmarks on Panoramic Radiographs",
     "5. Film Mounting, Viewing Procedures, and Periodontal Disease Assessment"
-  ], */
+  ], 
   "Dental Radiography Theory": [
     "1. Radiation History & Radiation Physics (Part 1)",
     "1. Radiation History & Radiation Physics (Part 2)",
