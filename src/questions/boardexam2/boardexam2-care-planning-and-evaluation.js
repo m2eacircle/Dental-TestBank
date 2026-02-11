@@ -1297,10 +1297,10 @@ export const questions = {
     {
       text: "CASE 24: A dental hygienist is creating expected outcomes for a patient's care plan. The patient has Stage II periodontitis and has agreed to improve daily biofilm control and complete nonsurgical periodontal therapy. Which statement represents a properly formatted expected outcome with measurable criteria?",
       options: [
-      "A. "Patient will have healthier gums and feel better about their smile after completing all recommended treatment."",
-      "B. "Patient will demonstrate effective biofilm removal with <20% bleeding on probing within 8 weeks of initial instruction."",
-      "C. "Patient will try to brush twice daily and will probably see improvement in gingival health over time."",
-      "D. "Patient understands the importance of oral hygiene and will make efforts to improve their daily self-care routine.""
+      "A. \"Patient will have healthier gums and feel better about their smile after completing all recommended treatment.\"",
+      "B. \"Patient will demonstrate effective biofilm removal with <20% bleeding on probing within 8 weeks of initial instruction.\"",
+      "C. \"Patient will try to brush twice daily and will probably see improvement in gingival health over time.\"",
+      "D. \"Patient understands the importance of oral hygiene and will make efforts to improve their daily self-care routine.\""
       ],
       correct: "D"
     },
@@ -1317,10 +1317,10 @@ export const questions = {
     {
       text: "CASE 26: During informed consent discussion, a patient asks, \"What happens if I don't get this treatment?\" The dental hygienist has recommended nonsurgical periodontal therapy for Stage II periodontitis. According to informed consent requirements, how should the dental hygienist respond?",
       options: [
-      "A. "Without treatment, you'll definitely lose all your teeth within 5 years, so you really don't have a choice."",
-      "B. "The consequences of no treatment include continued disease progression, potential tooth loss, and increased infection risk."",
-      "C. "I can't discuss that because it would scare you, and my job is to focus on positive treatment outcomes."",
-      "D. "That's not relevant to our discussion since you're obviously going to follow my professional recommendations.""
+      "A. \"Without treatment, you'll definitely lose all your teeth within 5 years, so you really don't have a choice.\"",
+      "B. \"The consequences of no treatment include continued disease progression, potential tooth loss, and increased infection risk.\"",
+      "C. \"I can't discuss that because it would scare you, and my job is to focus on positive treatment outcomes.\"",
+      "D. \"That's not relevant to our discussion since you're obviously going to follow my professional recommendations.\""
       ],
       correct: "A"
     },
@@ -1457,10 +1457,10 @@ export const questions = {
     {
       text: "CASE 40: A patient with high caries risk asks why the dental hygienist is recommending specific preventive agents and products. The care plan includes prescription-strength fluoride toothpaste and chlorhexidine rinse. How should the dental hygienist explain the relationship between caries risk assessment and the preventive aspects of the care plan?",
       options: [
-      "A. "These products are recommended for all patients regardless of caries risk to prevent future dental problems."",
-      "B. "Your caries risk level guides selection of preventive interventions like fluoride and antimicrobials specific to your needs."",
-      "C. "Insurance companies require us to recommend these products even though they may not be necessary for you."",
-      "D. "These are the most expensive products available, which ensures you receive the highest quality preventive care.""
+      "A. \"These products are recommended for all patients regardless of caries risk to prevent future dental problems.\"",
+      "B. \"Your caries risk level guides selection of preventive interventions like fluoride and antimicrobials specific to your needs.\"",
+      "C. \"Insurance companies require us to recommend these products even though they may not be necessary for you.\"",
+      "D. \"These are the most expensive products available, which ensures you receive the highest quality preventive care.\""
       ],
       correct: "A"
     },
