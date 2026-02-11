@@ -19,6 +19,7 @@ import { questions as anatomyQuestions } from './lesson2/lesson2-head-and-neck-a
 import { questions as pharmacologyQuestions } from './lesson2/lesson2-pharmacology.js';
 import { questions as oralHealthEducationQuestions } from './lesson2/lesson2-oral-health-education.js';
 import { questions as dentalHygieneTheory2Questions } from './lesson2/lesson2-dental-hygiene-theory-ii.js';
+import { questions as medicalemergenciesQuestions } from './lesson2/lesson2-medical-emergencies.js';
 
 // Board Exam imports
 import { questions as professionalPracticeFoundationsQuestions } from './boardexam/boardexam-professional-practice-and-foundations.js';
@@ -70,6 +71,7 @@ export const allQuestions = {
   ...pharmacologyQuestions,
   ...oralHealthEducationQuestions,
   ...dentalHygieneTheory2Questions,
+  ...medicalemergenciesQuestions,
   ...professionalPracticeFoundationsQuestions,
   ...communityPublicHealthQuestions,
   ...infectionControlSafetyQuestions,
@@ -121,6 +123,7 @@ export {
   pharmacologyQuestions,
   oralHealthEducationQuestions,
   dentalHygieneTheory2Questions,
+  medicalemergenciesQuestions,
   professionalPracticeFoundationsQuestions,
   communityPublicHealthQuestions,
   infectionControlSafetyQuestions,
@@ -774,6 +777,10 @@ export const subjectsWithSubtopics = {
     "7. Toothbrushing",
     "8. Rinsing Recommendations"
   ]
+  "Medical Emergencies": [
+    "1. Introduction and prevention (Part 1)",
+    "1. Introduction and prevention (Part 2)",
+  ]  
 };
 /*
 // Export metadata about the question bank
