@@ -776,10 +776,10 @@ export const subjectsWithSubtopics = {
     "6. A String around Your Finger",
     "7. Toothbrushing",
     "8. Rinsing Recommendations"
-  ]
+  ],
   "Medical Emergencies": [
     "1. Introduction and prevention (Part 1)",
-    "1. Introduction and prevention (Part 2)",
+    "1. Introduction and prevention (Part 2)"
   ]  
 };
 /*
