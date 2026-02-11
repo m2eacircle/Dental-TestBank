@@ -2947,10 +2947,10 @@ export const questions = {
     {
       text: "CASE 33: A dental hygienist uses a critical incident technique for reflective self-assessment. After a challenging clinical situation, the hygienist writes in a professional journal describing what happened, analyzing why it happened, and planning next steps. This reflective practice approach is sometimes referred to by what name?",
       options: [
-      "A. "What? So What? Now What?" approach to structured reflection and self-assessment",
-      "B. "See One, Do One, Teach One" approach to clinical skill development and mastery",
-      "C. "Stop, Drop, and Roll" approach to emergency management and crisis intervention",
-      "D. "Ready, Aim, Fire" approach to treatment planning and clinical decision-making"
+      "A. \"What? So What? Now What?\" approach to structured reflection and self-assessment",
+      "B. \"See One, Do One, Teach One\" approach to clinical skill development and mastery",
+      "C. \"Stop, Drop, and Roll\" approach to emergency management and crisis intervention",
+      "D. \"Ready, Aim, Fire\" approach to treatment planning and clinical decision-making"
       ],
       correct: "A"
     },
