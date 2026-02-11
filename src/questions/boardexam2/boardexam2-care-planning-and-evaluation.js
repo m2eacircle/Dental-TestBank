@@ -1197,10 +1197,10 @@ export const questions = {
     {
       text: "CASE 14: During care plan presentation, a 62-year-old patient with Stage III periodontitis asks about treatment alternatives. The dental hygienist has recommended nonsurgical periodontal therapy in four appointments. The patient wants to know if there are other options besides \"coming in four times.\" Which response best fulfills the informed consent requirement to discuss treatment alternatives?",
       options: [
-      "A. "This is the standard treatment for your condition, and there are no other evidence-based alternatives available to you."",
-      "B. "Alternative options include periodontal surgery, no treatment, or localized antimicrobial therapy, each with different outcomes and risks."",
-      "C. "You could try improving your home care first and see if that resolves the problem before we do any treatment."",
-      "D. "Other dentists might recommend extractions and dentures, but we prefer to save teeth whenever it's financially feasible.""
+      "A. \"This is the standard treatment for your condition, and there are no other evidence-based alternatives available to you.\"",
+      "B. \"Alternative options include periodontal surgery, no treatment, or localized antimicrobial therapy, each with different outcomes and risks.\"",
+      "C. \"You could try improving your home care first and see if that resolves the problem before we do any treatment.\"",
+      "D. \"Other dentists might recommend extractions and dentures, but we prefer to save teeth whenever it's financially feasible.\""
       ],
       correct: "B"
     },
