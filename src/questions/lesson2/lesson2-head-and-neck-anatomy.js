@@ -14743,5 +14743,1711 @@ export const questions = {
       correct: "B"
     }
   
+  ],
+  "5-10. Head and Neck Summary": [
+    {
+      id: 12276,
+      question: "What is the definition of a suture in anatomical terminology?",
+      options: [
+        "A short tube-like opening or hole through bone",
+        "The line of junction between bones that is generally immovable",
+        "A shallow depression or hollow space in bone",
+        "A rounded protuberance forming an articulation",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12277,
+      question: "Which anatomical term describes a long tube-like opening through bone?",
+      options: [
+        "Foramen",
+        "Fissure",
+        "Canal",
+        "Process",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12278,
+      question: "A foramen is best described as which of the following?",
+      options: [
+        "A long tube-like passage or channel through bone",
+        "A shallow depression or hollow area in bone",
+        "A short tube-like opening or passage through bone",
+        "A groove or natural division between structures",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12279,
+      question: "What anatomical structure is defined as an area raised above the surrounding bone surface?",
+      options: [
+        "Fossa",
+        "Condyle",
+        "Eminence",
+        "Process",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12280,
+      question: "Which term describes a groove, natural division, or cleft between two structures?",
+      options: [
+        "Fissure",
+        "Canal",
+        "Foramen",
+        "Suture",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12281,
+      question: "A rounded protuberance of bone that forms articulation with another bone is called a:",
+      options: [
+        "Process",
+        "Condyle",
+        "Eminence",
+        "Protuberance",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12282,
+      question: "What is the definition of a fossa?",
+      options: [
+        "A blunt projection similar to an eminence",
+        "A projection or outgrowth of bone tissue",
+        "A shallow depression or hollow in bone",
+        "A rounded protuberance forming articulation",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12283,
+      question: "Which term describes a projection or outgrowth of bone tissue?",
+      options: [
+        "Eminence",
+        "Fossa",
+        "Process",
+        "Condyle",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12284,
+      question: "How many bones comprise the neurocranium?",
+      options: [
+        "6 bones",
+        "8 bones",
+        "14 bones",
+        "22 bones",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12285,
+      question: "What does the neurocranium consist of?",
+      options: [
+        "The bones of the face",
+        "The bones surrounding the brain",
+        "The bones of the jaw",
+        "The bones of the inner ear",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12286,
+      question: "How many bones make up the viscerocranium?",
+      options: [
+        "8 bones",
+        "10 bones",
+        "14 bones",
+        "22 bones",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12287,
+      question: "The viscerocranium consists of which type of bones?",
+      options: [
+        "Bones surrounding the brain",
+        "Bones of the face",
+        "Bones of the cranial vault",
+        "Bones of the skull base",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12288,
+      question: "The three small ossicles in each ear that aid in hearing are:",
+      options: [
+        "Frontal, parietal, and temporal",
+        "Malleus, incus, and stapes",
+        "Lacrimal, nasal, and vomer",
+        "Maxilla, palatine, and zygomatic",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12289,
+      question: "Which mnemonic helps remember the 8 neurocranium bones?",
+      options: [
+        "LIMP",
+        "F. PESTO",
+        "N.V.M.Z",
+        "S.I.M",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12290,
+      question: "Which of the following is NOT a bone of the neurocranium?",
+      options: [
+        "Frontal bone",
+        "Ethmoid bone",
+        "Mandible bone",
+        "Occipital bone",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12291,
+      question: "How many temporal bones are part of the neurocranium?",
+      options: [
+        "1 temporal bone",
+        "2 temporal bones",
+        "3 temporal bones",
+        "4 temporal bones",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12292,
+      question: "Which mnemonic represents lacrimal, inferior nasal conchae, maxilla, and palatine bones?",
+      options: [
+        "F. PESTO",
+        "N.V.M.Z",
+        "LIMP",
+        "S.I.M",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12293,
+      question: "The mandible, vomer, nasal, and zygomatic bones can be remembered using which mnemonic?",
+      options: [
+        "LIMP",
+        "F. PESTO",
+        "N.V.M.Z",
+        "MMLT",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12294,
+      question: "How many lacrimal bones are present in the viscerocranium?",
+      options: [
+        "1 lacrimal bone",
+        "2 lacrimal bones",
+        "3 lacrimal bones",
+        "4 lacrimal bones",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12295,
+      question: "What is the primary function of a neuron?",
+      options: [
+        "Store nutrients for the brain",
+        "Transmit messages or impulses in one direction",
+        "Produce cerebrospinal fluid for protection",
+        "Filter toxins from the bloodstream",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12296,
+      question: "Sensory or afferent nerves carry messages in which direction?",
+      options: [
+        "From brain to body parts (brain-to-body)",
+        "Between neurons within the spinal cord",
+        "From body parts towards the brain (body-to-brain)",
+        "Between the left and right hemispheres",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12297,
+      question: "Motor or efferent nerves carry messages in which direction?",
+      options: [
+        "From body parts towards the brain",
+        "From the brain towards body parts causing action",
+        "Between sensory neurons within the cord",
+        "Between hemispheres for coordination",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12298,
+      question: "The Central Nervous System consists of which structures?",
+      options: [
+        "Brain and spinal column",
+        "Cranial and spinal nerves",
+        "Autonomic and somatic systems",
+        "Sympathetic and parasympathetic divisions",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12299,
+      question: "What makes up the Peripheral Nervous System?",
+      options: [
+        "Only the brain and spinal cord",
+        "The brain, spinal cord, and cranial nerves",
+        "Nerves extending from brain and spinal cord, including ANS",
+        "Only the autonomic nervous system",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12300,
+      question: "The cranial nerves are part of which nervous system?",
+      options: [
+        "Central Nervous System only",
+        "Peripheral Nervous System",
+        "Autonomic Nervous System only",
+        "Somatic Nervous System only",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12301,
+      question: "What is a reflex arc?",
+      options: [
+        "A complex pathway requiring conscious thought",
+        "A shortcut that can occur in the CNS",
+        "A pathway only in the peripheral nerves",
+        "A long-distance signal requiring multiple neurons",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12302,
+      question: "The Somatic Nervous System is responsible for:",
+      options: [
+        "Controlling smooth muscle and glands",
+        "Regulating heart rate and blood pressure",
+        "Sending sensory info to CNS and motor signals to skeletal muscles",
+        "Managing unconscious breathing patterns",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12303,
+      question: "Which system controls smooth muscle and glands?",
+      options: [
+        "Somatic Nervous System",
+        "Central Nervous System",
+        "Autonomic Nervous System",
+        "Peripheral Nervous System",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12304,
+      question: "The sympathetic nervous system is also known as:",
+      options: [
+        "Rest or digest system",
+        "Fight or flight system",
+        "Voluntary control system",
+        "Skeletal muscle system",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12305,
+      question: "The parasympathetic nervous system is also known as:",
+      options: [
+        "Fight or flight system",
+        "Rest or digest system",
+        "Stress response system",
+        "Emergency response system",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12306,
+      question: "During sympathetic nervous system activation, what happens?",
+      options: [
+        "Heart rate decreases and salivary flow increases",
+        "Blood pressure decreases and digestion increases",
+        "Heart rate increases and salivary flow decreases",
+        "Breathing slows and muscle tension decreases",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12307,
+      question: "During parasympathetic nervous system activation, what happens?",
+      options: [
+        "Heart rate increases and salivary flow decreases",
+        "Heart rate decreases and salivary flow increases",
+        "Blood pressure increases and digestion decreases",
+        "Pupils dilate and breathing accelerates",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12308,
+      question: "What is the function of Cranial Nerve I (Olfactory)?",
+      options: [
+        "Provides vision to the eyes",
+        "Controls sense of smell",
+        "Regulates eye movement",
+        "Manages facial expressions",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12309,
+      question: "What type of nerve is the Olfactory Nerve (CN I)?",
+      options: [
+        "Motor only",
+        "Sensory only",
+        "Both motor and sensory",
+        "Autonomic only",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12310,
+      question: "Damage to the Olfactory Nerve causes:",
+      options: [
+        "Blindness in the visual field",
+        "Impaired sense of smell",
+        "Drooping eyelid and dilated pupil",
+        "Loss of taste sensation",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12311,
+      question: "The Optic Nerve (CN II) is responsible for:",
+      options: [
+        "Sense of smell",
+        "Providing vision",
+        "Eye movement",
+        "Pupil constriction",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12312,
+      question: "What type of nerve is the Optic Nerve (CN II)?",
+      options: [
+        "Motor only",
+        "Sensory only",
+        "Both motor and sensory",
+        "Autonomic only",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12313,
+      question: "Damage to the Optic Nerve results in:",
+      options: [
+        "Impaired sense of smell",
+        "Blindness in visual field",
+        "Double vision",
+        "Loss of taste",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12314,
+      question: "The Oculomotor Nerve (CN III) provides which functions?",
+      options: [
+        "Vision and smell sensation",
+        "Eye movement, eyelid opening, and pupil constriction",
+        "Facial expression and taste sensation",
+        "Hearing and balance",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12315,
+      question: "What type of nerve is the Oculomotor Nerve (CN III)?",
+      options: [
+        "Sensory only",
+        "Motor only",
+        "Both motor and sensory",
+        "Neither motor nor sensory",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12316,
+      question: "Which muscles are controlled by the Oculomotor Nerve?",
+      options: [
+        "Lateral rectus and superior oblique muscles",
+        "Superior, inferior, medial rectus and inferior oblique muscles",
+        "Muscles of facial expression",
+        "Muscles of mastication",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12317,
+      question: "Damage to the Oculomotor Nerve causes:",
+      options: [
+        "Blindness and loss of smell",
+        "Drooping eyelid, dilated pupil, and double vision",
+        "Hearing loss and vertigo",
+        "Loss of facial expression",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12318,
+      question: "The Trochlear Nerve (CN IV) controls which muscle?",
+      options: [
+        "Lateral rectus muscle",
+        "Medial rectus muscle",
+        "Superior oblique muscle",
+        "Inferior rectus muscle",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12319,
+      question: "What type of nerve is the Trochlear Nerve (CN IV)?",
+      options: [
+        "Sensory only",
+        "Motor only",
+        "Both motor and sensory",
+        "Autonomic only",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12320,
+      question: "Damage to the Trochlear Nerve results in:",
+      options: [
+        "Blindness and dilated pupils",
+        "Double vision and inability to rotate eye inferolaterally",
+        "Loss of smell sensation",
+        "Paralysis of facial muscles",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12321,
+      question: "The Trigeminal Nerve (CN V) is composed of how many divisions?",
+      options: [
+        "2 divisions",
+        "3 divisions",
+        "4 divisions",
+        "5 divisions",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12322,
+      question: "What type of nerve is the Trigeminal Nerve (CN V)?",
+      options: [
+        "Motor only",
+        "Sensory only",
+        "Both motor and sensory",
+        "Autonomic only",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12323,
+      question: "Which statement about the Trigeminal Nerve divisions is correct?",
+      options: [
+        "All three divisions are motor only",
+        "V1 and V2 are sensory; V3 is motor and sensory",
+        "All three divisions are sensory only",
+        "V1 is motor; V2 and V3 are sensory",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12324,
+      question: "The Ophthalmic branch (V1) provides sensations from which areas?",
+      options: [
+        "Lower eyelid, upper lips, and maxillary teeth",
+        "Mandibular teeth, lower lips, and tongue",
+        "Upper eyelid, forehead, and frontal sinus",
+        "Cheeks, nose, and upper gums",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12325,
+      question: "The Maxillary branch (V2) is responsible for sensation from:",
+      options: [
+        "Upper eyelid and forehead",
+        "Lower eyelid, upper lips, maxillary teeth, and maxillary sinus",
+        "Mandibular teeth and lower lips",
+        "Tongue and floor of mouth",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12326,
+      question: "The Mandibular branch (V3) provides sensation and motor function to:",
+      options: [
+        "Upper jaw and forehead",
+        "Lower eyelid and cheeks",
+        "Mandibular teeth, lower lips, tongue, and muscles of mastication",
+        "Maxillary teeth and upper lips",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12327,
+      question: "Which muscles are innervated by the Mandibular branch (V3)?",
+      options: [
+        "Muscles of facial expression",
+        "Muscles of mastication",
+        "Extraocular muscles",
+        "Muscles of the pharynx",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12328,
+      question: "The Abducens Nerve (CN VI) controls which muscle?",
+      options: [
+        "Medial rectus muscle",
+        "Superior oblique muscle",
+        "Lateral rectus muscle",
+        "Inferior rectus muscle",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12329,
+      question: "What type of nerve is the Abducens Nerve (CN VI)?",
+      options: [
+        "Sensory only",
+        "Motor only",
+        "Both motor and sensory",
+        "Autonomic only",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12330,
+      question: "Damage to the Abducens Nerve results in:",
+      options: [
+        "Inability to look upward",
+        "Inability to look laterally (outward) with affected eye",
+        "Drooping eyelid",
+        "Double vision when looking down",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12331,
+      question: "The Facial Nerve (CN VII) provides motor function to:",
+      options: [
+        "Muscles of mastication",
+        "Muscles of facial expression",
+        "Extraocular muscles",
+        "Tongue muscles",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12332,
+      question: "What type of nerve is the Facial Nerve (CN VII)?",
+      options: [
+        "Motor only",
+        "Sensory only",
+        "Both motor and sensory",
+        "Autonomic only",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12333,
+      question: "The Facial Nerve provides taste sensation to which part of the tongue?",
+      options: [
+        "Posterior 1/3",
+        "Anterior 2/3",
+        "Entire tongue",
+        "Only the tip",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12334,
+      question: "Damage to the Facial Nerve causes:",
+      options: [
+        "Loss of smell",
+        "Inability to close eye and drooping of face",
+        "Loss of hearing",
+        "Difficulty swallowing",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12335,
+      question: "The Vestibulocochlear Nerve (CN VIII) is responsible for:",
+      options: [
+        "Facial expression",
+        "Hearing and balance",
+        "Taste sensation",
+        "Eye movement",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12336,
+      question: "What type of nerve is the Vestibulocochlear Nerve (CN VIII)?",
+      options: [
+        "Motor only",
+        "Sensory only",
+        "Both motor and sensory",
+        "Autonomic only",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12337,
+      question: "Damage to the Vestibulocochlear Nerve results in:",
+      options: [
+        "Facial paralysis",
+        "Hearing loss and balance problems",
+        "Loss of taste",
+        "Double vision",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12338,
+      question: "The Glossopharyngeal Nerve (CN IX) provides taste to which part of the tongue?",
+      options: [
+        "Anterior 2/3",
+        "Posterior 1/3",
+        "Entire tongue",
+        "Only the tip",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12339,
+      question: "What type of nerve is the Glossopharyngeal Nerve (CN IX)?",
+      options: [
+        "Motor only",
+        "Sensory only",
+        "Both motor and sensory",
+        "Autonomic only",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12340,
+      question: "The Glossopharyngeal Nerve provides motor function to:",
+      options: [
+        "Muscles of facial expression",
+        "Muscles of mastication",
+        "Stylopharyngeus muscle for swallowing",
+        "Tongue muscles",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12341,
+      question: "The Vagus Nerve (CN X) is the only cranial nerve that:",
+      options: [
+        "Exits the head and neck region",
+        "Is purely motor",
+        "Is purely sensory",
+        "Controls eye movement",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12342,
+      question: "What type of nerve is the Vagus Nerve (CN X)?",
+      options: [
+        "Motor only",
+        "Sensory only",
+        "Both motor and sensory",
+        "Neither motor nor sensory",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12343,
+      question: "The Vagus Nerve innervates which structures?",
+      options: [
+        "Only the heart and lungs",
+        "Pharynx, larynx, heart, lungs, and abdominal organs",
+        "Only facial muscles",
+        "Only the tongue",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12344,
+      question: "Damage to the Vagus Nerve affects:",
+      options: [
+        "Only speech",
+        "Swallowing, speech, heart rate, and digestion",
+        "Only hearing",
+        "Only facial expression",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12345,
+      question: "The Accessory Nerve (CN XI) provides motor function to which muscles?",
+      options: [
+        "Facial muscles",
+        "Eye muscles",
+        "Sternocleidomastoid and trapezius muscles",
+        "Tongue muscles",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12346,
+      question: "What type of nerve is the Accessory Nerve (CN XI)?",
+      options: [
+        "Sensory only",
+        "Motor only",
+        "Both motor and sensory",
+        "Autonomic only",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12347,
+      question: "Damage to the Accessory Nerve results in:",
+      options: [
+        "Loss of taste",
+        "Difficulty turning head and shrugging shoulders",
+        "Hearing loss",
+        "Facial paralysis",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12348,
+      question: "The Hypoglossal Nerve (CN XII) controls:",
+      options: [
+        "Facial muscles",
+        "Tongue movements",
+        "Eye movements",
+        "Swallowing muscles",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12349,
+      question: "What type of nerve is the Hypoglossal Nerve (CN XII)?",
+      options: [
+        "Sensory only",
+        "Motor only",
+        "Both motor and sensory",
+        "Autonomic only",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12350,
+      question: "Damage to the Hypoglossal Nerve causes:",
+      options: [
+        "Loss of taste",
+        "Tongue deviation and difficulty with speech/swallowing",
+        "Facial paralysis",
+        "Hearing loss",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12351,
+      question: "The mnemonic to remember cranial nerves in order is:",
+      options: [
+        "On Old Olympus Towering Top",
+        "Some Say Marry Money But My Brother Says Big Brains Matter More",
+        "LIMP",
+        "F. PESTO",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12352,
+      question: "The mnemonic for cranial nerve functions (Sensory, Motor, Both) is:",
+      options: [
+        "On Old Olympus Towering Top",
+        "Some Say Marry Money But My Brother Says Big Brains Matter More",
+        "LIMP",
+        "N.V.M.Z",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12353,
+      question: "Which cranial nerves are purely sensory?",
+      options: [
+        "I, II, III",
+        "I, II, VIII",
+        "III, IV, VI",
+        "V, VII, IX",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12354,
+      question: "Which cranial nerves are purely motor?",
+      options: [
+        "I, II, VIII",
+        "III, IV, VI, XI, XII",
+        "V, VII, IX, X",
+        "All cranial nerves",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12355,
+      question: "Which cranial nerves are both motor and sensory?",
+      options: [
+        "I, II, VIII",
+        "III, IV, VI",
+        "V, VII, IX, X",
+        "XI, XII",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12356,
+      question: "The four muscles of mastication can be remembered by which mnemonic?",
+      options: [
+        "TLMPP (Temporalis, Lateral pterygoid, Medial pterygoid, Pterygoid)",
+        "MMLT (Masseter, Medial pterygoid, Lateral pterygoid, Temporalis)",
+        "My Gut Seems Damaged",
+        "T.O.S.S",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12357,
+      question: "All muscles of mastication are innervated by:",
+      options: [
+        "Facial nerve (CN VII)",
+        "V3 of Trigeminal nerve (CN V)",
+        "Glossopharyngeal nerve (CN IX)",
+        "Hypoglossal nerve (CN XII)",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12358,
+      question: "The Masseter muscle originates from:",
+      options: [
+        "Temporal fossa",
+        "Zygomatic arch",
+        "Mandibular condyle",
+        "Coronoid process",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12359,
+      question: "The Masseter muscle inserts at:",
+      options: [
+        "Coronoid process",
+        "Mandibular condyle",
+        "Angle of mandible and ramus",
+        "Mental protuberance",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12360,
+      question: "The primary action of the Masseter muscle is:",
+      options: [
+        "Depression (opening) of the mandible",
+        "Elevation (closing) of the mandible",
+        "Lateral movement of the mandible",
+        "Protrusion of the mandible",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12361,
+      question: "The Temporalis muscle originates from:",
+      options: [
+        "Zygomatic arch",
+        "Temporal fossa on side of skull",
+        "Sphenoid bone",
+        "Occipital bone",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12362,
+      question: "The Temporalis muscle inserts at:",
+      options: [
+        "Angle of mandible",
+        "Mandibular condyle",
+        "Coronoid process of mandible",
+        "Mental protuberance",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12363,
+      question: "The primary action of the Temporalis muscle is:",
+      options: [
+        "Depression of mandible",
+        "Elevation and retraction (pulling back) of mandible",
+        "Protrusion of mandible",
+        "Lateral movement only",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12364,
+      question: "The Medial Pterygoid muscle originates from:",
+      options: [
+        "Temporal fossa",
+        "Lateral pterygoid plate of sphenoid bone",
+        "Zygomatic arch",
+        "Maxilla",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12365,
+      question: "The Medial Pterygoid muscle inserts at:",
+      options: [
+        "Coronoid process",
+        "Mandibular condyle",
+        "Angle and ramus of mandible (medial/inside surface)",
+        "Mental protuberance",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12366,
+      question: "The primary action of the Medial Pterygoid muscle is:",
+      options: [
+        "Depression of mandible",
+        "Elevation and lateral movement (side-to-side) of mandible",
+        "Retraction of mandible",
+        "Protrusion only",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12367,
+      question: "The Lateral Pterygoid muscle has how many heads?",
+      options: [
+        "One head",
+        "Two heads (superior and inferior)",
+        "Three heads",
+        "Four heads",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12368,
+      question: "The superior head of the Lateral Pterygoid originates from:",
+      options: [
+        "Lateral pterygoid plate",
+        "Greater wing of sphenoid bone",
+        "Temporal fossa",
+        "Zygomatic arch",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12369,
+      question: "The inferior head of the Lateral Pterygoid originates from:",
+      options: [
+        "Greater wing of sphenoid",
+        "Lateral pterygoid plate of sphenoid bone",
+        "Temporal bone",
+        "Maxilla",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12370,
+      question: "The Lateral Pterygoid muscle inserts at:",
+      options: [
+        "Angle of mandible",
+        "Coronoid process",
+        "Neck of mandibular condyle and TMJ disc",
+        "Mental protuberance",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12371,
+      question: "The primary action of the Lateral Pterygoid muscle is:",
+      options: [
+        "Elevation of mandible",
+        "Depression (opening), protrusion, and lateral movement of mandible",
+        "Retraction of mandible",
+        "Elevation only",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12372,
+      question: "Which muscle is the only muscle of mastication that opens the jaw?",
+      options: [
+        "Masseter",
+        "Temporalis",
+        "Medial Pterygoid",
+        "Lateral Pterygoid",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12373,
+      question: "The four suprahyoid muscles can be remembered by which mnemonic?",
+      options: [
+        "MMLT",
+        "T.O.S.S",
+        "My Gut Seems Damaged (Mylohyoid, Geniohyoid, Stylohyoid, Digastric)",
+        "TLMPP",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12374,
+      question: "The Digastric muscle has how many bellies?",
+      options: [
+        "One belly",
+        "Two bellies (anterior and posterior)",
+        "Three bellies",
+        "Four bellies",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12375,
+      question: "The anterior belly of the Digastric originates from:",
+      options: [
+        "Hyoid bone",
+        "Mastoid notch of temporal bone",
+        "Digastric fossa on lingual surface of mandible near symphysis",
+        "Styloid process",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12376,
+      question: "The posterior belly of the Digastric originates from:",
+      options: [
+        "Mandible",
+        "Hyoid bone",
+        "Mastoid notch (groove) of temporal bone",
+        "Styloid process",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12377,
+      question: "Both bellies of the Digastric insert at:",
+      options: [
+        "Mandible",
+        "Mastoid process",
+        "Body of hyoid bone",
+        "Temporal bone",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12378,
+      question: "The action of the Digastric muscle is:",
+      options: [
+        "Elevation of mandible only",
+        "Depression (opening) of mandible and elevation of hyoid bone",
+        "Lateral movement of mandible",
+        "Retraction of mandible",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12379,
+      question: "The anterior belly of the Digastric is innervated by:",
+      options: [
+        "Facial nerve (CN VII)",
+        "V3 of Trigeminal nerve (mylohyoid branch)",
+        "Glossopharyngeal nerve (CN IX)",
+        "Hypoglossal nerve (CN XII)",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12380,
+      question: "The posterior belly of the Digastric is innervated by:",
+      options: [
+        "Trigeminal nerve (CN V)",
+        "Facial nerve (CN VII)",
+        "Glossopharyngeal nerve (CN IX)",
+        "Vagus nerve (CN X)",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12381,
+      question: "The Mylohyoid muscle forms which structure?",
+      options: [
+        "Roof of the mouth",
+        "Floor of the mouth",
+        "Side of the neck",
+        "Back of the throat",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12382,
+      question: "The Mylohyoid muscle originates from:",
+      options: [
+        "Mandibular condyle",
+        "Mylohyoid line on medial surface of mandible",
+        "Mental protuberance",
+        "Coronoid process",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12383,
+      question: "The left and right Mylohyoid muscles fuse in the midline forming a:",
+      options: [
+        "Foramen",
+        "Fossa",
+        "Raphe",
+        "Condyle",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12384,
+      question: "The action of the Mylohyoid muscle is:",
+      options: [
+        "Elevation of mandible only",
+        "Depression (opening) of mandible and elevation of hyoid bone",
+        "Lateral movement of mandible",
+        "Retraction of mandible",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12385,
+      question: "The Mylohyoid muscle is innervated by:",
+      options: [
+        "Facial nerve (CN VII)",
+        "V3 of Trigeminal nerve (mylohyoid branch)",
+        "Glossopharyngeal nerve (CN IX)",
+        "Hypoglossal nerve (CN XII)",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12386,
+      question: "The Geniohyoid muscle originates from:",
+      options: [
+        "Mylohyoid line",
+        "Inferior genial tubercle or mental spine on lingual surface of mandible",
+        "Mandibular angle",
+        "Coronoid process",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12387,
+      question: "The action of the Geniohyoid muscle is:",
+      options: [
+        "Elevation of mandible only",
+        "Depression of mandible and elevation of hyoid",
+        "Lateral movement of jaw",
+        "Retraction of mandible",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12388,
+      question: "The Geniohyoid muscle is innervated by:",
+      options: [
+        "Trigeminal nerve (CN V)",
+        "Facial nerve (CN VII)",
+        "First cervical nerve of the neck",
+        "Glossopharyngeal nerve (CN IX)",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12389,
+      question: "The Stylohyoid muscle originates from:",
+      options: [
+        "Mastoid process",
+        "Styloid process of the temporal bone",
+        "Hyoid bone",
+        "Mandible",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12390,
+      question: "On insertion, the Stylohyoid muscle:",
+      options: [
+        "Remains intact",
+        "Splits and digastric posterior belly passes through it",
+        "Fuses with the mylohyoid",
+        "Attaches to the mandible",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12391,
+      question: "The action of the Stylohyoid muscle is:",
+      options: [
+        "Pulls hyoid forward and down",
+        "Pulls hyoid back and up",
+        "Depresses the mandible",
+        "Elevates the mandible",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12392,
+      question: "The Stylohyoid muscle is innervated by:",
+      options: [
+        "Trigeminal nerve (CN V)",
+        "Facial nerve (CN VII) (same as digastric posterior belly)",
+        "Glossopharyngeal nerve (CN IX)",
+        "Hypoglossal nerve (CN XII)",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12393,
+      question: "The four infrahyoid muscles can be remembered by which mnemonic?",
+      options: [
+        "My Gut Seems Damaged",
+        "TLMPP",
+        "T.O.S.S (Thyrohyoid, Omohyoid, Sternohyoid, Sternothyroid)",
+        "MMLT",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12394,
+      question: "The Omohyoid muscle consists of how many bellies?",
+      options: [
+        "One belly",
+        "Two bellies separated by intermediate tendon",
+        "Three bellies",
+        "Four bellies",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12395,
+      question: "The inferior belly of the Omohyoid originates from:",
+      options: [
+        "Hyoid bone",
+        "Sternum",
+        "Upper border of the scapula (shoulder blade)",
+        "Clavicle",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12396,
+      question: "The action of the Omohyoid muscle is:",
+      options: [
+        "Elevates hyoid bone",
+        "Pulls hyoid bone down",
+        "Retracts the mandible",
+        "Elevates the scapula",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12397,
+      question: "The Omohyoid muscle is innervated by:",
+      options: [
+        "1st cervical nerve",
+        "2nd and 3rd cervical nerves",
+        "Trigeminal nerve (CN V)",
+        "Facial nerve (CN VII)",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12398,
+      question: "The Sternohyoid muscle originates from:",
+      options: [
+        "Hyoid bone",
+        "Scapula",
+        "Upper border of the manubrium of the sternum",
+        "Clavicle",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12399,
+      question: "The action of the Sternohyoid muscle is:",
+      options: [
+        "Elevates hyoid bone",
+        "Pulls hyoid down",
+        "Retracts the mandible",
+        "Elevates the sternum",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12400,
+      question: "The Sternohyoid muscle is innervated by:",
+      options: [
+        "1st cervical nerve",
+        "2nd and 3rd cervical nerves (same as omohyoid)",
+        "Facial nerve (CN VII)",
+        "Trigeminal nerve (CN V)",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12401,
+      question: "The Sternothyroid muscle originates from:",
+      options: [
+        "Hyoid bone",
+        "Upper part of the sternum",
+        "Scapula",
+        "Clavicle",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12402,
+      question: "The Sternothyroid muscle inserts at:",
+      options: [
+        "Hyoid bone",
+        "Oblique line on side of thyroid cartilage of larynx",
+        "Mandible",
+        "Scapula",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12403,
+      question: "The action of the Sternothyroid muscle is:",
+      options: [
+        "Elevates the larynx",
+        "Pulls the larynx down",
+        "Depresses the hyoid bone",
+        "Elevates the sternum",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12404,
+      question: "The Sternothyroid muscle is innervated by:",
+      options: [
+        "1st cervical nerve",
+        "2nd and 3rd cervical nerves",
+        "Facial nerve (CN VII)",
+        "Hypoglossal nerve (CN XII)",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12405,
+      question: "The Thyrohyoid muscle originates from:",
+      options: [
+        "Sternum",
+        "Oblique line on lateral side of thyroid cartilage",
+        "Scapula",
+        "Hyoid bone",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12406,
+      question: "The action of the Thyrohyoid muscle is:",
+      options: [
+        "Depresses the larynx only",
+        "Raises the larynx or depresses the hyoid bone",
+        "Elevates the thyroid gland",
+        "Retracts the mandible",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12407,
+      question: "The Thyrohyoid muscle is innervated by:",
+      options: [
+        "2nd and 3rd cervical nerves",
+        "1st cervical nerve",
+        "Facial nerve (CN VII)",
+        "Trigeminal nerve (CN V)",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12408,
+      question: "A suture is a long tube-like passage through bone.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12409,
+      question: "A foramen is a short tube-like opening through bone.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12410,
+      question: "The neurocranium consists of the bones of the face.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12411,
+      question: "The viscerocranium consists of 14 bones.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12412,
+      question: "The ossicles (malleus, incus, stapes) are part of the neurocranium count.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12413,
+      question: "There are 2 parietal bones in the neurocranium.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12414,
+      question: "The mandible is part of the neurocranium.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12415,
+      question: "Neurons transmit messages in only one direction.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12416,
+      question: "Sensory nerves carry messages from the brain to body parts.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12417,
+      question: "Motor nerves carry messages from the brain to body parts causing action.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12418,
+      question: "The Central Nervous System consists of the brain and spinal column.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12419,
+      question: "The cranial nerves are part of the Central Nervous System.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12420,
+      question: "The sympathetic nervous system is known as \"rest or digest.\"",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12421,
+      question: "The parasympathetic nervous system increases heart rate and blood pressure.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12422,
+      question: "The Olfactory Nerve (CN I) is a sensory nerve.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12423,
+      question: "The Optic Nerve (CN II) is a motor nerve.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12424,
+      question: "The Oculomotor Nerve (CN III) is a motor nerve.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12425,
+      question: "The Trigeminal Nerve (CN V) is the largest cranial nerve.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12426,
+      question: "The Ophthalmic branch (V1) of the Trigeminal nerve has motor function.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12427,
+      question: "The Mandibular branch (V3) is both sensory and motor.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12428,
+      question: "The Facial Nerve (CN VII) is more superficial than Cranial Nerve V.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12429,
+      question: "The Facial Nerve provides taste to the anterior 2/3 of the tongue.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12430,
+      question: "The Vestibulocochlear Nerve (CN VIII) is responsible for hearing and balance.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12431,
+      question: "The Glossopharyngeal Nerve (CN IX) provides taste to the anterior 2/3 of tongue.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12432,
+      question: "The Vagus Nerve (CN X) is both motor and sensory.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12433,
+      question: "Cutting both Vagus nerves is fatal.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12434,
+      question: "The Accessory Nerve (CN XI) is a motor nerve only.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12435,
+      question: "The Hypoglossal Nerve (CN XII) controls tongue movements.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    }
   ]
 };
