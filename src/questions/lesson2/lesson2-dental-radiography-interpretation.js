@@ -12,6 +12,7 @@
 export const questions = {
   "1. Fundamentals and Professional Practice": [
     {
+      id: 60001,
       question: "What is the primary difference between interpretation and diagnosis in dental radiography?",
       options: [
         "Interpretation is explaining what is viewed on a radiograph, while diagnosis analyzes the cause and nature of a condition",
@@ -22,6 +23,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60002,
       question: "Which of the following is NOT a reason why dental radiographs are prescribed?",
       options: [
         "To detect diseases and lesions that cannot be identified clinically",
@@ -32,6 +34,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60003,
       question: "What appears radiopaque on a dental radiograph?",
       options: [
         "Structures that allow x-rays to pass through completely",
@@ -42,6 +45,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60004,
       question: "What appears radiolucent on a dental radiograph?",
       options: [
         "Dense structures like enamel and bone that block x-rays",
@@ -52,6 +56,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60005,
       question: "Which term describes a final diagnosis in dental practice?",
       options: [
         "Differential diagnosis",
@@ -62,6 +67,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60006,
       question: "What is a differential diagnosis?",
       options: [
         "A final and conclusive diagnosis of a condition",
@@ -72,6 +78,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60007,
       question: "What is the dental radiographer's primary professional goal regarding client protection?",
       options: [
         "To maximize the number of radiographs taken",
@@ -82,6 +89,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60008,
       question: "Which of the following is a key knowledge requirement for dental radiographers?",
       options: [
         "Advanced surgical techniques and procedures",
@@ -92,6 +100,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60009,
       question: "What is the recommended distance a dental radiographer should maintain from the x-ray source during exposure?",
       options: [
         "At least 3 feet away from the source",
@@ -102,6 +111,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60010,
       question: "What angle range should the operator stand at relative to the primary x-ray beam?",
       options: [
         "0 to 45 degrees from the beam",
@@ -112,6 +122,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60011,
       question: "What is the primary benefit of dental radiographs according to the document?",
       options: [
         "Reducing the cost of dental treatment",
@@ -122,6 +133,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60012,
       question: "Which of the following information can be found on dental radiographs?",
       options: [
         "Patient's blood pressure and heart rate",
@@ -132,6 +144,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60013,
       question: "What must non-diagnostic radiographic images be subjected to?",
       options: [
         "They must be kept in the patient record as documentation",
@@ -142,6 +155,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60014,
       question: "When should dental radiograph interpretation ideally be performed?",
       options: [
         "Several days after the images are taken",
@@ -152,6 +166,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60015,
       question: "What is the benefit of interpreting radiographs with the client present?",
       options: [
         "It reduces the time needed for appointments",
@@ -162,6 +177,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60016,
       question: "Which room setup is recommended for client education using radiographs?",
       options: [
         "Brightly lit room with multiple distractions present",
@@ -172,6 +188,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60017,
       question: "What type of communication includes body language and facial expressions?",
       options: [
         "Verbal communication skills",
@@ -182,6 +199,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60018,
       question: "What is chairside manner in dental practice?",
       options: [
         "The type of dental chair used in the operatory",
@@ -192,6 +210,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60019,
       question: "What defines interpersonal skills in dental radiography?",
       options: [
         "Technical abilities to operate x-ray equipment",
@@ -202,6 +221,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60020,
       question: "What are facilitation skills used for?",
       options: [
         "To increase the speed of radiographic procedures",
@@ -212,6 +232,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60021,
       question: "Which duty is typically included in the dental radiographer's responsibilities?",
       options: [
         "Performing surgical extractions and procedures",
@@ -222,6 +243,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60022,
       question: "What is the primary reason for using a lead apron on patients?",
       options: [
         "To make the patient feel more comfortable",
@@ -232,6 +254,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60023,
       question: "Who legally owns the dental radiographs taken in a dental office?",
       options: [
         "The patient who paid for the radiographs",
@@ -242,6 +265,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60024,
       question: "What should be done if a client refuses dental radiographs?",
       options: [
         "Force them to have radiographs taken anyway",
@@ -252,6 +276,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60025,
       question: "Can dental x-rays be taken during pregnancy?",
       options: [
         "Never under any circumstances during pregnancy",
@@ -262,6 +287,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60026,
       question: "Why does the dental radiographer leave the room during x-ray exposure?",
       options: [
         "To avoid accountability for any problems",
@@ -272,6 +298,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60027,
       question: "What is the role of quality assurance in dental radiography?",
       options: [
         "To increase the number of retakes needed",
@@ -282,6 +309,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60028,
       question: "What technique is mentioned for localizing lesions and foreign objects?",
       options: [
         "Bisecting angle technique only",
@@ -292,6 +320,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60029,
       question: "What does a baseline radiograph provide?",
       options: [
         "The minimum radiation dose required",
@@ -302,6 +331,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60030,
       question: "Are dental x-rays considered safe when proper protocols are followed?",
       options: [
         "No, they always cause significant harm to patients",
@@ -312,6 +342,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60031,
       question: "What is one advantage of digital imaging over traditional film?",
       options: [
         "Digital imaging requires more radiation exposure",
@@ -322,6 +353,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60032,
       question: "Can a panoramic radiograph replace a complete intraoral series?",
       options: [
         "Yes, it provides all the same diagnostic information",
@@ -332,6 +364,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60033,
       question: "What is communication in the context of dental radiography?",
       options: [
         "The x-ray equipment used in the practice",
@@ -342,6 +375,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60034,
       question: "What is the importance of first impressions in dental practice?",
       options: [
         "They have no impact on patient relationships",
@@ -352,6 +386,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60035,
       question: "What is the relationship between operator efficiency and client care?",
       options: [
         "Efficiency reduces the quality of patient care",
@@ -362,6 +397,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60036,
       question: "Why is proficiency in dental radiography important?",
       options: [
         "It only affects the speed of taking radiographs",
@@ -372,6 +408,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60037,
       question: "What happens to x-radiation when it interacts with living tissue?",
       options: [
         "It has no effect on biological systems",
@@ -382,6 +419,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60038,
       question: "When should techniques to protect the client be implemented?",
       options: [
         "Only during the x-ray exposure itself",
@@ -392,6 +430,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60039,
       question: "What is the main purpose of shielding recommendations for operators?",
       options: [
         "To make the operator more comfortable",
@@ -402,6 +441,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60040,
       question: "Which method of client education about radiographs is most effective?",
       options: [
         "Oral presentation only",
@@ -412,6 +452,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60041,
       question: "What is one critical element of maintaining darkroom facilities?",
       options: [
         "Keeping the room brightly lit at all times",
@@ -422,6 +463,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60042,
       question: "Why is ordering film and supplies part of the radiographer's duties?",
       options: [
         "To ensure continuous availability of necessary materials",
@@ -432,6 +474,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60043,
       question: "What should the display area for radiograph interpretation include?",
       options: [
         "Dim lighting that makes viewing difficult",
@@ -442,6 +485,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60044,
       question: "What is recommended before discussing findings with a client?",
       options: [
         "Never consult with other team members",
@@ -452,6 +496,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60045,
       question: "What should verbal communication skills in dental radiography accomplish?",
       options: [
         "Confuse patients about their treatment needs",
@@ -462,6 +507,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60046,
       question: "What role do listening skills play in client communication?",
       options: [
         "They are unnecessary in dental practice",
@@ -472,6 +518,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60047,
       question: "A dental hygienist can provide a definitive diagnosis for a patient.",
       options: [
         "True",
@@ -480,6 +527,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60048,
       question: "X-rays are also called roentgen rays.",
       options: [
         "True",
@@ -488,6 +536,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60049,
       question: "Radiopaque structures appear black on a radiograph.",
       options: [
         "True",
@@ -496,6 +545,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60050,
       question: "Interpretation of radiographs is the same as making a diagnosis.",
       options: [
         "True",
@@ -504,6 +554,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60051,
       question: "Dental radiographs enable detection of conditions that cannot be identified clinically.",
       options: [
         "True",
@@ -512,6 +563,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60052,
       question: "The primary benefit of dental radiographs is detection of disease.",
       options: [
         "True",
@@ -520,6 +572,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60053,
       question: "Non-diagnostic radiographic images should be kept rather than retaken to reduce radiation exposure.",
       options: [
         "True",
@@ -528,6 +581,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60054,
       question: "Client education about radiographs is considered critical in dental practice.",
       options: [
         "True",
@@ -536,6 +590,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60055,
       question: "The dental radiographer should remain in the room next to the patient during x-ray exposure.",
       options: [
         "True",
@@ -544,6 +599,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60056,
       question: "A lead apron is used to protect patients from scatter radiation.",
       options: [
         "True",
@@ -552,6 +608,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60057,
       question: "Dental radiographs are the property of the patient who paid for them.",
       options: [
         "True",
@@ -560,6 +617,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60058,
       question: "Digital imaging requires more radiation exposure than traditional film radiography.",
       options: [
         "True",
@@ -568,6 +626,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60059,
       question: "Panoramic radiographs can completely replace a full intraoral series for diagnostic purposes.",
       options: [
         "True",
@@ -576,6 +635,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60060,
       question: "Dental x-rays should never be taken during pregnancy under any circumstances.",
       options: [
         "True",
@@ -584,6 +644,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60061,
       question: "The dental radiographer must have working knowledge of radiation physics and protection.",
       options: [
         "True",
@@ -592,6 +653,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60062,
       question: "Interpreting radiographs while the client is present allows for immediate feedback and education.",
       options: [
         "True",
@@ -600,6 +662,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60063,
       question: "First impressions in dental practice are unimportant and have no lasting impact.",
       options: [
         "True",
@@ -608,6 +671,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60064,
       question: "Chairside manner refers to how a dental professional conducts themselves at the client's chairside.",
       options: [
         "True",
@@ -616,6 +680,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60065,
       question: "Facilitation skills are used to ease communication and develop trusting relationships with clients.",
       options: [
         "True",
@@ -624,6 +689,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60066,
       question: "The dentist legally owns the dental radiographs taken in their practice.",
       options: [
         "True",
@@ -632,6 +698,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60067,
       question: "Quality control procedures should be implemented and monitored in dental radiography.",
       options: [
         "True",
@@ -640,6 +707,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60068,
       question: "Verbal, nonverbal, and listening skills all enhance communication with dental clients.",
       options: [
         "True",
@@ -648,6 +716,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60069,
       question: "A baseline radiograph provides a reference point for future comparison.",
       options: [
         "True",
@@ -656,6 +725,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60070,
       question: "The operator should stand within the primary x-ray beam during exposure for better control.",
       options: [
         "True",
@@ -664,6 +734,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60071,
       question: "Professional courtesy, patience, and honesty are important attitude components in dental practice.",
       options: [
         "True",
@@ -672,6 +743,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60072,
       question: "Mounting and identification of dental images may be part of the radiographer's duties.",
       options: [
         "True",
@@ -680,6 +752,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60073,
       question: "X-radiation causes no biologic changes in living cells.",
       options: [
         "True",
@@ -688,6 +761,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60074,
       question: "The benefit of dental radiographs far outweighs the risk of small radiation doses.",
       options: [
         "True",
@@ -696,6 +770,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60075,
       question: "Client protection techniques should only be used during the x-ray exposure itself.",
       options: [
         "True",
@@ -704,6 +779,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60076,
       question: "Communication is the process by which information is exchanged between two or more persons.",
       options: [
         "True",
@@ -714,6 +790,7 @@ export const questions = {
   ],
   "2. Normal Anatomical Landmarks of the Maxilla and Tooth Structure": [
     {
+      id: 60077,
       question: "What does the term \"articulates\" mean in anatomical terminology?",
       options: [
         "A small bump or nodule on bone",
@@ -724,6 +801,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60078,
       question: "Which type of bone appears radiopaque on a radiograph?",
       options: [
         "Cancellous bone only",
@@ -734,6 +812,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60079,
       question: "What is the appearance of cancellous bone on a radiograph?",
       options: [
         "Completely radiopaque throughout",
@@ -744,6 +823,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60080,
       question: "What term describes the overall darkness or blackness of a radiograph?",
       options: [
         "Contrast",
@@ -754,6 +834,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60081,
       question: "Which term refers to a marked prominence or projection of bone?",
       options: [
         "Process",
@@ -764,6 +845,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60082,
       question: "What is a tubelike passageway through bone that contains nerves and blood vessels?",
       options: [
         "Foramen",
@@ -774,6 +856,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60083,
       question: "What term describes a broad, shallow, scooped-out area in bone?",
       options: [
         "Canal",
@@ -784,6 +867,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60084,
       question: "What is a septum in bone anatomy?",
       options: [
         "An opening for blood vessels",
@@ -794,6 +878,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60085,
       question: "How does a suture appear on a radiograph?",
       options: [
         "As a thick radiopaque band",
@@ -804,6 +889,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60086,
       question: "The maxilla is composed of how many paired bones?",
       options: [
         "One",
@@ -814,6 +900,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60087,
       question: "What does the maxilla form as part of its structure?",
       options: [
         "The lower jaw only",
@@ -824,6 +911,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60088,
       question: "Where is the incisive foramen located?",
       options: [
         "Between the maxillary molars",
@@ -834,6 +922,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60089,
       question: "How does the incisive foramen appear on a radiograph?",
       options: [
         "As a large rectangular radiopacity",
@@ -844,6 +933,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60090,
       question: "What is the median palatal suture?",
       options: [
         "A movable joint between maxillary bones",
@@ -854,6 +944,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60091,
       question: "Where do the superior foramina of the incisive canal appear on radiographs?",
       options: [
         "Inferior to the maxillary central incisors",
@@ -864,6 +955,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60092,
       question: "How many superior foramina join to form the incisive canal?",
       options: [
         "One",
@@ -874,6 +966,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60093,
       question: "Where is the lateral fossa located?",
       options: [
         "Superior to the infraorbital foramen",
@@ -884,6 +977,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60094,
       question: "What structure divides the nasal cavity into right and left nasal fossae?",
       options: [
         "The hard palate",
@@ -894,6 +988,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60095,
       question: "What bones form the nasal septum?",
       options: [
         "Only the maxilla",
@@ -904,6 +999,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60096,
       question: "What forms the floor of the nasal cavity?",
       options: [
         "The ethmoid bone only",
@@ -914,6 +1010,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60097,
       question: "How does the floor of the nasal cavity appear on a radiograph?",
       options: [
         "As a radiolucent area",
@@ -924,6 +1021,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60098,
       question: "What is the anterior nasal spine?",
       options: [
         "A depression in the maxilla",
@@ -934,6 +1032,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60099,
       question: "How does the anterior nasal spine appear on radiographs?",
       options: [
         "As a circular radiolucent area",
@@ -944,6 +1043,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60100,
       question: "What does \"conchae\" mean?",
       options: [
         "Flat or straight shaped",
@@ -954,6 +1054,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60101,
       question: "Where are the inferior nasal conchae located?",
       options: [
         "On the floor of the nasal cavity",
@@ -964,6 +1065,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60102,
       question: "How do the inferior nasal conchae appear on radiographs?",
       options: [
         "As radiolucent lines",
@@ -974,6 +1076,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60103,
       question: "Where is the maxillary sinus located?",
       options: [
         "Below the maxillary teeth",
@@ -984,6 +1087,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60104,
       question: "How does the maxillary sinus appear on a radiograph?",
       options: [
         "As a radiopaque mass",
@@ -994,6 +1098,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60105,
       question: "What are septa within the maxillary sinus?",
       options: [
         "Blood vessels running through the sinus",
@@ -1004,6 +1109,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60106,
       question: "How do nutrient canals within the maxillary sinus appear?",
       options: [
         "As wide radiopaque bands",
@@ -1014,6 +1120,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60107,
       question: "What forms the inverted Y landmark?",
       options: [
         "The junction of two maxillary bones",
@@ -1024,6 +1131,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60108,
       question: "Where is the inverted Y located?",
       options: [
         "Between the central incisors",
@@ -1034,6 +1142,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60109,
       question: "What is the maxillary tuberosity?",
       options: [
         "A depression behind the molars",
@@ -1044,6 +1153,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60110,
       question: "How does the maxillary tuberosity appear on radiographs?",
       options: [
         "As a radiolucent area",
@@ -1054,6 +1164,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60111,
       question: "What bone does the hamulus extend from?",
       options: [
         "The maxilla",
@@ -1064,6 +1175,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60112,
       question: "How is the hamulus shaped?",
       options: [
         "As a flat plate",
@@ -1074,6 +1186,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60113,
       question: "Where does the hamulus appear on radiographs?",
       options: [
         "Anterior to the incisors",
@@ -1084,6 +1197,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60114,
       question: "What does the zygomatic process of the maxilla articulate with?",
       options: [
         "The temporal bone",
@@ -1094,6 +1208,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60115,
       question: "How does the zygomatic process appear on radiographs?",
       options: [
         "As a circular shape",
@@ -1104,6 +1219,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60116,
       question: "Where is the zygomatic process of the maxilla located?",
       options: [
         "Below the maxillary incisors",
@@ -1114,6 +1230,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60117,
       question: "What is the zygoma also known as?",
       options: [
         "The temporal bone",
@@ -1124,6 +1241,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60118,
       question: "How does the zygoma appear on radiographs?",
       options: [
         "As a radiolucent circle",
@@ -1134,6 +1252,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60119,
       question: "Which tooth structure is the most radiopaque?",
       options: [
         "Dentin",
@@ -1144,6 +1263,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60120,
       question: "What is the dentinoenamel junction?",
       options: [
         "The junction between tooth and bone",
@@ -1154,6 +1274,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60121,
       question: "How does the pulp cavity appear on radiographs?",
       options: [
         "As the most radiopaque structure",
@@ -1164,6 +1285,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60122,
       question: "What comprises most of the tooth structure?",
       options: [
         "Enamel",
@@ -1174,6 +1296,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60123,
       question: "Is dentin as radiopaque as enamel?",
       options: [
         "Yes, they are equally radiopaque",
@@ -1184,6 +1307,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60124,
       question: "What does the pulp cavity consist of?",
       options: [
         "Only the pulp chamber",
@@ -1194,6 +1318,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60125,
       question: "Where should all information about normal anatomical landmarks be found according to the document?",
       options: [
         "Chapter 25",
@@ -1204,6 +1329,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60126,
       question: "What is one purpose of the lecture according to the introduction?",
       options: [
         "To explain how to take radiographs",
@@ -1214,6 +1340,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60127,
       question: "What is contrast in radiographic terms?",
       options: [
         "The overall brightness of the image",
@@ -1224,6 +1351,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60128,
       question: "Which appearance is characteristic of cortical bone?",
       options: [
         "Appears primarily radiolucent",
@@ -1234,6 +1362,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60129,
       question: "What is a ridge in bone terminology?",
       options: [
         "A rounded prominence",
@@ -1244,6 +1373,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60130,
       question: "What is a spine in anatomical terms?",
       options: [
         "A broad, shallow depression",
@@ -1254,6 +1384,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60131,
       question: "What is a tubercle?",
       options: [
         "A large rounded prominence",
@@ -1264,6 +1395,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60132,
       question: "What is a tuberosity?",
       options: [
         "A sharp projection",
@@ -1274,6 +1406,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60133,
       question: "What is a foramen?",
       options: [
         "A linear prominence",
@@ -1284,6 +1417,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60134,
       question: "What is a sinus in bone anatomy?",
       options: [
         "A sharp projection",
@@ -1294,6 +1428,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60135,
       question: "What does \"radiopaque\" mean?",
       options: [
         "Appears dark on radiographs",
@@ -1304,6 +1439,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60136,
       question: "What does \"radiolucent\" mean?",
       options: [
         "Appears white on radiographs",
@@ -1314,6 +1450,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60137,
       question: "What is the dense outer layer of bone called?",
       options: [
         "Cancellous bone",
@@ -1324,6 +1461,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60138,
       question: "What type of bone is located between two layers of cortical bone?",
       options: [
         "Compact bone",
@@ -1334,6 +1472,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
+      id: 60139,
       question: "What appears radiopaque in cancellous bone?",
       options: [
         "The marrow spaces",
@@ -1344,6 +1483,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60140,
       question: "What appears radiolucent in cancellous bone?",
       options: [
         "The bony trabeculae",
@@ -1354,6 +1494,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60141,
       question: "How many maxillary bones meet at the midline of the face?",
       options: [
         "One",
@@ -1364,6 +1505,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60142,
       question: "The nasal cavity has what shape?",
       options: [
         "Rectangular",
@@ -1374,6 +1516,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60143,
       question: "The paired maxillae bones meet at the midline of the face.",
       options: [
         "True",
@@ -1382,6 +1525,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60144,
       question: "Cortical bone appears radiolucent on a radiograph.",
       options: [
         "True",
@@ -1390,6 +1534,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60145,
       question: "Cancellous bone is soft, spongy bone located between two layers of dense cortical bone.",
       options: [
         "True",
@@ -1398,6 +1543,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60146,
       question: "A suture is a movable joint between bones of the skull.",
       options: [
         "True",
@@ -1406,6 +1552,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60147,
       question: "The incisive foramen is located at the midline of the anterior hard palate.",
       options: [
         "True",
@@ -1414,6 +1561,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60148,
       question: "The median palatal suture appears as a thick radiopaque band.",
       options: [
         "True",
@@ -1422,6 +1570,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60149,
       question: "The superior foramina of the incisive canal are located on the floor of the nasal cavity.",
       options: [
         "True",
@@ -1430,6 +1579,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60150,
       question: "The lateral fossa is located between the maxillary canine and lateral incisor.",
       options: [
         "True",
@@ -1438,6 +1588,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60151,
       question: "The nasal septum is a movable structure.",
       options: [
         "True",
@@ -1446,6 +1597,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60152,
       question: "The anterior nasal spine is located at the anterior and inferior portion of the nasal cavity.",
       options: [
         "True",
@@ -1454,6 +1606,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60153,
       question: "The inferior nasal conchae are wafer-thin, curved plates of bone.",
       options: [
         "True",
@@ -1462,6 +1615,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60154,
       question: "The maxillary sinus is located below the maxillary teeth.",
       options: [
         "True",
@@ -1470,6 +1624,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60155,
       question: "Septa within the maxillary sinus appear as radiolucent lines.",
       options: [
         "True",
@@ -1478,6 +1633,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60156,
       question: "Nutrient canals contain blood vessels and nerves.",
       options: [
         "True",
@@ -1486,6 +1642,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60157,
       question: "The inverted Y is located above the maxillary canine.",
       options: [
         "True",
@@ -1494,6 +1651,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60158,
       question: "The maxillary tuberosity extends anterior to the first molar.",
       options: [
         "True",
@@ -1502,6 +1660,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60159,
       question: "The hamulus is a hooklike projection of bone.",
       options: [
         "True",
@@ -1510,6 +1669,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60160,
       question: "The zygomatic process of the maxilla articulates with the zygoma.",
       options: [
         "True",
@@ -1518,6 +1678,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60161,
       question: "The zygoma is also called the cheekbone.",
       options: [
         "True",
@@ -1526,6 +1687,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60162,
       question: "Enamel is the most radiopaque tooth structure.",
       options: [
         "True",
@@ -1534,6 +1696,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60163,
       question: "Dentin is as radiopaque as enamel.",
       options: [
         "True",
@@ -1542,6 +1705,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60164,
       question: "The pulp cavity appears radiopaque on radiographs.",
       options: [
         "True",
@@ -1550,6 +1714,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60165,
       question: "A process is a marked prominence or projection of bone.",
       options: [
         "True",
@@ -1558,6 +1723,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60166,
       question: "A foramen is a solid bony projection.",
       options: [
         "True",
@@ -1566,6 +1732,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60167,
       question: "Contrast refers to the overall darkness of a radiograph.",
       options: [
         "True",
@@ -1574,6 +1741,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60168,
       question: "All information in this lecture can be found in Chapter 27.",
       options: [
         "True",
@@ -1582,6 +1750,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60169,
       question: "The maxilla forms the floor of the orbit of the eye.",
       options: [
         "True",
@@ -1592,6 +1761,7 @@ export const questions = {
   ],
   "3. Radiographic Anatomy of the Mandible and Periodontal Structures": [
     {
+      id: 60170,
       question: "The mandible is divided into three main parts. Which of the following is NOT one of these parts?",
       options: [
         "The coronoid process of the ramus",
@@ -1602,6 +1772,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60171,
       question: "What are genial tubercles?",
       options: [
         "Openings in bone for blood vessel passage",
@@ -1612,6 +1783,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60172,
       question: "On a dental radiograph, genial tubercles appear as:",
       options: [
         "A radiolucent dot below the incisor apices",
@@ -1622,6 +1794,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60173,
       question: "The lingual foramen is located:",
       options: [
         "On the external surface near the premolars",
@@ -1632,6 +1805,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60174,
       question: "How does the lingual foramen appear radiographically?",
       options: [
         "As a ring-shaped radiopacity",
@@ -1642,6 +1816,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60175,
       question: "Nutrient canals are best described as:",
       options: [
         "Depressions for muscle attachment",
@@ -1652,6 +1827,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60176,
       question: "Where are nutrient canals most often seen?",
       options: [
         "In the posterior mandible",
@@ -1662,6 +1838,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60177,
       question: "The radiographic appearance of nutrient canals includes:",
       options: [
         "Horizontal radiopaque bands",
@@ -1672,6 +1849,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60178,
       question: "The mental ridge is located on:",
       options: [
         "The internal surface of the anterior mandible",
@@ -1682,6 +1860,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60179,
       question: "Radiographically, the mental ridge appears as:",
       options: [
         "A radiolucent area above bone ridges",
@@ -1692,6 +1871,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60180,
       question: "The mental fossa is described as:",
       options: [
         "A linear prominence of cortical bone",
@@ -1702,6 +1882,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60181,
       question: "On a radiograph, the mental fossa appears:",
       options: [
         "As a radiopaque band",
@@ -1712,6 +1893,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60182,
       question: "The mental foramen is located:",
       options: [
         "Below the apices of mandibular incisors",
@@ -1722,6 +1904,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60183,
       question: "The mental foramen is frequently misdiagnosed as:",
       options: [
         "A nutrient canal",
@@ -1732,6 +1915,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60184,
       question: "The mandibular canal houses:",
       options: [
         "The genioglossus muscle",
@@ -1742,6 +1926,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60185,
       question: "Radiographically, the mandibular canal appears as:",
       options: [
         "A solid radiopaque band",
@@ -1752,6 +1937,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60186,
       question: "The mylohyoid ridge is located on:",
       options: [
         "The external surface of the mandible",
@@ -1762,6 +1948,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60187,
       question: "The mylohyoid ridge appears radiographically as:",
       options: [
         "A radiolucent area below alveolar crest",
@@ -1772,6 +1959,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60188,
       question: "The external oblique ridge is found on:",
       options: [
         "The internal mandibular surface",
@@ -1782,6 +1970,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60189,
       question: "The external oblique ridge extends from:",
       options: [
         "The mental foramen to the genial tubercles",
@@ -1792,6 +1981,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60190,
       question: "The anterior border of the ramus appears on molar bite-wings as:",
       options: [
         "A horizontal radiolucent band",
@@ -1802,6 +1992,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60191,
       question: "The submandibular fossa is located:",
       options: [
         "Above the mylohyoid ridge",
@@ -1812,6 +2003,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60192,
       question: "Radiographically, the submandibular fossa appears as:",
       options: [
         "A radiopaque band in the molar region",
@@ -1822,6 +2014,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60193,
       question: "The coronoid process is located on:",
       options: [
         "The posterior border of the ramus",
@@ -1832,6 +2025,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60194,
       question: "On a radiograph, the coronoid process appears as:",
       options: [
         "A horizontal radiopaque band",
@@ -1842,6 +2036,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60195,
       question: "The lamina dura is composed of:",
       options: [
         "Cancellous bone tissue",
@@ -1852,6 +2047,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60196,
       question: "Radiographically, the lamina dura appears as:",
       options: [
         "A radiolucent space around roots",
@@ -1862,6 +2058,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60197,
       question: "The alveolar crest is:",
       options: [
         "The wall of the tooth socket",
@@ -1872,6 +2069,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60198,
       question: "Typically, the alveolar crest is located:",
       options: [
         "3.5 to 4.0 mm below the CEJ",
@@ -1882,6 +2080,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60199,
       question: "In anterior regions, the normal alveolar crest appears:",
       options: [
         "Flat and smooth between teeth",
@@ -1892,6 +2091,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60200,
       question: "In posterior regions, the normal alveolar crest appears:",
       options: [
         "Pointed and sharp between teeth",
@@ -1902,6 +2102,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60201,
       question: "The alveolar crest in anterior regions appears:",
       options: [
         "Less dense than in posterior regions",
@@ -1912,6 +2113,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60202,
       question: "The periodontal ligament space is located:",
       options: [
         "Between adjacent teeth",
@@ -1922,6 +2124,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60203,
       question: "The periodontal ligament space appears radiographically as:",
       options: [
         "A dense radiopaque line",
@@ -1932,6 +2135,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60204,
       question: "Primary teeth begin erupting at approximately:",
       options: [
         "3 months of age",
@@ -1942,6 +2146,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60205,
       question: "By what age should all 20 primary teeth be erupted?",
       options: [
         "18 months of age",
@@ -1952,6 +2157,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60206,
       question: "Primary teeth roots characteristically:",
       options: [
         "Are longer than permanent tooth roots",
@@ -1962,6 +2168,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60207,
       question: "Compared to permanent teeth, primary teeth have:",
       options: [
         "Smaller pulp chambers",
@@ -1972,6 +2179,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60208,
       question: "Large spacing between primary teeth is:",
       options: [
         "Abnormal and indicates developmental problems",
@@ -1982,6 +2190,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60209,
       question: "Mixed dentition is present between the ages of:",
       options: [
         "3 and 6 years",
@@ -1992,6 +2201,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60210,
       question: "During mixed dentition, radiographs may show:",
       options: [
         "Only primary teeth",
@@ -2002,6 +2212,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60211,
       question: "A supernumerary tooth is:",
       options: [
         "A permanent tooth replacing a primary tooth",
@@ -2012,6 +2223,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60212,
       question: "Which imaging techniques can be used for primary and mixed dentitions?",
       options: [
         "Panoramic imaging only",
@@ -2022,6 +2234,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60213,
       question: "What information is found in Chapter 27 according to the lecture?",
       options: [
         "Maxillary anatomical landmarks",
@@ -2032,6 +2245,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60214,
       question: "The purpose of reviewing normal anatomy includes:",
       options: [
         "Learning surgical techniques",
@@ -2042,6 +2256,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60215,
       question: "The mandible is described as:",
       options: [
         "The smallest facial bone",
@@ -2052,6 +2267,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60216,
       question: "The body of the mandible extends:",
       options: [
         "Vertically behind the third molar",
@@ -2062,6 +2278,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60217,
       question: "The alveolar process functions to:",
       options: [
         "Attach muscles for mastication",
@@ -2072,6 +2289,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60218,
       question: "Which structure is an attachment site for the genioglossus muscle?",
       options: [
         "Mental foramen",
@@ -2082,6 +2300,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60219,
       question: "The mental foramen allows passage of:",
       options: [
         "The inferior alveolar nerve only",
@@ -2092,6 +2311,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60220,
       question: "The ramus is the horizontal U-shaped portion of the mandible.",
       options: [
         "True",
@@ -2100,6 +2320,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60221,
       question: "Genial tubercles appear as a radiolucent structure on radiographs.",
       options: [
         "True",
@@ -2108,6 +2329,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60222,
       question: "The lingual foramen is located on the internal surface of the mandible.",
       options: [
         "True",
@@ -2116,6 +2338,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60223,
       question: "Nutrient canals appear as vertical radiolucent lines on radiographs.",
       options: [
         "True",
@@ -2124,6 +2347,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60224,
       question: "The mental ridge is located on the internal surface of the mandible.",
       options: [
         "True",
@@ -2132,6 +2356,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60225,
       question: "The mental foramen is frequently misdiagnosed as a periapical lesion.",
       options: [
         "True",
@@ -2140,6 +2365,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60226,
       question: "The mandibular canal travels the entire length of the mandible.",
       options: [
         "True",
@@ -2148,6 +2374,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60227,
       question: "The mylohyoid ridge is located on the external surface of the mandible.",
       options: [
         "True",
@@ -2156,6 +2383,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60228,
       question: "The coronoid process appears as a triangular radiopacity on radiographs.",
       options: [
         "True",
@@ -2164,6 +2392,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60229,
       question: "The lamina dura is the wall of the tooth socket.",
       options: [
         "True",
@@ -2172,6 +2401,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60230,
       question: "The periodontal ligament space appears radiopaque on radiographs.",
       options: [
         "True",
@@ -2180,6 +2410,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60231,
       question: "The alveolar crest is typically located 1.5 to 2.0 mm below the CEJ.",
       options: [
         "True",
@@ -2188,6 +2419,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60232,
       question: "In anterior regions, the alveolar crest appears flat and smooth.",
       options: [
         "True",
@@ -2196,6 +2428,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60233,
       question: "Primary teeth begin erupting at approximately 6 months of age.",
       options: [
         "True",
@@ -2204,6 +2437,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60234,
       question: "All 20 primary teeth should be erupted by age 3.",
       options: [
         "True",
@@ -2212,6 +2446,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60235,
       question: "Primary tooth roots are parallel like permanent tooth roots.",
       options: [
         "True",
@@ -2220,6 +2455,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60236,
       question: "Mixed dentition occurs between ages 6 and 12 years.",
       options: [
         "True",
@@ -2228,6 +2464,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60237,
       question: "The external oblique ridge is located on the internal mandibular surface.",
       options: [
         "True",
@@ -2236,6 +2473,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60238,
       question: "The submandibular fossa is located inferior to the mylohyoid ridge.",
       options: [
         "True",
@@ -2244,6 +2482,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60239,
       question: "CBCT imaging can be an alternative when intraoral imaging causes gagging issues.",
       options: [
         "True",
@@ -2254,6 +2493,7 @@ export const questions = {
   ],
   "4. Normal Anatomical Landmarks on Panoramic Radiographs": [
     {
+      id: 60240,
       question: "What is the primary purpose of reviewing normal anatomy on panoramic radiographs?",
       options: [
         "To identify the location of dental caries in teeth",
@@ -2264,6 +2504,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60241,
       question: "Where is the mastoid process located in relation to the TMJ?",
       options: [
         "Anterior and superior to the temporomandibular joint",
@@ -2274,6 +2515,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60242,
       question: "How does the mastoid process appear on a panoramic radiograph?",
       options: [
         "As a thin radiolucent line extending vertically",
@@ -2284,6 +2526,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60243,
       question: "The styloid process extends downward from which bone?",
       options: [
         "The sphenoid bone at its inferior surface",
@@ -2294,6 +2537,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60244,
       question: "What is the radiographic appearance of the styloid process?",
       options: [
         "A round radiolucency superior to the mastoid process",
@@ -2304,6 +2548,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60245,
       question: "What structure does the external auditory meatus represent?",
       options: [
         "A projection extending from the temporal bone downward",
@@ -2314,6 +2559,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60246,
       question: "How does the glenoid fossa appear on panoramic radiographs?",
       options: [
         "As a round radiolucency anterior to the condyle",
@@ -2324,6 +2570,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60247,
       question: "The articular eminence is located in relation to what structure?",
       options: [
         "Posterior to the mandibular foramen on the ramus",
@@ -2334,6 +2581,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60248,
       question: "Which bone does the lateral pterygoid plate extend from?",
       options: [
         "The temporal bone at its anterior surface",
@@ -2344,6 +2592,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60249,
       question: "What is the location of the pterygomaxillary fissure?",
       options: [
         "Between the condyle and the coronoid process",
@@ -2354,6 +2603,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60250,
       question: "The maxillary tuberosity is described as what type of prominence?",
       options: [
         "A thin wing-shaped extension posterior to molars",
@@ -2364,6 +2614,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60251,
       question: "Where is the infraorbital foramen located?",
       options: [
         "Superior to the border of the orbital cavity",
@@ -2374,6 +2625,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60252,
       question: "What does the orbit contain according to the lecture?",
       options: [
         "The maxillary sinus and nasal cavity structures",
@@ -2384,6 +2636,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60253,
       question: "How is the incisive canal oriented in the maxilla?",
       options: [
         "It extends horizontally from molar to premolar region",
@@ -2394,6 +2647,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60254,
       question: "The incisive foramen is located at what position?",
       options: [
         "Between the maxillary premolars on the palate",
@@ -2404,6 +2658,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60255,
       question: "What shape is the anterior nasal spine described as?",
       options: [
         "A rounded projection extending from the maxilla",
@@ -2414,6 +2669,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60256,
       question: "How does the anterior nasal spine appear radiographically?",
       options: [
         "As a round radiolucency between incisor roots",
@@ -2424,6 +2680,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60257,
       question: "What is the shape of the nasal cavity?",
       options: [
         "Horseshoe-shaped compartment below the mandible",
@@ -2434,6 +2691,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60258,
       question: "The nasal septum divides the nasal cavity into what?",
       options: [
         "Superior and inferior nasal compartments",
@@ -2444,6 +2702,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60259,
       question: "What does the hard palate separate?",
       options: [
         "The right and left maxillary sinuses",
@@ -2454,6 +2713,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60260,
       question: "Where are the maxillary sinuses located?",
       options: [
         "Inferior to the apices of mandibular molars",
@@ -2464,6 +2724,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60261,
       question: "The zygomatic process of the maxilla articulates with what?",
       options: [
         "The temporal bone at the glenoid fossa",
@@ -2474,6 +2735,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60262,
       question: "What shape does the zygomatic process of maxilla have?",
       options: [
         "A V-shaped radiopacity at the nasal floor",
@@ -2484,6 +2746,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60263,
       question: "Where does the zygoma extend posteriorly from?",
       options: [
         "From the anterior nasal spine toward the septum",
@@ -2494,6 +2757,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60264,
       question: "What is the hamulus described as?",
       options: [
         "A large rounded prominence posterior to third molar",
@@ -2504,6 +2768,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60265,
       question: "The mandibular condyle extends from what structure?",
       options: [
         "From the anterior border of the mandibular ramus",
@@ -2514,6 +2779,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60266,
       question: "What is located between the condyle and coronoid process?",
       options: [
         "The mandibular foramen on the lingual surface",
@@ -2524,6 +2790,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60267,
       question: "The coronoid process is shaped like what?",
       options: [
         "A rounded projection similar to the condyle",
@@ -2534,6 +2801,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60268,
       question: "Where might the coronoid process be seen on intraoral images?",
       options: [
         "On a mandibular molar periapical radiograph",
@@ -2544,6 +2812,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60269,
       question: "The mandibular foramen is located on what surface?",
       options: [
         "On the external surface of the mandibular body",
@@ -2554,6 +2823,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60270,
       question: "What is the lingula described as?",
       options: [
         "A large rounded prominence of the condyle",
@@ -2564,6 +2834,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60271,
       question: "Where does the mandibular canal travel?",
       options: [
         "Within the ramus extending to the condyle",
@@ -2574,6 +2845,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60272,
       question: "How does the mandibular canal appear radiographically?",
       options: [
         "As a solid radiopaque band along inferior border",
@@ -2584,6 +2856,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60273,
       question: "The mental foramen is located in what region?",
       options: [
         "In the apical region of mandibular premolars",
@@ -2594,6 +2867,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60274,
       question: "What shape is the hyoid bone described as?",
       options: [
         "Pear-shaped compartment superior to maxilla",
@@ -2604,6 +2878,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60275,
       question: "How does the hyoid bone appear on radiographs?",
       options: [
         "As a vertical partition dividing the nasal cavity",
@@ -2614,6 +2889,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60276,
       question: "The mental ridge extends from what region to what?",
       options: [
         "From the molar region to the condyle area",
@@ -2624,6 +2900,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60277,
       question: "Where is the mental fossa located?",
       options: [
         "Below the mental ridge in the incisor region",
@@ -2634,6 +2911,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60278,
       question: "The lingual foramen is located on what surface?",
       options: [
         "On the external surface of the anterior mandible",
@@ -2644,6 +2922,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60279,
       question: "What surrounds the lingual foramen on radiographs?",
       options: [
         "A vertical radiopaque partition of bone",
@@ -2654,6 +2933,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60280,
       question: "The inferior border of the mandible is what type of bone?",
       options: [
         "A thin prominence of cancellous bone structure",
@@ -2664,6 +2944,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60281,
       question: "Where does the mylohyoid ridge extend to?",
       options: [
         "From molar region downward to premolar apices",
@@ -2674,6 +2955,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60282,
       question: "The internal oblique ridge is located on what surface?",
       options: [
         "On the external surface of the mandibular body",
@@ -2684,6 +2966,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60283,
       question: "Where does the external oblique ridge extend to?",
       options: [
         "From the condyle to the glenoid fossa area",
@@ -2694,6 +2977,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60284,
       question: "The angle of the mandible is formed where?",
       options: [
         "Where the condyle meets the sigmoid notch",
@@ -2704,6 +2988,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60285,
       question: "What is the palatoglossal air space between?",
       options: [
         "Between the nasal cavity and the orbit",
@@ -2714,6 +2999,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60286,
       question: "The nasopharyngeal air space is located where?",
       options: [
         "In the pharynx anterior to the nasal cavity",
@@ -2724,6 +3010,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60287,
       question: "Where is the glossopharyngeal air space located?",
       options: [
         "In the pharynx posterior to tongue and oral cavity",
@@ -2734,6 +3021,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60288,
       question: "Which soft tissues are visible on panoramic images?",
       options: [
         "Liver, spleen, kidneys, and intestinal structures",
@@ -2744,6 +3032,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60289,
       question: "The mastoid process can be seen on intraoral radiographic images.",
       options: [
         "True",
@@ -2752,6 +3041,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60290,
       question: "The styloid process appears as a long radiopaque spine that extends from the temporal bone.",
       options: [
         "True",
@@ -2760,6 +3050,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60291,
       question: "The external auditory meatus appears as a radiopaque projection on panoramic radiographs.",
       options: [
         "True",
@@ -2768,6 +3059,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60292,
       question: "The glenoid fossa is located superior to the mandibular condyle.",
       options: [
         "True",
@@ -2776,6 +3068,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60293,
       question: "The lateral pterygoid plate is visible on intraoral radiographic images.",
       options: [
         "True",
@@ -2784,6 +3077,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60294,
       question: "The maxillary tuberosity may be viewed on intraoral images.",
       options: [
         "True",
@@ -2792,6 +3086,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60295,
       question: "The orbit appears as a radiopaque compartment on panoramic radiographs.",
       options: [
         "True",
@@ -2800,6 +3095,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60296,
       question: "The incisive canal can be seen on both panoramic and intraoral images.",
       options: [
         "True",
@@ -2808,6 +3104,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60297,
       question: "The anterior nasal spine is located at the posterior portion of the hard palate.",
       options: [
         "True",
@@ -2816,6 +3113,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60298,
       question: "The nasal septum appears as a horizontal radiopaque band on radiographs.",
       options: [
         "True",
@@ -2824,6 +3122,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60299,
       question: "The maxillary sinuses are located inferior to the maxillary posterior teeth.",
       options: [
         "True",
@@ -2832,6 +3131,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60300,
       question: "The zygomatic process of maxilla is located superior to the maxillary first molar region.",
       options: [
         "True",
@@ -2840,6 +3140,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60301,
       question: "The mandibular condyle is not visible on intraoral radiographic images.",
       options: [
         "True",
@@ -2848,6 +3149,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60302,
       question: "The sigmoid notch is located between the condyle and the articular eminence.",
       options: [
         "True",
@@ -2856,6 +3158,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60303,
       question: "The coronoid process may be seen on a maxillary molar periapical image.",
       options: [
         "True",
@@ -2864,6 +3167,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60304,
       question: "The mandibular foramen is visible on intraoral radiographic images.",
       options: [
         "True",
@@ -2872,6 +3176,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60305,
       question: "The mandibular canal appears as a solid radiopaque band on radiographs.",
       options: [
         "True",
@@ -2880,6 +3185,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60306,
       question: "The mental foramen can be viewed on both panoramic and intraoral images.",
       options: [
         "True",
@@ -2888,6 +3194,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60307,
       question: "The hyoid bone appears superior to the inferior border of the mandible.",
       options: [
         "True",
@@ -2896,6 +3203,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60308,
       question: "The mental ridge may be viewed on intraoral radiographic images.",
       options: [
         "True",
@@ -2904,6 +3212,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60309,
       question: "The mental fossa is located below the mental ridge.",
       options: [
         "True",
@@ -2912,6 +3221,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60310,
       question: "The lingual foramen appears superior to the apices of mandibular incisors.",
       options: [
         "True",
@@ -2920,6 +3230,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60311,
       question: "The genial tubercles appear as a ring-shaped radiopacity surrounding the lingual foramen.",
       options: [
         "True",
@@ -2928,6 +3239,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60312,
       question: "The inferior border of the mandible is composed of thick cortical bone.",
       options: [
         "True",
@@ -2936,6 +3248,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60313,
       question: "The mylohyoid ridge is located on the external surface of the mandible.",
       options: [
         "True",
@@ -2944,6 +3257,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60314,
       question: "The internal oblique ridge extends downward and forward from the ramus.",
       options: [
         "True",
@@ -2952,6 +3266,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60315,
       question: "The angle of the mandible is visible on intraoral radiographic images.",
       options: [
         "True",
@@ -2960,6 +3275,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60316,
       question: "The palatoglossal air space is located between the maxilla and mandible.",
       options: [
         "True",
@@ -2968,6 +3284,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60317,
       question: "The tongue is one of the soft tissues visible on panoramic images.",
       options: [
         "True",
@@ -2976,6 +3293,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60318,
       question: "All anatomical information in this lecture can be found in Chapter 29.",
       options: [
         "True",
@@ -2986,6 +3304,7 @@ export const questions = {
   ],
   "5. Film Mounting, Viewing Procedures, and Periodontal Disease Assessment": [
     {
+      id: 60319,
       question: "What information must be included on a film mount according to proper documentation standards?",
       options: [
         "Only the client's name and exposure date",
@@ -2996,6 +3315,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60320,
       question: "In labial mounting, how should the identification dot be positioned when placing radiographs in the film mount?",
       options: [
         "The depressed (concave) side faces the viewer",
@@ -3006,6 +3326,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60321,
       question: "Which dental professional is ultimately responsible for establishing a final or definitive interpretation and diagnosis of radiographs?",
       options: [
         "The dental hygienist who took the radiographs",
@@ -3016,6 +3337,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60322,
       question: "According to Procedure 28-2, where should you begin when viewing mounted radiographs?",
       options: [
         "Mandibular teeth on the left side",
@@ -3026,6 +3348,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60323,
       question: "When is the optimal time to interpret radiographic images during a patient appointment?",
       options: [
         "At the end of the appointment after all treatment is completed",
@@ -3036,6 +3359,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60324,
       question: "What color pen must be used for radiographic findings in student interpretation according to Oxford College protocol?",
       options: [
         "Blue pen only",
@@ -3046,6 +3370,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
+      id: 60325,
       question: "How many main headings must be used in the Oxford College interpretation documentation protocol?",
       options: [
         "Four main headings",
@@ -3056,6 +3381,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60326,
       question: "In what order must the six main headings appear in radiographic documentation?",
       options: [
         "Caries, Calculus, Bone Level, Film Quality, Surrounding Structures, Other",
@@ -3066,6 +3392,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60327,
       question: "When documenting radiographic findings, what is the proper order for reviewing films?",
       options: [
         "Bitewings first, then periapicals",
@@ -3076,6 +3403,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60328,
       question: "How should overlap be documented in the Film Quality section?",
       options: [
         "By film number only for both periapicals and bitewings",
@@ -3086,6 +3414,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60329,
       question: "What information should be included when documenting a conecut error?",
       options: [
         "The teeth that are affected by the conecut",
@@ -3096,6 +3425,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60330,
       question: "When documenting film placement errors, what specific information must be recorded?",
       options: [
         "The patient's position during exposure",
@@ -3106,6 +3436,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60331,
       question: "In the Surrounding Structures section, how should findings be characterized?",
       options: [
         "As normal or abnormal only",
@@ -3116,6 +3447,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60332,
       question: "When describing bone loss, what must be documented first in the Bone Level section?",
       options: [
         "Localized bone loss in specific areas",
@@ -3126,6 +3458,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60333,
       question: "How should calculus be documented in radiographic interpretation?",
       options: [
         "As generalized or by each individual area",
@@ -3136,6 +3469,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60334,
       question: "In the Caries section, what is the correct order for documenting different types of caries?",
       options: [
         "Root caries, recurrent caries, new caries",
@@ -3146,6 +3480,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60335,
       question: "How does the lamina dura appear on radiographs of healthy teeth?",
       options: [
         "As a thin radiolucent line around the root",
@@ -3156,6 +3491,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60336,
       question: "Where is the alveolar crest normally located in relation to the CEJ in healthy teeth?",
       options: [
         "At the same level as the CEJ",
@@ -3166,6 +3502,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60337,
       question: "How does the periodontal ligament space appear on radiographs of a healthy tooth?",
       options: [
         "As a thick, irregular radiopaque line",
@@ -3176,6 +3513,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60338,
       question: "What is the primary limitation of using horizontal bite-wing images for periodontal disease detection?",
       options: [
         "They show too much bone structure",
@@ -3186,6 +3524,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60339,
       question: "Which type of periapical radiograph may appear to show less bone loss than actually present?",
       options: [
         "Paralleling technique periapicals",
@@ -3196,6 +3535,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60340,
       question: "What is the preferred periapical exposure method for detecting periodontal disease?",
       options: [
         "Bisecting angle technique",
@@ -3206,6 +3546,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60341,
       question: "Why do panoramic images have limited diagnostic value for detecting periodontal disease?",
       options: [
         "They are too expensive to produce routinely",
@@ -3216,6 +3557,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60342,
       question: "What clinical measurement is used to determine the severity of bone loss (mild, moderate, or severe)?",
       options: [
         "Probing depth only",
@@ -3226,6 +3568,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60343,
       question: "What does Clinical Attachment Loss (CAL) measure?",
       options: [
         "The distance from the gingival margin to the base of the pocket",
@@ -3236,6 +3579,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60344,
       question: "How is mild (slight) bone loss classified in terms of measurement?",
       options: [
         "1 to 2 mm",
@@ -3246,6 +3590,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60345,
       question: "What measurement range defines moderate bone loss?",
       options: [
         "1 to 2 mm",
@@ -3256,6 +3601,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60346,
       question: "What characterizes severe bone loss?",
       options: [
         "3 to 4 mm bone loss",
@@ -3266,6 +3612,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60347,
       question: "How is localized bone loss defined in terms of distribution?",
       options: [
         "Bone loss that occurs evenly throughout the dental arches",
@@ -3276,6 +3623,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60348,
       question: "What characterizes generalized bone loss distribution?",
       options: [
         "Bone loss in posterior teeth only",
@@ -3286,6 +3634,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60349,
       question: "How is horizontal bone loss described in terms of pattern?",
       options: [
         "Loss that creates irregular bone patterns",
@@ -3296,6 +3645,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60350,
       question: "What defines vertical bone loss pattern?",
       options: [
         "Loss that is always generalized",
@@ -3306,6 +3656,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60351,
       question: "What radiographic finding characterizes ADA Case Type I (Gingivitis)?",
       options: [
         "Mild crestal bone changes",
@@ -3316,6 +3667,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60352,
       question: "Where is the alveolar crest located in ADA Case Type I?",
       options: [
         "3-4mm apical to the CEJ",
@@ -3326,6 +3678,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60353,
       question: "What type of tissue changes are seen in ADA Case Type I (Gingivitis)?",
       options: [
         "Both hard and soft tissue changes",
@@ -3336,6 +3689,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60354,
       question: "How does the lamina dura appear in ADA Case Type II (Early/Mild Periodontitis)?",
       options: [
         "As a clear, continuous radiopaque line",
@@ -3346,6 +3700,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60355,
       question: "What is the approximate alveolar bone level in ADA Case Type II?",
       options: [
         "1-2mm apical to the CEJ",
@@ -3356,6 +3711,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60356,
       question: "What type of bone changes are typically associated with ADA Case Type II?",
       options: [
         "Severe vertical bone loss",
@@ -3366,6 +3722,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60357,
       question: "What characterizes ADA Case Type III (Moderate Periodontitis)?",
       options: [
         "No bone loss, only soft tissue changes",
@@ -3376,6 +3733,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60358,
       question: "What is the alveolar bone level in ADA Case Type IV (Advanced Periodontitis)?",
       options: [
         "1-2mm apical to the CEJ",
@@ -3386,6 +3744,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
+      id: 60359,
       question: "What is characteristic of furcation involvement in ADA Case Type IV?",
       options: [
         "No furcation involvement is present",
@@ -3396,6 +3755,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60360,
       question: "Can radiographic images alone be used to diagnose periodontal disease?",
       options: [
         "Yes, radiographs provide complete diagnostic information",
@@ -3406,6 +3766,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60361,
       question: "What type of bite-wing radiographs can be used to examine bone levels in follow-up?",
       options: [
         "Horizontal bite-wings only",
@@ -3416,6 +3777,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60362,
       question: "What must be considered in addition to radiographs when determining Clinical Attachment Loss?",
       options: [
         "Patient age only",
@@ -3426,6 +3788,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60363,
       question: "What does it mean if the same caries appears on multiple films?",
       options: [
         "Document it for each film where it appears",
@@ -3436,6 +3799,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60364,
       question: "What abbreviation can be used when Film Quality or Surrounding Structures are normal?",
       options: [
         "NML",
@@ -3446,6 +3810,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60365,
       question: "What does \\\"NSF\\\" mean in the Other section?",
       options: [
         "Not Sufficiently Focused",
@@ -3456,6 +3821,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60366,
       question: "What is cervical burnout commonly confused with on radiographs?",
       options: [
         "Calculus",
@@ -3466,6 +3832,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60367,
       question: "Is cervical burnout a true pathological condition?",
       options: [
         "Yes, it requires treatment",
@@ -3476,6 +3843,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60368,
       question: "How should the alveolar crest appear in healthy periodontium?",
       options: [
         "Indistinct and fuzzy",
@@ -3486,6 +3854,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60369,
       question: "What does digital imaging use instead of traditional film mounts?",
       options: [
         "Digital mounts for organizing images",
@@ -3496,6 +3865,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60370,
       question: "In what manner should findings be documented according to the protocol?",
       options: [
         "Counterclockwise",
@@ -3506,6 +3876,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60371,
       question: "What does \\\"B/L\\\" notation represent?",
       options: [
         "Before/Later",
@@ -3516,6 +3887,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60372,
       question: "What does \\\"MOD\\\" represent in surface notation?",
       options: [
         "Moderate, Occlusal, Deep",
@@ -3526,6 +3898,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60373,
       question: "What does \\\"DO\\\" represent in surface documentation?",
       options: [
         "Direct Occlusal",
@@ -3536,6 +3909,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60374,
       question: "What does \\\"PFM\\\" stand for in dental documentation?",
       options: [
         "Plastic Filled Material",
@@ -3546,6 +3920,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 60375,
       question: "What does \\\"RCT\\\" stand for?",
       options: [
         "Root Canal Treatment",
@@ -3556,6 +3931,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60376,
       question: "How should fixed orthodontic appliances be documented if present?",
       options: [
         "Do not document orthodontic appliances",
@@ -3566,6 +3942,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60377,
       question: "If you identify an impacted tooth, in which section should it be documented?",
       options: [
         "Surrounding Structures",
@@ -3576,6 +3953,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
+      id: 60378,
       question: "The dental hygienist can mount radiographic films if they possess knowledge of normal anatomic landmarks.",
       options: [
         "True",
@@ -3584,6 +3962,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60379,
       question: "Lingual mounting is the most commonly used film mounting method in dental practice.",
       options: [
         "True",
@@ -3592,6 +3971,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60380,
       question: "All members of the dental team may interpret radiographs, but the dentist establishes the final diagnosis.",
       options: [
         "True",
@@ -3600,6 +3980,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60381,
       question: "Radiographic findings for student interpretation at Oxford College must be documented in green pen only.",
       options: [
         "True",
@@ -3608,6 +3989,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60382,
       question: "The order of the six main headings in documentation can be changed based on personal preference.",
       options: [
         "True",
@@ -3616,6 +3998,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60383,
       question: "Each main heading must start on a new line with no open lines between headings.",
       options: [
         "True",
@@ -3624,6 +4007,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60384,
       question: "When documenting findings, bitewings should be reviewed before periapicals.",
       options: [
         "True",
@@ -3632,6 +4016,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60385,
       question: "In healthy teeth, the lamina dura appears as a dense radiopaque line.",
       options: [
         "True",
@@ -3640,6 +4025,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60386,
       question: "The alveolar crest in healthy teeth is located about 4-5 mm apical to the CEJ.",
       options: [
         "True",
@@ -3648,6 +4034,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60387,
       question: "The periodontal ligament space in healthy teeth appears as a continuous thin radiolucent line.",
       options: [
         "True",
@@ -3656,6 +4043,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60388,
       question: "Horizontal bite-wing images are ideal for visualizing severe interproximal bone loss.",
       options: [
         "True",
@@ -3664,6 +4052,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60389,
       question: "The paralleling technique is the preferred periapical exposure method for detecting periodontal disease.",
       options: [
         "True",
@@ -3672,6 +4061,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60390,
       question: "Panoramic images have high diagnostic value for detecting early periodontal disease.",
       options: [
         "True",
@@ -3680,6 +4070,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60391,
       question: "Mild bone loss is classified as 3-4 mm of clinical attachment loss.",
       options: [
         "True",
@@ -3688,6 +4079,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60392,
       question: "Severe bone loss is defined as 5 mm or greater of bone loss.",
       options: [
         "True",
@@ -3696,6 +4088,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60393,
       question: "Localized bone loss occurs evenly throughout the dental arches.",
       options: [
         "True",
@@ -3704,6 +4097,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60394,
       question: "Horizontal bone loss occurs in a plane parallel to the CEJs of adjacent teeth.",
       options: [
         "True",
@@ -3712,6 +4106,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60395,
       question: "ADA Case Type I (Gingivitis) shows associated bone loss on radiographs.",
       options: [
         "True",
@@ -3720,6 +4115,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60396,
       question: "In ADA Case Type II, the lamina dura becomes unclear and fuzzy.",
       options: [
         "True",
@@ -3728,6 +4124,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60397,
       question: "ADA Case Type III is characterized by alveolar bone level approximately 4-6mm apical to the CEJ.",
       options: [
         "True",
@@ -3736,6 +4133,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60398,
       question: "Furcation involvement is readily viewed on radiographs in ADA Case Type IV.",
       options: [
         "True",
@@ -3744,6 +4142,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60399,
       question: "Radiographic images alone can be used to diagnose periodontal disease without clinical examination.",
       options: [
         "True",
@@ -3752,6 +4151,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60400,
       question: "Vertical bite-wing radiographs can be used to examine bone levels as a follow-up.",
       options: [
         "True",
@@ -3760,6 +4160,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60401,
       question: "Clinical conditions like recession must be considered when determining Clinical Attachment Loss.",
       options: [
         "True",
@@ -3768,6 +4169,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60402,
       question: "Digital imaging systems do not use mounts for organizing radiographs.",
       options: [
         "True",
@@ -3776,6 +4178,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60403,
       question: "When the same caries appears on multiple films, it should be documented for each film.",
       options: [
         "True",
@@ -3784,6 +4187,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60404,
       question: "The abbreviation \\\"WNL\\\" can be used for Film Quality or Surrounding Structures when findings are normal.",
       options: [
         "True",
@@ -3792,6 +4196,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60405,
       question: "\\\"NSF\\\" in the Other section means \\\"nothing significant found.\\\"",
       options: [
         "True",
@@ -3800,6 +4205,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60406,
       question: "Cervical burnout is a true pathological condition that requires treatment.",
       options: [
         "True",
@@ -3808,6 +4214,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60407,
       question: "The alveolar crest appears indistinct in periodontal disease on radiographs.",
       options: [
         "True",
@@ -3816,6 +4223,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60408,
       question: "Bisecting angle periapical images may appear to show less bone loss than actually present.",
       options: [
         "True",
@@ -3824,6 +4232,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60409,
       question: "Clinical Attachment Loss (CAL) is measured from the gingival margin to the base of the pocket.",
       options: [
         "True",
@@ -3832,6 +4241,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60410,
       question: "Moderate bone loss is characterized by 3-4 mm of attachment loss.",
       options: [
         "True",
@@ -3840,6 +4250,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60411,
       question: "Generalized bone loss occurs in isolated areas only.",
       options: [
         "True",
@@ -3848,6 +4259,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60412,
       question: "In ADA Case Type I, only soft tissue changes are present, not hard tissue changes.",
       options: [
         "True",
@@ -3856,6 +4268,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60413,
       question: "The alveolar bone level in ADA Case Type II is approximately 3-4mm apical to the CEJ.",
       options: [
         "True",
@@ -3864,6 +4277,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60414,
       question: "ADA Case Type IV is characterized by pocket depths and attachment loss greater than 6mm.",
       options: [
         "True",
@@ -3872,6 +4286,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60415,
       question: "Periodontal probing is an essential component of thorough clinical periodontal assessment.",
       options: [
         "True",
@@ -3880,6 +4295,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 60416,
       question: "Radiographic images are three-dimensional representations of oral structures.",
       options: [
         "True",
@@ -3888,6 +4304,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 60417,
       question: "According to the viewing procedure, you should view bite-wing films after completing periapical review.",
       options: [
         "True",
