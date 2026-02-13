@@ -146,15 +146,7 @@ const AIAssistantPanel = ({ question, options, show }) => {
     window.open(url, '_blank', 'noopener,noreferrer');
   };
   
-  // Auto-copy when panel shows
-  useEffect(() => {
-    if (show && question && options) {
-      const questionText = formatQuestionForAI();
-      navigator.clipboard.writeText(questionText).catch(err => {
-        console.error('Auto-copy failed:', err);
-      });
-    }
-  }, [show]);
+  // Note: Auto-copy removed - user must click copy button or AI assistant button to copy
   
   if (!show) return null;
   
@@ -178,7 +170,7 @@ const AIAssistantPanel = ({ question, options, show }) => {
       </div>
       
       <p className="text-xs text-gray-600 text-center">
-        Question sent automatically and copied to clipboard
+        Click an AI assistant to open and copy question
       </p>
     </div>
   );
@@ -789,7 +781,7 @@ export default function ImprovedTestBankApp() {
       const newProgress = currentProgress + selectedQuestions.length;
       setTopicProgress(prev => ({
         ...prev,
-        [topicKey]: Math.max(currentProgress, newProgress)
+        [topicKey]: newProgress // Use newProgress directly, don't use Math.max
       }));
     }
     
@@ -833,7 +825,7 @@ export default function ImprovedTestBankApp() {
       const newProgress = currentProgress + answeredCount;
       setTopicProgress(prev => ({
         ...prev,
-        [topicKey]: Math.max(currentProgress, newProgress)
+        [topicKey]: newProgress // Use newProgress directly, don't use Math.max
       }));
     }
     
