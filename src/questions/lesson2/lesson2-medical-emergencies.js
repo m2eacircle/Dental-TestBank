@@ -9,6 +9,7 @@
 export const questions = {
   "1. Introduction and prevention (Part 1)": [
     {
+      id: 70001,
       question: "What is a medical emergency in the context of dental practice?",
       options: [
         "A minor discomfort that can be managed with over-the-counter medication",
@@ -19,6 +20,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70002,
       question: "Which of the following is NOT a preventive measure to minimize life-threatening incidents?",
       options: [
         "Comprehensive health history and risk assessment",
@@ -29,6 +31,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70003,
       question: "Which factor contributes to increased medical emergencies in dental practice?",
       options: [
         "Decreased use of dental medications",
@@ -39,6 +42,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70004,
       question: "What is the leading cause of death in persons over the age of 65?",
       options: [
         "Respiratory disease",
@@ -49,6 +53,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
+      id: 70005,
       question: "Which medication is commonly used as a local anesthetic in dental treatments?",
       options: [
         "Amoxicillin",
@@ -59,6 +64,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70006,
       question: "What type of medication is nitrous oxide classified as in dental practice?",
       options: [
         "Antibiotic",
@@ -69,6 +75,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70007,
       question: "Which medical advancement has allowed people to live longer after cardiac events?",
       options: [
         "Improved dental hygiene protocols",
@@ -79,6 +86,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70008,
       question: "For a diabetic patient, what blood glucose level requires medical clearance before dental treatment?",
       options: [
         "5.0 mmol/L",
@@ -89,6 +97,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70009,
       question: "What should be available on hand for a diabetic patient experiencing hypoglycemia?",
       options: [
         "Sugar-free beverages only",
@@ -99,6 +108,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70010,
       question: "Should you give sugary foods or drinks to a patient experiencing hyperglycemia?",
       options: [
         "Yes, to stabilize their condition",
@@ -109,6 +119,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70011,
       question: "Which drug interaction is particularly dangerous when combined with alcohol in dental practice?",
       options: [
         "Fluoride treatments",
@@ -119,6 +130,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70012,
       question: "What medication should NOT be given to asthma patients due to increased hypersensitivity risk?",
       options: [
         "Albuterol",
@@ -129,6 +141,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70013,
       question: "What does the term \"tachypnea\" refer to?",
       options: [
         "Slow respiratory rate",
@@ -139,6 +152,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70014,
       question: "Which classification system is used to estimate medical risk for patients receiving anesthesia?",
       options: [
         "WHO Risk Assessment",
@@ -149,6 +163,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70015,
       question: "What does ABC stand for in medical emergency management?",
       options: [
         "Assess, Breathe, Circulate",
@@ -159,6 +174,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70016,
       question: "What is syncope?",
       options: [
         "An allergic reaction to anesthesia",
@@ -169,6 +185,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70017,
       question: "What is the appropriate patient position for treating syncope?",
       options: [
         "Seated upright",
@@ -179,6 +196,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70018,
       question: "What is orthostatic hypotension?",
       options: [
         "High blood pressure when standing",
@@ -189,6 +207,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70019,
       question: "How should you prevent orthostatic hypotension when dismissing a dental patient?",
       options: [
         "Have them stand up quickly and walk immediately",
@@ -199,6 +218,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70020,
       question: "What is the recommended position for an asthmatic patient during an attack?",
       options: [
         "Supine with legs elevated",
@@ -209,6 +229,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70021,
       question: "Which medication is used as a bronchodilator for asthma attacks?",
       options: [
         "Nitroglycerin",
@@ -219,6 +240,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
+      id: 70022,
       question: "Should oxygen be administered during a hyperventilation episode?",
       options: [
         "Yes, at maximum flow rate",
@@ -229,6 +251,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70023,
       question: "How should a hyperventilating patient manage their breathing?",
       options: [
         "Take rapid, shallow breaths",
@@ -239,6 +262,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70024,
       question: "What is angina pectoris?",
       options: [
         "Permanent heart damage",
@@ -249,6 +273,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70025,
       question: "How many doses of nitroglycerin can be administered within 15 minutes for angina?",
       options: [
         "Up to 5 doses",
@@ -259,6 +284,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70026,
       question: "What is the appropriate position for a patient experiencing difficulty breathing during cardiac distress?",
       options: [
         "Supine position",
@@ -269,6 +295,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70027,
       question: "What is a transient ischemic attack (TIA)?",
       options: [
         "Permanent brain damage",
@@ -279,6 +306,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70028,
       question: "Which emergency drug is used for anaphylactic shock?",
       options: [
         "Albuterol",
@@ -289,6 +317,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
+      id: 70029,
       question: "What is the brand name for diazepam?",
       options: [
         "Benadryl",
@@ -299,6 +328,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70030,
       question: "Which drug family does diazepam belong to?",
       options: [
         "Opioids",
@@ -309,6 +339,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70031,
       question: "What medication is used for mild to moderate allergic reactions?",
       options: [
         "Epinephrine",
@@ -319,6 +350,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
+      id: 70032,
       question: "What should be used for syncope management?",
       options: [
         "Nitroglycerin spray",
@@ -329,6 +361,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70033,
       question: "Which condition is treated with oral carbohydrates or glucose?",
       options: [
         "Hyperventilation",
@@ -339,6 +372,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70034,
       question: "What is the most common medical emergency in dental practice?",
       options: [
         "Cardiac arrest",
@@ -349,6 +383,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70035,
       question: "What does ASA I classification indicate?",
       options: [
         "Patient with severe systemic disease",
@@ -359,6 +394,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70036,
       question: "What does ASA II classification indicate?",
       options: [
         "Patient requires emergency surgery",
@@ -369,6 +405,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70037,
       question: "What does a \"yellow light\" in ASA classification mean?",
       options: [
         "No treatment should be provided",
@@ -379,6 +416,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70038,
       question: "What does ASA IV classification indicate?",
       options: [
         "Normal healthy patient",
@@ -389,6 +427,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
+      id: 70039,
       question: "What type of dental treatment is appropriate for ASA IV patients?",
       options: [
         "All elective procedures",
@@ -399,6 +438,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70040,
       question: "Where should emergency dental care for ASA IV patients be performed if immediate treatment is needed?",
       options: [
         "Regular dental office with oxygen available",
@@ -409,6 +449,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70041,
       question: "Which vital sign should be monitored for diabetic patients before dental treatment?",
       options: [
         "Temperature only",
@@ -419,6 +460,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70042,
       question: "What causes hyperglycemia in diabetic patients?",
       options: [
         "Too much insulin",
@@ -429,6 +471,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70043,
       question: "What causes hypoglycemia in diabetic patients?",
       options: [
         "Insulin deficiency",
@@ -439,6 +482,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70044,
       question: "How is hypoglycemia treated in a dental emergency?",
       options: [
         "Insulin injection",
@@ -449,6 +493,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70045,
       question: "Which factor does NOT contribute to longer appointment times increasing emergency risk?",
       options: [
         "More stress for the client",
@@ -459,6 +504,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
+      id: 70046,
       question: "What should dental professionals record for diabetic patients according to CDHO?",
       options: [
         "Only their blood sugar level at arrival",
@@ -469,6 +515,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70047,
       question: "What is the first step in managing a medical emergency?",
       options: [
         "Administer medication immediately",
@@ -479,6 +526,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70048,
       question: "What does the P in the emergency management protocol stand for?",
       options: [
         "Prescribe medication",
@@ -489,6 +537,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70049,
       question: "What does the A in PAD management stand for?",
       options: [
         "Activate EMS",
@@ -499,6 +548,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70050,
       question: "What does the D in PAD management stand for?",
       options: [
         "Document event",
@@ -509,6 +559,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70051,
       question: "What is the first step in the Basic Life Support (BLS) algorithm?",
       options: [
         "Start chest compressions",
@@ -519,6 +570,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70052,
       question: "What equipment should be immediately available in a dental emergency?",
       options: [
         "Only an oxygen tank",
@@ -529,6 +581,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70053,
       question: "What is the appropriate oxygen flow rate for most dental emergencies?",
       options: [
         "1-2 liters per minute",
@@ -539,6 +592,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70054,
       question: "When should a pulse oximeter be used?",
       options: [
         "Only during surgical procedures",
@@ -549,6 +603,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70055,
       question: "What does a myocardial infarction represent?",
       options: [
         "Temporary chest pain",
@@ -559,6 +614,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70056,
       question: "What is another name for a cerebrovascular accident?",
       options: [
         "Heart attack",
@@ -569,6 +625,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70057,
       question: "What causes a cerebrovascular accident?",
       options: [
         "Excess oxygen to the brain",
@@ -579,6 +636,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70058,
       question: "What is an aneurysm?",
       options: [
         "Normal blood vessel structure",
@@ -589,6 +647,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70059,
       question: "What should be done if syncope persists for 15-20 minutes?",
       options: [
         "Continue monitoring only",
@@ -599,6 +658,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70060,
       question: "What is systolic pressure?",
       options: [
         "Pressure during heart relaxation",
@@ -609,6 +669,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70061,
       question: "What is diastolic pressure?",
       options: [
         "Maximum pressure in arteries",
@@ -619,6 +680,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70062,
       question: "What is Addison's disease?",
       options: [
         "Overproduction of hormones",
@@ -629,6 +691,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70063,
       question: "What are barbiturates used for in medicine?",
       options: [
         "Only as painkillers",
@@ -639,6 +702,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70064,
       question: "What type of medications are ibuprofen and acetaminophen?",
       options: [
         "Antibiotics",
@@ -649,6 +713,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70065,
       question: "What should be part of the pre-treatment evaluation to minimize emergencies?",
       options: [
         "Only asking about allergies",
@@ -659,6 +724,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70066,
       question: "When should stress reduction techniques be used?",
       options: [
         "Only after an emergency occurs",
@@ -669,6 +735,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70067,
       question: "What is included in a Basic Life Support (BLS) kit?",
       options: [
         "Only bandages",
@@ -679,6 +746,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70068,
       question: "What must be assessed before dismissing a patient?",
       options: [
         "Only their payment status",
@@ -689,6 +757,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70069,
       question: "What type of therapy allows cancer patients to live longer?",
       options: [
         "Only surgery",
@@ -699,6 +768,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70070,
       question: "What does chemotherapy do?",
       options: [
         "Only treats infections",
@@ -709,6 +779,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70071,
       question: "What does ASA III classification indicate?",
       options: [
         "Normal healthy patient",
@@ -719,6 +790,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70072,
       question: "What is an ASA V patient?",
       options: [
         "Normal healthy patient",
@@ -729,6 +801,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70073,
       question: "When is ASA E designation added?",
       options: [
         "For routine procedures",
@@ -739,6 +812,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70074,
       question: "What is an example of an ASA V condition?",
       options: [
         "Mild hypertension",
@@ -749,6 +823,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70075,
       question: "What does ASA VI classification indicate?",
       options: [
         "Highest risk patient alive",
@@ -759,6 +834,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70076,
       question: "When do ASA III patients typically exhibit symptoms?",
       options: [
         "At all times",
@@ -769,6 +845,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70077,
       question: "What treatment approach is appropriate for ASA I patients?",
       options: [
         "Hospital-only treatment",
@@ -779,6 +856,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70078,
       question: "Medical emergencies in dental practice require help from a doctor or hospital.",
       options: [
         "True",
@@ -787,6 +865,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70079,
       question: "Comprehensive health history and vital signs monitoring can help minimize life-threatening incidents.",
       options: [
         "True",
@@ -795,6 +874,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70080,
       question: "Life-threatening emergencies in dental practice only occur to elderly patients.",
       options: [
         "True",
@@ -803,6 +883,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70081,
       question: "Cardiovascular disease is the leading cause of death in persons over 65.",
       options: [
         "True",
@@ -811,6 +892,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70082,
       question: "Lidocaine is commonly used as a local anesthetic in dental treatments.",
       options: [
         "True",
@@ -819,6 +901,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70083,
       question: "Nitrous oxide is classified as an antibiotic in dental practice.",
       options: [
         "True",
@@ -827,6 +910,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70084,
       question: "Coronary bypass operations have allowed people to pursue active lives after surgery.",
       options: [
         "True",
@@ -835,6 +919,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70085,
       question: "Diabetic patients with blood glucose less than 3.9 mmol/L require medical clearance before treatment.",
       options: [
         "True",
@@ -843,6 +928,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70086,
       question: "You should give sugary foods to a patient experiencing hyperglycemia.",
       options: [
         "True",
@@ -851,6 +937,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70087,
       question: "Orange juice can help raise blood sugar levels quickly during hypoglycemia.",
       options: [
         "True",
@@ -859,6 +946,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70088,
       question: "All drugs are risk-free when used properly in dental practice.",
       options: [
         "True",
@@ -867,6 +955,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70089,
       question: "Aspirin should be avoided in asthmatic patients due to increased hypersensitivity risk.",
       options: [
         "True",
@@ -875,6 +964,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70090,
       question: "Syncope is defined as sudden, transient loss of consciousness.",
       options: [
         "True",
@@ -883,6 +973,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70091,
       question: "The supine position with legs elevated is appropriate for treating syncope.",
       options: [
         "True",
@@ -891,6 +982,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70092,
       question: "Orthostatic hypotension involves a sudden increase in blood pressure.",
       options: [
         "True",
@@ -899,6 +991,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70093,
       question: "Patients should slowly rise from the dental chair to prevent orthostatic hypotension.",
       options: [
         "True",
@@ -907,6 +1000,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70094,
       question: "An asthmatic patient should be positioned sitting upright during an attack.",
       options: [
         "True",
@@ -915,6 +1009,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70095,
       question: "Albuterol is a bronchodilator used for asthma attacks.",
       options: [
         "True",
@@ -923,6 +1018,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70096,
       question: "Oxygen should be administered during hyperventilation episodes.",
       options: [
         "True",
@@ -931,6 +1027,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70097,
       question: "Angina pectoris involves temporary lack of oxygenated blood to the heart muscle.",
       options: [
         "True",
@@ -939,6 +1036,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70098,
       question: "You can administer unlimited doses of nitroglycerin for angina.",
       options: [
         "True",
@@ -947,6 +1045,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70099,
       question: "A transient ischemic attack is also known as a ministroke.",
       options: [
         "True",
@@ -955,6 +1054,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70100,
       question: "Epinephrine is used to treat anaphylactic shock.",
       options: [
         "True",
@@ -963,6 +1063,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70101,
       question: "Valium is the brand name for diazepam.",
       options: [
         "True",
@@ -971,6 +1072,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70102,
       question: "Diazepam belongs to the opioid drug family.",
       options: [
         "True",
@@ -979,6 +1081,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70103,
       question: "Benadryl is used for mild to moderate allergic reactions.",
       options: [
         "True",
@@ -987,6 +1090,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70104,
       question: "Syncope is the most common medical emergency in dental practice.",
       options: [
         "True",
@@ -995,6 +1099,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70105,
       question: "ASA I classification indicates a normal, healthy patient free of systemic disease.",
       options: [
         "True",
@@ -1003,6 +1108,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70106,
       question: "ASA IV patients can receive all elective dental procedures in a regular office.",
       options: [
         "True",
@@ -1011,6 +1117,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70107,
       question: "Blood sugar levels should be monitored for diabetic patients before dental treatment.",
       options: [
         "True",
@@ -1019,6 +1126,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70108,
       question: "Hyperglycemia is caused by insulin deficiency or resistance.",
       options: [
         "True",
@@ -1027,6 +1135,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70109,
       question: "Hypoglycemia can be caused by too much insulin or missed meals.",
       options: [
         "True",
@@ -1035,6 +1144,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70110,
       question: "A pulse oximeter should be used when oxygen is administered to a client.",
       options: [
         "True",
@@ -1043,6 +1153,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70111,
       question: "Myocardial infarction means the heart is receiving adequate blood supply.",
       options: [
         "True",
@@ -1051,6 +1162,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70112,
       question: "A cerebrovascular accident involves interruption of oxygen to the brain.",
       options: [
         "True",
@@ -1059,6 +1171,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70113,
       question: "An aneurysm is a ballooning out of a weakened arterial wall.",
       options: [
         "True",
@@ -1067,6 +1180,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70114,
       question: "Metronidazole can be safely mixed with alcohol without side effects.",
       options: [
         "True",
@@ -1075,6 +1189,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70115,
       question: "Barbiturates are used for anxiety, insomnia, and seizure control.",
       options: [
         "True",
@@ -1083,6 +1198,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70116,
       question: "Standard opioids increase CNS depressant effects when mixed with alcohol.",
       options: [
         "True",
@@ -1091,6 +1207,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70117,
       question: "Ibuprofen and acetaminophen are examples of analgesics used in dentistry.",
       options: [
         "True",
@@ -1099,6 +1216,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70118,
       question: "Tachypnea means a slow respiratory rate.",
       options: [
         "True",
@@ -1107,6 +1225,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70119,
       question: "ABC stands for Airway, Breathing, and Circulation in emergency management.",
       options: [
         "True",
@@ -1115,6 +1234,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70120,
       question: "Delayed recovery from syncope after 15-20 minutes should prompt a call to EMS.",
       options: [
         "True",
@@ -1123,6 +1243,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70121,
       question: "Systolic pressure measures the pressure in arteries during heart contraction.",
       options: [
         "True",
@@ -1131,6 +1252,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70122,
       question: "Addison's disease involves inability to produce certain hormones.",
       options: [
         "True",
@@ -1139,6 +1261,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70123,
       question: "Medical history questionnaires are part of pre-treatment evaluation to minimize emergencies.",
       options: [
         "True",
@@ -1147,6 +1270,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70124,
       question: "Patients should always be assessed for stable conditions before dismissal.",
       options: [
         "True",
@@ -1155,6 +1279,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70125,
       question: "Life-threatening emergencies in dental offices occur only during surgical procedures.",
       options: [
         "True",
@@ -1163,6 +1288,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70126,
       question: "Radiation therapy allows cancer patients to live longer.",
       options: [
         "True",
@@ -1171,6 +1297,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70127,
       question: "Longer dental appointments decrease stress for patients.",
       options: [
         "True",
@@ -1179,6 +1306,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70128,
       question: "Chemotherapy medication stops cell division and is absorbed through the entire system.",
       options: [
         "True",
@@ -1187,6 +1315,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70129,
       question: "ASA III patients exhibit symptoms even at rest.",
       options: [
         "True",
@@ -1195,6 +1324,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70130,
       question: "ASA II patients may have extreme dental anxiety even without systemic disease.",
       options: [
         "True",
@@ -1203,6 +1333,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70131,
       question: "Yellow light in ASA classification means no treatment should be provided.",
       options: [
         "True",
@@ -1211,6 +1342,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70132,
       question: "ASA VI classification refers to brain-dead patients whose organs are being donated.",
       options: [
         "True",
@@ -1219,6 +1351,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70133,
       question: "Nitroglycerin can be administered 1-2 sprays every 5 minutes for angina.",
       options: [
         "True",
@@ -1227,6 +1360,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70134,
       question: "Medical consultation before treatment helps assess risk and determine modifications.",
       options: [
         "True",
@@ -1235,6 +1369,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70135,
       question: "Stress reduction techniques should only be used after an emergency occurs.",
       options: [
         "True",
@@ -1243,6 +1378,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70136,
       question: "An AED is part of the basic life support kit in dental offices.",
       options: [
         "True",
@@ -1253,6 +1389,7 @@ export const questions = {
   ],
   "1. Introduction and prevention (Part 2)": [
     {
+      id: 70137,
       question: "What is the definition of a medical emergency in dental practice?",
       options: [
         "Any patient complaint during treatment",
@@ -1263,6 +1400,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70138,
       question: "Who can experience life-threatening emergencies in a dental office?",
       options: [
         "Only elderly patients over 70",
@@ -1273,6 +1411,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70139,
       question: "How frequently do life-threatening emergencies occur in dental offices?",
       options: [
         "Multiple times daily in every practice",
@@ -1283,6 +1422,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70140,
       question: "Which factor does NOT contribute to medical emergencies in dental practice?",
       options: [
         "Increased number of older clients",
@@ -1293,6 +1433,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70141,
       question: "What happens as life expectancy increases in relation to dental care?",
       options: [
         "Fewer people seek dental treatment",
@@ -1303,6 +1444,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70142,
       question: "Why are older clients at greater risk for emergency situations?",
       options: [
         "They have better immune systems",
@@ -1313,6 +1455,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70143,
       question: "What is the leading cause of death in persons over age 65?",
       options: [
         "Respiratory disease",
@@ -1323,6 +1466,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
+      id: 70144,
       question: "How have therapeutic advances affected patient longevity?",
       options: [
         "They have decreased life expectancy",
@@ -1333,6 +1477,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70145,
       question: "How long ago would clients with diabetes and cardiovascular disease have lived significantly shorter lives?",
       options: [
         "5-10 years ago",
@@ -1343,6 +1488,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70146,
       question: "What surgical procedure is mentioned as commonly allowing people to pursue active lives?",
       options: [
         "Hip replacement surgery",
@@ -1353,6 +1499,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70147,
       question: "What cancer treatments allow clients to live longer?",
       options: [
         "Only surgical removal",
@@ -1363,6 +1510,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70148,
       question: "What has happened with organ transplant procedures?",
       options: [
         "They are no longer performed",
@@ -1373,6 +1521,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70149,
       question: "Which chronic disorders are mentioned as having more effective drug therapies?",
       options: [
         "Only mental health conditions",
@@ -1383,6 +1532,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70150,
       question: "Which clients are more susceptible to medical emergencies?",
       options: [
         "Young healthy adults only",
@@ -1393,6 +1543,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70151,
       question: "Why do advanced dental procedures contribute to emergency risk?",
       options: [
         "They use outdated equipment",
@@ -1403,6 +1554,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70152,
       question: "Which procedures are becoming more common and take longer appointments?",
       options: [
         "Simple cleanings and fluoride treatments",
@@ -1413,6 +1565,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70153,
       question: "How does appointment length affect emergency risk?",
       options: [
         "Shorter appointments increase risk",
@@ -1423,6 +1576,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70154,
       question: "Is the increased stress from longer appointments only a concern for compromised clients?",
       options: [
         "Yes, only compromised clients are affected",
@@ -1433,6 +1587,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70155,
       question: "What is the first main reason drugs are used in dental practice?",
       options: [
         "Cosmetic enhancement",
@@ -1443,6 +1598,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70156,
       question: "What is included in the main reasons for drug use in dentistry?",
       options: [
         "Only pain management",
@@ -1453,6 +1609,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70157,
       question: "What is true about all drugs used in dental practice?",
       options: [
         "They are completely risk-free",
@@ -1463,6 +1620,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70158,
       question: "What must clinicians know to decrease drug-related emergencies?",
       options: [
         "Only drug names and dosages",
@@ -1473,6 +1631,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70159,
       question: "Which side effect is associated with many high blood pressure medications?",
       options: [
         "Increased appetite",
@@ -1483,6 +1642,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
+      id: 70160,
       question: "What happens when local anesthetic is mixed with alcohol?",
       options: [
         "Enhanced effectiveness",
@@ -1493,6 +1653,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70161,
       question: "What happens when barbiturates are mixed with alcohol?",
       options: [
         "Improved sleep quality",
@@ -1503,6 +1664,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70162,
       question: "What is the result of mixing standard opioids with alcohol?",
       options: [
         "Better pain control",
@@ -1513,6 +1675,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70163,
       question: "What symptoms occur when metronidazole is mixed with alcohol?",
       options: [
         "Improved antibiotic effectiveness",
@@ -1523,6 +1686,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
+      id: 70164,
       question: "How are medical emergencies classified by signs and symptoms?",
       options: [
         "By patient age only",
@@ -1533,6 +1697,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70165,
       question: "Can some emergency situations fit into multiple classification categories?",
       options: [
         "No, each fits only one category",
@@ -1543,6 +1708,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70166,
       question: "What are myocardial infarction and cerebrovascular accident possible causes of?",
       options: [
         "Hyperventilation",
@@ -1553,6 +1719,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70167,
       question: "How are medical emergencies classified by cause?",
       options: [
         "By time of day only",
@@ -1563,6 +1730,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70168,
       question: "What does the cardiovascular classification consider?",
       options: [
         "Patient's emotional state",
@@ -1573,6 +1741,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70169,
       question: "What does stress-related classification assess?",
       options: [
         "Patient's work situation",
@@ -1583,6 +1752,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70170,
       question: "Which is NOT listed as a potential dental emergency?",
       options: [
         "Syncope",
@@ -1593,6 +1763,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70171,
       question: "Which cardiovascular emergency is listed as a potential dental emergency?",
       options: [
         "Varicose veins",
@@ -1603,6 +1774,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70172,
       question: "Which respiratory emergency is listed as potential in dental settings?",
       options: [
         "Chronic bronchitis",
@@ -1613,6 +1785,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70173,
       question: "Which neurological emergency is mentioned as potential in dental settings?",
       options: [
         "Migraine headache",
@@ -1623,6 +1796,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70174,
       question: "Which metabolic emergencies are listed as potential dental emergencies?",
       options: [
         "Thyroid storm only",
@@ -1633,6 +1807,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70175,
       question: "Which traumatic emergency involves the eye?",
       options: [
         "Conjunctivitis",
@@ -1643,6 +1818,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70176,
       question: "Which dental trauma is listed as a potential emergency?",
       options: [
         "Tooth sensitivity",
@@ -1653,6 +1829,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70177,
       question: "Which structural emergency is mentioned as potential in dental practice?",
       options: [
         "Broken fingernail",
@@ -1663,6 +1840,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70178,
       question: "What ranking does syncope have in the top ten emergencies?",
       options: [
         "10th most common",
@@ -1673,6 +1851,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70179,
       question: "What ranking does postural hypotension have in the top ten emergencies?",
       options: [
         "1st most common",
@@ -1683,6 +1862,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70180,
       question: "What ranking does angina pectoris have in the top ten emergencies?",
       options: [
         "10th most common",
@@ -1693,6 +1873,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70181,
       question: "What ranking does mild allergic reaction have in the top ten emergencies?",
       options: [
         "2nd most common",
@@ -1703,6 +1884,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70182,
       question: "What ranking does seizures have in the top ten emergencies?",
       options: [
         "3rd most common",
@@ -1713,6 +1895,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70183,
       question: "What is the purpose of pre-treatment evaluation?",
       options: [
         "To bill insurance correctly",
@@ -1723,6 +1906,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70184,
       question: "What components are included in pre-treatment evaluation?",
       options: [
         "Only blood pressure measurement",
@@ -1733,6 +1917,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70185,
       question: "What should be done during treatment to minimize emergencies?",
       options: [
         "Rush through procedures quickly",
@@ -1743,6 +1928,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70186,
       question: "What should be evaluated before patient dismissal?",
       options: [
         "Only payment completion",
@@ -1753,6 +1939,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70187,
       question: "What does ASA stand for?",
       options: [
         "American Surgery Association",
@@ -1763,6 +1950,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70188,
       question: "What is the purpose of the ASA Physical Status Classification System?",
       options: [
         "To determine insurance coverage",
@@ -1773,6 +1961,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70189,
       question: "Does the ASA system apply only to general anesthesia?",
       options: [
         "Yes, only general anesthesia",
@@ -1783,6 +1972,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70190,
       question: "What does ASA 1 classification indicate?",
       options: [
         "Patient with severe disease",
@@ -1793,6 +1983,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70191,
       question: "What does \"green light\" mean in ASA classification?",
       options: [
         "Emergency treatment only",
@@ -1803,6 +1994,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70192,
       question: "What does ASA II classification indicate?",
       options: [
         "Normal healthy patient",
@@ -1813,6 +2005,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70193,
       question: "Can an ASA I patient be classified as ASA II?",
       options: [
         "Never possible",
@@ -1823,6 +2016,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70194,
       question: "What does \"yellow light\" mean in ASA classification?",
       options: [
         "No treatment permitted",
@@ -1833,6 +2027,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70195,
       question: "What does ASA III classification indicate?",
       options: [
         "Normal healthy patient",
@@ -1843,6 +2038,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70196,
       question: "How is dental anxiety considered in ASA classification?",
       options: [
         "Never considered",
@@ -1853,6 +2049,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70197,
       question: "When do ASA III patients exhibit symptoms?",
       options: [
         "At all times including rest",
@@ -1863,6 +2060,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70198,
       question: "What example illustrates ASA III symptom presentation?",
       options: [
         "Patient always has chest pain",
@@ -1873,6 +2071,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70199,
       question: "Is elective dental care contraindicated for ASA III patients?",
       options: [
         "Yes, absolutely contraindicated",
@@ -1883,6 +2082,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70200,
       question: "When is distress present in ASA IV patients?",
       options: [
         "Only during procedures",
@@ -1893,6 +2093,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
+      id: 70201,
       question: "What does \"red light\" classification mean for ASA IV patients?",
       options: [
         "Treatment proceeds normally",
@@ -1903,6 +2104,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70202,
       question: "What type of dental treatment should ASA IV patients receive?",
       options: [
         "All elective procedures",
@@ -1913,6 +2115,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70203,
       question: "Where should immediate dental care for ASA IV patients be performed if needed?",
       options: [
         "Regular dental office",
@@ -1923,6 +2126,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70204,
       question: "Why is hospital setting preferred for ASA IV emergency treatment?",
       options: [
         "Better billing options",
@@ -1933,6 +2137,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
+      id: 70205,
       question: "What is more significant to ASA IV patients' health than dental treatment?",
       options: [
         "Their insurance coverage",
@@ -1943,6 +2148,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70206,
       question: "Medical emergencies require help from a doctor or hospital.",
       options: [
         "True",
@@ -1951,6 +2157,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70207,
       question: "Life-threatening emergencies can only happen to patients in dental offices.",
       options: [
         "True",
@@ -1959,6 +2166,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70208,
       question: "Life-threatening emergencies occur frequently in dental offices.",
       options: [
         "True",
@@ -1967,6 +2175,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70209,
       question: "Increased number of older clients contributes to medical emergencies in dental practice.",
       options: [
         "True",
@@ -1975,6 +2184,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70210,
       question: "Medical advancements are a factor that increases emergency likelihood.",
       options: [
         "True",
@@ -1983,6 +2193,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70211,
       question: "Longer appointments contribute to increased emergency risk.",
       options: [
         "True",
@@ -1991,6 +2202,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70212,
       question: "As life expectancy increases, fewer older clients seek dental care.",
       options: [
         "True",
@@ -1999,6 +2211,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70213,
       question: "Cardiovascular disease is the leading cause of death in persons over 65.",
       options: [
         "True",
@@ -2007,6 +2220,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70214,
       question: "Clients with chronic conditions are living shorter lives than 25-35 years ago.",
       options: [
         "True",
@@ -2015,6 +2229,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70215,
       question: "Coronary bypass operations allow people to pursue active lives after surgery.",
       options: [
         "True",
@@ -2023,6 +2238,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70216,
       question: "Radiation and chemotherapy allow cancer clients to live longer.",
       options: [
         "True",
@@ -2031,6 +2247,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70217,
       question: "Organ transplants have lower success rates today than in the past.",
       options: [
         "True",
@@ -2039,6 +2256,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70218,
       question: "More effective drug therapies are available for managing chronic disorders today.",
       options: [
         "True",
@@ -2047,6 +2265,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70219,
       question: "Clients with managed chronic disorders are more susceptible to medical emergencies.",
       options: [
         "True",
@@ -2055,6 +2274,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70220,
       question: "Advanced dental procedures like implants generally require longer appointments.",
       options: [
         "True",
@@ -2063,6 +2283,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70221,
       question: "Longer appointment times increase stress only for compromised clients.",
       options: [
         "True",
@@ -2071,6 +2292,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70222,
       question: "Drugs in dental practice are used for pain prevention and management.",
       options: [
         "True",
@@ -2079,6 +2301,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70223,
       question: "All drugs are risk-free when used properly.",
       options: [
         "True",
@@ -2087,6 +2310,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70224,
       question: "All drugs have multiple effects.",
       options: [
         "True",
@@ -2095,6 +2319,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70225,
       question: "Orthostatic hypotension is associated with many high blood pressure medications.",
       options: [
         "True",
@@ -2103,6 +2328,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70226,
       question: "Local anesthetic and alcohol mix well together.",
       options: [
         "True",
@@ -2111,6 +2337,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70227,
       question: "Standard opioids mixed with alcohol increase CNS depressant effects.",
       options: [
         "True",
@@ -2119,6 +2346,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70228,
       question: "Metronidazole mixed with alcohol causes no side effects.",
       options: [
         "True",
@@ -2127,6 +2355,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70229,
       question: "Medical emergencies can be classified by signs and symptoms.",
       options: [
         "True",
@@ -2135,6 +2364,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70230,
       question: "Some emergency situations can fit into multiple classification categories.",
       options: [
         "True",
@@ -2143,6 +2373,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70231,
       question: "Myocardial infarction can cause unconsciousness.",
       options: [
         "True",
@@ -2151,6 +2382,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70232,
       question: "Medical emergencies can be classified as cardiovascular vs non-cardiovascular.",
       options: [
         "True",
@@ -2159,6 +2391,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70233,
       question: "Stress-related classification considers if the emergency was treatment-induced.",
       options: [
         "True",
@@ -2167,6 +2400,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70234,
       question: "Syncope is listed as a potential dental emergency.",
       options: [
         "True",
@@ -2175,6 +2409,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70235,
       question: "Fluoride poisoning is a potential dental emergency.",
       options: [
         "True",
@@ -2183,6 +2418,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70236,
       question: "Syncope is the most common emergency in private dental practice.",
       options: [
         "True",
@@ -2191,6 +2427,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70237,
       question: "Cardiac arrest is the most common emergency in private practice.",
       options: [
         "True",
@@ -2199,6 +2436,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70238,
       question: "Medical history questionnaires are part of pre-treatment evaluation.",
       options: [
         "True",
@@ -2207,6 +2445,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70239,
       question: "Dialogue histories help minimize emergencies before they occur.",
       options: [
         "True",
@@ -2215,6 +2454,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70240,
       question: "Stress reduction techniques should be used during treatment.",
       options: [
         "True",
@@ -2223,6 +2463,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70241,
       question: "Stable conditions should be assessed before patient dismissal.",
       options: [
         "True",
@@ -2231,6 +2472,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70242,
       question: "ASA stands for American Society of Anesthesiologists.",
       options: [
         "True",
@@ -2239,6 +2481,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70243,
       question: "The ASA system helps estimate medical risk for patients receiving anesthesia.",
       options: [
         "True",
@@ -2247,6 +2490,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70244,
       question: "The ASA system applies only to general anesthesia.",
       options: [
         "True",
@@ -2255,6 +2499,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70245,
       question: "ASA 1 indicates a normal, healthy client free of systemic disease.",
       options: [
         "True",
@@ -2263,6 +2508,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70246,
       question: "ASA II can include an ASA I patient with extreme dental anxiety.",
       options: [
         "True",
@@ -2271,6 +2517,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70247,
       question: "ASA III patients exhibit symptoms even at rest.",
       options: [
         "True",
@@ -2279,6 +2526,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70248,
       question: "ASA IV patients have distress present even at rest.",
       options: [
         "True",
@@ -2287,6 +2535,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70249,
       question: "\"Green light\" for ASA I means treatment can proceed without modification.",
       options: [
         "True",
@@ -2295,6 +2544,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70250,
       question: "\"Yellow light\" means treatment is permitted with possible modifications.",
       options: [
         "True",
@@ -2303,6 +2553,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70251,
       question: "\"Red light\" for ASA IV means significant treatment restrictions apply.",
       options: [
         "True",
@@ -2311,6 +2562,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70252,
       question: "ASA IV patients should receive all elective dental procedures.",
       options: [
         "True",
@@ -2319,6 +2571,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
+      id: 70253,
       question: "ASA IV emergency care should be done in a hospital setting if immediate care is needed.",
       options: [
         "True",
@@ -2327,6 +2580,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70254,
       question: "ASA E indicates an emergency operation.",
       options: [
         "True",
@@ -2335,6 +2589,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
+      id: 70255,
       question: "ASA 6 refers to brain-dead patients whose organs are being removed for donation.",
       options: [
         "True",
