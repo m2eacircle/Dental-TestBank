@@ -888,11 +888,19 @@ export default function ImprovedTestBankApp() {
 
   // Convert correct answer to index (handles both letter "A" and number 0 formats)
   const getCorrectAnswerIndex = (question) => {
-    if (typeof question.correct === 'number') {
-      return question.correct;
+    // Check for both 'correct' and 'correctAnswer' properties to support different question file formats
+    const correctValue = question.correct !== undefined ? question.correct : question.correctAnswer;
+    
+    if (correctValue === undefined) {
+      console.error('Question missing correct answer property:', question);
+      return 0; // Default to first option to prevent crashes
+    }
+    
+    if (typeof correctValue === 'number') {
+      return correctValue;
     }
     // Convert letter to index: A=0, B=1, C=2, D=3
-    return question.correct.charCodeAt(0) - 65;
+    return correctValue.charCodeAt(0) - 65;
   };
 
   const getFlaggedQuestionsForTopic = (topicKey) => {
