@@ -2751,7 +2751,7 @@ export const questions = {
     { id: 3565, question: "Critical instruments penetrate soft tissue and bone and require high level sterilization.", options: ["True", "False"], correct: 0 },
     { id: 3566, question: "Beam alignment devices are semicritical instruments.", options: ["True", "False"], correct: 0 },
     { id: 3567, question: "The PID, tubehead, and control panel are noncritical instruments requiring intermediate or low level disinfection.", options: ["True", "False"], correct: 0 },
-    { id: 3568, question: "Used developer is typically considered hazardous waste.", options: ["True", "False"], correct: 1 },
+    { id: 3568, question: "Used developer is typically considered hazardous waste.", options: ["True", "False"], correct: 0 },
     { id: 3569, question: "Developer should never be discharged into septic sewer systems.", options: ["True", "False"], correct: 0 },
     { id: 3570, question: "Fixer must be run through a silver recovery unit before being discharged into sanitary sewers.", options: ["True", "False"], correct: 0 },
     { id: 3571, question: "Developed radiographic receptors may be disposed of in normal trash.", options: ["True", "False"], correct: 0 },
