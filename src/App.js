@@ -929,7 +929,7 @@ export default function ImprovedTestBankApp() {
             {/* m2ea Circle Link - Top Level */}
             <div className="flex justify-end mb-4">
               <a
-                href="https://www.m2eacircle.com/education/index_en.html"
+                href="https://www.m2eacircle.com/education/index.html"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-3 py-2 rounded-lg hover:bg-gray-100 transition-colors text-gray-700 text-sm font-medium"
