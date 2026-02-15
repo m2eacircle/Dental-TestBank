@@ -3,8 +3,10 @@
 // Topics:
 //   1. Introduction and prevention (Part 1) (241 questions)
 //   2. Introduction and prevention (Part 2) (209 questions)
+//   3. Introduction and prevention (Part 3) (75 questions)
+//   4. Introduction and prevention (Part 4) (75 questions)
 // 
-// TOTAL: 450 questions
+// TOTAL: 600 questions
 
 export const questions = {
   "1. Introduction and prevention (Part 1)": [
@@ -2599,9 +2601,1557 @@ export const questions = {
     }
   ],
   "1. Introduction and prevention (Part 3)": [
-    // add questions here
+    {
+      id: 70256,
+      question: "Which platform will students use to access assignments for this course?",
+      options: [
+        "Medical emergency portal with assignment section",
+        "Canvas Learning Management System",
+        "Google Classroom interface",
+        "Blackboard course website"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70257,
+      question: "How are students expected to form their groups for the case scenario assignments?",
+      options: [
+        "The instructor will randomly assign groups based on student numbers",
+        "Groups will be formed alphabetically by last name",
+        "Students can pick their own groups by clicking on People then Group",
+        "The administration office will create balanced groups"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70258,
+      question: "How many case scenarios are available for student groups to choose from?",
+      options: [
+        "5 case scenarios",
+        "12 case scenarios",
+        "8 case scenarios",
+        "10 case scenarios"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70259,
+      question: "What is the recommended number of students per group for the assignment?",
+      options: [
+        "2 students per group",
+        "6-7 students per group",
+        "8-10 students per group",
+        "3-4 students per group"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70260,
+      question: "How many groups will have only 4 students instead of 5?",
+      options: [
+        "2 groups will have 4 students",
+        "All groups will have exactly 5 students",
+        "4 groups will have 4 students",
+        "3 groups will have 4 students"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70261,
+      question: "What percentage of the grade is allocated to the brochure component?",
+      options: [
+        "10% for the brochure",
+        "15% for the brochure",
+        "20% for the brochure",
+        "25% for the brochure"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70262,
+      question: "What percentage of the grade is allocated to the presentation component?",
+      options: [
+        "15% for the presentation",
+        "25% for the presentation",
+        "30% for the presentation",
+        "20% for the presentation"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70263,
+      question: "Who is the intended audience for the brochures that students create?",
+      options: [
+        "Other dental hygiene students for peer review",
+        "Professors for academic evaluation purposes",
+        "Clients who are not well-educated about their medical conditions",
+        "Hospital administrators for policy development"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70264,
+      question: "What is one example of a medical condition mentioned for a case scenario?",
+      options: [
+        "Angina pectoris",
+        "Diabetes mellitus",
+        "Multiple sclerosis",
+        "Rheumatoid arthritis"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70265,
+      question: "What can students do with the brochures they create after graduation?",
+      options: [
+        "They must submit them to a regulatory board",
+        "They are property of the school only",
+        "They must destroy them for confidentiality reasons",
+        "They can use them in their own practice or share with colleagues"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70266,
+      question: "What type of language should be used in the brochures?",
+      options: [
+        "Highly technical medical terminology to demonstrate expertise",
+        "Only Latin-based anatomical terms",
+        "Layman's terms that are understandable to clients",
+        "Complex scientific language to maintain professionalism"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70267,
+      question: "How is diabetes mentioned in relation to dental hygiene practice?",
+      options: [
+        "It is completely unrelated to oral health",
+        "It only affects endodontic treatment",
+        "It is contraindicated for dental prophylaxis",
+        "It is linked to periodontal conditions"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70268,
+      question: "In which semester will students perform OHE (Oral Health Education)?",
+      options: [
+        "Semester 2",
+        "Semester 5",
+        "Semester 3",
+        "Semester 4"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70269,
+      question: "What criteria in semester 4 relates to the brochure assignment?",
+      options: [
+        "OHE (Oral Health Education) criteria",
+        "Clinical competency examination",
+        "Patient case presentation requirements",
+        "Radiographic interpretation standards"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70270,
+      question: "How long is the duration of this course?",
+      options: [
+        "Two weeks",
+        "Six weeks",
+        "Eight weeks",
+        "Four weeks"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70271,
+      question: "What is the instructor's advice about having only two people in a group?",
+      options: [
+        "It is the ideal group size",
+        "It is required for better grades",
+        "It is only allowed with special permission",
+        "It is not suggested because it is a lot of work"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70272,
+      question: "When must students finish the assignment?",
+      options: [
+        "By the end of March",
+        "By the end of April",
+        "By the end of January",
+        "By the end of February"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70273,
+      question: "When is the board exam mentioned to be scheduled?",
+      options: [
+        "In March",
+        "In June",
+        "In April",
+        "In May"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70274,
+      question: "How long is the dental hygiene program mentioned to be?",
+      options: [
+        "18 months",
+        "12 months",
+        "24 months",
+        "36 months"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70275,
+      question: "Where can students find the rubric and case scenarios?",
+      options: [
+        "In the textbook appendix",
+        "On the assignment portal in separate files",
+        "Emailed individually to each student",
+        "Posted on the classroom bulletin board"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70276,
+      question: "What should students do if they have questions about which condition to focus on in their brochure?",
+      options: [
+        "Choose randomly from the conditions listed",
+        "Cover all conditions equally",
+        "Email the instructor for clarification",
+        "Skip the assignment"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70277,
+      question: "In the first case scenario, which condition should be the primary focus?",
+      options: [
+        "Hypertension",
+        "Diabetes",
+        "Asthma",
+        "Angina"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70278,
+      question: "What type of content should be included in the brochure for a condition like angina?",
+      options: [
+        "Definition, signs, symptoms, and first aid/EMS process",
+        "Only the medication names",
+        "Just the pathophysiology",
+        "Only preventive measures"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70279,
+      question: "What should students do when presenting their case scenario?",
+      options: [
+        "Only read the brochure content",
+        "Focus solely on pharmacology",
+        "Demonstrate clinical procedures only",
+        "Present the case and provide treatment steps"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70280,
+      question: "If a case scenario has multiple conditions, which should be addressed?",
+      options: [
+        "All conditions in equal detail",
+        "The one that is affecting the case more (primary condition)",
+        "Only the secondary conditions",
+        "Neither condition, focus on treatment only"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70281,
+      question: "What format options do students have for their presentation?",
+      options: [
+        "Only PowerPoint presentations are allowed",
+        "Only video presentations are allowed",
+        "Students can choose between formats like PowerPoint or Prezi",
+        "Only poster presentations are allowed"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70282,
+      question: "What is emphasized about the students' professional status after graduation?",
+      options: [
+        "They are self-regulated and self-initiated",
+        "They will work under direct supervision always",
+        "They must work in hospital settings only",
+        "They cannot practice independently"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70283,
+      question: "What relationship does the brochure assignment have to future practice?",
+      options: [
+        "It is only for academic purposes",
+        "It must be submitted to licensing boards",
+        "It can be used in private practice for client education",
+        "It expires after graduation"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70284,
+      question: "How are case scenarios assigned to groups?",
+      options: [
+        "Random assignment by the instructor",
+        "Assigned based on academic performance",
+        "Assigned alphabetically by group leader",
+        "First come, first served - whoever signs up first"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70285,
+      question: "What is the maximum number of students allowed per group?",
+      options: [
+        "3 students",
+        "4 students",
+        "6 students",
+        "5 students"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70286,
+      question: "For the asthma case scenario, what should the brochure cover?",
+      options: [
+        "Only emergency treatment protocols",
+        "Only pharmaceutical interventions",
+        "Surgical treatment options",
+        "General information about asthma, signs, symptoms, medication, and episode management"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70287,
+      question: "For the asthma case scenario, what should the presentation focus on?",
+      options: [
+        "Asthma in general, not case-specific",
+        "The specific case scenario details",
+        "Only theoretical concepts",
+        "Historical aspects of asthma"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70288,
+      question: "What is the relationship between the brochure and presentation content?",
+      options: [
+        "They should contain identical information",
+        "They cover completely different topics",
+        "They are interchangeable documents",
+        "Brochure is about the general condition; presentation is about the case"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70289,
+      question: "How many references are required for the assignment?",
+      options: [
+        "2 references",
+        "3 references",
+        "5 references",
+        "4 references"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70290,
+      question: "Which of the following is mentioned as a required reference source?",
+      options: [
+        "Wikipedia",
+        "General internet sources",
+        "CDHO (College of Dental Hygienists of Ontario)",
+        "Social media platforms"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70291,
+      question: "Which resource is mentioned as a reference for the assignment?",
+      options: [
+        "Medical journals only",
+        "Nursing manuals",
+        "Derby textbook",
+        "Pharmacy databases"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70292,
+      question: "What type of additional reference is required beyond the primary sources?",
+      options: [
+        "A peer-reviewed article",
+        "A government publication",
+        "A newspaper article",
+        "A patient testimonial"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70293,
+      question: "Why does the instructor emphasize using CDHO and Derby as references?",
+      options: [
+        "They are free resources",
+        "They are the only acceptable sources",
+        "To reduce research time only",
+        "To ensure students stay within their scope of practice"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70294,
+      question: "What should students do if they need additional references beyond the required ones?",
+      options: [
+        "They cannot use any other sources",
+        "They must get written permission first",
+        "Additional references are not allowed",
+        "They can use peer-reviewed or recent sources"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70295,
+      question: "When does the course officially open?",
+      options: [
+        "The week before classes start",
+        "On the first day of teaching",
+        "One month before the semester",
+        "During orientation week"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70296,
+      question: "What is the instructor's response about students emailing their chosen topics?",
+      options: [
+        "All students must email their topic choice",
+        "Email only if there are questions",
+        "No emailing needed; selection is done through the portal",
+        "Email required for approval"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70297,
+      question: "What happens if multiple groups select the same case scenario?",
+      options: [
+        "The instructor assigns different scenarios",
+        "Groups must share the scenario",
+        "All groups are allowed to do the same one",
+        "First come, first served applies"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70298,
+      question: "How does the instructor describe the workload for this course?",
+      options: [
+        "Light workload with minimal requirements",
+        "Moderate with flexible deadlines",
+        "Spread evenly over the semester",
+        "Intensive within a short time frame"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70299,
+      question: "What does the instructor mention about semester 3 and 4?",
+      options: [
+        "They will be easier than previous semesters",
+        "They are optional semesters",
+        "Life is going to change in semesters 3 and 4",
+        "They focus only on theory"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70300,
+      question: "What is the instructor's stance on attendance tracking?",
+      options: [
+        "Attendance is not required",
+        "Students track their own attendance",
+        "The instructor will update attendance records",
+        "Attendance is automatically recorded"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70301,
+      question: "What privilege does the instructor mention about this class?",
+      options: [
+        "Extended deadlines",
+        "Flexible grading standards",
+        "Optional assignments",
+        "Paper way is provided for this class"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70302,
+      question: "What does the instructor suggest about missing information during class?",
+      options: [
+        "Students should not ask questions",
+        "Students are penalized for not paying attention",
+        "It's understandable with many questions being asked",
+        "All information is repeated multiple times"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70303,
+      question: "What document will the instructor post to clarify brochure content?",
+      options: [
+        "A sample brochure from previous students",
+        "A grading rubric only",
+        "A list of prohibited topics",
+        "Guidelines about what exactly goes in the brochure"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70304,
+      question: "What is the instructor's policy regarding the course timeline?",
+      options: [
+        "It is flexible and negotiable",
+        "Students can vote on changes",
+        "It follows school policy and is not up for discussion",
+        "Extensions are granted upon request"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70305,
+      question: "What option does the instructor give to students uncomfortable with the assignment?",
+      options: [
+        "They can modify the requirements",
+        "They can submit late without penalty",
+        "They can do an alternative assignment",
+        "They have the option of not doing it, but it won't be graded"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70306,
+      question: "Students are required to email the instructor to confirm their group selection and case scenario choice.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70307,
+      question: "The brochures created by students are meant primarily for the students' own learning rather than client education.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70308,
+      question: "Students will have access to 10 different case scenarios to choose from for their group assignment.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70309,
+      question: "The instructor recommends that only two people work together in a group for this assignment.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70310,
+      question: "The presentation component is worth 20% of the overall grade for this assignment.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70311,
+      question: "The course duration is four weeks long.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70312,
+      question: "Students must complete the assignment by the end of February.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70313,
+      question: "Diabetes is mentioned as being linked to periodontal conditions.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70314,
+      question: "The brochures should be written using complex technical medical terminology.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70315,
+      question: "After graduation, students can use the brochures they created in their own practice.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70316,
+      question: "The dental hygiene program mentioned is 18 months in duration.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70317,
+      question: "Students are considered self-regulated and self-initiated after graduation.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70318,
+      question: "Case scenarios are assigned on a first come, first served basis.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70319,
+      question: "The maximum number of students allowed in a group is 5.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70320,
+      question: "The instructor will be monitoring and assigning case scenarios to groups.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70321,
+      question: "For a case with multiple conditions, students should cover all conditions equally in their brochure.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70322,
+      question: "The brochure should include information about signs, symptoms, and emergency management procedures.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70323,
+      question: "Students are required to use exactly four references for their assignment.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70324,
+      question: "CDHO is mentioned as one of the required reference sources.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70325,
+      question: "Students can use additional peer-reviewed sources beyond the required references if they choose.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70326,
+      question: "The course timeline and deadlines are negotiable based on student feedback.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70327,
+      question: "The OHE criteria mentioned relates to semester 4.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70328,
+      question: "The board exam is scheduled for May.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70329,
+      question: "For the asthma case, the brochure should focus on the specific case scenario details.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70330,
+      question: "The presentation should focus on the specific case scenario.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    }
   ],
   "1. Introduction and prevention (Part 4)": [
-    // add questions here
+    {
+      id: 70331,
+      question: "When submitting the brochure assignment, what should students include in the email context?",
+      options: [
+        "References so the instructor can verify where information comes from",
+        "A summary of the presentation content",
+        "The PowerPoint slides",
+        "Student identification numbers"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70332,
+      question: "What is omega-3 primarily taken for according to the lecture?",
+      options: [
+        "Bone health and calcium absorption",
+        "Mental health and cognitive function",
+        "Immune system support",
+        "Cardiovascular conditions"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70333,
+      question: "What dental consideration is required when a patient is taking omega-3?",
+      options: [
+        "Check for drug interactions with local anesthetics",
+        "Monitor the vital signs (blood pressure)",
+        "Assess for allergic reactions",
+        "Evaluate kidney function"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70334,
+      question: "What medication class does Eliquis belong to?",
+      options: [
+        "Antibiotic used for bacterial infections",
+        "Antihypertensive for blood pressure control",
+        "Blood thinner (anticoagulant)",
+        "Anti-inflammatory for pain management"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70335,
+      question: "For patients taking Eliquis or other blood thinners (excluding baby aspirin), what should be checked?",
+      options: [
+        "INR levels and ensure no other bleeding disorders",
+        "Blood glucose levels",
+        "Liver enzyme levels",
+        "White blood cell count"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70336,
+      question: "What is the dosage threshold mentioned for baby aspirin that doesn't require special precautions?",
+      options: [
+        "50 milligrams",
+        "81 milligrams",
+        "100 milligrams",
+        "325 milligrams"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70337,
+      question: "What should you do if you forgot to ask about INR levels and the patient bleeds profusely?",
+      options: [
+        "Apply ice packs immediately",
+        "Use hemostatic agents like Hematin with cotton plier",
+        "Call emergency services right away",
+        "Elevate the patient's legs"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70338,
+      question: "Why is it important to know INR levels for patients on warfarin or Eliquis?",
+      options: [
+        "These medications affect liver metabolism",
+        "These medications cause kidney complications",
+        "These medications make blood very thin, easy to bleed",
+        "These medications interact with local anesthetics"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70339,
+      question: "What question in the medical health history addresses bleeding tendencies?",
+      options: [
+        "Have you had recent surgery or hospitalization?",
+        "Do you take any prescription medications?",
+        "Do you bruise easily or experience prolonged bleeding after dental treatments?",
+        "Have you ever had complications from anesthesia?"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70340,
+      question: "What conditions might bleeding disorders indicate caution for?",
+      options: [
+        "Root canal therapy and crown preparation",
+        "Probing, scaling, or invasive procedures",
+        "Fluoride application and sealant placement",
+        "Radiographic imaging and photography"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70341,
+      question: "When is a medical clearance needed for anemia?",
+      options: [
+        "If it's poorly controlled or patient stopped taking medication",
+        "Only if the patient requests it",
+        "For all cases of anemia regardless of control",
+        "Never, as anemia is not a dental concern"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70342,
+      question: "What should you do if a patient's blood pressure reads 135/85 and they have no history of hypertension?",
+      options: [
+        "Proceed with treatment immediately",
+        "Send them to emergency room",
+        "Take the reading again after 5 minutes",
+        "Cancel the appointment"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70343,
+      question: "After retaking blood pressure and confirming elevated readings, what is the next step?",
+      options: [
+        "Give the patient the original form",
+        "Call their family doctor immediately",
+        "Give the patient a copy of the reading",
+        "Document only without patient notification"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70344,
+      question: "What is white coat syndrome?",
+      options: [
+        "Allergy to dental materials",
+        "Elevated blood pressure in clinical settings due to anxiety",
+        "Sensitivity to bright lights",
+        "Fear of needles and injections"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70345,
+      question: "What should you do for a patient with confirmed white coat syndrome?",
+      options: [
+        "Refuse treatment until blood pressure normalizes",
+        "Send medical consultation and ask for letter from family doctor",
+        "Ignore the elevated readings",
+        "Only take blood pressure at end of appointment"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70346,
+      question: "What three questions should be asked of diabetic patients?",
+      options: [
+        "When was last meal, medication, and blood sugar level",
+        "Type of diabetes, family history, and diet",
+        "Insurance coverage, medication costs, and pharmacy",
+        "Exercise routine, weight changes, and stress levels"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70347,
+      question: "If seeing a diabetic patient for the first time, what additional information should you obtain?",
+      options: [
+        "Complete dietary log for the past week",
+        "List of all family members with diabetes",
+        "When was last blood work and what was A1C level",
+        "Exercise habits and sleep patterns"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70348,
+      question: "What should be available chairside for a diabetic patient?",
+      options: [
+        "Insulin and syringes for emergencies",
+        "Glucose tablets or juice for hypoglycemia",
+        "Blood glucose monitor only",
+        "Special dietary supplements"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70349,
+      question: "What condition would require giving a patient juice?",
+      options: [
+        "Hyperglycemia (high blood sugar)",
+        "Hypertension (high blood pressure)",
+        "Hypoglycemia (low blood sugar)",
+        "Hypotension (low blood pressure)"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70350,
+      question: "What types of allergies should be specifically asked about in the medical history?",
+      options: [
+        "Food allergies only",
+        "Environmental allergens like pollen",
+        "Latex, antibiotics, anesthetics, or dental materials",
+        "Pet dander and dust mites"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70351,
+      question: "What should you do if a patient has a delayed allergic reaction after leaving the clinic?",
+      options: [
+        "Tell them to take their allergy medication and go to walk-in clinic",
+        "Ignore it as it's no longer your responsibility",
+        "Schedule an immediate follow-up appointment",
+        "Prescribe antihistamines over the phone"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70352,
+      question: "What respiratory condition question should be asked in the medical history?",
+      options: [
+        "Do you smoke or use tobacco products?",
+        "Have you had pneumonia or bronchitis recently?",
+        "Do you have asthma or breathing difficulties?",
+        "Do you live in an area with poor air quality?"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70353,
+      question: "If an asthma patient didn't bring their inhaler, what follow-up questions should be asked?",
+      options: [
+        "What is your peak flow reading today?",
+        "When was last asthmatic episode and what triggered it?",
+        "How many times per day do you use your inhaler?",
+        "What type of asthma do you have?"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70354,
+      question: "Where should emergency inhalers be available?",
+      options: [
+        "Only in hospitals",
+        "In every private practice and clinic including Oxford",
+        "Only in dental specialty offices",
+        "Not required in dental settings"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70355,
+      question: "How often does CPR certification expire?",
+      options: [
+        "Every year",
+        "Every 3 years",
+        "Every 2 years",
+        "Every 5 years"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70356,
+      question: "According to CDHO guidelines, how often must CPR refresher courses be taken?",
+      options: [
+        "Every 2 years when certification expires",
+        "Every year regardless of certification expiry",
+        "Every 6 months",
+        "Only when certification expires"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70357,
+      question: "What happens if you fail to maintain annual CPR refresher courses as required by CDHO?",
+      options: [
+        "Nothing, it's just a recommendation",
+        "You receive a warning letter",
+        "You're putting yourself under disciplinary committee",
+        "You lose your license immediately"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70358,
+      question: "What should dental hygienists know regarding emergency procedures?",
+      options: [
+        "Only basic first aid techniques",
+        "Drugs in first aid kit, when to stop treatment, when to call EMS",
+        "CPR only, no other procedures",
+        "How to diagnose medical emergencies"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70359,
+      question: "When should vital signs be checked after giving nitroglycerin?",
+      options: [
+        "Before administering nitroglycerin",
+        "Immediately while administering",
+        "After patient is stable, then check pulse",
+        "Every 30 seconds during administration"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70360,
+      question: "What is the correct method for nitroglycerin administration?",
+      options: [
+        "Patient swallows it with water",
+        "Spray or sublingual (under tongue)",
+        "Intramuscular injection",
+        "Applied topically to chest"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70361,
+      question: "Who administers nitroglycerin when the patient is conscious?",
+      options: [
+        "The dental hygienist administers it",
+        "The dentist must administer it",
+        "The patient administers it to themselves",
+        "Emergency medical services must be called first"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70362,
+      question: "What is the only exception where dental professionals may administer emergency medication?",
+      options: [
+        "Nitroglycerin in unconscious patients",
+        "Insulin for diabetic emergencies",
+        "EpiPen when patient is unable and staff trained",
+        "Aspirin for heart attack symptoms"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70363,
+      question: "Can dental professionals create their own medical health history forms?",
+      options: [
+        "Yes, as long as it covers everything and follows guidelines",
+        "No, only standardized forms are allowed",
+        "Only dentists can create custom forms",
+        "Only with written permission from CDHO"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70364,
+      question: "What approval is needed for custom medical health history forms?",
+      options: [
+        "No approval needed if comprehensive",
+        "Must be approved before use",
+        "Only peer review required",
+        "Annual review by CDHO"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70365,
+      question: "What should be documented before sending out medical clearance for anemia?",
+      options: [
+        "Only the diagnosis",
+        "All information including diagnosis, medication status, and compliance",
+        "Just the patient's concerns",
+        "Only blood work results"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70366,
+      question: "What cardiovascular questions should be in the medical history?",
+      options: [
+        "Family history of heart disease only",
+        "Chest pain/angina, heart attack history, blood pressure status",
+        "Cholesterol levels and exercise habits",
+        "Diet and stress management techniques"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70367,
+      question: "If a patient has angina, should you still give nitroglycerin during an episode?",
+      options: [
+        "No, never give nitroglycerin to angina patients",
+        "Yes, give nitroglycerin unless contraindicated",
+        "Only if blood pressure is normal",
+        "Only after calling emergency services"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70368,
+      question: "What is the purpose of medical consultation forms?",
+      options: [
+        "To document patient complaints",
+        "To transfer care to another provider",
+        "To ask if there's anything to be mindful of when treating patient",
+        "To request medical records only"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70369,
+      question: "What should be done if a patient indicates they have bleeding disorders like hemophilia?",
+      options: [
+        "Refuse treatment immediately",
+        "Read about it and determine if medical clearance needed",
+        "Proceed with treatment as normal",
+        "Only perform non-invasive procedures"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70370,
+      question: "Why is it important to ask diabetic patients when they last ate?",
+      options: [
+        "To schedule lunch breaks appropriately",
+        "To prevent hypoglycemia during treatment",
+        "To calculate anesthetic dosage",
+        "To determine if they need antibiotics"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70371,
+      question: "What should be monitored for elderly patients on blood thinners?",
+      options: [
+        "Blood glucose levels",
+        "Kidney function",
+        "INR levels especially",
+        "Cholesterol levels"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70372,
+      question: "What type of content will be covered in the next week's lectures?",
+      options: [
+        "Lectures 1 and 2 review",
+        "Lectures 2 and 3 (lecture 3 is straightforward with less content)",
+        "Only new advanced topics",
+        "Case study presentations only"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70373,
+      question: "When is the test scheduled?",
+      options: [
+        "Two weeks from current class",
+        "At the end of the semester",
+        "Next week after finishing lectures 2 and 3",
+        "After all case presentations are complete"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70374,
+      question: "What topics does the medical emergency course overlap with?",
+      options: [
+        "Pharmacology only",
+        "Medical health history and follow-up procedures",
+        "Radiology techniques",
+        "Periodontal charting"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70375,
+      question: "What is emphasized about following CDHO standards?",
+      options: [
+        "They are optional guidelines for experienced practitioners",
+        "Must be followed to maintain certification and avoid discipline",
+        "Only apply to new graduates",
+        "Can be modified based on clinical judgment"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70376,
+      question: "Why might patients not always follow guidelines about bringing inhalers?",
+      options: [
+        "They forget or don't perceive need",
+        "Inhalers are too expensive",
+        "Dental offices always have replacements",
+        "CDHO doesn't require it"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70377,
+      question: "What should you do before treating a patient who didn't bring their inhaler?",
+      options: [
+        "Refuse treatment completely",
+        "Ask when last episode was and what triggered it",
+        "Provide them with clinic's emergency inhaler",
+        "Have them sign a waiver"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70378,
+      question: "What precaution should be taken with latex allergies?",
+      options: [
+        "Use latex gloves but change frequently",
+        "Avoid latex materials and use alternatives",
+        "Pre-medicate with antihistamines",
+        "Only dentist can treat these patients"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70379,
+      question: "What is the rationale for monitoring vitals with omega-3 supplementation?",
+      options: [
+        "It's a legal requirement for all supplements",
+        "Omega-3 has cardiovascular effects requiring monitoring",
+        "Omega-3 causes blood sugar changes",
+        "Omega-3 affects breathing patterns"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70380,
+      question: "What should be documented about a patient's white coat syndrome?",
+      options: [
+        "Nothing, as it's not a real condition",
+        "The elevated readings and medical consultation sent",
+        "Only that patient was anxious",
+        "Just the final blood pressure reading"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70381,
+      question: "References should be included in the PowerPoint presentation for the brochure assignment.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70382,
+      question: "Omega-3 is commonly taken for cardiovascular health.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70383,
+      question: "Baby aspirin (81mg) requires the same precautions as other blood thinners like Eliquis.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70384,
+      question: "INR levels should be checked for patients taking warfarin or Eliquis.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70385,
+      question: "Hematin can be used to help stop profuse bleeding.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70386,
+      question: "Medical clearance is always needed for anemia regardless of control status.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70387,
+      question: "If a patient's blood pressure is elevated and they have no history of hypertension, you should retake it after 5 minutes.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70388,
+      question: "Patients with white coat syndrome do not need medical consultation.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70389,
+      question: "For diabetic patients, you should ask about their last meal, medication, and blood sugar level.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70390,
+      question: "Juice should be given to a patient experiencing hyperglycemia (high blood sugar).",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70391,
+      question: "Latex allergies should be specifically asked about in the medical history.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70392,
+      question: "If a patient has a delayed allergic reaction, they should take their allergy medication and go to a walk-in clinic.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70393,
+      question: "Emergency inhalers are only required in hospital dental departments.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70394,
+      question: "CPR certification expires every 2 years.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70395,
+      question: "CDHO requires CPR refresher courses every 2 years.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70396,
+      question: "Failing to maintain annual CPR refreshers can result in disciplinary action.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70397,
+      question: "Nitroglycerin should be administered by the dental professional in all cases.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70398,
+      question: "Nitroglycerin is administered sublingually (under the tongue).",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70399,
+      question: "The only exception for dental professionals administering medication is with EpiPen when the patient is unable and staff is trained.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70400,
+      question: "Dental professionals cannot create their own medical health history forms.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70401,
+      question: "Custom medical health history forms need to be approved.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70402,
+      question: "When a patient has angina, you should never give them nitroglycerin.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70403,
+      question: "Medical consultation forms help identify what to be mindful of when treating a patient.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70404,
+      question: "The test will be held next week after completing lectures 2 and 3.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70405,
+      question: "Lecture 3 is described as having a lot of complex content.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    }
   ]
 };
