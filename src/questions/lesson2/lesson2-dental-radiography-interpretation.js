@@ -1318,17 +1318,6 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 60125,
-      question: "Where should all information about normal anatomical landmarks be found according to the document?",
-      options: [
-        "Chapter 25",
-        "Chapter 26",
-        "Chapter 27",
-        "Chapter 28"
-      ],
-      correctAnswer: 2
-    },
-    {
       id: 60126,
       question: "What is one purpose of the lecture according to the introduction?",
       options: [
@@ -1739,15 +1728,6 @@ export const questions = {
         "False"
       ],
       correctAnswer: 1
-    },
-    {
-      id: 60168,
-      question: "All information in this lecture can be found in Chapter 27.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 0
     },
     {
       id: 60169,
@@ -2232,17 +2212,6 @@ export const questions = {
         "CBCT only"
       ],
       correctAnswer: 2
-    },
-    {
-      id: 60213,
-      question: "What information is found in Chapter 27 according to the lecture?",
-      options: [
-        "Maxillary anatomical landmarks",
-        "All normal anatomical landmark information",
-        "Periodontal disease classification",
-        "Restorative dentistry techniques"
-      ],
-      correctAnswer: 1
     },
     {
       id: 60214,
@@ -3286,15 +3255,6 @@ export const questions = {
     {
       id: 60317,
       question: "The tongue is one of the soft tissues visible on panoramic images.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 0
-    },
-    {
-      id: 60318,
-      question: "All anatomical information in this lecture can be found in Chapter 29.",
       options: [
         "True",
         "False"
