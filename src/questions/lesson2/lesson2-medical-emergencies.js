@@ -2597,5 +2597,11 @@ export const questions = {
       ],
       correctAnswer: 0
     }
+  ],
+  "1. Introduction and prevention (Part 3)": [
+    // add questions here
+  ],
+  "1. Introduction and prevention (Part 4)": [
+    // add questions here
   ]
 };
