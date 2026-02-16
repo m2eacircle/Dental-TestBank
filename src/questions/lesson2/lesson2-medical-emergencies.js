@@ -4152,6 +4152,12 @@ export const questions = {
         "False"
       ],
       correctAnswer: 1
-    }
-  ]
+  "1. Introduction and prevention (Part 3-2)": [
+        // questions
+    ],
+  "1. Introduction and prevention (Part 4-2)": [
+        // questions
+    ]    
+  }
+]
 };
