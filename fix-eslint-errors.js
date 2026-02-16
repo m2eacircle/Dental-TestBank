@@ -33,10 +33,10 @@ function fixFile(filePath) {
     let content = fs.readFileSync(filePath, 'utf8');
     let modified = false;
 
-    // Fix unnecessary escape characters - replace ' with '
+    // Fix unnecessary escape characters - replace \' with '
     // Only replace when it's within strings
     const originalContent = content;
-    content = content.replace(/\'/g, "'");
+    content = content.replace(/\\'/g, "'");
     
     if (content !== originalContent) {
       modified = true;
