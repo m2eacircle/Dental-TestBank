@@ -4,7 +4,6 @@
 //   1. Introduction and prevention (Part 1)
 //   1. Introduction and prevention (Part 2)
 //   1. Introduction and prevention (Part 3)
-//   1. Introduction and prevention (Part 3-2)
 //   1. Introduction and prevention (Part 4)
 //   1. Introduction and prevention (Part 4-2)
 // 
@@ -2603,199 +2602,6 @@ export const questions = {
       correctAnswer: 0
     }
   ],
-  "1. Introduction and prevention (Part 3)": [
-    {
-      id: 70256,
-      question: "What percentage of the grade is allocated to the presentation component?",
-      options: [
-        "15% for the presentation",
-        "25% for the presentation",
-        "30% for the presentation",
-        "20% for the presentation"
-      ],
-      correctAnswer: 3
-    },
-    {
-      id: 70257,
-      question: "What is one example of a medical condition mentioned for a case scenario?",
-      options: [
-        "Angina pectoris",
-        "Diabetes mellitus",
-        "Multiple sclerosis",
-        "Rheumatoid arthritis"
-      ],
-      correctAnswer: 0
-    },
-    {
-      id: 70258,
-      question: "How is diabetes mentioned in relation to dental hygiene practice?",
-      options: [
-        "It is completely unrelated to oral health",
-        "It only affects endodontic treatment",
-        "It is contraindicated for dental prophylaxis",
-        "It is linked to periodontal conditions"
-      ],
-      correctAnswer: 3
-    },
-    {
-      id: 70259,
-      question: "In which semester will students perform OHE (Oral Health Education)?",
-      options: [
-        "Semester 2",
-        "Semester 5",
-        "Semester 3",
-        "Semester 4"
-      ],
-      correctAnswer: 3
-    },
-    {
-      id: 70260,
-      question: "How long is the duration of this course?",
-      options: [
-        "Two weeks",
-        "Six weeks",
-        "Eight weeks",
-        "Four weeks"
-      ],
-      correctAnswer: 3
-    },
-    {
-      id: 70261,
-      question: "In the first case scenario, which condition should be the primary focus?",
-      options: [
-        "Hypertension",
-        "Diabetes",
-        "Asthma",
-        "Angina"
-      ],
-      correctAnswer: 3
-    },
-    {
-      id: 70262,
-      question: "If a case scenario has multiple conditions, which should be addressed?",
-      options: [
-        "All conditions in equal detail",
-        "The one that is affecting the case more (primary condition)",
-        "Only the secondary conditions",
-        "Neither condition, focus on treatment only"
-      ],
-      correctAnswer: 1
-    },
-    {
-      id: 70263,
-      question: "What format options do students have for their presentation?",
-      options: [
-        "Only PowerPoint presentations are allowed",
-        "Only video presentations are allowed",
-        "Students can choose between formats like PowerPoint or Prezi",
-        "Only poster presentations are allowed"
-      ],
-      correctAnswer: 2
-    },
-    {
-      id: 70264,
-      question: "What is the maximum number of students allowed per group?",
-      options: [
-        "3 students",
-        "4 students",
-        "6 students",
-        "5 students"
-      ],
-      correctAnswer: 3
-    },
-    {
-      id: 70265,
-      question: "For the asthma case scenario, what should the presentation focus on?",
-      options: [
-        "Asthma in general, not case-specific",
-        "The specific case scenario details",
-        "Only theoretical concepts",
-        "Historical aspects of asthma"
-      ],
-      correctAnswer: 1
-    },
-    {
-      id: 70266,
-      question: "The course duration is four weeks long.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 0
-    },
-    {
-      id: 70267,
-      question: "Diabetes is mentioned as being linked to periodontal conditions.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 0
-    },
-    {
-      id: 70268,
-      question: "Students are considered self-regulated and self-initiated after graduation.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 0
-    },
-    {
-      id: 70269,
-      question: "The maximum number of students allowed in a group is 5.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 0
-    },
-    {
-      id: 70270,
-      question: "For a case with multiple conditions, students should cover all conditions equally in their brochure.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 1
-    },
-    {
-      id: 70271,
-      question: "CDHO is mentioned as one of the required reference sources.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 0
-    },
-    {
-      id: 70272,
-      question: "The OHE criteria mentioned relates to semester 4.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 0
-    },
-    {
-      id: 70273,
-      question: "The board exam is scheduled for May.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 0
-    },
-    {
-      id: 70274,
-      question: "The presentation should focus on the specific case scenario.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 0
-    }
-  ],
   "1. Introduction and prevention (Part 4)": [
     {
       id: 70275,
@@ -3553,7 +3359,7 @@ export const questions = {
       correctAnswer: 1
     }
   ],
-  "1. Introduction and prevention (Part 3-2)": [
+  "1. Introduction and prevention (Part 3)": [
     {
       id: 70348,
       question: "What is the primary purpose of studying medical emergencies in dental hygiene practice?",
