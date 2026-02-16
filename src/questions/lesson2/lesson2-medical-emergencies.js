@@ -2602,72 +2602,6 @@ export const questions = {
   ],
   "1. Introduction and prevention (Part 3)": [
     {
-      id: 70256,
-      question: "Which platform will students use to access assignments for this course?",
-      options: [
-        "Medical emergency portal with assignment section",
-        "Canvas Learning Management System",
-        "Google Classroom interface",
-        "Blackboard course website"
-      ],
-      correctAnswer: 0
-    },
-    {
-      id: 70257,
-      question: "How are students expected to form their groups for the case scenario assignments?",
-      options: [
-        "The instructor will randomly assign groups based on student numbers",
-        "Groups will be formed alphabetically by last name",
-        "Students can pick their own groups by clicking on People then Group",
-        "The administration office will create balanced groups"
-      ],
-      correctAnswer: 2
-    },
-    {
-      id: 70258,
-      question: "How many case scenarios are available for student groups to choose from?",
-      options: [
-        "5 case scenarios",
-        "12 case scenarios",
-        "8 case scenarios",
-        "10 case scenarios"
-      ],
-      correctAnswer: 3
-    },
-    {
-      id: 70259,
-      question: "What is the recommended number of students per group for the assignment?",
-      options: [
-        "2 students per group",
-        "6-7 students per group",
-        "8-10 students per group",
-        "3-4 students per group"
-      ],
-      correctAnswer: 3
-    },
-    {
-      id: 70260,
-      question: "How many groups will have only 4 students instead of 5?",
-      options: [
-        "2 groups will have 4 students",
-        "All groups will have exactly 5 students",
-        "4 groups will have 4 students",
-        "3 groups will have 4 students"
-      ],
-      correctAnswer: 0
-    },
-    {
-      id: 70261,
-      question: "What percentage of the grade is allocated to the brochure component?",
-      options: [
-        "10% for the brochure",
-        "15% for the brochure",
-        "20% for the brochure",
-        "25% for the brochure"
-      ],
-      correctAnswer: 1
-    },
-    {
       id: 70262,
       question: "What percentage of the grade is allocated to the presentation component?",
       options: [
@@ -2679,17 +2613,6 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 70263,
-      question: "Who is the intended audience for the brochures that students create?",
-      options: [
-        "Other dental hygiene students for peer review",
-        "Professors for academic evaluation purposes",
-        "Clients who are not well-educated about their medical conditions",
-        "Hospital administrators for policy development"
-      ],
-      correctAnswer: 2
-    },
-    {
       id: 70264,
       question: "What is one example of a medical condition mentioned for a case scenario?",
       options: [
@@ -2699,28 +2622,6 @@ export const questions = {
         "Rheumatoid arthritis"
       ],
       correctAnswer: 0
-    },
-    {
-      id: 70265,
-      question: "What can students do with the brochures they create after graduation?",
-      options: [
-        "They must submit them to a regulatory board",
-        "They are property of the school only",
-        "They must destroy them for confidentiality reasons",
-        "They can use them in their own practice or share with colleagues"
-      ],
-      correctAnswer: 3
-    },
-    {
-      id: 70266,
-      question: "What type of language should be used in the brochures?",
-      options: [
-        "Highly technical medical terminology to demonstrate expertise",
-        "Only Latin-based anatomical terms",
-        "Layman's terms that are understandable to clients",
-        "Complex scientific language to maintain professionalism"
-      ],
-      correctAnswer: 2
     },
     {
       id: 70267,
@@ -2745,17 +2646,6 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 70269,
-      question: "What criteria in semester 4 relates to the brochure assignment?",
-      options: [
-        "OHE (Oral Health Education) criteria",
-        "Clinical competency examination",
-        "Patient case presentation requirements",
-        "Radiographic interpretation standards"
-      ],
-      correctAnswer: 0
-    },
-    {
       id: 70270,
       question: "How long is the duration of this course?",
       options: [
@@ -2767,72 +2657,6 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 70271,
-      question: "What is the instructor's advice about having only two people in a group?",
-      options: [
-        "It is the ideal group size",
-        "It is required for better grades",
-        "It is only allowed with special permission",
-        "It is not suggested because it is a lot of work"
-      ],
-      correctAnswer: 3
-    },
-    {
-      id: 70272,
-      question: "When must students finish the assignment?",
-      options: [
-        "By the end of March",
-        "By the end of April",
-        "By the end of January",
-        "By the end of February"
-      ],
-      correctAnswer: 3
-    },
-    {
-      id: 70273,
-      question: "When is the board exam mentioned to be scheduled?",
-      options: [
-        "In March",
-        "In June",
-        "In April",
-        "In May"
-      ],
-      correctAnswer: 3
-    },
-    {
-      id: 70274,
-      question: "How long is the dental hygiene program mentioned to be?",
-      options: [
-        "18 months",
-        "12 months",
-        "24 months",
-        "36 months"
-      ],
-      correctAnswer: 0
-    },
-    {
-      id: 70275,
-      question: "Where can students find the rubric and case scenarios?",
-      options: [
-        "In the textbook appendix",
-        "On the assignment portal in separate files",
-        "Emailed individually to each student",
-        "Posted on the classroom bulletin board"
-      ],
-      correctAnswer: 1
-    },
-    {
-      id: 70276,
-      question: "What should students do if they have questions about which condition to focus on in their brochure?",
-      options: [
-        "Choose randomly from the conditions listed",
-        "Cover all conditions equally",
-        "Email the instructor for clarification",
-        "Skip the assignment"
-      ],
-      correctAnswer: 2
-    },
-    {
       id: 70277,
       question: "In the first case scenario, which condition should be the primary focus?",
       options: [
@@ -2840,28 +2664,6 @@ export const questions = {
         "Diabetes",
         "Asthma",
         "Angina"
-      ],
-      correctAnswer: 3
-    },
-    {
-      id: 70278,
-      question: "What type of content should be included in the brochure for a condition like angina?",
-      options: [
-        "Definition, signs, symptoms, and first aid/EMS process",
-        "Only the medication names",
-        "Just the pathophysiology",
-        "Only preventive measures"
-      ],
-      correctAnswer: 0
-    },
-    {
-      id: 70279,
-      question: "What should students do when presenting their case scenario?",
-      options: [
-        "Only read the brochure content",
-        "Focus solely on pharmacology",
-        "Demonstrate clinical procedures only",
-        "Present the case and provide treatment steps"
       ],
       correctAnswer: 3
     },
@@ -2887,39 +2689,7 @@ export const questions = {
       ],
       correctAnswer: 2
     },
-    {
-      id: 70282,
-      question: "What is emphasized about the students' professional status after graduation?",
-      options: [
-        "They are self-regulated and self-initiated",
-        "They will work under direct supervision always",
-        "They must work in hospital settings only",
-        "They cannot practice independently"
-      ],
-      correctAnswer: 0
-    },
-    {
-      id: 70283,
-      question: "What relationship does the brochure assignment have to future practice?",
-      options: [
-        "It is only for academic purposes",
-        "It must be submitted to licensing boards",
-        "It can be used in private practice for client education",
-        "It expires after graduation"
-      ],
-      correctAnswer: 2
-    },
-    {
-      id: 70284,
-      question: "How are case scenarios assigned to groups?",
-      options: [
-        "Random assignment by the instructor",
-        "Assigned based on academic performance",
-        "Assigned alphabetically by group leader",
-        "First come, first served - whoever signs up first"
-      ],
-      correctAnswer: 3
-    },
+},
     {
       id: 70285,
       question: "What is the maximum number of students allowed per group?",
@@ -2928,17 +2698,6 @@ export const questions = {
         "4 students",
         "6 students",
         "5 students"
-      ],
-      correctAnswer: 3
-    },
-    {
-      id: 70286,
-      question: "For the asthma case scenario, what should the brochure cover?",
-      options: [
-        "Only emergency treatment protocols",
-        "Only pharmaceutical interventions",
-        "Surgical treatment options",
-        "General information about asthma, signs, symptoms, medication, and episode management"
       ],
       correctAnswer: 3
     },
@@ -2954,260 +2713,8 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70288,
-      question: "What is the relationship between the brochure and presentation content?",
-      options: [
-        "They should contain identical information",
-        "They cover completely different topics",
-        "They are interchangeable documents",
-        "Brochure is about the general condition; presentation is about the case"
-      ],
-      correctAnswer: 3
-    },
-    {
-      id: 70289,
-      question: "How many references are required for the assignment?",
-      options: [
-        "2 references",
-        "3 references",
-        "5 references",
-        "4 references"
-      ],
-      correctAnswer: 3
-    },
-    {
-      id: 70290,
-      question: "Which of the following is mentioned as a required reference source?",
-      options: [
-        "Wikipedia",
-        "General internet sources",
-        "CDHO (College of Dental Hygienists of Ontario)",
-        "Social media platforms"
-      ],
-      correctAnswer: 2
-    },
-    {
-      id: 70291,
-      question: "Which resource is mentioned as a reference for the assignment?",
-      options: [
-        "Medical journals only",
-        "Nursing manuals",
-        "Derby textbook",
-        "Pharmacy databases"
-      ],
-      correctAnswer: 2
-    },
-    {
-      id: 70292,
-      question: "What type of additional reference is required beyond the primary sources?",
-      options: [
-        "A peer-reviewed article",
-        "A government publication",
-        "A newspaper article",
-        "A patient testimonial"
-      ],
-      correctAnswer: 0
-    },
-    {
-      id: 70293,
-      question: "Why does the instructor emphasize using CDHO and Derby as references?",
-      options: [
-        "They are free resources",
-        "They are the only acceptable sources",
-        "To reduce research time only",
-        "To ensure students stay within their scope of practice"
-      ],
-      correctAnswer: 3
-    },
-    {
-      id: 70294,
-      question: "What should students do if they need additional references beyond the required ones?",
-      options: [
-        "They cannot use any other sources",
-        "They must get written permission first",
-        "Additional references are not allowed",
-        "They can use peer-reviewed or recent sources"
-      ],
-      correctAnswer: 3
-    },
-    {
-      id: 70295,
-      question: "When does the course officially open?",
-      options: [
-        "The week before classes start",
-        "On the first day of teaching",
-        "One month before the semester",
-        "During orientation week"
-      ],
-      correctAnswer: 1
-    },
-    {
-      id: 70296,
-      question: "What is the instructor's response about students emailing their chosen topics?",
-      options: [
-        "All students must email their topic choice",
-        "Email only if there are questions",
-        "No emailing needed; selection is done through the portal",
-        "Email required for approval"
-      ],
-      correctAnswer: 2
-    },
-    {
-      id: 70297,
-      question: "What happens if multiple groups select the same case scenario?",
-      options: [
-        "The instructor assigns different scenarios",
-        "Groups must share the scenario",
-        "All groups are allowed to do the same one",
-        "First come, first served applies"
-      ],
-      correctAnswer: 3
-    },
-    {
-      id: 70298,
-      question: "How does the instructor describe the workload for this course?",
-      options: [
-        "Light workload with minimal requirements",
-        "Moderate with flexible deadlines",
-        "Spread evenly over the semester",
-        "Intensive within a short time frame"
-      ],
-      correctAnswer: 3
-    },
-    {
-      id: 70299,
-      question: "What does the instructor mention about semester 3 and 4?",
-      options: [
-        "They will be easier than previous semesters",
-        "They are optional semesters",
-        "Life is going to change in semesters 3 and 4",
-        "They focus only on theory"
-      ],
-      correctAnswer: 2
-    },
-    {
-      id: 70300,
-      question: "What is the instructor's stance on attendance tracking?",
-      options: [
-        "Attendance is not required",
-        "Students track their own attendance",
-        "The instructor will update attendance records",
-        "Attendance is automatically recorded"
-      ],
-      correctAnswer: 2
-    },
-    {
-      id: 70301,
-      question: "What privilege does the instructor mention about this class?",
-      options: [
-        "Extended deadlines",
-        "Flexible grading standards",
-        "Optional assignments",
-        "Paper way is provided for this class"
-      ],
-      correctAnswer: 3
-    },
-    {
-      id: 70302,
-      question: "What does the instructor suggest about missing information during class?",
-      options: [
-        "Students should not ask questions",
-        "Students are penalized for not paying attention",
-        "It's understandable with many questions being asked",
-        "All information is repeated multiple times"
-      ],
-      correctAnswer: 2
-    },
-    {
-      id: 70303,
-      question: "What document will the instructor post to clarify brochure content?",
-      options: [
-        "A sample brochure from previous students",
-        "A grading rubric only",
-        "A list of prohibited topics",
-        "Guidelines about what exactly goes in the brochure"
-      ],
-      correctAnswer: 3
-    },
-    {
-      id: 70304,
-      question: "What is the instructor's policy regarding the course timeline?",
-      options: [
-        "It is flexible and negotiable",
-        "Students can vote on changes",
-        "It follows school policy and is not up for discussion",
-        "Extensions are granted upon request"
-      ],
-      correctAnswer: 2
-    },
-    {
-      id: 70305,
-      question: "What option does the instructor give to students uncomfortable with the assignment?",
-      options: [
-        "They can modify the requirements",
-        "They can submit late without penalty",
-        "They can do an alternative assignment",
-        "They have the option of not doing it, but it won't be graded"
-      ],
-      correctAnswer: 3
-    },
-    {
-      id: 70306,
-      question: "Students are required to email the instructor to confirm their group selection and case scenario choice.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 1
-    },
-    {
-      id: 70307,
-      question: "The brochures created by students are meant primarily for the students' own learning rather than client education.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 1
-    },
-    {
-      id: 70308,
-      question: "Students will have access to 10 different case scenarios to choose from for their group assignment.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 0
-    },
-    {
-      id: 70309,
-      question: "The instructor recommends that only two people work together in a group for this assignment.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 1
-    },
-    {
-      id: 70310,
-      question: "The presentation component is worth 20% of the overall grade for this assignment.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 0
-    },
-    {
       id: 70311,
       question: "The course duration is four weeks long.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 0
-    },
-    {
-      id: 70312,
-      question: "Students must complete the assignment by the end of February.",
       options: [
         "True",
         "False"
@@ -3224,44 +2731,8 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70314,
-      question: "The brochures should be written using complex technical medical terminology.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 1
-    },
-    {
-      id: 70315,
-      question: "After graduation, students can use the brochures they created in their own practice.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 0
-    },
-    {
-      id: 70316,
-      question: "The dental hygiene program mentioned is 18 months in duration.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 0
-    },
-    {
       id: 70317,
       question: "Students are considered self-regulated and self-initiated after graduation.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 0
-    },
-    {
-      id: 70318,
-      question: "Case scenarios are assigned on a first come, first served basis.",
       options: [
         "True",
         "False"
@@ -3278,15 +2749,6 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70320,
-      question: "The instructor will be monitoring and assigning case scenarios to groups.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 1
-    },
-    {
       id: 70321,
       question: "For a case with multiple conditions, students should cover all conditions equally in their brochure.",
       options: [
@@ -3296,24 +2758,6 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70322,
-      question: "The brochure should include information about signs, symptoms, and emergency management procedures.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 0
-    },
-    {
-      id: 70323,
-      question: "Students are required to use exactly four references for their assignment.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 0
-    },
-    {
       id: 70324,
       question: "CDHO is mentioned as one of the required reference sources.",
       options: [
@@ -3321,24 +2765,6 @@ export const questions = {
         "False"
       ],
       correctAnswer: 0
-    },
-    {
-      id: 70325,
-      question: "Students can use additional peer-reviewed sources beyond the required references if they choose.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 0
-    },
-    {
-      id: 70326,
-      question: "The course timeline and deadlines are negotiable based on student feedback.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 1
     },
     {
       id: 70327,
@@ -3359,15 +2785,6 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70329,
-      question: "For the asthma case, the brochure should focus on the specific case scenario details.",
-      options: [
-        "True",
-        "False"
-      ],
-      correctAnswer: 1
-    },
-    {
       id: 70330,
       question: "The presentation should focus on the specific case scenario.",
       options: [
@@ -3378,17 +2795,6 @@ export const questions = {
     }
   ],
   "1. Introduction and prevention (Part 4)": [
-    {
-      id: 70331,
-      question: "When submitting the brochure assignment, what should students include in the email context?",
-      options: [
-        "References so the instructor can verify where information comes from",
-        "A summary of the presentation content",
-        "The PowerPoint slides",
-        "Student identification numbers"
-      ],
-      correctAnswer: 0
-    },
     {
       id: 70332,
       question: "What is omega-3 primarily taken for according to the lecture?",
@@ -3925,15 +3331,6 @@ export const questions = {
         "The elevated readings and medical consultation sent",
         "Only that patient was anxious",
         "Just the final blood pressure reading"
-      ],
-      correctAnswer: 1
-    },
-    {
-      id: 70381,
-      question: "References should be included in the PowerPoint presentation for the brochure assignment.",
-      options: [
-        "True",
-        "False"
       ],
       correctAnswer: 1
     },
