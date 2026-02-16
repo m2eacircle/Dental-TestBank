@@ -2436,7 +2436,7 @@ export const questions = {
     { id: 3253, question: "What happens when developer solution loses strength?", options: ["Nothing changes", "Time-temperature recommendations are no longer accurate", "Images improve", "Processing is faster"], correct: 1 },
     { id: 3254, question: "What are three methods to check developer strength?", options: ["Color, smell, and temperature", "Reference radiograph, stepwedge radiograph, and normalizing device", "Weight, volume, and pH", "Taste, texture, and density"], correct: 1 },
     { id: 3255, question: "What is a stepwedge?", options: ["A temperature gauge", "A device of layered aluminum steps", "A timer", "A film holder"], correct: 1 },
-    { id: 3256, question: "How many films should be prepared for stepwedge testing?", options: ["5 films", "10 films", "20 films", "50 films"], correct: 1 },
+    { id: 3256, question: "How many films should be prepared for stepwedge testing?", options: ["5 films", "10 films", "20 films", "50 films"], correct: 2 },
     { id: 3257, question: "When should the first stepwedge film be processed?", options: ["Immediately", "With fresh chemicals to create a standard", "After one month", "Never"], correct: 1 },
     { id: 3258, question: "How many stepwedge films should be stored for daily testing?", options: ["None", "19 films (the remaining exposed films)", "10 films", "All 20"], correct: 1 },
     { id: 3259, question: "How often should a stepwedge film be processed for quality control?", options: ["Weekly", "Each day", "Monthly", "Only when problems occur"], correct: 1 },
