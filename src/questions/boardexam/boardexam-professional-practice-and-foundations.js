@@ -20,7 +20,7 @@ export const questions = {
       options: [
         "Irene Newman",
         "Alfred Civilion Fones",
-        "The American Dental Hygienists\' Association",
+        "The American Dental Hygienists' Association",
         "The Canadian Dental Hygienists Association"
       ],
       correct: "B"
@@ -60,7 +60,7 @@ export const questions = {
     },
     {
       id: 13105,
-      question: "When was the American Dental Hygienists\' Association (ADHA) established?",
+      question: "When was the American Dental Hygienists' Association (ADHA) established?",
       options: [
         "1913",
         "1917",
@@ -184,7 +184,7 @@ export const questions = {
       question: "What is a dental hygiene diagnosis?",
       options: [
         "Identifying tooth decay",
-        "Identifying an individual\'s health behaviors, attitudes, and oral healthcare needs within the scope of dental hygiene practice",
+        "Identifying an individual's health behaviors, attitudes, and oral healthcare needs within the scope of dental hygiene practice",
         "Determining the need for dental surgery",
         "Prescribing medication"
       ],
@@ -316,7 +316,7 @@ export const questions = {
       question: "What does the health/oral health paradigm concept refer to?",
       options: [
         "Only the absence of disease",
-        "The client\'s state of well-being, which fluctuates over time",
+        "The client's state of well-being, which fluctuates over time",
         "Only oral hygiene status",
         "Only systemic health"
       ],
@@ -560,13 +560,13 @@ export const questions = {
         "The American Journal of Dentistry",
         "The Journal of Dental Hygiene",
         "Dental Hygiene Practice",
-        "The Hygienist\'s Journal"
+        "The Hygienist's Journal"
       ],
       correct: "B"
     },
     {
       id: 13151,
-      question: "What is ADHA\'s legislative body?",
+      question: "What is ADHA's legislative body?",
       options: [
         "The Board of Directors",
         "The House of Delegates",
@@ -577,7 +577,7 @@ export const questions = {
     },
     {
       id: 13152,
-      question: "When was the National Dental Hygienists\' Association (NDHA) founded?",
+      question: "When was the National Dental Hygienists' Association (NDHA) founded?",
       options: [
         "1913",
         "1923",
@@ -599,10 +599,10 @@ export const questions = {
     },
     {
       id: 13154,
-      question: "What is one of CDHA\'s board action outcomes?",
+      question: "What is one of CDHA's board action outcomes?",
       options: [
         "Increasing membership fees",
-        "Public policy environment favorable to dental hygienists\' ability to practice as primary healthcare providers",
+        "Public policy environment favorable to dental hygienists' ability to practice as primary healthcare providers",
         "Eliminating continuing education",
         "Reducing practice standards"
       ],
@@ -648,7 +648,7 @@ export const questions = {
         "An executive council only",
         "A House of Delegates with two delegates from each member country",
         "A president only",
-        "Member countries\' governments"
+        "Member countries' governments"
       ],
       correct: "B"
     },
@@ -687,7 +687,7 @@ export const questions = {
     },
     {
       id: 13162,
-      question: "What is the IADR\'s purpose?",
+      question: "What is the IADR's purpose?",
       options: [
         "To regulate dental research",
         "To support advancement of research and knowledge to improve oral health",
@@ -709,7 +709,7 @@ export const questions = {
     },
     {
       id: 13164,
-      question: "What is AAOM\'s vision?",
+      question: "What is AAOM's vision?",
       options: [
         "To separate medicine and dentistry",
         "To integrate medicine and dentistry to promote optimal health",
@@ -854,9 +854,9 @@ export const questions = {
       id: 13177,
       question: "What determines the level of supervision required by a dentist for dental hygienists?",
       options: [
-        "The dental hygienist\'s preference",
+        "The dental hygienist's preference",
         "Laws and regulations in various states, provinces, and countries",
-        "The dentist\'s preference only",
+        "The dentist's preference only",
         "Insurance companies"
       ],
       correct: "B"
@@ -907,7 +907,7 @@ export const questions = {
     },
     {
       id: 13182,
-      question: "What is emphasized about dental hygienists\' responsibility for their practice?",
+      question: "What is emphasized about dental hygienists' responsibility for their practice?",
       options: [
         "Only when supervised",
         "Taking ownership of their portion of practice regardless of setting",
@@ -1171,7 +1171,7 @@ export const questions = {
     },
     {
       id: 13206,
-      question: "What is ADHA\'s vision regarding dental hygienists?",
+      question: "What is ADHA's vision regarding dental hygienists?",
       options: [
         "To limit practice settings",
         "Integration into healthcare delivery system as essential primary care providers",
@@ -1259,7 +1259,7 @@ export const questions = {
     },
     {
       id: 13214,
-      question: "What is CDHA\'s purpose?",
+      question: "What is CDHA's purpose?",
       options: [
         "Only education",
         "To enable members to provide quality preventive and therapeutic care",
@@ -1270,7 +1270,7 @@ export const questions = {
     },
     {
       id: 13215,
-      question: "What is CDHA\'s role?",
+      question: "What is CDHA's role?",
       options: [
         "Only for members",
         "The collective voice of dental hygiene in Canada",
@@ -1292,10 +1292,10 @@ export const questions = {
     },
     {
       id: 13217,
-      question: "What is one of CDHA\'s board action areas?",
+      question: "What is one of CDHA's board action areas?",
       options: [
         "Only membership growth",
-        "Public recognition of dental hygienists\' value",
+        "Public recognition of dental hygienists' value",
         "Only financial management",
         "Only event planning"
       ],
@@ -1328,7 +1328,7 @@ export const questions = {
       question: "What does CDHA work to develop regarding leadership?",
       options: [
         "Only board members",
-        "Dental hygienists\' potential for professional leadership",
+        "Dental hygienists' potential for professional leadership",
         "Only educators",
         "Only administrators"
       ],
@@ -1506,7 +1506,7 @@ export const questions = {
       question: "How is health/oral health defined in the dental hygiene metaparadigm?",
       options: [
         "Only as the absence of disease",
-        "As the client\'s state of well-being on a continuum from maximum wellness to maximum illness",
+        "As the client's state of well-being on a continuum from maximum wellness to maximum illness",
         "Only as physical health",
         "As perfect oral hygiene"
       ],
@@ -1582,7 +1582,7 @@ export const questions = {
       id: 13215,
       question: "Who developed the Dental Hygiene Human Needs Conceptual Model?",
       options: [
-        "The American Dental Hygienists\' Association",
+        "The American Dental Hygienists' Association",
         "Michelle Darby and Margaret Walsh",
         "The Canadian Dental Hygienists Association",
         "Dental hygiene students"
@@ -1660,7 +1660,7 @@ export const questions = {
       question: "What is \"wholesome facial image\"?",
       options: [
         "Having perfect teeth",
-        "The need to feel satisfied with one\'s own oral-facial features and breath",
+        "The need to feel satisfied with one's own oral-facial features and breath",
         "Getting cosmetic dentistry",
         "Having no dental restorations"
       ],
@@ -1703,8 +1703,8 @@ export const questions = {
       id: 13226,
       question: "What is \"responsibility for oral health\"?",
       options: [
-        "The dental hygienist\'s duty",
-        "The need for accountability for one\'s oral health given interaction between motivation, capability, and social environment",
+        "The dental hygienist's duty",
+        "The need for accountability for one's oral health given interaction between motivation, capability, and social environment",
         "Insurance coverage",
         "Regular dental visits"
       ],
@@ -1738,7 +1738,7 @@ export const questions = {
       options: [
         "Michelle Darby and Margaret Walsh",
         "Dental hygiene educator-researchers at the University of Missouri-Kansas City",
-        "The American Dental Hygienists\' Association",
+        "The American Dental Hygienists' Association",
         "Canadian dental hygienists"
       ],
       correct: "B"
@@ -1803,7 +1803,7 @@ export const questions = {
       question: "What does the symptom status domain focus on?",
       options: [
         "Only clinical findings",
-        "The client\'s subjective feelings about their state of well-being",
+        "The client's subjective feelings about their state of well-being",
         "Laboratory results",
         "Radiographic findings"
       ],
@@ -1814,7 +1814,7 @@ export const questions = {
       question: "What does the functional status domain include?",
       options: [
         "Only physical abilities",
-        "The client\'s ability to perform specific physical oral functions like chewing, speaking, and swallowing",
+        "The client's ability to perform specific physical oral functions like chewing, speaking, and swallowing",
         "Only social interactions",
         "Only psychological well-being"
       ],
@@ -1825,7 +1825,7 @@ export const questions = {
       question: "What are health perceptions?",
       options: [
         "Clinical diagnoses",
-        "The individual\'s subjective opinion of oral and general health and well-being",
+        "The individual's subjective opinion of oral and general health and well-being",
         "Laboratory test results",
         "X-ray findings"
       ],
@@ -1836,7 +1836,7 @@ export const questions = {
       question: "What does the general quality of life domain encompass?",
       options: [
         "Only oral health",
-        "The client\'s overall satisfaction with life",
+        "The client's overall satisfaction with life",
         "Only physical health",
         "Financial status"
       ],
@@ -1849,7 +1849,7 @@ export const questions = {
         "Michelle Darby and Margaret Walsh",
         "University of Missouri-Kansas City researchers",
         "Dental hygiene educators at Idaho State University",
-        "The American Dental Hygienists\' Association"
+        "The American Dental Hygienists' Association"
       ],
       correct: "C"
     },
@@ -1880,7 +1880,7 @@ export const questions = {
       question: "What does the initiation domain involve?",
       options: [
         "Starting treatment immediately",
-        "Assessing the patient\'s pre-existing beliefs, values, and understanding of health and disease",
+        "Assessing the patient's pre-existing beliefs, values, and understanding of health and disease",
         "Scheduling appointments",
         "Taking payment"
       ],
@@ -1891,7 +1891,7 @@ export const questions = {
       question: "What should the dental hygienist do during the initiation phase?",
       options: [
         "Impose their beliefs",
-        "Remain open, elicit the patient\'s views, and accept them without judgment",
+        "Remain open, elicit the patient's views, and accept them without judgment",
         "Argue with the patient",
         "Ignore patient beliefs"
       ],
@@ -1913,7 +1913,7 @@ export const questions = {
       question: "What is an explanatory model?",
       options: [
         "A demonstration tool",
-        "A person\'s understanding of disease and its prevention",
+        "A person's understanding of disease and its prevention",
         "A teaching aid",
         "A clinical protocol"
       ],
@@ -1987,10 +1987,10 @@ export const questions = {
     },
     {
       id: 13252,
-      question: "What should the dental hygienist do when a patient\'s beliefs differ from evidence-based recommendations?",
+      question: "What should the dental hygienist do when a patient's beliefs differ from evidence-based recommendations?",
       options: [
         "Refuse to provide care",
-        "Accept the patient\'s priorities and work within their belief system",
+        "Accept the patient's priorities and work within their belief system",
         "Argue until the patient agrees",
         "Report the patient"
       ],
@@ -2022,7 +2022,7 @@ export const questions = {
       id: 13255,
       question: "In the Dental Hygiene Human Needs Conceptual Model, how does environment influence human needs?",
       options: [
-        "It doesn\'t",
+        "It doesn't",
         "It influences the manner, mode, and level of human need fulfillment",
         "Only through physical space",
         "Only through economics"
@@ -2155,7 +2155,7 @@ export const questions = {
       question: "What does oral health literacy strongly influence?",
       options: [
         "Insurance coverage",
-        "A client\'s ability to process and understand health information to make appropriate decisions",
+        "A client's ability to process and understand health information to make appropriate decisions",
         "Appointment scheduling",
         "Treatment costs"
       ],
@@ -2174,7 +2174,7 @@ export const questions = {
     },
     {
       id: 13269,
-      question: "What indicates that a patient\'s need for conceptualization and problem solving is met?",
+      question: "What indicates that a patient's need for conceptualization and problem solving is met?",
       options: [
         "The patient has many questions",
         "The patient understands the rationale for recommended care and participates in goal setting",
@@ -2221,7 +2221,7 @@ export const questions = {
       question: "How should goals for oral health be established?",
       options: [
         "By the dental hygienist alone",
-        "Realistically related to the patient\'s individual needs, values, and ability level",
+        "Realistically related to the patient's individual needs, values, and ability level",
         "By insurance requirements",
         "By treatment protocols only"
       ],
@@ -2287,8 +2287,8 @@ export const questions = {
       question: "How is the care plan developed using the Oral Health-Related Quality of Life Model?",
       options: [
         "Based only on clinical findings",
-        "Driven by the patient\'s perceptions and reactions to their oral health status as it relates to quality of life",
-        "Based only on the dental hygienist\'s assessment",
+        "Driven by the patient's perceptions and reactions to their oral health status as it relates to quality of life",
+        "Based only on the dental hygienist's assessment",
         "Based on insurance coverage"
       ],
       correct: "B"
@@ -2482,12 +2482,12 @@ export const questions = {
     },
     {
       id: 13297,
-      question: "Whose priorities become the dental hygienist\'s priorities if the patient doesn\'t accept the explanation?",
+      question: "Whose priorities become the dental hygienist's priorities if the patient doesn't accept the explanation?",
       options: [
-        "The dental hygienist\'s",
-        "The patient\'s",
-        "The dentist\'s",
-        "The insurance company\'s"
+        "The dental hygienist's",
+        "The patient's",
+        "The dentist's",
+        "The insurance company's"
       ],
       correct: "B"
     },
@@ -2515,7 +2515,7 @@ export const questions = {
     },
     {
       id: 13300,
-      question: "Who facilitates the patient\'s decisions in the commitment phase?",
+      question: "Who facilitates the patient's decisions in the commitment phase?",
       options: [
         "The dentist",
         "The dental hygienist",
@@ -2528,7 +2528,7 @@ export const questions = {
       id: 13301,
       question: "Where should client commitments and goals be documented?",
       options: [
-        "Only in the dental hygienist\'s notes",
+        "Only in the dental hygienist's notes",
         "In the dental record",
         "Not documented",
         "Only verbally communicated"
@@ -2581,7 +2581,7 @@ export const questions = {
     },
     {
       id: 13306,
-      question: "What is the dental hygienist\'s responsibility regarding practice models?",
+      question: "What is the dental hygienist's responsibility regarding practice models?",
       options: [
         "To use only one model",
         "To ensure practice is accountable to the client and profession, using evidence-based models",
@@ -2683,7 +2683,7 @@ export const questions = {
       question: "What should dental hygienists respect regarding other professions?",
       options: [
         "Only their own profession",
-        "Other professions\' knowledge, expertise, and contributions to healthcare",
+        "Other professions' knowledge, expertise, and contributions to healthcare",
         "Only dentistry",
         "Only medicine"
       ],
@@ -2718,7 +2718,7 @@ export const questions = {
       question: "What is evidence-based decision making (EBDM)?",
       options: [
         "Following traditional practices only",
-        "The integration of best research evidence with clinical expertise and patient\'s unique values and circumstances",
+        "The integration of best research evidence with clinical expertise and patient's unique values and circumstances",
         "Making decisions based only on clinical experience",
         "Using only the newest research studies"
       ],
@@ -3027,7 +3027,7 @@ export const questions = {
       options: [
         "A single research study",
         "A secondary source that incorporates best available scientific evidence to support clinical practice",
-        "An expert\'s personal opinion",
+        "An expert's personal opinion",
         "A patient preference"
       ],
       correct: "B"
@@ -3089,7 +3089,7 @@ export const questions = {
     },
     {
       id: 13334,
-      question: "How is the Cochrane Collaboration\'s work recognized?",
+      question: "How is the Cochrane Collaboration's work recognized?",
       options: [
         "As outdated",
         "As the gold standard for systematic reviews",
@@ -3320,7 +3320,7 @@ export const questions = {
     },
     {
       id: 13355,
-      question: "What do PubMed\'s built-in algorithms do?",
+      question: "What do PubMed's built-in algorithms do?",
       options: [
         "Make searching more difficult",
         "Streamline the process of searching for clinically relevant articles",
@@ -3390,8 +3390,8 @@ export const questions = {
       options: [
         "Cost of the study",
         "The research design, methods, and way the study was conducted",
-        "The author\'s credentials",
-        "The journal\'s impact factor"
+        "The author's credentials",
+        "The journal's impact factor"
       ],
       correct: "B"
     },
@@ -3399,7 +3399,7 @@ export const questions = {
       id: 13362,
       question: "Why is understanding research design important in critical appraisal?",
       options: [
-        "It\'s not important",
+        "It's not important",
         "Little confidence can be placed in results if the study was not conducted appropriately",
         "It only matters for publication",
         "It determines funding"
@@ -3422,9 +3422,9 @@ export const questions = {
       question: "What do critical appraisal checklists help determine?",
       options: [
         "The cost of implementing findings",
-        "The study\'s validity by exploring strengths and weaknesses",
-        "The author\'s reputation",
-        "The journal\'s ranking"
+        "The study's validity by exploring strengths and weaknesses",
+        "The author's reputation",
+        "The journal's ranking"
       ],
       correct: "B"
     },
@@ -3434,8 +3434,8 @@ export const questions = {
       options: [
         "The publication date",
         "Whether results or potential benefits/harms are important",
-        "The author\'s credentials",
-        "The journal\'s subscription cost"
+        "The author's credentials",
+        "The journal's subscription cost"
       ],
       correct: "B"
     },
@@ -3521,7 +3521,7 @@ export const questions = {
       question: "What should be considered when reviewing results from the lens of the client?",
       options: [
         "Only the statistics",
-        "The client\'s values, preferences, costs, benefits, risks and circumstances",
+        "The client's values, preferences, costs, benefits, risks and circumstances",
         "Only the research design",
         "Only the clinical findings"
       ],
@@ -3622,7 +3622,7 @@ export const questions = {
         "Ignoring results",
         "Self-assessing results of their actions to enhance abilities",
         "Avoiding self-evaluation",
-        "Relying on others\' opinions only"
+        "Relying on others' opinions only"
       ],
       correct: "B"
     },
@@ -3674,9 +3674,9 @@ export const questions = {
       id: 13387,
       question: "What advantage does electronic searching across hundreds of journals provide?",
       options: [
-        "It\'s entertaining",
+        "It's entertaining",
         "It overcomes challenges of finding relevant evidence when needed",
-        "It\'s easier than reading",
+        "It's easier than reading",
         "It eliminates clinical judgment"
       ],
       correct: "B"
@@ -3705,7 +3705,7 @@ export const questions = {
     },
     {
       id: 13390,
-      question: "What should be documented in the patient\'s record according to legal and ethical issues?",
+      question: "What should be documented in the patient's record according to legal and ethical issues?",
       options: [
         "Only treatment provided",
         "Treatment planning options and care/interventions provided",
@@ -3840,7 +3840,7 @@ export const questions = {
       question: "Where can ADA clinical practice guidelines be found?",
       options: [
         "Only in journals",
-        "On the ADA\'s Center for Evidence-Based Dentistry website",
+        "On the ADA's Center for Evidence-Based Dentistry website",
         "Only in textbooks",
         "Not publicly available"
       ],
@@ -3927,7 +3927,7 @@ export const questions = {
     },
     {
       id: 13401,
-      question: "Which ethical principle is based on respect for persons and an individual\'s right to self-determination?",
+      question: "Which ethical principle is based on respect for persons and an individual's right to self-determination?",
       options: [
         "Beneficence",
         "Justice",
@@ -4018,7 +4018,7 @@ export const questions = {
       question: "Accountability in dental hygiene refers to:",
       options: [
         "Financial responsibility only",
-        "People\'s ability to answer for their actions",
+        "People's ability to answer for their actions",
         "Insurance coverage requirements",
         "License renewal processes"
       ],
@@ -4105,8 +4105,8 @@ export const questions = {
       id: 13417,
       question: "In the ethical decision-making process, what should be considered when identifying alternatives?",
       options: [
-        "Only the client\'s interests",
-        "Only the professional\'s interests",
+        "Only the client's interests",
+        "Only the professional's interests",
         "The obligations to the client, others involved, and personal beliefs",
         "Only office policies"
       ],
@@ -4215,7 +4215,7 @@ export const questions = {
       id: 13427,
       question: "What should be included in a letter terminating the practitioner-patient relationship?",
       options: [
-        "Detailed criticism of the patient\'s behavior",
+        "Detailed criticism of the patient's behavior",
         "Only the termination date",
         "Reason for termination, time frame, emergency care availability, and records transfer information",
         "Financial penalties for the patient"
@@ -4238,7 +4238,7 @@ export const questions = {
       question: "What is a tort in legal terminology?",
       options: [
         "A type of contract",
-        "Interference with another\'s right to enjoy person, property, or privacy",
+        "Interference with another's right to enjoy person, property, or privacy",
         "A criminal offense only",
         "A business agreement"
       ],
@@ -4446,7 +4446,7 @@ export const questions = {
       id: 13448,
       question: "What should be documented in an informed refusal?",
       options: [
-        "Only the patient\'s signature",
+        "Only the patient's signature",
         "The recommendation, consequences of refusal, and patient understanding",
         "Financial information only",
         "Staff opinions about the patient"
@@ -4491,7 +4491,7 @@ export const questions = {
       question: "What is defamation?",
       options: [
         "Honest criticism",
-        "Communication that injures an individual\'s reputation",
+        "Communication that injures an individual's reputation",
         "Professional disagreement",
         "Negative online reviews"
       ],
@@ -4708,7 +4708,7 @@ export const questions = {
     },
     {
       id: 13472,
-      question: "Why is patient education the dental hygienist\'s primary legal responsibility?",
+      question: "Why is patient education the dental hygienist's primary legal responsibility?",
       options: [
         "It generates more revenue",
         "It minimizes misunderstandings and reduces likelihood of lawsuits",
@@ -4757,7 +4757,7 @@ export const questions = {
         "Only the date of service",
         "Nature of care, area treated, equipment used, and any complications",
         "Only charges for the visit",
-        "Only the provider\'s name"
+        "Only the provider's name"
       ],
       correct: "B"
     },
@@ -4986,7 +4986,7 @@ export const questions = {
       question: "Societal trust obligates providers to:",
       options: [
         "Maximize profits",
-        "Follow the profession\'s highest ideals and standards",
+        "Follow the profession's highest ideals and standards",
         "Compete aggressively",
         "Minimize patient contact"
       ],
@@ -5516,7 +5516,7 @@ export const questions = {
       question: "What does autonomy mean in the context of portfolio ethics?",
       options: [
         "Working independently without supervision",
-        "Patients\' right to self-determination and informed consent for inclusion in artifacts",
+        "Patients' right to self-determination and informed consent for inclusion in artifacts",
         "Creating portfolios without guidance",
         "Ignoring institutional requirements"
       ],
@@ -5549,7 +5549,7 @@ export const questions = {
       question: "What can serve as a guideline for demonstrating ongoing clinical competencies?",
       options: [
         "Personal preferences",
-        "ADHA\'s Standards for Clinical Dental Hygiene Practice",
+        "ADHA's Standards for Clinical Dental Hygiene Practice",
         "Social media trends",
         "Patient requests"
       ],
@@ -5615,7 +5615,7 @@ export const questions = {
       question: "In the pediatric patient reflection example, what did the student realize they needed?",
       options: [
         "Better technical skills",
-        "Advance preparation regarding patient\'s oral health status and access to care issues",
+        "Advance preparation regarding patient's oral health status and access to care issues",
         "More time for lunch",
         "A different career path"
       ],
@@ -5887,7 +5887,7 @@ export const questions = {
     },
     {
       id: 13576,
-      question: "What fundamental course is mandatory in Minnesota\'s professional development portfolio?",
+      question: "What fundamental course is mandatory in Minnesota's professional development portfolio?",
       options: [
         "Advanced periodontics",
         "Infection control",
@@ -5920,7 +5920,7 @@ export const questions = {
     },
     {
       id: 13579,
-      question: "What is required for portfolio submission in Minnesota\'s renewal process?",
+      question: "What is required for portfolio submission in Minnesota's renewal process?",
       options: [
         "Annual mandatory submission",
         "Submission only if randomly audited",
@@ -5933,7 +5933,7 @@ export const questions = {
       id: 13580,
       question: "What should reflection help practitioners identify for ongoing professional development?",
       options: [
-        "Competitors\' weaknesses",
+        "Competitors' weaknesses",
         "Gaps in knowledge and areas needing improvement",
         "Ways to reduce practice hours",
         "Methods to increase fees"
@@ -6246,7 +6246,7 @@ export const questions = {
         "Only attending continuing education courses",
         "Identifying career goals and learning new knowledge and skills",
         "Changing jobs frequently",
-        "Following the same career path throughout one\'s career"
+        "Following the same career path throughout one's career"
       ],
       correct: "B"
     },
@@ -6254,7 +6254,7 @@ export const questions = {
       id: 13603,
       question: "What is self-assessment used for in professional development?",
       options: [
-        "To criticize one\'s weaknesses",
+        "To criticize one's weaknesses",
         "To become self-aware by identifying skills, values, and preferences",
         "To compare oneself to colleagues",
         "To determine salary requirements"
@@ -6527,7 +6527,7 @@ export const questions = {
     },
     {
       id: 13628,
-      question: "The cover letter is the applicant\'s:",
+      question: "The cover letter is the applicant's:",
       options: [
         "Last contact with the employer",
         "Optional communication",
@@ -6727,8 +6727,8 @@ export const questions = {
       id: 13646,
       question: "Regarding social media, employers and staff members are likely to:",
       options: [
-        "Ignore candidates\' social media",
-        "Search for job candidates\' social media sites",
+        "Ignore candidates' social media",
+        "Search for job candidates' social media sites",
         "Not have access to social media",
         "Only look at LinkedIn"
       ],
@@ -7000,7 +7000,7 @@ export const questions = {
     },
     {
       id: 13671,
-      question: "The ADHP concept was passed by which organization\'s House of Delegates in 2004?",
+      question: "The ADHP concept was passed by which organization's House of Delegates in 2004?",
       options: [
         "ADA",
         "ADHA",
@@ -7092,7 +7092,7 @@ export const questions = {
       options: [
         "American Dental Health Association",
         "Advanced Dental Hygiene Academy",
-        "American Dental Hygienists\' Association",
+        "American Dental Hygienists' Association",
         "Associate Dental Healthcare Alliance"
       ],
       correct: "C"
@@ -7113,7 +7113,7 @@ export const questions = {
       question: "For positions in education, applicants should visit:",
       options: [
         "Only job search websites",
-        "Educational institutions\' websites and public health organizations",
+        "Educational institutions' websites and public health organizations",
         "Social media exclusively",
         "Dental offices only"
       ],
@@ -7214,7 +7214,7 @@ export const questions = {
         "Never contact references",
         "Touch base with anyone on their reference list",
         "Surprise references with calls from employers",
-        "Only list references who don\'t know them well"
+        "Only list references who don't know them well"
       ],
       correct: "B"
     },
@@ -7313,7 +7313,7 @@ export const questions = {
         "Salary of other employees",
         "Intraoffice dynamics and communication",
         "Patient financial information",
-        "Employer\'s personal life"
+        "Employer's personal life"
       ],
       correct: "B"
     },
@@ -7344,7 +7344,7 @@ export const questions = {
       question: "To guide job selection, consider creating a list of:",
       options: [
         "All available positions",
-        "Five \"must-haves\" and \"can\'t-haves\" in a job",
+        "Five \"must-haves\" and \"can't-haves\" in a job",
         "Every possible benefit",
         "Reasons to reject offers"
       ],
@@ -7363,7 +7363,7 @@ export const questions = {
     },
     {
       id: 13704,
-      question: "The US Department of Labor\'s Bureau of Labor Statistics can be visited to:",
+      question: "The US Department of Labor's Bureau of Labor Statistics can be visited to:",
       options: [
         "Apply for jobs",
         "Compare salary with national, state, or local standards",
@@ -7519,10 +7519,10 @@ export const questions = {
       id: 13718,
       question: "Degree completion programs are designed for dental hygienists with:",
       options: [
-        "Bachelor\'s degrees seeking master\'s",
-        "Associate\'s degrees seeking baccalaureate degrees",
-        "Master\'s degrees seeking doctorates",
-        "No degree seeking associate\'s"
+        "Bachelor's degrees seeking master's",
+        "Associate's degrees seeking baccalaureate degrees",
+        "Master's degrees seeking doctorates",
+        "No degree seeking associate's"
       ],
       correct: "B"
     },
@@ -7541,9 +7541,9 @@ export const questions = {
       id: 13720,
       question: "An ADHP earns what level of degree?",
       options: [
-        "Associate\'s degree",
-        "Bachelor\'s degree",
-        "Master\'s degree",
+        "Associate's degree",
+        "Bachelor's degree",
+        "Master's degree",
         "Doctoral degree"
       ],
       correct: "C"
@@ -7610,7 +7610,7 @@ export const questions = {
         "Avoiding self-assessment",
         "Remaining in the same position indefinitely",
         "Continuous self-assessment and adaptation",
-        "Following others\' career paths"
+        "Following others' career paths"
       ],
       correct: "C"
     }
@@ -7673,7 +7673,7 @@ export const questions = {
     },
     {
       id: 13705,
-      question: "The American Dental Hygienists\' Association\'s Standards for Clinical Dental Hygiene Practice should be:",
+      question: "The American Dental Hygienists' Association's Standards for Clinical Dental Hygiene Practice should be:",
       options: [
         "Reviewed only during hiring",
         "Ignored in favor of office policies",
@@ -7697,7 +7697,7 @@ export const questions = {
       id: 13707,
       question: "Which of the following is NOT typically discussed in a morning huddle?",
       options: [
-        "Today\'s schedule review",
+        "Today's schedule review",
         "Previous day resolution",
         "Annual strategic planning",
         "Marketing opportunities"
@@ -7820,7 +7820,7 @@ export const questions = {
       options: [
         "Health histories",
         "Signed HIPAA form",
-        "Patient\'s financial information from other providers",
+        "Patient's financial information from other providers",
         "Correspondence with specialists"
       ],
       correct: "C"
@@ -8159,7 +8159,7 @@ export const questions = {
       id: 13749,
       question: "Dental hygienists should respond to patient questions about treatment with:",
       options: [
-        "\"I don\'t know, ask the dentist\"",
+        "\"I don't know, ask the dentist\"",
         "Complete avoidance of the topic",
         "Comprehensive education and information",
         "Only insurance information"
@@ -8215,7 +8215,7 @@ export const questions = {
       question: "Morning huddles should include discussion of:",
       options: [
         "Only emergency patients",
-        "Previous day and today\'s schedule",
+        "Previous day and today's schedule",
         "Annual financial reports",
         "Employee personal lives"
       ],
@@ -8237,7 +8237,7 @@ export const questions = {
       question: "Conflict resolution should include all of the following steps EXCEPT:",
       options: [
         "Explaining your perception",
-        "Showing respect for others\' opinions",
+        "Showing respect for others' opinions",
         "Escalating to shouting immediately",
         "Offering compromise"
       ],
@@ -8250,7 +8250,7 @@ export const questions = {
         "Blaming others for mistakes",
         "Obligation to account for actions and accept responsibility",
         "Avoiding all responsibility",
-        "Only the manager\'s concern"
+        "Only the manager's concern"
       ],
       correct: "B"
     },
@@ -8534,7 +8534,7 @@ export const questions = {
       question: "Networked computers in dental practices should be stationed:",
       options: [
         "Only at the front desk",
-        "Only in the manager\'s office",
+        "Only in the manager's office",
         "In each treatment room and administrative workstation",
         "In the break room only"
       ],
@@ -9253,7 +9253,7 @@ export const questions = {
         "How it is obtained and what format is required",
         "Only verbal agreement",
         "No documentation",
-        "Patient\'s insurance information only"
+        "Patient's insurance information only"
       ],
       correct: "A"
     },
@@ -9402,12 +9402,12 @@ export const questions = {
     },
     {
       id: 13845,
-      question: "For synchronous visits, what must be documented regarding the patient\'s location?",
+      question: "For synchronous visits, what must be documented regarding the patient's location?",
       options: [
         "Nothing about location",
         "Only city name",
         "Location of patient during encounter (originating site)",
-        "Patient\'s home address only"
+        "Patient's home address only"
       ],
       correct: "C"
     },
@@ -9605,7 +9605,7 @@ export const questions = {
         "Phone description",
         "Written notes only",
         "Clinical and diagnostic data in electronic record",
-        "Patient\'s verbal report"
+        "Patient's verbal report"
       ],
       correct: "C"
     },
@@ -9702,7 +9702,7 @@ export const questions = {
       question: "Biometric monitoring devices could be linked to:",
       options: [
         "Social media",
-        "Patient\'s electronic dental record",
+        "Patient's electronic dental record",
         "Public websites",
         "Unsecured email"
       ],
@@ -9879,7 +9879,7 @@ export const questions = {
       options: [
         "Technology requirements",
         "Appointment preparation",
-        "Provider\'s personal information",
+        "Provider's personal information",
         "Consent process"
       ],
       correct: "C"
@@ -10353,7 +10353,7 @@ export const questions = {
     },
     {
       id: 13701,
-      question: "A dental hygienist is working with a 45-year-old patient who presents with generalized moderate periodontitis. The hygienist completes a comprehensive assessment and identifies the patient\'s specific oral health needs. According to the dental hygiene process of care, what is the next step after completing the assessment?",
+      question: "A dental hygienist is working with a 45-year-old patient who presents with generalized moderate periodontitis. The hygienist completes a comprehensive assessment and identifies the patient's specific oral health needs. According to the dental hygiene process of care, what is the next step after completing the assessment?",
       options: [
         "Implement scaling and root planing procedures immediately to address the periodontal condition",
         "Create a dental hygiene diagnosis identifying health behaviors, attitudes, and oral healthcare needs",
@@ -10386,7 +10386,7 @@ export const questions = {
     },
     {
       id: 13704,
-      question: "A 28-year-old patient asks the dental hygienist, \"Why do I need to see you separately? Can\'t the dentist just clean my teeth during my exam?\" Which response best educates the patient about the professional role of the dental hygienist?",
+      question: "A 28-year-old patient asks the dental hygienist, \"Why do I need to see you separately? Can't the dentist just clean my teeth during my exam?\" Which response best educates the patient about the professional role of the dental hygienist?",
       options: [
         "Dental hygienists provide preventive and therapeutic care that maintains oral wellness and contributes to overall health",
         "Dentists are too busy with complex procedures, so hygienists handle the routine cleaning appointments",
@@ -10423,7 +10423,7 @@ export const questions = {
       options: [
         "Dental hygiene actions that reflect preventive oral healthcare interventions",
         "Health/oral health status that fluctuates over time based on multiple factors",
-        "Environment factors that affect the client\'s attainment of optimal oral health",
+        "Environment factors that affect the client's attainment of optimal oral health",
         "Client characteristics that influence the dental hygiene diagnosis process"
       ],
       correct: "C"
@@ -10441,11 +10441,11 @@ export const questions = {
     },
     {
       id: 13709,
-      question: "A dental hygienist in Colorado wants to establish her own mobile dental hygiene practice to serve nursing home residents. She reviews her state\'s practice act. As of 2023, how many US states provide legal avenues for dental hygienists to provide patient care outside the private dental office without the physical presence of a dentist?",
+      question: "A dental hygienist in Colorado wants to establish her own mobile dental hygiene practice to serve nursing home residents. She reviews her state's practice act. As of 2023, how many US states provide legal avenues for dental hygienists to provide patient care outside the private dental office without the physical presence of a dentist?",
       options: [
         "12 states have enacted legislation allowing direct access to dental hygiene care",
         "25 states permit independent practice with collaborative agreements only",
-        "42 states provide legal avenues for care without dentist\'s physical presence",
+        "42 states provide legal avenues for care without dentist's physical presence",
         "All 50 states require direct supervision by a licensed dentist for all services"
       ],
       correct: "C"
@@ -10518,7 +10518,7 @@ export const questions = {
     },
     {
       id: 13716,
-      question: "A pregnant patient at 12 weeks gestation presents to her obstetrician\'s office where a dental hygienist is colocated to provide preventive oral healthcare. What is the primary rationale for integrating dental hygienists into obstetrics practice settings?",
+      question: "A pregnant patient at 12 weeks gestation presents to her obstetrician's office where a dental hygienist is colocated to provide preventive oral healthcare. What is the primary rationale for integrating dental hygienists into obstetrics practice settings?",
       options: [
         "Obstetricians lack the training to identify basic oral health problems during pregnancy",
         "Hormonal changes increase inflammation risk, and periodontal disease links to preterm birth",
@@ -10540,12 +10540,12 @@ export const questions = {
     },
     {
       id: 13718,
-      question: "During a continuing care appointment, a dental hygienist identifies new areas of gingival inflammation and increased probing depths since the patient\'s last visit. Which step of the dental hygiene process involves assessing oral health conditions using measurable outcomes?",
+      question: "During a continuing care appointment, a dental hygienist identifies new areas of gingival inflammation and increased probing depths since the patient's last visit. Which step of the dental hygiene process involves assessing oral health conditions using measurable outcomes?",
       options: [
-        "Documentation - recording all findings accurately in the patient\'s permanent record",
+        "Documentation - recording all findings accurately in the patient's permanent record",
         "Implementation - delivering the planned dental hygiene services to address the needs",
         "Evaluation - assessing conditions and behaviors by collecting and interpreting outcome data",
-        "Planning - establishing realistic goals and outcomes based on the patient\'s needs"
+        "Planning - establishing realistic goals and outcomes based on the patient's needs"
       ],
       correct: "C"
     },
@@ -10584,7 +10584,7 @@ export const questions = {
     },
     {
       id: 13722,
-      question: "The American Dental Hygienists\' Association defines the discipline of dental hygiene. A student is studying the official definition. According to ADHA, how is the discipline of dental hygiene defined?",
+      question: "The American Dental Hygienists' Association defines the discipline of dental hygiene. A student is studying the official definition. According to ADHA, how is the discipline of dental hygiene defined?",
       options: [
         "The clinical practice of removing calculus and stains from teeth in private dental offices",
         "The art and science of preventive oral healthcare and management of behaviors",
@@ -10595,7 +10595,7 @@ export const questions = {
     },
     {
       id: 13723,
-      question: "A dental hygienist is reviewing the vision statement of the American Dental Hygienists\' Association to understand the profession\'s direction. What does ADHA\'s vision statement call for regarding the integration of dental hygienists?",
+      question: "A dental hygienist is reviewing the vision statement of the American Dental Hygienists' Association to understand the profession's direction. What does ADHA's vision statement call for regarding the integration of dental hygienists?",
       options: [
         "Integration into private dental practices as support staff for restorative procedures",
         "Integration into insurance networks to improve reimbursement for preventive services",
@@ -10610,14 +10610,14 @@ export const questions = {
       options: [
         "1913 when Dr. Fones opened the first dental hygiene school in Connecticut",
         "1917 after completing her education and passing required examinations",
-        "1923 when the American Dental Hygienists\' Association was established",
+        "1923 when the American Dental Hygienists' Association was established",
         "1952 when all 50 states had licensed dental hygienists practicing"
       ],
       correct: "D"
     },
     {
       id: 13725,
-      question: "A dental hygienist is working in a long-term care facility collaborating with nurses\' aides and registered nurses to monitor residents\' oral health and provide preventive care. Which professional role of the dental hygienist is being demonstrated in this setting?",
+      question: "A dental hygienist is working in a long-term care facility collaborating with nurses' aides and registered nurses to monitor residents' oral health and provide preventive care. Which professional role of the dental hygienist is being demonstrated in this setting?",
       options: [
         "Clinician providing direct patient care while also functioning as public health professional",
         "Educator teaching facility staff while serving as administrator of the oral care program",
@@ -10650,7 +10650,7 @@ export const questions = {
     },
     {
       id: 13728,
-      question: "A dental hygiene program is developing curriculum competencies. The program director reviews ADEA\'s competency document. What is the purpose of ADEA Competencies for Entry into the Allied Dental Professions?",
+      question: "A dental hygiene program is developing curriculum competencies. The program director reviews ADEA's competency document. What is the purpose of ADEA Competencies for Entry into the Allied Dental Professions?",
       options: [
         "To describe abilities needed by entry-level hygienists to perform independently",
         "To establish continuing education requirements for license renewal nationwide",
@@ -10666,17 +10666,17 @@ export const questions = {
         "It demonstrates proper understanding of the roles of different dental team members",
         "It minimizes professional services and indicates lack of public awareness about dental hygiene",
         "It reflects appropriate terminology since dentists supervise all clinical care provided",
-        "It shows respect for the dentist\'s authority and the hierarchical practice structure"
+        "It shows respect for the dentist's authority and the hierarchical practice structure"
       ],
       correct: "B"
     },
     {
       id: 13730,
-      question: "The Canadian Dental Hygienists Association has developed a vision statement. A Canadian dental hygiene student is studying the organization\'s direction. What is the essence of CDHA\'s vision statement regarding dental hygienists\' role?",
+      question: "The Canadian Dental Hygienists Association has developed a vision statement. A Canadian dental hygiene student is studying the organization's direction. What is the essence of CDHA's vision statement regarding dental hygienists' role?",
       options: [
         "Dental hygienists educate and empower Canadians to embrace oral health for better overall well-being",
         "Dental hygienists provide auxiliary support to dentists to improve practice efficiency",
-        "Dental hygienists focus exclusively on children\'s oral health in school-based programs",
+        "Dental hygienists focus exclusively on children's oral health in school-based programs",
         "Dental hygienists serve as dental assistants with advanced training in prophylaxis procedures"
       ],
       correct: "A"
@@ -10721,7 +10721,7 @@ export const questions = {
         "To maximize revenue for state governments through licensing fees and penalties",
         "To determine qualification for licensure and ensure high standards of professional competence",
         "To restrict the number of dental hygienists to maintain high salaries for practitioners",
-        "To protect dentists from competition by limiting dental hygienists\' scope of practice"
+        "To protect dentists from competition by limiting dental hygienists' scope of practice"
       ],
       correct: "A"
     },
@@ -10732,7 +10732,7 @@ export const questions = {
         "Documentation is primarily for billing purposes to ensure insurance reimbursement",
         "Documentation provides continuity of care and serves as an accurate legal document",
         "Documentation is required only when treatment complications or adverse events occur",
-        "Documentation can be completed weeks after treatment as long as it\'s eventually recorded"
+        "Documentation can be completed weeks after treatment as long as it's eventually recorded"
       ],
       correct: "B"
     },
@@ -10742,14 +10742,14 @@ export const questions = {
       options: [
         "To eliminate all licensing requirements and allow anyone to practice dental hygiene",
         "To increase the ease of license portability, ultimately improving access to oral healthcare",
-        "To reduce dental hygienists\' salaries by increasing competition across state borders",
+        "To reduce dental hygienists' salaries by increasing competition across state borders",
         "To require dental hygienists to retake examinations each time they move to a new state"
       ],
       correct: "D"
     },
     {
       id: 13737,
-      question: "Vermont has enacted legislation creating a Dental Therapist workforce model. What is unique about Vermont\'s requirement for Dental Therapists?",
+      question: "Vermont has enacted legislation creating a Dental Therapist workforce model. What is unique about Vermont's requirement for Dental Therapists?",
       options: [
         "They must complete medical school before practicing as dental therapists",
         "They can practice independently without any dental hygiene education",
@@ -10826,7 +10826,7 @@ export const questions = {
     },
     {
       id: 13744,
-      question: "A pediatrician\'s office has hired a dental hygienist to complete oral assessments and apply fluoride varnish. Why is this interprofessional collaboration particularly important in pediatric settings?",
+      question: "A pediatrician's office has hired a dental hygienist to complete oral assessments and apply fluoride varnish. Why is this interprofessional collaboration particularly important in pediatric settings?",
       options: [
         "Pediatricians lack any knowledge of child development and growth patterns",
         "High caries rates in children and professional guidelines recommend oral screenings",
@@ -10881,7 +10881,7 @@ export const questions = {
     },
     {
       id: 13749,
-      question: "The National Dental Hygienists\' Association was founded in 1932 to address specific needs. Why was the National Dental Hygienists\' Association (NDHA) established?",
+      question: "The National Dental Hygienists' Association was founded in 1932 to address specific needs. Why was the National Dental Hygienists' Association (NDHA) established?",
       options: [
         "To create the first licensing examination for dental hygienists in the United States",
         "To address the needs and special challenges of minority dental hygienists",
@@ -10905,7 +10905,7 @@ export const questions = {
       id: 13751,
       question: "A dental hygienist obtains informed consent from a patient before beginning treatment. This is part of which step?",
       options: [
-        "Assessment when collecting comprehensive data about the patient\'s health status",
+        "Assessment when collecting comprehensive data about the patient's health status",
         "Dental hygiene diagnosis when identifying healthcare needs within scope of practice",
         "Planning when establishing goals and interventions in collaboration with the patient",
         "Implementation when delivering services based on the established care plan"
@@ -10916,7 +10916,7 @@ export const questions = {
       id: 13752,
       question: "The IFDH hosts an International Symposium on Dental Hygiene. A dental hygienist is interested in attending. How frequently does the IFDH House of Delegates normally meet?",
       options: [
-        "Annually at a conference hosted by the American Dental Hygienists\' Association",
+        "Annually at a conference hosted by the American Dental Hygienists' Association",
         "Every 2 years in conjunction with the International Symposium on Dental Hygiene",
         "Quarterly through virtual meetings to address urgent international issues",
         "Monthly to maintain consistent communication among member countries"
@@ -10951,18 +10951,18 @@ export const questions = {
       options: [
         "It shows that the process only applies to clinical settings with individual patients",
         "It demonstrates that the process is used to assess, diagnose, plan, and evaluate group programs",
-        "It proves that public health work doesn\'t require systematic processes like clinical care",
+        "It proves that public health work doesn't require systematic processes like clinical care",
         "It indicates that education programs bypass the evaluation step of the process"
       ],
       correct: "D"
     },
     {
       id: 13756,
-      question: "A dental hygiene student is learning about factors that influence a patient\'s oral health beyond clinical treatment. Which of the following is an example of an environmental factor in the dental hygiene metaparadigm?",
+      question: "A dental hygiene student is learning about factors that influence a patient's oral health beyond clinical treatment. Which of the following is an example of an environmental factor in the dental hygiene metaparadigm?",
       options: [
-        "The patient\'s current periodontal condition and presence of dental caries",
-        "The dental hygienist\'s clinical skills and knowledge of preventive techniques",
-        "The patient\'s socioeconomic status affecting ability to access care",
+        "The patient's current periodontal condition and presence of dental caries",
+        "The dental hygienist's clinical skills and knowledge of preventive techniques",
+        "The patient's socioeconomic status affecting ability to access care",
         "The specific dental hygiene interventions planned for the patient"
       ],
       correct: "C"
@@ -11002,7 +11002,7 @@ export const questions = {
     },
     {
       id: 13760,
-      question: "The CDHA publication serves as the official journal for Canadian dental hygienists. What is the name of the CDHA\'s official journal?",
+      question: "The CDHA publication serves as the official journal for Canadian dental hygienists. What is the name of the CDHA's official journal?",
       options: [
         "Journal of Dental Hygiene published by American association",
         "The Canadian Journal of Dental Hygiene for professional members",
@@ -11016,7 +11016,7 @@ export const questions = {
       question: "A patient asks why the dental hygienist needs to collect a health history and perform various assessments before treatment. Which statement best explains the importance of comprehensive assessment?",
       options: [
         "It is required by insurance companies before they will authorize any treatment",
-        "It identifies the patient\'s current status and provides basis for diagnosis and care planning",
+        "It identifies the patient's current status and provides basis for diagnosis and care planning",
         "It allows the hygienist to bill for additional services and increase appointment revenue",
         "It delays treatment long enough for the dentist to arrive and supervise all procedures"
       ],
@@ -11101,7 +11101,7 @@ export const questions = {
     },
     {
       id: 13769,
-      question: "The ADHA publishes an official journal for the dental hygiene profession. What is the name of ADHA\'s official publication?",
+      question: "The ADHA publishes an official journal for the dental hygiene profession. What is the name of ADHA's official publication?",
       options: [
         "The Journal of the American Dental Association for all dental professionals",
         "Journal of Dental Hygiene for dental hygiene professionals and researchers",
@@ -11134,7 +11134,7 @@ export const questions = {
     },
     {
       id: 13772,
-      question: "A state dental board can take action against a dental hygienist\'s license under certain circumstances. For which of the following reasons can a license be denied, revoked, or suspended?",
+      question: "A state dental board can take action against a dental hygienist's license under certain circumstances. For which of the following reasons can a license be denied, revoked, or suspended?",
       options: [
         "Incompetence, negligence, chemical dependency, illegal practice, or criminal misconduct",
         "Membership in professional organizations that advocate for expanded scope of practice",
@@ -11145,7 +11145,7 @@ export const questions = {
     },
     {
       id: 13773,
-      question: "The American Dental Education Association has developed competency documents for dental hygiene. What is the primary purpose of ADEA\'s competency documents?",
+      question: "The American Dental Education Association has developed competency documents for dental hygiene. What is the primary purpose of ADEA's competency documents?",
       options: [
         "To replace state licensing examinations with a national certification program",
         "To describe abilities needed at entry-level and inform accreditation bodies",
@@ -11194,7 +11194,7 @@ export const questions = {
         "Online certificates from unaccredited continuing education providers",
         "Dental hygiene licenses received in other states when requirements are met",
         "Work experience as a substitute for graduation from accredited programs",
-        "Dentists\' authority to grant licenses to hygienists working in their practices"
+        "Dentists' authority to grant licenses to hygienists working in their practices"
       ],
       correct: "B"
     },
@@ -11248,7 +11248,7 @@ export const questions = {
       options: [
         "Only the clinical findings from the oral examination and radiographs",
         "Age, gender, culture, lifestyle, oral health literacy, health beliefs, and socioeconomic status",
-        "Exclusively the patient\'s insurance coverage and ability to pay",
+        "Exclusively the patient's insurance coverage and ability to pay",
         "Only medical conditions that directly cause oral manifestations"
       ],
       correct: "D"
@@ -11257,7 +11257,7 @@ export const questions = {
       id: 13783,
       question: "According to current workforce data, dental hygienists are experiencing expanded opportunities in various settings. What is a key reason for expansion of dental hygiene workforce models?",
       options: [
-        "To reduce dental hygienists\' salaries by increasing competition for positions",
+        "To reduce dental hygienists' salaries by increasing competition for positions",
         "To improve access to preventive oral healthcare for vulnerable and underserved populations",
         "To eliminate the need for dentists in providing oral healthcare services",
         "To restrict dental hygiene practice to traditional private dental offices only"
@@ -11310,7 +11310,7 @@ export const questions = {
     },
     {
       id: 13788,
-      question: "CDHA\'s Practice Competencies and Standards document serves multiple purposes. What is the primary intended use of the practice competencies in this document?",
+      question: "CDHA's Practice Competencies and Standards document serves multiple purposes. What is the primary intended use of the practice competencies in this document?",
       options: [
         "By insurance companies to determine reimbursement rates for services",
         "By educators in curriculum development to define entry-level education outcomes",
@@ -11358,7 +11358,7 @@ export const questions = {
       options: [
         "The first dental hygiene license was granted to Irene Newman",
         "All 50 states in the United States had licensed dental hygienists",
-        "The American Dental Hygienists\' Association was officially established",
+        "The American Dental Hygienists' Association was officially established",
         "Dr. Fones opened the first dental hygiene school in Connecticut"
       ],
       correct: "A"
@@ -11444,7 +11444,7 @@ export const questions = {
   "2. Dental Hygiene Practice Models (Case Study)": [
     {
       id: 13900,
-      question: "Maria, a new dental hygienist, is learning about the discipline\'s foundational concepts. She understands that the metaparadigm includes four paradigm concepts that guide her practice. Which of the following BEST describes the four paradigm concepts of the dental hygiene metaparadigm?",
+      question: "Maria, a new dental hygienist, is learning about the discipline's foundational concepts. She understands that the metaparadigm includes four paradigm concepts that guide her practice. Which of the following BEST describes the four paradigm concepts of the dental hygiene metaparadigm?",
       options: [
         "Client, environment, health/oral health, and dental hygiene actions",
         "Assessment, diagnosis, planning, implementation, and evaluation",
@@ -11521,7 +11521,7 @@ export const questions = {
     },
     {
       id: 13907,
-      question: "A dental hygienist reads that oral healthcare maintains or improves the client\'s health on a continuum and ultimately maintains or improves quality of life. This statement BEST relates to which paradigm concept\'s definition?",
+      question: "A dental hygienist reads that oral healthcare maintains or improves the client's health on a continuum and ultimately maintains or improves quality of life. This statement BEST relates to which paradigm concept's definition?",
       options: [
         "The client concept emphasizing integrated, whole human beings",
         "The health/oral health concept on wellness-illness continuum",
@@ -11620,7 +11620,7 @@ export const questions = {
     },
     {
       id: 13916,
-      question: "A patient with partial dentures asks questions about proper cleaning and storage techniques. The dental hygienist provides demonstration and written instructions, then evaluates the patient\'s ability to perform the techniques. This intervention primarily addresses which human need?",
+      question: "A patient with partial dentures asks questions about proper cleaning and storage techniques. The dental hygienist provides demonstration and written instructions, then evaluates the patient's ability to perform the techniques. This intervention primarily addresses which human need?",
       options: [
         "Wholesome facial image by ensuring proper denture aesthetics",
         "Biologically sound dentition through maintaining prosthetic appliances",
@@ -11631,7 +11631,7 @@ export const questions = {
     },
     {
       id: 13917,
-      question: "According to the Dental Hygiene Human Needs Conceptual Model, what is the PRIMARY basis for the model\'s framework?",
+      question: "According to the Dental Hygiene Human Needs Conceptual Model, what is the PRIMARY basis for the model's framework?",
       options: [
         "The premise that human behavior is motivated by fulfillment of needs",
         "The belief that disease prevention is the foundation of practice",
@@ -11690,18 +11690,18 @@ export const questions = {
       options: [
         "Biological variables domain showing clinical disease presence",
         "Health perceptions domain reflecting subjective opinions about appearance",
-        "Symptom status domain illustrating patient\'s subjective well-being",
+        "Symptom status domain illustrating patient's subjective well-being",
         "Functional status domain indicating impaired psychological function"
       ],
       correct: "B"
     },
     {
       id: 13923,
-      question: "Using the Oral Health-Related Quality of Life Model, a dental hygienist assesses a patient\'s ability to perform physical oral functions such as chewing, speaking, and swallowing. This assessment primarily focuses on which domain?",
+      question: "Using the Oral Health-Related Quality of Life Model, a dental hygienist assesses a patient's ability to perform physical oral functions such as chewing, speaking, and swallowing. This assessment primarily focuses on which domain?",
       options: [
         "Health and preclinical disease domain related to wellness status",
         "Biological and physical clinical variables domain with findings",
-        "Symptom status domain regarding patient\'s subjective feelings",
+        "Symptom status domain regarding patient's subjective feelings",
         "Functional status domain concerning ability to perform tasks"
       ],
       correct: "D"
@@ -11721,7 +11721,7 @@ export const questions = {
       id: 13925,
       question: "A dental hygienist using the Oral Health-Related Quality of Life Model notes that a patient has Stage III periodontitis, bleeding upon probing, and radiographic bone loss. These findings are documented in which domain?",
       options: [
-        "Symptom status domain based on patient\'s reported discomfort",
+        "Symptom status domain based on patient's reported discomfort",
         "Functional status domain related to ability to maintain health",
         "Biological and physical clinical variables domain with assessments",
         "Health perceptions domain reflecting subjective health opinions"
@@ -11741,7 +11741,7 @@ export const questions = {
     },
     {
       id: 13927,
-      question: "According to the Oral Health-Related Quality of Life Model, sociocultural, environmental, and economic characteristics have what effect on the model\'s domains?",
+      question: "According to the Oral Health-Related Quality of Life Model, sociocultural, environmental, and economic characteristics have what effect on the model's domains?",
       options: [
         "They only influence the health and preclinical disease domain",
         "They influence and modify each domain throughout the model",
@@ -11757,7 +11757,7 @@ export const questions = {
         "It standardizes care so all patients receive identical interventions",
         "It dismisses patient beliefs that conflict with professional opinions",
         "It recognizes health perceptions influence quality of life differently",
-        "It requires patients to adopt the dental hygienist\'s health values"
+        "It requires patients to adopt the dental hygienist's health values"
       ],
       correct: "C"
     },
@@ -11776,9 +11776,9 @@ export const questions = {
       id: 13930,
       question: "The Oral Health-Related Quality of Life Model emphasizes which approach to dental hygiene care planning?",
       options: [
-        "Care plan emerges from the dental hygienist\'s clinical diagnoses only",
+        "Care plan emerges from the dental hygienist's clinical diagnoses only",
         "Care plan is driven by insurance coverage and reimbursement policies",
-        "Care plan emerges from patient\'s perceptions relating to quality of life",
+        "Care plan emerges from patient's perceptions relating to quality of life",
         "Care plan follows standardized protocols regardless of patient input"
       ],
       correct: "C"
@@ -11807,11 +11807,11 @@ export const questions = {
     },
     {
       id: 13933,
-      question: "Pia Tran states that she and her husband do not believe in fluoride use. Using the Client Self-Care Commitment Model, what should the dental hygienist\'s INITIAL response be?",
+      question: "Pia Tran states that she and her husband do not believe in fluoride use. Using the Client Self-Care Commitment Model, what should the dental hygienist's INITIAL response be?",
       options: [
         "Refuse to provide care until the patient agrees to fluoride therapy",
-        "Dismiss the patient\'s beliefs and insist on fluoride use immediately",
-        "Accept the patient\'s perspective without judgment and remain open",
+        "Dismiss the patient's beliefs and insist on fluoride use immediately",
+        "Accept the patient's perspective without judgment and remain open",
         "Refer the patient to another provider who shares similar beliefs"
       ],
       correct: "C"
@@ -11821,7 +11821,7 @@ export const questions = {
       question: "In the Client Self-Care Commitment Model, the \"Initiation Domain\" involves which PRIMARY activity?",
       options: [
         "Implementing the dental hygiene treatment plan with interventions",
-        "Assessing the patient\'s pre-existing beliefs, values, and self-care methods",
+        "Assessing the patient's pre-existing beliefs, values, and self-care methods",
         "Negotiating self-care practices between hygienist and patient as partners",
         "Evaluating whether the patient achieved the established treatment goals"
       ],
@@ -11832,7 +11832,7 @@ export const questions = {
       question: "During the \"Assessment Domain\" of the Client Self-Care Commitment Model, how should the dental hygienist interact with the patient?",
       options: [
         "Use closed-ended questions to quickly gather standardized information",
-        "Share the dental hygienist\'s explanatory model before hearing patient\'s",
+        "Share the dental hygienist's explanatory model before hearing patient's",
         "Control patient responses to ensure they align with evidence-based practice",
         "Ask open-ended questions with sincere, respectful, and attentive listening"
       ],
@@ -11840,10 +11840,10 @@ export const questions = {
     },
     {
       id: 13936,
-      question: "A patient does not accept the dental hygienist\'s explanation about fluoride benefits despite detailed education. According to the Client Self-Care Commitment Model, what should the dental hygienist do?",
+      question: "A patient does not accept the dental hygienist's explanation about fluoride benefits despite detailed education. According to the Client Self-Care Commitment Model, what should the dental hygienist do?",
       options: [
         "Refuse to provide care until the patient accepts fluoride therapy",
-        "Make the patient\'s priorities become the dental hygienist\'s priorities",
+        "Make the patient's priorities become the dental hygienist's priorities",
         "Document that the patient is non-compliant and terminate care relationship",
         "Continue to pressure the patient until they agree to use fluoride"
       ],
@@ -11854,7 +11854,7 @@ export const questions = {
       question: "In the \"Negotiation Domain\" of the Client Self-Care Commitment Model, the dental hygienist and patient become co-therapists. What does this relationship require?",
       options: [
         "The dental hygienist leads the patient to predetermined treatment decisions",
-        "The patient must defer to the dental hygienist\'s superior knowledge always",
+        "The patient must defer to the dental hygienist's superior knowledge always",
         "Honest and open negotiation of self-care practices and treatment options",
         "The dental hygienist makes all decisions without patient input needed"
       ],
@@ -11873,12 +11873,12 @@ export const questions = {
     },
     {
       id: 13939,
-      question: "According to the Client Self-Care Commitment Model, after negotiation occurs and the client commits to goals, what is the dental hygienist\'s PRIMARY role?",
+      question: "According to the Client Self-Care Commitment Model, after negotiation occurs and the client commits to goals, what is the dental hygienist's PRIMARY role?",
       options: [
         "Force compliance with goals through repeated persuasion techniques",
-        "Abandon the client if they don\'t follow through with commitments",
-        "Support the client\'s choices and help them achieve their selected goals",
-        "Take over decision-making if the client\'s goals differ from recommendations"
+        "Abandon the client if they don't follow through with commitments",
+        "Support the client's choices and help them achieve their selected goals",
+        "Take over decision-making if the client's goals differ from recommendations"
       ],
       correct: "C"
     },
@@ -11888,7 +11888,7 @@ export const questions = {
       options: [
         "The hygienist evaluates outcomes without patient input or involvement",
         "The patient self-reports practices and progress toward achieving goals",
-        "The dentist reviews the hygienist\'s care and makes final decisions",
+        "The dentist reviews the hygienist's care and makes final decisions",
         "Standardized tests are administered to measure behavioral compliance"
       ],
       correct: "B"
@@ -11917,12 +11917,12 @@ export const questions = {
     },
     {
       id: 13943,
-      question: "Which statement BEST describes the dental hygienist\'s approach when using the Client Self-Care Commitment Model?",
+      question: "Which statement BEST describes the dental hygienist's approach when using the Client Self-Care Commitment Model?",
       options: [
         "The hygienist determines what the client \"should\" do and expects compliance",
         "The hygienist empowers clients to commit to self-selected care behaviors",
         "The hygienist follows standardized protocols without individualizing care",
-        "The hygienist makes decisions without considering the client\'s perspective"
+        "The hygienist makes decisions without considering the client's perspective"
       ],
       correct: "B"
     },
@@ -11932,17 +11932,17 @@ export const questions = {
       options: [
         "Responsibility for oral health through diet and oral hygiene education",
         "Wholesome facial image by discussing aesthetic concerns present",
-        "Protection from health risks by ensuring blood thinners won\'t cause bleeding",
+        "Protection from health risks by ensuring blood thinners won't cause bleeding",
         "Conceptualization and understanding connection between oral-systemic health"
       ],
       correct: "C"
     },
     {
       id: 13945,
-      question: "A patient expresses concern about her children\'s \"black spots\" on teeth but doesn\'t use fluoride. Using BOTH the Human Needs Model and Client Self-Care Commitment Model, what is the BEST approach?",
+      question: "A patient expresses concern about her children's \"black spots\" on teeth but doesn't use fluoride. Using BOTH the Human Needs Model and Client Self-Care Commitment Model, what is the BEST approach?",
       options: [
         "Refuse care until the patient agrees to fluoride for the children",
-        "Assess the patient\'s fluoride beliefs while addressing caries concerns",
+        "Assess the patient's fluoride beliefs while addressing caries concerns",
         "Immediately schedule the children for restorative treatment only",
         "Document parental neglect and report to child protective services"
       ],
@@ -11952,9 +11952,9 @@ export const questions = {
       id: 13946,
       question: "Pia Tran has coffee stains motivating her appointment, but also has white spot lesions, low salivary flow, and rolled gingival margins. Using the Oral Health-Related Quality of Life Model, how should the hygienist approach care planning?",
       options: [
-        "Address only the coffee stains since that\'s the patient\'s stated concern",
-        "Ignore the patient\'s aesthetic concerns and focus solely on disease",
-        "Integrate patient\'s perceptions with clinical findings in the care plan",
+        "Address only the coffee stains since that's the patient's stated concern",
+        "Ignore the patient's aesthetic concerns and focus solely on disease",
+        "Integrate patient's perceptions with clinical findings in the care plan",
         "Postpone addressing the stains until all disease is completely resolved"
       ],
       correct: "C"
@@ -11963,7 +11963,7 @@ export const questions = {
       id: 13947,
       question: "A patient with Stage III periodontitis reports no symptoms and no functional impairment. How would the Oral Health-Related Quality of Life Model and Human Needs Model BOTH contribute to care planning?",
       options: [
-        "Both models would ignore the patient\'s lack of symptoms entirely",
+        "Both models would ignore the patient's lack of symptoms entirely",
         "OHRQL assesses perception; Human Needs identifies skin/mucous deficit",
         "Both models require treatment postponement until symptoms appear",
         "Only clinical findings matter; patient perceptions are irrelevant"
@@ -11975,7 +11975,7 @@ export const questions = {
       question: "Mr. Thompson presents with fear of dental treatment and painful gingivitis. Using the Human Needs Model, which approach demonstrates understanding of simultaneously meeting multiple needs?",
       options: [
         "Addressing freedom from fear while also providing pain relief measures",
-        "Treating only the gingivitis and ignoring the patient\'s fear completely",
+        "Treating only the gingivitis and ignoring the patient's fear completely",
         "Postponing all treatment until the patient overcomes their fear",
         "Referring the patient for psychological counseling before providing care"
       ],
@@ -12032,7 +12032,7 @@ export const questions = {
         "ADHA identifies oral health needs; Human Needs identifies unmet human needs",
         "Both definitions are identical in scope and application to practice",
         "ADHA focuses on human needs; Human Needs focuses on diseases",
-        "Human Needs doesn\'t include diagnosis as a step in the process"
+        "Human Needs doesn't include diagnosis as a step in the process"
       ],
       correct: "A"
     },
@@ -12159,7 +12159,7 @@ export const questions = {
     },
     {
       id: 13965,
-      question: "Dental hygienists\' scope of practice has evolved to include which activities in many jurisdictions?",
+      question: "Dental hygienists' scope of practice has evolved to include which activities in many jurisdictions?",
       options: [
         "Local anesthetic administration and prescribing medications for some",
         "Performing surgical extractions and complex restorative procedures",
@@ -12192,7 +12192,7 @@ export const questions = {
     },
     {
       id: 13968,
-      question: "A dental hygienist recognizes that oral health literacy strongly influences a client\'s ability to make appropriate health decisions. This recognition MOST relates to which human need?",
+      question: "A dental hygienist recognizes that oral health literacy strongly influences a client's ability to make appropriate health decisions. This recognition MOST relates to which human need?",
       options: [
         "Protection from health risks requiring medical referral consultation",
         "Conceptualization and problem solving regarding oral health knowledge",
@@ -12216,7 +12216,7 @@ export const questions = {
       id: 13970,
       question: "When a dental hygienist encounters a patient with uncontrolled blood pressure, what action reflects the \"protection from health risks\" human need?",
       options: [
-        "Proceeding with all planned treatment since hygienists can\'t diagnose",
+        "Proceeding with all planned treatment since hygienists can't diagnose",
         "Referring for medical evaluation before providing dental hygiene care",
         "Ignoring vital signs if the patient reports feeling fine today",
         "Documenting findings but providing all planned care regardless"
@@ -12294,7 +12294,7 @@ export const questions = {
       question: "Edward Gilly perceives good health at age 84 despite multiple conditions and medications. Using both Human Needs and OHRQL Models, the dental hygienist should recognize which important consideration?",
       options: [
         "Patient perception is irrelevant; only clinical findings matter for care",
-        "Patient\'s self-perception of health influences his quality of life satisfaction",
+        "Patient's self-perception of health influences his quality of life satisfaction",
         "The patient is in denial and must be corrected immediately",
         "His age automatically determines he has poor quality of life"
       ],
@@ -12302,7 +12302,7 @@ export const questions = {
     },
     {
       id: 13978,
-      question: "A dental hygienist in a long-term care facility must consider facility policies, state regulations, residents\' functional status, and limited access to care. This scenario BEST illustrates which concept?",
+      question: "A dental hygienist in a long-term care facility must consider facility policies, state regulations, residents' functional status, and limited access to care. This scenario BEST illustrates which concept?",
       options: [
         "How one paradigm concept operates independently from all others",
         "How multiple paradigm concepts interact to influence dental hygiene actions",
@@ -12313,7 +12313,7 @@ export const questions = {
     },
     {
       id: 13979,
-      question: "When applying the Client Self-Care Commitment Model, a patient\'s priorities conflict with evidence-based recommendations. The hygienist accepts this and adjusts the care plan. This action demonstrates understanding of which principle?",
+      question: "When applying the Client Self-Care Commitment Model, a patient's priorities conflict with evidence-based recommendations. The hygienist accepts this and adjusts the care plan. This action demonstrates understanding of which principle?",
       options: [
         "Evidence-based practice should never be modified for any reason",
         "Patient autonomy and empowerment are central to the model",
@@ -12375,13 +12375,13 @@ export const questions = {
         "Integration of research evidence alone to determine appropriate patient treatment",
         "Integration of best research evidence with clinical expertise and patient values",
         "Following standardized protocols without considering individual patient circumstances",
-        "Making decisions based solely on the dental hygienist\'s personal experience"
+        "Making decisions based solely on the dental hygienist's personal experience"
       ],
       correct: "B"
     },
     {
       id: 14101,
-      question: "A patient asks her dental hygienist why she recommends a specific fluoride treatment. The hygienist explains that her recommendation is based on current research evidence, her clinical experience, and the patient\'s individual circumstances and preferences. This scenario illustrates which fundamental principle of EBDM?",
+      question: "A patient asks her dental hygienist why she recommends a specific fluoride treatment. The hygienist explains that her recommendation is based on current research evidence, her clinical experience, and the patient's individual circumstances and preferences. This scenario illustrates which fundamental principle of EBDM?",
       options: [
         "Evidence alone is never sufficient to make clinical decisions",
         "All published research has equal value in clinical decision making",
@@ -12405,7 +12405,7 @@ export const questions = {
       id: 14103,
       question: "A dental hygienist reads a study claiming that a new toothpaste prevents gingivitis. She wants to determine how much confidence to place in these findings. According to EBDM principles, what factor is MOST important in determining confidence in study results?",
       options: [
-        "The marketing claims made by the toothpaste manufacturer\'s advertisements",
+        "The marketing claims made by the toothpaste manufacturer's advertisements",
         "The number of years the principal investigator has practiced dentistry",
         "The level of evidence and how appropriately the study was conducted",
         "Whether the study was conducted in a country with similar regulations"
@@ -12550,7 +12550,7 @@ export const questions = {
       options: [
         "Only in printed textbooks published over 10 years ago",
         "On social media platforms and patient discussion forums",
-        "On the ADA\'s Center for Evidence-Based Dentistry website",
+        "On the ADA's Center for Evidence-Based Dentistry website",
         "Exclusively through paid subscription dental journal databases"
       ],
       correct: "C"
@@ -12637,7 +12637,7 @@ export const questions = {
       question: "Critical summaries include expert commentary on the strengths and weaknesses of how a study was conducted, strength of evidence, and clinical application. Where can dental hygienists find these critical summaries?",
       options: [
         "Only in personal collections of retired dental faculty members",
-        "In ADA\'s Center for Evidence-Based Dentistry and JADA journal",
+        "In ADA's Center for Evidence-Based Dentistry and JADA journal",
         "Exclusively through expensive proprietary database subscriptions",
         "On unregulated patient discussion forums and blogs"
       ],
@@ -12667,7 +12667,7 @@ export const questions = {
     },
     {
       id: 14127,
-      question: "Using the PICO process for Mrs. Sanchez\'s question about root caries prevention, the hygienist identifies: P = client concerned about root caries, I = chlorhexidine varnish, C = fluoride varnish, O = preventing root caries. What is the correctly formatted PICO question?",
+      question: "Using the PICO process for Mrs. Sanchez's question about root caries prevention, the hygienist identifies: P = client concerned about root caries, I = chlorhexidine varnish, C = fluoride varnish, O = preventing root caries. What is the correctly formatted PICO question?",
       options: [
         "\"Does chlorhexidine varnish prevent root caries better than nothing?\"",
         "\"For a client concerned about root caries, will chlorhexidine varnish compared to fluoride varnish be more effective in preventing root caries?\"",
@@ -12680,8 +12680,8 @@ export const questions = {
       id: 14128,
       question: "A dental hygienist wants to help Kevin, a 27-year-old who chews tobacco, quit the habit. Kevin asks whether Zyban or nicotine patch is more effective for chewing tobacco users. Which PICO component represents the \"I\" (Intervention) in this question?",
       options: [
-        "Kevin\'s 13 years of chewing tobacco use history",
-        "The precancerous lesions found in Kevin\'s mouth",
+        "Kevin's 13 years of chewing tobacco use history",
+        "The precancerous lesions found in Kevin's mouth",
         "Either Zyban or nicotine patch (the treatment being tested)",
         "Permanent tobacco cessation as the desired outcome"
       ],
@@ -12702,7 +12702,7 @@ export const questions = {
       id: 14130,
       question: "Kevin asks whether Zyban is more effective than nicotine patch for helping chewing tobacco users quit permanently. In this PICO question, what does the \"O\" (Outcome) represent?",
       options: [
-        "Kevin\'s occupation as a bartender in a smoking establishment",
+        "Kevin's occupation as a bartender in a smoking establishment",
         "The number of years Kevin has been using tobacco products",
         "Permanent tobacco cessation as the desired treatment result",
         "The cost comparison between Zyban and nicotine patches"
@@ -12716,13 +12716,13 @@ export const questions = {
         "The full PICO question written exactly as formulated with all words",
         "The primary intervention and comparison terms from the PICO question",
         "General terms like \"dentistry\" and \"prevention\" to get maximum results",
-        "The patient\'s name, age, and complete medical history details"
+        "The patient's name, age, and complete medical history details"
       ],
       correct: "B"
     },
     {
       id: 14132,
-      question: "A hygienist searches PubMed using \"fluoride varnish and chlorhexidine varnish\" and gets 157 citations. She wants to quickly find the highest level of evidence. What should she do NEXT using PubMed\'s features?",
+      question: "A hygienist searches PubMed using \"fluoride varnish and chlorhexidine varnish\" and gets 157 citations. She wants to quickly find the highest level of evidence. What should she do NEXT using PubMed's features?",
       options: [
         "Read all 157 abstracts in chronological order from oldest to newest",
         "Give up the search and rely solely on her previous experience",
@@ -12901,9 +12901,9 @@ export const questions = {
       question: "A study comparing two treatments finds P=0.001 (highly statistically significant) but the actual clinical difference is 0.01mm of attachment gain. What should the hygienist conclude?",
       options: [
         "This highly significant p-value guarantees important clinical benefits",
-        "Statistical significance alone doesn\'t determine practical clinical value",
+        "Statistical significance alone doesn't determine practical clinical value",
         "All treatments with P<0.05 should be immediately adopted into practice",
-        "The study must be flawed because significance and effect don\'t match"
+        "The study must be flawed because significance and effect don't match"
       ],
       correct: "B"
     },
@@ -12913,7 +12913,7 @@ export const questions = {
       options: [
         "Tell Mrs. Sanchez she must accept fluoride varnish with no discussion",
         "Share evidence, review caries risk, apply judgment, and include patient preferences",
-        "Ignore Mrs. Sanchez\'s preferences and base decisions only on research",
+        "Ignore Mrs. Sanchez's preferences and base decisions only on research",
         "Recommend against fluoride because one study had conflicting results"
       ],
       correct: "B"
@@ -12922,9 +12922,9 @@ export const questions = {
       id: 14150,
       question: "The ADA clinical recommendations state: \"patients at low risk of developing caries may not need additional topical fluorides other than OTC fluoridated toothpaste and fluoridated water.\" Mrs. Sanchez is at low risk but wants professional fluoride treatment. What is the MOST appropriate evidence-based approach?",
       options: [
-        "Refuse treatment because guidelines say low-risk patients don\'t need it",
+        "Refuse treatment because guidelines say low-risk patients don't need it",
         "Provide treatment while educating about her low risk and home care options",
-        "Tell her she\'s wasting money and insist she follow guidelines exactly",
+        "Tell her she's wasting money and insist she follow guidelines exactly",
         "Provide treatment without any discussion about risk or alternatives"
       ],
       correct: "B"
@@ -12933,10 +12933,10 @@ export const questions = {
       id: 14151,
       question: "Mrs. Sanchez decides to continue brushing with fluoridated toothpaste and opts for professionally-applied fluoride varnish at maintenance appointments. A similar low-risk patient chooses only OTC fluoridated toothpaste and water. Which statement about these different choices is MOST accurate?",
       options: [
-        "Only Mrs. Sanchez\'s choice is evidence-based; the other patient is wrong",
+        "Only Mrs. Sanchez's choice is evidence-based; the other patient is wrong",
         "Both choices can be evidence-based when incorporating patient preferences",
         "Neither choice is evidence-based because they differ from each other",
-        "The hygienist failed because both patients didn\'t make identical choices"
+        "The hygienist failed because both patients didn't make identical choices"
       ],
       correct: "B"
     },
@@ -12947,7 +12947,7 @@ export const questions = {
         "To ensure that evidence always perfectly matches every patient characteristic",
         "To determine if results would be helpful and applicable to the patient",
         "To prove that research is never useful in clinical practice situations",
-        "To justify ignoring evidence that doesn\'t exactly match the patient"
+        "To justify ignoring evidence that doesn't exactly match the patient"
       ],
       correct: "B"
     },
@@ -13010,7 +13010,7 @@ export const questions = {
       id: 14158,
       question: "Reflective practitioners continually self-assess results of their actions to enhance abilities and develop expertise. How does this reflective practice concept apply to EBDM skill development?",
       options: [
-        "Reflection is unnecessary once you\'ve read one article about EBDM",
+        "Reflection is unnecessary once you've read one article about EBDM",
         "Practice without reflection is trial-and-error rather than systematic learning",
         "Reflection should only occur after retiring from clinical practice",
         "Self-assessment interferes with efficient application of EBDM skills"
@@ -13019,7 +13019,7 @@ export const questions = {
     },
     {
       id: 14159,
-      question: "========================================= EVALUATING EBDM PERFORMANCE ========================================= After applying EBDM to answer Kevin\'s question about tobacco cessation, the hygienist evaluates her performance. Which question is MOST appropriate for evaluating the ASK step?",
+      question: "========================================= EVALUATING EBDM PERFORMANCE ========================================= After applying EBDM to answer Kevin's question about tobacco cessation, the hygienist evaluates her performance. Which question is MOST appropriate for evaluating the ASK step?",
       options: [
         "Were my questions focused and answerable using available evidence?",
         "Did I convince Kevin to quit tobacco immediately today?",
@@ -13041,7 +13041,7 @@ export const questions = {
     },
     {
       id: 14161,
-      question: "When evaluating EBDM performance, a hygienist asks: \"Was I able to integrate the appraisal with my expertise and patient\'s unique features to present findings in an unbiased manner?\" This question evaluates which EBDM step?",
+      question: "When evaluating EBDM performance, a hygienist asks: \"Was I able to integrate the appraisal with my expertise and patient's unique features to present findings in an unbiased manner?\" This question evaluates which EBDM step?",
       options: [
         "The ASSESS step evaluating the entire process effectiveness",
         "The ACCESS step about conducting efficient searches",
@@ -13056,7 +13056,7 @@ export const questions = {
       options: [
         "Accepting all study conclusions without questioning methodology",
         "Using critical appraisal checklists to evaluate study validity",
-        "Reading only the study title and assuming it\'s valid",
+        "Reading only the study title and assuming it's valid",
         "Selecting only studies that confirm pre-existing beliefs"
       ],
       correct: "B"
@@ -13090,13 +13090,13 @@ export const questions = {
         "Only information about treatments that were successfully completed",
         "Treatment options proposed, care provided, and all interventions documented",
         "Only information that will result in insurance reimbursement",
-        "Personal opinions about the patient\'s compliance and attitude"
+        "Personal opinions about the patient's compliance and attitude"
       ],
       correct: "B"
     },
     {
       id: 14166,
-      question: "========================================= COMPREHENSIVE APPLICATION SCENARIOS ========================================= A patient refuses dental radiographs because of a news report associating dental x-rays with brain tumors (meningiomas). Using EBDM principles, what is the hygienist\'s BEST first response?",
+      question: "========================================= COMPREHENSIVE APPLICATION SCENARIOS ========================================= A patient refuses dental radiographs because of a news report associating dental x-rays with brain tumors (meningiomas). Using EBDM principles, what is the hygienist's BEST first response?",
       options: [
         "Refuse to provide any care until the patient agrees to radiographs",
         "Tell the patient the news is \"fake news\" without providing evidence",
@@ -13118,22 +13118,22 @@ export const questions = {
     },
     {
       id: 14168,
-      question: "A patient saw on social media that oral cancer screening requires specific adjunctive devices. She questions the hygienist\'s thoroughness because no device was used. What EBDM principle does this scenario illustrate?",
+      question: "A patient saw on social media that oral cancer screening requires specific adjunctive devices. She questions the hygienist's thoroughness because no device was used. What EBDM principle does this scenario illustrate?",
       options: [
         "Social media always provides the highest quality evidence available",
         "Hygienists need EBDM skills to address patient questions and find evidence",
         "Adjunctive devices are always superior to thorough visual examination",
-        "Patients should never question the hygienist\'s clinical decisions"
+        "Patients should never question the hygienist's clinical decisions"
       ],
       correct: "B"
     },
     {
       id: 14169,
-      question: "After searching PubMed, a hygienist finds that evidence on chlorhexidine varnish for root caries ranges from \"weak\" to \"inconclusive\" to \"not recommended.\" Meanwhile, fluoride varnish evidence shows \"moderate effectiveness\" for high-risk adults. How should this evidence inform the hygienist\'s recommendations to Mrs. Sanchez?",
+      question: "After searching PubMed, a hygienist finds that evidence on chlorhexidine varnish for root caries ranges from \"weak\" to \"inconclusive\" to \"not recommended.\" Meanwhile, fluoride varnish evidence shows \"moderate effectiveness\" for high-risk adults. How should this evidence inform the hygienist's recommendations to Mrs. Sanchez?",
       options: [
         "Recommend chlorhexidine because it sounds more scientific and advanced",
         "Recommend fluoride based on stronger supporting evidence available",
-        "Recommend neither treatment because evidence isn\'t 100% conclusive",
+        "Recommend neither treatment because evidence isn't 100% conclusive",
         "Recommend both treatments simultaneously without considering evidence"
       ],
       correct: "B"
@@ -13142,16 +13142,16 @@ export const questions = {
       id: 14170,
       question: "A systematic review concludes that 1.1% NaF pastes/gels and 5% NaF varnishes are moderately effective in higher-risk adults. Mrs. Sanchez is at low risk. According to EBDM principles, how should the hygienist apply this evidence?",
       options: [
-        "Provide fluoride varnish since she\'s at low risk without any discussion",
+        "Provide fluoride varnish since she's at low risk without any discussion",
         "Discuss her low-risk status, evidence, professional recommendations, and her preferences",
-        "Tell her she cannot receive any fluoride since she\'s at low risk",
+        "Tell her she cannot receive any fluoride since she's at low risk",
         "Apply the evidence for high-risk patients exactly to her low-risk situation"
       ],
       correct: "B"
     },
     {
       id: 14171,
-      question: "The ADA\'s clinical recommendations on fluorides include strength categories from \"Strong - evidence strongly supports\" to \"Against - evidence does not support.\" Root caries prevention falls under \"Expert Opinion For\" due to lack/inconclusiveness of evidence. What does this classification mean for practice?",
+      question: "The ADA's clinical recommendations on fluorides include strength categories from \"Strong - evidence strongly supports\" to \"Against - evidence does not support.\" Root caries prevention falls under \"Expert Opinion For\" due to lack/inconclusiveness of evidence. What does this classification mean for practice?",
       options: [
         "Root caries prevention should never be attempted in any patient",
         "Recommendations exist but are based on expert opinion due to limited evidence",
@@ -13206,11 +13206,11 @@ export const questions = {
     },
     {
       id: 14176,
-      question: "Clinical practice guidelines change over time as evidence evolves. What does this underscore about a hygienist\'s professional responsibility?",
+      question: "Clinical practice guidelines change over time as evidence evolves. What does this underscore about a hygienist's professional responsibility?",
       options: [
         "The importance of keeping current with scientific literature continuously",
         "The futility of learning guidelines since they always change anyway",
-        "The superiority of older guidelines because they\'ve existed longest",
+        "The superiority of older guidelines because they've existed longest",
         "The need to ignore all guidelines and rely only on experience"
       ],
       correct: "A"
@@ -13308,7 +13308,7 @@ export const questions = {
       question: "Animal and laboratory studies are at the bottom of the evidence hierarchy. What is the PRIMARY reason for this placement?",
       options: [
         "Animal and laboratory research is never important for science",
-        "These studies don\'t involve human subjects, and EBP concerns humans",
+        "These studies don't involve human subjects, and EBP concerns humans",
         "Animals and laboratories cannot provide any useful information",
         "These studies are always poorly designed with invalid methodology"
       ],
@@ -13373,10 +13373,10 @@ export const questions = {
   "4. Legal and Ethical Practice (Case Study)": [
     {
       id: 14300,
-      question: "Sarah, a dental hygienist, accidentally discovers that her patient Mr. Johnson has been diagnosed with early-stage dementia during a conversation with his wife. The wife asks Sarah not to mention this to anyone in the office. According to the ADHA Code of Ethics, which principle BEST guides Sarah\'s response?",
+      question: "Sarah, a dental hygienist, accidentally discovers that her patient Mr. Johnson has been diagnosed with early-stage dementia during a conversation with his wife. The wife asks Sarah not to mention this to anyone in the office. According to the ADHA Code of Ethics, which principle BEST guides Sarah's response?",
       options: [
-        "She should discuss the patient\'s medical condition with anyone without authorization",
-        "She should not discuss the patient\'s medical condition with anyone without authorization",
+        "She should discuss the patient's medical condition with anyone without authorization",
+        "She should not discuss the patient's medical condition with anyone without authorization",
         "She must immediately report this condition to all office staff members",
         "She can share this information only with her immediate family members"
       ],
@@ -13397,7 +13397,7 @@ export const questions = {
       id: 14302,
       question: "Mrs. Chen, 45 years old with well-controlled diabetes, wants to be involved in decisions about her periodontal treatment. Her dental hygienist explains all options and allows her to choose. This scenario BEST demonstrates which fundamental ethical principle?",
       options: [
-        "Autonomy as respect for the patient\'s right to self-determination",
+        "Autonomy as respect for the patient's right to self-determination",
         "Veracity as the obligation to tell truth in all situations",
         "Justice as treating all patients equally regardless of condition",
         "Fidelity as keeping all promises made to patients explicitly"
@@ -13428,7 +13428,7 @@ export const questions = {
     },
     {
       id: 14305,
-      question: "A dental hygienist provides substandard care to nursing home residents because \"they are institutionalized and won\'t know the difference.\" This behavior violates which fundamental ethical principle?",
+      question: "A dental hygienist provides substandard care to nursing home residents because \"they are institutionalized and won't know the difference.\" This behavior violates which fundamental ethical principle?",
       options: [
         "Veracity because the hygienist is not being truthful about care",
         "Fidelity because the hygienist broke promises to the residents",
@@ -13463,7 +13463,7 @@ export const questions = {
       id: 14308,
       question: "========================================= ACCOUNTABILITY AND RESPONSIBILITY ========================================= A dental hygienist observes a colleague providing care that falls below acceptable standards. According to professional accountability principles, which action is MOST appropriate?",
       options: [
-        "Ignore the situation assuming it is solely the employer\'s responsibility",
+        "Ignore the situation assuming it is solely the employer's responsibility",
         "Report unethical behavior to appropriate peer review entities immediately",
         "Discuss the situation on social media to warn other professionals",
         "Wait several months before taking any action to avoid conflict"
@@ -13498,7 +13498,7 @@ export const questions = {
       options: [
         "Fidelity as the obligation to keep implied or explicit promises",
         "Veracity as the obligation to maintain truth telling always",
-        "Autonomy as respecting the patient\'s right to make decisions",
+        "Autonomy as respecting the patient's right to make decisions",
         "Benef icence as the provision of benefit to the patient"
       ],
       correct: "A"
@@ -13510,7 +13510,7 @@ export const questions = {
         "Ethical dilemma where two ethical principles conflict equally",
         "Ethical distress when unable to take right action despite knowing it",
         "Ethical violation that should be ignored to maintain employment",
-        "Ethical compliance because the employer\'s decision should prevail"
+        "Ethical compliance because the employer's decision should prevail"
       ],
       correct: "B"
     },
@@ -13519,7 +13519,7 @@ export const questions = {
       question: "Using the ethical decision-making framework, what is the FIRST step when facing an ethical dilemma?",
       options: [
         "Immediately act on the ethical choice without further consideration",
-        "Select and justify the provider\'s chosen alternative immediately",
+        "Select and justify the provider's chosen alternative immediately",
         "Define the conflict or dilemma creating the ethical problem",
         "Establish an ethical position and prioritize all alternatives"
       ],
@@ -13529,7 +13529,7 @@ export const questions = {
       id: 14314,
       question: "A dental hygienist suggests referring a patient for a lesion biopsy, but the dentist refuses. The hygienist identifies the conflict as \"lack of consistency in referring for biopsy\" rather than \"different educational backgrounds.\" This demonstrates which step in ethical decision-making?",
       options: [
-        "Gathering relevant information about the patient\'s complete situation",
+        "Gathering relevant information about the patient's complete situation",
         "Defining the conflict or dilemma precisely and clearly",
         "Identifying ethical alternatives and courses of action available",
         "Acting on the ethical choice after evaluation completed"
@@ -13540,16 +13540,16 @@ export const questions = {
       id: 14315,
       question: "When identifying ethical alternatives in the decision-making process, which factors should the dental hygienist consider?",
       options: [
-        "Only the dental hygienist\'s personal beliefs and financial situation",
-        "Obligations to client, others involved, client\'s rights, and practical constraints",
-        "Exclusively the employer\'s preferences and office policies alone",
-        "Only alternatives that protect the professional\'s best interests"
+        "Only the dental hygienist's personal beliefs and financial situation",
+        "Obligations to client, others involved, client's rights, and practical constraints",
+        "Exclusively the employer's preferences and office policies alone",
+        "Only alternatives that protect the professional's best interests"
       ],
       correct: "B"
     },
     {
       id: 14316,
-      question: "A dental hygienist evaluates alternatives and chooses to balance recommendations versus the dentist\'s decision by scheduling a 2-week follow-up to reevaluate a lesion. This demonstrates which step in the ethical decision-making framework?",
+      question: "A dental hygienist evaluates alternatives and chooses to balance recommendations versus the dentist's decision by scheduling a 2-week follow-up to reevaluate a lesion. This demonstrates which step in the ethical decision-making framework?",
       options: [
         "Defining the conflict or dilemma creating the problem initially",
         "Gathering all relevant information about the patient situation",
@@ -13582,7 +13582,7 @@ export const questions = {
     },
     {
       id: 14319,
-      question: "A general dentist chooses not to refer a patient with deteriorating periodontal status despite the office staff\'s inability to meet needs. According to the ADHA Code of Ethics, what is the hygienist\'s PRIMARY ethical obligation?",
+      question: "A general dentist chooses not to refer a patient with deteriorating periodontal status despite the office staff's inability to meet needs. According to the ADHA Code of Ethics, what is the hygienist's PRIMARY ethical obligation?",
       options: [
         "To continue providing inadequate care to maintain employment security",
         "To refer clients when needs are beyond ability or scope of practice",
@@ -13593,7 +13593,7 @@ export const questions = {
     },
     {
       id: 14320,
-      question: "A dental hygienist discusses a patient\'s case on social media seeking input from colleagues, providing information that makes the patient easily identifiable. This action PRIMARILY violates which principle?",
+      question: "A dental hygienist discusses a patient's case on social media seeking input from colleagues, providing information that makes the patient easily identifiable. This action PRIMARILY violates which principle?",
       options: [
         "Patient confidentiality and potentially HIPAA privacy requirements",
         "Autonomy by not obtaining consent for social media discussion",
@@ -13637,12 +13637,12 @@ export const questions = {
     },
     {
       id: 14324,
-      question: "A researcher discovers a coinvestigator allows personal bias to influence observations, knowing manufacturer funding depends on positive results. What is the researcher\'s PRIMARY ethical obligation?",
+      question: "A researcher discovers a coinvestigator allows personal bias to influence observations, knowing manufacturer funding depends on positive results. What is the researcher's PRIMARY ethical obligation?",
       options: [
         "Ignore the unethical behavior assuming replication will reveal flaws",
         "Confront the coinvestigator about unethical and illegal behavior",
         "Continue participating to ensure future funding is secured",
-        "Manipulate their own data to match coinvestigator\'s findings"
+        "Manipulate their own data to match coinvestigator's findings"
       ],
       correct: "B"
     },
@@ -13774,7 +13774,7 @@ export const questions = {
         "Only the date services will be terminated without reasons",
         "Reason for termination, date of termination, and emergency care availability",
         "Threats of legal action if patient contacts office again",
-        "Personal opinions about patient\'s character and behaviors"
+        "Personal opinions about patient's character and behaviors"
       ],
       correct: "B"
     },
@@ -13793,7 +13793,7 @@ export const questions = {
       id: 14338,
       question: "A dental hygienist removes patients from the continued-care list because they do not respond to notices. What action helps avoid abandonment charges?",
       options: [
-        "Taking no action since office procedures don\'t require notification",
+        "Taking no action since office procedures don't require notification",
         "Sending written notification that they are no longer patients of record",
         "Assuming patients will know they have been dismissed",
         "Telling other staff members but not documenting anything"
@@ -13840,13 +13840,13 @@ export const questions = {
         "Battery because harmful contact occurred with patient",
         "Assault because apprehension was caused without touching",
         "Negligence because the standard of care was violated",
-        "Defamation because the patient\'s reputation was harmed"
+        "Defamation because the patient's reputation was harmed"
       ],
       correct: "B"
     },
     {
       id: 14343,
-      question: "A dental hygienist places sealants on a child\'s teeth without parental consent. This action is classified as which type of tort?",
+      question: "A dental hygienist places sealants on a child's teeth without parental consent. This action is classified as which type of tort?",
       options: [
         "Negligence because proper procedures were not followed",
         "Assault because the child was threatened verbally",
@@ -13868,7 +13868,7 @@ export const questions = {
     },
     {
       id: 14345,
-      question: "A dental hygienist discusses a patient\'s HIV status with a friend at lunch. This action violates which legal concept?",
+      question: "A dental hygienist discusses a patient's HIV status with a friend at lunch. This action violates which legal concept?",
       options: [
         "The standard of care for dental hygiene practice",
         "The contractual obligation to provide treatment",
@@ -13939,7 +13939,7 @@ export const questions = {
         "To entertain the jury with interesting dental hygiene stories",
         "To explain the standard of care and determine guilt or innocence",
         "To guarantee the defendant will be found not guilty",
-        "To represent only the plaintiff\'s version of events"
+        "To represent only the plaintiff's version of events"
       ],
       correct: "B"
     },
@@ -14027,7 +14027,7 @@ export const questions = {
         "Only that the patient will be dismissed if refusal continues",
         "Diagnosis, recommendation, reasons, and risks of refusing treatment",
         "Only the cost of the recommended referral services",
-        "Only the dentist\'s personal opinion about the patient"
+        "Only the dentist's personal opinion about the patient"
       ],
       correct: "B"
     },
@@ -14046,10 +14046,10 @@ export const questions = {
       id: 14361,
       question: "An informed refusal form should include which essential elements?",
       options: [
-        "Only the patient\'s signature without any additional information",
+        "Only the patient's signature without any additional information",
         "Recommendation, consequences of refusal, risks understood, date, signatures",
         "Only the date and provider signature without patient involvement",
-        "Detailed description of patient\'s mental health and competence"
+        "Detailed description of patient's mental health and competence"
       ],
       correct: "B"
     },
@@ -14088,10 +14088,10 @@ export const questions = {
     },
     {
       id: 14365,
-      question: "========================================= CONFIDENTIALITY ========================================= Confidentiality means that information about a patient\'s care is shared under which circumstance?",
+      question: "========================================= CONFIDENTIALITY ========================================= Confidentiality means that information about a patient's care is shared under which circumstance?",
       options: [
         "Whenever the dental hygienist wants to discuss interesting cases",
-        "Only with the patient\'s permission or as required by law",
+        "Only with the patient's permission or as required by law",
         "With any family member who calls the office asking questions",
         "On social media when seeking professional advice from colleagues"
       ],
@@ -14158,7 +14158,7 @@ export const questions = {
       options: [
         "The individual cannot perform any job duties whatsoever",
         "The individual satisfies position requirements with accommodations",
-        "The accommodations cost more than the employee\'s salary",
+        "The accommodations cost more than the employee's salary",
         "Other employees object to providing the accommodations"
       ],
       correct: "B"
@@ -14255,9 +14255,9 @@ export const questions = {
       id: 14380,
       question: "An employee experiencing sexual harassment should document which information?",
       options: [
-        "Only the harasser\'s name without any additional details",
+        "Only the harasser's name without any additional details",
         "What was said/done, date, time, place, witness names",
-        "Only information favorable to the employee\'s case",
+        "Only information favorable to the employee's case",
         "Only harassment incidents occurring during work hours"
       ],
       correct: "B"
@@ -14330,7 +14330,7 @@ export const questions = {
     },
     {
       id: 14387,
-      question: "========================================= PATIENT RECORDS AND DOCUMENTATION ========================================= The patient record can serve as the provider\'s best defense or worst enemy in malpractice. Which statement about documentation is MOST accurate?",
+      question: "========================================= PATIENT RECORDS AND DOCUMENTATION ========================================= The patient record can serve as the provider's best defense or worst enemy in malpractice. Which statement about documentation is MOST accurate?",
       options: [
         "Incomplete records have no impact on malpractice cases",
         "Poor documentation may reflect poorly on care quality",
@@ -14429,7 +14429,7 @@ export const questions = {
     },
     {
       id: 14396,
-      question: "Who owns the patient\'s dental records?",
+      question: "Who owns the patient's dental records?",
       options: [
         "The patient owns the original records and can demand them",
         "The dentist owns original records; patient has right to copies",
@@ -14440,7 +14440,7 @@ export const questions = {
     },
     {
       id: 14397,
-      question: "Subjective evaluations about a patient\'s mental health should be documented:",
+      question: "Subjective evaluations about a patient's mental health should be documented:",
       options: [
         "Always in detail to protect the practice legally",
         "Only if the writer is qualified and licensed for evaluations",
@@ -14455,7 +14455,7 @@ export const questions = {
       options: [
         "On the treatment record with all clinical information together",
         "Separate from the treatment record in financial records",
-        "Only in the patient\'s insurance claim submission forms",
+        "Only in the patient's insurance claim submission forms",
         "In the reception area appointment book only"
       ],
       correct: "B"
@@ -14486,7 +14486,7 @@ export const questions = {
       id: 14401,
       question: "========================================= DENTAL HYGIENIST ROLES AND LEGAL ISSUES ========================================= A dental hygienist working as a dependent practitioner is legally responsible for which actions?",
       options: [
-        "Only the dentist is responsible for hygienist\'s actions",
+        "Only the dentist is responsible for hygienist's actions",
         "The hygienist is professionally and legally responsible for own actions",
         "The office manager assumes all legal responsibilities",
         "No one is legally responsible if insurance covers costs"
@@ -14532,7 +14532,7 @@ export const questions = {
       options: [
         "Only the financial arrangements between the parties",
         "Rights, responsibilities, termination reasons, and record retention",
-        "Only the dental hygienist\'s schedule and hours worked",
+        "Only the dental hygienist's schedule and hours worked",
         "Only the location where services will be provided"
       ],
       correct: "B"
@@ -14541,7 +14541,7 @@ export const questions = {
       id: 14406,
       question: "A dental hygiene educator serving as clinical faculty is ultimately liable for:",
       options: [
-        "Only their own actions, never students\' actions",
+        "Only their own actions, never students' actions",
         "Student actions because they monitor patient care",
         "Nothing because students are adults and responsible",
         "Only outcomes that result in patient complaints"
@@ -14575,7 +14575,7 @@ export const questions = {
       question: "Consumer advocates working on behalf of populations should understand which legal areas?",
       options: [
         "Only dental practice acts for dental hygiene",
-        "Civil rights, healthcare, labor, disability, geriatrics, children\'s issues",
+        "Civil rights, healthcare, labor, disability, geriatrics, children's issues",
         "Only malpractice and negligence in healthcare",
         "Only financial and accounting regulations for practices"
       ],
@@ -14598,7 +14598,7 @@ export const questions = {
       options: [
         "Ivy is meeting the standard of care for dental hygiene practice",
         "Ivy is not meeting the standard and is personally liable",
-        "Respondeat superior eliminates all of Ivy\'s legal responsibilities",
+        "Respondeat superior eliminates all of Ivy's legal responsibilities",
         "Ivy has no professional obligations because employer directs her"
       ],
       correct: "B"
@@ -14607,7 +14607,7 @@ export const questions = {
       id: 14412,
       question: "Alice Gunn is an unlicensed dental hygienist who has been practicing for 3 years after moving from Georgia. She asks a colleague not to report her because she cannot afford to stop working while getting licensed. Using the ethical decision-making model, what should the colleague do?",
       options: [
-        "Honor Alice\'s request and maintain friendship loyalty",
+        "Honor Alice's request and maintain friendship loyalty",
         "Report to appropriate authorities per professional obligations",
         "Ignore the situation because Alice promised to get licensed",
         "Confront Alice publicly on social media about the violation"
@@ -14627,7 +14627,7 @@ export const questions = {
     },
     {
       id: 14414,
-      question: "A dental associate frequently overtreats and overdiagnoses patients to pay off student loans. The hygienist questions the treatment plans but is told \"I\'m the dentist, you\'re the hygienist.\" Using ethical decision-making, what should the hygienist consider FIRST?",
+      question: "A dental associate frequently overtreats and overdiagnoses patients to pay off student loans. The hygienist questions the treatment plans but is told \"I'm the dentist, you're the hygienist.\" Using ethical decision-making, what should the hygienist consider FIRST?",
       options: [
         "Ignoring the situation to avoid conflict with the associate",
         "Identifying the ethical issues and gathering relevant information",
@@ -14640,10 +14640,10 @@ export const questions = {
       id: 14415,
       question: "A dental hygienist observes a dentist drinking from a flask in the lab before treating patients. Staff members pressure the hygienist to ignore the situation to preserve jobs. The hygienist considers using the ethical decision-making model. What is the PRIMARY ethical issue?",
       options: [
-        "The staff members\' desire to maintain employment",
-        "Professional responsibility to protect patients\' well-being",
-        "The dentist\'s personal right to privacy outside treatment",
-        "The dental hygienist\'s friendship with coworkers"
+        "The staff members' desire to maintain employment",
+        "Professional responsibility to protect patients' well-being",
+        "The dentist's personal right to privacy outside treatment",
+        "The dental hygienist's friendship with coworkers"
       ],
       correct: "B"
     }
@@ -14785,10 +14785,10 @@ export const questions = {
       id: 14612,
       question: "========================================= CREATING STUDENT PORTFOLIOS ========================================= A dental hygiene program requires students to create portfolios demonstrating how graduates have met educational standards. What organization establishes these educational standards?",
       options: [
-        "American Dental Hygienists\' Association (ADHA) Code of Ethics",
+        "American Dental Hygienists' Association (ADHA) Code of Ethics",
         "Commission on Dental Accreditation (CODA) accreditation standards",
         "State boards of dentistry licensure examination requirements",
-        "Individual employers\' hiring criteria for entry-level positions"
+        "Individual employers' hiring criteria for entry-level positions"
       ],
       correct: "B"
     },
@@ -14873,7 +14873,7 @@ export const questions = {
       id: 14620,
       question: "A second-year dental hygiene student cared for a 5-year-old pediatric patient with caries in all primary molars. The experience was stressful for all involved. What does reflective thinking about this scenario include?",
       options: [
-        "Only focusing on the student\'s clinic grade and competency requirement",
+        "Only focusing on the student's clinic grade and competency requirement",
         "Considering underlying factors contributing to the outcome and future improvements",
         "Blaming the parent and patient for arriving late to appointment",
         "Avoiding any analysis to prevent uncomfortable feelings about experience"
@@ -14961,7 +14961,7 @@ export const questions = {
       id: 14628,
       question: "========================================= INTRODUCTION AND BIOGRAPHIC DATA ========================================= The portfolio should begin with a brief introduction designed to orient the reader. What should introductions to dental hygiene student portfolios typically include?",
       options: [
-        "Only the student\'s name and contact information",
+        "Only the student's name and contact information",
         "Description of why student chose dental hygiene and career goals",
         "Detailed personal family history and childhood experiences",
         "Exclusively clinical competency evaluations and grades received"
@@ -14972,7 +14972,7 @@ export const questions = {
       id: 14629,
       question: "A philosophy of practice statement is a personal written statement unique to the individual. What does this statement reflect?",
       options: [
-        "Only the instructor\'s values and expectations for students",
+        "Only the instructor's values and expectations for students",
         "Exclusively technical clinical skills and procedures mastered",
         "Values, commitment to profession, and career goals as future provider",
         "Personal social media presence and online activities"
@@ -15014,7 +15014,7 @@ export const questions = {
     },
     {
       id: 14633,
-      question: "A curriculum vitae (CV) is an overview of a person\'s lifetime of professional activities. What does the Latin term \"curriculum vitae\" mean?",
+      question: "A curriculum vitae (CV) is an overview of a person's lifetime of professional activities. What does the Latin term \"curriculum vitae\" mean?",
       options: [
         "Professional portfolio for employment seeking purposes",
         "Course of life documenting lifetime professional activities",
@@ -15115,7 +15115,7 @@ export const questions = {
       id: 14642,
       question: "Protecting patient privacy can be accomplished through specific methods. What is an acceptable way to protect privacy in portfolios?",
       options: [
-        "Using patients\' full names and addresses in all documents",
+        "Using patients' full names and addresses in all documents",
         "Posting identified patient photographs on public social media",
         "Substituting names with initials or pseudonyms to eliminate identification",
         "Including detailed medical records without any modifications"
@@ -15236,7 +15236,7 @@ export const questions = {
       id: 14653,
       question: "========================================= PORTFOLIO AUTHORSHIP AND ETHICS ========================================= Ethical principles apply to portfolio creation and artifacts presented. Veracity is defined as adherence to truth or conformity to factual evidence. What does this require regarding portfolio artifacts?",
       options: [
-        "Presenting work done by others as one\'s own accomplishments",
+        "Presenting work done by others as one's own accomplishments",
         "Artifacts must be the work or accomplishments of portfolio owner",
         "Copying extensively from sources without any attribution",
         "Claiming credit for group projects completed by others"
@@ -15247,7 +15247,7 @@ export const questions = {
       id: 14654,
       question: "Work done by others, such as images and outside research, must be handled appropriately in portfolios. What is required for work done by others?",
       options: [
-        "It should be claimed as one\'s own original work",
+        "It should be claimed as one's own original work",
         "It can be used freely without any documentation",
         "It must always be attributed and properly cited",
         "It should never be included in any circumstances"
@@ -15278,7 +15278,7 @@ export const questions = {
     },
     {
       id: 14657,
-      question: "Confidentiality protects a client\'s right to privacy and relates to HIPAA regulations. What must be done with any client data in portfolios?",
+      question: "Confidentiality protects a client's right to privacy and relates to HIPAA regulations. What must be done with any client data in portfolios?",
       options: [
         "All client data should be displayed prominently with full names",
         "Any client data must be deidentified to protect privacy",
@@ -15357,7 +15357,7 @@ export const questions = {
       id: 14664,
       question: "The portfolio introduction and biographic data should be customized for specific purposes. A portfolio for clinical practice positions differs from one for education positions. How should the philosophy be written?",
       options: [
-        "Identically regardless of the portfolio\'s specific purpose",
+        "Identically regardless of the portfolio's specific purpose",
         "According to the specific purpose and intended audience",
         "Only focusing on personal goals without professional considerations",
         "Avoiding any mention of professional values or goals"
@@ -15756,7 +15756,7 @@ export const questions = {
       question: "For positions in education, where should applicants look for opportunities?",
       options: [
         "Only in private dental offices without any educational considerations",
-        "Educational institutions\' websites, public health organizations, research facilities",
+        "Educational institutions' websites, public health organizations, research facilities",
         "Exclusively through employment agencies specializing in corporate positions",
         "Only through personal contacts without any formal job postings"
       ],
@@ -15898,7 +15898,7 @@ export const questions = {
       id: 14833,
       question: "While electronic portfolios are not typically required, they can serve specific purposes. What can an electronic portfolio allow employers to learn?",
       options: [
-        "Only applicant\'s social media posts and personal activities",
+        "Only applicant's social media posts and personal activities",
         "Exclusively negative opinions about other dental professionals",
         "Practice principles, community service, notable experiences",
         "Only personal information unrelated to professional qualifications"
@@ -15910,7 +15910,7 @@ export const questions = {
       question: "========================================= REFERENCES ========================================= References are individuals who provide recommendations for job applicants. What do references serve as?",
       options: [
         "Guaranteed employment offers from potential employers",
-        "Personal testimonies to candidate\'s competence and character",
+        "Personal testimonies to candidate's competence and character",
         "Replacement for résumé and cover letter requirements",
         "Legal representation during salary negotiations"
       ],
@@ -15997,7 +15997,7 @@ export const questions = {
       id: 14842,
       question: "Applicants should prepare questions before the interview. What topics should questions address?",
       options: [
-        "Only personal questions about interviewer\'s life and family",
+        "Only personal questions about interviewer's life and family",
         "Position, job description, practice management, benefits, depending on setting",
         "Exclusively salary without any information about responsibilities",
         "Only questions designed to intimidate or impress interviewer"
@@ -16021,8 +16021,8 @@ export const questions = {
       options: [
         "Only salary without any position responsibilities or expectations",
         "Job description, responsibilities, expectations during interview",
-        "Exclusively personal information about applicant\'s family",
-        "Only interviewer\'s personal opinions about dental hygiene"
+        "Exclusively personal information about applicant's family",
+        "Only interviewer's personal opinions about dental hygiene"
       ],
       correct: "B"
     },
@@ -16052,10 +16052,10 @@ export const questions = {
       id: 14847,
       question: "A second interview typically includes thorough discussion of specific topics. What should be discussed during a second interview?",
       options: [
-        "Only applicant\'s personal life and family relationships",
+        "Only applicant's personal life and family relationships",
         "Job description, office policies, work schedule, compensation, performance evaluation, raises",
         "Exclusively negative aspects of previous employment experiences",
-        "Only interviewer\'s personal opinions without job information"
+        "Only interviewer's personal opinions without job information"
       ],
       correct: "B"
     },
@@ -16096,7 +16096,7 @@ export const questions = {
       id: 14851,
       question: "Federal and state laws prohibit potential employers from asking certain questions. What topics should employers NOT ask about?",
       options: [
-        "Only applicant\'s professional qualifications and experience",
+        "Only applicant's professional qualifications and experience",
         "Race, gender, religion, marital status, disabilities, ethnic background, national origin, sexual preferences, age",
         "Only job-related skills and educational background",
         "Only questions directly related to position requirements"
@@ -16132,7 +16132,7 @@ export const questions = {
         "State they have no questions showing complete knowledge",
         "Always have something to ask showing interest with specific questions",
         "Demand salary information without any other questions",
-        "Criticize interview process and interviewer\'s questions"
+        "Criticize interview process and interviewer's questions"
       ],
       correct: "B"
     },
@@ -16162,7 +16162,7 @@ export const questions = {
       id: 14857,
       question: "Working interviews and observations provide opportunities. What insights can be gained?",
       options: [
-        "Only applicant\'s ability to perform without learning about practice",
+        "Only applicant's ability to perform without learning about practice",
         "Intraoffice dynamics, communication, management styles, flow, atmosphere, efficiency, teamwork, client relations",
         "Exclusively negative aspects without any positive observations",
         "Only information about salary and benefits package"
@@ -16184,7 +16184,7 @@ export const questions = {
       id: 14859,
       question: "Observations in an office allow the applicant to observe important factors. What should be observed?",
       options: [
-        "Only applicant\'s comfort without considering practice functions",
+        "Only applicant's comfort without considering practice functions",
         "Safety, sanitation, sterilization, equipment, instrument quality, office function reality",
         "Exclusively personal lives of staff members",
         "Only potential for highest production and salary"
@@ -16229,7 +16229,7 @@ export const questions = {
       question: "========================================= PROFESSIONALISM ON SOCIAL MEDIA ========================================= Although participation in social media is common, this can impact decisions for employment. What are employers likely to do?",
       options: [
         "Never look at social media sites of applicants",
-        "Search for candidates\' social media sites to learn more",
+        "Search for candidates' social media sites to learn more",
         "Only focus on résumé without any other information",
         "Ignore all online presence of potential employees"
       ],
@@ -16284,7 +16284,7 @@ export const questions = {
       question: "To guide the job selection process, what strategy is recommended?",
       options: [
         "Accept first offer received without any consideration",
-        "Create list of five \"must-haves\" and \"can\'t-haves\" in job",
+        "Create list of five \"must-haves\" and \"can't-haves\" in job",
         "Avoid any planning and make impulsive decisions",
         "Only consider positions requiring no effort or challenge"
       ],
@@ -16391,11 +16391,11 @@ export const questions = {
     },
     {
       id: 14878,
-      question: "========================================= SALARY RANGES ========================================= To compare prospective employer\'s salary with standards, what resources should job seekers use?",
+      question: "========================================= SALARY RANGES ========================================= To compare prospective employer's salary with standards, what resources should job seekers use?",
       options: [
         "Only personal opinions without any factual information",
         "Bureau of Labor Statistics, salary-aggregating websites, component associations, employment agencies",
-        "Exclusively employer\'s statement without any verification",
+        "Exclusively employer's statement without any verification",
         "Only social media posts without any reliable sources"
       ],
       correct: "B"
@@ -16527,8 +16527,8 @@ export const questions = {
       options: [
         "Only reasons for immediate termination without warning",
         "Salary increase or be used as legal document for dismissal",
-        "Exclusively employee\'s personal life and relationships",
-        "Only employer\'s opinion without any objective measures"
+        "Exclusively employee's personal life and relationships",
+        "Only employer's opinion without any objective measures"
       ],
       correct: "B"
     },
@@ -16581,7 +16581,7 @@ export const questions = {
       question: "What is the minimum notice that should be given to the employer when resigning?",
       options: [
         "No notice is necessary for resignation",
-        "Minimum of 2 weeks\' notice before departure",
+        "Minimum of 2 weeks' notice before departure",
         "Only 1 day notice is sufficient",
         "At least 6 months notice is required"
       ],
@@ -16655,7 +16655,7 @@ export const questions = {
     },
     {
       id: 14902,
-      question: "========================================= DENTAL HYGIENE\'S EXPANDING SCOPE ========================================= The dental hygiene profession is evolving. What factors are driving advancement within the profession?",
+      question: "========================================= DENTAL HYGIENE'S EXPANDING SCOPE ========================================= The dental hygiene profession is evolving. What factors are driving advancement within the profession?",
       options: [
         "Only government mandates without any other influences",
         "New technologies, policy changes, workforce trends, professional interests",
@@ -16724,7 +16724,7 @@ export const questions = {
       question: "========================================= EXPANDING EDUCATIONAL OPPORTUNITIES ========================================= As employment opportunities expand, what also expands?",
       options: [
         "Only clinical positions without any educational changes",
-        "Prospect of advanced education beyond associate\'s degree",
+        "Prospect of advanced education beyond associate's degree",
         "Requirements that all hygienists have doctoral degrees",
         "Elimination of any educational requirements"
       ],
@@ -16732,7 +16732,7 @@ export const questions = {
     },
     {
       id: 14909,
-      question: "What positions often require educational degrees beyond an associate\'s degree?",
+      question: "What positions often require educational degrees beyond an associate's degree?",
       options: [
         "Only private practice clinical positions",
         "Education, research, public/community health, corporate settings",
@@ -16767,8 +16767,8 @@ export const questions = {
       id: 14912,
       question: "As of 2022, how many master of science programs in dental hygiene were available?",
       options: [
-        "No master\'s programs exist in dental hygiene",
-        "18 master\'s programs preparing educators, administrators, researchers",
+        "No master's programs exist in dental hygiene",
+        "18 master's programs preparing educators, administrators, researchers",
         "Only 2 programs in entire country",
         "Only programs for corporate positions"
       ],
@@ -16801,7 +16801,7 @@ export const questions = {
       question: "An ADHP earns what degree and serves in what capacity?",
       options: [
         "Only associate degree without any advanced education",
-        "Master\'s degree serving similar to nurse practitioner",
+        "Master's degree serving similar to nurse practitioner",
         "Doctoral degree replacing dentists completely",
         "Certificate without any degree requirements"
       ],
@@ -17012,7 +17012,7 @@ export const questions = {
       question: "An understaffed practice experiences poor organization and ineffective leadership. What attitude may result from undermanagement?",
       options: [
         "Increased employee satisfaction and enhanced team collaboration efforts",
-        "\"It\'s not my job\" attitude with decreased satisfaction and increased frustration",
+        "\"It's not my job\" attitude with decreased satisfaction and increased frustration",
         "Improved patient retention and enhanced financial profitability measures",
         "Better record keeping consistency and improved quality patient care"
       ],
@@ -17111,7 +17111,7 @@ export const questions = {
       question: "Personality assessments are applied to understand team members. How can this understanding be used in personnel management?",
       options: [
         "To align responsibilities around characteristics and foster productivity",
-        "To eliminate all employees who don\'t fit predetermined profile",
+        "To eliminate all employees who don't fit predetermined profile",
         "To avoid any discussion of roles or responsibilities completely",
         "To create identical job descriptions for all staff members"
       ],
@@ -17221,7 +17221,7 @@ export const questions = {
       question: "What should be provided to the patient after case presentation and agreement?",
       options: [
         "Nothing, verbal discussion is sufficient without written documentation",
-        "Written summary of case presentation with copy for patient\'s personal records",
+        "Written summary of case presentation with copy for patient's personal records",
         "Only appointment card without treatment plan documentation",
         "Exclusively insurance forms without any clinical information"
       ],
@@ -17243,7 +17243,7 @@ export const questions = {
       question: "What should be documented when patient nonadherence occurs?",
       options: [
         "Nothing, documentation is unnecessary for noncompliant patients",
-        "Recommended care given, instructions not followed, patient\'s statement, response, modifications, consequences discussion",
+        "Recommended care given, instructions not followed, patient's statement, response, modifications, consequences discussion",
         "Only that patient is difficult without specific details",
         "Exclusively financial information without clinical documentation"
       ],
@@ -17352,7 +17352,7 @@ export const questions = {
       id: 15135,
       question: "What are examples of critical errors detected during audits?",
       options: [
-        "Minor typographic errors that don\'t affect care quality",
+        "Minor typographic errors that don't affect care quality",
         "Errors affecting patient rights, safety, care, or treatment",
         "Only formatting inconsistencies without clinical impact",
         "Exclusively billing discrepancies without patient care implications"
@@ -18666,7 +18666,7 @@ export const questions = {
         "Smartphone with camera, tablet, computer, webcam, internet connection",
         "Only office-based equipment without patient technology",
         "Exclusively landline telephone without video capability",
-        "No technology required from patient\'s side"
+        "No technology required from patient's side"
       ],
       correct: "A"
     },
@@ -18819,7 +18819,7 @@ export const questions = {
       options: [
         "No adult supervision required for virtual visits",
         "Parents or guardians still need to be present",
-        "Any stranger can supervise minor\'s appointment",
+        "Any stranger can supervise minor's appointment",
         "Supervision requirements eliminated for virtual care"
       ],
       correct: "B"
@@ -18853,7 +18853,7 @@ export const questions = {
         "Only patient name without encounter details",
         "Platform used, patient location, provider location, identity confirmation, consent, length",
         "No additional requirements beyond traditional documentation",
-        "Exclusively provider\'s home address and personal information"
+        "Exclusively provider's home address and personal information"
       ],
       correct: "B"
     },
@@ -18873,7 +18873,7 @@ export const questions = {
       question: "The dentist reviews records after teledentistry encounter. The supervising dentist should document activities. What should the dentist document?",
       options: [
         "Nothing; hygienist documentation is sufficient without dentist input",
-        "These activities in patient\'s dental record per state requirements",
+        "These activities in patient's dental record per state requirements",
         "Only complaints without documenting services provided",
         "Personal opinions without objective clinical findings"
       ],

@@ -49,7 +49,7 @@ export const questions = {
     },
     {
       id: 15104,
-      question: "Why doesn\'t scrutinizing individual health histories determine the degree of risk for disease transmission?",
+      question: "Why doesn't scrutinizing individual health histories determine the degree of risk for disease transmission?",
       options: [
         "Health histories are always incomplete",
         "Patients may be unknowingly infected and display no symptoms",
@@ -71,7 +71,7 @@ export const questions = {
     },
     {
       id: 15106,
-      question: "What is the CDC\'s primary mission?",
+      question: "What is the CDC's primary mission?",
       options: [
         "To regulate medical devices",
         "To promote health and quality of life by preventing and controlling disease",
@@ -115,7 +115,7 @@ export const questions = {
     },
     {
       id: 15110,
-      question: "What is the EPA\'s regulatory mission since 1970?",
+      question: "What is the EPA's regulatory mission since 1970?",
       options: [
         "To promote vaccination programs",
         "To enforce bloodborne pathogen standards",
@@ -357,7 +357,7 @@ export const questions = {
     },
     {
       id: 15132,
-      question: "Why don\'t standard precautions depend on health history?",
+      question: "Why don't standard precautions depend on health history?",
       options: [
         "Health histories are unreliable",
         "Infected individuals may be unaware of their status or choose not to disclose",
@@ -555,7 +555,7 @@ export const questions = {
     },
     {
       id: 15150,
-      question: "Should PPE selection be based on the patient\'s infectious disease status?",
+      question: "Should PPE selection be based on the patient's infectious disease status?",
       options: [
         "Yes, always",
         "Yes, for certain diseases",
@@ -735,7 +735,7 @@ export const questions = {
       options: [
         "Small, medium, and large",
         "Latex, nitrile, and vinyl",
-        "Medical examination, sterile surgeon\'s, and heavy-duty utility",
+        "Medical examination, sterile surgeon's, and heavy-duty utility",
         "Powder-free, powdered, and textured"
       ],
       correct: "C"
@@ -843,7 +843,7 @@ export const questions = {
       id: 15176,
       question: "Should rings and hand jewelry be removed before hand hygiene?",
       options: [
-        "No, they don\'t affect hand hygiene",
+        "No, they don't affect hand hygiene",
         "Only if visibly dirty",
         "Yes, they should be removed",
         "Only for surgical procedures"
@@ -1638,7 +1638,7 @@ export const questions = {
         "Seek medical care",
         "Report incident to designated individual",
         "Clean the wound again",
-        "Notify the patient\'s physician"
+        "Notify the patient's physician"
       ],
       correct: "B"
     },
@@ -1648,7 +1648,7 @@ export const questions = {
       options: [
         "Yes, complete all paperwork first",
         "No, completion of report should not delay treatment",
-        "Only if it\'s after hours",
+        "Only if it's after hours",
         "Only for minor exposures"
       ],
       correct: "B"
@@ -1877,7 +1877,7 @@ export const questions = {
     },
     {
       id: 15205,
-      question: "What is the AHA chain of survival\'s first link?",
+      question: "What is the AHA chain of survival's first link?",
       options: [
         "Early defibrillation",
         "Advanced medical care",
@@ -2309,7 +2309,7 @@ export const questions = {
       question: "What is the ASA physical status classification used for?",
       options: [
         "To determine salary",
-        "To determine a patient\'s physical status as a medical assessment framework",
+        "To determine a patient's physical status as a medical assessment framework",
         "To schedule appointments",
         "To determine treatment costs"
       ],
@@ -2462,7 +2462,7 @@ export const questions = {
       id: 15258,
       question: "Why might patients underestimate dental anxiety?",
       options: [
-        "They don\'t want to acknowledge it",
+        "They don't want to acknowledge it",
         "They enjoy dental treatment",
         "They have no anxiety",
         "They want more treatment"
@@ -2572,7 +2572,7 @@ export const questions = {
       id: 15268,
       question: "What is the first step when unresponsiveness is recognized?",
       options: [
-        "Call the patient\'s family",
+        "Call the patient's family",
         "Terminate dental hygiene procedures and activate EMS",
         "Continue treatment",
         "Give medication"
@@ -2605,10 +2605,10 @@ export const questions = {
       id: 15271,
       question: "Why is the supine position used for unconscious patients?",
       options: [
-        "It\'s most comfortable",
+        "It's most comfortable",
         "Brain is at same level as body to help deliver oxygenated blood",
         "It prevents vomiting",
-        "It\'s easier for the provider"
+        "It's easier for the provider"
       ],
       correct: "B"
     },
@@ -2685,7 +2685,7 @@ export const questions = {
         "Give medication",
         "Terminate dental treatment, activate facility emergency procedures, monitor vital signs and SpO2",
         "Continue treatment",
-        "Call patient\'s physician"
+        "Call patient's physician"
       ],
       correct: "B"
     },
@@ -3432,7 +3432,7 @@ export const questions = {
       options: [
         "Their food",
         "Oral glucose",
-        "The patient\'s insulin",
+        "The patient's insulin",
         "Epinephrine"
       ],
       correct: "C"
@@ -3494,7 +3494,7 @@ export const questions = {
     },
     {
       id: 15352,
-      question: "If hypoglycemia symptoms don\'t resolve within 10 minutes, what should be done?",
+      question: "If hypoglycemia symptoms don't resolve within 10 minutes, what should be done?",
       options: [
         "Give more sugar",
         "Wait longer",
@@ -3552,7 +3552,7 @@ export const questions = {
       question: "Can a repeat dose of epinephrine be considered for anaphylaxis?",
       options: [
         "No, never",
-        "Yes, if ineffective and advanced care won\'t arrive within 5 to 10 minutes",
+        "Yes, if ineffective and advanced care won't arrive within 5 to 10 minutes",
         "Only after 30 minutes",
         "Only if patient requests"
       ],
@@ -3641,7 +3641,7 @@ export const questions = {
       options: [
         "In tap water",
         "In alcohol",
-        "In Hanks\' balanced salt solution or wrapped in cling film",
+        "In Hanks' balanced salt solution or wrapped in cling film",
         "In ice"
       ],
       correct: "C"
@@ -3736,7 +3736,7 @@ export const questions = {
     },
     {
       id: 15374,
-      question: "Can emergency care be denied if it\'s part of a person\'s job responsibilities?",
+      question: "Can emergency care be denied if it's part of a person's job responsibilities?",
       options: [
         "Yes, always",
         "Yes, if off duty",

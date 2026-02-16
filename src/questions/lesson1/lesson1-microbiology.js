@@ -2055,7 +2055,7 @@ export const questions = {
     },
     {
       id: 70218,
-      question: "Koch\'s postulates consist of how many principles?",
+      question: "Koch's postulates consist of how many principles?",
       options: [
         "Four",
         "Two",
@@ -2491,7 +2491,7 @@ export const questions = {
         "Spleen and lymph nodes",
         "Bone marrow and thymus",
         "MALT and tonsils",
-        "Appendix and Peyer\'s patches",
+        "Appendix and Peyer's patches",
       ],
       correct: "B"
     },
@@ -2684,7 +2684,7 @@ export const questions = {
     },
     {
       id: 70353,
-      question: "How long does IgA in mother\'s milk protect newborns?",
+      question: "How long does IgA in mother's milk protect newborns?",
       options: [
         "Up to 3 months",
         "Up to 9 months",
@@ -3326,7 +3326,7 @@ export const questions = {
       options: [
         "They are too expensive",
         "Attenuated organisms could cause disease in these patients",
-        "They don\'t work in these patients",
+        "They don't work in these patients",
         "They cause allergies",
       ],
       correct: "B"
@@ -4688,7 +4688,7 @@ export const questions = {
     },
     {
       id: 70484,
-      question: "What can diphtheria toxin\'s pseudomembrane lead to?",
+      question: "What can diphtheria toxin's pseudomembrane lead to?",
       options: [
         "Skin lesions",
         "Airway blockage and asphyxiation",
@@ -4699,7 +4699,7 @@ export const questions = {
     },
     {
       id: 70485,
-      question: "What organ\'s motor nerves can diphtheria toxin affect?",
+      question: "What organ's motor nerves can diphtheria toxin affect?",
       options: [
         "Brain",
         "Myocardium",
@@ -6983,7 +6983,7 @@ export const questions = {
         "Robbins Pathology",
         "Essential Microbiology for Dentistry by Samaranayake",
         "Medical Microbiology by Jawetz",
-        "Murray\'s Medical Microbiology",
+        "Murray's Medical Microbiology",
       ],
       correct: "B"
     },
@@ -7059,7 +7059,7 @@ export const questions = {
       id: 70606,
       question: "What is another name for acute ulcerative gingivitis?",
       options: [
-        "Vincent\'s angina",
+        "Vincent's angina",
         "Trench mouth",
         "Cancrum oris",
         "Noma",
@@ -7068,7 +7068,7 @@ export const questions = {
     },
     {
       id: 70607,
-      question: "What is Vincent\'s angina?",
+      question: "What is Vincent's angina?",
       options: [
         "Acute inflammation of the pharynx",
         "Ulcerative tonsillitis due to acute ulcerative gingivitis",
@@ -7357,7 +7357,7 @@ export const questions = {
       question: "Which conditions are caused by the fusospirochetal complex?",
       options: [
         "Dental caries and root canal infections",
-        "Acute necrotizing ulcerative gingivitis, Vincent\'s angina, and trench mouth",
+        "Acute necrotizing ulcerative gingivitis, Vincent's angina, and trench mouth",
         "Pneumonia and bronchitis",
         "Urinary tract infections",
       ],
@@ -7511,7 +7511,7 @@ export const questions = {
       question: "How is leptospirosis transmitted?",
       options: [
         "Respiratory droplets",
-        "Animals\' urine",
+        "Animals' urine",
         "Sexual contact",
         "Insect vectors",
       ],
@@ -7882,7 +7882,7 @@ export const questions = {
     },
     {
       id: 70681,
-      question: "What is Legionnaires\' disease?",
+      question: "What is Legionnaires' disease?",
       options: [
         "Mild gastrointestinal infection",
         "Severe pneumonia with diarrhea, hematuria, and proteinuria",
@@ -8294,7 +8294,7 @@ export const questions = {
         "Robbins Pathology",
         "Essential Microbiology for Dentistry by Samaranayake",
         "Medical Microbiology by Jawetz",
-        "Murray\'s Medical Microbiology",
+        "Murray's Medical Microbiology",
       ],
       correct: "B"
     },
@@ -8313,7 +8313,7 @@ export const questions = {
       id: 70720,
       question: "What condition results when acute necrotizing ulcerative gingivitis progresses to cause facial tissue loss?",
       options: [
-        "Vincent\'s angina",
+        "Vincent's angina",
         "Cancrum oris (noma)",
         "Trench mouth",
         "Periodontitis",
@@ -8333,10 +8333,10 @@ export const questions = {
     },
     {
       id: 70722,
-      question: "What clinical features differentiate Legionnaires\' disease from Pontiac fever?",
+      question: "What clinical features differentiate Legionnaires' disease from Pontiac fever?",
       options: [
-        "Legionnaires\' disease is milder",
-        "Legionnaires\' disease is severe with diarrhea, hematuria, and proteinuria; Pontiac fever is mild",
+        "Legionnaires' disease is milder",
+        "Legionnaires' disease is severe with diarrhea, hematuria, and proteinuria; Pontiac fever is mild",
         "They are identical in severity",
         "Pontiac fever involves the kidneys",
       ],
@@ -8416,7 +8416,7 @@ export const questions = {
       options: [
         "Chickenpox and shingles",
         "Skin warts, oral squamous papillomas, oral warts, and verrucous carcinoma",
-        "Infectious mononucleosis and Burkitt\'s lymphoma",
+        "Infectious mononucleosis and Burkitt's lymphoma",
         "Influenza and pneumonia",
       ],
       correct: "B"
@@ -8896,7 +8896,7 @@ export const questions = {
     },
     {
       id: 70744,
-      question: "What is Burkitt\'s lymphoma?",
+      question: "What is Burkitt's lymphoma?",
       options: [
         "Mild skin infection",
         "Severe malignant tumor of lymphoid tissue",
@@ -8907,7 +8907,7 @@ export const questions = {
     },
     {
       id: 70745,
-      question: "Where is Burkitt\'s lymphoma particularly common?",
+      question: "Where is Burkitt's lymphoma particularly common?",
       options: [
         "North America",
         "African children and areas with endemic malaria",
@@ -9006,7 +9006,7 @@ export const questions = {
     },
     {
       id: 70754,
-      question: "What are Nagayama\'s spots?",
+      question: "What are Nagayama's spots?",
       options: [
         "Spots on the skin",
         "Erythematous papules in the oral cavity caused by HHV-6",
@@ -9020,7 +9020,7 @@ export const questions = {
       question: "What condition is HHV-8 associated with in HIV patients?",
       options: [
         "Pneumonia",
-        "Kaposi\'s sarcoma",
+        "Kaposi's sarcoma",
         "Meningitis",
         "Hepatitis",
       ],
@@ -9030,7 +9030,7 @@ export const questions = {
       id: 70756,
       question: "What is HHV-7 responsible for?",
       options: [
-        "Kaposi\'s sarcoma",
+        "Kaposi's sarcoma",
         "Rashes",
         "Meningitis",
         "Hepatitis",
@@ -9105,7 +9105,7 @@ export const questions = {
     },
     {
       id: 70763,
-      question: "Why doesn\'t the flu vaccine induce long-time immunity?",
+      question: "Why doesn't the flu vaccine induce long-time immunity?",
       options: [
         "Because the virus mutates frequently (antigenic drift and shift)",
         "Because the vaccine is ineffective",
@@ -9215,7 +9215,7 @@ export const questions = {
     },
     {
       id: 70773,
-      question: "What are Koplik\'s spots?",
+      question: "What are Koplik's spots?",
       options: [
         "Red spots on the skin",
         "Bluish-white spots with dark-red areolae on the buccal mucosa",
@@ -9226,7 +9226,7 @@ export const questions = {
     },
     {
       id: 70774,
-      question: "Where are Koplik\'s spots located?",
+      question: "Where are Koplik's spots located?",
       options: [
         "On the skin",
         "On the buccal mucosa or close to orifice of the parotid duct",
@@ -9237,7 +9237,7 @@ export const questions = {
     },
     {
       id: 70775,
-      question: "What happens to Koplik\'s spots as more rashes develop?",
+      question: "What happens to Koplik's spots as more rashes develop?",
       options: [
         "They increase in number",
         "They disappear",
@@ -9457,11 +9457,11 @@ export const questions = {
     },
     {
       id: 70795,
-      question: "What is the relationship between Koplik\'s spots and skin rashes in measles?",
+      question: "What is the relationship between Koplik's spots and skin rashes in measles?",
       options: [
         "They appear together",
-        "As more rashes develop, more Koplik\'s spots disappear",
-        "Koplik\'s spots appear after rashes",
+        "As more rashes develop, more Koplik's spots disappear",
+        "Koplik's spots appear after rashes",
         "They are unrelated",
       ],
       correct: "B"
@@ -9604,7 +9604,7 @@ export const questions = {
       options: [
         "Primary infection only",
         "Infectious mononucleosis",
-        "Burkitt\'s lymphoma",
+        "Burkitt's lymphoma",
         "Nasopharyngeal carcinoma",
       ],
       correct: "B"
@@ -11131,10 +11131,10 @@ export const questions = {
       id: 70947,
       question: "What reference textbook is cited for this material?",
       options: [
-        "Gray\'s Anatomy",
-        "Harrison\'s Principles of Internal Medicine",
+        "Gray's Anatomy",
+        "Harrison's Principles of Internal Medicine",
         "Robbins Pathology",
-        "Samaranayake\'s Essential Microbiology for Dentistry",
+        "Samaranayake's Essential Microbiology for Dentistry",
       ],
       correct: "D"
     },
@@ -11648,7 +11648,7 @@ export const questions = {
     },
     {
       id: 70846,
-      question: "What is HEV\'s association with fulminant hepatitis?",
+      question: "What is HEV's association with fulminant hepatitis?",
       options: [
         "Very common",
         "Never occurs",
@@ -11760,7 +11760,7 @@ export const questions = {
       id: 70856,
       question: "What opportunistic infections are HIV-positive patients susceptible to?",
       options: [
-        "PCP, candidiasis and neoplasms like Kaposi\'s sarcoma",
+        "PCP, candidiasis and neoplasms like Kaposi's sarcoma",
         "Only bacterial infections",
         "Only viral infections",
         "Only fungal infections",
@@ -12187,7 +12187,7 @@ export const questions = {
     },
     {
       id: 70895,
-      question: "What type of tumor is Kaposi\'s sarcoma?",
+      question: "What type of tumor is Kaposi's sarcoma?",
       options: [
         "Epithelial tumor",
         "Bone tumor",
@@ -12198,7 +12198,7 @@ export const questions = {
     },
     {
       id: 70896,
-      question: "What causes Kaposi\'s sarcoma?",
+      question: "What causes Kaposi's sarcoma?",
       options: [
         "HHV-8",
         "HIV directly",
@@ -12388,7 +12388,7 @@ export const questions = {
       question: "What causes xerostomia?",
       options: [
         "Only aging",
-        "Aging, drugs, radiotherapy and Sjögren\'s syndrome",
+        "Aging, drugs, radiotherapy and Sjögren's syndrome",
         "Only medications",
         "Only radiation",
       ],
@@ -13566,7 +13566,7 @@ export const questions = {
       id: 70976,
       question: "What is metastatic inflammation?",
       options: [
-        "Immunological (antigen-antibody) complexes (e.g., Behçet\'s syndrome)",
+        "Immunological (antigen-antibody) complexes (e.g., Behçet's syndrome)",
         "Bacterial spread",
         "Toxin secretion",
         "Enzyme release",
@@ -13797,10 +13797,10 @@ export const questions = {
       id: 70997,
       question: "How do Lactobacillus spp. differ from mutans streptococci in caries?",
       options: [
-        "They don\'t produce acid",
+        "They don't produce acid",
         "Only a few are isolated before caries formation",
-        "They don\'t produce polysaccharide",
-        "They can\'t survive at low pH",
+        "They don't produce polysaccharide",
+        "They can't survive at low pH",
       ],
       correct: "B"
     },
@@ -14602,7 +14602,7 @@ export const questions = {
       id: 71031,
       question: "What is the severe form of ANUG called?",
       options: [
-        "Ludwig\'s angina",
+        "Ludwig's angina",
         "Pericoronitis",
         "Noma (cancrum oris)",
         "Osteomyelitis",
@@ -14721,7 +14721,7 @@ export const questions = {
     },
     {
       id: 71042,
-      question: "Ludwig\'s angina is a cellulitis of which spaces?",
+      question: "Ludwig's angina is a cellulitis of which spaces?",
       options: [
         "Maxillary sinus",
         "Sublingual and submandibular regions",
@@ -14732,7 +14732,7 @@ export const questions = {
     },
     {
       id: 71043,
-      question: "Which of the following is NOT an etiology of Ludwig\'s angina?",
+      question: "Which of the following is NOT an etiology of Ludwig's angina?",
       options: [
         "Dental infections",
         "Sialadenitis",
@@ -14743,7 +14743,7 @@ export const questions = {
     },
     {
       id: 71044,
-      question: "Sialadenitis as an etiology of Ludwig\'s angina especially occurs in which space?",
+      question: "Sialadenitis as an etiology of Ludwig's angina especially occurs in which space?",
       options: [
         "Sublingual space",
         "Parotid space",
@@ -14754,7 +14754,7 @@ export const questions = {
     },
     {
       id: 71045,
-      question: "Which of the following is a common symptom of Ludwig\'s angina?",
+      question: "Which of the following is a common symptom of Ludwig's angina?",
       options: [
         "Swelling at the front of the neck",
         "Improved breathing",
@@ -14765,7 +14765,7 @@ export const questions = {
     },
     {
       id: 71046,
-      question: "Which bacteria are most predominant in Ludwig\'s angina?",
+      question: "Which bacteria are most predominant in Ludwig's angina?",
       options: [
         "Only S. aureus",
         "Only E. coli",
@@ -14776,7 +14776,7 @@ export const questions = {
     },
     {
       id: 71047,
-      question: "What antibiotics are especially effective for Ludwig\'s angina?",
+      question: "What antibiotics are especially effective for Ludwig's angina?",
       options: [
         "Aminoglycosides",
         "Penicillin and metronidazole",
@@ -14847,7 +14847,7 @@ export const questions = {
         "Excellent bone health",
         "Radiation",
         "Osteoporosis",
-        "Paget\'s disease",
+        "Paget's disease",
       ],
       correct: "A"
     },

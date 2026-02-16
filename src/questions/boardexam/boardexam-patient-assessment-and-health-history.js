@@ -9,8 +9,8 @@ export const questions = {
       options: [
         "To fulfill legal documentation requirements only",
         "To assess risks and contraindications that may influence treatment planning",
-        "To determine the patient\'s ability to pay for services",
-        "To compare patients\' health status with national averages"
+        "To determine the patient's ability to pay for services",
+        "To compare patients' health status with national averages"
       ],
       correct: "B"
     },
@@ -20,7 +20,7 @@ export const questions = {
       options: [
         "Understand patient concerns and goals for the dental visit",
         "Identify key risk factors affecting dental hygiene care provision",
-        "Determine the patient\'s socioeconomic status for billing purposes",
+        "Determine the patient's socioeconomic status for billing purposes",
         "Recognize special physiologic states such as pregnancy"
       ],
       correct: "C"
@@ -150,7 +150,7 @@ export const questions = {
       id: 17113,
       question: "What should be included in the demographic information section of a health history?",
       options: [
-        "Only the patient\'s name and birth date",
+        "Only the patient's name and birth date",
         "Financial credit history",
         "Name, contact information, gender, date of birth, and emergency contact",
         "Employment history for the past 20 years"
@@ -161,27 +161,27 @@ export const questions = {
       id: 17114,
       question: "What is the chief complaint?",
       options: [
-        "The dental hygienist\'s primary concern about the patient",
+        "The dental hygienist's primary concern about the patient",
         "The most expensive treatment needed",
-        "The patient\'s primary reason for seeking oral healthcare services, recorded in the patient\'s own words",
+        "The patient's primary reason for seeking oral healthcare services, recorded in the patient's own words",
         "The most serious medical condition listed"
       ],
       correct: "C"
     },
     {
       id: 17115,
-      question: "Which of the following should be documented in a patient\'s dental history?",
+      question: "Which of the following should be documented in a patient's dental history?",
       options: [
         "Only current symptoms",
         "Previous dental treatments, frequency of visits, and oral self-care practices",
         "Exclusively radiographic findings",
-        "Only the patient\'s insurance information"
+        "Only the patient's insurance information"
       ],
       correct: "B"
     },
     {
       id: 17116,
-      question: "What information should be included when documenting a patient\'s fluoride history?",
+      question: "What information should be included when documenting a patient's fluoride history?",
       options: [
         "Only professional applications",
         "Community water fluoridation status only",
@@ -196,7 +196,7 @@ export const questions = {
       options: [
         "Diagnosed medical conditions",
         "Use of prescription and over-the-counter medications",
-        "Patient\'s employment performance reviews",
+        "Patient's employment performance reviews",
         "Types of allergies and drug reactions"
       ],
       correct: "C"
@@ -205,7 +205,7 @@ export const questions = {
       id: 17118,
       question: "According to HIPAA, what is \"individually identifiable\" personal health information?",
       options: [
-        "Only the patient\'s medical diagnosis",
+        "Only the patient's medical diagnosis",
         "Information such as name, birth date, address, or Social Security number",
         "Exclusively laboratory test results",
         "Only prescription medication lists"
@@ -217,7 +217,7 @@ export const questions = {
       question: "When is it acceptable to disclose protected health information without written patient approval under HIPAA?",
       options: [
         "When requested by family members",
-        "When the dentist decides it\'s necessary",
+        "When the dentist decides it's necessary",
         "In an emergency situation where disclosure is in the best interest of the patient",
         "When insurance companies request it verbally"
       ],
@@ -504,14 +504,14 @@ export const questions = {
       options: [
         "Only the final outcome",
         "The reason for referral, contact information, details of conversations, and specifics relating to medical issues",
-        "Just the physician\'s name",
+        "Just the physician's name",
         "Only the date of the consultation request"
       ],
       correct: "B"
     },
     {
       id: 17146,
-      question: "According to HIPAA, what must be obtained before requesting medical information from a patient\'s physician?",
+      question: "According to HIPAA, what must be obtained before requesting medical information from a patient's physician?",
       options: [
         "Payment for the records",
         "Consent for information release from the patient",
@@ -526,7 +526,7 @@ export const questions = {
       options: [
         "Only in emergency situations",
         "When a nonurgent but potentially undiagnosed condition is suspected",
-        "Never, as this is outside the dental hygienist\'s scope",
+        "Never, as this is outside the dental hygienist's scope",
         "Only if the patient has no insurance"
       ],
       correct: "B"
@@ -621,7 +621,7 @@ export const questions = {
     },
     {
       id: 17156,
-      question: "When is it appropriate to conduct the health history interview without the patient\'s parent or guardian present?",
+      question: "When is it appropriate to conduct the health history interview without the patient's parent or guardian present?",
       options: [
         "When the patient is a minor",
         "Never, all interviews require a parent or guardian",
@@ -645,7 +645,7 @@ export const questions = {
       id: 17158,
       question: "How should the dental hygienist respond if a patient appears to be detaching from reality during the interview?",
       options: [
-        "Reinforce the patient\'s beliefs",
+        "Reinforce the patient's beliefs",
         "Avoid reinforcing relevant beliefs and share concerns openly",
         "End the appointment immediately without explanation",
         "Continue as normal without addressing the concerns"
@@ -709,7 +709,7 @@ export const questions = {
     },
     {
       id: 17164,
-      question: "What should be assessed regarding a patient\'s chewing ability?",
+      question: "What should be assessed regarding a patient's chewing ability?",
       options: [
         "Only if they have dentures",
         "Difficulty chewing or swallowing related to appliances, missing teeth, or decay",
@@ -753,7 +753,7 @@ export const questions = {
     },
     {
       id: 17168,
-      question: "What should be documented regarding a patient\'s beliefs and values about oral health?",
+      question: "What should be documented regarding a patient's beliefs and values about oral health?",
       options: [
         "Nothing, as this is not relevant to treatment",
         "Assess motivational strategies and determine education plan",
@@ -768,7 +768,7 @@ export const questions = {
       options: [
         "To fulfill paperwork requirements only",
         "To determine whether conflicting data exist and investigate misunderstandings",
-        "To judge the patient\'s lifestyle choices",
+        "To judge the patient's lifestyle choices",
         "To compare with other patients"
       ],
       correct: "B"
@@ -786,11 +786,11 @@ export const questions = {
     },
     {
       id: 17171,
-      question: "Why is it important to know when a patient\'s last physical examination occurred?",
+      question: "Why is it important to know when a patient's last physical examination occurred?",
       options: [
         "To schedule dental appointments accordingly",
         "To determine previous health history and compliance with regular medical care",
-        "To judge the patient\'s health consciousness",
+        "To judge the patient's health consciousness",
         "To verify insurance coverage"
       ],
       correct: "B"
@@ -799,7 +799,7 @@ export const questions = {
       id: 17172,
       question: "If a patient is currently under medical care, what should be determined?",
       options: [
-        "Only the physician\'s name",
+        "Only the physician's name",
         "Current health status, chronic problems, risk for emergencies, and need for consultation",
         "Exclusively the frequency of medical visits",
         "Only the medications prescribed"
@@ -812,7 +812,7 @@ export const questions = {
       options: [
         "To determine insurance coverage",
         "To identify recent surgeries and potential for antibiotic prophylaxis",
-        "To judge the patient\'s overall lifestyle",
+        "To judge the patient's overall lifestyle",
         "To compare with national health statistics"
       ],
       correct: "B"
@@ -835,7 +835,7 @@ export const questions = {
         "To report to insurance companies",
         "To identify drug effects that may influence patient management and interactions with dental care",
         "To judge patient compliance",
-        "To compare with other patients\' medications"
+        "To compare with other patients' medications"
       ],
       correct: "B"
     },
@@ -876,7 +876,7 @@ export const questions = {
       id: 17179,
       question: "What should be documented if a patient took their prophylactic antibiotic?",
       options: [
-        "Nothing, as it\'s the patient\'s responsibility",
+        "Nothing, as it's the patient's responsibility",
         "The antibiotic agent, dose, and time administered",
         "Only that they confirmed taking it",
         "Exclusively the prescription number"
@@ -931,9 +931,9 @@ export const questions = {
       id: 17184,
       question: "How should swollen ankles be evaluated during history taking?",
       options: [
-        "Assume it\'s always heart failure",
+        "Assume it's always heart failure",
         "Determine reason for swelling and whether pain is associated",
-        "Ignore as it\'s not related to dental care",
+        "Ignore as it's not related to dental care",
         "Immediately refer to emergency services"
       ],
       correct: "B"
@@ -1020,7 +1020,7 @@ export const questions = {
       question: "What should be avoided for patients with epilepsy during dental treatment?",
       options: [
         "All forms of anesthesia",
-        "Flashing overhead lights in the patient\'s eyes",
+        "Flashing overhead lights in the patient's eyes",
         "Any sharp instruments",
         "Radiographs"
       ],
@@ -1351,8 +1351,8 @@ export const questions = {
       options: [
         "Only the type of cancer",
         "Current white blood cell count with medical consultation",
-        "Exclusively the patient\'s preference",
-        "Only the oncologist\'s general permission"
+        "Exclusively the patient's preference",
+        "Only the oncologist's general permission"
       ],
       correct: "B"
     },
@@ -1417,7 +1417,7 @@ export const questions = {
       options: [
         "Refuse to provide treatment",
         "Investigate the event and institute procedures to prevent it",
-        "Assume it won\'t happen again",
+        "Assume it won't happen again",
         "Only document the history without discussion"
       ],
       correct: "B"
@@ -1596,7 +1596,7 @@ export const questions = {
         "To fulfill insurance requirements",
         "To identify undiagnosed medical conditions or establish baseline measurements",
         "To determine if the patient needs emergency care",
-        "To assess the patient\'s pain tolerance"
+        "To assess the patient's pain tolerance"
       ],
       correct: "B"
     },
@@ -1604,7 +1604,7 @@ export const questions = {
       id: 17203,
       question: "Which of the following is NOT a factor that can influence vital signs?",
       options: [
-        "Patient\'s eye color",
+        "Patient's eye color",
         "Medications",
         "Physical exertion",
         "Stress"
@@ -1811,10 +1811,10 @@ export const questions = {
     },
     {
       id: 17222,
-      question: "Why should the thumb never be used to feel for a patient\'s pulse?",
+      question: "Why should the thumb never be used to feel for a patient's pulse?",
       options: [
         "The thumb is too insensitive",
-        "The thumb has a pulse of its own that can be mistaken for the patient\'s pulse",
+        "The thumb has a pulse of its own that can be mistaken for the patient's pulse",
         "The thumb cannot apply enough pressure",
         "The thumb is too large to accurately locate the pulse"
       ],
@@ -1946,7 +1946,7 @@ export const questions = {
       question: "How is respiration rate assessed?",
       options: [
         "By listening with a stethoscope",
-        "By counting the rise and fall of the patient\'s chest",
+        "By counting the rise and fall of the patient's chest",
         "By measuring oxygen saturation",
         "By asking the patient to count their breaths"
       ],
@@ -1954,7 +1954,7 @@ export const questions = {
     },
     {
       id: 17235,
-      question: "Why should the dental hygienist assess respiration rate without the patient\'s awareness?",
+      question: "Why should the dental hygienist assess respiration rate without the patient's awareness?",
       options: [
         "To comply with legal requirements",
         "To prevent the patient from changing breathing patterns",
@@ -1969,7 +1969,7 @@ export const questions = {
       options: [
         "Only before pulse assessment",
         "Only after pulse assessment",
-        "Before or after the patient\'s pulse rate is assessed",
+        "Before or after the patient's pulse rate is assessed",
         "Only at the beginning of the appointment"
       ],
       correct: "C"
@@ -3079,7 +3079,7 @@ export const questions = {
       question: "What should be disinfected before and after use to avoid disease transmission?",
       options: [
         "The blood pressure cuff",
-        "The patient\'s arm",
+        "The patient's arm",
         "The earpiece of the stethoscope",
         "The treatment chair"
       ],
@@ -3098,10 +3098,10 @@ export const questions = {
     },
     {
       id: 17339,
-      question: "What should always be recorded in the patient\'s treatment record?",
+      question: "What should always be recorded in the patient's treatment record?",
       options: [
         "Only abnormal vital signs",
-        "The patient\'s vital signs and baseline readings for comparison",
+        "The patient's vital signs and baseline readings for comparison",
         "Only blood pressure",
         "Only pulse rate"
       ],
@@ -3376,7 +3376,7 @@ export const questions = {
       question: "Is inability to cooperate appropriate for electronic blood pressure measurement?",
       options: [
         "Yes, always",
-        "Yes, it\'s the best method",
+        "Yes, it's the best method",
         "No, not appropriate",
         "Only in emergencies"
       ],
@@ -3389,7 +3389,7 @@ export const questions = {
         "Inexpensive only",
         "Can be used on most patients and has good reliability",
         "Never needs calibration",
-        "Doesn\'t require any skill"
+        "Doesn't require any skill"
       ],
       correct: "B"
     },
@@ -3410,7 +3410,7 @@ export const questions = {
       options: [
         "Never needs calibration",
         "Lightweight, portable, and compact",
-        "Doesn\'t require clinical skill",
+        "Doesn't require clinical skill",
         "Works without a cuff"
       ],
       correct: "B"
@@ -3505,7 +3505,7 @@ export const questions = {
     },
     {
       id: 17376,
-      question: "If the patient\'s normal systolic pressure is unknown, how high should you rapidly inflate the cuff?",
+      question: "If the patient's normal systolic pressure is unknown, how high should you rapidly inflate the cuff?",
       options: [
         "10 mm Hg above radial pulsation disappearance",
         "20 mm Hg above radial pulsation disappearance",
@@ -3630,9 +3630,9 @@ export const questions = {
       id: 17300,
       question: "Which of the following is the primary purpose of collecting a comprehensive medication history in dental hygiene practice?",
       options: [
-        "To determine the patient\'s insurance coverage",
+        "To determine the patient's insurance coverage",
         "To assess risks associated with treating patients and employ appropriate treatment strategies",
-        "To evaluate the patient\'s financial ability to purchase medications",
+        "To evaluate the patient's financial ability to purchase medications",
         "To satisfy legal documentation requirements only"
       ],
       correct: "B"
@@ -3727,7 +3727,7 @@ export const questions = {
     },
     {
       id: 17309,
-      question: "The FDA\'s Pregnancy and Lactation Labeling Rule replaced which previous system?",
+      question: "The FDA's Pregnancy and Lactation Labeling Rule replaced which previous system?",
       options: [
         "The pregnancy risk factors (A, B, C, D, X)",
         "The trimester-based classification system",
@@ -3949,9 +3949,9 @@ export const questions = {
       id: 17329,
       question: "Why must dental hygienists verify epinephrine compatibility before administration?",
       options: [
-        "To ensure the patient isn\'t allergic to latex",
+        "To ensure the patient isn't allergic to latex",
         "To prevent interactions with medications and reduce risk of hypertensive crisis and stroke",
-        "To confirm the patient\'s insurance coverage",
+        "To confirm the patient's insurance coverage",
         "To determine if the patient prefers a different anesthetic"
       ],
       correct: "B"
@@ -3973,7 +3973,7 @@ export const questions = {
       options: [
         "Only the medications currently prescribed",
         "The source, date received, and confirmation it was scanned into the patient record",
-        "Just the patient\'s signature acknowledging receipt",
+        "Just the patient's signature acknowledging receipt",
         "Only medications prescribed within the last month"
       ],
       correct: "B"
@@ -3995,7 +3995,7 @@ export const questions = {
       options: [
         "Using expired medication",
         "A physician prescribing medication for a use not FDA-approved for that drug",
-        "Taking someone else\'s prescription",
+        "Taking someone else's prescription",
         "Using medication without reading the label"
       ],
       correct: "B"
@@ -4057,9 +4057,9 @@ export const questions = {
     },
     {
       id: 17339,
-      question: "What should be done if a patient\'s symptoms don\'t correlate with known medical conditions?",
+      question: "What should be done if a patient's symptoms don't correlate with known medical conditions?",
       options: [
-        "Ignore the symptoms as they\'re probably unimportant",
+        "Ignore the symptoms as they're probably unimportant",
         "Determine if medications may be contributing or if an undiagnosed condition exists",
         "Assume the patient is exaggerating",
         "Wait until the next appointment to address concerns"
@@ -4071,8 +4071,8 @@ export const questions = {
       question: "When assessing treatment risk, which takes priority?",
       options: [
         "Completing all planned dental hygiene procedures",
-        "Meeting the practice\'s production goals",
-        "Maintaining the patient\'s systemic health and safety",
+        "Meeting the practice's production goals",
+        "Maintaining the patient's systemic health and safety",
         "Finishing treatment within the scheduled time"
       ],
       correct: "C"
@@ -4123,7 +4123,7 @@ export const questions = {
     },
     {
       id: 17345,
-      question: "What does the dental hygienist\'s role as patient advocate include?",
+      question: "What does the dental hygienist's role as patient advocate include?",
       options: [
         "Prescribing medications for patients",
         "Facilitating patient compliance and education on medication use",
@@ -4159,9 +4159,9 @@ export const questions = {
       question: "What is a common reason patients fail to report medications?",
       options: [
         "They deliberately want to deceive healthcare providers",
-        "They don\'t view OTC medications, supplements, or substances like cannabis as \"medications\"",
+        "They don't view OTC medications, supplements, or substances like cannabis as \"medications\"",
         "They are always trying to hide their health conditions",
-        "They don\'t trust any healthcare providers"
+        "They don't trust any healthcare providers"
       ],
       correct: "B"
     },
@@ -4178,7 +4178,7 @@ export const questions = {
     },
     {
       id: 17350,
-      question: "Which situation requires consultation with a patient\'s physician?",
+      question: "Which situation requires consultation with a patient's physician?",
       options: [
         "Routine cleaning for a healthy patient",
         "Clarifying medication discrepancies or confirming safety to provide treatment",
@@ -4280,7 +4280,7 @@ export const questions = {
       question: "When should treatment be postponed?",
       options: [
         "Whenever the patient requests it for any reason",
-        "When the patient\'s systemic health and safety are a concern",
+        "When the patient's systemic health and safety are a concern",
         "When the dental office is running behind schedule",
         "When the patient forgot their insurance card"
       ],
@@ -4303,7 +4303,7 @@ export const questions = {
       options: [
         "Replace them annually regardless of level",
         "Monitor to ensure adequate oxygen levels are available",
-        "Never check them as it\'s not their responsibility",
+        "Never check them as it's not their responsibility",
         "Only check when an emergency occurs"
       ],
       correct: "B"
@@ -4343,7 +4343,7 @@ export const questions = {
     },
     {
       id: 17365,
-      question: "What demonstrates a patient\'s attitude toward health and wellness?",
+      question: "What demonstrates a patient's attitude toward health and wellness?",
       options: [
         "Their medication list including vitamins and dietary supplements",
         "Only their insurance coverage level",
@@ -4378,7 +4378,7 @@ export const questions = {
       id: 17368,
       question: "Why should dental hygienists assess health literacy when evaluating compliance?",
       options: [
-        "It determines the patient\'s income level",
+        "It determines the patient's income level",
         "It only relates to reading ability",
         "Compliance is affected by cultural, social norms, and ability to understand instructions",
         "It has no impact on medication use"
@@ -4821,7 +4821,7 @@ export const questions = {
       question: "Where are the inferior and superior deep cervical nodes located?",
       options: [
         "Superficial to the SCM muscle",
-        "Along the neck\'s length, deep to the SCM muscle",
+        "Along the neck's length, deep to the SCM muscle",
         "Only under the chin",
         "Only behind the ears"
       ],
@@ -4854,7 +4854,7 @@ export const questions = {
       question: "What is the thyroid cartilage commonly known as?",
       options: [
         "Voice box prominence",
-        "Adam\'s apple",
+        "Adam's apple",
         "Thyroid bump",
         "Laryngeal notch"
       ],
@@ -5115,7 +5115,7 @@ export const questions = {
     },
     {
       id: 17466,
-      question: "What gives the tongue\'s dorsal surface its velvety texture?",
+      question: "What gives the tongue's dorsal surface its velvety texture?",
       options: [
         "Fungiform papillae",
         "Slender, whitish, threadlike filiform papillae",
@@ -5195,7 +5195,7 @@ export const questions = {
       question: "What is the lingual frenum?",
       options: [
         "A muscle",
-        "A midline fold of tissue between tongue\'s ventral surface and floor of mouth",
+        "A midline fold of tissue between tongue's ventral surface and floor of mouth",
         "A papilla",
         "A lymph node"
       ],
@@ -5713,7 +5713,7 @@ export const questions = {
       options: [
         "A subjective feeling",
         "An objective condition directly observed by patient and clinician",
-        "Patient\'s complaint only",
+        "Patient's complaint only",
         "Unverifiable report"
       ],
       correct: "B"

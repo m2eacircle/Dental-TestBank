@@ -533,7 +533,7 @@ export const questions = {
     },
     {
       id: 27148,
-      question: "What is dental hygienist\'s role?",
+      question: "What is dental hygienist's role?",
       options: [
         "Diagnose mental illness",
         "Prescribe psychiatric medication",
@@ -646,8 +646,8 @@ export const questions = {
       question: "What is empathy?",
       options: [
         "Agreeing with everyone",
-        "Avoiding others\' feelings",
-        "Ability to relate to another\'s emotions",
+        "Avoiding others' feelings",
+        "Ability to relate to another's emotions",
         "Dismissing concerns"
       ],
       correct: "C"
@@ -698,7 +698,7 @@ export const questions = {
     },
     {
       id: 27163,
-      question: "What is Maslow\'s Hierarchy of Needs?",
+      question: "What is Maslow's Hierarchy of Needs?",
       options: [
         "List of dental procedures",
         "Insurance payment schedule",
@@ -777,7 +777,7 @@ export const questions = {
       id: 27170,
       question: "What did Darby and Walsh develop?",
       options: [
-        "Maslow\'s Hierarchy",
+        "Maslow's Hierarchy",
         "Stress model",
         "Human needs conceptual model for dental hygiene",
         "Burnout scale"
@@ -922,7 +922,7 @@ export const questions = {
       options: [
         "Selfish behavior",
         "Unnecessary luxury",
-        "Preserving or improving one\'s health and well-being",
+        "Preserving or improving one's health and well-being",
         "Avoiding responsibility"
       ],
       correct: "C"
@@ -1061,7 +1061,7 @@ export const questions = {
     },
     {
       id: 27196,
-      question: "What can affect individual\'s mental health and job satisfaction?",
+      question: "What can affect individual's mental health and job satisfaction?",
       options: [
         "Only positive factors",
         "Only pay increases",
@@ -1242,7 +1242,7 @@ export const questions = {
         "Perfect timing",
         "Complete breakdown",
         "Life feeling uncontrollable to seek help",
-        "Others\' permission"
+        "Others' permission"
       ],
       correct: "C"
     },
