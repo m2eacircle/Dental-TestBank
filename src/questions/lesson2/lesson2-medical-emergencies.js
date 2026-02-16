@@ -1,12 +1,15 @@
 // LESSON 2 - Medical Emergencies Questions
 
 // Topics:
-//   1. Introduction and prevention (Part 1) (241 questions)
-//   2. Introduction and prevention (Part 2) (209 questions)
-//   3. Introduction and prevention (Part 3) (75 questions)
-//   4. Introduction and prevention (Part 4) (75 questions)
+//   1. Introduction and prevention (Part 1)
+//   1. Introduction and prevention (Part 2)
+//   1. Introduction and prevention (Part 3)
+//   1. Introduction and prevention (Part 3-2)
+//   1. Introduction and prevention (Part 4)
+//   1. Introduction and prevention (Part 4-2)
 // 
-// TOTAL: 600 questions
+// TOTAL: 537 questions
+// ID Range: 70001 - 70537
 
 export const questions = {
   "1. Introduction and prevention (Part 1)": [
@@ -2602,7 +2605,7 @@ export const questions = {
   ],
   "1. Introduction and prevention (Part 3)": [
     {
-      id: 70262,
+      id: 70256,
       question: "What percentage of the grade is allocated to the presentation component?",
       options: [
         "15% for the presentation",
@@ -2613,7 +2616,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 70264,
+      id: 70257,
       question: "What is one example of a medical condition mentioned for a case scenario?",
       options: [
         "Angina pectoris",
@@ -2624,7 +2627,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70267,
+      id: 70258,
       question: "How is diabetes mentioned in relation to dental hygiene practice?",
       options: [
         "It is completely unrelated to oral health",
@@ -2635,7 +2638,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 70268,
+      id: 70259,
       question: "In which semester will students perform OHE (Oral Health Education)?",
       options: [
         "Semester 2",
@@ -2646,7 +2649,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 70270,
+      id: 70260,
       question: "How long is the duration of this course?",
       options: [
         "Two weeks",
@@ -2657,7 +2660,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 70277,
+      id: 70261,
       question: "In the first case scenario, which condition should be the primary focus?",
       options: [
         "Hypertension",
@@ -2668,7 +2671,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 70280,
+      id: 70262,
       question: "If a case scenario has multiple conditions, which should be addressed?",
       options: [
         "All conditions in equal detail",
@@ -2679,7 +2682,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70281,
+      id: 70263,
       question: "What format options do students have for their presentation?",
       options: [
         "Only PowerPoint presentations are allowed",
@@ -2690,7 +2693,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 70285,
+      id: 70264,
       question: "What is the maximum number of students allowed per group?",
       options: [
         "3 students",
@@ -2701,7 +2704,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 70287,
+      id: 70265,
       question: "For the asthma case scenario, what should the presentation focus on?",
       options: [
         "Asthma in general, not case-specific",
@@ -2712,7 +2715,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70311,
+      id: 70266,
       question: "The course duration is four weeks long.",
       options: [
         "True",
@@ -2721,7 +2724,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70313,
+      id: 70267,
       question: "Diabetes is mentioned as being linked to periodontal conditions.",
       options: [
         "True",
@@ -2730,7 +2733,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70317,
+      id: 70268,
       question: "Students are considered self-regulated and self-initiated after graduation.",
       options: [
         "True",
@@ -2739,7 +2742,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70319,
+      id: 70269,
       question: "The maximum number of students allowed in a group is 5.",
       options: [
         "True",
@@ -2748,7 +2751,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70321,
+      id: 70270,
       question: "For a case with multiple conditions, students should cover all conditions equally in their brochure.",
       options: [
         "True",
@@ -2757,7 +2760,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70324,
+      id: 70271,
       question: "CDHO is mentioned as one of the required reference sources.",
       options: [
         "True",
@@ -2766,7 +2769,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70327,
+      id: 70272,
       question: "The OHE criteria mentioned relates to semester 4.",
       options: [
         "True",
@@ -2775,7 +2778,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70328,
+      id: 70273,
       question: "The board exam is scheduled for May.",
       options: [
         "True",
@@ -2784,7 +2787,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70330,
+      id: 70274,
       question: "The presentation should focus on the specific case scenario.",
       options: [
         "True",
@@ -2795,7 +2798,7 @@ export const questions = {
   ],
   "1. Introduction and prevention (Part 4)": [
     {
-      id: 70332,
+      id: 70275,
       question: "What is omega-3 primarily taken for according to the lecture?",
       options: [
         "Bone health and calcium absorption",
@@ -2806,7 +2809,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 70333,
+      id: 70276,
       question: "What dental consideration is required when a patient is taking omega-3?",
       options: [
         "Check for drug interactions with local anesthetics",
@@ -2817,7 +2820,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70334,
+      id: 70277,
       question: "What medication class does Eliquis belong to?",
       options: [
         "Antibiotic used for bacterial infections",
@@ -2828,7 +2831,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 70335,
+      id: 70278,
       question: "For patients taking Eliquis or other blood thinners (excluding baby aspirin), what should be checked?",
       options: [
         "INR levels and ensure no other bleeding disorders",
@@ -2839,7 +2842,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70336,
+      id: 70279,
       question: "What is the dosage threshold mentioned for baby aspirin that doesn't require special precautions?",
       options: [
         "50 milligrams",
@@ -2850,7 +2853,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70337,
+      id: 70280,
       question: "What should you do if you forgot to ask about INR levels and the patient bleeds profusely?",
       options: [
         "Apply ice packs immediately",
@@ -2861,7 +2864,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70338,
+      id: 70281,
       question: "Why is it important to know INR levels for patients on warfarin or Eliquis?",
       options: [
         "These medications affect liver metabolism",
@@ -2872,7 +2875,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 70339,
+      id: 70282,
       question: "What question in the medical health history addresses bleeding tendencies?",
       options: [
         "Have you had recent surgery or hospitalization?",
@@ -2883,7 +2886,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 70340,
+      id: 70283,
       question: "What conditions might bleeding disorders indicate caution for?",
       options: [
         "Root canal therapy and crown preparation",
@@ -2894,7 +2897,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70341,
+      id: 70284,
       question: "When is a medical clearance needed for anemia?",
       options: [
         "If it's poorly controlled or patient stopped taking medication",
@@ -2905,7 +2908,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70342,
+      id: 70285,
       question: "What should you do if a patient's blood pressure reads 135/85 and they have no history of hypertension?",
       options: [
         "Proceed with treatment immediately",
@@ -2916,7 +2919,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 70343,
+      id: 70286,
       question: "After retaking blood pressure and confirming elevated readings, what is the next step?",
       options: [
         "Give the patient the original form",
@@ -2927,7 +2930,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 70344,
+      id: 70287,
       question: "What is white coat syndrome?",
       options: [
         "Allergy to dental materials",
@@ -2938,7 +2941,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70345,
+      id: 70288,
       question: "What should you do for a patient with confirmed white coat syndrome?",
       options: [
         "Refuse treatment until blood pressure normalizes",
@@ -2949,7 +2952,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70346,
+      id: 70289,
       question: "What three questions should be asked of diabetic patients?",
       options: [
         "When was last meal, medication, and blood sugar level",
@@ -2960,7 +2963,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70347,
+      id: 70290,
       question: "If seeing a diabetic patient for the first time, what additional information should you obtain?",
       options: [
         "Complete dietary log for the past week",
@@ -2971,7 +2974,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 70348,
+      id: 70291,
       question: "What should be available chairside for a diabetic patient?",
       options: [
         "Insulin and syringes for emergencies",
@@ -2982,7 +2985,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70349,
+      id: 70292,
       question: "What condition would require giving a patient juice?",
       options: [
         "Hyperglycemia (high blood sugar)",
@@ -2993,7 +2996,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 70350,
+      id: 70293,
       question: "What types of allergies should be specifically asked about in the medical history?",
       options: [
         "Food allergies only",
@@ -3004,7 +3007,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 70351,
+      id: 70294,
       question: "What should you do if a patient has a delayed allergic reaction after leaving the clinic?",
       options: [
         "Tell them to take their allergy medication and go to walk-in clinic",
@@ -3015,7 +3018,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70352,
+      id: 70295,
       question: "What respiratory condition question should be asked in the medical history?",
       options: [
         "Do you smoke or use tobacco products?",
@@ -3026,7 +3029,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 70353,
+      id: 70296,
       question: "If an asthma patient didn't bring their inhaler, what follow-up questions should be asked?",
       options: [
         "What is your peak flow reading today?",
@@ -3037,7 +3040,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70354,
+      id: 70297,
       question: "Where should emergency inhalers be available?",
       options: [
         "Only in hospitals",
@@ -3048,7 +3051,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70355,
+      id: 70298,
       question: "How often does CPR certification expire?",
       options: [
         "Every year",
@@ -3059,7 +3062,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 70356,
+      id: 70299,
       question: "According to CDHO guidelines, how often must CPR refresher courses be taken?",
       options: [
         "Every 2 years when certification expires",
@@ -3070,7 +3073,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70357,
+      id: 70300,
       question: "What happens if you fail to maintain annual CPR refresher courses as required by CDHO?",
       options: [
         "Nothing, it's just a recommendation",
@@ -3081,7 +3084,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 70358,
+      id: 70301,
       question: "What should dental hygienists know regarding emergency procedures?",
       options: [
         "Only basic first aid techniques",
@@ -3092,7 +3095,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70359,
+      id: 70302,
       question: "When should vital signs be checked after giving nitroglycerin?",
       options: [
         "Before administering nitroglycerin",
@@ -3103,7 +3106,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 70360,
+      id: 70303,
       question: "What is the correct method for nitroglycerin administration?",
       options: [
         "Patient swallows it with water",
@@ -3114,7 +3117,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70361,
+      id: 70304,
       question: "Who administers nitroglycerin when the patient is conscious?",
       options: [
         "The dental hygienist administers it",
@@ -3125,7 +3128,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 70362,
+      id: 70305,
       question: "What is the only exception where dental professionals may administer emergency medication?",
       options: [
         "Nitroglycerin in unconscious patients",
@@ -3136,7 +3139,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 70363,
+      id: 70306,
       question: "Can dental professionals create their own medical health history forms?",
       options: [
         "Yes, as long as it covers everything and follows guidelines",
@@ -3147,7 +3150,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70364,
+      id: 70307,
       question: "What approval is needed for custom medical health history forms?",
       options: [
         "No approval needed if comprehensive",
@@ -3158,7 +3161,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70365,
+      id: 70308,
       question: "What should be documented before sending out medical clearance for anemia?",
       options: [
         "Only the diagnosis",
@@ -3169,7 +3172,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70366,
+      id: 70309,
       question: "What cardiovascular questions should be in the medical history?",
       options: [
         "Family history of heart disease only",
@@ -3180,7 +3183,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70367,
+      id: 70310,
       question: "If a patient has angina, should you still give nitroglycerin during an episode?",
       options: [
         "No, never give nitroglycerin to angina patients",
@@ -3191,7 +3194,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70368,
+      id: 70311,
       question: "What is the purpose of medical consultation forms?",
       options: [
         "To document patient complaints",
@@ -3202,7 +3205,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 70369,
+      id: 70312,
       question: "What should be done if a patient indicates they have bleeding disorders like hemophilia?",
       options: [
         "Refuse treatment immediately",
@@ -3213,7 +3216,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70370,
+      id: 70313,
       question: "Why is it important to ask diabetic patients when they last ate?",
       options: [
         "To schedule lunch breaks appropriately",
@@ -3224,7 +3227,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70371,
+      id: 70314,
       question: "What should be monitored for elderly patients on blood thinners?",
       options: [
         "Blood glucose levels",
@@ -3235,7 +3238,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 70372,
+      id: 70315,
       question: "What type of content will be covered in the next week's lectures?",
       options: [
         "Lectures 1 and 2 review",
@@ -3246,7 +3249,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70373,
+      id: 70316,
       question: "When is the test scheduled?",
       options: [
         "Two weeks from current class",
@@ -3257,7 +3260,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 70374,
+      id: 70317,
       question: "What topics does the medical emergency course overlap with?",
       options: [
         "Pharmacology only",
@@ -3268,7 +3271,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70375,
+      id: 70318,
       question: "What is emphasized about following CDHO standards?",
       options: [
         "They are optional guidelines for experienced practitioners",
@@ -3279,7 +3282,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70376,
+      id: 70319,
       question: "Why might patients not always follow guidelines about bringing inhalers?",
       options: [
         "They forget or don't perceive need",
@@ -3290,7 +3293,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70377,
+      id: 70320,
       question: "What should you do before treating a patient who didn't bring their inhaler?",
       options: [
         "Refuse treatment completely",
@@ -3301,7 +3304,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70378,
+      id: 70321,
       question: "What precaution should be taken with latex allergies?",
       options: [
         "Use latex gloves but change frequently",
@@ -3312,7 +3315,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70379,
+      id: 70322,
       question: "What is the rationale for monitoring vitals with omega-3 supplementation?",
       options: [
         "It's a legal requirement for all supplements",
@@ -3323,7 +3326,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70380,
+      id: 70323,
       question: "What should be documented about a patient's white coat syndrome?",
       options: [
         "Nothing, as it's not a real condition",
@@ -3334,7 +3337,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70382,
+      id: 70324,
       question: "Omega-3 is commonly taken for cardiovascular health.",
       options: [
         "True",
@@ -3343,7 +3346,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70383,
+      id: 70325,
       question: "Baby aspirin (81mg) requires the same precautions as other blood thinners like Eliquis.",
       options: [
         "True",
@@ -3352,7 +3355,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70384,
+      id: 70326,
       question: "INR levels should be checked for patients taking warfarin or Eliquis.",
       options: [
         "True",
@@ -3361,7 +3364,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70385,
+      id: 70327,
       question: "Hematin can be used to help stop profuse bleeding.",
       options: [
         "True",
@@ -3370,7 +3373,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70386,
+      id: 70328,
       question: "Medical clearance is always needed for anemia regardless of control status.",
       options: [
         "True",
@@ -3379,7 +3382,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70387,
+      id: 70329,
       question: "If a patient's blood pressure is elevated and they have no history of hypertension, you should retake it after 5 minutes.",
       options: [
         "True",
@@ -3388,7 +3391,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70388,
+      id: 70330,
       question: "Patients with white coat syndrome do not need medical consultation.",
       options: [
         "True",
@@ -3397,7 +3400,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70389,
+      id: 70331,
       question: "For diabetic patients, you should ask about their last meal, medication, and blood sugar level.",
       options: [
         "True",
@@ -3406,7 +3409,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70390,
+      id: 70332,
       question: "Juice should be given to a patient experiencing hyperglycemia (high blood sugar).",
       options: [
         "True",
@@ -3415,7 +3418,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70391,
+      id: 70333,
       question: "Latex allergies should be specifically asked about in the medical history.",
       options: [
         "True",
@@ -3424,7 +3427,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70392,
+      id: 70334,
       question: "If a patient has a delayed allergic reaction, they should take their allergy medication and go to a walk-in clinic.",
       options: [
         "True",
@@ -3433,7 +3436,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70393,
+      id: 70335,
       question: "Emergency inhalers are only required in hospital dental departments.",
       options: [
         "True",
@@ -3442,7 +3445,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70394,
+      id: 70336,
       question: "CPR certification expires every 2 years.",
       options: [
         "True",
@@ -3451,7 +3454,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70395,
+      id: 70337,
       question: "CDHO requires CPR refresher courses every 2 years.",
       options: [
         "True",
@@ -3460,7 +3463,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70396,
+      id: 70338,
       question: "Failing to maintain annual CPR refreshers can result in disciplinary action.",
       options: [
         "True",
@@ -3469,7 +3472,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70397,
+      id: 70339,
       question: "Nitroglycerin should be administered by the dental professional in all cases.",
       options: [
         "True",
@@ -3478,7 +3481,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70398,
+      id: 70340,
       question: "Nitroglycerin is administered sublingually (under the tongue).",
       options: [
         "True",
@@ -3487,7 +3490,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70399,
+      id: 70341,
       question: "The only exception for dental professionals administering medication is with EpiPen when the patient is unable and staff is trained.",
       options: [
         "True",
@@ -3496,7 +3499,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70400,
+      id: 70342,
       question: "Dental professionals cannot create their own medical health history forms.",
       options: [
         "True",
@@ -3505,7 +3508,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70401,
+      id: 70343,
       question: "Custom medical health history forms need to be approved.",
       options: [
         "True",
@@ -3514,7 +3517,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70402,
+      id: 70344,
       question: "When a patient has angina, you should never give them nitroglycerin.",
       options: [
         "True",
@@ -3523,7 +3526,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 70403,
+      id: 70345,
       question: "Medical consultation forms help identify what to be mindful of when treating a patient.",
       options: [
         "True",
@@ -3532,7 +3535,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70404,
+      id: 70346,
       question: "The test will be held next week after completing lectures 2 and 3.",
       options: [
         "True",
@@ -3541,7 +3544,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 70405,
+      id: 70347,
       question: "Lecture 3 is described as having a lot of complex content.",
       options: [
         "True",
@@ -3552,7 +3555,7 @@ export const questions = {
   ],
   "1. Introduction and prevention (Part 3-2)": [
     {
-      id: 71000,
+      id: 70348,
       question: "What is the primary purpose of studying medical emergencies in dental hygiene practice?",
       options: [
         "To replace the need for emergency medical services",
@@ -3563,7 +3566,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71001,
+      id: 70349,
       question: "Which of the following is NOT one of the three main objectives of learning medical emergencies?",
       options: [
         "Recognition of medical emergencies",
@@ -3574,7 +3577,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71002,
+      id: 70350,
       question: "What percentage of dental practitioners will likely face a medical emergency during their career?",
       options: [
         "Approximately 90% will experience emergencies",
@@ -3585,7 +3588,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 71003,
+      id: 70351,
       question: "Which factor has contributed to the increased likelihood of medical emergencies in dental settings?",
       options: [
         "Reduced number of patients seeking dental care",
@@ -3596,7 +3599,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 71004,
+      id: 70352,
       question: "What is the most common medical emergency in dental practice?",
       options: [
         "Cardiac arrest requiring immediate defibrillation",
@@ -3607,7 +3610,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71005,
+      id: 70353,
       question: "Which of the following best describes syncope?",
       options: [
         "Prolonged confusion without loss of consciousness",
@@ -3618,7 +3621,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 71006,
+      id: 70354,
       question: "What is the primary cause of vasovagal syncope?",
       options: [
         "Sudden drop in blood pressure and heart rate",
@@ -3629,7 +3632,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 71007,
+      id: 70355,
       question: "Which sign or symptom typically precedes a syncopal episode?",
       options: [
         "Severe headache with visual disturbances",
@@ -3640,7 +3643,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71008,
+      id: 70356,
       question: "What is the recommended immediate management for a patient experiencing syncope?",
       options: [
         "Begin chest compressions to restore circulation",
@@ -3651,7 +3654,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71009,
+      id: 70357,
       question: "How can dental professionals help prevent syncope during treatment?",
       options: [
         "Ensure patients are comfortable and reduce anxiety",
@@ -3662,7 +3665,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 71010,
+      id: 70358,
       question: "What characterizes orthostatic hypotension?",
       options: [
         "Consistently high blood pressure regardless of position",
@@ -3673,7 +3676,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 71011,
+      id: 70359,
       question: "Which patient population is at highest risk for orthostatic hypotension?",
       options: [
         "Young adults with no medical history",
@@ -3684,7 +3687,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71012,
+      id: 70360,
       question: "What is the recommended prevention strategy for orthostatic hypotension in dental practice?",
       options: [
         "Keep patients in supine position indefinitely",
@@ -3695,7 +3698,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71013,
+      id: 70361,
       question: "Which condition involves a severe, life-threatening allergic reaction?",
       options: [
         "Anaphylaxis with systemic multi-organ involvement",
@@ -3706,7 +3709,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 71014,
+      id: 70362,
       question: "What is the first-line medication for treating anaphylaxis?",
       options: [
         "Bronchodilators to open constricted airways",
@@ -3717,7 +3720,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 71015,
+      id: 70363,
       question: "Which symptom is most indicative of anaphylaxis rather than a mild allergic reaction?",
       options: [
         "Mild rash on arms without other symptoms",
@@ -3728,7 +3731,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71016,
+      id: 70364,
       question: "How can dental professionals prevent anaphylactic reactions?",
       options: [
         "Administer antibiotics prophylactically to all patients",
@@ -3739,7 +3742,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71017,
+      id: 70365,
       question: "What characterizes angina pectoris?",
       options: [
         "Chest pain due to temporary inadequate oxygen supply",
@@ -3750,7 +3753,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 71018,
+      id: 70366,
       question: "Which medication is typically used to manage an angina attack?",
       options: [
         "Aspirin to thin blood and prevent clotting",
@@ -3761,7 +3764,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 71019,
+      id: 70367,
       question: "What distinguishes myocardial infarction from angina?",
       options: [
         "MI involves actual heart tissue death while angina doesn't",
@@ -3772,7 +3775,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 71020,
+      id: 70368,
       question: "Which sign is characteristic of a myocardial infarction?",
       options: [
         "Intermittent pain occurring only during physical activity",
@@ -3783,7 +3786,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71021,
+      id: 70369,
       question: "What is the appropriate emergency response for suspected myocardial infarction?",
       options: [
         "Allow patient to rest and reassess in 30 minutes",
@@ -3794,7 +3797,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71022,
+      id: 70370,
       question: "Which factor increases the risk of cardiac emergencies during dental treatment?",
       options: [
         "History of heart disease and high stress levels",
@@ -3805,7 +3808,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 71023,
+      id: 70371,
       question: "What is hypoglycemia?",
       options: [
         "Chronic elevation of blood glucose over time",
@@ -3816,7 +3819,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 71024,
+      id: 70372,
       question: "Which symptom is commonly associated with hypoglycemia?",
       options: [
         "Excessive thirst and frequent urination",
@@ -3827,7 +3830,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71025,
+      id: 70373,
       question: "What is the immediate treatment for conscious hypoglycemic patients?",
       options: [
         "Give glucose tablets or sugary drink",
@@ -3838,7 +3841,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 71026,
+      id: 70374,
       question: "How can dental professionals prevent hypoglycemic episodes?",
       options: [
         "Require all diabetic patients to fast before treatment",
@@ -3849,7 +3852,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 71027,
+      id: 70375,
       question: "What characterizes a cerebrovascular accident (stroke)?",
       options: [
         "Temporary disruption of brain function with full recovery",
@@ -3860,7 +3863,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71028,
+      id: 70376,
       question: "Which acronym helps identify stroke symptoms?",
       options: [
         "SAMPLE for gathering patient history information",
@@ -3871,7 +3874,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71029,
+      id: 70377,
       question: "What does the \"F\" in FAST stand for when assessing stroke?",
       options: [
         "Face drooping on one side",
@@ -3882,7 +3885,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 71030,
+      id: 70378,
       question: "What is the critical time window for stroke treatment to be most effective?",
       options: [
         "Within the first 30 minutes of symptom onset",
@@ -3893,7 +3896,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71031,
+      id: 70379,
       question: "Which breathing emergency involves narrowing of the airways?",
       options: [
         "Pulmonary embolism blocking blood vessels",
@@ -3904,7 +3907,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 71032,
+      id: 70380,
       question: "What medication do asthmatic patients typically carry for acute attacks?",
       options: [
         "Rescue inhaler with bronchodilator medication",
@@ -3915,7 +3918,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 71033,
+      id: 70381,
       question: "What is the primary management strategy for choking (foreign body airway obstruction)?",
       options: [
         "Place patient supine and monitor breathing",
@@ -3926,7 +3929,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 71034,
+      id: 70382,
       question: "How can dental professionals prevent choking during procedures?",
       options: [
         "Work without suction to avoid tissue trauma",
@@ -3937,7 +3940,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71035,
+      id: 70383,
       question: "Which seizure type involves loss of consciousness with convulsions?",
       options: [
         "Generalized tonic-clonic seizures with full-body involvement",
@@ -3948,7 +3951,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 71036,
+      id: 70384,
       question: "What is the appropriate management during an active seizure?",
       options: [
         "Administer anticonvulsant medications immediately during seizure",
@@ -3959,7 +3962,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 71037,
+      id: 70385,
       question: "When should emergency services be called for a seizure?",
       options: [
         "Only if the patient has never had seizures before",
@@ -3970,7 +3973,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71038,
+      id: 70386,
       question: "Which emergency involves severe hyperventilation causing respiratory alkalosis?",
       options: [
         "Asthma attack with bronchial obstruction",
@@ -3981,7 +3984,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71039,
+      id: 70387,
       question: "What is the recommended treatment for hyperventilation syndrome?",
       options: [
         "Administer high-flow oxygen through non-rebreather mask",
@@ -3992,7 +3995,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71040,
+      id: 70388,
       question: "What should be included in a dental office emergency kit?",
       options: [
         "Oxygen, AED, epinephrine, and emergency medications",
@@ -4003,7 +4006,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 71041,
+      id: 70389,
       question: "Why is an Automated External Defibrillator (AED) important in dental offices?",
       options: [
         "It provides oxygen to patients experiencing breathing difficulties",
@@ -4014,7 +4017,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71042,
+      id: 70390,
       question: "What is the purpose of obtaining a thorough medical history before dental treatment?",
       options: [
         "To delay treatment until all conditions are resolved",
@@ -4025,7 +4028,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 71043,
+      id: 70391,
       question: "Which vital sign should be routinely monitored before and during dental procedures?",
       options: [
         "Body temperature to detect infections early",
@@ -4036,7 +4039,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71044,
+      id: 70392,
       question: "How can stress and anxiety contribute to medical emergencies in dental settings?",
       options: [
         "They have no effect on medical emergency occurrence",
@@ -4047,7 +4050,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71045,
+      id: 70393,
       question: "What is the recommended positioning for most medical emergencies in dental practice?",
       options: [
         "Keep patient in upright seated position always",
@@ -4058,7 +4061,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71046,
+      id: 70394,
       question: "Which principle is fundamental to preventing medical emergencies?",
       options: [
         "Treat all patients identically regardless of medical history",
@@ -4069,7 +4072,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71047,
+      id: 70395,
       question: "What role does proper training play in managing medical emergencies?",
       options: [
         "It is optional for dental hygienists with experience",
@@ -4080,7 +4083,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71048,
+      id: 70396,
       question: "How often should dental professionals practice emergency response protocols?",
       options: [
         "Once during initial training is sufficient for career",
@@ -4091,7 +4094,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71049,
+      id: 70397,
       question: "What is the significance of calling emergency medical services (EMS) promptly?",
       options: [
         "It is unnecessary if dental team manages emergency",
@@ -4102,7 +4105,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71050,
+      id: 70398,
       question: "Which documentation is essential after a medical emergency in the dental office?",
       options: [
         "Only financial billing information for the visit",
@@ -4113,7 +4116,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71051,
+      id: 70399,
       question: "What is the purpose of informed consent regarding medical emergencies?",
       options: [
         "To eliminate all liability for dental practitioners",
@@ -4124,7 +4127,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71052,
+      id: 70400,
       question: "How does effective communication help prevent medical emergencies?",
       options: [
         "It has no impact on emergency prevention strategies",
@@ -4135,7 +4138,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71053,
+      id: 70401,
       question: "What is the recommended approach when a patient discloses anxiety about dental treatment?",
       options: [
         "Dismiss concerns and proceed with treatment",
@@ -4146,7 +4149,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71054,
+      id: 70402,
       question: "Which scenario would warrant postponing elective dental treatment?",
       options: [
         "Patient had breakfast two hours before appointment",
@@ -4157,7 +4160,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71055,
+      id: 70403,
       question: "What is the importance of maintaining current CPR certification for dental professionals?",
       options: [
         "It is only required for dentists, not hygienists",
@@ -4168,7 +4171,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71056,
+      id: 70404,
       question: "How should emergency medications be stored in the dental office?",
       options: [
         "In locked cabinets inaccessible during emergencies",
@@ -4179,7 +4182,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71057,
+      id: 70405,
       question: "What is the shelf life concern for emergency medications?",
       options: [
         "Emergency medications never expire and last indefinitely",
@@ -4190,7 +4193,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71058,
+      id: 70406,
       question: "Which member of the dental team should be trained in emergency response?",
       options: [
         "Only the dentist needs emergency training",
@@ -4201,7 +4204,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71059,
+      id: 70407,
       question: "What is the purpose of assigning specific emergency roles to team members?",
       options: [
         "To create confusion during actual emergencies",
@@ -4212,7 +4215,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71060,
+      id: 70408,
       question: "How can proper patient positioning during treatment prevent emergencies?",
       options: [
         "Position has no effect on emergency occurrence",
@@ -4223,7 +4226,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71061,
+      id: 70409,
       question: "What is the recommended response when a patient's medical history indicates high risk?",
       options: [
         "Refuse to treat the patient in office setting",
@@ -4234,7 +4237,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71062,
+      id: 70410,
       question: "Which factor makes elderly patients more vulnerable to medical emergencies?",
       options: [
         "They have stronger immune systems than younger patients",
@@ -4245,7 +4248,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71063,
+      id: 70411,
       question: "What is the relationship between local anesthetic administration and medical emergencies?",
       options: [
         "Local anesthetics never cause any emergency situations",
@@ -4256,7 +4259,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71064,
+      id: 70412,
       question: "How does maintaining a calm demeanor help during medical emergencies?",
       options: [
         "It has no effect on emergency outcomes",
@@ -4267,7 +4270,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71065,
+      id: 70413,
       question: "What is the significance of knowing the location of emergency equipment?",
       options: [
         "Equipment location is irrelevant during emergencies",
@@ -4278,7 +4281,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71066,
+      id: 70414,
       question: "Which assessment should be performed immediately when a patient appears to be in distress?",
       options: [
         "Wait and observe for 10 minutes before assessing",
@@ -4289,7 +4292,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71067,
+      id: 70415,
       question: "What is the purpose of activating emergency medical services early in a crisis?",
       options: [
         "To increase costs and create unnecessary expenses",
@@ -4300,7 +4303,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71068,
+      id: 70416,
       question: "How should a dental professional respond if unsure about the severity of a patient's symptoms?",
       options: [
         "Assume symptoms are minor and continue treatment",
@@ -4311,7 +4314,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71069,
+      id: 70417,
       question: "What is the value of post-emergency debriefing with the dental team?",
       options: [
         "It serves no purpose and wastes valuable time",
@@ -4322,7 +4325,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71070,
+      id: 70418,
       question: "Which type of emergency requires immediate administration of epinephrine?",
       options: [
         "Severe anaphylactic reaction with systemic symptoms",
@@ -4333,7 +4336,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 71071,
+      id: 70419,
       question: "What is the recommended oxygen flow rate for most medical emergencies?",
       options: [
         "1-2 liters per minute for all emergencies",
@@ -4344,7 +4347,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71072,
+      id: 70420,
       question: "How can monitoring vital signs help prevent medical emergencies?",
       options: [
         "Vital signs provide no useful information for prevention",
@@ -4355,7 +4358,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71073,
+      id: 70421,
       question: "What is the significance of updating medical history at each appointment?",
       options: [
         "Medical history never changes once initially recorded",
@@ -4366,7 +4369,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 71074,
+      id: 70422,
       question: "Which approach best describes prevention-focused dental care?",
       options: [
         "Treating emergencies only after they occur",
@@ -4377,7 +4380,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71075,
+      id: 70423,
       question: "What is the appropriate response when emergency equipment is found to be expired or malfunctioning?",
       options: [
         "Continue using it until replacement arrives next year",
@@ -4388,7 +4391,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 71076,
+      id: 70424,
       question: "How does patient education contribute to emergency prevention?",
       options: [
         "It has no impact on emergency occurrence rates",
@@ -4399,7 +4402,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 71077,
+      id: 70425,
       question: "What is the recommended action when a patient reports taking anticoagulant medications?",
       options: [
         "Proceed with invasive procedures without modifications",
@@ -4410,7 +4413,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71078,
+      id: 70426,
       question: "Which factor indicates a patient may be at risk for a medical emergency?",
       options: [
         "Recent comprehensive dental cleaning without issues",
@@ -4421,7 +4424,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 71079,
+      id: 70427,
       question: "Medical emergencies in dental practice are extremely rare and unlikely to occur during a dental hygienist's career.",
       options: [
         "True",
@@ -4430,7 +4433,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 71080,
+      id: 70428,
       question: "Syncope is the most common medical emergency encountered in dental practice.",
       options: [
         "True",
@@ -4439,7 +4442,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 71081,
+      id: 70429,
       question: "Orthostatic hypotension occurs when blood pressure increases upon standing up.",
       options: [
         "True",
@@ -4448,7 +4451,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 71082,
+      id: 70430,
       question: "Epinephrine is the first-line treatment for anaphylaxis.",
       options: [
         "True",
@@ -4457,7 +4460,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 71083,
+      id: 70431,
       question: "Angina pectoris and myocardial infarction are the same condition.",
       options: [
         "True",
@@ -4466,7 +4469,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 71084,
+      id: 70432,
       question: "The FAST acronym is used to identify signs of stroke.",
       options: [
         "True",
@@ -4475,7 +4478,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 71085,
+      id: 70433,
       question: "Hypoglycemia refers to abnormally high blood sugar levels.",
       options: [
         "True",
@@ -4484,7 +4487,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 71086,
+      id: 70434,
       question: "During an active seizure, objects should be placed in the patient's mouth to prevent tongue biting.",
       options: [
         "True",
@@ -4493,7 +4496,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 71087,
+      id: 70435,
       question: "An Automated External Defibrillator (AED) should be available in every dental office.",
       options: [
         "True",
@@ -4504,7 +4507,7 @@ export const questions = {
   ],
   "1. Introduction and prevention (Part 4-2)": [
     {
-      id: 72000,
+      id: 70436,
       question: "What should be monitored when a patient is taking omega-3 supplements?",
       options: [
         "Vital signs including blood pressure readings",
@@ -4515,7 +4518,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72001,
+      id: 70437,
       question: "For patients taking blood thinners like Eliquis or warfarin, what level should be checked before dental treatment?",
       options: [
         "Hemoglobin levels to assess anemia",
@@ -4526,7 +4529,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72002,
+      id: 70438,
       question: "What medication can help control profuse bleeding in patients on blood thinners?",
       options: [
         "Epinephrine to constrict blood vessels",
@@ -4537,7 +4540,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 72003,
+      id: 70439,
       question: "When is a medical consultation needed for a patient with anemia?",
       options: [
         "When anemia is well-controlled with medication",
@@ -4548,7 +4551,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 72004,
+      id: 70440,
       question: "If a patient without a history of hypertension has a blood pressure reading of 135/85, what should you do?",
       options: [
         "Retake the reading after 5 minutes",
@@ -4559,7 +4562,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72005,
+      id: 70441,
       question: "What is white coat syndrome?",
       options: [
         "Allergic reaction to dental materials or latex",
@@ -4570,7 +4573,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72006,
+      id: 70442,
       question: "For a patient with white coat syndrome showing elevated blood pressure, what should you do?",
       options: [
         "Refuse treatment and dismiss the patient immediately",
@@ -4581,7 +4584,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 72007,
+      id: 70443,
       question: "What three questions should you ask diabetic patients before dental treatment?",
       options: [
         "Diet preferences, medication type, insurance coverage",
@@ -4592,7 +4595,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 72008,
+      id: 70444,
       question: "What should be available chairside for a diabetic patient experiencing hypoglycemia?",
       options: [
         "Glucose tablets or sugary drink",
@@ -4603,7 +4606,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72009,
+      id: 70445,
       question: "If a patient has a delayed allergic reaction after leaving the clinic, what should you advise?",
       options: [
         "Wait 24 hours to see if symptoms resolve",
@@ -4614,7 +4617,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72010,
+      id: 70446,
       question: "When should asthmatic patients bring their inhalers to dental appointments?",
       options: [
         "Only if they've had an attack recently",
@@ -4625,7 +4628,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 72011,
+      id: 70447,
       question: "If an asthmatic patient didn't bring their inhaler, what questions should you ask?",
       options: [
         "Insurance coverage and payment method available",
@@ -4636,7 +4639,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 72012,
+      id: 70448,
       question: "What should be documented if a patient previously fainted during dental treatment?",
       options: [
         "What happened and what triggered it",
@@ -4647,7 +4650,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72013,
+      id: 70449,
       question: "Which anti-anxiety option can be offered to anxious patients during dental treatment?",
       options: [
         "Oral sedatives prescribed by the hygienist",
@@ -4658,7 +4661,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72014,
+      id: 70450,
       question: "What is the contraindication for using an EpiPen on a pregnant patient?",
       options: [
         "Permanent paralysis of lower extremities",
@@ -4669,7 +4672,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 72015,
+      id: 70451,
       question: "What is the current guideline regarding lead aprons for dental radiographs?",
       options: [
         "Always required for all patients regardless",
@@ -4680,7 +4683,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 72016,
+      id: 70452,
       question: "When working with other hygienists with more experience, whose guidelines should you follow?",
       options: [
         "Your regulatory body (CDHO) standards",
@@ -4691,7 +4694,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72017,
+      id: 70453,
       question: "What is the blood pressure threshold above which you should not proceed with treatment?",
       options: [
         "Anything above 120/80 requires immediate referral",
@@ -4702,7 +4705,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72018,
+      id: 70454,
       question: "If a patient on hypertension medication has very high blood pressure, what should you do?",
       options: [
         "Proceed with treatment and monitor closely",
@@ -4713,7 +4716,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 72019,
+      id: 70455,
       question: "When should a patient return after being referred for uncontrolled hypertension?",
       options: [
         "The next day after seeing physician",
@@ -4724,7 +4727,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 72020,
+      id: 70456,
       question: "What is the contraindication for nitroglycerin administration?",
       options: [
         "Sexual enhancement drugs taken within 24 hours",
@@ -4735,7 +4738,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72021,
+      id: 70457,
       question: "How many nitroglycerin sprays can be given for angina?",
       options: [
         "1 spray total regardless of response",
@@ -4746,7 +4749,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72022,
+      id: 70458,
       question: "What is the shelf life of nitroglycerin after opening?",
       options: [
         "6 weeks from opening date",
@@ -4757,7 +4760,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 72023,
+      id: 70459,
       question: "Can aspirin be given during a myocardial infarction (heart attack)?",
       options: [
         "No, aspirin is contraindicated completely",
@@ -4768,7 +4771,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 72024,
+      id: 70460,
       question: "What type of syncope occurs when a patient faints in the dental chair?",
       options: [
         "Vasodepressor syncope from anxiety or stress",
@@ -4779,7 +4782,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72025,
+      id: 70461,
       question: "For patients with epilepsy, what should be provided during treatment?",
       options: [
         "Bright overhead lights for visibility",
@@ -4790,7 +4793,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72026,
+      id: 70462,
       question: "Which dental procedures can trigger asthmatic episodes?",
       options: [
         "Taking medical history and vital signs",
@@ -4801,7 +4804,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 72027,
+      id: 70463,
       question: "What characterizes orthostatic hypotension?",
       options: [
         "Elevated blood pressure when lying down",
@@ -4812,7 +4815,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 72028,
+      id: 70464,
       question: "Which patients are most at risk for orthostatic hypotension?",
       options: [
         "Elderly, pregnant, fasting, or hypertensive patients",
@@ -4823,7 +4826,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72029,
+      id: 70465,
       question: "What is the proper technique to prevent orthostatic hypotension?",
       options: [
         "Raise chair quickly to save time",
@@ -4834,7 +4837,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72030,
+      id: 70466,
       question: "For which condition should you NOT administer oxygen?",
       options: [
         "Syncope or fainting episode",
@@ -4845,7 +4848,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 72031,
+      id: 70467,
       question: "What is used to help a patient regain consciousness from syncope?",
       options: [
         "Cold water sprayed on face",
@@ -4856,7 +4859,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 72032,
+      id: 70468,
       question: "How long should you wait before calling EMS if a patient remains unconscious?",
       options: [
         "Call after 15-20 minutes of unconsciousness",
@@ -4867,7 +4870,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72033,
+      id: 70469,
       question: "What does ABC stand for in emergency assessment?",
       options: [
         "Alert, Breathing, Consciousness levels",
@@ -4878,7 +4881,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72034,
+      id: 70470,
       question: "When a patient has profuse bleeding that won't stop with pressure, what action should you take besides using hematin?",
       options: [
         "Continue applying pressure indefinitely",
@@ -4889,7 +4892,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 72035,
+      id: 70471,
       question: "If someone reports bruising easily or prolonged bleeding, what might this indicate?",
       options: [
         "Normal variation in healing time",
@@ -4900,7 +4903,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 72036,
+      id: 70472,
       question: "What should you do if ammonia capsules are needed for a syncopal episode?",
       options: [
         "Break capsule near patient's nose for 10-15 seconds",
@@ -4911,7 +4914,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72037,
+      id: 70473,
       question: "When working with diabetic patients, what should you document on their first visit?",
       options: [
         "Only current blood sugar reading",
@@ -4922,7 +4925,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72038,
+      id: 70474,
       question: "If an asthmatic patient was hospitalized for asthma one week ago, what should you do?",
       options: [
         "Proceed with all treatment as planned",
@@ -4933,7 +4936,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 72039,
+      id: 70475,
       question: "What questions should you ask about an asthmatic patient's hospitalization?",
       options: [
         "Insurance coverage and hospital name",
@@ -4944,7 +4947,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 72040,
+      id: 70476,
       question: "For asthmatic patients, which procedures should be avoided after a mild episode?",
       options: [
         "Aerosol procedures, polishing, and fluoride varnish",
@@ -4955,7 +4958,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72041,
+      id: 70477,
       question: "What position should an asthmatic patient be in during an attack?",
       options: [
         "Completely flat supine position",
@@ -4966,7 +4969,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72042,
+      id: 70478,
       question: "When is epinephrine (EpiPen) appropriate for an asthmatic patient?",
       options: [
         "For all asthma attacks regardless of severity",
@@ -4977,7 +4980,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 72043,
+      id: 70479,
       question: "How many doses of albuterol can be given before calling EMS?",
       options: [
         "1 dose only then call immediately",
@@ -4988,7 +4991,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 72044,
+      id: 70480,
       question: "What is the difference between short-acting and long-acting asthma inhalers?",
       options: [
         "Short-acting works faster; long-acting takes longer",
@@ -4999,7 +5002,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72045,
+      id: 70481,
       question: "What should patients do with their asthma inhalers regarding dental appointments?",
       options: [
         "Leave inhalers at home to avoid contamination",
@@ -5010,7 +5013,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72046,
+      id: 70482,
       question: "If a patient has an expired inhaler at their appointment, what should you assess?",
       options: [
         "Proceed without any concerns or documentation",
@@ -5021,7 +5024,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 72047,
+      id: 70483,
       question: "What should every clinic have available for asthmatic emergencies?",
       options: [
         "Only patient's personal inhaler",
@@ -5032,7 +5035,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 72048,
+      id: 70484,
       question: "Who can administer medication when a patient is conscious during an emergency?",
       options: [
         "Patient should self-administer; help bring it closer",
@@ -5043,7 +5046,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72049,
+      id: 70485,
       question: "What is the EpiPen dosage for adults versus children?",
       options: [
         "0.15 for adults, 0.3 for children",
@@ -5054,7 +5057,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72050,
+      id: 70486,
       question: "What phrase helps remember EpiPen administration technique?",
       options: [
         "\"Red to the head, blue to you\"",
@@ -5065,7 +5068,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 72051,
+      id: 70487,
       question: "During a seizure, what should you do with instruments and sharp objects?",
       options: [
         "Leave everything in place for quick access",
@@ -5076,7 +5079,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 72052,
+      id: 70488,
       question: "When should you gently hold a patient having a seizure?",
       options: [
         "If they're moving violently and could injure themselves",
@@ -5087,7 +5090,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72053,
+      id: 70489,
       question: "What should be monitored when administering oxygen to a patient?",
       options: [
         "Room temperature and humidity levels",
@@ -5098,7 +5101,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72054,
+      id: 70490,
       question: "When should you take blood pressure readings for patients with white coat syndrome?",
       options: [
         "Only once at the beginning",
@@ -5109,7 +5112,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 72055,
+      id: 70491,
       question: "What makes you an autonomous, self-regulating professional in dental hygiene?",
       options: [
         "Years of experience working in practice",
@@ -5120,7 +5123,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 72056,
+      id: 70492,
       question: "Why is it important to have a witness when a patient goes unconscious?",
       options: [
         "To protect against potential legal issues or accusations",
@@ -5131,7 +5134,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72057,
+      id: 70493,
       question: "What should you do the day after a patient had a medical emergency in your chair?",
       options: [
         "Wait for patient to contact you",
@@ -5142,7 +5145,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72058,
+      id: 70494,
       question: "What should you do if cotton rolls or dry angles get stuck to tissue?",
       options: [
         "Pull forcefully to remove quickly",
@@ -5153,7 +5156,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 72059,
+      id: 70495,
       question: "Why can't you use wet cotton rolls during fluoride application?",
       options: [
         "They improve fluoride absorption",
@@ -5164,7 +5167,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 72060,
+      id: 70496,
       question: "What is the purpose of making a cup with hands during hyperventilation?",
       options: [
         "To help patient rebreathe own CO2 and calm down",
@@ -5175,7 +5178,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72061,
+      id: 70497,
       question: "What does ASA classification system assess?",
       options: [
         "Allergy severity and anaphylaxis risk",
@@ -5186,7 +5189,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72062,
+      id: 70498,
       question: "What characterizes an ASA 1 patient?",
       options: [
         "Multiple chronic medical conditions requiring management",
@@ -5197,7 +5200,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 72063,
+      id: 70499,
       question: "What characterizes an ASA 2 patient?",
       options: [
         "Severe uncontrolled medical conditions",
@@ -5208,7 +5211,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 72064,
+      id: 70500,
       question: "What characterizes an ASA 3 patient?",
       options: [
         "Normal healthy patient needing routine care",
@@ -5219,7 +5222,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 72065,
+      id: 70501,
       question: "For ASA 3 patients, what type of review is needed?",
       options: [
         "No review necessary for treatment",
@@ -5230,7 +5233,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 72066,
+      id: 70502,
       question: "What treatment modifications might ASA 3 patients require?",
       options: [
         "No modifications needed for treatment",
@@ -5241,7 +5244,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 72067,
+      id: 70503,
       question: "What characterizes an ASA 4 patient?",
       options: [
         "Incapacitating systemic disease threatening life",
@@ -5252,7 +5255,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72068,
+      id: 70504,
       question: "For ASA 4 patients, what type of treatment is recommended?",
       options: [
         "All invasive procedures in office setting",
@@ -5263,7 +5266,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72069,
+      id: 70505,
       question: "In private practice, which ASA classifications will you most commonly see?",
       options: [
         "ASA 5 and ASA 6 only",
@@ -5274,7 +5277,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 72070,
+      id: 70506,
       question: "What does hyperglycemia mean?",
       options: [
         "Blood sugar level is too low",
@@ -5285,7 +5288,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 72071,
+      id: 70507,
       question: "What does hypoglycemia mean?",
       options: [
         "Blood sugar level is too low",
@@ -5296,7 +5299,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72072,
+      id: 70508,
       question: "What is the treatment for hypoglycemia in a conscious patient?",
       options: [
         "Insulin injection immediately",
@@ -5307,7 +5310,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72073,
+      id: 70509,
       question: "Why are liquid sugar sources preferred for hypoglycemia?",
       options: [
         "They taste better than solid forms",
@@ -5318,7 +5321,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 72074,
+      id: 70510,
       question: "Which instrument has a proper administration technique of \"blue to the sky, orange to the thigh\"?",
       options: [
         "Nitroglycerin spray for angina",
@@ -5329,7 +5332,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 72075,
+      id: 70511,
       question: "What should you always have in your emergency kit for asthmatic patients?",
       options: [
         "Albuterol rescue inhaler",
@@ -5340,7 +5343,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72076,
+      id: 70512,
       question: "When administering nitroglycerin for angina, what is the maximum number of doses?",
       options: [
         "1 dose then call EMS immediately",
@@ -5351,7 +5354,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72077,
+      id: 70513,
       question: "What is the primary concern when a pregnant patient needs an EpiPen?",
       options: [
         "Allergic reaction to epinephrine itself",
@@ -5362,7 +5365,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 72078,
+      id: 70514,
       question: "If a patient's blood pressure is 145/90 and they report white coat syndrome, what should you do?",
       options: [
         "Dismiss patient immediately without treatment",
@@ -5373,7 +5376,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 72079,
+      id: 70515,
       question: "Which medication should NOT be administered during hyperventilation syndrome?",
       options: [
         "Glucose for energy",
@@ -5384,7 +5387,7 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      id: 72080,
+      id: 70516,
       question: "What is the correct phrase for remembering how to check ABCs during an emergency?",
       options: [
         "Airway, Breathing, Circulation",
@@ -5395,7 +5398,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72081,
+      id: 70517,
       question: "When should CPR certification be refreshed according to CDHO guidelines?",
       options: [
         "Every 2 years matching certification expiry",
@@ -5406,7 +5409,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72082,
+      id: 70518,
       question: "What position should a patient be in when experiencing orthostatic hypotension?",
       options: [
         "Standing upright to improve circulation",
@@ -5417,7 +5420,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72083,
+      id: 70519,
       question: "What is the first step when a patient experiences profuse bleeding on anticoagulants?",
       options: [
         "Call EMS immediately",
@@ -5428,7 +5431,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72084,
+      id: 70520,
       question: "Patients taking omega-3 supplements should have their vital signs monitored even without hypertension.",
       options: [
         "True",
@@ -5437,7 +5440,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72085,
+      id: 70521,
       question: "Baby aspirin requires INR level monitoring before dental procedures.",
       options: [
         "True",
@@ -5446,7 +5449,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72086,
+      id: 70522,
       question: "Hematin can be used to control profuse bleeding in patients on blood thinners.",
       options: [
         "True",
@@ -5455,7 +5458,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72087,
+      id: 70523,
       question: "White coat syndrome refers to anxiety-related elevated blood pressure in medical settings.",
       options: [
         "True",
@@ -5464,7 +5467,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72088,
+      id: 70524,
       question: "For diabetic patients, you should ask about their last meal, last medication, and blood sugar level.",
       options: [
         "True",
@@ -5473,7 +5476,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72089,
+      id: 70525,
       question: "Lead aprons are absolutely required for all dental radiographs according to current studies.",
       options: [
         "True",
@@ -5482,7 +5485,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72090,
+      id: 70526,
       question: "Experienced hygienists' personal practices should take precedence over CDHO guidelines.",
       options: [
         "True",
@@ -5491,7 +5494,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72091,
+      id: 70527,
       question: "Nitroglycerin should not be given if the patient took sexual enhancement drugs within 24 hours.",
       options: [
         "True",
@@ -5500,7 +5503,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72092,
+      id: 70528,
       question: "You can give unlimited nitroglycerin sprays until angina symptoms resolve.",
       options: [
         "True",
@@ -5509,7 +5512,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72093,
+      id: 70529,
       question: "Ammonia capsules are broken near the patient's nose to help regain consciousness from syncope.",
       options: [
         "True",
@@ -5518,7 +5521,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72094,
+      id: 70530,
       question: "Oxygen should be administered to patients experiencing hyperventilation syndrome.",
       options: [
         "True",
@@ -5527,7 +5530,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72095,
+      id: 70531,
       question: "Asthmatic patients should always bring their inhalers to dental appointments.",
       options: [
         "True",
@@ -5536,7 +5539,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72096,
+      id: 70532,
       question: "Air polishing and aerosol-generating procedures can trigger asthmatic episodes.",
       options: [
         "True",
@@ -5545,7 +5548,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72097,
+      id: 70533,
       question: "An ASA 1 patient is a normal healthy person free of medical conditions.",
       options: [
         "True",
@@ -5554,7 +5557,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72098,
+      id: 70534,
       question: "ASA 3 patients always require hospitalization for any dental treatment.",
       options: [
         "True",
@@ -5563,7 +5566,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72099,
+      id: 70535,
       question: "The EpiPen dosage is 0.3 for adults and 0.15 for children.",
       options: [
         "True",
@@ -5572,7 +5575,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      id: 72100,
+      id: 70536,
       question: "During a seizure, you should place objects in the patient's mouth to prevent tongue biting.",
       options: [
         "True",
@@ -5581,7 +5584,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      id: 72101,
+      id: 70537,
       question: "Liquid sugar sources work faster than solid foods for treating hypoglycemia.",
       options: [
         "True",
