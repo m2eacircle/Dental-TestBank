@@ -1,7 +1,7 @@
 {
   "extends": "react-app",
   "rules": {
-    "no-useless-escape": "warn",
+    "no-useless-escape": "off",
     "no-unused-vars": "warn",
     "react-hooks/exhaustive-deps": "warn"
   }

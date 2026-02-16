@@ -8,8 +8,8 @@ export const questions = {
       options: [
         "To comply with legal documentation requirements only",
         "To provide information for diagnosis, treatment planning, and identifying conditions requiring precautions or modifications",
-        "To determine the patient's insurance coverage eligibility",
-        "To assess the patient's financial ability to pay",
+        "To determine the patient\'s insurance coverage eligibility",
+        "To assess the patient\'s financial ability to pay",
       ],
       correctAnswer: 1
     },
@@ -56,9 +56,9 @@ export const questions = {
     {
       question: "What do symptom-oriented questions help identify in the absence of diagnosed disease?",
       options: [
-        "The patient's insurance provider information",
+        "The patient\'s insurance provider information",
         "Suspicion of a condition that may warrant referral for medical examination",
-        "The patient's preferred appointment times",
+        "The patient\'s preferred appointment times",
         "Previous dental treatment costs",
       ],
       correctAnswer: 1
@@ -97,7 +97,7 @@ export const questions = {
       question: "What should be done if a translator is not available for a patient who speaks a different language?",
       options: [
         "Proceed with treatment without obtaining history",
-        "Provide the health history form in the patient's preferred language",
+        "Provide the health history form in the patient\'s preferred language",
         "Ask another patient to translate",
         "Refuse to provide dental care",
       ],
@@ -114,7 +114,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "According to the text, what cognitive condition might impact a patient's ability to recall important health information?",
+      question: "According to the text, what cognitive condition might impact a patient\'s ability to recall important health information?",
       options: [
         "Temporary fatigue from lack of sleep",
         "Minor headaches or stress",
@@ -134,7 +134,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "What legal aspect is associated with having a patient's signature on the health history form?",
+      question: "What legal aspect is associated with having a patient\'s signature on the health history form?",
       options: [
         "It serves as consent for all future treatments",
         "It verifies the information provided and creates a legal record",
@@ -209,7 +209,7 @@ export const questions = {
         "No consultation is needed for routine care",
         "Consultation with the primary care provider regarding treatment modifications",
         "Only notify the pharmacist",
-        "Consult with the patient's family members",
+        "Consult with the patient\'s family members",
       ],
       correctAnswer: 1
     },
@@ -337,7 +337,7 @@ export const questions = {
       question: "For a patient with a heart murmur requesting antibiotic prophylaxis, what should be done first?",
       options: [
         "Automatically prescribe antibiotics to satisfy the patient",
-        "Review AHA recommendations and consult with the patient's PCP to determine if prophylaxis is needed",
+        "Review AHA recommendations and consult with the patient\'s PCP to determine if prophylaxis is needed",
         "Refuse to provide any dental care",
         "Provide treatment without any antibiotics or consultation",
       ],
@@ -386,15 +386,15 @@ export const questions = {
     {
       question: "What should be done if marked weight change is observed in a patient?",
       options: [
-        "Ignore it as it's not related to dental care",
-        "Comment on the patient's appearance",
+        "Ignore it as it\'s not related to dental care",
+        "Comment on the patient\'s appearance",
         "Refer to primary care provider for evaluation as it may indicate undiagnosed disease",
         "Recommend specific diet pills",
       ],
       correctAnswer: 2
     },
     {
-      question: "When should consultation with a patient's primary care provider occur?",
+      question: "When should consultation with a patient\'s primary care provider occur?",
       options: [
         "Only if the patient specifically requests it",
         "Never, as dental and medical care are completely separate",
@@ -406,10 +406,10 @@ export const questions = {
     {
       question: "What should a written request for medical consultation include?",
       options: [
-        "Only the patient's name and phone number",
-        "Patient's self-reported conditions/medications, oral health status, and specific treatment requiring clearance",
+        "Only the patient\'s name and phone number",
+        "Patient\'s self-reported conditions/medications, oral health status, and specific treatment requiring clearance",
         "A demand for immediate response",
-        "Criticism of the patient's medical care",
+        "Criticism of the patient\'s medical care",
       ],
       correctAnswer: 1
     },
@@ -444,7 +444,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      question: "What should be documented about a patient's medication use?",
+      question: "What should be documented about a patient\'s medication use?",
       options: [
         "Only prescription medications",
         "All medications including over-the-counter, herbals, vitamins, supplements, and recreational substances",
@@ -579,14 +579,14 @@ export const questions = {
         "No assessment is needed",
         "Frequency of occurrence and caries risk management with fluorides",
         "Only the due date",
-        "Patient's food preferences",
+        "Patient\'s food preferences",
       ],
       correctAnswer: 1
     },
     {
       question: "Why is meticulous oral self-care important during pregnancy?",
       options: [
-        "It's not important during pregnancy",
+        "It\'s not important during pregnancy",
         "To prevent association between periodontal disease and adverse birth outcomes",
         "Only for cosmetic reasons",
         "To prevent morning sickness",
@@ -594,7 +594,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "For patients with Crohn's disease or inflammatory bowel disease, what should be explored regarding oral health?",
+      question: "For patients with Crohn\'s disease or inflammatory bowel disease, what should be explored regarding oral health?",
       options: [
         "No special considerations are needed",
         "Side effects of condition/medications such as vomiting and acid reflux on oral cavity",
@@ -628,8 +628,8 @@ export const questions = {
       options: [
         "Dental care is prohibited after transplant",
         "To complete dental treatment and reduce bacterial load before immunosuppression",
-        "It's more convenient for scheduling",
-        "Insurance won't cover dental care after transplant",
+        "It\'s more convenient for scheduling",
+        "Insurance won\'t cover dental care after transplant",
       ],
       correctAnswer: 1
     },
@@ -677,7 +677,7 @@ export const questions = {
       question: "For patients with arthritis or fibromyalgia, what adjustments might be needed for oral self-care?",
       options: [
         "No adjustments are ever necessary",
-        "Recommendations must accommodate the patient's physical limitations",
+        "Recommendations must accommodate the patient\'s physical limitations",
         "They should not perform oral self-care",
         "Only medication management is needed",
       ],
@@ -694,10 +694,10 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "When gathering history from a patient with dementia or Alzheimer's disease, who might need to be consulted?",
+      question: "When gathering history from a patient with dementia or Alzheimer\'s disease, who might need to be consulted?",
       options: [
         "No one else needs to be involved",
-        "Only the patient's neighbors",
+        "Only the patient\'s neighbors",
         "A caregiver for accurate medical history",
         "Previous dental hygienists only",
       ],
@@ -788,7 +788,7 @@ export const questions = {
       options: [
         "After treatment is completed",
         "During the dental procedure",
-        "Prior to the patient's arrival in the office/clinic",
+        "Prior to the patient\'s arrival in the office/clinic",
         "Only if the patient volunteers information",
       ],
       correctAnswer: 2
@@ -869,7 +869,7 @@ export const questions = {
         "Service animals are not allowed",
         "Appropriate interaction with seeing eye dog and best location in the room",
         "Nothing about the service animal",
-        "Only the dog's name",
+        "Only the dog\'s name",
       ],
       correctAnswer: 1
     },
@@ -899,7 +899,7 @@ export const questions = {
         "Only late at night",
         "At a time when the patient is best able to be cooperative or concentrate",
         "Random times throughout the day",
-        "Scheduling time doesn't matter",
+        "Scheduling time doesn\'t matter",
       ],
       correctAnswer: 1
     },
@@ -987,7 +987,7 @@ export const questions = {
       question: "What resource is available for patients interested in addiction services?",
       options: [
         "No resources exist",
-        "Substance Abuse and Mental Health Services Administration's National Helpline (1-800-662-HELP)",
+        "Substance Abuse and Mental Health Services Administration\'s National Helpline (1-800-662-HELP)",
         "Only private psychiatrists",
         "Generic internet searches",
       ],
@@ -1066,7 +1066,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      question: "Cognitive impairment from conditions like dementia can affect a patient's ability to provide accurate health history information.",
+      question: "Cognitive impairment from conditions like dementia can affect a patient\'s ability to provide accurate health history information.",
       options: [
         "True",
         "False",
@@ -1082,7 +1082,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      question: "Cultural beliefs and practices can affect a patient's risk for oral disease.",
+      question: "Cultural beliefs and practices can affect a patient\'s risk for oral disease.",
       options: [
         "True",
         "False",
@@ -1154,7 +1154,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      question: "Mental health conditions have no impact on a patient's compliance with oral health recommendations.",
+      question: "Mental health conditions have no impact on a patient\'s compliance with oral health recommendations.",
       options: [
         "True",
         "False",
@@ -1251,8 +1251,8 @@ export const questions = {
       options: [
         "Have the patient complete the form to the best of their ability and assume blank sections are not applicable",
         "Use hand gestures and simplified English words to explain each question on the standard form",
-        "Provide the health history form in the patient's preferred language or use a qualified translator",
-        "Ask the patient's family member in the waiting room to translate the questions verbally",
+        "Provide the health history form in the patient\'s preferred language or use a qualified translator",
+        "Ask the patient\'s family member in the waiting room to translate the questions verbally",
       ],
       correctAnswer: 2
     },
@@ -1261,7 +1261,7 @@ export const questions = {
       options: [
         "Problems related to how questions are worded in the health history questionnaire",
         "Patient reluctance to discuss embarrassing health conditions with healthcare providers",
-        "Cognitive impairment affecting the patient's ability to understand questions or recall information",
+        "Cognitive impairment affecting the patient\'s ability to understand questions or recall information",
         "Lack of privacy in the reception area where the questionnaire was completed",
       ],
       correctAnswer: 2
@@ -1281,8 +1281,8 @@ export const questions = {
       options: [
         "To determine if the patient has adequate health insurance coverage for dental treatment",
         "To identify herbal preparations or traditional medications that may affect oral care or disease risk",
-        "To assess the patient's level of education and health literacy for treatment planning",
-        "To document the patient's cultural background for demographic research purposes",
+        "To assess the patient\'s level of education and health literacy for treatment planning",
+        "To document the patient\'s cultural background for demographic research purposes",
       ],
       correctAnswer: 1
     },
@@ -1297,7 +1297,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      question: "A dental hygienist is conducting a health history interview in the treatment room with the dental chair fully reclined and the overhead light shining in the patient's eyes.",
+      question: "A dental hygienist is conducting a health history interview in the treatment room with the dental chair fully reclined and the overhead light shining in the patient\'s eyes.",
       options: [
         "Move the interview to a private consultation room away from the clinical treatment area",
         "Keep the patient reclined but turn off all lights to create a more relaxing atmosphere",
@@ -1312,14 +1312,14 @@ export const questions = {
         "Skip the alcohol-related questions and note in the chart that the patient refused to answer",
         "Explain that the information is confidential and use a nonjudgmental, accepting approach",
         "Warn the patient that dishonesty could result in a medical emergency during treatment",
-        "Ask the patient's spouse to verify the alcohol consumption information separately",
+        "Ask the patient\'s spouse to verify the alcohol consumption information separately",
       ],
       correctAnswer: 1
     },
     {
       question: "A patient reports on the dental history form experiencing pain in the lower right quadrant. The dental hygienist needs to gather more specific information about this chief complaint.",
       options: [
-        "\"On a scale of 1-10, rate your pain and indicate if you've tried any pain relievers.\"",
+        "\"On a scale of 1-10, rate your pain and indicate if you\'ve tried any pain relievers.\"",
         "\"When did this problem start, what triggers the pain, and has it gotten worse recently?\"",
         "\"Do you think you need a root canal or just a filling for this tooth?\"",
         "\"Why did you wait so long before coming in to have this problem examined?\"",
@@ -1329,18 +1329,18 @@ export const questions = {
     {
       question: "A 16-year-old patient arrives for an orthodontic consultation. The health history form has been completed and signed by the patient without parental involvement.",
       options: [
-        "Accept the patient's signature since the patient is old enough to provide informed consent",
-        "Have the patient's parent or legal guardian complete and sign the health history form",
+        "Accept the patient\'s signature since the patient is old enough to provide informed consent",
+        "Have the patient\'s parent or legal guardian complete and sign the health history form",
         "File the form as completed and verify information during the clinical examination",
-        "Contact the patient's primary care provider to obtain medical history information directly",
+        "Contact the patient\'s primary care provider to obtain medical history information directly",
       ],
       correctAnswer: 1
     },
     {
-      question: "A patient's dental history reveals irregular dental care, with visits only when experiencing pain. The patient reports never having received oral hygiene instruction.",
+      question: "A patient\'s dental history reveals irregular dental care, with visits only when experiencing pain. The patient reports never having received oral hygiene instruction.",
       options: [
         "The patient has excellent oral health literacy but chooses to delay dental care for financial reasons",
-        "The patient's lack of preventive care visits indicates good oral health with minimal disease risk",
+        "The patient\'s lack of preventive care visits indicates good oral health with minimal disease risk",
         "The patient may have limited oral health literacy and could benefit from tailored education",
         "The patient has a strong understanding of oral disease but prefers emergency treatment only",
       ],
@@ -1377,17 +1377,17 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "During the medical history interview, a 55-year-old patient reports having a \"heart murmur\" and states she has \"always taken penicillin\" before dental cleanings. She is concerned about not having taken antibiotics before today's appointment.",
+      question: "During the medical history interview, a 55-year-old patient reports having a \"heart murmur\" and states she has \"always taken penicillin\" before dental cleanings. She is concerned about not having taken antibiotics before today\'s appointment.",
       options: [
         "Immediately administer antibiotic prophylaxis before beginning any dental hygiene procedures",
-        "Consult with the patient's primary care provider to determine if antibiotic prophylaxis is indicated",
+        "Consult with the patient\'s primary care provider to determine if antibiotic prophylaxis is indicated",
         "Proceed with treatment since all patients with heart murmurs require antibiotic premedication",
         "Reschedule the appointment and instruct the patient to take antibiotics one hour before the next visit",
       ],
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates a diagnosis of Type 2 diabetes. During the interview, the patient cannot recall the most recent hemoglobin A1c value or the date of the last physician visit.",
+      question: "A patient\'s medical history indicates a diagnosis of Type 2 diabetes. During the interview, the patient cannot recall the most recent hemoglobin A1c value or the date of the last physician visit.",
       options: [
         "\"What brand of glucose monitor do you use to check your blood sugar at home?\"",
         "\"How well controlled is your diabetes, and when was your most recent hemoglobin A1c test?\"",
@@ -1397,7 +1397,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A 68-year-old patient's medical history reveals taking warfarin (Coumadin) for atrial fibrillation. The patient is scheduled for scaling and root planing.",
+      question: "A 68-year-old patient\'s medical history reveals taking warfarin (Coumadin) for atrial fibrillation. The patient is scheduled for scaling and root planing.",
       options: [
         "Discontinue the warfarin three days before the appointment to prevent bleeding complications",
         "Consult with the primary care provider about warfarin management and monitor for bleeding after scaling",
@@ -1407,7 +1407,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates current treatment for hypertension with calcium channel blockers. During the oral examination, the dental hygienist observes gingival enlargement.",
+      question: "A patient\'s medical history indicates current treatment for hypertension with calcium channel blockers. During the oral examination, the dental hygienist observes gingival enlargement.",
       options: [
         "Gingival enlargement is unrelated to calcium channel blockers and indicates poor oral hygiene only",
         "Calcium channel blockers can cause gingival enlargement as a side effect of the medication",
@@ -1427,11 +1427,11 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates a previous hospitalization for infective endocarditis (IE) 2 years ago following a dental procedure. The patient's cardiologist has not provided information about current heart condition.",
+      question: "A patient\'s medical history indicates a previous hospitalization for infective endocarditis (IE) 2 years ago following a dental procedure. The patient\'s cardiologist has not provided information about current heart condition.",
       options: [
         "Patients with a history of IE do not require antibiotic prophylaxis for future dental procedures",
         "Antibiotic prophylaxis is required because a history of IE places the patient at highest risk",
-        "Antibiotic prophylaxis is optional and should be based on the patient's preference",
+        "Antibiotic prophylaxis is optional and should be based on the patient\'s preference",
         "Only invasive surgical procedures require antibiotic prophylaxis, not routine dental hygiene care",
       ],
       correctAnswer: 1
@@ -1442,14 +1442,14 @@ export const questions = {
         "No antibiotic prophylaxis is needed because the valve was placed more than 6 months ago",
         "Antibiotic prophylaxis is required because prosthetic heart valves place patients at highest risk for IE",
         "Antibiotic prophylaxis is only needed if the patient has signs of active cardiac infection",
-        "Antibiotic prophylaxis should be based on the patient's preference and previous dental experiences",
+        "Antibiotic prophylaxis should be based on the patient\'s preference and previous dental experiences",
       ],
       correctAnswer: 1
     },
     {
       question: "A 50-year-old patient had a total knee replacement 8 months ago. The orthopedic surgeon has recommended antibiotic prophylaxis before all dental procedures.",
       options: [
-        "Follow the orthopedic surgeon's recommendation and provide antibiotic prophylaxis for all dental procedures",
+        "Follow the orthopedic surgeon\'s recommendation and provide antibiotic prophylaxis for all dental procedures",
         "Evidence-based guidelines recommend against routine antibiotic prophylaxis for prosthetic joint patients",
         "Antibiotic prophylaxis is required for the first 2 years following any orthopedic implant surgery",
         "Provide antibiotic prophylaxis only if the patient has a history of previous prosthetic joint infections",
@@ -1457,7 +1457,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history reveals unrepaired cyanotic congenital heart disease. The patient has never received antibiotic prophylaxis before dental procedures.",
+      question: "A patient\'s medical history reveals unrepaired cyanotic congenital heart disease. The patient has never received antibiotic prophylaxis before dental procedures.",
       options: [
         "Unrepaired cyanotic congenital heart disease does not require antibiotic prophylaxis",
         "Antibiotic prophylaxis is required because unrepaired cyanotic congenital heart disease is high-risk for IE",
@@ -1471,13 +1471,13 @@ export const questions = {
       options: [
         "No prophylaxis needed because the defect has been completely repaired with no residual defects",
         "Prophylaxis required for 6 months after surgery when prosthetic material was used for repair",
-        "Prophylaxis required for all dental procedures for the rest of the patient's life",
+        "Prophylaxis required for all dental procedures for the rest of the patient\'s life",
         "Prophylaxis only needed for invasive surgical procedures, not for routine scaling",
       ],
       correctAnswer: 1
     },
     {
-      question: "A dental hygienist is reviewing a patient's medical history which indicates a diagnosis of celiac disease managed with dietary restrictions. The patient reports occasional episodes of acid reflux.",
+      question: "A dental hygienist is reviewing a patient\'s medical history which indicates a diagnosis of celiac disease managed with dietary restrictions. The patient reports occasional episodes of acid reflux.",
       options: [
         "Celiac disease has no relationship to oral health and requires no special considerations",
         "Explore side effects of the condition on the oral cavity, including acid exposure from reflux",
@@ -1487,7 +1487,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A 60-year-old patient's medical history indicates kidney failure requiring hemodialysis three times weekly. The patient is scheduled for a dental hygiene appointment on Wednesday, and the last dialysis session was Tuesday.",
+      question: "A 60-year-old patient\'s medical history indicates kidney failure requiring hemodialysis three times weekly. The patient is scheduled for a dental hygiene appointment on Wednesday, and the last dialysis session was Tuesday.",
       options: [
         "Before the next dialysis session on Thursday to avoid waiting too long between appointments",
         "The day after dialysis (Wednesday) to minimize bleeding risk and medication complications",
@@ -1497,7 +1497,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates a kidney transplant 6 months ago. The patient is taking immunosuppressant medications to prevent organ rejection.",
+      question: "A patient\'s medical history indicates a kidney transplant 6 months ago. The patient is taking immunosuppressant medications to prevent organ rejection.",
       options: [
         "Immunosuppressants have no effect on healing and require no treatment modifications",
         "Immunosuppressants may impact healing and increase infection risk; meticulous biofilm removal is essential",
@@ -1517,7 +1517,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates treatment for depression with selective serotonin reuptake inhibitors (SSRIs). The patient reports xerostomia and multiple new carious lesions.",
+      question: "A patient\'s medical history indicates treatment for depression with selective serotonin reuptake inhibitors (SSRIs). The patient reports xerostomia and multiple new carious lesions.",
       options: [
         "Depression medications have no effect on salivary flow or caries risk",
         "SSRIs can cause xerostomia as a side effect, increasing caries risk requiring assessment and management",
@@ -1527,17 +1527,17 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A 70-year-old patient's medical history indicates a diagnosis of Alzheimer's disease. The patient's caregiver accompanies the patient to the appointment.",
+      question: "A 70-year-old patient\'s medical history indicates a diagnosis of Alzheimer\'s disease. The patient\'s caregiver accompanies the patient to the appointment.",
       options: [
         "The patient should provide all medical history information independently to maintain autonomy",
         "The caregiver may need to be consulted for accurate medical history due to cognitive impairment",
         "Medical history is not necessary for patients with dementia because treatment is palliative only",
-        "The dental hygienist should contact the patient's physician directly without involving the caregiver",
+        "The dental hygienist should contact the patient\'s physician directly without involving the caregiver",
       ],
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates epilepsy controlled with phenytoin (Dilantin). During the oral examination, the dental hygienist observes significant gingival enlargement.",
+      question: "A patient\'s medical history indicates epilepsy controlled with phenytoin (Dilantin). During the oral examination, the dental hygienist observes significant gingival enlargement.",
       options: [
         "Discontinue phenytoin immediately to reverse the gingival enlargement",
         "Monitor for medication side effects such as gingival hyperplasia and provide meticulous oral care education",
@@ -1547,7 +1547,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A 65-year-old patient's medical history indicates a cerebrovascular accident (stroke) 6 months ago with residual left-sided weakness and speech impairment.",
+      question: "A 65-year-old patient\'s medical history indicates a cerebrovascular accident (stroke) 6 months ago with residual left-sided weakness and speech impairment.",
       options: [
         "Patients with stroke history cannot benefit from oral hygiene instruction due to permanent disability",
         "Adapt procedures and oral self-care techniques for residual impairments; apply direct pressure after scaling",
@@ -1557,7 +1557,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates chronic obstructive pulmonary disease (COPD) with difficulty breathing when lying flat. The patient uses a rescue inhaler for acute symptoms.",
+      question: "A patient\'s medical history indicates chronic obstructive pulmonary disease (COPD) with difficulty breathing when lying flat. The patient uses a rescue inhaler for acute symptoms.",
       options: [
         "Place the patient in a completely supine position to improve breathing during treatment",
         "Place the patient in a semi-supine position and keep the rescue inhaler accessible during care",
@@ -1567,7 +1567,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A 40-year-old patient's medical history indicates asthma controlled with a corticosteroid inhaler used twice daily. The oral examination reveals white patches on the palate and tongue.",
+      question: "A 40-year-old patient\'s medical history indicates asthma controlled with a corticosteroid inhaler used twice daily. The oral examination reveals white patches on the palate and tongue.",
       options: [
         "Corticosteroid inhalers have no oral side effects and the white patches indicate oral cancer",
         "Monitor for oral candidiasis from corticosteroid inhalers and provide appropriate antifungal referral",
@@ -1577,7 +1577,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates recent recovery from COVID-19 with ongoing symptoms of fatigue, shortness of breath, and memory problems 3 months after infection.",
+      question: "A patient\'s medical history indicates recent recovery from COVID-19 with ongoing symptoms of fatigue, shortness of breath, and memory problems 3 months after infection.",
       options: [
         "COVID-19 has no long-term effects and requires no special treatment considerations",
         "Evaluate for long COVID multiorgan effects; monitor vital signs and consult PCP if needed",
@@ -1587,7 +1587,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A 28-year-old patient's medical history indicates HIV infection with a current CD4 count of 350 cells/mm³ and an undetectable viral load on antiretroviral therapy.",
+      question: "A 28-year-old patient\'s medical history indicates HIV infection with a current CD4 count of 350 cells/mm³ and an undetectable viral load on antiretroviral therapy.",
       options: [
         "Refuse to provide dental hygiene services due to the risk of disease transmission to staff",
         "Consultation with PCP may be needed; document oral manifestations and manage associated disease risk",
@@ -1597,7 +1597,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates hepatitis C infection that was successfully treated and cured 2 years ago. The patient is concerned about dental treatment safety.",
+      question: "A patient\'s medical history indicates hepatitis C infection that was successfully treated and cured 2 years ago. The patient is concerned about dental treatment safety.",
       options: [
         "Patients with a history of hepatitis C cannot receive dental hygiene care due to infection risk",
         "Consultation with PCP may be needed for clearance; follow standard precautions against percutaneous injury",
@@ -1617,7 +1617,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A 50-year-old female patient's medical history indicates breast cancer treatment 2 years ago with surgery to remove lymph nodes on the right side. The dental hygienist prepares to measure blood pressure.",
+      question: "A 50-year-old female patient\'s medical history indicates breast cancer treatment 2 years ago with surgery to remove lymph nodes on the right side. The dental hygienist prepares to measure blood pressure.",
       options: [
         "On the right arm because lymph node removal increases accuracy of blood pressure measurement",
         "On the left arm to avoid the side where lymph nodes were removed due to lymphedema risk",
@@ -1627,7 +1627,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates cancer treatment with bisphosphonate medications for bone metastases. The patient requires extraction of a periodontally involved tooth.",
+      question: "A patient\'s medical history indicates cancer treatment with bisphosphonate medications for bone metastases. The patient requires extraction of a periodontally involved tooth.",
       options: [
         "Bisphosphonate use has no effect on dental treatment and requires no special precautions",
         "Consultation with PCP to determine osteonecrosis risk from bisphosphonate treatment before invasive procedures",
@@ -1637,7 +1637,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates radiation therapy to the head and neck region for treatment of oral cancer 5 years ago. The patient reports difficulty with xerostomia and swallowing.",
+      question: "A patient\'s medical history indicates radiation therapy to the head and neck region for treatment of oral cancer 5 years ago. The patient reports difficulty with xerostomia and swallowing.",
       options: [
         "Radiation therapy has no long-term effects on oral health or caries risk",
         "Manage modifiable caries risk factors with fluoride applications, chlorhexidine, and saliva substitutes",
@@ -1647,11 +1647,11 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's psychosocial history reveals food insecurity, with limited access to meals each day. The patient reports consuming primarily inexpensive processed foods and sugary beverages.",
+      question: "A patient\'s psychosocial history reveals food insecurity, with limited access to meals each day. The patient reports consuming primarily inexpensive processed foods and sugary beverages.",
       options: [
         "Ignore food insecurity because it is not relevant to dental hygiene treatment planning",
         "Identify community resources for food support and provide guidance on minimizing cariogenic foods",
-        "Recommend an expensive specialized diet without considering the patient's financial limitations",
+        "Recommend an expensive specialized diet without considering the patient\'s financial limitations",
         "Focus only on oral hygiene instruction and avoid discussing dietary habits or nutrition",
       ],
       correctAnswer: 1
@@ -1667,11 +1667,11 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's psychosocial history indicates current cigarette smoking with consumption of one pack per day for 20 years. The patient has never attempted to quit.",
+      question: "A patient\'s psychosocial history indicates current cigarette smoking with consumption of one pack per day for 20 years. The patient has never attempted to quit.",
       options: [
         "Tell the patient that smokers are not eligible for dental hygiene services until they quit tobacco",
         "Educate on the association between tobacco and oral disease; offer resources like quitline referrals if interested",
-        "Provide nicotine replacement therapy prescriptions without assessing the patient's readiness to quit",
+        "Provide nicotine replacement therapy prescriptions without assessing the patient\'s readiness to quit",
         "Assume the patient is not interested in quitting and avoid mentioning tobacco use during the appointment",
       ],
       correctAnswer: 1
@@ -1687,7 +1687,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's psychosocial history reveals traditional health beliefs including the use of herbal supplements for chronic pain management. The patient has not disclosed these to the medical provider.",
+      question: "A patient\'s psychosocial history reveals traditional health beliefs including the use of herbal supplements for chronic pain management. The patient has not disclosed these to the medical provider.",
       options: [
         "Herbal supplements are always safe and have no interactions with dental treatment",
         "Herbal supplements may affect bleeding, healing, or interact with medications used during dental care",
@@ -1717,7 +1717,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's health history from one year ago indicates well-controlled Type 2 diabetes. At today's appointment, the patient reports recent hospitalization for diabetic ketoacidosis.",
+      question: "A patient\'s health history from one year ago indicates well-controlled Type 2 diabetes. At today\'s appointment, the patient reports recent hospitalization for diabetic ketoacidosis.",
       options: [
         "\"What hospital did you go to for treatment of your diabetic ketoacidosis?\"",
         "\"What is the current status of your diabetes management and most recent hemoglobin A1c?\"",
@@ -1727,7 +1727,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A dental practice has transitioned to electronic health records. The dental hygienist needs to document the completion and review of a patient's medical history.",
+      question: "A dental practice has transitioned to electronic health records. The dental hygienist needs to document the completion and review of a patient\'s medical history.",
       options: [
         "Electronic records do not require signatures because they are stored on secure servers",
         "Electronic documentation must be signed electronically with safeguards preventing falsification or modification",
@@ -1737,9 +1737,9 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A 10-year-old patient's health history form has been completed and signed by the patient without parental involvement. The child lives with both parents who are responsible for healthcare decisions.",
+      question: "A 10-year-old patient\'s health history form has been completed and signed by the patient without parental involvement. The child lives with both parents who are responsible for healthcare decisions.",
       options: [
-        "Accept the child's signature because patients over age 10 can provide informed consent",
+        "Accept the child\'s signature because patients over age 10 can provide informed consent",
         "The health history must be signed by a parent or legal guardian for a minor patient",
         "Verbal consent from a parent by telephone is sufficient without written signature",
         "The dental hygienist can sign on behalf of the parent if the child confirms the information is accurate",
@@ -1747,7 +1747,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's health history indicates a need for antibiotic prophylaxis before dental procedures due to a prosthetic heart valve. The dental practice wants to ensure all staff members are aware of this requirement.",
+      question: "A patient\'s health history indicates a need for antibiotic prophylaxis before dental procedures due to a prosthetic heart valve. The dental practice wants to ensure all staff members are aware of this requirement.",
       options: [
         "Rely on the patient to remind the dental team about antibiotic requirements at each appointment",
         "Use coded tab systems on paper charts or pop-up alerts in electronic records to notify staff",
@@ -1767,7 +1767,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates Type 2 diabetes with a recent hemoglobin A1c of 11.5% (poorly controlled), history of myocardial infarction 6 months ago, and chronic kidney disease requiring dialysis three times weekly.",
+      question: "A patient\'s medical history indicates Type 2 diabetes with a recent hemoglobin A1c of 11.5% (poorly controlled), history of myocardial infarction 6 months ago, and chronic kidney disease requiring dialysis three times weekly.",
       options: [
         "ASA II - Mild systemic disease without functional limitations that is well controlled",
         "ASA III - One or more moderate to severe systemic diseases with significant functional limitations",
@@ -1779,7 +1779,7 @@ export const questions = {
     {
       question: "A patient is scheduled for scaling and root planing. The medical history reveals multiple risk factors including uncontrolled hypertension, recent stroke, and poorly controlled diabetes.",
       options: [
-        "The patient's history of diabetes has no impact on local anesthetic choice or dosage",
+        "The patient\'s history of diabetes has no impact on local anesthetic choice or dosage",
         "Consultation with the PCP regarding safe use of local anesthetic with vasoconstrictor for hypertension",
         "All patients with hypertension must receive local anesthetic without any vasoconstrictor",
         "Stroke history requires the use of increased amounts of epinephrine in local anesthetic",
@@ -1787,7 +1787,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates pregnancy in the second trimester. The patient reports good oral health but has not had dental care in over a year. No periodontal disease is evident.",
+      question: "A patient\'s medical history indicates pregnancy in the second trimester. The patient reports good oral health but has not had dental care in over a year. No periodontal disease is evident.",
       options: [
         "Postpone all dental hygiene care until after delivery to avoid any risk to the fetus",
         "Provide routine dental hygiene care; educate about the relationship between periodontal disease and adverse birth outcomes",
@@ -1797,17 +1797,17 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "During the medical history interview, a patient reports taking \"a little white pill\" each morning but cannot remember the medication name or purpose. The patient's physician is not available for immediate consultation.",
+      question: "During the medical history interview, a patient reports taking \"a little white pill\" each morning but cannot remember the medication name or purpose. The patient\'s physician is not available for immediate consultation.",
       options: [
         "Document \"unknown medication\" and proceed with treatment without further investigation",
         "Ask the patient to bring all medication bottles to the next appointment for documentation",
         "Search online for \"little white pill\" and make an educated guess about the medication",
-        "Call the patient's pharmacy to obtain a complete medication list without patient consent",
+        "Call the patient\'s pharmacy to obtain a complete medication list without patient consent",
       ],
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates taking warfarin (Coumadin) with an INR (International Normalized Ratio) of 2.5, which is within therapeutic range. The patient is scheduled for scaling and root planing.",
+      question: "A patient\'s medical history indicates taking warfarin (Coumadin) with an INR (International Normalized Ratio) of 2.5, which is within therapeutic range. The patient is scheduled for scaling and root planing.",
       options: [
         "Instruct the patient to discontinue warfarin for 3 days before the appointment to prevent bleeding",
         "Consult with the PCP about warfarin management; monitor and apply direct pressure or hemostatic agents after scaling",
@@ -1817,7 +1817,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history reveals current chemotherapy treatment for breast cancer. The patient reports fatigue and mouth sores. Laboratory values show neutropenia (low white blood cell count).",
+      question: "A patient\'s medical history reveals current chemotherapy treatment for breast cancer. The patient reports fatigue and mouth sores. Laboratory values show neutropenia (low white blood cell count).",
       options: [
         "Chemotherapy has no effect on infection risk and requires no treatment modifications",
         "Evaluate for neutropenia prior to dental care due to increased infection risk; avoid tissue trauma",
@@ -1827,7 +1827,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates osteoporosis treated with oral bisphosphonates for the past 5 years. The patient has a periodontally involved tooth that the dentist recommends for extraction.",
+      question: "A patient\'s medical history indicates osteoporosis treated with oral bisphosphonates for the past 5 years. The patient has a periodontally involved tooth that the dentist recommends for extraction.",
       options: [
         "Extract the tooth immediately because oral bisphosphonates have no effect on bone healing",
         "Assess osteonecrosis risk related to bisphosphonate treatment; consultation with PCP may be necessary",
@@ -1837,10 +1837,10 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's psychosocial history indicates limited English proficiency with Spanish as the primary language. The dental hygienist wants to provide culturally sensitive oral health education.",
+      question: "A patient\'s psychosocial history indicates limited English proficiency with Spanish as the primary language. The dental hygienist wants to provide culturally sensitive oral health education.",
       options: [
         "Provide all education in English and assume the patient will ask questions if confused",
-        "Incorporate health beliefs into education; use qualified translators and materials in the patient's preferred language",
+        "Incorporate health beliefs into education; use qualified translators and materials in the patient\'s preferred language",
         "Avoid providing any oral health education because language barriers make it ineffective",
         "Use hand gestures and speak louder in English to overcome the language barrier",
       ],
@@ -1857,7 +1857,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's dental history reveals multiple dental restorations, previous periodontal treatment, and current homecare consisting of toothbrushing once daily without interdental cleaning. Clinical examination shows generalized 5-6mm pocket depths with bleeding on probing.",
+      question: "A patient\'s dental history reveals multiple dental restorations, previous periodontal treatment, and current homecare consisting of toothbrushing once daily without interdental cleaning. Clinical examination shows generalized 5-6mm pocket depths with bleeding on probing.",
       options: [
         "The patient has excellent oral hygiene and requires no additional education or motivation",
         "Adapt education to patient needs; emphasize meticulous biofilm control and regular maintenance to prevent disease progression",
@@ -1867,7 +1867,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates rheumatoid arthritis with severe hand deformities limiting dexterity. The patient reports difficulty with manual toothbrushing and flossing.",
+      question: "A patient\'s medical history indicates rheumatoid arthritis with severe hand deformities limiting dexterity. The patient reports difficulty with manual toothbrushing and flossing.",
       options: [
         "Recommend that the patient discontinue oral self-care due to physical limitations",
         "Adapt oral self-care recommendations to accommodate limitations, such as powered toothbrush with modified handle",
@@ -1877,7 +1877,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates a traumatic brain injury 2 years ago with residual memory problems. The patient has difficulty remembering to brush teeth regularly.",
+      question: "A patient\'s medical history indicates a traumatic brain injury 2 years ago with residual memory problems. The patient has difficulty remembering to brush teeth regularly.",
       options: [
         "Cognitive impairment makes oral hygiene education ineffective; discontinue all instruction attempts",
         "Recommend reminders such as setting calendar or cellphone alerts to help with memory challenges",
@@ -1887,7 +1887,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's psychosocial history reveals a diagnosis of autism spectrum disorder. The parent reports the child becomes anxious in new environments and is sensitive to bright lights and loud sounds.",
+      question: "A patient\'s psychosocial history reveals a diagnosis of autism spectrum disorder. The parent reports the child becomes anxious in new environments and is sensitive to bright lights and loud sounds.",
       options: [
         "Use bright overhead lights and loud music to desensitize the patient to sensory stimuli",
         "Document patient needs and preferences; schedule appointments when the patient is most cooperative; minimize sensory triggers",
@@ -1897,7 +1897,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates well-controlled asthma with infrequent use of a rescue inhaler. The patient reports anxiety about dental appointments and past difficulty breathing in the dental chair.",
+      question: "A patient\'s medical history indicates well-controlled asthma with infrequent use of a rescue inhaler. The patient reports anxiety about dental appointments and past difficulty breathing in the dental chair.",
       options: [
         "Administer supplemental oxygen routinely to all asthma patients regardless of symptoms or anxiety level",
         "Use stress reduction protocol; keep rescue inhaler accessible; schedule at times when patient is most comfortable",
@@ -1907,7 +1907,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates fibromyalgia with chronic pain affecting sleep quality and daily activities. The patient reports difficulty sitting for long periods.",
+      question: "A patient\'s medical history indicates fibromyalgia with chronic pain affecting sleep quality and daily activities. The patient reports difficulty sitting for long periods.",
       options: [
         "Fibromyalgia has no impact on dental treatment and requires no special accommodations",
         "The dental chair may need semi-supine positioning; consider shorter, more frequent appointments",
@@ -1917,7 +1917,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history reveals complete blindness. The patient arrives at the office with a service dog and asks about appropriate seating arrangements.",
+      question: "A patient\'s medical history reveals complete blindness. The patient arrives at the office with a service dog and asks about appropriate seating arrangements.",
       options: [
         "Separate the patient from the service dog during treatment to prevent contamination of the treatment room",
         "Ask the patient how they prefer to be guided to the dental chair and where the service dog should be located",
@@ -1932,12 +1932,12 @@ export const questions = {
         "Assume the patient is taking all medications as prescribed and document only the names",
         "Document medication names, dosages, and frequencies from the bottles; note if the patient is following directions",
         "Medication information is not relevant to dental hygiene care and does not need documentation",
-        "Contact the patient's physician to verify every medication without asking the patient for information",
+        "Contact the patient\'s physician to verify every medication without asking the patient for information",
       ],
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates a pacemaker was implanted 3 years ago for heart rhythm abnormalities. The patient asks if ultrasonic scalers are safe to use.",
+      question: "A patient\'s medical history indicates a pacemaker was implanted 3 years ago for heart rhythm abnormalities. The patient asks if ultrasonic scalers are safe to use.",
       options: [
         "All ultrasonic scalers will cause pacemaker malfunction and must never be used",
         "Modern pacemakers are shielded from electromagnetic interference; consult PCP if concerns exist about older devices",
@@ -1957,27 +1957,27 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates Sjögren's syndrome, an autoimmune condition. The patient complains of dry mouth, difficulty swallowing, and multiple new cavities.",
+      question: "A patient\'s medical history indicates Sjögren\'s syndrome, an autoimmune condition. The patient complains of dry mouth, difficulty swallowing, and multiple new cavities.",
       options: [
-        "Sjögren's syndrome has no effect on salivary function or oral health",
-        "Sjögren's syndrome causes xerostomia, increasing caries risk requiring saliva substitutes and fluoride management",
-        "Dry mouth from Sjögren's syndrome is beneficial because it reduces bacterial growth",
-        "New cavities are unrelated to Sjögren's syndrome and indicate poor oral hygiene only",
+        "Sjögren\'s syndrome has no effect on salivary function or oral health",
+        "Sjögren\'s syndrome causes xerostomia, increasing caries risk requiring saliva substitutes and fluoride management",
+        "Dry mouth from Sjögren\'s syndrome is beneficial because it reduces bacterial growth",
+        "New cavities are unrelated to Sjögren\'s syndrome and indicate poor oral hygiene only",
       ],
       correctAnswer: 1
     },
     {
-      question: "A patient's psychosocial history reveals homelessness with limited access to facilities for oral hygiene. The patient reports irregular meals and reliance on emergency food services.",
+      question: "A patient\'s psychosocial history reveals homelessness with limited access to facilities for oral hygiene. The patient reports irregular meals and reliance on emergency food services.",
       options: [
         "Provide complex oral hygiene instructions requiring multiple products and frequent application",
-        "Identify community resources for support; recommend realistic oral care strategies considering the patient's circumstances",
+        "Identify community resources for support; recommend realistic oral care strategies considering the patient\'s circumstances",
         "Homeless patients cannot maintain oral hygiene and should not receive oral health education",
         "Refuse to provide dental hygiene services until the patient obtains stable housing",
       ],
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates treatment for anxiety disorder with benzodiazepines. The patient reports xerostomia and asks about dry mouth management strategies.",
+      question: "A patient\'s medical history indicates treatment for anxiety disorder with benzodiazepines. The patient reports xerostomia and asks about dry mouth management strategies.",
       options: [
         "Anxiety medications have no effect on salivary flow or caries risk",
         "Assess xerostomia from medication; manage caries risk with fluoride applications and saliva substitutes",
@@ -1987,17 +1987,17 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history reveals a recent diagnosis of multiple sclerosis with intermittent numbness and muscle weakness. The patient reports tremors that make oral hygiene difficult.",
+      question: "A patient\'s medical history reveals a recent diagnosis of multiple sclerosis with intermittent numbness and muscle weakness. The patient reports tremors that make oral hygiene difficult.",
       options: [
         "Multiple sclerosis has no impact on oral hygiene ability and requires no adaptations",
         "Recommend powered toothbrush with modified handle and adaptive aids to accommodate tremors and weakness",
         "Patients with multiple sclerosis cannot perform oral hygiene and should rely only on professional care",
-        "Avoid discussing oral hygiene modifications because the patient's condition is progressive",
+        "Avoid discussing oral hygiene modifications because the patient\'s condition is progressive",
       ],
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates organ transplant 1 year ago with current immunosuppressant therapy. The patient's physician requires dental clearance before reducing immunosuppressant medications.",
+      question: "A patient\'s medical history indicates organ transplant 1 year ago with current immunosuppressant therapy. The patient\'s physician requires dental clearance before reducing immunosuppressant medications.",
       options: [
         "Organ transplant patients cannot receive dental hygiene care due to infection risk",
         "Educate on meticulous biofilm removal to reduce bacterial load; complete necessary treatment before medication changes",
@@ -2007,7 +2007,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's psychosocial history indicates recent immigration to the United States. The patient reports traditional use of betel nut chewing for cultural and social purposes.",
+      question: "A patient\'s psychosocial history indicates recent immigration to the United States. The patient reports traditional use of betel nut chewing for cultural and social purposes.",
       options: [
         "Betel nut chewing has no oral health implications and requires no counseling",
         "Educate about increased oral cancer risk from betel nut use; offer culturally sensitive cessation resources",
@@ -2017,7 +2017,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates lactose intolerance with elimination of all dairy products from the diet. The patient asks about calcium intake for bone health.",
+      question: "A patient\'s medical history indicates lactose intolerance with elimination of all dairy products from the diet. The patient asks about calcium intake for bone health.",
       options: [
         "Lactose intolerance has no impact on calcium intake or bone health",
         "Provide guidance on non-dairy calcium sources; consider referral to registered dietitian nutritionist for comprehensive counseling",
@@ -2027,7 +2027,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A dental hygienist discovers during the health history interview that a patient's blood pressure medication was changed 2 weeks ago. The patient reports occasional dizziness when standing up quickly.",
+      question: "A dental hygienist discovers during the health history interview that a patient\'s blood pressure medication was changed 2 weeks ago. The patient reports occasional dizziness when standing up quickly.",
       options: [
         "Blood pressure medication changes have no impact on dental treatment procedures",
         "Monitor for postural hypotension; raise the back of the dental chair slowly after treatment",
@@ -2037,17 +2037,17 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates Parkinson's disease with tremors and difficulty with fine motor control. The patient is scheduled for oral hygiene instruction.",
+      question: "A patient\'s medical history indicates Parkinson\'s disease with tremors and difficulty with fine motor control. The patient is scheduled for oral hygiene instruction.",
       options: [
-        "Parkinson's disease has no impact on oral hygiene ability and requires standard instruction",
+        "Parkinson\'s disease has no impact on oral hygiene ability and requires standard instruction",
         "Adapt techniques to patient limitations; consider powered brushes and simplified routines to accommodate tremors",
-        "Patients with Parkinson's disease cannot learn new oral hygiene techniques due to neurological impairment",
-        "Provide detailed complex instructions to challenge and improve the patient's motor control",
+        "Patients with Parkinson\'s disease cannot learn new oral hygiene techniques due to neurological impairment",
+        "Provide detailed complex instructions to challenge and improve the patient\'s motor control",
       ],
       correctAnswer: 1
     },
     {
-      question: "A patient's psychosocial history reveals food allergies including severe reactions to pine nuts. The dentist plans to use a dental product containing pine nut oil.",
+      question: "A patient\'s psychosocial history reveals food allergies including severe reactions to pine nuts. The dentist plans to use a dental product containing pine nut oil.",
       options: [
         "Food allergies are not relevant to dental treatment and require no special precautions",
         "Avoid use of substances to which the patient is allergic; be prepared for a medical emergency",
@@ -2057,7 +2057,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates gastroesophageal reflux disease (GERD) with frequent heartburn and acid regurgitation, especially when lying down.",
+      question: "A patient\'s medical history indicates gastroesophageal reflux disease (GERD) with frequent heartburn and acid regurgitation, especially when lying down.",
       options: [
         "GERD has no impact on dental treatment and requires no positioning modifications",
         "The dental chair may need semi-supine positioning to reduce reflux; manage erosion risk with fluoride",
@@ -2067,7 +2067,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history reveals recent myocardial infarction (heart attack) 2 months ago. The patient is scheduled for scaling and root planing with local anesthesia.",
+      question: "A patient\'s medical history reveals recent myocardial infarction (heart attack) 2 months ago. The patient is scheduled for scaling and root planing with local anesthesia.",
       options: [
         "Recent myocardial infarction has no impact on dental treatment safety or anesthetic selection",
         "Consult with PCP for clearance; use stress reduction protocols; monitor vital signs; consider anesthetic choice carefully",
@@ -2077,17 +2077,17 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's psychosocial history indicates chronic pain syndrome managed with opioid pain medications for the past 3 years. The patient asks for prescriptions for pain medication after scaling and root planing.",
+      question: "A patient\'s psychosocial history indicates chronic pain syndrome managed with opioid pain medications for the past 3 years. The patient asks for prescriptions for pain medication after scaling and root planing.",
       options: [
         "Prescribe opioid pain medications routinely for all patients with chronic pain syndrome",
-        "Recommend over-the-counter pain relief and consult with the patient's pain management physician before prescribing opioids",
+        "Recommend over-the-counter pain relief and consult with the patient\'s pain management physician before prescribing opioids",
         "All patients requesting pain medication are drug-seeking and should be refused treatment",
         "Dental hygienists can prescribe unlimited amounts of opioid pain medication without physician consultation",
       ],
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates hypothyroidism controlled with levothyroxine. The patient reports taking the medication as prescribed with good symptom control.",
+      question: "A patient\'s medical history indicates hypothyroidism controlled with levothyroxine. The patient reports taking the medication as prescribed with good symptom control.",
       options: [
         "Hypothyroidism increases bleeding risk and requires hemostatic agents after scaling",
         "Well-controlled hypothyroidism typically requires minimal treatment modifications; confirm compliance with medication",
@@ -2097,7 +2097,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's dental history reveals extensive dental work performed in childhood under general anesthesia due to severe dental anxiety. The patient now experiences panic attacks in dental settings.",
+      question: "A patient\'s dental history reveals extensive dental work performed in childhood under general anesthesia due to severe dental anxiety. The patient now experiences panic attacks in dental settings.",
       options: [
         "Dental anxiety is irrational and patients should overcome it without accommodations",
         "Use stress reduction protocols; consider shorter appointments initially; build trust gradually; refer for anxiety management if needed",
@@ -2107,9 +2107,9 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates hearing impairment with bilateral hearing aids. The patient relies on lip reading to supplement limited hearing.",
+      question: "A patient\'s medical history indicates hearing impairment with bilateral hearing aids. The patient relies on lip reading to supplement limited hearing.",
       options: [
-        "Speak louder and exaggerate words to overcome the patient's hearing impairment",
+        "Speak louder and exaggerate words to overcome the patient\'s hearing impairment",
         "Face the patient when speaking; provide written instructions; document preferred communication method; ensure hearing aids are in place",
         "Hearing impairment makes patient education ineffective and should not be attempted",
         "All hearing-impaired patients can read lips perfectly and require no additional communication supports",
@@ -2117,7 +2117,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's psychosocial history reveals recovery from substance use disorder, with 6 months of sobriety from alcohol and opioids. The patient is anxious about dental treatment triggering relapse.",
+      question: "A patient\'s psychosocial history reveals recovery from substance use disorder, with 6 months of sobriety from alcohol and opioids. The patient is anxious about dental treatment triggering relapse.",
       options: [
         "Past substance use has no relevance to current dental treatment planning",
         "Avoid alcohol-containing products and opioid pain medications; provide support and encouragement for continued recovery",
@@ -2127,7 +2127,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates diagnosis of celiac disease with strict gluten-free diet adherence. The patient asks about flavored prophy paste used during polishing.",
+      question: "A patient\'s medical history indicates diagnosis of celiac disease with strict gluten-free diet adherence. The patient asks about flavored prophy paste used during polishing.",
       options: [
         "All dental products are gluten-free and require no special selection for celiac patients",
         "Verify that products used are gluten-free; avoid products containing gluten to prevent adverse reactions",
@@ -2137,7 +2137,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history reveals current treatment for tuberculosis with multiple antibiotics. The patient's physician has confirmed the patient is no longer contagious.",
+      question: "A patient\'s medical history reveals current treatment for tuberculosis with multiple antibiotics. The patient\'s physician has confirmed the patient is no longer contagious.",
       options: [
         "Refuse to provide dental hygiene services until tuberculosis treatment is completely finished",
         "Follow standard precautions; confirm with physician that patient is non-contagious; proceed with routine care",
@@ -2147,7 +2147,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's psychosocial history indicates limited health literacy with difficulty understanding written materials. The patient nods agreement to all questions but appears confused.",
+      question: "A patient\'s psychosocial history indicates limited health literacy with difficulty understanding written materials. The patient nods agreement to all questions but appears confused.",
       options: [
         "Provide complex written materials and assume the patient will ask questions if confused",
         "Use simple language with visual aids; demonstrate techniques; assess understanding through teach-back method",
@@ -2157,7 +2157,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates sickle cell anemia with history of pain crises requiring hospitalization. The patient is currently feeling well without active symptoms.",
+      question: "A patient\'s medical history indicates sickle cell anemia with history of pain crises requiring hospitalization. The patient is currently feeling well without active symptoms.",
       options: [
         "Sickle cell anemia has no impact on dental treatment and requires no special precautions",
         "Consult with hematologist regarding dental care; stress meticulous oral care to minimize infection and bleeding",
@@ -2167,7 +2167,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history reveals hemophilia with history of excessive bleeding following previous dental extractions. The patient is scheduled for scaling and root planing.",
+      question: "A patient\'s medical history reveals hemophilia with history of excessive bleeding following previous dental extractions. The patient is scheduled for scaling and root planing.",
       options: [
         "Hemophilia has no impact on scaling procedures and requires no bleeding precautions",
         "Consult with hematologist; avoid inferior alveolar blocks; monitor closely and apply direct pressure or hemostatic agents after scaling",
@@ -2177,7 +2177,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's psychosocial history indicates isolation and limited social support following the death of a spouse 3 months ago. The patient reports depression and difficulty with self-care activities.",
+      question: "A patient\'s psychosocial history indicates isolation and limited social support following the death of a spouse 3 months ago. The patient reports depression and difficulty with self-care activities.",
       options: [
         "Depression and social isolation are not relevant to dental hygiene care planning",
         "Provide compassionate care; simplify oral hygiene recommendations; consider more frequent appointments for support; offer mental health resources",
@@ -2187,7 +2187,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates history of malignant hyperthermia triggered by general anesthesia. The patient is anxious about receiving local anesthetic for dental treatment.",
+      question: "A patient\'s medical history indicates history of malignant hyperthermia triggered by general anesthesia. The patient is anxious about receiving local anesthetic for dental treatment.",
       options: [
         "Malignant hyperthermia is triggered by all types of anesthesia including local anesthetic",
         "Local anesthetic does not trigger malignant hyperthermia; reassure patient of safety for dental procedures",
@@ -2197,7 +2197,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history reveals chronic fatigue syndrome with severe fatigue limiting daily activities. The patient requests morning appointments and shorter appointment times.",
+      question: "A patient\'s medical history reveals chronic fatigue syndrome with severe fatigue limiting daily activities. The patient requests morning appointments and shorter appointment times.",
       options: [
         "Chronic fatigue syndrome is not a real medical condition and requires no accommodations",
         "Schedule shorter appointments at times when patient has most energy; document preferences for future appointments",
@@ -2207,7 +2207,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's psychosocial history indicates transgender status with current gender-affirming hormone therapy. The patient is concerned about privacy and respectful treatment.",
+      question: "A patient\'s psychosocial history indicates transgender status with current gender-affirming hormone therapy. The patient is concerned about privacy and respectful treatment.",
       options: [
         "Transgender status is not relevant to medical history or dental treatment planning",
         "Use preferred name and pronouns; document gender-affirming therapy as with any hormonal treatment; provide respectful care",
@@ -2217,7 +2217,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's medical history indicates recent diagnosis of amyotrophic lateral sclerosis (ALS) with progressive muscle weakness. The patient is currently able to perform oral hygiene independently but anticipates future difficulty.",
+      question: "A patient\'s medical history indicates recent diagnosis of amyotrophic lateral sclerosis (ALS) with progressive muscle weakness. The patient is currently able to perform oral hygiene independently but anticipates future difficulty.",
       options: [
         "ALS has no impact on oral hygiene ability and requires no future planning",
         "Discuss adaptive aids and techniques for anticipated changes; plan for caregiver training as disease progresses; establish regular care schedule",
@@ -2470,11 +2470,11 @@ export const questions = {
       correctAnswer: 3
     },
     {
-      question: "Why should you not use your thumb when taking a patient's pulse?",
+      question: "Why should you not use your thumb when taking a patient\'s pulse?",
       options: [
         "The thumb is too large to feel subtle pulsations",
         "The thumb cannot reach the radial artery properly",
-        "The thumb contains a pulse that may be confused with the patient's pulse",
+        "The thumb contains a pulse that may be confused with the patient\'s pulse",
         "Using the thumb causes discomfort to the patient",
       ],
       correctAnswer: 2
@@ -2805,7 +2805,7 @@ export const questions = {
         "Yes, to make the patient more comfortable",
         "Yes, if the clothing is thin",
         "No, pressure should be taken on bare arm",
-        "It doesn't matter either way",
+        "It doesn\'t matter either way",
       ],
       correctAnswer: 2
     },
@@ -2865,7 +2865,7 @@ export const questions = {
         "Angled backward away from the ear canal",
         "Positioned straight into the ear",
         "Angled forward into the ear canal",
-        "It doesn't matter which direction",
+        "It doesn\'t matter which direction",
       ],
       correctAnswer: 2
     },
@@ -3210,7 +3210,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      question: "What should be documented in a patient's record regarding hypertension?",
+      question: "What should be documented in a patient\'s record regarding hypertension?",
       options: [
         "Only the blood pressure reading",
         "Medical history with regular updates, medication compliance reminders, BP readings especially when anesthesia is planned",
@@ -3650,10 +3650,10 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      question: "What should be done before dental treatment when a patient's blood pressure is ≥180/110?",
+      question: "What should be done before dental treatment when a patient\'s blood pressure is ≥180/110?",
       options: [
         "Proceed with routine treatment",
-        "Immediate consultation with patient's PCP prior to treatment",
+        "Immediate consultation with patient\'s PCP prior to treatment",
         "Postpone treatment for one week",
         "Only monitor during treatment",
       ],
@@ -3734,7 +3734,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      question: "The thumb should be used to take a patient's pulse because it is most sensitive.",
+      question: "The thumb should be used to take a patient\'s pulse because it is most sensitive.",
       options: [
         "True",
         "False",
@@ -4013,7 +4013,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A 28-year-old patient reports feeling feverish and mentions having a sore throat. The dental hygienist considers whether to measure the patient's temperature.",
+      question: "A 28-year-old patient reports feeling feverish and mentions having a sore throat. The dental hygienist considers whether to measure the patient\'s temperature.",
       options: [
         "For routine prophylaxis appointments when the patient reports no symptoms",
         "When the patient reports illness or suspected infection is present",
@@ -4027,13 +4027,13 @@ export const questions = {
       options: [
         "To determine if systemic infection is present that may require medical referral",
         "To establish baseline data for future comparison at subsequent appointments",
-        "To confirm the patient's reported symptoms match the clinical findings",
+        "To confirm the patient\'s reported symptoms match the clinical findings",
         "To document vital signs for insurance billing and reimbursement purposes",
       ],
       correctAnswer: 0
     },
     {
-      question: "A 68-year-old patient arrives for a dental hygiene maintenance appointment. The patient's last recorded temperature from 6 months ago was 98.6°F (37°C).",
+      question: "A 68-year-old patient arrives for a dental hygiene maintenance appointment. The patient\'s last recorded temperature from 6 months ago was 98.6°F (37°C).",
       options: [
         "Normal average is 98.6°F (37°C) with a range of 97-99°F (36.1-37.2°C)",
         "Normal average is 99.5°F (37.5°C) with a range of 98-101°F (36.7-38.3°C)",
@@ -4043,7 +4043,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      question: "A 72-year-old patient's temperature reads 96.8°F (36°C) using an oral electronic thermometer. The patient appears healthy and reports no symptoms of illness.",
+      question: "A 72-year-old patient\'s temperature reads 96.8°F (36°C) using an oral electronic thermometer. The patient appears healthy and reports no symptoms of illness.",
       options: [
         "This indicates hypothermia and requires immediate emergency medical intervention",
         "This is slightly lower than average and within normal range for older adults",
@@ -4053,7 +4053,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A 4-year-old child presents for a dental examination. The parent asks why the dental hygienist is checking the child's temperature.",
+      question: "A 4-year-old child presents for a dental examination. The parent asks why the dental hygienist is checking the child\'s temperature.",
       options: [
         "98.0°F (36.7°C), which is the same as adults",
         "97.0°F (36.1°C), which is lower than adults",
@@ -4073,7 +4073,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's oral temperature measures 99.7°F (37.6°C). The dental hygienist notes the patient had coffee immediately before the measurement was taken.",
+      question: "A patient\'s oral temperature measures 99.7°F (37.6°C). The dental hygienist notes the patient had coffee immediately before the measurement was taken.",
       options: [
         "Proceed with the reading as hot beverages do not affect oral temperature",
         "Wait at least 15 minutes before taking oral temperature measurement",
@@ -4093,7 +4093,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      question: "A dental hygienist prepares to take a patient's oral temperature using an electronic thermometer. The device has disposable protective sheaths available.",
+      question: "A dental hygienist prepares to take a patient\'s oral temperature using an electronic thermometer. The device has disposable protective sheaths available.",
       options: [
         "Place directly under the tongue without protective covering for accuracy",
         "Cover with disposable protective sheath and place under tongue briefly",
@@ -4113,7 +4113,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's temperature measures 104.5°F (40.3°C) using a noncontact infrared thermometer. The patient appears ill and reports feeling very hot.",
+      question: "A patient\'s temperature measures 104.5°F (40.3°C) using a noncontact infrared thermometer. The patient appears ill and reports feeling very hot.",
       options: [
         "Document the reading and proceed with routine dental hygiene treatment",
         "Retake the temperature in 15 minutes and compare with the first reading",
@@ -4123,11 +4123,11 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      question: "A patient's temperature reads 99.8°F (37.7°C). The dental hygienist considers possible causes before deciding whether to proceed with treatment.",
+      question: "A patient\'s temperature reads 99.8°F (37.7°C). The dental hygienist considers possible causes before deciding whether to proceed with treatment.",
       options: [
-        "The patient's age and gender, which permanently affect temperature readings",
+        "The patient\'s age and gender, which permanently affect temperature readings",
         "Recent smoking or consumption of hot beverages before measurement",
-        "The patient's insurance status and ability to pay for services",
+        "The patient\'s insurance status and ability to pay for services",
         "The ambient temperature in the dental operatory or treatment room",
       ],
       correctAnswer: 1
@@ -4163,7 +4163,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      question: "An adult patient's pulse measures 110 beats per minute. The patient appears anxious and mentions being nervous about dental treatment.",
+      question: "An adult patient\'s pulse measures 110 beats per minute. The patient appears anxious and mentions being nervous about dental treatment.",
       options: [
         "Bradycardia, indicating an abnormally slow heartbeat requiring evaluation",
         "Tachycardia, indicating an unusually fast heartbeat that may have various causes",
@@ -4183,7 +4183,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A dental hygienist prepares to measure a patient's radial pulse. The patient's arm is positioned comfortably with palm facing down.",
+      question: "A dental hygienist prepares to measure a patient\'s radial pulse. The patient\'s arm is positioned comfortably with palm facing down.",
       options: [
         "At the wrist on the thumb side of the ventral surface",
         "On the side of the neck near the trachea and carotid artery",
@@ -4213,7 +4213,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      question: "A dental hygienist prepares to measure the radial pulse. The patient's arm is supported with the palm facing down on the armrest.",
+      question: "A dental hygienist prepares to measure the radial pulse. The patient\'s arm is supported with the palm facing down on the armrest.",
       options: [
         "Use the thumb because it provides the most sensitive detection of pulse",
         "Use the tips of the first three fingers to locate and feel the pulse",
@@ -4243,7 +4243,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A dental hygienist completes temperature and pulse measurements and prepares to assess the patient's respiratory rate.",
+      question: "A dental hygienist completes temperature and pulse measurements and prepares to assess the patient\'s respiratory rate.",
       options: [
         "To regulate body temperature through heat exchange in the lungs",
         "To supply oxygen to tissues and eliminate carbon dioxide from the body",
@@ -4273,7 +4273,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      question: "An adult patient's respiratory rate measures 30 breaths per minute. The patient appears anxious and is breathing rapidly and shallowly.",
+      question: "An adult patient\'s respiratory rate measures 30 breaths per minute. The patient appears anxious and is breathing rapidly and shallowly.",
       options: [
         "Bradypnea, indicating abnormally slow respiratory rate requiring intervention",
         "Tachypnea, indicating accelerated respiratory rate with various possible causes",
@@ -4283,7 +4283,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "An adult patient's respiratory rate measures 10 breaths per minute during assessment. The patient appears relaxed and reports no breathing difficulties.",
+      question: "An adult patient\'s respiratory rate measures 10 breaths per minute during assessment. The patient appears relaxed and reports no breathing difficulties.",
       options: [
         "Tachypnea, indicating rapid breathing associated with anxiety",
         "Bradypnea, indicating subnormal respiratory rate below normal range",
@@ -4293,7 +4293,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A dental hygienist plans to count a patient's respirations. The radial pulse has just been counted and fingers remain in position.",
+      question: "A dental hygienist plans to count a patient\'s respirations. The radial pulse has just been counted and fingers remain in position.",
       options: [
         "Announce to the patient that respirations will be counted to ensure cooperation",
         "Count respirations immediately after pulse with fingers maintained on radial pulse",
@@ -4303,7 +4303,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A dental hygienist maintains fingers over the radial pulse while preparing to count respirations without the patient's awareness.",
+      question: "A dental hygienist maintains fingers over the radial pulse while preparing to count respirations without the patient\'s awareness.",
       options: [
         "Patients cannot accurately control their breathing when conscious",
         "Respirations may be voluntarily altered if the patient knows they are being counted",
@@ -4313,7 +4313,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "While observing respirations, the dental hygienist counts the number of times the patient's chest rises during one minute.",
+      question: "While observing respirations, the dental hygienist counts the number of times the patient\'s chest rises during one minute.",
       options: [
         "One inhalation only, with exhalation not included in the count",
         "One exhalation only, with inhalation not included in the count",
@@ -4333,7 +4333,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "During respiratory assessment, the dental hygienist observes a bluish tinge on the patient's nail beds and face.",
+      question: "During respiratory assessment, the dental hygienist observes a bluish tinge on the patient\'s nail beds and face.",
       options: [
         "Normal oxygenation with adequate oxygen saturation levels",
         "Insufficiency of oxygen suggesting poor respiratory quality",
@@ -4363,7 +4363,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      question: "A patient's blood pressure reading is 118/76 mm Hg. The dental hygienist prepares to document both values in the patient record.",
+      question: "A patient\'s blood pressure reading is 118/76 mm Hg. The dental hygienist prepares to document both values in the patient record.",
       options: [
         "The highest pressure during ventricular contraction in the systole phase",
         "The lowest pressure during ventricular relaxation in the diastole phase",
@@ -4373,7 +4373,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "An adult patient's blood pressure measures 115/72 mm Hg. The dental hygienist evaluates whether this falls within normal range.",
+      question: "An adult patient\'s blood pressure measures 115/72 mm Hg. The dental hygienist evaluates whether this falls within normal range.",
       options: [
         "Less than 90 mm Hg, indicating optimal cardiovascular function",
         "Less than 120 mm Hg, indicating normal blood pressure range",
@@ -4383,7 +4383,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's blood pressure is recorded as 122/78 mm Hg. The patient asks what the bottom number means.",
+      question: "A patient\'s blood pressure is recorded as 122/78 mm Hg. The patient asks what the bottom number means.",
       options: [
         "Less than 60 mm Hg, indicating optimal diastolic function",
         "Less than 80 mm Hg, indicating normal diastolic pressure range",
@@ -4393,7 +4393,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's blood pressure reads 124/82 mm Hg. The dental hygienist calculates additional values from this reading.",
+      question: "A patient\'s blood pressure reads 124/82 mm Hg. The dental hygienist calculates additional values from this reading.",
       options: [
         "The sum of systolic and diastolic pressures added together",
         "The difference between systolic and diastolic pressures",
@@ -4403,7 +4403,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient reports drinking coffee and feeling stressed before the dental appointment. The blood pressure reads higher than the patient's previous recordings.",
+      question: "A patient reports drinking coffee and feeling stressed before the dental appointment. The blood pressure reads higher than the patient\'s previous recordings.",
       options: [
         "Fasting, rest, and quiet emotions that promote relaxation",
         "Exercise, eating, stimulants, and emotional disturbance",
@@ -4483,7 +4483,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      question: "During blood pressure measurement, the dental hygienist notices the patient's arm is resting on the dental chair arm significantly below heart level.",
+      question: "During blood pressure measurement, the dental hygienist notices the patient\'s arm is resting on the dental chair arm significantly below heart level.",
       options: [
         "Arm position below heart level results in falsely low blood pressure readings",
         "Arm position below heart level results in falsely high blood pressure readings",
@@ -4513,7 +4513,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's blood pressure was previously measured on the right arm. At today's appointment, staff members disagree about which arm to use.",
+      question: "A patient\'s blood pressure was previously measured on the right arm. At today\'s appointment, staff members disagree about which arm to use.",
       options: [
         "Using the same arm prevents patient discomfort from multiple cuff inflations",
         "Variation in pressure may exist between arms; consistency ensures accurate comparison",
@@ -4533,7 +4533,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "After selecting the appropriate cuff size, the dental hygienist prepares to apply it to the patient's arm supported at heart level.",
+      question: "After selecting the appropriate cuff size, the dental hygienist prepares to apply it to the patient\'s arm supported at heart level.",
       options: [
         "Directly over the antecubital fossa covering the bend of the elbow",
         "Approximately 1 inch above the antecubital fossa on the upper arm",
@@ -4543,7 +4543,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A dental hygienist positions the blood pressure cuff on the patient's arm. The cuff has an arrow indicating proper placement.",
+      question: "A dental hygienist positions the blood pressure cuff on the patient\'s arm. The cuff has an arrow indicating proper placement.",
       options: [
         "On the posterior aspect of the arm over the triceps muscle",
         "Directly over the brachial artery on the anterior medial aspect",
@@ -4568,7 +4568,7 @@ export const questions = {
         "To identify the estimated systolic pressure and avoid arbitrary excess pressure",
         "To determine the diastolic pressure before inflating the cuff fully",
         "To measure the pulse pressure difference between systolic and diastolic",
-        "To establish the patient's baseline blood pressure for future comparison",
+        "To establish the patient\'s baseline blood pressure for future comparison",
       ],
       correctAnswer: 0
     },
@@ -4653,7 +4653,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's blood pressure reads 118/76 mm Hg. The dental hygienist prepares to document this in the patient record.",
+      question: "A patient\'s blood pressure reads 118/76 mm Hg. The dental hygienist prepares to document this in the patient record.",
       options: [
         "Record as \"118 over 76\" written out in words without symbols",
         "Record as a fraction 118/76 with date, arm used, and position",
@@ -4673,7 +4673,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "An adult patient's blood pressure measures 124/82 mm Hg. The patient asks whether this reading is normal.",
+      question: "An adult patient\'s blood pressure measures 124/82 mm Hg. The patient asks whether this reading is normal.",
       options: [
         "Normal blood pressure, no intervention needed",
         "Elevated blood pressure, lifestyle modifications recommended",
@@ -4683,7 +4683,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A 45-year-old patient's blood pressure reads 138/86 mm Hg. This is confirmed with a second measurement after 5 minutes.",
+      question: "A 45-year-old patient\'s blood pressure reads 138/86 mm Hg. This is confirmed with a second measurement after 5 minutes.",
       options: [
         "Normal blood pressure with no lifestyle changes needed",
         "Stage 1 hypertension requiring PCP consult and stress reduction",
@@ -4693,7 +4693,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's blood pressure measures 152/94 mm Hg. A second reading after 5 minutes is 148/92 mm Hg.",
+      question: "A patient\'s blood pressure measures 152/94 mm Hg. A second reading after 5 minutes is 148/92 mm Hg.",
       options: [
         "Elevated blood pressure; continue with dental treatment as planned",
         "Stage 2 hypertension; refer for urgent PCP assessment and delay treatment",
@@ -4703,12 +4703,12 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's blood pressure reads 188/118 mm Hg. The patient reports feeling fine and wants to proceed with treatment.",
+      question: "A patient\'s blood pressure reads 188/118 mm Hg. The patient reports feeling fine and wants to proceed with treatment.",
       options: [
         "Proceed with dental hygiene treatment using stress reduction protocol",
         "Discontinue care and refer for immediate medical evaluation depending on protocol",
         "Reschedule for tomorrow and advise patient to rest before returning",
-        "Complete treatment quickly to avoid prolonging the patient's stress",
+        "Complete treatment quickly to avoid prolonging the patient\'s stress",
       ],
       correctAnswer: 1
     },
@@ -4723,7 +4723,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's blood pressure at the beginning of the appointment reads 142/90 mm Hg. At the end of the appointment after treatment, it reads 128/82 mm Hg.",
+      question: "A patient\'s blood pressure at the beginning of the appointment reads 142/90 mm Hg. At the end of the appointment after treatment, it reads 128/82 mm Hg.",
       options: [
         "The first reading was inaccurate due to equipment malfunction",
         "The initial elevation may have been due to white-coat hypertension or anxiety",
@@ -4793,7 +4793,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A male patient who drinks 4 alcoholic beverages daily asks about alcohol's effect on blood pressure.",
+      question: "A male patient who drinks 4 alcoholic beverages daily asks about alcohol\'s effect on blood pressure.",
       options: [
         "Unlimited alcohol consumption because it has no effect on blood pressure",
         "Limit to no more than two drinks per day for most men",
@@ -4863,7 +4863,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A 6-year-old child's vital signs are being assessed. The blood pressure cuff is properly sized for the child's arm.",
+      question: "A 6-year-old child\'s vital signs are being assessed. The blood pressure cuff is properly sized for the child\'s arm.",
       options: [
         "60-80 mm Hg, much lower than adults",
         "91-107 mm Hg, lower than adult normal range",
@@ -4873,7 +4873,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A 4-year-old child's vital signs are being measured. The dental hygienist selects an appropriately sized pediatric blood pressure cuff.",
+      question: "A 4-year-old child\'s vital signs are being measured. The dental hygienist selects an appropriately sized pediatric blood pressure cuff.",
       options: [
         "60-80 mm Hg, the same as adults",
         "47-56 mm Hg, lower than adult normal range",
@@ -4913,7 +4913,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A patient's vital signs show: temperature 99.8°F, pulse 105 BPM, respirations 24/min, blood pressure 138/88 mm Hg. The patient appears anxious.",
+      question: "A patient\'s vital signs show: temperature 99.8°F, pulse 105 BPM, respirations 24/min, blood pressure 138/88 mm Hg. The patient appears anxious.",
       options: [
         "All values are severely abnormal requiring immediate emergency intervention",
         "Values show mild elevation across all parameters possibly related to anxiety",
@@ -4933,7 +4933,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A dental hygienist documents vital signs in a patient's permanent record. The patient received local anesthesia during treatment.",
+      question: "A dental hygienist documents vital signs in a patient\'s permanent record. The patient received local anesthesia during treatment.",
       options: [
         "Only the numeric values without date, arm used, or patient position",
         "Date, arm used (right or left), position (seated or standing), and the reading",
@@ -4943,7 +4943,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A 70-year-old patient's respiratory rate is assessed at a dental hygiene appointment.",
+      question: "A 70-year-old patient\'s respiratory rate is assessed at a dental hygiene appointment.",
       options: [
         "Respiratory rate has no clinical significance in older adults",
         "Respiratory rate has higher predictive value for serious adverse events in older adults",
@@ -4989,9 +4989,9 @@ export const questions = {
       question: "What is the primary rationale for performing an extraoral and intraoral examination?",
       options: [
         "To detect oral cancer at the earliest possible stage and identify other abnormalities",
-        "To evaluate the effectiveness of the patient's oral hygiene routine",
+        "To evaluate the effectiveness of the patient\'s oral hygiene routine",
         "To determine the appropriate fluoride treatment for the patient",
-        "To assess the patient's risk for developing periodontal disease",
+        "To assess the patient\'s risk for developing periodontal disease",
       ],
       correctAnswer: 0
     },
@@ -5021,7 +5021,7 @@ export const questions = {
         "Detecting irregularities of teeth and locating calculus",
         "Measuring the depth of periodontal pockets",
         "Evaluating the color of soft tissues",
-        "Assessing the patient's occlusion and bite relationship",
+        "Assessing the patient\'s occlusion and bite relationship",
       ],
       correctAnswer: 0
     },
@@ -5090,7 +5090,7 @@ export const questions = {
       options: [
         "The presence of dental caries in posterior teeth",
         "Adenopathy, lymphadenopathy, induration, or pain",
-        "The patient's ability to open their mouth widely",
+        "The patient\'s ability to open their mouth widely",
         "Evidence of proper oral hygiene practices",
       ],
       correctAnswer: 1
@@ -5098,7 +5098,7 @@ export const questions = {
     {
       question: "When examining a patient, prostheses should be removed because:",
       options: [
-        "They may interfere with the patient's ability to communicate",
+        "They may interfere with the patient\'s ability to communicate",
         "It improves the ability to inspect all oral areas adequately",
         "The dentist needs to evaluate the fit of the prosthesis",
         "They must be cleaned and disinfected during the appointment",
@@ -5496,7 +5496,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      question: "Stensen's duct is associated with:",
+      question: "Stensen\'s duct is associated with:",
       options: [
         "The submandibular salivary gland beneath the chin",
         "The sublingual salivary gland in the floor of mouth",
@@ -5586,7 +5586,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      question: "Wharton's duct is the opening for:",
+      question: "Wharton\'s duct is the opening for:",
       options: [
         "The parotid salivary gland in the cheek",
         "The submandibular salivary gland in the floor of mouth",
@@ -5962,7 +5962,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      question: "Stensen's duct is the opening for the parotid salivary gland.",
+      question: "Stensen\'s duct is the opening for the parotid salivary gland.",
       options: [
         "True",
         "False",
@@ -5970,7 +5970,7 @@ export const questions = {
       correctAnswer: 0
     },
     {
-      question: "Wharton's duct is associated with the parotid gland.",
+      question: "Wharton\'s duct is associated with the parotid gland.",
       options: [
         "True",
         "False",
@@ -6258,7 +6258,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "The oral cavity can reflect the patient's general health status.",
+      question: "The oral cavity can reflect the patient\'s general health status.",
       options: [
         "True",
         "False",
@@ -6354,7 +6354,7 @@ export const questions = {
         "To document baseline periodontal measurements for future comparison",
         "To detect oral cancer and other pathologies at the earliest possible stage",
         "To identify areas requiring restorative treatment planning",
-        "To assess the patient's oral hygiene technique and compliance",
+        "To assess the patient\'s oral hygiene technique and compliance",
       ],
       correctAnswer: 1
     },
@@ -6362,14 +6362,14 @@ export const questions = {
       question: "A dental hygienist is examining a 38-year-old female patient who recently completed chemotherapy for breast cancer. The patient is taking long-term immunosuppressive medications following a bone marrow transplant. Which assessment finding would be MOST significant as a risk factor for oral pathology in this patient?",
       options: [
         "History of previous cancer and immunosuppressive medication use",
-        "Patient's age and gender demographics",
+        "Patient\'s age and gender demographics",
         "Recent completion of chemotherapy treatment only",
         "Type of cancer previously diagnosed",
       ],
       correctAnswer: 0
     },
     {
-      question: "During an examination, you observe a lesion on the patient's buccal mucosa. You need to determine its dimensions for documentation. The patient is a 52-year-old male with no significant medical history. What is the MOST appropriate instrument to use for measuring the lesion's size?",
+      question: "During an examination, you observe a lesion on the patient\'s buccal mucosa. You need to determine its dimensions for documentation. The patient is a 52-year-old male with no significant medical history. What is the MOST appropriate instrument to use for measuring the lesion\'s size?",
       options: [
         "A cotton-tipped applicator for precise measurement",
         "A periodontal probe with millimeter markings",
@@ -6409,7 +6409,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "During examination of a 33-year-old patient's lips, you use your finger and thumb of the same hand to palpate the tissue. The patient has no reported symptoms but appears anxious. What type of palpation technique are you demonstrating?",
+      question: "During examination of a 33-year-old patient\'s lips, you use your finger and thumb of the same hand to palpate the tissue. The patient has no reported symptoms but appears anxious. What type of palpation technique are you demonstrating?",
       options: [
         "Digital palpation for detecting abnormalities",
         "Bimanual palpation for thorough assessment",
@@ -6449,17 +6449,17 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      question: "During examination of a 44-year-old patient, you identify what appears to be an abnormality but you're uncertain if it's a deviation from normal. The patient has no symptoms and reports nothing unusual. What represents a SIGN versus a symptom?",
+      question: "During examination of a 44-year-old patient, you identify what appears to be an abnormality but you\'re uncertain if it\'s a deviation from normal. The patient has no symptoms and reports nothing unusual. What represents a SIGN versus a symptom?",
       options: [
         "Patient-reported bleeding when brushing teeth",
         "Observable color change identified by the clinician",
-        "Patient's complaint of persistent bad taste",
+        "Patient\'s complaint of persistent bad taste",
         "Patient-reported tenderness in specific area",
       ],
       correctAnswer: 1
     },
     {
-      question: "A 36-year-old patient complains of pain when chewing on the left side and reports seeing blood when brushing. During your examination, you observe gingival inflammation and probe depths of 5-6mm. Which of the patient's reports represents a symptom?",
+      question: "A 36-year-old patient complains of pain when chewing on the left side and reports seeing blood when brushing. During your examination, you observe gingival inflammation and probe depths of 5-6mm. Which of the patient\'s reports represents a symptom?",
       options: [
         "The 5-6mm probe depths you measured",
         "The gingival inflammation you observed visually",
@@ -6469,7 +6469,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      question: "You are examining a 58-year-old patient's tongue and observe the dorsal surface carefully. The patient has no complaints. What type of papillae are the most numerous and give the tongue its characteristic rough texture?",
+      question: "You are examining a 58-year-old patient\'s tongue and observe the dorsal surface carefully. The patient has no complaints. What type of papillae are the most numerous and give the tongue its characteristic rough texture?",
       options: [
         "Fungiform papillae containing taste buds on lateral surfaces",
         "Filiform papillae providing keratinized threadlike elevations",
@@ -6479,7 +6479,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "During examination of a 42-year-old patient's tongue, you observe 12 large, round papillae arranged in a V-shape between the body and base of the tongue. What type of papillae are these?",
+      question: "During examination of a 42-year-old patient\'s tongue, you observe 12 large, round papillae arranged in a V-shape between the body and base of the tongue. What type of papillae are these?",
       options: [
         "Foliate papillae with taste buds in lateral grooves",
         "Fungiform papillae scattered on tongue surface",
@@ -6499,7 +6499,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      question: "You are examining a 27-year-old patient's oral cavity. Which characteristic correctly describes the lining mucosa found in the mouth?",
+      question: "You are examining a 27-year-old patient\'s oral cavity. Which characteristic correctly describes the lining mucosa found in the mouth?",
       options: [
         "Firmly attached to underlying bone structure",
         "Keratinized epithelial surface covering tissue",
@@ -6569,7 +6569,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      question: "You identify a lesion on a 52-year-old patient's tongue measuring 4mm in diameter. It is solid, raised, and has a rounded top. The patient noticed it 1 week ago. What type of lesion is this?",
+      question: "You identify a lesion on a 52-year-old patient\'s tongue measuring 4mm in diameter. It is solid, raised, and has a rounded top. The patient noticed it 1 week ago. What type of lesion is this?",
       options: [
         "Vesicle with typical fluid content",
         "Papule presenting as solid elevation",
@@ -6659,7 +6659,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      question: "A 54-year-old patient has a lesion on the gingiva that appears red, rough, and wart-like. The patient reports it has been slowly growing. What descriptive term applies to this lesion's surface?",
+      question: "A 54-year-old patient has a lesion on the gingiva that appears red, rough, and wart-like. The patient reports it has been slowly growing. What descriptive term applies to this lesion\'s surface?",
       options: [
         "Papillary resembling nipple-shaped projection",
         "Verrucous presenting wart-like appearance",
@@ -6694,7 +6694,7 @@ export const questions = {
         "Location on the floor of mouth",
         "Raised margins surrounding the lesion",
         "Induration detected during palpation",
-        "Patient's tobacco use history",
+        "Patient\'s tobacco use history",
       ],
       correctAnswer: 2
     },
@@ -6749,7 +6749,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "You receive a pathology report on a 59-year-old patient's oral lesion biopsy that states \"HSIL (high-grade squamous intraepithelial lesion).\" What does this diagnosis indicate?",
+      question: "You receive a pathology report on a 59-year-old patient\'s oral lesion biopsy that states \"HSIL (high-grade squamous intraepithelial lesion).\" What does this diagnosis indicate?",
       options: [
         "Normal tissue with no dysplasia present",
         "Mild to moderate dysplasia requiring monitoring",
@@ -6759,7 +6759,7 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      question: "A 41-year-old patient's biopsy report returns as \"NILM (negative for intraepithelial lesion or malignancy).\" The patient is anxious about the results. What is the significance of this finding?",
+      question: "A 41-year-old patient\'s biopsy report returns as \"NILM (negative for intraepithelial lesion or malignancy).\" The patient is anxious about the results. What is the significance of this finding?",
       options: [
         "Severe dysplasia requiring immediate treatment",
         "Normal tissue with possible infection or inflammation",
@@ -6774,7 +6774,7 @@ export const questions = {
         "Only abnormal findings and referrals made",
         "Time spent on examination and patient complaints",
         "Details of examination, follow-up procedures, and outcomes",
-        "Patient's acknowledgment of receiving examination",
+        "Patient\'s acknowledgment of receiving examination",
       ],
       correctAnswer: 2
     },
@@ -6819,7 +6819,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A 33-year-old patient with history of oral cancer returns for 3-month continuing care. During examination, you note the patient's HPV vaccination status in the risk assessment. What is the significance of HPV vaccination related to oral health?",
+      question: "A 33-year-old patient with history of oral cancer returns for 3-month continuing care. During examination, you note the patient\'s HPV vaccination status in the risk assessment. What is the significance of HPV vaccination related to oral health?",
       options: [
         "Prevents all types of oral cancer development",
         "Reduces risk of HPV-associated head and neck cancers",
@@ -7079,7 +7079,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "A 35-year-old patient has a visible opening of Stensen's duct on the buccal mucosa opposite the maxillary second molar. The patient reports no symptoms. What gland does this duct drain?",
+      question: "A 35-year-old patient has a visible opening of Stensen\'s duct on the buccal mucosa opposite the maxillary second molar. The patient reports no symptoms. What gland does this duct drain?",
       options: [
         "Submandibular gland located beneath jaw",
         "Parotid gland positioned near ear",
@@ -7089,7 +7089,7 @@ export const questions = {
       correctAnswer: 1
     },
     {
-      question: "During examination of a 48-year-old patient, you observe Wharton's ducts opening on the floor of the mouth at the sublingual caruncles. These ducts drain which glands?",
+      question: "During examination of a 48-year-old patient, you observe Wharton\'s ducts opening on the floor of the mouth at the sublingual caruncles. These ducts drain which glands?",
       options: [
         "Sublingual glands located under tongue",
         "Submandibular glands beneath mandible",

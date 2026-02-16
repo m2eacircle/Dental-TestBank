@@ -758,7 +758,7 @@ export const questions = {
         "It must be removed at every visit",
         "Individual assessment based on cleaning ability and oral hygiene",
         "It should never be removed",
-        "Only the patient's preference"
+        "Only the patient\'s preference"
       ],
       correct: "B"
     },
@@ -945,7 +945,7 @@ export const questions = {
         "The final cost of treatment",
         "The ability to place a temporary restoration or healing time needed",
         "The implant manufacturer",
-        "The patient's pain level"
+        "The patient\'s pain level"
       ],
       correct: "B"
     },
@@ -1063,7 +1063,7 @@ export const questions = {
     },
     {
       id: 23203,
-      question: "What term describes defects caused by the practitioner's placement technique?",
+      question: "What term describes defects caused by the practitioner\'s placement technique?",
       options: [
         "Pathogenic",
         "Iatrogenic",
@@ -1120,8 +1120,8 @@ export const questions = {
       id: 23208,
       question: "Which classification system is used to describe the type and location of dental caries and restorations?",
       options: [
-        "Miller's Classification",
-        "Black's Classification",
+        "Miller\'s Classification",
+        "Black\'s Classification",
         "ADA Classification",
         "Both B and C"
       ],
@@ -3258,7 +3258,7 @@ export const questions = {
       options: [
         "By x-ray only",
         "By gently rocking each tooth with blunt instrument handles",
-        "By the patient's report only",
+        "By the patient\'s report only",
         "It cannot be detected"
       ],
       correct: "B"
@@ -3346,8 +3346,8 @@ export const questions = {
       options: [
         "That treatment is optional",
         "Directions for oral hygiene and care of appliances",
-        "That they don't need to brush",
-        "That diet doesn't matter"
+        "That they don\'t need to brush",
+        "That diet doesn\'t matter"
       ],
       correct: "B"
     },
@@ -3478,7 +3478,7 @@ export const questions = {
       options: [
         "That hygiene is not important",
         "To assist with oral hygiene around appliances",
-        "To avoid touching the child's mouth",
+        "To avoid touching the child\'s mouth",
         "To let children manage alone"
       ],
       correct: "B"
@@ -4369,7 +4369,7 @@ export const questions = {
     },
     {
       id: 23522,
-      question: "What percentage of sensitivity sufferers don't report their pain?",
+      question: "What percentage of sensitivity sufferers don\'t report their pain?",
       options: [
         "Approximately 25% of sufferers",
         "Approximately 50% of sufferers",
@@ -4593,7 +4593,7 @@ export const questions = {
       options: [
         "Telehealth visits replace in-person visits",
         "Pictures are sufficient for diagnosis",
-        "Telehealth doesn't replace in-person visits when there's pain",
+        "Telehealth doesn\'t replace in-person visits when there\'s pain",
         "Video consultations are always adequate"
       ],
       correct: "C"
@@ -4693,7 +4693,7 @@ export const questions = {
         "It causes severe adverse effects",
         "Effective for caries but weak for sensitivity",
         "It damages enamel structure",
-        "It's too expensive for patients"
+        "It\'s too expensive for patients"
       ],
       correct: "B"
     },
@@ -4736,7 +4736,7 @@ export const questions = {
       options: [
         "It exposes nerves directly",
         "It allows bacteria to enter",
-        "It's a prerequisite for dentin exposure",
+        "It\'s a prerequisite for dentin exposure",
         "It causes pulpal inflammation"
       ],
       correct: "C"
@@ -4868,7 +4868,7 @@ export const questions = {
       options: [
         "Use stronger concentrations",
         "Bleach more frequently",
-        "Follow manufacturer's instructions",
+        "Follow manufacturer\'s instructions",
         "Skip fluoride therapy"
       ],
       correct: "C"

@@ -76,7 +76,7 @@ export const questions = {
         "Only the appointment schedule",
         "Dental hygiene diagnoses, goals, interventions, and appointment schedule",
         "Insurance coverage details",
-        "The dentist's treatment plan only"
+        "The dentist\'s treatment plan only"
       ],
       correct: "B"
     },
@@ -161,7 +161,7 @@ export const questions = {
       id: 19114,
       question: "When establishing an appointment schedule, which factor should be considered?",
       options: [
-        "Only the clinician's availability",
+        "Only the clinician\'s availability",
         "Time needed for interventions, patient comfort, and evaluation",
         "Insurance authorization only",
         "Office closing times"
@@ -261,8 +261,8 @@ export const questions = {
       question: "A dental hygiene prognosis is contingent on all of the following EXCEPT:",
       options: [
         "Overall appraisal of evaluative statements",
-        "Patient's continued adherence to self-care",
-        "The dental hygienist's years of experience",
+        "Patient\'s continued adherence to self-care",
+        "The dental hygienist\'s years of experience",
         "Systemic health and environmental factors"
       ],
       correct: "C"
@@ -434,7 +434,7 @@ export const questions = {
     },
     {
       id: 19139,
-      question: "According to WHO's definition referenced in the OHRQL Model, health includes:",
+      question: "According to WHO\'s definition referenced in the OHRQL Model, health includes:",
       options: [
         "Only physical well-being",
         "Physical and mental well-being only",
@@ -447,7 +447,7 @@ export const questions = {
       id: 19140,
       question: "When writing a dental hygiene diagnosis using the HN Model, what follows \"due to\"?",
       options: [
-        "The patient's name",
+        "The patient\'s name",
         "The etiology or causative factors",
         "The treatment plan",
         "The prognosis"
@@ -522,7 +522,7 @@ export const questions = {
     },
     {
       id: 19147,
-      question: "According to the chapter, meeting the patient's need for safety typically requires:",
+      question: "According to the chapter, meeting the patient\'s need for safety typically requires:",
       options: [
         "No special considerations",
         "Preliminary emergency care in some instances",
@@ -581,7 +581,7 @@ export const questions = {
       options: [
         "Patient values and beliefs",
         "Healthcare provider philosophy",
-        "The dental hygienist's personal preferences",
+        "The dental hygienist\'s personal preferences",
         "Patient health status"
       ],
       correct: "C"
@@ -709,7 +709,7 @@ export const questions = {
     },
     {
       id: 19164,
-      question: "In Case Study 22.1, what was the patient's chief complaint?",
+      question: "In Case Study 22.1, what was the patient\'s chief complaint?",
       options: [
         "Tooth pain",
         "Not having been to the dentist in 6+ years and recently diagnosed with diabetes",
@@ -720,7 +720,7 @@ export const questions = {
     },
     {
       id: 19165,
-      question: "What was the patient's HbA1c level in Case Study 22.1?",
+      question: "What was the patient\'s HbA1c level in Case Study 22.1?",
       options: [
         "5.5%",
         "6.5%",
@@ -742,7 +742,7 @@ export const questions = {
     },
     {
       id: 19167,
-      question: "What was the patient's periodontal classification in Case Study 22.1?",
+      question: "What was the patient\'s periodontal classification in Case Study 22.1?",
       options: [
         "Stage I, Grade A",
         "Stage II, Grade B",
@@ -764,7 +764,7 @@ export const questions = {
     },
     {
       id: 19169,
-      question: "What was the patient's bleeding index (BI) in Case Study 22.1?",
+      question: "What was the patient\'s bleeding index (BI) in Case Study 22.1?",
       options: [
         "45%",
         "58%",
@@ -786,7 +786,7 @@ export const questions = {
     },
     {
       id: 19171,
-      question: "Which unmet need addressed the patient's diabetes and hypertension in Case Study 22.1?",
+      question: "Which unmet need addressed the patient\'s diabetes and hypertension in Case Study 22.1?",
       options: [
         "Wholesome facial image",
         "Freedom from pain",
@@ -868,7 +868,7 @@ export const questions = {
         "Only probing depths",
         "Inquiry of health changes, oral hygiene assessment, and outcome evaluation",
         "Financial review only",
-        "Scheduling next year's appointment"
+        "Scheduling next year\'s appointment"
       ],
       correct: "B"
     },
@@ -995,7 +995,7 @@ export const questions = {
     },
     {
       id: 19190,
-      question: "Which index measures the patient's plaque accumulation?",
+      question: "Which index measures the patient\'s plaque accumulation?",
       options: [
         "Bleeding Index",
         "Gingival Index",
@@ -1017,7 +1017,7 @@ export const questions = {
     },
     {
       id: 19192,
-      question: "In critical thinking scenario B, what was Eileen's chief concern?",
+      question: "In critical thinking scenario B, what was Eileen\'s chief concern?",
       options: [
         "Tooth pain",
         "Discolored teeth and bleeding gums",
@@ -1028,7 +1028,7 @@ export const questions = {
     },
     {
       id: 19193,
-      question: "What was Eileen's caries risk assessment?",
+      question: "What was Eileen\'s caries risk assessment?",
       options: [
         "Low risk",
         "Moderate risk",
@@ -1039,7 +1039,7 @@ export const questions = {
     },
     {
       id: 19194,
-      question: "What was Eileen's modified GI score?",
+      question: "What was Eileen\'s modified GI score?",
       options: [
         "1",
         "2",
@@ -1050,7 +1050,7 @@ export const questions = {
     },
     {
       id: 19195,
-      question: "Eileen's probing depths were:",
+      question: "Eileen\'s probing depths were:",
       options: [
         "1-2mm",
         "2-3mm",
@@ -1061,7 +1061,7 @@ export const questions = {
     },
     {
       id: 19196,
-      question: "What was Eileen's bleeding index?",
+      question: "What was Eileen\'s bleeding index?",
       options: [
         "53%",
         "63%",
@@ -1072,7 +1072,7 @@ export const questions = {
     },
     {
       id: 19197,
-      question: "Eileen's plaque index was:",
+      question: "Eileen\'s plaque index was:",
       options: [
         "44%",
         "54%",
@@ -1182,7 +1182,7 @@ export const questions = {
     },
     {
       id: 19207,
-      question: "When a patient's blood pressure is 130/90, this is classified as:",
+      question: "When a patient\'s blood pressure is 130/90, this is classified as:",
       options: [
         "Normal",
         "Stage 1 systolic, Stage 2 diastolic hypertension",
@@ -1437,7 +1437,7 @@ export const questions = {
       id: 19230,
       question: "Each documentation entry should include:",
       options: [
-        "Patient's social security number",
+        "Patient\'s social security number",
         "Date of service and signature of provider who performed the service",
         "Insurance information only",
         "Office gossip"
@@ -1988,7 +1988,7 @@ export const questions = {
       question: "Professional liability insurance for dental hygienists:",
       options: [
         "Is unnecessary",
-        "Is critical and should not rely solely on employer's insurance",
+        "Is critical and should not rely solely on employer\'s insurance",
         "Is only for dentists",
         "Is illegal"
       ],
@@ -2053,7 +2053,7 @@ export const questions = {
       id: 19286,
       question: "Why is it important to research state practice acts?",
       options: [
-        "It's not important",
+        "It\'s not important",
         "To understand what is legally permitted in that state",
         "For entertainment",
         "To avoid all treatment"
@@ -2067,7 +2067,7 @@ export const questions = {
         "Does not exist",
         "Can occur, such as for untreated periodontal disease",
         "Only applies to dentists",
-        "Is covered by patients' insurance"
+        "Is covered by patients\' insurance"
       ],
       correct: "B"
     },
@@ -2097,10 +2097,10 @@ export const questions = {
       id: 19290,
       question: "Why should dental hygienists maintain their own liability insurance?",
       options: [
-        "It's not necessary",
+        "It\'s not necessary",
         "Employer coverage may not adequately protect the individual hygienist",
-        "It's too expensive",
-        "It's illegal"
+        "It\'s too expensive",
+        "It\'s illegal"
       ],
       correct: "B"
     },

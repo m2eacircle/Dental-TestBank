@@ -62,9 +62,9 @@ export const questions = {
       id: 20105,
       question: "How should toothbrush head size be selected?",
       options: [
-        "Based on the patient's age",
+        "Based on the patient\'s age",
         "Based on dentist preference",
-        "Based on the size of the patient's mouth",
+        "Based on the size of the patient\'s mouth",
         "Based on brand popularity"
       ],
       correct: "C"
@@ -349,7 +349,7 @@ export const questions = {
       question: "What must dental hygienists do when teaching a new toothbrushing technique?",
       options: [
         "Only provide written instructions",
-        "Demonstrate on model and in patient's mouth, then monitor performance",
+        "Demonstrate on model and in patient\'s mouth, then monitor performance",
         "Show a video",
         "Assume patient will learn independently"
       ],
@@ -566,7 +566,7 @@ export const questions = {
     },
     {
       id: 20151,
-      question: "What should the dental hygienist observe during patient's toothbrushing demonstration?",
+      question: "What should the dental hygienist observe during patient\'s toothbrushing demonstration?",
       options: [
         "Only speed",
         "Technique, skill, and dexterity",
@@ -766,7 +766,7 @@ export const questions = {
       id: 20169,
       question: "What is another term for shared decision making?",
       options: [
-        "Doctor's orders",
+        "Doctor\'s orders",
         "Client cotherapy decisions",
         "Standard protocols",
         "Insurance requirements"
@@ -832,7 +832,7 @@ export const questions = {
       id: 20175,
       question: "Should patients be encouraged to select a brushing sequence?",
       options: [
-        "No, it doesn't matter",
+        "No, it doesn\'t matter",
         "Yes, select logical sequence and use consistently",
         "Change sequence daily",
         "No sequence needed"
@@ -868,7 +868,7 @@ export const questions = {
         "Front teeth",
         "Molars",
         "Lingual surfaces because of difficulty cleaning these areas",
-        "Doesn't matter"
+        "Doesn\'t matter"
       ],
       correct: "C"
     },
@@ -1193,7 +1193,7 @@ export const questions = {
     },
     {
       id: 20208,
-      question: "What ethical principle requires respecting patient's right to make decisions?",
+      question: "What ethical principle requires respecting patient\'s right to make decisions?",
       options: [
         "Justice",
         "Autonomy",
@@ -1251,7 +1251,7 @@ export const questions = {
       question: "What must dental hygienists be aware of regarding patient education?",
       options: [
         "Time constraints only",
-        "Personal biases and be accepting of all patients' abilities and values",
+        "Personal biases and be accepting of all patients\' abilities and values",
         "Insurance limitations",
         "Office policies only"
       ],
@@ -1347,7 +1347,7 @@ export const questions = {
     },
     {
       id: 20222,
-      question: "May oral biofilm be present because patient couldn't brush for several hours?",
+      question: "May oral biofilm be present because patient couldn\'t brush for several hours?",
       options: [
         "No, never",
         "Yes, biofilm may be present for this reason",
@@ -1604,10 +1604,10 @@ export const questions = {
       id: 20215,
       question: "What clinical condition must be evaluated when selecting interdental aids?",
       options: [
-        "Patient's age only",
+        "Patient\'s age only",
         "Insurance coverage",
         "Contour and consistency of gingival tissues, probing depths, attachment levels",
-        "Patient's occupation"
+        "Patient\'s occupation"
       ],
       correct: "C"
     },
@@ -2993,7 +2993,7 @@ export const questions = {
         "No, always use more devices",
         "Use three devices minimum",
         "Yes, choose one device over two",
-        "It doesn't matter"
+        "It doesn\'t matter"
       ],
       correct: "C"
     },
@@ -3199,7 +3199,7 @@ export const questions = {
       id: 20360,
       question: "Are patients more likely to adhere to recommendations when involved?",
       options: [
-        "No, involvement doesn't matter",
+        "No, involvement doesn\'t matter",
         "Less likely when involved",
         "Yes, more likely when involved as cotherapists",
         "Only for simple recommendations"
@@ -3452,7 +3452,7 @@ export const questions = {
     },
     {
       id: 20320,
-      question: "What is the recommended age for a child's first preventive dental visit?",
+      question: "What is the recommended age for a child\'s first preventive dental visit?",
       options: [
         "6 months",
         "1 year or when first teeth erupt",
@@ -3914,7 +3914,7 @@ export const questions = {
     },
     {
       id: 20362,
-      question: "What is the maximum number of memory edits allowed in Claude's memory system according to the essential practices?",
+      question: "What is the maximum number of memory edits allowed in Claude\'s memory system according to the essential practices?",
       options: [
         "10",
         "20",
@@ -4752,7 +4752,7 @@ export const questions = {
     },
     {
       id: 20448,
-      question: "What term refers to an antimicrobial agent's ability to bind with oral tissues and be released over time?",
+      question: "What term refers to an antimicrobial agent\'s ability to bind with oral tissues and be released over time?",
       options: [
         "Bioavailability",
         "Substantivity",
@@ -4930,10 +4930,10 @@ export const questions = {
       id: 20464,
       question: "Why is professional subgingival irrigation generally reserved for professional use?",
       options: [
-        "It's too expensive for home use",
+        "It\'s too expensive for home use",
         "Cannula tips require high dexterity to avoid injury",
-        "It's ineffective for patients",
-        "Insurance doesn't cover it"
+        "It\'s ineffective for patients",
+        "Insurance doesn\'t cover it"
       ],
       correct: "B"
     },
@@ -5007,10 +5007,10 @@ export const questions = {
       id: 20471,
       question: "What is one disadvantage of systemic antibiotics for periodontal therapy?",
       options: [
-        "They're too effective",
+        "They\'re too effective",
         "They work too quickly",
         "They require ongoing patient adherence",
-        "They're always expensive"
+        "They\'re always expensive"
       ],
       correct: "C"
     },
@@ -5327,7 +5327,7 @@ export const questions = {
       question: "What determines penetration of oral irrigants?",
       options: [
         "Patient age only",
-        "Tip design, pocket depth, and patient's ability to access sites",
+        "Tip design, pocket depth, and patient\'s ability to access sites",
         "Time of day",
         "Brand of irrigator"
       ],
@@ -6221,7 +6221,7 @@ export const questions = {
       options: [
         "With a brush",
         "With cotton pliers",
-        "With a manufacturer's supplied syringe",
+        "With a manufacturer\'s supplied syringe",
         "By pouring from a bottle"
       ],
       correct: "C"
@@ -6374,7 +6374,7 @@ export const questions = {
       question: "What protective feature do light-curing units have?",
       options: [
         "Automatic shut-off",
-        "Special filters that protect the clinician's eyes from potential retinal damage",
+        "Special filters that protect the clinician\'s eyes from potential retinal damage",
         "Heat shields",
         "Sound dampening"
       ],
@@ -6382,7 +6382,7 @@ export const questions = {
     },
     {
       id: 20580,
-      question: "What alternative protection can clinicians use if the LCU doesn't have eye protection filters?",
+      question: "What alternative protection can clinicians use if the LCU doesn\'t have eye protection filters?",
       options: [
         "Sunglasses",
         "Regular prescription glasses",
@@ -6580,11 +6580,11 @@ export const questions = {
     },
     {
       id: 20598,
-      question: "What should be documented in the patient's dental record after sealant placement?",
+      question: "What should be documented in the patient\'s dental record after sealant placement?",
       options: [
         "Only the date",
         "Type of sealant and teeth sealed",
-        "Patient's insurance information",
+        "Patient\'s insurance information",
         "Cost of the procedure"
       ],
       correct: "B"
@@ -6879,7 +6879,7 @@ export const questions = {
     },
     {
       id: 20613,
-      question: "What is the USDA's food guidance system called?",
+      question: "What is the USDA\'s food guidance system called?",
       options: [
         "Food Pyramid",
         "MyPlate",
@@ -7176,7 +7176,7 @@ export const questions = {
     },
     {
       id: 20640,
-      question: "What happens to older adults' energy requirements?",
+      question: "What happens to older adults\' energy requirements?",
       options: [
         "They increase significantly",
         "They remain the same",
@@ -7234,7 +7234,7 @@ export const questions = {
       question: "What type of foods contribute the greatest caries risk?",
       options: [
         "Fresh fruits and vegetables",
-        "Dissolving and solid, sticky foods that don't readily clear from the mouth",
+        "Dissolving and solid, sticky foods that don\'t readily clear from the mouth",
         "Lean proteins",
         "Whole grains"
       ],
@@ -7267,7 +7267,7 @@ export const questions = {
       question: "Why should sweets not be eaten before bedtime?",
       options: [
         "They cause indigestion",
-        "Salivary flow decreases at night and foods aren't cleared readily",
+        "Salivary flow decreases at night and foods aren\'t cleared readily",
         "They interfere with sleep",
         "They increase appetite"
       ],
@@ -7288,7 +7288,7 @@ export const questions = {
       id: 20650,
       question: "Are natural sugars less detrimental to tooth surfaces than refined sugars?",
       options: [
-        "Yes, natural sugars don't cause caries",
+        "Yes, natural sugars don\'t cause caries",
         "Yes, natural sugars are much safer",
         "No, they are as detrimental as refined sugars",
         "Natural sugars only cause cavities in children"
@@ -7440,7 +7440,7 @@ export const questions = {
     },
     {
       id: 20664,
-      question: "Is it within the dental hygienist's scope of practice to create diet plans for weight loss?",
+      question: "Is it within the dental hygienist\'s scope of practice to create diet plans for weight loss?",
       options: [
         "Yes, always",
         "Yes, but only for adults",
@@ -7583,7 +7583,7 @@ export const questions = {
     },
     {
       id: 20677,
-      question: "What should be documented in the patient's record after nutritional counseling?",
+      question: "What should be documented in the patient\'s record after nutritional counseling?",
       options: [
         "Only the date",
         "Only recommendations made",
@@ -7663,7 +7663,7 @@ export const questions = {
       question: "What is the purpose of using motivational interviewing in nutritional counseling?",
       options: [
         "To force patients to change",
-        "To yield successful behavior changes by tailoring to patient's desires and goals",
+        "To yield successful behavior changes by tailoring to patient\'s desires and goals",
         "To lecture patients",
         "To prescribe specific diets"
       ],
@@ -7816,7 +7816,7 @@ export const questions = {
       id: 20698,
       question: "What should the diet accommodate regarding the individual?",
       options: [
-        "Only the clinician's preferences",
+        "Only the clinician\'s preferences",
         "Cultural and religious beliefs, likes and dislikes, food habits",
         "Only cost considerations",
         "Whatever is easiest"
@@ -7836,7 +7836,7 @@ export const questions = {
     },
     {
       id: 20700,
-      question: "What does the patient's personal history reveal?",
+      question: "What does the patient\'s personal history reveal?",
       options: [
         "Only medical conditions",
         "Educational, cultural, financial, and environmental influences on food intake",
@@ -7915,7 +7915,7 @@ export const questions = {
       id: 20707,
       question: "Where can individualized MyPlate plans be determined?",
       options: [
-        "Only at the doctor's office",
+        "Only at the doctor\'s office",
         "Using the MyPlate checklist available online",
         "Only through a dietitian",
         "Not available anywhere"
@@ -8349,7 +8349,7 @@ export const questions = {
         "Learning to smoke properly",
         "Developing new neural pathways unrelated to nicotine",
         "The brain rejecting nicotine",
-        "Brain cells adapting to compensate for nicotine's actions"
+        "Brain cells adapting to compensate for nicotine\'s actions"
       ],
       correct: "D"
     },
@@ -8366,7 +8366,7 @@ export const questions = {
     },
     {
       id: 20732,
-      question: "What is the Five A's approach?",
+      question: "What is the Five A\'s approach?",
       options: [
         "An insurance billing method",
         "An evidence-based strategy for helping clients become tobacco-free",
@@ -8377,7 +8377,7 @@ export const questions = {
     },
     {
       id: 20733,
-      question: "What do the Five A's stand for?",
+      question: "What do the Five A\'s stand for?",
       options: [
         "Analyze, Apply, Activate, Achieve, Approve",
         "Accept, Agree, Act, Adapt, Assess",
@@ -8432,10 +8432,10 @@ export const questions = {
     },
     {
       id: 20738,
-      question: "What is the purpose of the \"Assess\" step in the Five A's?",
+      question: "What is the purpose of the \"Assess\" step in the Five A\'s?",
       options: [
-        "To assess the patient's financial status",
-        "To evaluate the patient's dental health only",
+        "To assess the patient\'s financial status",
+        "To evaluate the patient\'s dental health only",
         "To determine which tobacco users are willing and ready to make a quit attempt",
         "To assess insurance coverage"
       ],
@@ -8456,7 +8456,7 @@ export const questions = {
       id: 20740,
       question: "What is patient-centered communication?",
       options: [
-        "Focusing only on the patient's dental problems",
+        "Focusing only on the patient\'s dental problems",
         "Telling patients exactly what to do",
         "Avoiding discussion of tobacco use",
         "Collaborating not persuading, eliciting not imparting information"
@@ -8501,7 +8501,7 @@ export const questions = {
       question: "What is \"change talk\" in motivational interviewing?",
       options: [
         "Talking about loose change",
-        "The counselor's persuasive speech",
+        "The counselor\'s persuasive speech",
         "Discussing currency exchange",
         "The patient voicing arguments for change"
       ],
@@ -8580,7 +8580,7 @@ export const questions = {
         "For insurance purposes",
         "To show their doctor",
         "Because motivation may wane over time and remembering reasons helps",
-        "It's not necessary to write them down"
+        "It\'s not necessary to write them down"
       ],
       correct: "C"
     },
@@ -8788,7 +8788,7 @@ export const questions = {
       options: [
         "Overthinking the process",
         "Analyzing tobacco companies",
-        "The client's thoughts about quitting that support abstinence",
+        "The client\'s thoughts about quitting that support abstinence",
         "Memorizing statistics"
       ],
       correct: "C"
@@ -8797,10 +8797,10 @@ export const questions = {
       id: 20771,
       question: "What is an example of positive thinking in tobacco cessation?",
       options: [
-        "\"I'll probably fail\"",
+        "\"I\'ll probably fail\"",
         "\"This is impossible\"",
-        "\"I'll quit someday\"",
-        "\"I know it's difficult, but I can do this\""
+        "\"I\'ll quit someday\"",
+        "\"I know it\'s difficult, but I can do this\""
       ],
       correct: "D"
     },
@@ -8811,7 +8811,7 @@ export const questions = {
         "Postponing quitting indefinitely",
         "Delaying medical treatment",
         "Avoiding making a decision",
-        "Telling yourself \"I won't have a cigarette now, I'll decide in an hour\""
+        "Telling yourself \"I won\'t have a cigarette now, I\'ll decide in an hour\""
       ],
       correct: "D"
     },
@@ -8819,7 +8819,7 @@ export const questions = {
       id: 20773,
       question: "Why should clients reward themselves during quitting?",
       options: [
-        "It's not necessary",
+        "It\'s not necessary",
         "To spend money saved from tobacco",
         "To avoid feeling deprived and maintain motivation",
         "Because the dentist requires it"
@@ -8865,8 +8865,8 @@ export const questions = {
       options: [
         "All tobacco stores in their area",
         "All people who smoke",
-        "Exactly when they'll have cravings",
-        "At least three tough situations where they'll be tempted most"
+        "Exactly when they\'ll have cravings",
+        "At least three tough situations where they\'ll be tempted most"
       ],
       correct: "D"
     },
@@ -9004,7 +9004,7 @@ export const questions = {
     },
     {
       id: 20790,
-      question: "What indicates it's time to stop chewing nicotine gum?",
+      question: "What indicates it\'s time to stop chewing nicotine gum?",
       options: [
         "After exactly 5 minutes",
         "When gum loses flavor",
@@ -9085,7 +9085,7 @@ export const questions = {
       options: [
         "To increase costs",
         "To confuse the system",
-        "It's not recommended",
+        "It\'s not recommended",
         "To control breakthrough cravings for severely dependent users"
       ],
       correct: "D"
@@ -9147,7 +9147,7 @@ export const questions = {
     },
     {
       id: 20803,
-      question: "Beyond clinical care, what is the dental hygienist's role related to tobacco?",
+      question: "Beyond clinical care, what is the dental hygienist\'s role related to tobacco?",
       options: [
         "Limited to chairside counseling only",
         "Advocacy at professional and societal levels",
@@ -9169,7 +9169,7 @@ export const questions = {
     },
     {
       id: 20805,
-      question: "What is tobacco's relationship to oral cancer?",
+      question: "What is tobacco\'s relationship to oral cancer?",
       options: [
         "No relationship",
         "Only cigarettes cause oral cancer",
@@ -9191,10 +9191,10 @@ export const questions = {
     },
     {
       id: 20807,
-      question: "What could happen if providers don't inform patients about tobacco-periodontal disease links?",
+      question: "What could happen if providers don\'t inform patients about tobacco-periodontal disease links?",
       options: [
         "Nothing",
-        "Insurance won't pay",
+        "Insurance won\'t pay",
         "The practice will lose its license",
         "Patients could potentially sue"
       ],

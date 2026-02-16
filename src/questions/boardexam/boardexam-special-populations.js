@@ -733,8 +733,8 @@ export const questions = {
       id: 25166,
       question: "What must be considered before prescribing fluoride supplements to children?",
       options: [
-        "Only the child's age",
-        "Caries risk assessment, fluoride concentration in water, dietary sources, and child's age",
+        "Only the child\'s age",
+        "Caries risk assessment, fluoride concentration in water, dietary sources, and child\'s age",
         "Insurance coverage exclusively",
         "Parent preference only"
       ],
@@ -801,7 +801,7 @@ export const questions = {
       options: [
         "Only the date of service",
         "Amount applied, brand name, patient consent, complications, and post-treatment instructions",
-        "Patient's age exclusively",
+        "Patient\'s age exclusively",
         "Insurance billing codes only"
       ],
       correct: "B"
@@ -821,7 +821,7 @@ export const questions = {
     },
     {
       id: 25201,
-      question: "How is a woman's estimated due date calculated?",
+      question: "How is a woman\'s estimated due date calculated?",
       options: [
         "By counting 40 weeks from the first day of her last menstrual period",
         "By counting 36 weeks from conception",
@@ -967,7 +967,7 @@ export const questions = {
       question: "What is the recommended frequency for caregivers to \"lift the lip\" to check for white spot lesions?",
       options: [
         "Once a week to monitor closely",
-        "Once a month, suggested on the infant's birth date",
+        "Once a month, suggested on the infant\'s birth date",
         "Daily during tooth brushing",
         "Only when the child complains of pain"
       ],
@@ -1052,7 +1052,7 @@ export const questions = {
     },
     {
       id: 25222,
-      question: "Why should a small pillow be placed under the pregnant woman's right hip?",
+      question: "Why should a small pillow be placed under the pregnant woman\'s right hip?",
       options: [
         "To improve comfort during long appointments only",
         "To avoid dizziness or nausea from hypotension",
@@ -1096,7 +1096,7 @@ export const questions = {
     },
     {
       id: 25226,
-      question: "What did the FDA's Pregnancy and Lactation Labeling Rule (PLLR) in 2015 change?",
+      question: "What did the FDA\'s Pregnancy and Lactation Labeling Rule (PLLR) in 2015 change?",
       options: [
         "It added more detailed pregnancy letter categories",
         "It removed pregnancy letter categories (A, B, C, D, X) and requires updated labels",
@@ -1250,7 +1250,7 @@ export const questions = {
     },
     {
       id: 25240,
-      question: "What is the WIC program's income eligibility requirement?",
+      question: "What is the WIC program\'s income eligibility requirement?",
       options: [
         "Family income at or below 100% of US poverty level",
         "Family income at or below 250% of US poverty level",
@@ -1327,7 +1327,7 @@ export const questions = {
     },
     {
       id: 25247,
-      question: "What was Finland's reason for providing baby boxes for 75 years?",
+      question: "What was Finland\'s reason for providing baby boxes for 75 years?",
       options: [
         "To promote their baby product industry internationally",
         "To provide a safe sleep space and products, contributing to one of the lowest infant mortality rates globally",
@@ -1481,7 +1481,7 @@ export const questions = {
     },
     {
       id: 25261,
-      question: "What is one component of the \"Pregnancy\" section in the FDA's PLLR?",
+      question: "What is one component of the \"Pregnancy\" section in the FDA\'s PLLR?",
       options: [
         "Outdated pregnancy letter categories for quick reference",
         "Generic warnings without specific risk information",
@@ -1518,7 +1518,7 @@ export const questions = {
       options: [
         "Avoiding all fluoride until age 2 years",
         "Putting infants to bed with bottles for comfort",
-        "Avoiding bedtime bottle feeding and cleaning infant's mouth daily",
+        "Avoiding bedtime bottle feeding and cleaning infant\'s mouth daily",
         "Waiting until age 3 for first dental visit"
       ],
       correct: "C"
@@ -1572,7 +1572,7 @@ export const questions = {
       question: "What advice is given to pregnant women regarding exercise?",
       options: [
         "Avoid all exercise to prevent complications",
-        "Exercise regularly with physician's approval",
+        "Exercise regularly with physician\'s approval",
         "Only light stretching is permitted during pregnancy",
         "High-intensity exercise only during the second trimester"
       ],
@@ -1637,7 +1637,7 @@ export const questions = {
       id: 25275,
       question: "What should dental hygienists do regarding comorbid conditions in pregnant patients?",
       options: [
-        "Ignore all medical conditions as they don't affect oral health",
+        "Ignore all medical conditions as they don\'t affect oral health",
         "Consult with prenatal healthcare providers about conditions like diabetes, hypertension, and cardiac disease",
         "Refuse to treat patients with any medical conditions",
         "Only provide education without any clinical treatment"
@@ -1649,20 +1649,20 @@ export const questions = {
       question: "What can happen if diabetes is poorly controlled during the first trimester?",
       options: [
         "It has no effect on the developing baby",
-        "The baby's organs forming in the first 8 weeks may be affected, increasing risk of birth defects",
-        "Only the mother's health is compromised, not the baby's",
-        "It only affects the baby's weight at birth"
+        "The baby\'s organs forming in the first 8 weeks may be affected, increasing risk of birth defects",
+        "Only the mother\'s health is compromised, not the baby\'s",
+        "It only affects the baby\'s weight at birth"
       ],
       correct: "B"
     },
     {
       id: 25277,
-      question: "What causes the baby's pancreas to make extra insulin in gestational diabetes?",
+      question: "What causes the baby\'s pancreas to make extra insulin in gestational diabetes?",
       options: [
         "Medications the mother takes during pregnancy",
-        "Glucose crossing the placenta and increasing baby's glucose levels",
-        "Genetic mutations in the baby's pancreas",
-        "Lack of nutrition from the mother's diet"
+        "Glucose crossing the placenta and increasing baby\'s glucose levels",
+        "Genetic mutations in the baby\'s pancreas",
+        "Lack of nutrition from the mother\'s diet"
       ],
       correct: "B"
     },
@@ -1681,7 +1681,7 @@ export const questions = {
       id: 25279,
       question: "What is the bidirectional relationship between oral health and diabetes?",
       options: [
-        "Diabetes affects oral health but oral health doesn't affect diabetes",
+        "Diabetes affects oral health but oral health doesn\'t affect diabetes",
         "Each condition can negatively impact the other",
         "They are completely independent with no interaction",
         "Only medications for diabetes affect oral health"
@@ -1748,7 +1748,7 @@ export const questions = {
       question: "What makes pregnancy an ideal time for interprofessional collaboration?",
       options: [
         "Increased insurance coverage during this period only",
-        "The impact of pregnancy on the woman's oral health and the opportunity to prevent infant caries",
+        "The impact of pregnancy on the woman\'s oral health and the opportunity to prevent infant caries",
         "More free time for healthcare appointments regularly",
         "Reduced need for medical care during pregnancy"
       ],
@@ -1822,7 +1822,7 @@ export const questions = {
     },
     {
       id: 25292,
-      question: "What CAN'T WIC participants purchase despite oral health needs?",
+      question: "What CAN\'T WIC participants purchase despite oral health needs?",
       options: [
         "Fresh fruits and vegetables for nutrition",
         "Milk and dairy products for calcium",
@@ -1959,7 +1959,7 @@ export const questions = {
         "That she should stop all oral hygiene during pregnancy",
         "Education on improving her plaque control, treating active caries, and managing gingivitis",
         "That dental care should be postponed until after delivery",
-        "That her oral health doesn't affect her children"
+        "That her oral health doesn\'t affect her children"
       ],
       correct: "B"
     },
@@ -1987,7 +1987,7 @@ export const questions = {
     },
     {
       id: 25307,
-      question: "In Scenario B, what is Ms. G's chief complaint?",
+      question: "In Scenario B, what is Ms. G\'s chief complaint?",
       options: [
         "Generalized tooth pain throughout her entire mouth",
         "Localized pain from a large pyogenic granuloma above teeth Nos. 11 and 12",
@@ -2020,23 +2020,23 @@ export const questions = {
     },
     {
       id: 25310,
-      question: "What should be communicated to Ms. G's prenatal care provider in Scenario B?",
+      question: "What should be communicated to Ms. G\'s prenatal care provider in Scenario B?",
       options: [
         "Nothing, as dental and medical care are completely separate",
         "The treatment plan, pyogenic granuloma, periodontal status, and coordination of care",
-        "Only the patient's insurance information and contact details",
+        "Only the patient\'s insurance information and contact details",
         "A request to postpone all care until after delivery"
       ],
       correct: "B"
     },
     {
       id: 25311,
-      question: "In Scenario C (Box 46.12), what is the CEO's concern?",
+      question: "In Scenario C (Box 46.12), what is the CEO\'s concern?",
       options: [
         "The cost of providing oral health education programs",
         "An obstetrician has voiced concerns about safety of dental treatment during pregnancy",
         "Too many pregnant women are seeking dental care",
-        "The hospital doesn't have adequate dental facilities"
+        "The hospital doesn\'t have adequate dental facilities"
       ],
       correct: "B"
     },
@@ -2389,8 +2389,8 @@ export const questions = {
       options: [
         "Osteoporosis, dementia, kidney disease, liver disease, asthma",
         "Hypertension, arthritis, heart diseases, cancer, diabetes",
-        "Depression, anxiety, COPD, stroke, Parkinson's disease",
-        "Alzheimer's, cataracts, hearing loss, osteoarthritis, macular degeneration"
+        "Depression, anxiety, COPD, stroke, Parkinson\'s disease",
+        "Alzheimer\'s, cataracts, hearing loss, osteoarthritis, macular degeneration"
       ],
       correct: "B"
     },
@@ -2517,7 +2517,7 @@ export const questions = {
     },
     {
       id: 25336,
-      question: "Why is cervical and root surface abrasion common in today's older adults?",
+      question: "Why is cervical and root surface abrasion common in today\'s older adults?",
       options: [
         "Modern soft-bristle toothbrushes causing increased wear patterns",
         "Past use of stiff toothbrushes and abrasive toothpaste",
@@ -3258,7 +3258,7 @@ export const questions = {
       options: [
         "Bright fluorescent lighting throughout",
         "Loud background music playing",
-        "Sufficient space for wheelchair access and room for patient's wheelchair",
+        "Sufficient space for wheelchair access and room for patient\'s wheelchair",
         "Multiple treatment chairs simultaneously"
       ],
       correct: "C"
@@ -3412,7 +3412,7 @@ export const questions = {
       options: [
         "Professional cleaning at dental office",
         "Measurement of all pocket depths",
-        "Look for lesions that are painless and don't heal within 2 weeks",
+        "Look for lesions that are painless and don\'t heal within 2 weeks",
         "Complete dietary analysis documentation"
       ],
       correct: "C"
@@ -3509,7 +3509,7 @@ export const questions = {
       id: 25426,
       question: "What should be forwarded to long-term care facilities after appointments?",
       options: [
-        "Nothing; facilities don't need information",
+        "Nothing; facilities don\'t need information",
         "Bill for services only",
         "Documentation of care provided and follow-up instructions",
         "Appointment schedule for next year"
@@ -3861,7 +3861,7 @@ export const questions = {
     },
     {
       id: 25408,
-      question: "What frailties can impact a person's oral hygiene?",
+      question: "What frailties can impact a person\'s oral hygiene?",
       options: [
         "Only physical disabilities like paralysis",
         "Arthritis, cognitive and physical deficits, diminished sight and hearing",
@@ -4690,7 +4690,7 @@ export const questions = {
       options: [
         "Excellent oral care standards everywhere",
         "Adequate dental hygienist staffing",
-        "Oral care's low priority; lack of care caused infection and tooth loss",
+        "Oral care\'s low priority; lack of care caused infection and tooth loss",
         "Perfect infection control protocols"
       ],
       correct: "C"
@@ -4765,10 +4765,10 @@ export const questions = {
       id: 25490,
       question: "What is critical to determine when obtaining consent?",
       options: [
-        "The patient's insurance coverage",
-        "The facility's visiting hours",
-        "Who is the person's power of attorney",
-        "The patient's favorite food"
+        "The patient\'s insurance coverage",
+        "The facility\'s visiting hours",
+        "Who is the person\'s power of attorney",
+        "The patient\'s favorite food"
       ],
       correct: "C"
     },
@@ -4798,7 +4798,7 @@ export const questions = {
       id: 25493,
       question: "What must be reviewed in institutional settings before assessment?",
       options: [
-        "Only the current day's schedule",
+        "Only the current day\'s schedule",
         "Facility policies exclusively",
         "Previous documentation related to oral health",
         "Insurance authorization forms only"
@@ -4844,7 +4844,7 @@ export const questions = {
       options: [
         "Only current medications list",
         "Insurance authorization",
-        "Person's clinical records pertaining to oral health",
+        "Person\'s clinical records pertaining to oral health",
         "Facility admission paperwork"
       ],
       correct: "C"
@@ -5020,7 +5020,7 @@ export const questions = {
       options: [
         "Mirrors are too small",
         "Lighting is inadequate",
-        "They often don't recognize themselves and become disturbed",
+        "They often don\'t recognize themselves and become disturbed",
         "Mirrors are too high"
       ],
       correct: "C"
@@ -5115,7 +5115,7 @@ export const questions = {
     },
     {
       id: 25522,
-      question: "What is the 'dip and brush' technique?",
+      question: "What is the \'dip and brush\' technique?",
       options: [
         "Soaking dentures overnight",
         "Using dry brushing only",
@@ -5260,7 +5260,7 @@ export const questions = {
       id: 25535,
       question: "Where should a copy of assessment and recommendations be left?",
       options: [
-        "Only in dental hygienist's records",
+        "Only in dental hygienist\'s records",
         "With the patient exclusively",
         "With the facility",
         "No copies are needed"
@@ -5295,7 +5295,7 @@ export const questions = {
       options: [
         "Only physical appearance",
         "Financial status exclusively",
-        "Person's health and wellbeing to end of life",
+        "Person\'s health and wellbeing to end of life",
         "Dental insurance benefits"
       ],
       correct: "C"
@@ -5473,7 +5473,7 @@ export const questions = {
       options: [
         "\"Babies who cry have something to say\"",
         "\"Small children have fragile bones\"",
-        "\"Those who don't cruise rarely bruise\"",
+        "\"Those who don\'t cruise rarely bruise\"",
         "\"Infants heal faster than adults\""
       ],
       correct: "C"
@@ -5648,7 +5648,7 @@ export const questions = {
       question: "What should be documented if child maltreatment is suspected?",
       options: [
         "Only physical findings without conversations",
-        "Assumptions about the perpetrator's identity",
+        "Assumptions about the perpetrator\'s identity",
         "All clinical/behavioral findings and conversations with full names and quotes",
         "General impressions without specific details"
       ],
@@ -5746,7 +5746,7 @@ export const questions = {
       id: 25539,
       question: "Where does institutional elder abuse occur?",
       options: [
-        "In the elder's private home",
+        "In the elder\'s private home",
         "At adult day care centers only",
         "In residential facilities like nursing homes and group homes",
         "At senior community centers"
@@ -5759,7 +5759,7 @@ export const questions = {
       options: [
         "Abuse perpetrated by family members",
         "Failure of caregivers to provide care",
-        "Harm from person's own behaviors rather than others' actions",
+        "Harm from person\'s own behaviors rather than others\' actions",
         "Financial exploitation by strangers"
       ],
       correct: "C"
@@ -5980,7 +5980,7 @@ export const questions = {
         "Dental offices are closer than medical offices",
         "Dental care is less expensive",
         "Abusers may avoid same physician but return to same dentist",
-        "Dental offices don't report abuse"
+        "Dental offices don\'t report abuse"
       ],
       correct: "C"
     },
@@ -6041,7 +6041,7 @@ export const questions = {
     },
     {
       id: 25566,
-      question: "What do pattern bruises on victims' skin indicate?",
+      question: "What do pattern bruises on victims\' skin indicate?",
       options: [
         "Genetic bleeding disorders",
         "Normal childhood injuries",
@@ -6307,7 +6307,7 @@ export const questions = {
       id: 25590,
       question: "What should be separated in documentation?",
       options: [
-        "Child's information from parent's information",
+        "Child\'s information from parent\'s information",
         "Medical history from dental history",
         "Facts from opinion",
         "Current findings from past findings"
@@ -6529,7 +6529,7 @@ export const questions = {
       options: [
         "Abuse by family members",
         "Caregiver abandonment",
-        "Older adult's failure to address own self-care needs",
+        "Older adult\'s failure to address own self-care needs",
         "Institutional policies"
       ],
       correct: "C"
@@ -6637,8 +6637,8 @@ export const questions = {
       id: 25620,
       question: "Why are trackers interested in cosmetic dental services?",
       options: [
-        "To improve victim's self-esteem",
-        "For victim's personal health",
+        "To improve victim\'s self-esteem",
+        "For victim\'s personal health",
         "To make victim more attractive to increase sales and profit",
         "To comply with health regulations"
       ],
@@ -6649,7 +6649,7 @@ export const questions = {
       question: "Why do victims rarely self-identify and report victimization?",
       options: [
         "They enjoy the situation",
-        "They don't know it's wrong",
+        "They don\'t know it\'s wrong",
         "Extensive power, control, and psychologic entrapment by traffickers",
         "They have legal immigration status"
       ],
@@ -6668,7 +6668,7 @@ export const questions = {
     },
     {
       id: 25623,
-      question: "What is another sign tracker is not concerned with victim's health?",
+      question: "What is another sign tracker is not concerned with victim\'s health?",
       options: [
         "Arriving late to appointments",
         "Asking many questions",
@@ -7011,12 +7011,12 @@ export const questions = {
     },
     {
       id: 25618,
-      question: "When assessing a patient's ability to use oral self-care devices, what does \"range of motion\" evaluation determine?",
+      question: "When assessing a patient\'s ability to use oral self-care devices, what does \"range of motion\" evaluation determine?",
       options: [
         "How quickly the patient can move their hands",
-        "The patient's ability to reach the oral cavity with arms and hands",
-        "The strength of the patient's jaw muscles",
-        "The patient's cognitive understanding of brushing techniques"
+        "The patient\'s ability to reach the oral cavity with arms and hands",
+        "The strength of the patient\'s jaw muscles",
+        "The patient\'s cognitive understanding of brushing techniques"
       ],
       correct: "B"
     },
@@ -7047,7 +7047,7 @@ export const questions = {
       question: "What does \"protective stabilization\" refer to in healthcare delivery?",
       options: [
         "Physical therapy exercises to improve patient balance",
-        "Methods, devices, or equipment that immobilize or reduce a patient's ability to move freely",
+        "Methods, devices, or equipment that immobilize or reduce a patient\'s ability to move freely",
         "Psychological counseling for anxious patients",
         "Medication used to calm patients before procedures"
       ],
@@ -7093,13 +7093,13 @@ export const questions = {
         "Written permission from the facility administrator only",
         "Verbal agreement from any family member",
         "Informed consent with explanation of indications, benefits, risks, and alternatives",
-        "Approval from the patient's insurance company"
+        "Approval from the patient\'s insurance company"
       ],
       correct: "C"
     },
     {
       id: 25626,
-      question: "What should be documented in the patient's record regarding protective stabilization?",
+      question: "What should be documented in the patient\'s record regarding protective stabilization?",
       options: [
         "Only the duration of application",
         "Indication, type used, informed consent, duration, behavior evaluation, outcomes, and future management implications",
@@ -7148,7 +7148,7 @@ export const questions = {
         "Showing a video without explanation, then performing the procedure",
         "Verbally explaining procedures, demonstrating aspects, then completing the procedure without deviation",
         "Telling the patient to cooperate, showing consequences, then doing the treatment",
-        "Asking the patient to tell you what they know, showing them they're wrong, then doing it correctly"
+        "Asking the patient to tell you what they know, showing them they\'re wrong, then doing it correctly"
       ],
       correct: "B"
     },
@@ -7187,10 +7187,10 @@ export const questions = {
     },
     {
       id: 25634,
-      question: "When performing a one-person wheelchair transfer, where should the patient's feet be positioned?",
+      question: "When performing a one-person wheelchair transfer, where should the patient\'s feet be positioned?",
       options: [
         "On the footrests of the wheelchair",
-        "Together and held in place on either side by the operator's feet",
+        "Together and held in place on either side by the operator\'s feet",
         "Dangling freely off the wheelchair",
         "Extended straight out in front"
       ],
@@ -7202,8 +7202,8 @@ export const questions = {
       options: [
         "The patient should count and coordinate",
         "Any random person in the room",
-        "The operator supporting the patient's torso who is lifting the most weight",
-        "The operator holding the patient's legs"
+        "The operator supporting the patient\'s torso who is lifting the most weight",
+        "The operator holding the patient\'s legs"
       ],
       correct: "C"
     },
@@ -7213,7 +7213,7 @@ export const questions = {
       options: [
         "To secure the patient to the wheelchair permanently",
         "To provide a designated location to hold the patient and prevent falls",
-        "To measure the patient's waist size",
+        "To measure the patient\'s waist size",
         "To restrict all patient movement"
       ],
       correct: "B"
@@ -7319,12 +7319,12 @@ export const questions = {
     },
     {
       id: 25646,
-      question: "When assessing a patient's cognitive application for oral self-care, what should dental hygienists evaluate?",
+      question: "When assessing a patient\'s cognitive application for oral self-care, what should dental hygienists evaluate?",
       options: [
-        "The patient's educational background and degrees",
-        "The patient's ability to respond accurately to verbal commands and instructions",
-        "The patient's income level",
-        "The patient's family medical history"
+        "The patient\'s educational background and degrees",
+        "The patient\'s ability to respond accurately to verbal commands and instructions",
+        "The patient\'s income level",
+        "The patient\'s family medical history"
       ],
       correct: "B"
     },
@@ -7356,7 +7356,7 @@ export const questions = {
       options: [
         "Helping patients forget traumatic dental experiences completely",
         "Restructuring negative event memories into positive memories using suggested information after the event",
-        "Testing the patient's ability to remember appointment times",
+        "Testing the patient\'s ability to remember appointment times",
         "Requiring patients to memorize oral hygiene instructions"
       ],
       correct: "B"
@@ -7365,9 +7365,9 @@ export const questions = {
       id: 25650,
       question: "What is the ask-tell-ask behavioral guidance technique?",
       options: [
-        "Asking the patient's age, telling them the procedure, asking for payment",
+        "Asking the patient\'s age, telling them the procedure, asking for payment",
         "Inquiring about the visit, explaining procedures, and inquiring again if the patient understands",
-        "Asking permission, telling the patient to cooperate, asking them to leave if they don't",
+        "Asking permission, telling the patient to cooperate, asking them to leave if they don\'t",
         "Asking about insurance, telling the cost, asking for immediate payment"
       ],
       correct: "B"
@@ -7649,7 +7649,7 @@ export const questions = {
     },
     {
       id: 25676,
-      question: "The ideal position for the operator's hands when holding a mouth prop is:",
+      question: "The ideal position for the operator\'s hands when holding a mouth prop is:",
       options: [
         "With the hand on the same side as treatment",
         "With the hand opposite to the half of the mouth receiving treatment",
@@ -7671,10 +7671,10 @@ export const questions = {
     },
     {
       id: 25678,
-      question: "Where should a mouth prop be positioned in the patient's mouth?",
+      question: "Where should a mouth prop be positioned in the patient\'s mouth?",
       options: [
         "Between the anterior teeth only",
-        "Between the patient's posterior teeth which are built to withstand biting pressure",
+        "Between the patient\'s posterior teeth which are built to withstand biting pressure",
         "On the tongue",
         "Against the soft palate"
       ],
@@ -7684,19 +7684,19 @@ export const questions = {
       id: 25679,
       question: "What establishes the first fulcrum when using a mouth prop with double fulcrum technique?",
       options: [
-        "The pinky finger on the patient's chin",
+        "The pinky finger on the patient\'s chin",
         "The ring finger on the gingiva buccal to the mandibular anterior sextant",
-        "The thumb on the patient's cheek",
-        "The index finger on the patient's forehead"
+        "The thumb on the patient\'s cheek",
+        "The index finger on the patient\'s forehead"
       ],
       correct: "B"
     },
     {
       id: 25680,
-      question: "During a wheelchair transfer, what should the patient's head position be?",
+      question: "During a wheelchair transfer, what should the patient\'s head position be?",
       options: [
         "Looking straight ahead at the dental chair",
-        "Resting over the operator's shoulder looking in the opposite direction of transfer",
+        "Resting over the operator\'s shoulder looking in the opposite direction of transfer",
         "Tilted back as far as possible",
         "Turned to watch the transfer process"
       ],
@@ -7730,7 +7730,7 @@ export const questions = {
       options: [
         "Let go immediately",
         "Hold the designated location on the transfer belt",
-        "Grab the patient's arms",
+        "Grab the patient\'s arms",
         "Step back quickly"
       ],
       correct: "B"
@@ -7784,7 +7784,7 @@ export const questions = {
       question: "What can provide additional head support for a patient remaining in a wheelchair during care?",
       options: [
         "No support is necessary",
-        "A portable headrest or turning the wheelchair so the head leans against the dental chair's headrest",
+        "A portable headrest or turning the wheelchair so the head leans against the dental chair\'s headrest",
         "Having the patient hold their own head",
         "Using only pillows on the lap"
       ],
@@ -7803,10 +7803,10 @@ export const questions = {
     },
     {
       id: 25690,
-      question: "When sitting at the 12 o'clock position, how can the dental hygienist provide head stabilization?",
+      question: "When sitting at the 12 o\'clock position, how can the dental hygienist provide head stabilization?",
       options: [
         "Ask the patient to hold still",
-        "Wrap the nondominant arm around the patient's head firmly under the chin",
+        "Wrap the nondominant arm around the patient\'s head firmly under the chin",
         "Use only verbal commands",
         "No stabilization is possible from this position"
       ],
@@ -7814,7 +7814,7 @@ export const questions = {
     },
     {
       id: 25691,
-      question: "What can be placed on either side of the patient's head for additional support?",
+      question: "What can be placed on either side of the patient\'s head for additional support?",
       options: [
         "Dental instruments",
         "Small pillows, neck rolls, or rolled bath sheets",
@@ -7905,7 +7905,7 @@ export const questions = {
       question: "Parental presence or absence can be used to:",
       options: [
         "Punish uncooperative patients",
-        "Gain cooperation for treatment while considering parents' desires",
+        "Gain cooperation for treatment while considering parents\' desires",
         "Always exclude parents regardless of circumstances",
         "Replace proper behavior guidance techniques"
       ],
@@ -7961,7 +7961,7 @@ export const questions = {
       options: [
         "Any staff member present",
         "Parents, legal guardians, or caregivers",
-        "The dental hygienist's supervisor",
+        "The dental hygienist\'s supervisor",
         "No consent is necessary"
       ],
       correct: "B"
@@ -7993,7 +7993,7 @@ export const questions = {
       question: "Original copies of written correspondence from other healthcare professionals should be:",
       options: [
         "Discarded after reading",
-        "Maintained in the patient's chart",
+        "Maintained in the patient\'s chart",
         "Sent back to the original sender",
         "Kept separate from patient records"
       ],
@@ -8005,7 +8005,7 @@ export const questions = {
       options: [
         "From any family member",
         "Directly from the patient",
-        "From the patient's employer",
+        "From the patient\'s employer",
         "From the healthcare facility administrator"
       ],
       correct: "B"
@@ -8555,10 +8555,10 @@ export const questions = {
       id: 25745,
       question: "When assessing patients with ID, dental hygienists should collect data about:",
       options: [
-        "Only the patient's financial status",
+        "Only the patient\'s financial status",
         "Skills of daily living, self-care potential, and cooperation level",
-        "Only the caregiver's educational background",
-        "The patient's employment history exclusively"
+        "Only the caregiver\'s educational background",
+        "The patient\'s employment history exclusively"
       ],
       correct: "B"
     },
@@ -8795,7 +8795,7 @@ export const questions = {
     },
     {
       id: 25767,
-      question: "The person's head with Down syndrome is usually:",
+      question: "The person\'s head with Down syndrome is usually:",
       options: [
         "Enlarged with increased anterior-posterior diameter",
         "Normal size with typical proportions",
@@ -9279,7 +9279,7 @@ export const questions = {
     },
     {
       id: 25811,
-      question: "The CDC's ADDM Network found that ASD prevalence is:",
+      question: "The CDC\'s ADDM Network found that ASD prevalence is:",
       options: [
         "1 in every 88 eight-year-old children",
         "1 in every 68 eight-year-old children",
@@ -9776,10 +9776,10 @@ export const questions = {
       id: 25856,
       question: "When developing oral self-care behaviors for patients with ID, dental hygienists teach at:",
       options: [
-        "The patient's chronologic age level",
-        "The patient's mental age level",
+        "The patient\'s chronologic age level",
+        "The patient\'s mental age level",
         "An advanced academic level",
-        "The caregiver's educational level"
+        "The caregiver\'s educational level"
       ],
       correct: "B"
     },
@@ -10185,7 +10185,7 @@ export const questions = {
       id: 25820,
       question: "Which of the following maternal factors increases the risk for orofacial clefts?",
       options: [
-        "Bachelor's degree or higher education",
+        "Bachelor\'s degree or higher education",
         "Early prenatal care initiation",
         "Pregestational or gestational diabetes",
         "Adequate nutritional intake"
@@ -10209,7 +10209,7 @@ export const questions = {
       options: [
         "Maternal smoking and alcohol consumption",
         "Use of WIC or being Medicaid recipient",
-        "Maternal education level of bachelor's degree and early prenatal care",
+        "Maternal education level of bachelor\'s degree and early prenatal care",
         "Anticonvulsant medication use and obesity"
       ],
       correct: "C"
@@ -10700,7 +10700,7 @@ export const questions = {
     },
     {
       id: 25867,
-      question: "Dental hygienists' role in interprofessional collaboration includes:",
+      question: "Dental hygienists\' role in interprofessional collaboration includes:",
       options: [
         "Only providing cleanings",
         "Oral screenings, risk assessment, and oral health education",
@@ -11729,7 +11729,7 @@ export const questions = {
       options: [
         "Keep head supported and flexed",
         "Tilt chair back fully",
-        "Turn patient's head to side",
+        "Turn patient\'s head to side",
         "Use bright overhead lights"
       ],
       correct: "A"
@@ -11835,7 +11835,7 @@ export const questions = {
     },
     {
       id: 25949,
-      question: "A 41% increase in the odds of developing MS occurs when a person's BMI moves from:",
+      question: "A 41% increase in the odds of developing MS occurs when a person\'s BMI moves from:",
       options: [
         "Normal to overweight",
         "Overweight to obese",

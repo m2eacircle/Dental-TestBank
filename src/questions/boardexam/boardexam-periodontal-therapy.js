@@ -63,7 +63,7 @@ export const questions = {
       question: "What does host modulation therapy target?",
       options: [
         "Only the bacterial infection directly",
-        "The patient's daily oral hygiene habits only",
+        "The patient\'s daily oral hygiene habits only",
         "Host-bacteria interactions and tissue destruction process",
         "The surgical healing process exclusively only"
       ],
@@ -910,9 +910,9 @@ export const questions = {
       question: "What is the code basis for SRP procedures?",
       options: [
         "Time spent on procedure",
-        "Patient's insurance plan",
+        "Patient\'s insurance plan",
         "Number of teeth and quadrant location",
-        "Clinician's experience level"
+        "Clinician\'s experience level"
       ],
       correct: "C"
     },
@@ -1880,7 +1880,7 @@ export const questions = {
       question: "Why should dental care not be performed with recurrent herpes present?",
       options: [
         "Patient discomfort only",
-        "Insurance won't cover",
+        "Insurance won\'t cover",
         "No equipment available",
         "Risk of inoculation to clinician"
       ],
@@ -2078,7 +2078,7 @@ export const questions = {
       question: "What was the common name for necrotizing disease in World War I?",
       options: [
         "Trench mouth",
-        "Vincent's infection",
+        "Vincent\'s infection",
         "War gingivitis",
         "Military periodontitis"
       ],
@@ -2628,7 +2628,7 @@ export const questions = {
     },
     {
       id: 22325,
-      question: "During NSPT on a patient with moderate periodontitis, you encounter root surface roughness that doesn't change despite appropriate detailed instrumentation. The area was not visible on radiographs.\n\nWhat is the MOST appropriate action?",
+      question: "During NSPT on a patient with moderate periodontitis, you encounter root surface roughness that doesn\'t change despite appropriate detailed instrumentation. The area was not visible on radiographs.\n\nWhat is the MOST appropriate action?",
       options: [
         "Continue aggressive instrumentation until the surface feels completely smooth",
         "Stop instrumentation and reassess at the 4-6 week reevaluation appointment",
@@ -2705,10 +2705,10 @@ export const questions = {
     },
     {
       id: 22332,
-      question: "A patient's dental benefit plan reimburses for periodontal maintenance every 4 months, but clinical assessment indicates 3-month intervals are needed due to Grade B periodontitis.\n\nWhat is the MOST appropriate approach?",
+      question: "A patient\'s dental benefit plan reimburses for periodontal maintenance every 4 months, but clinical assessment indicates 3-month intervals are needed due to Grade B periodontitis.\n\nWhat is the MOST appropriate approach?",
       options: [
         "Schedule maintenance every 4 months to match insurance coverage benefits",
-        "Recommend 3-month intervals and explain patient's financial responsibility for optimal care",
+        "Recommend 3-month intervals and explain patient\'s financial responsibility for optimal care",
         "Alternate between D1110 and D4910 codes to maximize insurance coverage",
         "Provide prophylaxis at 4 months since maintenance is not fully covered"
       ],
@@ -2716,7 +2716,7 @@ export const questions = {
     },
     {
       id: 22333,
-      question: "When performing periodontal debridement, you are determining the clinical endpoint. The surface feels slightly rough but hasn't changed after several instrumentation strokes.\n\nWhich factor should you PRIMARILY consider in decision-making?",
+      question: "When performing periodontal debridement, you are determining the clinical endpoint. The surface feels slightly rough but hasn\'t changed after several instrumentation strokes.\n\nWhich factor should you PRIMARILY consider in decision-making?",
       options: [
         "Continue until all root roughness is eliminated to ensure complete calculus removal",
         "Consider probable root anatomy and patient factors before continuing instrumentation",
@@ -2749,7 +2749,7 @@ export const questions = {
     },
     {
       id: 22336,
-      question: "A patient asks why supragingival biofilm control alone won't resolve their 5-6mm periodontal pockets with Stage II periodontitis.\n\nWhat is the MOST accurate explanation?",
+      question: "A patient asks why supragingival biofilm control alone won\'t resolve their 5-6mm periodontal pockets with Stage II periodontitis.\n\nWhat is the MOST accurate explanation?",
       options: [
         "Supragingival plaque control alone cannot reach microorganisms within periodontal pockets",
         "Professional debridement causes more tissue changes than patient self-care efforts",
@@ -2760,7 +2760,7 @@ export const questions = {
     },
     {
       id: 22337,
-      question: "At a periodontal maintenance visit, a patient with treated Stage III periodontitis shows a new 2mm clinical attachment loss at one site over 6 months, with bleeding on probing.\n\nWhat is the MOST appropriate classification of this patient's status?",
+      question: "At a periodontal maintenance visit, a patient with treated Stage III periodontitis shows a new 2mm clinical attachment loss at one site over 6 months, with bleeding on probing.\n\nWhat is the MOST appropriate classification of this patient\'s status?",
       options: [
         "Periodontal disease stability with optimal control of all factors",
         "Periodontal disease remission with improved but not optimal control",
@@ -2771,7 +2771,7 @@ export const questions = {
     },
     {
       id: 22338,
-      question: "A 48-year-old patient completed NSPT three months ago. Today's maintenance visit shows 3mm probing depths, no bleeding on probing, but moderate supragingival biofilm accumulation.\n\nWhich assessment finding has the STRONGEST correlation with risk for future attachment loss?",
+      question: "A 48-year-old patient completed NSPT three months ago. Today\'s maintenance visit shows 3mm probing depths, no bleeding on probing, but moderate supragingival biofilm accumulation.\n\nWhich assessment finding has the STRONGEST correlation with risk for future attachment loss?",
       options: [
         "The presence of moderate supragingival biofilm on tooth surfaces",
         "Previous history of Stage II periodontitis before treatment",
@@ -2804,7 +2804,7 @@ export const questions = {
     },
     {
       id: 22341,
-      question: "A patient with treated periodontitis returns for 3-month maintenance. Examination reveals 10% bleeding on probing, stable 3-4mm probing depths, and effective biofilm control.\n\nWhat characteristic BEST describes this patient's periodontal status?",
+      question: "A patient with treated periodontitis returns for 3-month maintenance. Examination reveals 10% bleeding on probing, stable 3-4mm probing depths, and effective biofilm control.\n\nWhat characteristic BEST describes this patient\'s periodontal status?",
       options: [
         "Active periodontal disease requiring return to initial therapy phase",
         "Periodontal disease stability with optimal control of contributing factors",
@@ -2872,7 +2872,7 @@ export const questions = {
       id: 22347,
       question: "At reevaluation after NSPT, a patient shows resolution at most sites but two posterior teeth have persistent 6mm pockets with bleeding. Patient self-care is excellent.\n\nWhich factor should be FIRST considered when determining next steps?",
       options: [
-        "Patient's willingness to pay for additional treatment not covered by insurance",
+        "Patient\'s willingness to pay for additional treatment not covered by insurance",
         "Whether systemic modifying factors like diabetes or smoking are present",
         "Access limitations during initial therapy due to pocket depth or anatomy",
         "Current availability of specialist referral appointments in the area"
@@ -2962,7 +2962,7 @@ export const questions = {
       options: [
         "Change to 6-month intervals since stability is demonstrated over 2 years",
         "Maintain 3-month intervals as history of periodontitis indicates continued risk",
-        "Intervals of 3-12 months are acceptable based on patient's risk profile",
+        "Intervals of 3-12 months are acceptable based on patient\'s risk profile",
         "Increase to 4-month intervals as compromise between patient and clinical recommendations"
       ],
       correct: "C"
@@ -2980,9 +2980,9 @@ export const questions = {
     },
     {
       id: 22357,
-      question: "A patient's reevaluation shows persistent 6mm pockets at mandibular molars with Class II furcation involvement and bleeding despite thorough instrumentation.\n\nWhat is the PRIMARY limitation of nonsurgical therapy in this situation?",
+      question: "A patient\'s reevaluation shows persistent 6mm pockets at mandibular molars with Class II furcation involvement and bleeding despite thorough instrumentation.\n\nWhat is the PRIMARY limitation of nonsurgical therapy in this situation?",
       options: [
-        "Patient's inadequate self-care compliance with oral hygiene instructions",
+        "Patient\'s inadequate self-care compliance with oral hygiene instructions",
         "Lack of access due to furcal anatomy and pocket depth",
         "Incomplete removal of endotoxins from root surfaces",
         "Persistence of calculus-embedded cementum on roots"
@@ -3035,7 +3035,7 @@ export const questions = {
     },
     {
       id: 22362,
-      question: "A patient's periodontal maintenance visit takes 90 minutes due to extensive areas requiring instrumentation despite 3-month intervals.\n\nWhat should be PRIMARILY reconsidered?",
+      question: "A patient\'s periodontal maintenance visit takes 90 minutes due to extensive areas requiring instrumentation despite 3-month intervals.\n\nWhat should be PRIMARILY reconsidered?",
       options: [
         "Increasing appointment fees to match time required for treatment",
         "Maintenance interval, patient self-care effectiveness, and instrumentation technique",
@@ -3147,7 +3147,7 @@ export const questions = {
     },
     {
       id: 22372,
-      question: "A 30-year-old patient presents for dental hygiene care after several years without treatment. The patient reports intermittent pain and sensitivity in the lower right quadrant, with a tooth that feels \"high\" when biting. Medical history reveals no systemic illnesses or medications. Intraoral examination shows redness and swelling on the buccal surface of tooth #30 with normal gingival architecture. No sinus tract is visible, but gentle digital pressure elicits purulent exudate from the site.\n\nWhat condition is MOST likely causing this patient's symptoms?",
+      question: "A 30-year-old patient presents for dental hygiene care after several years without treatment. The patient reports intermittent pain and sensitivity in the lower right quadrant, with a tooth that feels \"high\" when biting. Medical history reveals no systemic illnesses or medications. Intraoral examination shows redness and swelling on the buccal surface of tooth #30 with normal gingival architecture. No sinus tract is visible, but gentle digital pressure elicits purulent exudate from the site.\n\nWhat condition is MOST likely causing this patient\'s symptoms?",
       options: [
         "Chronic periodontal abscess with established drainage pathway",
         "Acute periodontal abscess localized to the gingival wall",
@@ -3213,11 +3213,11 @@ export const questions = {
     },
     {
       id: 22378,
-      question: "A 45-year-old patient presents without an appointment complaining of severe pain. Examination reveals a large, pointed fistula on the buccal surface of tooth #3, one-third of the way toward the apex. The patient has a history of periodontal surgery and has a large MOD amalgam restoration on tooth #3. The radiograph shows no obvious apical pathology.\n\nWhich condition is MOST likely causing the patient's symptoms?",
+      question: "A 45-year-old patient presents without an appointment complaining of severe pain. Examination reveals a large, pointed fistula on the buccal surface of tooth #3, one-third of the way toward the apex. The patient has a history of periodontal surgery and has a large MOD amalgam restoration on tooth #3. The radiograph shows no obvious apical pathology.\n\nWhich condition is MOST likely causing the patient\'s symptoms?",
       options: [
         "Acute gingival abscess from foreign body impaction",
         "Chronic periodontal abscess associated with the restoration",
-        "Periapical abscess that hasn't yet shown radiographic changes",
+        "Periapical abscess that hasn\'t yet shown radiographic changes",
         "Primary herpetic gingivostomatitis with vesicular eruptions"
       ],
       correct: "B"
@@ -3303,7 +3303,7 @@ export const questions = {
       id: 22386,
       question: "You are explaining to a patient why dental hygiene care must be postponed when primary herpetic lesions are present, even if the clinician has been previously exposed to the virus.\n\nWhat is the primary reason for postponing care during active PHGS?",
       options: [
-        "The patient's immune system is too compromised for treatment",
+        "The patient\'s immune system is too compromised for treatment",
         "Risk of herpetic whitlow development from instrument puncture with contaminated instruments",
         "Topical anesthetics are contraindicated during viral infections",
         "Professional dental equipment cannot be adequately sterilized"
@@ -3312,7 +3312,7 @@ export const questions = {
     },
     {
       id: 22387,
-      question: "A patient arrives for a continued-care appointment with a 6mm round, crusted lesion on the lower lip with vesicles on the edge. The patient reports it was painful a few days ago but feels fine now. This is the patient's first such lesion.\n\nWhat is the MOST appropriate dental hygiene protocol?",
+      question: "A patient arrives for a continued-care appointment with a 6mm round, crusted lesion on the lower lip with vesicles on the edge. The patient reports it was painful a few days ago but feels fine now. This is the patient\'s first such lesion.\n\nWhat is the MOST appropriate dental hygiene protocol?",
       options: [
         "Cover the lesion with petroleum jelly and proceed with treatment",
         "Postpone elective care and reschedule after lesion heals completely",
@@ -3446,7 +3446,7 @@ export const questions = {
       id: 22399,
       question: "You are reviewing the historical names for necrotizing periodontal diseases to understand how the terminology has evolved.\n\nWhat was the common historical name for this condition during World War I?",
       options: [
-        "Vincent's infection",
+        "Vincent\'s infection",
         "Trench mouth",
         "Acute gingivitis",
         "Periodontal fever"
@@ -3743,7 +3743,7 @@ export const questions = {
       id: 22426,
       question: "You are explaining to a patient about factors that influence the frequency of recurrent herpes episodes.\n\nWhich factor does NOT influence recurrence frequency of HSV?",
       options: [
-        "Individual's genetic susceptibility and immune status",
+        "Individual\'s genetic susceptibility and immune status",
         "Anatomic site of the original infection",
         "Blood type of the infected individual",
         "Age and initial viral inoculum dose"
@@ -3807,7 +3807,7 @@ export const questions = {
     },
     {
       id: 22432,
-      question: "A patient presents with acute gingival inflammation. You need to differentiate between several conditions that could cause similar symptoms. The patient is 6 years old with fever, multiple oral ulcers with red halos, and this is the first occurrence.\n\nWhich condition can be definitively ruled out based on the patient's age?",
+      question: "A patient presents with acute gingival inflammation. You need to differentiate between several conditions that could cause similar symptoms. The patient is 6 years old with fever, multiple oral ulcers with red halos, and this is the first occurrence.\n\nWhich condition can be definitively ruled out based on the patient\'s age?",
       options: [
         "Primary herpetic gingivostomatitis",
         "Necrotizing ulcerative periodontitis",
@@ -3961,10 +3961,10 @@ export const questions = {
     },
     {
       id: 22446,
-      question: "A patient with suspected necrotizing periodontitis has head and neck pain and inflammation. You are considering the patient's ability to participate in treatment planning.\n\nHow can symptoms affect the patient's treatment participation?",
+      question: "A patient with suspected necrotizing periodontitis has head and neck pain and inflammation. You are considering the patient\'s ability to participate in treatment planning.\n\nHow can symptoms affect the patient\'s treatment participation?",
       options: [
         "Pain and inflammation can affect conceptualization and problem solving",
-        "Symptoms enhance the patient's ability to problem-solve",
+        "Symptoms enhance the patient\'s ability to problem-solve",
         "Symptoms have no impact on cognitive function",
         "Pain increases patient motivation for immediate full-mouth treatment"
       ],
@@ -4082,7 +4082,7 @@ export const questions = {
     },
     {
       id: 22457,
-      question: "You are explaining the radiographic appearance of early periapical abscesses to a patient who doesn't understand why the radiograph looks normal.\n\nWhat is true about radiographic changes in early periapical abscess formation?",
+      question: "You are explaining the radiographic appearance of early periapical abscesses to a patient who doesn\'t understand why the radiograph looks normal.\n\nWhat is true about radiographic changes in early periapical abscess formation?",
       options: [
         "Changes are often not easily detectable early on",
         "Changes are always immediately visible and obvious",
@@ -4104,7 +4104,7 @@ export const questions = {
     },
     {
       id: 22459,
-      question: "Parents of a 4-month-old infant ask why their baby hasn't developed primary herpetic infection despite exposure to a family member with active lesions.\n\nWhat protects infants during the first 6 months of life from HSV infection?",
+      question: "Parents of a 4-month-old infant ask why their baby hasn\'t developed primary herpetic infection despite exposure to a family member with active lesions.\n\nWhat protects infants during the first 6 months of life from HSV infection?",
       options: [
         "Their own innate immunity is superior to adults",
         "Infants cannot contract HSV until teeth erupt",
@@ -4203,7 +4203,7 @@ export const questions = {
     },
     {
       id: 22468,
-      question: "A patient who experienced necrotizing periodontitis during a stressful period asks about the immune system's role.\n\nWhat is the postulated mechanism linking stress to necrotizing disease?",
+      question: "A patient who experienced necrotizing periodontitis during a stressful period asks about the immune system\'s role.\n\nWhat is the postulated mechanism linking stress to necrotizing disease?",
       options: [
         "Stress causes direct bacterial overgrowth in pockets",
         "Stress has no connection to immune function",

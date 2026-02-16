@@ -181,7 +181,7 @@ export const questions = {
     },
     {
       id: 16116,
-      question: "What type of water do dental units use according to manufacturers' instructions?",
+      question: "What type of water do dental units use according to manufacturers\' instructions?",
       options: [
         "Tap water",
         "Distilled water",
@@ -786,7 +786,7 @@ export const questions = {
     },
     {
       id: 16171,
-      question: "What position should the operator's feet be in when using the stool?",
+      question: "What position should the operator\'s feet be in when using the stool?",
       options: [
         "Crossed",
         "Flat on the floor",
@@ -854,9 +854,9 @@ export const questions = {
       id: 16177,
       question: "Why is the upright chair position excellent for instruction?",
       options: [
-        "It's more comfortable",
+        "It\'s more comfortable",
         "It keeps hygienist and patient at same eye level",
-        "It's faster",
+        "It\'s faster",
         "It uses less space"
       ],
       correct: "B"
@@ -921,7 +921,7 @@ export const questions = {
       question: "Where can equipment be mounted on the delivery system?",
       options: [
         "At the base only",
-        "Either at 9 o'clock position or 12 o'clock position behind patient's head",
+        "Either at 9 o\'clock position or 12 o\'clock position behind patient\'s head",
         "On the floor",
         "On the ceiling only"
       ],
@@ -1151,7 +1151,7 @@ export const questions = {
     },
     {
       id: 16207,
-      question: "What should the clinician's chair have?",
+      question: "What should the clinician\'s chair have?",
       options: [
         "A narrow, light base",
         "Fixed height",
@@ -1173,7 +1173,7 @@ export const questions = {
     },
     {
       id: 16209,
-      question: "What happens if the clinician's chair is too high?",
+      question: "What happens if the clinician\'s chair is too high?",
       options: [
         "The patient is uncomfortable",
         "The spine, back, and shoulders support the body weight",
@@ -1184,7 +1184,7 @@ export const questions = {
     },
     {
       id: 16210,
-      question: "What happens if the clinician's chair is too low?",
+      question: "What happens if the clinician\'s chair is too low?",
       options: [
         "The clinician has better posture",
         "The clinician can see better",
@@ -1206,7 +1206,7 @@ export const questions = {
     },
     {
       id: 16212,
-      question: "What do tight gloves do to the clinician's hands?",
+      question: "What do tight gloves do to the clinician\'s hands?",
       options: [
         "Improve circulation",
         "Compromise proper circulation and place pressure on the carpal tunnel",
@@ -1254,7 +1254,7 @@ export const questions = {
       options: [
         "Small diameter and heavy weight",
         "Large in diameter and light in weight",
-        "Any size as long as they're metal",
+        "Any size as long as they\'re metal",
         "Short and thick"
       ],
       correct: "B"
@@ -1382,12 +1382,12 @@ export const questions = {
     },
     {
       id: 16228,
-      question: "In the supine position, where should the patient's mouth be?",
+      question: "In the supine position, where should the patient\'s mouth be?",
       options: [
-        "Above the clinician's head",
-        "At the height of the seated clinician's elbow",
-        "Below the clinician's waist",
-        "At the clinician's shoulder level"
+        "Above the clinician\'s head",
+        "At the height of the seated clinician\'s elbow",
+        "Below the clinician\'s waist",
+        "At the clinician\'s shoulder level"
       ],
       correct: "B"
     },
@@ -1419,8 +1419,8 @@ export const questions = {
       options: [
         "The dental chair",
         "The dental light",
-        "The patient's head",
-        "The clinician's position"
+        "The patient\'s head",
+        "The clinician\'s position"
       ],
       correct: "C"
     },
@@ -1428,10 +1428,10 @@ export const questions = {
       id: 16232,
       question: "What range do right-handed clinicians use on the clock positioning?",
       options: [
-        "12 to 6 o'clock",
-        "9 o'clock to 2 o'clock",
-        "3 to 9 o'clock",
-        "6 to 12 o'clock"
+        "12 to 6 o\'clock",
+        "9 o\'clock to 2 o\'clock",
+        "3 to 9 o\'clock",
+        "6 to 12 o\'clock"
       ],
       correct: "B"
     },
@@ -1439,10 +1439,10 @@ export const questions = {
       id: 16233,
       question: "What range do left-handed clinicians predominantly work in?",
       options: [
-        "9 to 3 o'clock",
-        "12 to 6 o'clock",
-        "10 o'clock to 3 o'clock",
-        "6 to 12 o'clock"
+        "9 to 3 o\'clock",
+        "12 to 6 o\'clock",
+        "10 o\'clock to 3 o\'clock",
+        "6 to 12 o\'clock"
       ],
       correct: "C"
     },
@@ -1450,10 +1450,10 @@ export const questions = {
       id: 16234,
       question: "What position is NOT recommended for working?",
       options: [
-        "12 o'clock",
-        "8 o'clock (4 o'clock for left-handed)",
-        "10 o'clock",
-        "2 o'clock"
+        "12 o\'clock",
+        "8 o\'clock (4 o\'clock for left-handed)",
+        "10 o\'clock",
+        "2 o\'clock"
       ],
       correct: "B"
     },
@@ -1540,7 +1540,7 @@ export const questions = {
       options: [
         "Patient comfort only",
         "Better lighting",
-        "The dental hygienist's back and spine straight",
+        "The dental hygienist\'s back and spine straight",
         "Instrument sharpness"
       ],
       correct: "C"
@@ -1682,9 +1682,9 @@ export const questions = {
       question: "Where is the intraoral fulcrum established?",
       options: [
         "On the dental chair",
-        "On the clinician's leg",
+        "On the clinician\'s leg",
         "By resting the pad of the fulcrum finger inside mouth against a tooth",
-        "On the patient's chin"
+        "On the patient\'s chin"
       ],
       correct: "C"
     },
@@ -1725,9 +1725,9 @@ export const questions = {
       id: 16259,
       question: "What is the extraoral fulcrum accomplished by?",
       options: [
-        "Placing finger in patient's mouth",
+        "Placing finger in patient\'s mouth",
         "Using the dental chair",
-        "Placing palm or back of hand against outside structure of patient's face",
+        "Placing palm or back of hand against outside structure of patient\'s face",
         "Using instrument tray"
       ],
       correct: "C"
@@ -1998,12 +1998,12 @@ export const questions = {
     },
     {
       id: 16284,
-      question: "To prevent CTS, what position should the patient's mouth be at?",
+      question: "To prevent CTS, what position should the patient\'s mouth be at?",
       options: [
-        "Above the clinician's head",
-        "Even with the clinician's elbow",
-        "At the clinician's waist",
-        "Below the clinician's knees"
+        "Above the clinician\'s head",
+        "Even with the clinician\'s elbow",
+        "At the clinician\'s waist",
+        "Below the clinician\'s knees"
       ],
       correct: "B"
     },
@@ -2232,7 +2232,7 @@ export const questions = {
       question: "What is the risk factor for TNS?",
       options: [
         "Proper head position",
-        "Improper positioning of clinician's head and neck",
+        "Improper positioning of clinician\'s head and neck",
         "Good lighting",
         "Sharp instruments"
       ],

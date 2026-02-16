@@ -195,7 +195,7 @@ export const questions = {
       id: 21117,
       question: "Which explorer design has an elongated diameter for increased tactile sensitivity?",
       options: [
-        "No. 23 Shepherd's hook",
+        "No. 23 Shepherd\'s hook",
         "No. 3",
         "EXD 11/12",
         "No. 17"
@@ -438,7 +438,7 @@ export const questions = {
       question: "What is the primary reason to avoid sharpening implant instruments?",
       options: [
         "They are disposable",
-        "Made of materials that don't require sharpening",
+        "Made of materials that don\'t require sharpening",
         "Too expensive to sharpen",
         "Sharpening damages the coating"
       ],
@@ -756,16 +756,16 @@ export const questions = {
       id: 21168,
       question: "What is the recommended clock position for a right-handed clinician treating a healthy patient?",
       options: [
-        "1 to 4 o'clock",
-        "4 to 7 o'clock",
-        "8 to 1 o'clock",
-        "11 to 2 o'clock"
+        "1 to 4 o\'clock",
+        "4 to 7 o\'clock",
+        "8 to 1 o\'clock",
+        "11 to 2 o\'clock"
       ],
       correct: "C"
     },
     {
       id: 21169,
-      question: "How should the patient's mandibular occlusal plane be positioned?",
+      question: "How should the patient\'s mandibular occlusal plane be positioned?",
       options: [
         "Perpendicular to floor",
         "Parallel to floor",
@@ -1359,7 +1359,7 @@ export const questions = {
     },
     {
       id: 21223,
-      question: "Where should the patient's mouth be positioned relative to the clinician?",
+      question: "Where should the patient\'s mouth be positioned relative to the clinician?",
       options: [
         "At shoulder height",
         "At eye level",
@@ -1713,10 +1713,10 @@ export const questions = {
       id: 21255,
       question: "Where does the nondominant hand place support during reinforcement?",
       options: [
-        "On patient's face",
+        "On patient\'s face",
         "On or around instrument between hand and working end",
         "On the chair",
-        "On clinician's arm"
+        "On clinician\'s arm"
       ],
       correct: "B"
     },
@@ -1768,10 +1768,10 @@ export const questions = {
       id: 21260,
       question: "Which clock position may require a right-handed clinician to stand?",
       options: [
-        "8 to 9 o'clock",
-        "9 to 12 o'clock",
-        "12 to 3 o'clock",
-        "8 to 5 o'clock"
+        "8 to 9 o\'clock",
+        "9 to 12 o\'clock",
+        "12 to 3 o\'clock",
+        "8 to 5 o\'clock"
       ],
       correct: "D"
     },
@@ -2430,10 +2430,10 @@ export const questions = {
       id: 21220,
       question: "What does tip geometry describe?",
       options: [
-        "The tip's weight distribution",
+        "The tip\'s weight distribution",
         "The number of planes crossed by the shank",
-        "The tip's material composition",
-        "The tip's oscillation pattern"
+        "The tip\'s material composition",
+        "The tip\'s oscillation pattern"
       ],
       correct: "B"
     },
@@ -2463,10 +2463,10 @@ export const questions = {
       id: 21223,
       question: "What does the profile of a straight tip indicate?",
       options: [
-        "The tip's length",
+        "The tip\'s length",
         "The number of bends in the active area",
-        "The tip's diameter",
-        "The tip's material"
+        "The tip\'s diameter",
+        "The tip\'s material"
       ],
       correct: "B"
     },
@@ -2609,7 +2609,7 @@ export const questions = {
         "In the palm of the hand",
         "Between thumb and forefinger",
         "On the finger rest",
-        "Against the patient's chin"
+        "Against the patient\'s chin"
       ],
       correct: "B"
     },
@@ -2903,7 +2903,7 @@ export const questions = {
       id: 21263,
       question: "Where should the HVE opening be positioned for maximum effectiveness?",
       options: [
-        "At the patient's chin",
+        "At the patient\'s chin",
         "Very close to the ultrasonic tip",
         "Near the gingival margin",
         "At the opposite side of the mouth"
@@ -3322,7 +3322,7 @@ export const questions = {
       question: "What is the rationale for not using a sickle scaler for supragingival biofilm?",
       options: [
         "Too expensive",
-        "Biofilm removal doesn't require a cutting instrument",
+        "Biofilm removal doesn\'t require a cutting instrument",
         "Too time-consuming",
         "Not effective"
       ],
@@ -3354,8 +3354,8 @@ export const questions = {
       id: 21304,
       question: "Why is using ultrasonic instrumentation an ethical obligation?",
       options: [
-        "It's faster",
-        "It's less expensive",
+        "It\'s faster",
+        "It\'s less expensive",
         "It meets objectives better than manual scalers",
         "Patients prefer it"
       ],
@@ -3453,9 +3453,9 @@ export const questions = {
       id: 21313,
       question: "Can clinicians adjust the operating frequency?",
       options: [
-        "Yes, it's essential",
+        "Yes, it\'s essential",
         "Yes, but not recommended",
-        "No, it's neither necessary nor possible",
+        "No, it\'s neither necessary nor possible",
         "Only on piezoelectric units"
       ],
       correct: "C"
@@ -3539,7 +3539,7 @@ export const questions = {
     },
     {
       id: 21321,
-      question: "What does standard-diameter tips' greater mass indicate?",
+      question: "What does standard-diameter tips\' greater mass indicate?",
       options: [
         "Lighter weight",
         "Less force production",
@@ -3827,10 +3827,10 @@ export const questions = {
       id: 21347,
       question: "What does profile indicate about straight tips?",
       options: [
-        "The tip's material",
+        "The tip\'s material",
         "The number of bends in the shank",
-        "The tip's weight",
-        "The tip's color code"
+        "The tip\'s weight",
+        "The tip\'s color code"
       ],
       correct: "B"
     },
@@ -4181,7 +4181,7 @@ export const questions = {
       options: [
         "Yes, with force gauges",
         "Yes, digitally on the unit",
-        "No, it's not possible",
+        "No, it\'s not possible",
         "Only on new models"
       ],
       correct: "C"
@@ -4663,10 +4663,10 @@ export const questions = {
       id: 21423,
       question: "What should be explained to patients about the ultrasonic tip?",
       options: [
-        "It's experimental",
+        "It\'s experimental",
         "It vibrates to break up plaque like power toothbrush at higher frequency",
-        "It's the same as manual scaling",
-        "It's optional"
+        "It\'s the same as manual scaling",
+        "It\'s optional"
       ],
       correct: "B"
     },
@@ -4685,7 +4685,7 @@ export const questions = {
       id: 21425,
       question: "Why does ultrasonic not require pressure application?",
       options: [
-        "It doesn't work without pressure",
+        "It doesn\'t work without pressure",
         "High-frequency vibration does the work",
         "To save time",
         "Patient preference"
@@ -4971,10 +4971,10 @@ export const questions = {
     },
     {
       id: 21324,
-      question: "Why is a maxillary molar's mesial furcation easier to access from lingual?",
+      question: "Why is a maxillary molar\'s mesial furcation easier to access from lingual?",
       options: [
-        "Because it's located toward lingual horizontally",
-        "Because it's deeper on lingual surface",
+        "Because it\'s located toward lingual horizontally",
+        "Because it\'s deeper on lingual surface",
         "Because lingual roots are shorter overall",
         "Because buccal access is completely blocked"
       ],
@@ -5238,7 +5238,7 @@ export const questions = {
       question: "Why is periodontal attachment loss more likely with CEPs?",
       options: [
         "Because enamel prevents bacterial adhesion",
-        "Because periodontal fibers don't attach to enamel",
+        "Because periodontal fibers don\'t attach to enamel",
         "Because CEPs are harder than cementum",
         "Because CEPs have deeper concavities"
       ],
@@ -5337,7 +5337,7 @@ export const questions = {
       question: "Why is knowledge of CEJ location important in periodontal assessment?",
       options: [
         "It determines the amount of enamel present",
-        "It's the fixed landmark for attached gingiva",
+        "It\'s the fixed landmark for attached gingiva",
         "It indicates the depth of pulp chamber",
         "It shows the level of alveolar crest"
       ],
@@ -5371,7 +5371,7 @@ export const questions = {
       options: [
         "To satisfy insurance claim requirements only",
         "To influence treatment planning and self-care",
-        "To compare with other patients' anatomy",
+        "To compare with other patients\' anatomy",
         "To complete required dental school forms"
       ],
       correct: "B"
@@ -6307,7 +6307,7 @@ export const questions = {
       question: "What protection is necessary during in-office whitening?",
       options: [
         "No protection needed",
-        "Only patient's eyes need protection",
+        "Only patient\'s eyes need protection",
         "Lips, eyes, clothing, gingiva protection",
         "Only clinician needs protection"
       ],
@@ -6539,7 +6539,7 @@ export const questions = {
       options: [
         "Use thick material for strength",
         "Use thin material to avoid occlusal interference",
-        "Material thickness doesn't matter",
+        "Material thickness doesn\'t matter",
         "Use rigid material only"
       ],
       correct: "B"
@@ -6584,7 +6584,7 @@ export const questions = {
         "After all restorative procedures",
         "During restorative procedures simultaneously",
         "Before restorative procedures",
-        "Timing doesn't matter at all"
+        "Timing doesn\'t matter at all"
       ],
       correct: "C"
     },
@@ -6639,7 +6639,7 @@ export const questions = {
         "Only the cost of procedures",
         "Only the time required",
         "Risks and benefits of appropriate methods",
-        "Only the dentist's preferences"
+        "Only the dentist\'s preferences"
       ],
       correct: "C"
     }
@@ -6980,7 +6980,7 @@ export const questions = {
       question: "What are baseplate wax and wax wafers used for?",
       options: [
         "Extending impression tray borders",
-        "Recording patient's bite registration",
+        "Recording patient\'s bite registration",
         "Sealing impression material",
         "Protecting soft tissues"
       ],

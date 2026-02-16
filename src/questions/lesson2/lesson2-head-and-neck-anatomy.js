@@ -1218,7 +1218,7 @@ export const questions = {
     },
     {
       id: 11506,
-      question: "What is the shape of the articular disc's upper surface?",
+      question: "What is the shape of the articular disc\'s upper surface?",
       options: [
         "Uniformly flat to match the mandibular fossa",
         "Completely convex to fit over the condyle",
@@ -2473,7 +2473,7 @@ export const questions = {
     },
     {
       id: 11629,
-      question: "The mnemonic for facial bones \"My Mouth's Palate Never Liked Zucchini In Vinegar\" represents:",
+      question: "The mnemonic for facial bones \"My Mouth\'s Palate Never Liked Zucchini In Vinegar\" represents:",
       options: [
         "The order of bone development",
         "The size of the bones",
@@ -3017,7 +3017,7 @@ export const questions = {
         "They cause no symptoms",
         "They cause pressure deep in the midline of the head",
         "They only affect children",
-        "They don't show on radiographs"
+        "They don\'t show on radiographs"
       ],
       correct: "B"
     },
@@ -3191,7 +3191,7 @@ export const questions = {
       question: "What is especially important when planning dental implants near the maxillary sinus?",
       options: [
         "Using local anesthesia",
-        "Checking the patient's age",
+        "Checking the patient\'s age",
         "Performing due diligence",
         "Avoiding radiographs"
       ],
@@ -7791,7 +7791,7 @@ export const questions = {
   "4. Lymphatics (Part 2)": [
     {
       id: 11900,
-      question: "What role does the lymphatic system play in the body's immune response?",
+      question: "What role does the lymphatic system play in the body\'s immune response?",
       options: [
         "It serves as the first line of defense against pathogens",
         "It functions as the second line of defense in immunity",
@@ -8077,7 +8077,7 @@ export const questions = {
     },
     {
       id: 11926,
-      question: "Ludwig's angina is a type of cellulitis that involves which anatomical space?",
+      question: "Ludwig\'s angina is a type of cellulitis that involves which anatomical space?",
       options: [
         "The retropharyngeal space",
         "The masseteric space",
@@ -8088,7 +8088,7 @@ export const questions = {
     },
     {
       id: 11927,
-      question: "What is the most serious concern with Ludwig's angina?",
+      question: "What is the most serious concern with Ludwig\'s angina?",
       options: [
         "Permanent damage to the tongue muscles",
         "Blockage of the airway or inability to swallow",
@@ -8275,7 +8275,7 @@ export const questions = {
     },
     {
       id: 11944,
-      question: "Why don't disease processes always have to pass through all node groups?",
+      question: "Why don\'t disease processes always have to pass through all node groups?",
       options: [
         "Some infections are too weak to continue spreading",
         "The immune system destroys all pathogens at the first node",
@@ -10457,7 +10457,7 @@ export const questions = {
     },
     {
       id: 12051,
-      question: "Bell's palsy affects which cranial nerve causing what primary symptom?",
+      question: "Bell\'s palsy affects which cranial nerve causing what primary symptom?",
       options: [
         "Trigeminal nerve causing loss of facial sensation",
         "Facial nerve causing paralysis of facial muscles on one side",
@@ -10468,7 +10468,7 @@ export const questions = {
     },
     {
       id: 12052,
-      question: "What is the typical progression and recovery time for Bell's palsy?",
+      question: "What is the typical progression and recovery time for Bell\'s palsy?",
       options: [
         "Gradual onset over months with permanent deficits",
         "Abrupt appearance with full recovery in 3-5 weeks",
@@ -12323,7 +12323,7 @@ export const questions = {
       question: "When selecting a local anesthetic, which factor is LEAST important?",
       options: [
         "Duration needed",
-        "Patient's medical conditions",
+        "Patient\'s medical conditions",
         "Brand name preference",
         "Drug interactions"
       ],
@@ -12446,7 +12446,7 @@ export const questions = {
         "25-gauge",
         "30-gauge",
         "Both are the same",
-        "Gauge doesn't indicate thickness"
+        "Gauge doesn\'t indicate thickness"
       ],
       correct: "A"
     },
@@ -12664,7 +12664,7 @@ export const questions = {
       question: "What is paresthesia in the context of local anesthesia?",
       options: [
         "Temporary numbness during anesthesia",
-        "Persistent numbness or tingling that doesn't go away quickly",
+        "Persistent numbness or tingling that doesn\'t go away quickly",
         "Pain during injection",
         "Allergic reaction"
       ],
@@ -14667,7 +14667,7 @@ export const questions = {
     },
     {
       id: 12269,
-      question: "Which muscle's insertion is opposite to the masseter's insertion?",
+      question: "Which muscle\'s insertion is opposite to the masseter\'s insertion?",
       options: [
         "Temporalis",
         "Lateral pterygoid",

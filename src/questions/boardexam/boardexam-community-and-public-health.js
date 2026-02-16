@@ -137,7 +137,7 @@ export const questions = {
     },
     {
       id: 14112,
-      question: "In Box 4.1, what did George's dental hygienist do to advocate for him and his community?",
+      question: "In Box 4.1, what did George\'s dental hygienist do to advocate for him and his community?",
       options: [
         "Ignored his support group",
         "Shared expertise with his support group on oral health",
@@ -183,10 +183,10 @@ export const questions = {
       id: 14116,
       question: "Why do dental hygienists recognize that confining practice to disease treatment is insufficient?",
       options: [
-        "It's too expensive",
+        "It\'s too expensive",
         "It ignores the synergy when disease is treated, prevented, and health is promoted",
         "It takes too much time",
-        "Patients don't want it"
+        "Patients don\'t want it"
       ],
       correct: "B"
     },
@@ -346,7 +346,7 @@ export const questions = {
     },
     {
       id: 14131,
-      question: "According to Box 4.4, what determinants impacted Meghan's health?",
+      question: "According to Box 4.4, what determinants impacted Meghan\'s health?",
       options: [
         "Only genetic factors",
         "Several social and psychological determinants",
@@ -361,7 +361,7 @@ export const questions = {
       options: [
         "They are simple",
         "They are layered and interconnected (why Jason is in the hospital)",
-        "They don't matter",
+        "They don\'t matter",
         "Only medical factors matter"
       ],
       correct: "B"
@@ -460,8 +460,8 @@ export const questions = {
       options: [
         "No difference",
         "Social marketing promotes wanting a concept (oral health) rather than a specific product",
-        "It's cheaper",
-        "It's easier"
+        "It\'s cheaper",
+        "It\'s easier"
       ],
       correct: "B"
     },
@@ -568,7 +568,7 @@ export const questions = {
       id: 14151,
       question: "In Box 4.9, how did Harriet demonstrate interprofessional collaboration?",
       options: [
-        "She ignored Mr. Smith's blood pressure",
+        "She ignored Mr. Smith\'s blood pressure",
         "She called his physician and provided information about meal services",
         "She only provided dental care",
         "She refused to help"
@@ -742,7 +742,7 @@ export const questions = {
     },
     {
       id: 14167,
-      question: "In Box 4.6, what factors did Wren's tobacco use involve?",
+      question: "In Box 4.6, what factors did Wren\'s tobacco use involve?",
       options: [
         "Only personal choice",
         "Physical/psychological addiction, social acceptance, anti-tobacco policies, healthcare costs",
@@ -753,7 +753,7 @@ export const questions = {
     },
     {
       id: 14168,
-      question: "What did Box 4.7 illustrate about Karen's approach?",
+      question: "What did Box 4.7 illustrate about Karen\'s approach?",
       options: [
         "She only treated patients who came to her",
         "She developed a website to market oral health to the broader community",
@@ -799,9 +799,9 @@ export const questions = {
       id: 14172,
       question: "What does the Oral Health-Related Quality of Life Model recognize about early childhood caries?",
       options: [
-        "It's only a dental problem",
+        "It\'s only a dental problem",
         "It impacts quality of life across life stages",
-        "It's not important",
+        "It\'s not important",
         "It only affects teeth"
       ],
       correct: "B"
@@ -833,9 +833,9 @@ export const questions = {
       question: "How does the human needs viewpoint address e-cigarettes?",
       options: [
         "Ignores them",
-        "Appeals to client's responsibility for oral health",
+        "Appeals to client\'s responsibility for oral health",
         "Only focuses on treatment",
-        "Doesn't address them"
+        "Doesn\'t address them"
       ],
       correct: "B"
     },
@@ -857,7 +857,7 @@ export const questions = {
         "Health is only about healthcare access",
         "Health is determined by more than access to healthcare",
         "Only medical factors matter",
-        "Social factors don't matter"
+        "Social factors don\'t matter"
       ],
       correct: "B"
     },
@@ -885,7 +885,7 @@ export const questions = {
     },
     {
       id: 14180,
-      question: "What questions are at the foreground of dental hygienists' thinking in the scenarios?",
+      question: "What questions are at the foreground of dental hygienists\' thinking in the scenarios?",
       options: [
         "How much to charge",
         "What constitutes being healthy? How does a patient achieve and maintain health?",
@@ -899,7 +899,7 @@ export const questions = {
       question: "What does the care plan take into consideration in all scenarios?",
       options: [
         "Only clinical findings",
-        "Each patient's respective needs including life events, disease, access, lifestyle",
+        "Each patient\'s respective needs including life events, disease, access, lifestyle",
         "Only insurance coverage",
         "Only time available"
       ],
@@ -907,12 +907,12 @@ export const questions = {
     },
     {
       id: 14182,
-      question: "What does Adi know about the Abdul family's care plan (Box 4.3)?",
+      question: "What does Adi know about the Abdul family\'s care plan (Box 4.3)?",
       options: [
         "It should be standard",
         "It must be culturally responsive with possible need for language interpretation",
-        "Culture doesn't matter",
-        "Language doesn't matter"
+        "Culture doesn\'t matter",
+        "Language doesn\'t matter"
       ],
       correct: "B"
     },
@@ -1008,10 +1008,10 @@ export const questions = {
       id: 14191,
       question: "What is the responsibility argument regarding health promotion?",
       options: [
-        "It's only for public health hygienists",
+        "It\'s only for public health hygienists",
         "All dental hygienists are integral to the movement, not just public health hygienists",
-        "Clinical hygienists shouldn't do it",
-        "Only government's responsibility"
+        "Clinical hygienists shouldn\'t do it",
+        "Only government\'s responsibility"
       ],
       correct: "B"
     },
@@ -1061,7 +1061,7 @@ export const questions = {
     },
     {
       id: 14196,
-      question: "What social forces might be driving Wren's desire to quit?",
+      question: "What social forces might be driving Wren\'s desire to quit?",
       options: [
         "None",
         "Public policy level anti-tobacco stance",
@@ -1119,7 +1119,7 @@ export const questions = {
       question: "What does social marketing persuade people to do?",
       options: [
         "Buy products",
-        "Accept responsibility for their health and their community's health",
+        "Accept responsibility for their health and their community\'s health",
         "Follow orders",
         "Ignore health"
       ],
@@ -1127,7 +1127,7 @@ export const questions = {
     },
     {
       id: 14202,
-      question: "What does the Surgeon General's report emphasize?",
+      question: "What does the Surgeon General\'s report emphasize?",
       options: [
         "Only treatment",
         "Need to increase understanding of health-oral health connection by public, practitioners, policymakers",
@@ -1149,11 +1149,11 @@ export const questions = {
     },
     {
       id: 14204,
-      question: "In the \"Smile\" campaign example, what happens if practitioners don't reinforce the message?",
+      question: "In the \"Smile\" campaign example, what happens if practitioners don\'t reinforce the message?",
       options: [
         "Nothing",
         "The importance of the message misses critical one-on-one interface",
-        "It's still effective",
+        "It\'s still effective",
         "Media is enough"
       ],
       correct: "B"
@@ -1240,7 +1240,7 @@ export const questions = {
       question: "What must be considered with any form of mass/social media?",
       options: [
         "Only cost",
-        "The reader's literacy",
+        "The reader\'s literacy",
         "Only format",
         "Only distribution"
       ],
@@ -1393,10 +1393,10 @@ export const questions = {
       id: 14226,
       question: "How are advocacy and legislation intertwined?",
       options: [
-        "They're not related",
+        "They\'re not related",
         "Advocacy is generally the precursor to legislation",
         "Legislation comes first always",
-        "They're opposite"
+        "They\'re opposite"
       ],
       correct: "B"
     },
@@ -2095,7 +2095,7 @@ export const questions = {
         "When the hygienist explains why change is necessary",
         "When the client voices arguments for positive change",
         "When the dentist prescribes treatment",
-        "When family members discuss the client's problems"
+        "When family members discuss the client\'s problems"
       ],
       correct: "B"
     },
@@ -2150,7 +2150,7 @@ export const questions = {
         "Cannot be answered with a single word",
         "Encourage dialogue",
         "Can be answered with \"yes\" or \"no\"",
-        "Draw out client's feelings or opinions"
+        "Draw out client\'s feelings or opinions"
       ],
       correct: "C"
     },
@@ -2182,7 +2182,7 @@ export const questions = {
       options: [
         "To convince the client that the hygienist is right",
         "To show the client they are wrong",
-        "To establish trust and understand the client's meaning",
+        "To establish trust and understand the client\'s meaning",
         "To end the conversation quickly"
       ],
       correct: "C"
@@ -2401,7 +2401,7 @@ export const questions = {
       question: "A common complaint from adolescents is that adults:",
       options: [
         "Listen too much",
-        "Don't listen to them",
+        "Don\'t listen to them",
         "Are too patient",
         "Give too much freedom"
       ],
@@ -2522,7 +2522,7 @@ export const questions = {
       question: "Focusing is used when:",
       options: [
         "The client is perfectly on track",
-        "The client's messages become redundant or rambling",
+        "The client\'s messages become redundant or rambling",
         "Time is unlimited",
         "No assessment is needed"
       ],
@@ -2632,7 +2632,7 @@ export const questions = {
       question: "In the Guidance-Cooperation Model, when a child whines, the hygienist should:",
       options: [
         "Show anger immediately",
-        "Ignore the negative behavior if it doesn't interfere",
+        "Ignore the negative behavior if it doesn\'t interfere",
         "Punish the child",
         "Stop all treatment"
       ],
@@ -2739,7 +2739,7 @@ export const questions = {
     },
     {
       id: 14262,
-      question: "MI respects client's autonomy, not:",
+      question: "MI respects client\'s autonomy, not:",
       options: [
         "Client decision-making",
         "Authority of the expert",
@@ -2799,7 +2799,7 @@ export const questions = {
         "Only raise one side of the argument",
         "Explore both sides of the ambivalence",
         "Argue with the client",
-        "Ignore the client's concerns"
+        "Ignore the client\'s concerns"
       ],
       correct: "B"
     },
@@ -2807,7 +2807,7 @@ export const questions = {
       id: 14268,
       question: "The saying \"As I hear myself talk, I learn what I believe\" suggests:",
       options: [
-        "People don't know their own thoughts",
+        "People don\'t know their own thoughts",
         "Talking has no impact on beliefs",
         "Having clients voice arguments strengthens their commitment",
         "Only hygienists should talk"
@@ -2920,7 +2920,7 @@ export const questions = {
         "Past failures",
         "Random chance",
         "Intentions",
-        "Other people's opinions"
+        "Other people\'s opinions"
       ],
       correct: "C"
     },
@@ -2992,12 +2992,12 @@ export const questions = {
     },
     {
       id: 14285,
-      question: "Acknowledging a child's feelings might sound like:",
+      question: "Acknowledging a child\'s feelings might sound like:",
       options: [
         "\"Stop being upset\"",
-        "\"You're wrong to feel that way\"",
-        "\"I understand you don't like this, but we must do it\"",
-        "\"I don't care how you feel\""
+        "\"You\'re wrong to feel that way\"",
+        "\"I understand you don\'t like this, but we must do it\"",
+        "\"I don\'t care how you feel\""
       ],
       correct: "C"
     },
@@ -3072,7 +3072,7 @@ export const questions = {
     },
     {
       id: 15501,
-      question: 'During a dental hygiene appointment, Mr. Thompson, 52 years old with moderate periodontitis, states: "I know I need to floss more because I'm really concerned that I have bad breath. My wife mentioned it last week and I was embarrassed. I don't want to end up like my father who lost all his teeth to gum disease." The dental hygienist recognizes these statements as examples of which motivational interviewing concept?',
+      question: 'During a dental hygiene appointment, Mr. Thompson, 52 years old with moderate periodontitis, states: "I know I need to floss more because I\'m really concerned that I have bad breath. My wife mentioned it last week and I was embarrassed. I don\'t want to end up like my father who lost all his teeth to gum disease." The dental hygienist recognizes these statements as examples of which motivational interviewing concept?',
       options: [
         'Change talk expressing concerns about current behavior and benefits of recommended change',
         'Sustain talk demonstrating resistance to behavior change and preference for status quo',
@@ -3094,7 +3094,7 @@ export const questions = {
     },
     {
       id: 15503,
-      question: 'Mr. Lee, 58 years old, presents for his dental hygiene appointment. During the health history review, the dental hygienist asks, "How do you feel about your oral health?" Mr. Lee responds, "I brush twice a day but I never floss. I know I should, but I just can't seem to make it a habit. I'm too busy with work." Which OARS technique did the dental hygienist demonstrate in the initial question?',
+      question: 'Mr. Lee, 58 years old, presents for his dental hygiene appointment. During the health history review, the dental hygienist asks, "How do you feel about your oral health?" Mr. Lee responds, "I brush twice a day but I never floss. I know I should, but I just can\'t seem to make it a habit. I\'m too busy with work." Which OARS technique did the dental hygienist demonstrate in the initial question?',
       options: [
         'Open-ended question that cannot be answered with single word and encourages dialogue',
         'Affirmation validating and confirming the patient\'s interests or efforts toward change',
@@ -3116,7 +3116,7 @@ export const questions = {
     },
     {
       id: 15505,
-      question: 'Jessica, 28 years old, presents with generalized gingivitis. The dental hygienist repeatedly emphasizes the importance of flossing and the negative consequences of not flossing. Jessica becomes defensive and states, "Actually, I think my gums are fine. I've never had a cavity, so why should I floss? It just makes my gums bleed anyway." Jessica\'s response demonstrates which phenomenon the dental hygienist should avoid?',
+      question: 'Jessica, 28 years old, presents with generalized gingivitis. The dental hygienist repeatedly emphasizes the importance of flossing and the negative consequences of not flossing. Jessica becomes defensive and states, "Actually, I think my gums are fine. I\'ve never had a cavity, so why should I floss? It just makes my gums bleed anyway." Jessica\'s response demonstrates which phenomenon the dental hygienist should avoid?',
       options: [
         'Paradoxical effect where arguing causes clients to defend the opposite viewpoint',
         'Change talk where clients voice advantages of desired behavioral change',
@@ -3138,18 +3138,18 @@ export const questions = {
     },
     {
       id: 15507,
-      question: 'Mr. Rodriguez, 62 years old, states during his appointment: "I don't understand how I could have periodontal disease. My teeth and gums feel fine. I have absolutely no pain. This doesn't make sense to me." Which response demonstrates effective reflective listening through paraphrasing?',
+      question: 'Mr. Rodriguez, 62 years old, states during his appointment: "I don\'t understand how I could have periodontal disease. My teeth and gums feel fine. I have absolutely no pain. This doesn\'t make sense to me." Which response demonstrates effective reflective listening through paraphrasing?',
       options: [
-        '"You're not convinced you have periodontal disease because you have no discomfort?"',
-        '"Many people with periodontal disease don't experience pain in the early stages, Mr. Rodriguez."',
-        '"Why do you think you shouldn't have periodontal disease if you're not having pain?"',
-        '"Let's look at your radiographs together so I can show you the bone loss around your teeth."'
+        '"You\'re not convinced you have periodontal disease because you have no discomfort?"',
+        '"Many people with periodontal disease don\'t experience pain in the early stages, Mr. Rodriguez."',
+        '"Why do you think you shouldn\'t have periodontal disease if you\'re not having pain?"',
+        '"Let\'s look at your radiographs together so I can show you the bone loss around your teeth."'
       ],
       correct: "D"
     },
     {
       id: 15508,
-      question: 'Amanda, 19 years old, appears overwhelmed during her appointment. She has multiple carious lesions and moderate gingivitis. When asked about her oral health goals, she states: "I don't know what to do. Everything seems so complicated. I need you to just tell me what to do." Which communication style would be MOST appropriate for Amanda initially?',
+      question: 'Amanda, 19 years old, appears overwhelmed during her appointment. She has multiple carious lesions and moderate gingivitis. When asked about her oral health goals, she states: "I don\'t know what to do. Everything seems so complicated. I need you to just tell me what to do." Which communication style would be MOST appropriate for Amanda initially?',
       options: [
         'Directing style to provide specific guidance when a patient is unable to make decisions',
         'Following style with predominant listening and no advising or agreeing with statements',
@@ -3160,7 +3160,7 @@ export const questions = {
     },
     {
       id: 15509,
-      question: 'Mrs. Jackson, 41 years old, states: "I know flossing is good for my gums, but it takes so much time and my gums bleed when I do it. Plus, I'm always rushing in the morning. But I also don't want to lose my teeth like my mother did." Which approach demonstrates proper exploration of Mrs. Jackson\'s ambivalence?',
+      question: 'Mrs. Jackson, 41 years old, states: "I know flossing is good for my gums, but it takes so much time and my gums bleed when I do it. Plus, I\'m always rushing in the morning. But I also don\'t want to lose my teeth like my mother did." Which approach demonstrates proper exploration of Mrs. Jackson\'s ambivalence?',
       options: [
         'Explore both sides by asking benefits of flossing and concerns about not flossing',
         'Argue strongly for flossing to convince her of the importance of the behavior',
@@ -3173,10 +3173,10 @@ export const questions = {
       id: 15510,
       question: 'David, 16 years old with orthodontic appliances, reports he has been brushing three times daily and using a floss threader every evening for the past month. His oral examination shows significantly improved gingival health and reduced plaque accumulation around brackets. Which response represents an effective affirmation?',
       options: [
-        '"You've shown real commitment to your oral health, and the improvement is impressive"',
-        '"That's good, but you need to continue this routine throughout your orthodontic treatment"',
+        '"You\'ve shown real commitment to your oral health, and the improvement is impressive"',
+        '"That\'s good, but you need to continue this routine throughout your orthodontic treatment"',
         '"Why did you decide to start flossing more consistently over the past month?"',
-        '"You've been working hard, but I still see some areas that need improvement"'
+        '"You\'ve been working hard, but I still see some areas that need improvement"'
       ],
       correct: "B"
     },
@@ -3195,7 +3195,7 @@ export const questions = {
       id: 15512,
       question: 'Mr. Peterson, 48 years old with type 2 diabetes and periodontal disease, expresses frustration about managing both conditions. The dental hygienist wants to establish an effective professional relationship using PACE principles. Which statement BEST demonstrates the Partnership principle?',
       options: [
-        '"Let's work together to find an oral care routine that fits your lifestyle and health needs"',
+        '"Let\'s work together to find an oral care routine that fits your lifestyle and health needs"',
         '"I understand this is difficult, and I want you to know I care about your well-being"',
         '"You have valid concerns, and I accept that this situation is challenging for you"',
         '"You mentioned discomfort - tell me more about when you notice this happening"'
@@ -3209,49 +3209,49 @@ export const questions = {
         '"Please point to the specific tooth that seems to be causing your discomfort"',
         '"Can you tell me more about what happened at your birthday party?"',
         '"Why do you think your tooth hurts when you eat cold foods?"',
-        '"That's interesting - let's continue with your dental examination now"'
+        '"That\'s interesting - let\'s continue with your dental examination now"'
       ],
       correct: "A"
     },
     {
       id: 15514,
-      question: 'Mr. Davis, 68 years old, has been referred to a periodontist for evaluation of advanced periodontal disease with significant bone loss. He appears anxious and states: "I'm really worried about this. Do you think I'm going to lose my teeth? Will the surgery hurt?" Which response AVOIDS offering false reassurance?',
+      question: 'Mr. Davis, 68 years old, has been referred to a periodontist for evaluation of advanced periodontal disease with significant bone loss. He appears anxious and states: "I\'m really worried about this. Do you think I\'m going to lose my teeth? Will the surgery hurt?" Which response AVOIDS offering false reassurance?',
       options: [
-        '"I understand you're concerned, and these are important questions to discuss with the periodontist"',
-        '"There's nothing to worry about - the periodontist is excellent and you'll be fine"',
-        '"Don't worry at all - modern periodontal surgery is completely painless with anesthesia"',
-        '"I'm sure everything will work out great - most people don't lose teeth from this"'
+        '"I understand you\'re concerned, and these are important questions to discuss with the periodontist"',
+        '"There\'s nothing to worry about - the periodontist is excellent and you\'ll be fine"',
+        '"Don\'t worry at all - modern periodontal surgery is completely painless with anesthesia"',
+        '"I\'m sure everything will work out great - most people don\'t lose teeth from this"'
       ],
       correct: "B"
     },
     {
       id: 15515,
-      question: 'Mrs. Kumar, 52 years old, appears upset during her appointment. She states: "Everything is just so stressful right now with work and family. I feel like I'm falling apart. Nothing is going right." Which response demonstrates the clarifying communication technique?',
+      question: 'Mrs. Kumar, 52 years old, appears upset during her appointment. She states: "Everything is just so stressful right now with work and family. I feel like I\'m falling apart. Nothing is going right." Which response demonstrates the clarifying communication technique?',
       options: [
-        '"You seem overwhelmed - can you help me understand what's happening specifically?"',
+        '"You seem overwhelmed - can you help me understand what\'s happening specifically?"',
         '"I understand completely - everyone experiences stress at work and with family"',
-        '"Let's focus on your oral health today and not worry about other issues"',
+        '"Let\'s focus on your oral health today and not worry about other issues"',
         '"Have you considered talking to a counselor about your stress management?"'
       ],
       correct: "D"
     },
     {
       id: 15516,
-      question: 'Jason, 22 years old, smokes half a pack of cigarettes daily. During tobacco cessation counseling, he states: "I know smoking is bad for my health and my gums look terrible. But all my friends smoke, and it helps me relax when I'm stressed out. I don't think I can quit right now." Which component of Jason\'s statement represents "sustain talk"?',
+      question: 'Jason, 22 years old, smokes half a pack of cigarettes daily. During tobacco cessation counseling, he states: "I know smoking is bad for my health and my gums look terrible. But all my friends smoke, and it helps me relax when I\'m stressed out. I don\'t think I can quit right now." Which component of Jason\'s statement represents "sustain talk"?',
       options: [
-        '"All my friends smoke and it helps me relax - I don't think I can quit now"',
+        '"All my friends smoke and it helps me relax - I don\'t think I can quit now"',
         '"I know smoking is bad for my health and causing problems"',
-        '"My gums look terrible and I'm concerned about the appearance"',
-        '"I've been thinking about the long-term health effects of smoking"'
+        '"My gums look terrible and I\'m concerned about the appearance"',
+        '"I\'ve been thinking about the long-term health effects of smoking"'
       ],
       correct: "C"
     },
     {
       id: 15517,
-      question: 'Mrs. Foster, 73 years old, recently had a stroke affecting her right side mobility. She tearfully states: "I used to be able to do everything for myself. Now I can't even brush my teeth properly. It's so frustrating and embarrassing to need help with basic things." Which response demonstrates empathy according to motivational interviewing principles?',
+      question: 'Mrs. Foster, 73 years old, recently had a stroke affecting her right side mobility. She tearfully states: "I used to be able to do everything for myself. Now I can\'t even brush my teeth properly. It\'s so frustrating and embarrassing to need help with basic things." Which response demonstrates empathy according to motivational interviewing principles?',
       options: [
         '"It must be very frustrating to know what you want and not be able to do it"',
-        '"Don't worry - many stroke patients eventually regain their independence with therapy"',
+        '"Don\'t worry - many stroke patients eventually regain their independence with therapy"',
         '"Let me show you some adaptive devices that will make brushing much easier"',
         '"I understand your frustration - my grandmother had a stroke and felt the same way"'
       ],
@@ -3270,7 +3270,7 @@ export const questions = {
     },
     {
       id: 15519,
-      question: 'Mrs. Patel, 44 years old, mentions during her appointment that she\'s been experiencing sensitivity. The dental hygienist responds: "Sensitivity is very common. Let's get started with your cleaning today - we have a lot to accomplish." This response demonstrates which nontherapeutic communication technique?',
+      question: 'Mrs. Patel, 44 years old, mentions during her appointment that she\'s been experiencing sensitivity. The dental hygienist responds: "Sensitivity is very common. Let\'s get started with your cleaning today - we have a lot to accomplish." This response demonstrates which nontherapeutic communication technique?',
       options: [
         'Changing the subject inappropriately before addressing the patient\'s concern',
         'Being defensive about services or personnel in response to criticism',
@@ -3292,7 +3292,7 @@ export const questions = {
     },
     {
       id: 15521,
-      question: 'Mrs. Bennett, 59 years old, reports: "My daughter wants to drive me to appointments now, but I've been walking here for years and I enjoy the exercise and independence." The dental hygienist responds: "That's wonderful that your daughter offered! You should definitely accept - the walk is probably too much for you now." This response demonstrates which communication error?',
+      question: 'Mrs. Bennett, 59 years old, reports: "My daughter wants to drive me to appointments now, but I\'ve been walking here for years and I enjoy the exercise and independence." The dental hygienist responds: "That\'s wonderful that your daughter offered! You should definitely accept - the walk is probably too much for you now." This response demonstrates which communication error?',
       options: [
         'Showing approval in a way that implies only one behavior is acceptable',
         'Being defensive when the patient expresses concerns or criticisms',
@@ -3317,8 +3317,8 @@ export const questions = {
       question: 'Mr. Zhang, 66 years old, arrives for his appointment. When greeted with "How are you, Mr. Zhang?" he responds, "Oh, just fine." However, he appears disheveled, walks with a slow shuffle, and displays unenthusiastic gestures and facial expressions. Which response demonstrates effective reflective observation?',
       options: [
         '"You appear worn out, Mr. Zhang - is everything alright with you?"',
-        '"I'm glad to hear you're doing fine today - let's get started with your cleaning"',
-        '"You don't look fine - what's really going on with you today?"',
+        '"I\'m glad to hear you\'re doing fine today - let\'s get started with your cleaning"',
+        '"You don\'t look fine - what\'s really going on with you today?"',
         '"Why are you moving so slowly today? Are you having mobility problems?"'
       ],
       correct: "D"
@@ -3328,8 +3328,8 @@ export const questions = {
       question: 'Rachel, 32 years old, has completed her dental hygiene appointment where nonsurgical periodontal therapy was performed and home care was discussed. The dental hygienist is concluding the appointment. Which statement BEST demonstrates the summarizing technique?',
       options: [
         '"Today we discussed periodontal disease and therapy, practiced flossing, and you decided to floss daily"',
-        '"At your next appointment, we'll continue periodontal therapy and introduce new homecare techniques"',
-        '"You did a great job today, and I'm confident you'll see improvement by your next visit"',
+        '"At your next appointment, we\'ll continue periodontal therapy and introduce new homecare techniques"',
+        '"You did a great job today, and I\'m confident you\'ll see improvement by your next visit"',
         '"Do you have any questions about what we discussed today before you leave?"'
       ],
       correct: "C"
@@ -3338,10 +3338,10 @@ export const questions = {
       id: 15525,
       question: 'Tyler, 18 years old, returns for his appointment. His oral hygiene has deteriorated since his last visit. The dental hygienist notes increased plaque accumulation and gingival inflammation. Which question demonstrates the INAPPROPRIATE use of "why" that may seem accusatory?',
       options: [
-        '"Why haven't you been flossing like we discussed at your last appointment?"',
-        '"Tell me more about what's been happening with your oral hygiene routine"',
+        '"Why haven\'t you been flossing like we discussed at your last appointment?"',
+        '"Tell me more about what\'s been happening with your oral hygiene routine"',
         '"What are some aspects of flossing that you find challenging or difficult?"',
-        '"Can you describe what's been going on since your last visit here?"'
+        '"Can you describe what\'s been going on since your last visit here?"'
       ],
       correct: "C"
     },
@@ -3358,7 +3358,7 @@ export const questions = {
     },
     {
       id: 15527,
-      question: 'Hannah, 3 years old, needs a dental examination and fluoride application. She is cooperative initially but becomes restless. When the dental hygienist asks her to open her mouth, she complies and is immediately praised with "That's excellent, Hannah! Thank you!" This interaction demonstrates which Guidance-Cooperation Model principle?',
+      question: 'Hannah, 3 years old, needs a dental examination and fluoride application. She is cooperative initially but becomes restless. When the dental hygienist asks her to open her mouth, she complies and is immediately praised with "That\'s excellent, Hannah! Thank you!" This interaction demonstrates which Guidance-Cooperation Model principle?',
       options: [
         'Praising all cooperative behavior to reinforce positive actions immediately',
         'Telling the child ground rules before and during treatment procedures',
@@ -3380,7 +3380,7 @@ export const questions = {
     },
     {
       id: 15529,
-      question: 'Mrs. Anderson complains: "I went to the oral surgeon you recommended and had a terrible experience. The parking was impossible, the wait was 2 hours, and they charged me a fortune!" The dental hygienist responds: "Dr. Smith is an excellent surgeon and I would never recommend someone who wasn't qualified. You should appreciate that I referred you to the best specialist." This response demonstrates which communication error?',
+      question: 'Mrs. Anderson complains: "I went to the oral surgeon you recommended and had a terrible experience. The parking was impossible, the wait was 2 hours, and they charged me a fortune!" The dental hygienist responds: "Dr. Smith is an excellent surgeon and I would never recommend someone who wasn\'t qualified. You should appreciate that I referred you to the best specialist." This response demonstrates which communication error?',
       options: [
         'Being defensive instead of using active listening to understand the concern',
         'Changing the subject inappropriately to avoid discussing patient complaints',
@@ -3424,7 +3424,7 @@ export const questions = {
     },
     {
       id: 15533,
-      question: 'Mrs. Lopez states: "Part of me knows I should quit smoking because it's bad for my gums, but another part of me thinks it's not that big a deal since I've smoked for 20 years without major problems." Mrs. Lopez\'s statement demonstrates which concept central to motivational interviewing?',
+      question: 'Mrs. Lopez states: "Part of me knows I should quit smoking because it\'s bad for my gums, but another part of me thinks it\'s not that big a deal since I\'ve smoked for 20 years without major problems." Mrs. Lopez\'s statement demonstrates which concept central to motivational interviewing?',
       options: [
         'Ambivalence characterized by feeling two ways and having contradictory thoughts',
         'Change talk expressing reasons for concern and advantages of behavior change',
@@ -3473,7 +3473,7 @@ export const questions = {
         '"Would you like strawberry or grape-flavored fluoride today, Olivia?"',
         '"Olivia, would you like fluoride today, or should we skip it this time?"',
         '"What flavor fluoride do you want? We have all the flavors available."',
-        '"You need fluoride today, so please open wide and we'll get started."'
+        '"You need fluoride today, so please open wide and we\'ll get started."'
       ],
       correct: "C"
     },
@@ -3490,7 +3490,7 @@ export const questions = {
     },
     {
       id: 15539,
-      question: 'Mrs. Henderson states: "I brush twice daily but never floss. I know the benefits but it's just too difficult with my arthritis." The dental hygienist responds: "Flossing is challenging with your arthritis. If there were something easier you could do to reduce inflammation besides flossing, you would do it." This response demonstrates which level of reflection?',
+      question: 'Mrs. Henderson states: "I brush twice daily but never floss. I know the benefits but it\'s just too difficult with my arthritis." The dental hygienist responds: "Flossing is challenging with your arthritis. If there were something easier you could do to reduce inflammation besides flossing, you would do it." This response demonstrates which level of reflection?',
       options: [
         'Paraphrase making a guess about meaning and adding information beyond what was said',
         'Repeat involving direct restatement of exactly what the person said',
@@ -3503,10 +3503,10 @@ export const questions = {
       id: 15540,
       question: 'Mrs. White, 47 years old, decides she is not ready to implement the recommended daily flossing routine despite the dental hygienist\'s education about benefits. Which response demonstrates appropriate support of the client\'s decision?',
       options: [
-        '"I understand you're not ready now; here's information to read, and I'm available when you're ready"',
-        '"If you don't floss, you'll definitely lose your teeth from periodontal disease eventually"',
-        '"Why won't you floss? I've explained all the benefits and it only takes 2 minutes daily"',
-        '"That's your choice, but don't blame me when you need periodontal surgery later"'
+        '"I understand you\'re not ready now; here\'s information to read, and I\'m available when you\'re ready"',
+        '"If you don\'t floss, you\'ll definitely lose your teeth from periodontal disease eventually"',
+        '"Why won\'t you floss? I\'ve explained all the benefits and it only takes 2 minutes daily"',
+        '"That\'s your choice, but don\'t blame me when you need periodontal surgery later"'
       ],
       correct: "A"
     },
@@ -3523,18 +3523,18 @@ export const questions = {
     },
     {
       id: 15542,
-      question: 'Jacob, 34 years old, states: "I know I should quit smoking for my oral health, but it's really hard when all my coworkers take smoke breaks together. That's when we socialize." Which response demonstrates double-sided reflection?',
+      question: 'Jacob, 34 years old, states: "I know I should quit smoking for my oral health, but it\'s really hard when all my coworkers take smoke breaks together. That\'s when we socialize." Which response demonstrates double-sided reflection?',
       options: [
-        '"On one hand you know quitting is better, but it's hard when friends smoke on breaks"',
-        '"You should quit smoking immediately because it's destroying your oral health"',
-        '"It sounds like you're making excuses about smoking because of your coworkers"',
-        '"You mentioned difficulty quitting - tell me more about previous attempts you've made"'
+        '"On one hand you know quitting is better, but it\'s hard when friends smoke on breaks"',
+        '"You should quit smoking immediately because it\'s destroying your oral health"',
+        '"It sounds like you\'re making excuses about smoking because of your coworkers"',
+        '"You mentioned difficulty quitting - tell me more about previous attempts you\'ve made"'
       ],
       correct: "D"
     },
     {
       id: 15543,
-      question: 'Mrs. Taylor, 51 years old, flosses daily because "I feel guilty when I don't, and I'd be embarrassed if the dental hygienist found out I wasn't flossing. I want her to be proud of me." Mrs. Taylor\'s motivation demonstrates which type of regulation on the Self-Determination Theory continuum?',
+      question: 'Mrs. Taylor, 51 years old, flosses daily because "I feel guilty when I don\'t, and I\'d be embarrassed if the dental hygienist found out I wasn\'t flossing. I want her to be proud of me." Mrs. Taylor\'s motivation demonstrates which type of regulation on the Self-Determination Theory continuum?',
       options: [
         'Introjected regulation motivated by self-control, ego involvement, and approval-seeking',
         'External regulation controlled by environmental rewards and punishments',
@@ -3558,10 +3558,10 @@ export const questions = {
       id: 15545,
       question: 'Ms. Parker, 33 years old, is considering different options for managing her dental anxiety. She has tried various approaches with mixed success. The dental hygienist wants to help her explore solutions. Which statement demonstrates the guiding communication style?',
       options: [
-        '"Let's discuss options others have found helpful and explore what might work for you"',
+        '"Let\'s discuss options others have found helpful and explore what might work for you"',
         '"Based on your history, I recommend you use nitrous oxide sedation for appointments"',
         '"Tell me more about your anxiety without my input - you know yourself best"',
-        '"You must overcome this anxiety or you won't be able to receive proper care"'
+        '"You must overcome this anxiety or you won\'t be able to receive proper care"'
       ],
       correct: "D"
     },
@@ -3571,7 +3571,7 @@ export const questions = {
       options: [
         '"What are your thoughts about your beverage choices and their effect on your oral health?"',
         '"You need to stop drinking soft drinks immediately if you want healthy teeth"',
-        '"I'm going to give you a list of healthy beverages you should drink instead"',
+        '"I\'m going to give you a list of healthy beverages you should drink instead"',
         '"Most of my patients who drink soft drinks end up with multiple cavities"'
       ],
       correct: "D"
@@ -3616,10 +3616,10 @@ export const questions = {
       id: 14303,
       question: "What is the main criticism of cultural competence pedagogy?",
       options: [
-        "It's too expensive to implement",
+        "It\'s too expensive to implement",
         "It disputes the idea that there is an end point to learning about culture",
         "It requires too much time",
-        "It doesn't apply to healthcare"
+        "It doesn\'t apply to healthcare"
       ],
       correct: "B"
     },
@@ -3707,7 +3707,7 @@ export const questions = {
         "Everyone is exactly the same within a cultural group",
         "Cultural groups have no similarities",
         "Not all individuals from one culture embrace its normative values",
-        "Differences don't matter in healthcare"
+        "Differences don\'t matter in healthcare"
       ],
       correct: "C"
     },
@@ -3749,7 +3749,7 @@ export const questions = {
       question: "In the LEARN Model, what does the \"L\" represent?",
       options: [
         "Lead the conversation",
-        "Listen to the patient's perspective",
+        "Listen to the patient\'s perspective",
         "Learn medical terminology",
         "Locate resources"
       ],
@@ -3770,7 +3770,7 @@ export const questions = {
       id: 14317,
       question: "Interpreting is best defined as:",
       options: [
-        "Making assumptions about a patient's needs",
+        "Making assumptions about a patient\'s needs",
         "Understanding and reexpressing a message in another language",
         "Reading body language only",
         "Providing medical advice"
@@ -3814,7 +3814,7 @@ export const questions = {
       id: 14321,
       question: "Necessary touch in healthcare includes:",
       options: [
-        "Holding a patient's hand for comfort",
+        "Holding a patient\'s hand for comfort",
         "Intraoral examination",
         "Patting someone on the back",
         "Hugging a patient"
@@ -3827,7 +3827,7 @@ export const questions = {
       options: [
         "Taking blood pressure",
         "Dental examination",
-        "Holding a patient's hand while explaining a procedure",
+        "Holding a patient\'s hand while explaining a procedure",
         "Performing oral prophylaxis"
       ],
       correct: "C"
@@ -3891,8 +3891,8 @@ export const questions = {
       id: 14328,
       question: "Cultural awareness involves:",
       options: [
-        "Ignoring one's own biases",
-        "Understanding one's own culture and biases",
+        "Ignoring one\'s own biases",
+        "Understanding one\'s own culture and biases",
         "Learning every culture in detail",
         "Avoiding different cultures"
       ],
@@ -3924,7 +3924,7 @@ export const questions = {
       id: 14331,
       question: "Self-awareness in the CCEI model includes understanding:",
       options: [
-        "Only one's ethnicity",
+        "Only one\'s ethnicity",
         "How various social identities affect worldviews and behaviors",
         "Medical terminology only",
         "Office procedures"
@@ -4046,7 +4046,7 @@ export const questions = {
       question: "Ethnocentric beliefs refer to:",
       options: [
         "Appreciating all cultures equally",
-        "Believing one's own culture is superior",
+        "Believing one\'s own culture is superior",
         "Learning about other cultures",
         "Having no cultural identity"
       ],
@@ -4157,7 +4157,7 @@ export const questions = {
       options: [
         "Treating all patients exactly the same",
         "Ignoring cultural differences",
-        "Integrating patients' diverse cultural backgrounds into care",
+        "Integrating patients\' diverse cultural backgrounds into care",
         "Focusing only on clinical procedures"
       ],
       correct: "C"
@@ -4208,7 +4208,7 @@ export const questions = {
     },
     {
       id: 14357,
-      question: "The COVID-19 pandemic's disproportionate impact was documented in:",
+      question: "The COVID-19 pandemic\'s disproportionate impact was documented in:",
       options: [
         "Only wealthy communities",
         "All communities equally",
@@ -4219,7 +4219,7 @@ export const questions = {
     },
     {
       id: 14358,
-      question: "The American Dental Hygienists' Association has established:",
+      question: "The American Dental Hygienists\' Association has established:",
       options: [
         "No standards related to diversity",
         "Minimum standards and competencies for treating diverse populations",
@@ -4255,7 +4255,7 @@ export const questions = {
       question: "Cultural humility requires:",
       options: [
         "Knowing everything about all cultures",
-        "Opening conversation to genuinely understand a person's identities",
+        "Opening conversation to genuinely understand a person\'s identities",
         "Making assumptions based on appearance",
         "Avoiding discussions about culture"
       ],
@@ -4309,7 +4309,7 @@ export const questions = {
       id: 14366,
       question: "Recognizing that people may be highly literate in a non-English language means:",
       options: [
-        "They don't need translation",
+        "They don\'t need translation",
         "Written materials should be available in their language",
         "They should just learn English",
         "Verbal communication is unnecessary"
@@ -4323,7 +4323,7 @@ export const questions = {
         "It wastes paper",
         "Some people may lack digital access or literacy",
         "Everyone prefers the same format",
-        "It's required by law in all cases"
+        "It\'s required by law in all cases"
       ],
       correct: "B"
     },
@@ -4367,7 +4367,7 @@ export const questions = {
         "Is the same in all cultures",
         "May be valued differently across cultures",
         "Should always be informal",
-        "Doesn't matter in healthcare"
+        "Doesn\'t matter in healthcare"
       ],
       correct: "B"
     },
@@ -4420,7 +4420,7 @@ export const questions = {
       question: "Psychological factors in cultural assessment include:",
       options: [
         "Only mental health diagnosis",
-        "Patient's response to the healthcare system and relationships with other cultures",
+        "Patient\'s response to the healthcare system and relationships with other cultures",
         "Just stress levels",
         "Only anxiety measures"
       ],
@@ -4454,7 +4454,7 @@ export const questions = {
       options: [
         "Are completely separate",
         "Are intertwined",
-        "Don't matter",
+        "Don\'t matter",
         "Only work is important"
       ],
       correct: "B"
@@ -4508,7 +4508,7 @@ export const questions = {
       question: "Nutritional counseling should be provided:",
       options: [
         "Using only standard guidelines",
-        "Within the context of patient's cultural values and beliefs",
+        "Within the context of patient\'s cultural values and beliefs",
         "Ignoring cultural food practices",
         "With strict rules for everyone"
       ],
@@ -4531,8 +4531,8 @@ export const questions = {
       options: [
         "Should be ignored",
         "Must be identified and addressed",
-        "Are the patient's problem only",
-        "Don't exist"
+        "Are the patient\'s problem only",
+        "Don\'t exist"
       ],
       correct: "B"
     },
@@ -4639,7 +4639,7 @@ export const questions = {
       id: 14396,
       question: "Telephonic and video remote interpreting services:",
       options: [
-        "Don't exist",
+        "Don\'t exist",
         "Are available in some geographic areas",
         "Are inferior to no interpreter",
         "Should never be used"
@@ -4659,7 +4659,7 @@ export const questions = {
     },
     {
       id: 14398,
-      question: "Reflecting on one's own culture and biases:",
+      question: "Reflecting on one\'s own culture and biases:",
       options: [
         "Is unnecessary for providers",
         "Can impact effectiveness as a healthcare provider",
@@ -4681,7 +4681,7 @@ export const questions = {
     },
     {
       id: 14400,
-      question: "Demonstrating knowledge of patient's cultural practices should occur:",
+      question: "Demonstrating knowledge of patient\'s cultural practices should occur:",
       options: [
         "Never",
         "Throughout each interaction",

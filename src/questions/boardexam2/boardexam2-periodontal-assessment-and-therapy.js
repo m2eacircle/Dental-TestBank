@@ -324,7 +324,7 @@ export const questions = {
       correct: "B"
     },
     {
-      question: "Which method is recommended for identifying the mucogingival junction when it's not clearly visible?",
+      question: "Which method is recommended for identifying the mucogingival junction when it\'s not clearly visible?",
       options: [
         "Use of disclosing solution",
         "Fold or wrinkle test with gentle pressure using a probe",
@@ -388,7 +388,7 @@ export const questions = {
       options: [
         "Resistance of tissues affected by inflammation level",
         "Diameter and standardization of probe marks",
-        "Color of the patient's teeth",
+        "Color of the patient\'s teeth",
         "Clinician errors in angulation and insertion",
       ],
       correct: "C"
@@ -489,7 +489,7 @@ export const questions = {
         "Amount of bleeding on probing",
         "Radiographic bone level (RBL) and clinical attachment loss",
         "Number of teeth present",
-        "Patient's age only",
+        "Patient\'s age only",
       ],
       correct: "B"
     },
@@ -524,7 +524,7 @@ export const questions = {
       correct: "B"
     },
     {
-      question: "When examining fremitus, how should the patient's head be positioned?",
+      question: "When examining fremitus, how should the patient\'s head be positioned?",
       options: [
         "Tilted back as far as possible",
         "Turned to the side",
@@ -855,7 +855,7 @@ export const questions = {
       question: "A 35-year-old patient presents with localized 6-7 mm pockets around tooth #30. You insert a furcation probe from the facial surface and it enters 4 mm horizontally between the roots but does not pass through to the lingual. How would you classify this furcation involvement?",
       options: [
         "Grade I - Early involvement with intact interradicular bone",
-        "Grade II - Moderate involvement, probe enters but doesn't pass through",
+        "Grade II - Moderate involvement, probe enters but doesn\'t pass through",
         "Grade III - Severe involvement, probe passes completely through",
         "Grade IV - Through-and-through involvement with gingival recession",
       ],
@@ -932,7 +932,7 @@ export const questions = {
       correct: "C"
     },
     {
-      question: "A 62-year-old patient's radiographs show a radiolucent area at the furcation of tooth #30. Clinically, you can insert a Nabers probe 3 mm into the furcation from the facial aspect, but the probe does not pass through to the lingual surface. What is the radiographic significance of furcation involvement at the level of interdental bone?",
+      question: "A 62-year-old patient\'s radiographs show a radiolucent area at the furcation of tooth #30. Clinically, you can insert a Nabers probe 3 mm into the furcation from the facial aspect, but the probe does not pass through to the lingual surface. What is the radiographic significance of furcation involvement at the level of interdental bone?",
       options: [
         "It confirms Grade I early furcation involvement only",
         "It rules out any significant periodontal bone loss",
@@ -982,7 +982,7 @@ export const questions = {
       correct: "B"
     },
     {
-      question: "A 58-year-old patient's radiographs show that the crestal lamina dura between teeth #29 and #30 appears indistinct, irregular, and radiolucent rather than the normal continuous white radiopaque line. What does this radiographic finding indicate?",
+      question: "A 58-year-old patient\'s radiographs show that the crestal lamina dura between teeth #29 and #30 appears indistinct, irregular, and radiolucent rather than the normal continuous white radiopaque line. What does this radiographic finding indicate?",
       options: [
         "Normal variation in bone density requiring no treatment",
         "Artifact from improper radiographic angulation during exposure",
@@ -1022,12 +1022,12 @@ export const questions = {
       correct: "B"
     },
     {
-      question: "A 49-year-old patient's radiographs show gross calculus deposits on the proximal surfaces of the mandibular anterior teeth. However, you know that radiographs have limited value for complete calculus detection. What is the MOST appropriate method for thorough calculus detection?",
+      question: "A 49-year-old patient\'s radiographs show gross calculus deposits on the proximal surfaces of the mandibular anterior teeth. However, you know that radiographs have limited value for complete calculus detection. What is the MOST appropriate method for thorough calculus detection?",
       options: [
         "Taking additional radiographs at different angles",
         "Using only visual examination with adequate lighting",
         "Performing clinical assessment with an explorer",
-        "Relying on the patient's report of rough areas",
+        "Relying on the patient\'s report of rough areas",
       ],
       correct: "C"
     },
@@ -1062,7 +1062,7 @@ export const questions = {
       correct: "C"
     },
     {
-      question: "You are about to perform a comprehensive periodontal examination on a new patient. You reviewed the patient's medical history, which indicates they had a hip replacement 1 year ago and are currently healthy. According to the American Academy of Periodontology's Parameter on Comprehensive Periodontal Examination, when might this patient need antibiotic prophylaxis?",
+      question: "You are about to perform a comprehensive periodontal examination on a new patient. You reviewed the patient\'s medical history, which indicates they had a hip replacement 1 year ago and are currently healthy. According to the American Academy of Periodontology\'s Parameter on Comprehensive Periodontal Examination, when might this patient need antibiotic prophylaxis?",
       options: [
         "Always before any periodontal examination or instrumentation",
         "Only if the patient has a history of infective endocarditis",
@@ -1132,7 +1132,7 @@ export const questions = {
       correct: "C"
     },
     {
-      question: "You are documenting findings from a comprehensive examination in a patient's permanent record. The patient has Stage III periodontitis with several modifiable risk factors including smoking and poorly controlled diabetes. What is essential to document regarding risk factors?",
+      question: "You are documenting findings from a comprehensive examination in a patient\'s permanent record. The patient has Stage III periodontitis with several modifiable risk factors including smoking and poorly controlled diabetes. What is essential to document regarding risk factors?",
       options: [
         "Only non-modifiable risk factors like age and genetics",
         "Modifiable risk factors to consider in treatment planning",
@@ -1202,7 +1202,7 @@ export const questions = {
       correct: "C"
     },
     {
-      question: "You are examining a patient and reviewing bitewing radiographs that show moderate bone loss. However, you notice the bone level measurements from the radiographs don't match the clinical probing depths. What is an important factor to remember about radiographic bone level assessment?",
+      question: "You are examining a patient and reviewing bitewing radiographs that show moderate bone loss. However, you notice the bone level measurements from the radiographs don\'t match the clinical probing depths. What is an important factor to remember about radiographic bone level assessment?",
       options: [
         "Radiographs always show more bone loss than clinical examination",
         "Radiographic bone level may underestimate actual bone destruction",
@@ -1226,7 +1226,7 @@ export const questions = {
       options: [
         "Presence of supragingival calculus deposits",
         "Absence of attached gingiva in the area",
-        "Patient's age over 40 years old",
+        "Patient\'s age over 40 years old",
         "History of orthodontic treatment as a teenager",
       ],
       correct: "B"
@@ -1272,7 +1272,7 @@ export const questions = {
       correct: "B"
     },
     {
-      question: "A 44-year-old patient's radiographs show a uniform pattern of bone loss where the crestal bone is parallel to lines connecting the CEJs of adjacent teeth throughout the mouth. The bone loss appears consistent between all teeth. What type of bone loss pattern and extent is present?",
+      question: "A 44-year-old patient\'s radiographs show a uniform pattern of bone loss where the crestal bone is parallel to lines connecting the CEJs of adjacent teeth throughout the mouth. The bone loss appears consistent between all teeth. What type of bone loss pattern and extent is present?",
       options: [
         "Localized angular bone loss affecting fewer than 30% of sites",
         "Generalized vertical bone loss with crater formation",
@@ -1352,7 +1352,7 @@ export const questions = {
       correct: "B"
     },
     {
-      question: "You are examining a 58-year-old patient's maxillary first premolar. You know this tooth can have furcation involvement, but the radiograph doesn't show it clearly. Why is it difficult to detect furcation involvement on maxillary first premolars using radiographs?",
+      question: "You are examining a 58-year-old patient\'s maxillary first premolar. You know this tooth can have furcation involvement, but the radiograph doesn\'t show it clearly. Why is it difficult to detect furcation involvement on maxillary first premolars using radiographs?",
       options: [
         "The furcation is located too far apically to be visible",
         "The roots are superimposed with correct vertical and horizontal angulation",
@@ -1392,7 +1392,7 @@ export const questions = {
       correct: "C"
     },
     {
-      question: "A 46-year-old patient presents with chief complaint of \"loose teeth.\" During mobility examination, you stabilize the patient's head to ensure accurate assessment. Why is it important to stabilize the head during tooth mobility determination?",
+      question: "A 46-year-old patient presents with chief complaint of \"loose teeth.\" During mobility examination, you stabilize the patient\'s head to ensure accurate assessment. Why is it important to stabilize the head during tooth mobility determination?",
       options: [
         "To prevent the patient from moving away from the instruments",
         "To allow better visibility of the tooth being examined",
@@ -1422,7 +1422,7 @@ export const questions = {
       correct: "B"
     },
     {
-      question: "A 54-year-old patient's radiographs show widening of the periodontal ligament space around several teeth. You know this can occur in different patterns depending on the disease involvement. When the periodontal ligament space shows widening along an entire side of the root to the apex, what does this indicate?",
+      question: "A 54-year-old patient\'s radiographs show widening of the periodontal ligament space around several teeth. You know this can occur in different patterns depending on the disease involvement. When the periodontal ligament space shows widening along an entire side of the root to the apex, what does this indicate?",
       options: [
         "Normal anatomic variation requiring no treatment",
         "Occlusal trauma limited to the coronal third",
@@ -1482,7 +1482,7 @@ export const questions = {
       correct: "C"
     },
     {
-      question: "A 44-year-old patient's radiographs show radiolucent areas at the furcations of mandibular molars. You perform clinical examination using a Nabers furcation probe to confirm the involvement. What radiographic appearance indicates furcation involvement?",
+      question: "A 44-year-old patient\'s radiographs show radiolucent areas at the furcations of mandibular molars. You perform clinical examination using a Nabers furcation probe to confirm the involvement. What radiographic appearance indicates furcation involvement?",
       options: [
         "Radiopaque area between the roots",
         "Radiolucent area in the furcation region",
@@ -1536,7 +1536,7 @@ export const questions = {
       options: [
         "To prevent the patient from swallowing excess saliva",
         "To facilitate a thorough and more accurate examination",
-        "To reduce the patient's anxiety during the procedure",
+        "To reduce the patient\'s anxiety during the procedure",
         "To test for tooth sensitivity before treatment",
       ],
       correct: "B"
@@ -1552,7 +1552,7 @@ export const questions = {
       correct: "C"
     },
     {
-      question: "A patient's radiographs from 3 years ago show bone levels 2 mm from the CEJ. Current radiographs show bone levels 5 mm from the CEJ. Clinically, there is generalized inflammation with bleeding on probing. What does the comparison of radiographs over time reveal?",
+      question: "A patient\'s radiographs from 3 years ago show bone levels 2 mm from the CEJ. Current radiographs show bone levels 5 mm from the CEJ. Clinically, there is generalized inflammation with bleeding on probing. What does the comparison of radiographs over time reveal?",
       options: [
         "Stable periodontal condition with no disease progression",
         "Evidence of periodontal disease progression with bone loss",
@@ -1572,7 +1572,7 @@ export const questions = {
       correct: "B"
     },
     {
-      question: "During examination of a 60-year-old patient with type 2 diabetes, you are discussing modifiable risk factors. The patient's A1c is 8.5% and they have Stage III periodontitis. What is the significance of identifying modifiable risk factors during examination?",
+      question: "During examination of a 60-year-old patient with type 2 diabetes, you are discussing modifiable risk factors. The patient\'s A1c is 8.5% and they have Stage III periodontitis. What is the significance of identifying modifiable risk factors during examination?",
       options: [
         "Risk factors should be documented but not addressed in treatment",
         "Only the dentist can discuss risk factors with patients",
@@ -2106,7 +2106,7 @@ export const questions = {
     {
       question: "What type of explorer is recommended for assessing root debridement in furcations?",
       options: [
-        "Shepherd's hook explorer for accessibility",
+        "Shepherd\'s hook explorer for accessibility",
         "Straight explorer for direct access",
         "ODU 11/12 explorer for concavities",
         "Pigtail explorer for pocket depths",
@@ -2246,7 +2246,7 @@ export const questions = {
     {
       question: "Why is it important to review radiographic findings before instrumentation?",
       options: [
-        "To determine the patient's insurance coverage",
+        "To determine the patient\'s insurance coverage",
         "To identify anatomic features and bone levels",
         "To assess the quality of previous radiographs",
         "To schedule future radiographic appointments",
@@ -2256,7 +2256,7 @@ export const questions = {
     {
       question: "What should be kept within view throughout the treatment appointment?",
       options: [
-        "The patient's insurance information",
+        "The patient\'s insurance information",
         "Radiographs and periodontal charting",
         "Office policy and procedure manual",
         "Product information for local delivery agents",
@@ -2306,9 +2306,9 @@ export const questions = {
     {
       question: "What factors determine the number of appointments needed for periodontal debridement?",
       options: [
-        "Only the patient's insurance coverage limits",
+        "Only the patient\'s insurance coverage limits",
         "Extent of periodontal involvement, calculus distribution, and biofilm control adequacy",
-        "Clinician's preference for scheduling",
+        "Clinician\'s preference for scheduling",
         "Office policy on appointment length",
       ],
       correct: "B"
@@ -2338,8 +2338,8 @@ export const questions = {
       options: [
         "Blood type compatibility with treatment",
         "Systemic implications of acute inflammatory response",
-        "Patient's height and weight",
-        "Patient's occupation and work schedule",
+        "Patient\'s height and weight",
+        "Patient\'s occupation and work schedule",
       ],
       correct: "B"
     },
@@ -2348,7 +2348,7 @@ export const questions = {
       options: [
         "The distance the patient travels to the office",
         "The relative ease of instrument insertion to pocket base",
-        "The patient's ability to pay",
+        "The patient\'s ability to pay",
         "The availability of parking",
       ],
       correct: "B"
@@ -2389,7 +2389,7 @@ export const questions = {
         "Complete elimination is impossible",
         "Decrease to a level consistent with health",
         "Biofilm is beneficial and should increase",
-        "Biofilm levels don't affect treatment outcomes",
+        "Biofilm levels don\'t affect treatment outcomes",
       ],
       correct: "B"
     },
@@ -2404,7 +2404,7 @@ export const questions = {
       correct: "C"
     },
     {
-      question: "What is the patient's role in maintaining periodontal health following treatment?",
+      question: "What is the patient\'s role in maintaining periodontal health following treatment?",
       options: [
         "Passive recipient of professional care only",
         "Assumption of co-therapist role with daily biofilm control",
@@ -2466,7 +2466,7 @@ export const questions = {
     {
       question: "What determines the periodontal maintenance interval after therapy?",
       options: [
-        "Only the dentist's schedule availability",
+        "Only the dentist\'s schedule availability",
         "Soft-tissue response, risk factors, and biofilm control effectiveness",
         "The day of the week preferred by patient",
         "Insurance coverage limitations only",
@@ -2476,10 +2476,10 @@ export const questions = {
     {
       question: "What psychosocial factors can impact periodontal maintenance?",
       options: [
-        "Patient's favorite color preferences",
+        "Patient\'s favorite color preferences",
         "Stress and mental health issues affecting oral self-care",
-        "Patient's height and weight",
-        "Patient's marital status",
+        "Patient\'s height and weight",
+        "Patient\'s marital status",
       ],
       correct: "B"
     },
@@ -2537,7 +2537,7 @@ export const questions = {
       question: "What is the purpose of a follow-up phone call or text after treatment?",
       options: [
         "To collect payment information",
-        "To check on patient's condition and build trust",
+        "To check on patient\'s condition and build trust",
         "To schedule additional unnecessary appointments",
         "To market additional services",
       ],
@@ -2649,7 +2649,7 @@ export const questions = {
         "Reuse it on other patients",
         "Discard it",
         "Sterilize it for future use",
-        "Store it in patient's chart",
+        "Store it in patient\'s chart",
       ],
       correct: "B"
     },
@@ -2778,7 +2778,7 @@ export const questions = {
       options: [
         "To provide lighting for visibility",
         "To capture aerosols near the source",
-        "To suction the patient's saliva",
+        "To suction the patient\'s saliva",
         "To cool the handpiece",
       ],
       correct: "B"
@@ -2829,7 +2829,7 @@ export const questions = {
         "With dry gauze only",
         "With moistened gauze periodically",
         "By soaking in alcohol",
-        "By wiping on patient's bib",
+        "By wiping on patient\'s bib",
       ],
       correct: "B"
     },
@@ -3694,10 +3694,10 @@ export const questions = {
     {
       question: "When determining the periodontal maintenance interval following NSPT, which factor is MOST important to consider?",
       options: [
-        "The patient's insurance coverage and financial resources",
-        "The number of teeth present in the patient's mouth",
-        "The dental office's schedule availability for appointments",
-        "The patient's risk factors and effectiveness of biofilm control",
+        "The patient\'s insurance coverage and financial resources",
+        "The number of teeth present in the patient\'s mouth",
+        "The dental office\'s schedule availability for appointments",
+        "The patient\'s risk factors and effectiveness of biofilm control",
       ],
       correct: "D"
     },
@@ -3734,7 +3734,7 @@ export const questions = {
     {
       question: "During definitive nonsurgical periodontal therapy, which factor affects the decision between quadrant versus sextant approach?",
       options: [
-        "The patient's gender and age demographics",
+        "The patient\'s gender and age demographics",
         "Whether the patient has dental insurance coverage",
         "The brand of instruments available in the office",
         "What can be completed and tolerated during one appointment",
@@ -3762,7 +3762,7 @@ export const questions = {
       correct: "B"
     },
     {
-      question: "A patient's periodontal charting shows varying probing depths around each tooth. What is the PRIMARY purpose of reviewing this charting during treatment?",
+      question: "A patient\'s periodontal charting shows varying probing depths around each tooth. What is the PRIMARY purpose of reviewing this charting during treatment?",
       options: [
         "To determine appropriate local anesthetic dosage required",
         "To calculate the total number of surfaces with calculus",
@@ -3935,7 +3935,7 @@ export const questions = {
       question: "When using subgingival air polishing with a periodontal nozzle in a 6 mm pocket, what is the appropriate activation time per site?",
       options: [
         "Continuously for 30 seconds for maximum effect",
-        "Time doesn't matter as glycine powder is completely safe",
+        "Time doesn\'t matter as glycine powder is completely safe",
         "Activate for 15 seconds in each pocket quadrant",
         "Press pedal for no longer than 5 seconds per site",
       ],
@@ -4022,7 +4022,7 @@ export const questions = {
       correct: "D"
     },
     {
-      question: "A patient's dental biofilm control record at re-evaluation approaches 100% biofilm-free. What does this indicate?",
+      question: "A patient\'s dental biofilm control record at re-evaluation approaches 100% biofilm-free. What does this indicate?",
       options: [
         "This represents excellent patient compliance and technique",
         "The patient is using too much force and damaging tissues",
@@ -4135,7 +4135,7 @@ export const questions = {
       question: "When placing minocycline HCl microspheres, how should the cartridge tip be positioned?",
       options: [
         "Perpendicular to the tooth surface at 90 degrees",
-        "Tip position doesn't affect product placement",
+        "Tip position doesn\'t affect product placement",
         "At 45 degrees away from the gingival margin",
         "Parallel to the long axis of the tooth",
       ],
@@ -4347,7 +4347,7 @@ export const questions = {
         "Overwhelming patient with too many aids initially",
         "Discussing any biofilm control techniques",
         "Demonstrating proper brushing technique",
-        "Assessing patient's current oral hygiene status",
+        "Assessing patient\'s current oral hygiene status",
       ],
       correct: "A"
     },
@@ -4417,7 +4417,7 @@ export const questions = {
         "Calculus is the only cause of periodontal disease",
         "Periodontal disease cannot be controlled or prevented",
         "Professional cleaning is sufficient without home care",
-        "Dental biofilm's significance in periodontal infection",
+        "Dental biofilm\'s significance in periodontal infection",
       ],
       correct: "D"
     },
@@ -4446,7 +4446,7 @@ export const questions = {
       options: [
         "No future appointments are ever needed after treatment",
         "Only professional treatment matters, not home care",
-        "Patient's responsibility in maintenance is critical for therapeutic gains",
+        "Patient\'s responsibility in maintenance is critical for therapeutic gains",
         "Maintenance appointments can be skipped without consequence",
       ],
       correct: "C"
@@ -4678,7 +4678,7 @@ export const questions = {
       options: [
         "For billing and insurance documentation purposes",
         "To ensure all sutures were removed to prevent infection",
-        "To evaluate the surgeon's placement technique",
+        "To evaluate the surgeon\'s placement technique",
         "To determine if additional sutures are needed",
       ],
       correct: "B"
@@ -4906,10 +4906,10 @@ export const questions = {
     {
       question: "What information must be documented at the time of surgical treatment?",
       options: [
-        "Patient's insurance information only",
+        "Patient\'s insurance information only",
         "Vital signs, anesthesia, sutures, dressing, and instructions",
         "Only the type of surgery performed",
-        "Patient's oral hygiene score",
+        "Patient\'s oral hygiene score",
       ],
       correct: "B"
     },
@@ -4958,7 +4958,7 @@ export const questions = {
       options: [
         "Characteristics of the tissue",
         "Preference and experience of the surgeon",
-        "The patient's favorite color",
+        "The patient\'s favorite color",
         "Cosmetic implications",
       ],
       correct: "C"
@@ -5138,7 +5138,7 @@ export const questions = {
       options: [
         "Only whether bleeding occurred",
         "The appearance of tissue and any deviations from normal healing",
-        "Only the patient's pain level",
+        "Only the patient\'s pain level",
         "Just the date and time of removal",
       ],
       correct: "B"
@@ -5614,7 +5614,7 @@ export const questions = {
       correct: "B"
     },
     {
-      question: "CASE STUDY 20: A 56-year-old patient with a history of rheumatic heart disease presents for suture removal 7 days after periodontal surgery. The dental hygienist is reviewing the patient's medical history before the appointment. What is the MOST important consideration for this patient regarding suture removal?",
+      question: "CASE STUDY 20: A 56-year-old patient with a history of rheumatic heart disease presents for suture removal 7 days after periodontal surgery. The dental hygienist is reviewing the patient\'s medical history before the appointment. What is the MOST important consideration for this patient regarding suture removal?",
       options: [
         "Suture removal never causes bacteremia and requires no special precautions for any patient",
         "Patients with valvular heart disease require consultation with their cardiologist before suture removal",
@@ -5628,7 +5628,7 @@ export const questions = {
       options: [
         "Periodontal dressings have been proven to prevent wound infection and enhance healing significantly",
         "Periodontal dressings are required by standard of care and must be used after every surgical procedure",
-        "Periodontal dressing use is based on clinician preference; evidence doesn't support infection prevention",
+        "Periodontal dressing use is based on clinician preference; evidence doesn\'t support infection prevention",
         "Periodontal dressings permanently protect the wound from bacteria for up to 6 weeks after surgery",
       ],
       correct: "C"
@@ -5714,7 +5714,7 @@ export const questions = {
       correct: "B"
     },
     {
-      question: "CASE STUDY 30: A 48-year-old patient had periodontal surgery with dressing placement yesterday. The patient calls reporting that a small piece of dressing has chipped off but the majority remains in place. What is the MOST appropriate response to this patient's concern about the chipped dressing?",
+      question: "CASE STUDY 30: A 48-year-old patient had periodontal surgery with dressing placement yesterday. The patient calls reporting that a small piece of dressing has chipped off but the majority remains in place. What is the MOST appropriate response to this patient\'s concern about the chipped dressing?",
       options: [
         "Small particles chipping off is not a problem unless sharp edges irritate or dressing becomes loose",
         "The patient must return immediately to have the entire dressing replaced as soon as possible",
@@ -5804,7 +5804,7 @@ export const questions = {
       correct: "A"
     },
     {
-      question: "CASE STUDY 39: A 46-year-old patient's periodontal dressing became dislodged on day 3 after surgery. The patient calls the office asking whether replacement is necessary. The tissue appears to be healing normally. What is the MOST appropriate recommendation when a dressing is dislodged after 4-5 days?",
+      question: "CASE STUDY 39: A 46-year-old patient\'s periodontal dressing became dislodged on day 3 after surgery. The patient calls the office asking whether replacement is necessary. The tissue appears to be healing normally. What is the MOST appropriate recommendation when a dressing is dislodged after 4-5 days?",
       options: [
         "Replacement is always mandatory regardless of how many days have passed since surgery",
         "If the dressing remained intact for 4-5 days, replacement may not be necessary",
@@ -5864,17 +5864,17 @@ export const questions = {
       correct: "A"
     },
     {
-      question: "CASE STUDY 45: A dental hygienist is documenting a periodontal surgical procedure in the patient's record. The procedure included local anesthesia, flap surgery, suture placement, and dressing placement. Which element is MOST critical to document regarding suture placement in the patient record?",
+      question: "CASE STUDY 45: A dental hygienist is documenting a periodontal surgical procedure in the patient\'s record. The procedure included local anesthesia, flap surgery, suture placement, and dressing placement. Which element is MOST critical to document regarding suture placement in the patient record?",
       options: [
-        "The cost of suture material and the specific manufacturer's catalog number for inventory purposes",
+        "The cost of suture material and the specific manufacturer\'s catalog number for inventory purposes",
         "The specific type of suture material, location, and exact number of sutures that were placed",
-        "Only the surgeon's name; specific suture details are not necessary for the permanent record",
-        "The patient's opinion of the suture material based on their previous dental experiences",
+        "Only the surgeon\'s name; specific suture details are not necessary for the permanent record",
+        "The patient\'s opinion of the suture material based on their previous dental experiences",
       ],
       correct: "A"
     },
     {
-      question: "CASE STUDY 46: A dental hygienist is removing sutures and completing documentation. The surgeon's notes indicate 6 sutures were placed, but the hygienist can only locate and remove 5 sutures. What is the MOST appropriate action when the number of sutures removed doesn't match the number placed?",
+      question: "CASE STUDY 46: A dental hygienist is removing sutures and completing documentation. The surgeon\'s notes indicate 6 sutures were placed, but the hygienist can only locate and remove 5 sutures. What is the MOST appropriate action when the number of sutures removed doesn\'t match the number placed?",
       options: [
         "Document that five sutures were removed and proceed with dismissing the patient immediately",
         "Carefully search for the missing suture as a remaining suture can cause infection or abscess",
@@ -5946,7 +5946,7 @@ export const questions = {
     {
       question: "CASE STUDY 53: A 62-year-old patient presents for dressing removal 10 days after surgery. The dental hygienist is preparing to examine the tissue after removing the dressing and sutures. What should the dental hygienist specifically observe and document after dressing and suture removal?",
       options: [
-        "Only the patient's satisfaction with the aesthetic outcome; tissue assessment is unnecessary after 10 days",
+        "Only the patient\'s satisfaction with the aesthetic outcome; tissue assessment is unnecessary after 10 days",
         "Tissue healing including color, size, shape, flap adaptation, and any deviations from expected healing",
         "Only the presence or absence of pain; visual tissue assessment is not required at this appointment",
         "The number of bacteria present using phase contrast microscopy before dismissing the patient",
@@ -6024,17 +6024,17 @@ export const questions = {
       correct: "C"
     },
     {
-      question: "CASE STUDY 61: A dental hygienist is documenting vital signs before a surgical procedure. The hygienist understands the importance of complete preoperative documentation. Which elements must be documented in the patient's permanent record at the time of surgical treatment?",
+      question: "CASE STUDY 61: A dental hygienist is documenting vital signs before a surgical procedure. The hygienist understands the importance of complete preoperative documentation. Which elements must be documented in the patient\'s permanent record at the time of surgical treatment?",
       options: [
-        "Only the patient's chief complaint and the specific teeth involved in the surgical procedure",
+        "Only the patient\'s chief complaint and the specific teeth involved in the surgical procedure",
         "Vital signs, anesthesia details, suture type/location/number, dressing type/area, and patient instructions",
-        "Only the surgeon's name and the date of the procedure for legal documentation purposes",
+        "Only the surgeon\'s name and the date of the procedure for legal documentation purposes",
         "Only complications that occurred; routine procedures require no documentation beyond the date",
       ],
       correct: "D"
     },
     {
-      question: "CASE STUDY 62: A patient who had surgery 5 days ago calls reporting slight discomfort around the dressing. The patient states the dressing is intact and there is no bleeding or swelling. What is the MOST appropriate response to this patient's report of slight discomfort?",
+      question: "CASE STUDY 62: A patient who had surgery 5 days ago calls reporting slight discomfort around the dressing. The patient states the dressing is intact and there is no bleeding or swelling. What is the MOST appropriate response to this patient\'s report of slight discomfort?",
       options: [
         "Slight discomfort is not unusual; recommend taking prescribed pain medication as directed and monitoring",
         "Any discomfort indicates infection; patient must come to office immediately for antibiotic prescription",
@@ -6054,7 +6054,7 @@ export const questions = {
       correct: "D"
     },
     {
-      question: "CASE STUDY 64: A periodontist is discussing suture material selection with a new associate. They are reviewing the physical characteristics that affect suture performance during surgery. Which physical characteristic describes a suture material's ability to twist and tie a knot without breaking?",
+      question: "CASE STUDY 64: A periodontist is discussing suture material selection with a new associate. They are reviewing the physical characteristics that affect suture performance during surgery. Which physical characteristic describes a suture material\'s ability to twist and tie a knot without breaking?",
       options: [
         "Tensile strength is the property that allows knotting without breaking the suture material",
         "Plasticity is the ability to maintain a new shape after knotting has been completed",
@@ -6174,7 +6174,7 @@ export const questions = {
       correct: "D"
     },
     {
-      question: "CASE STUDY 76: A dental hygienist is preparing for a patient's suture removal appointment. The hygienist reviews the chart and notes the patient has a history of excessive bleeding during dental procedures. What should the dental hygienist be prepared to do if bleeding occurs during suture removal?",
+      question: "CASE STUDY 76: A dental hygienist is preparing for a patient\'s suture removal appointment. The hygienist reviews the chart and notes the patient has a history of excessive bleeding during dental procedures. What should the dental hygienist be prepared to do if bleeding occurs during suture removal?",
       options: [
         "Apply high-speed suction continuously for 10 minutes to remove all blood from the oral cavity",
         "Apply gauze with slight pressure on any bleeding spots and observe before dismissing patient",
