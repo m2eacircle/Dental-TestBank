@@ -4503,6 +4503,1091 @@ export const questions = {
     }
   ],
   "1. Introduction and prevention (Part 4-2)": [
-        // questions
+    {
+      id: 72000,
+      question: "What should be monitored when a patient is taking omega-3 supplements?",
+      options: [
+        "Vital signs including blood pressure readings",
+        "Blood glucose levels to check metabolic function",
+        "Liver enzymes to assess organ function",
+        "Oxygen saturation levels during treatment"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72001,
+      question: "For patients taking blood thinners like Eliquis or warfarin, what level should be checked before dental treatment?",
+      options: [
+        "Hemoglobin levels to assess anemia",
+        "INR levels to assess bleeding risk",
+        "Platelet count for clotting ability",
+        "Blood glucose for metabolic status"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72002,
+      question: "What medication can help control profuse bleeding in patients on blood thinners?",
+      options: [
+        "Epinephrine to constrict blood vessels",
+        "Aspirin to promote clot formation",
+        "Hematin applied with cotton pliers",
+        "Nitroglycerin to improve circulation"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 72003,
+      question: "When is a medical consultation needed for a patient with anemia?",
+      options: [
+        "When anemia is well-controlled with medication",
+        "When patient has normal hemoglobin levels",
+        "When patient follows a vegetarian diet only",
+        "When patient was diagnosed but stopped taking medication"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 72004,
+      question: "If a patient without a history of hypertension has a blood pressure reading of 135/85, what should you do?",
+      options: [
+        "Retake the reading after 5 minutes",
+        "Immediately call emergency services for treatment",
+        "Proceed with treatment without any concerns",
+        "Dismiss the patient and refuse treatment"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72005,
+      question: "What is white coat syndrome?",
+      options: [
+        "Allergic reaction to dental materials or latex",
+        "Elevated blood pressure due to anxiety in medical settings",
+        "Low blood pressure from standing up quickly",
+        "Skin reaction to disinfectants or cleaning agents"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72006,
+      question: "For a patient with white coat syndrome showing elevated blood pressure, what should you do?",
+      options: [
+        "Refuse treatment and dismiss the patient immediately",
+        "Proceed with treatment ignoring the readings",
+        "Send medical consultation and possibly request physician's letter",
+        "Administer blood pressure medication in the office"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 72007,
+      question: "What three questions should you ask diabetic patients before dental treatment?",
+      options: [
+        "Diet preferences, medication type, insurance coverage",
+        "What is A1C, family history, exercise routine",
+        "Previous dental work, allergies, medical history",
+        "When was last meal, last medication, blood sugar level"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 72008,
+      question: "What should be available chairside for a diabetic patient experiencing hypoglycemia?",
+      options: [
+        "Glucose tablets or sugary drink",
+        "Insulin injection to regulate blood sugar",
+        "Protein bars for sustained energy",
+        "Water to prevent dehydration only"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72009,
+      question: "If a patient has a delayed allergic reaction after leaving the clinic, what should you advise?",
+      options: [
+        "Wait 24 hours to see if symptoms resolve",
+        "Take antihistamine and go to nearest walk-in clinic",
+        "Return to dental office for treatment immediately",
+        "Apply ice and monitor symptoms at home"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72010,
+      question: "When should asthmatic patients bring their inhalers to dental appointments?",
+      options: [
+        "Only if they've had an attack recently",
+        "Only for surgical procedures requiring anesthesia",
+        "Always, for every dental appointment",
+        "Never, as the clinic has emergency inhalers"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 72011,
+      question: "If an asthmatic patient didn't bring their inhaler, what questions should you ask?",
+      options: [
+        "Insurance coverage and payment method available",
+        "Family history and genetic predisposition",
+        "Dietary habits and exercise routine",
+        "When was last episode and what triggered it"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 72012,
+      question: "What should be documented if a patient previously fainted during dental treatment?",
+      options: [
+        "What happened and what triggered it",
+        "Only the date of the incident",
+        "Patient's current blood pressure only",
+        "Names of staff present during incident"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72013,
+      question: "Which anti-anxiety option can be offered to anxious patients during dental treatment?",
+      options: [
+        "Oral sedatives prescribed by the hygienist",
+        "Nitrous oxide if available in the practice",
+        "Over-the-counter sleeping pills before appointment",
+        "Muscle relaxants administered by dental assistant"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72014,
+      question: "What is the contraindication for using an EpiPen on a pregnant patient?",
+      options: [
+        "Permanent paralysis of lower extremities",
+        "Immediate allergic reaction to epinephrine",
+        "Possible premature labor or miscarriage",
+        "Severe hypertension requiring hospitalization"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 72015,
+      question: "What is the current guideline regarding lead aprons for dental radiographs?",
+      options: [
+        "Always required for all patients regardless",
+        "Only required for pediatric patients exclusively",
+        "Banned in all Canadian dental practices",
+        "Some studies suggest they may not be necessary"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 72016,
+      question: "When working with other hygienists with more experience, whose guidelines should you follow?",
+      options: [
+        "Your regulatory body (CDHO) standards",
+        "The most experienced hygienist's personal preferences",
+        "The dentist's individual practice protocols only",
+        "Whatever the majority of staff agrees upon"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72017,
+      question: "What is the blood pressure threshold above which you should not proceed with treatment?",
+      options: [
+        "Anything above 120/80 requires immediate referral",
+        "Approximately 170 systolic is generally considered too high",
+        "Any reading above 100/60 is dangerous",
+        "Only readings above 200/120 are concerning"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72018,
+      question: "If a patient on hypertension medication has very high blood pressure, what should you do?",
+      options: [
+        "Proceed with treatment and monitor closely",
+        "Give the patient water and recheck immediately",
+        "Stop treatment, refer to physician, wait for medication adjustment",
+        "Continue as planned but avoid local anesthetic"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 72019,
+      question: "When should a patient return after being referred for uncontrolled hypertension?",
+      options: [
+        "The next day after seeing physician",
+        "Immediately after physician appointment",
+        "After 6 months of medication compliance",
+        "After at least 1-2 weeks on medication"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 72020,
+      question: "What is the contraindication for nitroglycerin administration?",
+      options: [
+        "Sexual enhancement drugs taken within 24 hours",
+        "Patient has eaten within 2 hours",
+        "Patient is currently taking antibiotics",
+        "Patient has diabetes or hypoglycemia"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72021,
+      question: "How many nitroglycerin sprays can be given for angina?",
+      options: [
+        "1 spray total regardless of response",
+        "3 sprays with 5-minute intervals",
+        "5 sprays with 2-minute intervals",
+        "Unlimited until symptoms resolve completely"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72022,
+      question: "What is the shelf life of nitroglycerin after opening?",
+      options: [
+        "6 weeks from opening date",
+        "24 weeks from opening date",
+        "12 weeks from opening date",
+        "Nitroglycerin never expires once opened"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 72023,
+      question: "Can aspirin be given during a myocardial infarction (heart attack)?",
+      options: [
+        "No, aspirin is contraindicated completely",
+        "Only if patient requests it",
+        "Only if prescribed by cardiologist",
+        "Yes, aspirin can be administered"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 72024,
+      question: "What type of syncope occurs when a patient faints in the dental chair?",
+      options: [
+        "Vasodepressor syncope from anxiety or stress",
+        "Cardiac syncope from heart failure",
+        "Neurogenic syncope from brain damage",
+        "Metabolic syncope from electrolyte imbalance"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72025,
+      question: "For patients with epilepsy, what should be provided during treatment?",
+      options: [
+        "Bright overhead lights for visibility",
+        "Sunglasses to reduce light sensitivity",
+        "Ear plugs to block noise",
+        "Heavy blankets for comfort"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72026,
+      question: "Which dental procedures can trigger asthmatic episodes?",
+      options: [
+        "Taking medical history and vital signs",
+        "Manual toothbrushing and flossing only",
+        "Air polishing and aerosol-generating procedures",
+        "Taking impressions with alginate material"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 72027,
+      question: "What characterizes orthostatic hypotension?",
+      options: [
+        "Elevated blood pressure when lying down",
+        "Consistently high blood pressure regardless of position",
+        "Normal blood pressure with regular fluctuations",
+        "Blood pressure drop from sudden position changes"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 72028,
+      question: "Which patients are most at risk for orthostatic hypotension?",
+      options: [
+        "Elderly, pregnant, fasting, or hypertensive patients",
+        "Young athletes with excellent cardiovascular health",
+        "Children under 10 years old",
+        "Middle-aged patients with no medical conditions"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72029,
+      question: "What is the proper technique to prevent orthostatic hypotension?",
+      options: [
+        "Raise chair quickly to save time",
+        "Slowly raise chair and have patient sit before standing",
+        "Keep patient supine for entire appointment",
+        "Have patient stand immediately after treatment"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72030,
+      question: "For which condition should you NOT administer oxygen?",
+      options: [
+        "Syncope or fainting episode",
+        "Asthmatic attack or bronchospasm",
+        "Hyperventilation syndrome",
+        "Orthostatic hypotension or dizziness"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 72031,
+      question: "What is used to help a patient regain consciousness from syncope?",
+      options: [
+        "Cold water sprayed on face",
+        "Smelling salts placed in mouth",
+        "Epinephrine injection immediately",
+        "Ammonia capsule broken near nose"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 72032,
+      question: "How long should you wait before calling EMS if a patient remains unconscious?",
+      options: [
+        "Call after 15-20 minutes of unconsciousness",
+        "Wait 30 minutes to see improvement",
+        "Wait 1 hour before making decision",
+        "Never call EMS for simple syncope"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72033,
+      question: "What does ABC stand for in emergency assessment?",
+      options: [
+        "Alert, Breathing, Consciousness levels",
+        "Airway, Breathing, Circulation",
+        "Assess, Blood pressure, Call EMS",
+        "Anxiety, Baseline vitals, Consultation"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72034,
+      question: "When a patient has profuse bleeding that won't stop with pressure, what action should you take besides using hematin?",
+      options: [
+        "Continue applying pressure indefinitely",
+        "Dismiss patient without further treatment",
+        "Find out INR levels and monitor closely",
+        "Apply ice packs to affected area"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 72035,
+      question: "If someone reports bruising easily or prolonged bleeding, what might this indicate?",
+      options: [
+        "Normal variation in healing time",
+        "Vitamin deficiency easily corrected",
+        "Anxiety-related psychosomatic symptoms",
+        "Bleeding issues requiring caution during procedures"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 72036,
+      question: "What should you do if ammonia capsules are needed for a syncopal episode?",
+      options: [
+        "Break capsule near patient's nose for 10-15 seconds",
+        "Place capsule directly in patient's mouth",
+        "Wave capsule rapidly around patient's head",
+        "Mix capsule contents with water"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72037,
+      question: "When working with diabetic patients, what should you document on their first visit?",
+      options: [
+        "Only current blood sugar reading",
+        "When last blood work was done and A1C levels",
+        "Family history of diabetes only",
+        "Current weight and BMI measurements"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72038,
+      question: "If an asthmatic patient was hospitalized for asthma one week ago, what should you do?",
+      options: [
+        "Proceed with all treatment as planned",
+        "Treat but avoid hand scaling only",
+        "Dismiss patient and request medical consultation",
+        "Continue with aerosol procedures cautiously"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 72039,
+      question: "What questions should you ask about an asthmatic patient's hospitalization?",
+      options: [
+        "Insurance coverage and hospital name",
+        "Length of hospital stay only",
+        "Names of treating physicians",
+        "Why hospitalized - severity or forgot inhaler"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 72040,
+      question: "For asthmatic patients, which procedures should be avoided after a mild episode?",
+      options: [
+        "Aerosol procedures, polishing, and fluoride varnish",
+        "All procedures must be postponed indefinitely",
+        "Hand scaling and probing only",
+        "Charting and medical history review"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72041,
+      question: "What position should an asthmatic patient be in during an attack?",
+      options: [
+        "Completely flat supine position",
+        "Upright sitting position",
+        "Side-lying position with legs elevated",
+        "Prone position face down"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72042,
+      question: "When is epinephrine (EpiPen) appropriate for an asthmatic patient?",
+      options: [
+        "For all asthma attacks regardless of severity",
+        "Never, as it's contraindicated for asthma",
+        "When allergic reaction signs accompany asthma symptoms",
+        "Only if patient specifically requests it"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 72043,
+      question: "How many doses of albuterol can be given before calling EMS?",
+      options: [
+        "1 dose only then call immediately",
+        "5 doses before considering EMS",
+        "Unlimited doses until symptoms improve",
+        "3 doses before escalating to emergency services"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 72044,
+      question: "What is the difference between short-acting and long-acting asthma inhalers?",
+      options: [
+        "Short-acting works faster; long-acting takes longer",
+        "Short-acting costs more than long-acting",
+        "Short-acting lasts longer than long-acting",
+        "There is no difference in mechanism"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72045,
+      question: "What should patients do with their asthma inhalers regarding dental appointments?",
+      options: [
+        "Leave inhalers at home to avoid contamination",
+        "Always bring inhalers and ensure they're not expired",
+        "Only bring inhalers if feeling symptoms",
+        "Replace inhalers monthly regardless of expiration"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72046,
+      question: "If a patient has an expired inhaler at their appointment, what should you assess?",
+      options: [
+        "Proceed without any concerns or documentation",
+        "Patient's insurance coverage for new inhaler",
+        "When last used, what triggered episodes, seasonal patterns",
+        "Brand and manufacturer of the inhaler"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 72047,
+      question: "What should every clinic have available for asthmatic emergencies?",
+      options: [
+        "Only patient's personal inhaler",
+        "Long-acting inhalers for prevention",
+        "Oral corticosteroids for immediate use",
+        "Albuterol (rescue inhaler) in emergency kit"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 72048,
+      question: "Who can administer medication when a patient is conscious during an emergency?",
+      options: [
+        "Patient should self-administer; help bring it closer",
+        "Only licensed physicians present",
+        "Any dental team member can administer",
+        "Only the dentist can give medication"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72049,
+      question: "What is the EpiPen dosage for adults versus children?",
+      options: [
+        "0.15 for adults, 0.3 for children",
+        "0.3 for adults, 0.15 for children",
+        "0.5 for adults, 0.25 for children",
+        "Same dose of 0.2 for everyone"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72050,
+      question: "What phrase helps remember EpiPen administration technique?",
+      options: [
+        "\"Red to the head, blue to you\"",
+        "\"Orange up, blue down to ground\"",
+        "\"Blue to the sky, orange to the thigh\"",
+        "\"Blue to leg, orange to head\""
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 72051,
+      question: "During a seizure, what should you do with instruments and sharp objects?",
+      options: [
+        "Leave everything in place for quick access",
+        "Hand instruments to the patient",
+        "Place instruments closer for emergency use",
+        "Move away all sharps and instrument trays"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 72052,
+      question: "When should you gently hold a patient having a seizure?",
+      options: [
+        "If they're moving violently and could injure themselves",
+        "Never touch a patient during seizure",
+        "Always restrain patient throughout seizure",
+        "Only if patient specifically requested it beforehand"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72053,
+      question: "What should be monitored when administering oxygen to a patient?",
+      options: [
+        "Room temperature and humidity levels",
+        "Pulse using pulse oximeter",
+        "Blood glucose levels continuously",
+        "Dental chair position only"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72054,
+      question: "When should you take blood pressure readings for patients with white coat syndrome?",
+      options: [
+        "Only once at the beginning",
+        "Every 5 minutes throughout appointment",
+        "Before and after the appointment",
+        "Never, as readings will be inaccurate"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 72055,
+      question: "What makes you an autonomous, self-regulating professional in dental hygiene?",
+      options: [
+        "Years of experience working in practice",
+        "Approval from the dentist for decisions",
+        "Following senior hygienists' personal preferences",
+        "Ability to make independent clinical decisions following regulations"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 72056,
+      question: "Why is it important to have a witness when a patient goes unconscious?",
+      options: [
+        "To protect against potential legal issues or accusations",
+        "To help with treatment procedures",
+        "To call the patient's family members",
+        "To operate emergency equipment properly"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72057,
+      question: "What should you do the day after a patient had a medical emergency in your chair?",
+      options: [
+        "Wait for patient to contact you",
+        "Follow up to check if patient is okay",
+        "Send a bill for services rendered",
+        "Report incident to dental association"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72058,
+      question: "What should you do if cotton rolls or dry angles get stuck to tissue?",
+      options: [
+        "Pull forcefully to remove quickly",
+        "Leave them attached permanently",
+        "Moisten with water or saliva to soften",
+        "Cut tissue to release material"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 72059,
+      question: "Why can't you use wet cotton rolls during fluoride application?",
+      options: [
+        "They improve fluoride absorption",
+        "Wet cotton is more comfortable",
+        "Water enhances fluoride effectiveness",
+        "They will remove the fluoride"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 72060,
+      question: "What is the purpose of making a cup with hands during hyperventilation?",
+      options: [
+        "To help patient rebreathe own CO2 and calm down",
+        "To collect exhaled carbon dioxide",
+        "To catch vomit if patient nauseated",
+        "To measure respiratory rate accurately"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72061,
+      question: "What does ASA classification system assess?",
+      options: [
+        "Allergy severity and anaphylaxis risk",
+        "Patient's medical status and difficulty level",
+        "Anxiety levels before dental procedures",
+        "Ability to pay for dental treatment"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72062,
+      question: "What characterizes an ASA 1 patient?",
+      options: [
+        "Multiple chronic medical conditions requiring management",
+        "Severe systemic disease affecting daily life",
+        "Normal healthy patient free of medical conditions",
+        "Patient requiring hospitalization for dental care"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 72063,
+      question: "What characterizes an ASA 2 patient?",
+      options: [
+        "Severe uncontrolled medical conditions",
+        "Incapacitating disease threatening life",
+        "Normal healthy patient with no conditions",
+        "Mild systemic disease that is controlled"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 72064,
+      question: "What characterizes an ASA 3 patient?",
+      options: [
+        "Normal healthy patient needing routine care",
+        "Patient in constant threat to life",
+        "Brain dead patient declared deceased",
+        "Severe systemic disease that is poorly controlled"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 72065,
+      question: "For ASA 3 patients, what type of review is needed?",
+      options: [
+        "No review necessary for treatment",
+        "Automatic denial of all dental treatment",
+        "Case-by-case review with possible medical consultation",
+        "Emergency hospitalization before any care"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 72066,
+      question: "What treatment modifications might ASA 3 patients require?",
+      options: [
+        "No modifications needed for treatment",
+        "Treatment only in hospital setting",
+        "Referral to specialist for all care",
+        "Prophylactic antibiotics, sedation, shorter appointments"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 72067,
+      question: "What characterizes an ASA 4 patient?",
+      options: [
+        "Incapacitating systemic disease threatening life",
+        "Mild medical conditions well-controlled",
+        "Normal patient with dental anxiety",
+        "Healthy patient requiring routine care"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72068,
+      question: "For ASA 4 patients, what type of treatment is recommended?",
+      options: [
+        "All invasive procedures in office setting",
+        "Non-invasive treatment only; hospital for emergency care",
+        "Treatment without any special precautions",
+        "Refuse all treatment permanently"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72069,
+      question: "In private practice, which ASA classifications will you most commonly see?",
+      options: [
+        "ASA 5 and ASA 6 only",
+        "Only ASA 4 patients",
+        "ASA 1, ASA 2, and ASA 3",
+        "ASA E emergency cases exclusively"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 72070,
+      question: "What does hyperglycemia mean?",
+      options: [
+        "Blood sugar level is too low",
+        "Normal blood sugar fluctuation",
+        "Absence of glucose in blood",
+        "Blood sugar level is too high"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 72071,
+      question: "What does hypoglycemia mean?",
+      options: [
+        "Blood sugar level is too low",
+        "Blood sugar level is too high",
+        "Stable blood sugar levels",
+        "Glucose intolerance condition"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72072,
+      question: "What is the treatment for hypoglycemia in a conscious patient?",
+      options: [
+        "Insulin injection immediately",
+        "Glucose or sugar drinks (liquid preferred)",
+        "Water and rest only",
+        "Protein-rich solid foods"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72073,
+      question: "Why are liquid sugar sources preferred for hypoglycemia?",
+      options: [
+        "They taste better than solid forms",
+        "They are cheaper than other options",
+        "They work faster and require less energy to absorb",
+        "They last longer in emergency kits"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 72074,
+      question: "Which instrument has a proper administration technique of \"blue to the sky, orange to the thigh\"?",
+      options: [
+        "Nitroglycerin spray for angina",
+        "Albuterol inhaler for asthma",
+        "Glucose meter for diabetes",
+        "EpiPen auto-injector for anaphylaxis"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 72075,
+      question: "What should you always have in your emergency kit for asthmatic patients?",
+      options: [
+        "Albuterol rescue inhaler",
+        "Long-acting preventive inhalers",
+        "Oral corticosteroid tablets",
+        "Nebulizer machine for aerosol delivery"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72076,
+      question: "When administering nitroglycerin for angina, what is the maximum number of doses?",
+      options: [
+        "1 dose then call EMS immediately",
+        "3 doses with 5-minute intervals between",
+        "5 doses within 10 minutes",
+        "Unlimited until pain subsides"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72077,
+      question: "What is the primary concern when a pregnant patient needs an EpiPen?",
+      options: [
+        "Allergic reaction to epinephrine itself",
+        "Permanent damage to cardiovascular system",
+        "Possible premature labor or miscarriage",
+        "Immediate hypertensive crisis requiring hospitalization"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 72078,
+      question: "If a patient's blood pressure is 145/90 and they report white coat syndrome, what should you do?",
+      options: [
+        "Dismiss patient immediately without treatment",
+        "Proceed with treatment without concerns",
+        "Request physician's letter and send consultation",
+        "Administer antihypertensive medication"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 72079,
+      question: "Which medication should NOT be administered during hyperventilation syndrome?",
+      options: [
+        "Glucose for energy",
+        "Aspirin for pain",
+        "Nitroglycerin for chest pain",
+        "Oxygen therapy"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 72080,
+      question: "What is the correct phrase for remembering how to check ABCs during an emergency?",
+      options: [
+        "Airway, Breathing, Circulation",
+        "Alert, Blood pressure, Consciousness",
+        "Assess, Breathing, Call for help",
+        "Anxiety, Baseline vitals, Consult physician"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72081,
+      question: "When should CPR certification be refreshed according to CDHO guidelines?",
+      options: [
+        "Every 2 years matching certification expiry",
+        "Every year regardless of certification expiry",
+        "Every 5 years with full recertification",
+        "Only when certification officially expires"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72082,
+      question: "What position should a patient be in when experiencing orthostatic hypotension?",
+      options: [
+        "Standing upright to improve circulation",
+        "Supine with feet slightly elevated",
+        "Sitting upright at 90 degrees",
+        "Side-lying to prevent aspiration"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72083,
+      question: "What is the first step when a patient experiences profuse bleeding on anticoagulants?",
+      options: [
+        "Call EMS immediately",
+        "Apply hematin and pressure",
+        "Check INR levels",
+        "Administer vitamin K"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72084,
+      question: "Patients taking omega-3 supplements should have their vital signs monitored even without hypertension.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72085,
+      question: "Baby aspirin requires INR level monitoring before dental procedures.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72086,
+      question: "Hematin can be used to control profuse bleeding in patients on blood thinners.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72087,
+      question: "White coat syndrome refers to anxiety-related elevated blood pressure in medical settings.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72088,
+      question: "For diabetic patients, you should ask about their last meal, last medication, and blood sugar level.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72089,
+      question: "Lead aprons are absolutely required for all dental radiographs according to current studies.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72090,
+      question: "Experienced hygienists' personal practices should take precedence over CDHO guidelines.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72091,
+      question: "Nitroglycerin should not be given if the patient took sexual enhancement drugs within 24 hours.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72092,
+      question: "You can give unlimited nitroglycerin sprays until angina symptoms resolve.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72093,
+      question: "Ammonia capsules are broken near the patient's nose to help regain consciousness from syncope.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72094,
+      question: "Oxygen should be administered to patients experiencing hyperventilation syndrome.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72095,
+      question: "Asthmatic patients should always bring their inhalers to dental appointments.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72096,
+      question: "Air polishing and aerosol-generating procedures can trigger asthmatic episodes.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72097,
+      question: "An ASA 1 patient is a normal healthy person free of medical conditions.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72098,
+      question: "ASA 3 patients always require hospitalization for any dental treatment.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72099,
+      question: "The EpiPen dosage is 0.3 for adults and 0.15 for children.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 72100,
+      question: "During a seizure, you should place objects in the patient's mouth to prevent tongue biting.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 72101,
+      question: "Liquid sugar sources work faster than solid foods for treating hypoglycemia.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    }
   ]    
 };
