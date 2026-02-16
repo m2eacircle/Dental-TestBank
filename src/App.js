@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo, useCallback } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { Clock, Trophy, BarChart3, CheckCircle, XCircle, Home, Play, ArrowLeft, ChevronRight, Download, Flag, Eye, TrendingUp, Pause, X, Copy } from 'lucide-react';
 
 // Import everything from centralized index
@@ -493,7 +493,8 @@ export default function ImprovedTestBankApp() {
     } else if (!studyMode && timeLeft === 0 && testStarted && screen === 'test') {
       finishTest();
     }
-  }, [testStarted, timeLeft, screen, studyMode, isPaused, finishTest]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [testStarted, timeLeft, screen, studyMode, isPaused]);
 
   // Memoized statistics calculation
   const detailedStats = useMemo(() => {
@@ -761,7 +762,7 @@ export default function ImprovedTestBankApp() {
     }
   };
 
-  const finishTest = useCallback((finalAnswers = answers) => {
+  const finishTest = (finalAnswers = answers) => {
     setTestStarted(false);
     let correct = 0;
     
@@ -799,7 +800,7 @@ export default function ImprovedTestBankApp() {
     setTestHistory([result, ...testHistory]);
     setShowReview(false);
     setScreen('results');
-  }, [answers, selectedQuestions, studyMode, totalTestTime, timeLeft, isRetakeTest, selectedSubtopic, selectedSubject, topicProgress, testHistory]);
+  };
 
   // Save partial progress when user exits mid-test
   const savePartialProgress = () => {
