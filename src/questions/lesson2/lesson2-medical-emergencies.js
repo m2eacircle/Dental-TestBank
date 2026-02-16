@@ -3552,7 +3552,956 @@ export const questions = {
     }
   ],
   "1. Introduction and prevention (Part 3-2)": [
-        // questions
+    {
+      id: 71000,
+      question: "What is the primary purpose of studying medical emergencies in dental hygiene practice?",
+      options: [
+        "To replace the need for emergency medical services",
+        "To diagnose complex medical conditions independently",
+        "To recognize, prevent, and manage life-threatening situations",
+        "To perform advanced cardiac life support procedures"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71001,
+      question: "Which of the following is NOT one of the three main objectives of learning medical emergencies?",
+      options: [
+        "Recognition of medical emergencies",
+        "Management of medical emergencies",
+        "Prevention of medical emergencies",
+        "Prescription of emergency medications"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71002,
+      question: "What percentage of dental practitioners will likely face a medical emergency during their career?",
+      options: [
+        "Approximately 90% will experience emergencies",
+        "Approximately 50% will experience emergencies",
+        "Approximately 25% will experience emergencies",
+        "Approximately 75% will experience emergencies"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 71003,
+      question: "Which factor has contributed to the increased likelihood of medical emergencies in dental settings?",
+      options: [
+        "Reduced number of patients seeking dental care",
+        "Aging population with multiple medical conditions",
+        "Decreased use of local anesthetics in procedures",
+        "Simplified dental procedures requiring less time"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 71004,
+      question: "What is the most common medical emergency in dental practice?",
+      options: [
+        "Cardiac arrest requiring immediate defibrillation",
+        "Severe allergic reactions to medications",
+        "Syncope, also known as fainting",
+        "Respiratory failure due to airway obstruction"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71005,
+      question: "Which of the following best describes syncope?",
+      options: [
+        "Prolonged confusion without loss of consciousness",
+        "Temporary loss of consciousness with spontaneous recovery",
+        "Permanent loss of consciousness requiring hospitalization",
+        "Loss of motor function without consciousness changes"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 71006,
+      question: "What is the primary cause of vasovagal syncope?",
+      options: [
+        "Sudden drop in blood pressure and heart rate",
+        "Acute myocardial infarction with cardiac dysfunction",
+        "Severe dehydration leading to circulatory collapse",
+        "Cerebrovascular accident affecting consciousness centers"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 71007,
+      question: "Which sign or symptom typically precedes a syncopal episode?",
+      options: [
+        "Severe headache with visual disturbances",
+        "Sudden chest pain radiating to the arm",
+        "Dizziness, nausea, or feeling warm",
+        "Difficulty breathing with audible wheezing"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71008,
+      question: "What is the recommended immediate management for a patient experiencing syncope?",
+      options: [
+        "Begin chest compressions to restore circulation",
+        "Keep patient upright to maintain blood pressure",
+        "Administer oxygen at high flow rates immediately",
+        "Position patient supine with legs elevated"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71009,
+      question: "How can dental professionals help prevent syncope during treatment?",
+      options: [
+        "Ensure patients are comfortable and reduce anxiety",
+        "Administer sedatives to all anxious patients routinely",
+        "Perform all procedures with patient standing upright",
+        "Avoid using local anesthetics that may cause reactions"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 71010,
+      question: "What characterizes orthostatic hypotension?",
+      options: [
+        "Consistently high blood pressure regardless of position",
+        "Blood pressure drop upon standing from sitting",
+        "Elevated blood pressure when lying down flat",
+        "Irregular blood pressure fluctuations during exercise"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 71011,
+      question: "Which patient population is at highest risk for orthostatic hypotension?",
+      options: [
+        "Young adults with no medical history",
+        "Middle-aged patients with excellent health",
+        "Elderly patients taking multiple medications",
+        "Children undergoing routine dental examinations"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71012,
+      question: "What is the recommended prevention strategy for orthostatic hypotension in dental practice?",
+      options: [
+        "Keep patients in supine position indefinitely",
+        "Encourage vigorous movement immediately after treatment",
+        "Have patients stand quickly after procedures",
+        "Allow patients to sit up slowly before standing"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71013,
+      question: "Which condition involves a severe, life-threatening allergic reaction?",
+      options: [
+        "Anaphylaxis with systemic multi-organ involvement",
+        "Mild urticaria with localized skin involvement",
+        "Contact dermatitis affecting only exposed areas",
+        "Delayed hypersensitivity occurring days after exposure"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 71014,
+      question: "What is the first-line medication for treating anaphylaxis?",
+      options: [
+        "Bronchodilators to open constricted airways",
+        "Epinephrine administered via intramuscular injection",
+        "Antihistamines to block histamine receptors",
+        "Corticosteroids to reduce long-term inflammation"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 71015,
+      question: "Which symptom is most indicative of anaphylaxis rather than a mild allergic reaction?",
+      options: [
+        "Mild rash on arms without other symptoms",
+        "Localized itching at the injection site only",
+        "Difficulty breathing with throat swelling",
+        "Slight nausea without respiratory involvement"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71016,
+      question: "How can dental professionals prevent anaphylactic reactions?",
+      options: [
+        "Administer antibiotics prophylactically to all patients",
+        "Avoid asking about patient medication allergies",
+        "Use the same materials for all patients uniformly",
+        "Obtain thorough medical and allergy history"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71017,
+      question: "What characterizes angina pectoris?",
+      options: [
+        "Chest pain due to temporary inadequate oxygen supply",
+        "Permanent heart muscle damage with tissue death",
+        "Complete blockage of coronary arteries requiring surgery",
+        "Inflammation of the heart lining causing discomfort"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 71018,
+      question: "Which medication is typically used to manage an angina attack?",
+      options: [
+        "Aspirin to thin blood and prevent clotting",
+        "Nitroglycerin to dilate blood vessels",
+        "Beta-blockers to slow heart rate permanently",
+        "Calcium channel blockers for long-term control"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 71019,
+      question: "What distinguishes myocardial infarction from angina?",
+      options: [
+        "MI involves actual heart tissue death while angina doesn't",
+        "MI causes temporary pain while angina is permanent",
+        "MI resolves with rest while angina requires medication",
+        "MI occurs only during exercise while angina occurs at rest"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 71020,
+      question: "Which sign is characteristic of a myocardial infarction?",
+      options: [
+        "Intermittent pain occurring only during physical activity",
+        "Brief chest discomfort relieved by rest",
+        "Severe crushing chest pain lasting over 20 minutes",
+        "Mild discomfort that resolves with nitroglycerin"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71021,
+      question: "What is the appropriate emergency response for suspected myocardial infarction?",
+      options: [
+        "Allow patient to rest and reassess in 30 minutes",
+        "Transport patient to hospital in personal vehicle",
+        "Continue dental treatment after giving nitroglycerin",
+        "Call emergency services immediately and administer aspirin"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71022,
+      question: "Which factor increases the risk of cardiac emergencies during dental treatment?",
+      options: [
+        "History of heart disease and high stress levels",
+        "Young age with no cardiovascular risk factors",
+        "Regular exercise and healthy lifestyle habits",
+        "Normal blood pressure and cholesterol levels"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 71023,
+      question: "What is hypoglycemia?",
+      options: [
+        "Chronic elevation of blood glucose over time",
+        "Abnormally low blood sugar causing symptoms",
+        "Abnormally high blood sugar requiring insulin",
+        "Normal blood sugar fluctuation during meals"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 71024,
+      question: "Which symptom is commonly associated with hypoglycemia?",
+      options: [
+        "Excessive thirst and frequent urination",
+        "Dry mouth with decreased perspiration",
+        "Confusion, sweating, and shakiness",
+        "Slow onset of symptoms over several days"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71025,
+      question: "What is the immediate treatment for conscious hypoglycemic patients?",
+      options: [
+        "Give glucose tablets or sugary drink",
+        "Administer insulin to regulate blood sugar",
+        "Provide protein-rich foods for sustained energy",
+        "Encourage exercise to metabolize excess sugar"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 71026,
+      question: "How can dental professionals prevent hypoglycemic episodes?",
+      options: [
+        "Require all diabetic patients to fast before treatment",
+        "Schedule appointments immediately after patients have eaten",
+        "Prohibit diabetic patients from bringing glucose sources",
+        "Avoid scheduling appointments during typical meal times"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 71027,
+      question: "What characterizes a cerebrovascular accident (stroke)?",
+      options: [
+        "Temporary disruption of brain function with full recovery",
+        "Minor brain dysfunction without lasting consequences",
+        "Interruption of blood flow to brain causing cell death",
+        "Reversible brain injury with immediate resolution"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71028,
+      question: "Which acronym helps identify stroke symptoms?",
+      options: [
+        "SAMPLE for gathering patient history information",
+        "RICE for rest, ice, compression, elevation",
+        "AVPU for assessing level of consciousness",
+        "FAST for face, arm, speech, time"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71029,
+      question: "What does the \"F\" in FAST stand for when assessing stroke?",
+      options: [
+        "Face drooping on one side",
+        "Fever indicating possible infection complications",
+        "Fingers showing decreased sensation bilaterally",
+        "Feet demonstrating weakness in both lower extremities"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 71030,
+      question: "What is the critical time window for stroke treatment to be most effective?",
+      options: [
+        "Within the first 30 minutes of symptom onset",
+        "Within the first 12 hours of symptom onset",
+        "Within the first 3 hours of symptom onset",
+        "Within the first 24 hours of symptom onset"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71031,
+      question: "Which breathing emergency involves narrowing of the airways?",
+      options: [
+        "Pulmonary embolism blocking blood vessels",
+        "Asthma causing bronchial constriction",
+        "Pneumonia affecting alveolar gas exchange",
+        "Pleural effusion compressing lung tissue"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 71032,
+      question: "What medication do asthmatic patients typically carry for acute attacks?",
+      options: [
+        "Rescue inhaler with bronchodilator medication",
+        "Oral corticosteroids for long-term control",
+        "Antihistamines to reduce allergic response",
+        "Antibiotics to prevent respiratory infections"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 71033,
+      question: "What is the primary management strategy for choking (foreign body airway obstruction)?",
+      options: [
+        "Place patient supine and monitor breathing",
+        "Perform abdominal thrusts (Heimlich maneuver)",
+        "Encourage patient to continue coughing forcefully",
+        "Immediately begin rescue breathing with ventilations"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 71034,
+      question: "How can dental professionals prevent choking during procedures?",
+      options: [
+        "Work without suction to avoid tissue trauma",
+        "Allow patients to talk continuously during treatment",
+        "Use rubber dam isolation and maintain suction",
+        "Position patients completely upright at all times"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71035,
+      question: "Which seizure type involves loss of consciousness with convulsions?",
+      options: [
+        "Generalized tonic-clonic seizures with full-body involvement",
+        "Absence seizures with brief consciousness lapses",
+        "Focal seizures affecting only specific body areas",
+        "Myoclonic seizures with brief muscle jerks"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 71036,
+      question: "What is the appropriate management during an active seizure?",
+      options: [
+        "Administer anticonvulsant medications immediately during seizure",
+        "Protect patient from injury and time the seizure",
+        "Restrain patient movements to prevent injury",
+        "Place objects in mouth to prevent tongue biting"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 71037,
+      question: "When should emergency services be called for a seizure?",
+      options: [
+        "Only if the patient has never had seizures before",
+        "Only if the patient stops breathing permanently",
+        "If seizure lasts longer than 5 minutes",
+        "Immediately when any seizure begins regardless of duration"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71038,
+      question: "Which emergency involves severe hyperventilation causing respiratory alkalosis?",
+      options: [
+        "Asthma attack with bronchial obstruction",
+        "Chronic obstructive pulmonary disease exacerbation",
+        "Pulmonary embolism blocking circulation",
+        "Hyperventilation syndrome due to anxiety"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71039,
+      question: "What is the recommended treatment for hyperventilation syndrome?",
+      options: [
+        "Administer high-flow oxygen through non-rebreather mask",
+        "Have patient breathe into paper bag immediately",
+        "Provide bronchodilator medication via nebulizer",
+        "Calm patient and encourage slow breathing"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71040,
+      question: "What should be included in a dental office emergency kit?",
+      options: [
+        "Oxygen, AED, epinephrine, and emergency medications",
+        "Only basic first aid supplies like bandages",
+        "Advanced surgical instruments for emergency procedures",
+        "Prescription medications for long-term chronic conditions"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 71041,
+      question: "Why is an Automated External Defibrillator (AED) important in dental offices?",
+      options: [
+        "It provides oxygen to patients experiencing breathing difficulties",
+        "It administers emergency medications automatically to patients",
+        "It can restore normal heart rhythm during cardiac arrest",
+        "It measures blood pressure during emergency situations"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71042,
+      question: "What is the purpose of obtaining a thorough medical history before dental treatment?",
+      options: [
+        "To delay treatment until all conditions are resolved",
+        "To identify potential risk factors for medical emergencies",
+        "To avoid treating patients with any medical conditions",
+        "To determine insurance coverage for dental procedures"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 71043,
+      question: "Which vital sign should be routinely monitored before and during dental procedures?",
+      options: [
+        "Body temperature to detect infections early",
+        "Pupil response to assess neurological function",
+        "Blood pressure to identify cardiovascular concerns",
+        "Respiratory rate exclusively for all patients"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71044,
+      question: "How can stress and anxiety contribute to medical emergencies in dental settings?",
+      options: [
+        "They have no effect on medical emergency occurrence",
+        "They only affect patients with no medical history",
+        "They can trigger conditions like syncope and hyperventilation",
+        "They prevent emergencies by increasing patient alertness"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71045,
+      question: "What is the recommended positioning for most medical emergencies in dental practice?",
+      options: [
+        "Keep patient in upright seated position always",
+        "Have patient stand to improve circulation",
+        "Position patient on their side exclusively",
+        "Place patient supine with legs elevated"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71046,
+      question: "Which principle is fundamental to preventing medical emergencies?",
+      options: [
+        "Treat all patients identically regardless of medical history",
+        "Avoid asking about medications to save time",
+        "Know patient's medical history and prepare accordingly",
+        "Schedule all high-risk patients at end of day"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71047,
+      question: "What role does proper training play in managing medical emergencies?",
+      options: [
+        "It is optional for dental hygienists with experience",
+        "It is only required for dentists, not support staff",
+        "It ensures quick recognition and appropriate response",
+        "It eliminates the need for emergency equipment"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71048,
+      question: "How often should dental professionals practice emergency response protocols?",
+      options: [
+        "Once during initial training is sufficient for career",
+        "Only when an actual emergency occurs",
+        "Never, as written protocols are adequate",
+        "Regularly through drills and continuing education"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71049,
+      question: "What is the significance of calling emergency medical services (EMS) promptly?",
+      options: [
+        "It is unnecessary if dental team manages emergency",
+        "It should be delayed until all office interventions attempted",
+        "It ensures professional help and transportation to hospital",
+        "It is only needed for patients without medical insurance"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71050,
+      question: "Which documentation is essential after a medical emergency in the dental office?",
+      options: [
+        "Only financial billing information for the visit",
+        "No documentation needed if patient recovers fully",
+        "Detailed account of incident, interventions, and patient response",
+        "Brief note stating \"emergency occurred\" without details"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71051,
+      question: "What is the purpose of informed consent regarding medical emergencies?",
+      options: [
+        "To eliminate all liability for dental practitioners",
+        "To prevent patients from suing after emergencies occur",
+        "To allow treatment without patient's knowledge",
+        "To ensure patients understand risks and emergency protocols"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71052,
+      question: "How does effective communication help prevent medical emergencies?",
+      options: [
+        "It has no impact on emergency prevention strategies",
+        "It only matters after an emergency has occurred",
+        "It builds trust and helps identify patient concerns",
+        "It should be minimized to reduce patient anxiety"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71053,
+      question: "What is the recommended approach when a patient discloses anxiety about dental treatment?",
+      options: [
+        "Dismiss concerns and proceed with treatment",
+        "Require psychiatric clearance before any treatment",
+        "Refuse to treat anxious patients entirely",
+        "Acknowledge concerns and implement comfort measures"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71054,
+      question: "Which scenario would warrant postponing elective dental treatment?",
+      options: [
+        "Patient had breakfast two hours before appointment",
+        "Patient asks questions about the planned procedure",
+        "Patient arrives exactly on time for appointment",
+        "Patient reports feeling unwell with flu-like symptoms"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71055,
+      question: "What is the importance of maintaining current CPR certification for dental professionals?",
+      options: [
+        "It is only required for dentists, not hygienists",
+        "It is optional if emergency services are nearby",
+        "It ensures competence in life-saving techniques",
+        "It can be substituted with online video training"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71056,
+      question: "How should emergency medications be stored in the dental office?",
+      options: [
+        "In locked cabinets inaccessible during emergencies",
+        "In multiple random locations throughout office",
+        "Mixed with regular supplies without labeling",
+        "In designated area that is easily accessible"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71057,
+      question: "What is the shelf life concern for emergency medications?",
+      options: [
+        "Emergency medications never expire and last indefinitely",
+        "Expired medications work better than fresh ones",
+        "They must be checked regularly and replaced before expiration",
+        "Expiration dates are suggestions and can be ignored"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71058,
+      question: "Which member of the dental team should be trained in emergency response?",
+      options: [
+        "Only the dentist needs emergency training",
+        "Only the receptionist who calls emergency services",
+        "Training is not necessary with modern equipment",
+        "All team members should be trained"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71059,
+      question: "What is the purpose of assigning specific emergency roles to team members?",
+      options: [
+        "To create confusion during actual emergencies",
+        "To limit who can participate in emergency care",
+        "To avoid having too many people helping patient",
+        "To ensure organized, efficient response to emergencies"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71060,
+      question: "How can proper patient positioning during treatment prevent emergencies?",
+      options: [
+        "Position has no effect on emergency occurrence",
+        "All patients should be treated while standing upright",
+        "Appropriate positioning reduces risk of syncope and aspiration",
+        "Supine position should be avoided for all patients"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71061,
+      question: "What is the recommended response when a patient's medical history indicates high risk?",
+      options: [
+        "Refuse to treat the patient in office setting",
+        "Proceed with treatment without any modifications",
+        "Require patient to sign liability waiver only",
+        "Consult with patient's physician and take extra precautions"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71062,
+      question: "Which factor makes elderly patients more vulnerable to medical emergencies?",
+      options: [
+        "They have stronger immune systems than younger patients",
+        "They experience fewer medication side effects",
+        "They recover more quickly from medical emergencies",
+        "They often have multiple chronic conditions and medications"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71063,
+      question: "What is the relationship between local anesthetic administration and medical emergencies?",
+      options: [
+        "Local anesthetics never cause any emergency situations",
+        "All patients react identically to local anesthetics",
+        "Improper technique or allergies can trigger emergencies",
+        "Allergic reactions occur only with general anesthesia"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71064,
+      question: "How does maintaining a calm demeanor help during medical emergencies?",
+      options: [
+        "It has no effect on emergency outcomes",
+        "It should be avoided in favor of showing urgency",
+        "It only matters for minor emergencies, not major ones",
+        "It reduces patient anxiety and helps team function effectively"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71065,
+      question: "What is the significance of knowing the location of emergency equipment?",
+      options: [
+        "Equipment location is irrelevant during emergencies",
+        "Equipment should be stored in locked rooms always",
+        "Quick access saves critical time during emergencies",
+        "Only the dentist needs to know equipment locations"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71066,
+      question: "Which assessment should be performed immediately when a patient appears to be in distress?",
+      options: [
+        "Wait and observe for 10 minutes before assessing",
+        "Complete full dental examination first before assessment",
+        "Ask patient to leave and return another day",
+        "Check airway, breathing, and circulation (ABCs)"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71067,
+      question: "What is the purpose of activating emergency medical services early in a crisis?",
+      options: [
+        "To increase costs and create unnecessary expenses",
+        "To transfer all responsibility to paramedics immediately",
+        "To avoid having to manage the emergency personally",
+        "To ensure help arrives quickly if condition worsens"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71068,
+      question: "How should a dental professional respond if unsure about the severity of a patient's symptoms?",
+      options: [
+        "Assume symptoms are minor and continue treatment",
+        "Ignore symptoms if patient doesn't complain loudly",
+        "Ask patient to diagnose their own condition",
+        "Err on side of caution and seek emergency help"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71069,
+      question: "What is the value of post-emergency debriefing with the dental team?",
+      options: [
+        "It serves no purpose and wastes valuable time",
+        "It should only occur if the emergency had poor outcome",
+        "It is only necessary for dentists, not other staff",
+        "It identifies areas for improvement in emergency response"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71070,
+      question: "Which type of emergency requires immediate administration of epinephrine?",
+      options: [
+        "Severe anaphylactic reaction with systemic symptoms",
+        "Simple syncope without allergic component",
+        "Mild anxiety without physiological symptoms",
+        "Orthostatic hypotension from standing too quickly"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 71071,
+      question: "What is the recommended oxygen flow rate for most medical emergencies?",
+      options: [
+        "1-2 liters per minute for all emergencies",
+        "Oxygen should never be given in dental emergencies",
+        "10-15 liters per minute for all patients regardless",
+        "4-6 liters per minute or higher depending on condition"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71072,
+      question: "How can monitoring vital signs help prevent medical emergencies?",
+      options: [
+        "Vital signs provide no useful information for prevention",
+        "Vital signs should only be taken after emergencies happen",
+        "Only blood pressure matters; other vitals are unnecessary",
+        "Abnormal readings can alert to problems before emergencies occur"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71073,
+      question: "What is the significance of updating medical history at each appointment?",
+      options: [
+        "Medical history never changes once initially recorded",
+        "Updates are only needed for new patients",
+        "Annual updates are sufficient for all patients",
+        "Conditions and medications can change over time"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 71074,
+      question: "Which approach best describes prevention-focused dental care?",
+      options: [
+        "Treating emergencies only after they occur",
+        "Avoiding treatment for patients with medical conditions",
+        "Proactive identification of risks and preventive measures",
+        "Relying solely on emergency equipment without preparation"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71075,
+      question: "What is the appropriate response when emergency equipment is found to be expired or malfunctioning?",
+      options: [
+        "Continue using it until replacement arrives next year",
+        "Replace it immediately to ensure readiness",
+        "Remove it and work without backup equipment",
+        "Use it only for non-critical emergencies"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 71076,
+      question: "How does patient education contribute to emergency prevention?",
+      options: [
+        "It has no impact on emergency occurrence rates",
+        "It helps patients recognize and report concerning symptoms",
+        "It should be avoided to prevent patient anxiety",
+        "It is only necessary for high-risk patients"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 71077,
+      question: "What is the recommended action when a patient reports taking anticoagulant medications?",
+      options: [
+        "Proceed with invasive procedures without modifications",
+        "Refuse all dental treatment permanently",
+        "Take extra precautions and consider consultation",
+        "Ignore the medication history completely"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71078,
+      question: "Which factor indicates a patient may be at risk for a medical emergency?",
+      options: [
+        "Recent comprehensive dental cleaning without issues",
+        "History of well-controlled chronic disease",
+        "Unstable or poorly controlled medical conditions",
+        "Young age with no family medical history"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 71079,
+      question: "Medical emergencies in dental practice are extremely rare and unlikely to occur during a dental hygienist's career.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 71080,
+      question: "Syncope is the most common medical emergency encountered in dental practice.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 71081,
+      question: "Orthostatic hypotension occurs when blood pressure increases upon standing up.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 71082,
+      question: "Epinephrine is the first-line treatment for anaphylaxis.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 71083,
+      question: "Angina pectoris and myocardial infarction are the same condition.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 71084,
+      question: "The FAST acronym is used to identify signs of stroke.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 71085,
+      question: "Hypoglycemia refers to abnormally high blood sugar levels.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 71086,
+      question: "During an active seizure, objects should be placed in the patient's mouth to prevent tongue biting.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 71087,
+      question: "An Automated External Defibrillator (AED) should be available in every dental office.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    }
   ],
   "1. Introduction and prevention (Part 4-2)": [
         // questions
