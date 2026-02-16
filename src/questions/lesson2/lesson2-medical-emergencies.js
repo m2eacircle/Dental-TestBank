@@ -2689,7 +2689,6 @@ export const questions = {
       ],
       correctAnswer: 2
     },
-},
     {
       id: 70285,
       question: "What is the maximum number of students allowed per group?",
