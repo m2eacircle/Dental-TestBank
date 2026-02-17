@@ -2429,7 +2429,7 @@ export const questions = {
     { id: 3246, question: "If the unexposed film does NOT appear clear and dry, what should be checked?", options: ["Nothing", "Processing solutions and dryer temperatures", "Only the dryer", "Only exposure time"], correct: 1 },
     { id: 3247, question: "What is the most critical component of film processing quality control?", options: ["The darkroom", "Processing solutions", "The timer", "The film hangers"], correct: 1 },
     { id: 3248, question: "How often must processing solutions be replenished?", options: ["Weekly", "Daily", "Monthly", "Annually"], correct: 1 },
-    { id: 3249, question: "How often should processing solutions be changed?", options: ["Weekly", "Monthly", "Every 3-4 weeks as recommended by manufacturer", "Annually"], correct: 1 },
+    { id: 3249, question: "How often should processing solutions be changed?", options: ["Weekly", "Monthly", "Every 3-4 weeks as recommended by manufacturer", "Annually"], correct: 2 },
     { id: 3250, question: "What determines how often solutions should be changed?", options: ["Only time", "Manufacturer recommendations and number of films processed", "Only cost", "Office preference"], correct: 1 },
     { id: 3251, question: "Must the strength of processing solutions be monitored?", options: ["No, it's not important", "Yes, must monitor the strength", "Only when problems occur", "Only monthly"], correct: 1 },
     { id: 3252, question: "When should processing solutions be monitored?", options: ["Weekly", "Daily before any exposed films are processed", "Monthly", "Only when problems occur"], correct: 1 },
