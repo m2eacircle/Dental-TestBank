@@ -1318,17 +1318,6 @@ export const questions = {
       correctAnswer: 2
     },
     {
-      id: 60126,
-      question: "What is one purpose of the lecture according to the introduction?",
-      options: [
-        "To explain how to take radiographs",
-        "To review normal anatomy of maxilla and mandible",
-        "To teach dental treatment procedures",
-        "To discuss patient management"
-      ],
-      correctAnswer: 1
-    },
-    {
       id: 60127,
       question: "What is contrast in radiographic terms?",
       options: [
@@ -2595,7 +2584,7 @@ export const questions = {
     },
     {
       id: 60252,
-      question: "What does the orbit contain according to the lecture?",
+      question: "What does the orbit contain?",
       options: [
         "The maxillary sinus and nasal cavity structures",
         "The eyeball within a bony compartment",
@@ -4036,7 +4025,7 @@ export const questions = {
         "True",
         "False"
       ],
-      correctAnswer: 1
+      correctAnswer: 0
     },
     {
       id: 60392,
