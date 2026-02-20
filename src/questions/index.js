@@ -758,7 +758,9 @@ export const subjectsWithSubtopics = {
     "6. Local Anaesthetic (Part 2)",
     "7. Muscles of Mastication (Part 1)",
     "7. Muscles of Mastication (Part 2)",
-    "5-10. Head and Neck Summary"
+    "5-10. Head and Neck Summary (Part 1)",
+    "5-10. Head and Neck Summary (Part 2)",
+    "5-10. Head and Neck Summary (Part 3)"
   ],
   "Pharmacology": [
     "1. Pharmacodynamics, ADME, and Adverse Drug Reactions",
