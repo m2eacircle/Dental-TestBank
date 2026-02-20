@@ -16451,10 +16451,1993 @@ export const questions = {
     }
   ],
   "5-10. Head and Neck Summary (Part 2)": [
-    // questions
+    {
+      id: 12500,
+      question: "Which anatomical term describes a short tube-like opening or hole through bone?",
+      options: [
+        "Foramen",
+        "Suture",
+        "Fossa",
+        "Eminence",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12501,
+      question: "Which anatomical term refers to a long tube-like channel or passage through bone?",
+      options: [
+        "Canal",
+        "Process",
+        "Condyle",
+        "Fissure",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12502,
+      question: "Which of the following best describes the anatomical term \"fossa\"?",
+      options: [
+        "A shallow depression or hollow in bone",
+        "A rounded protuberance forming joint articulation",
+        "A groove or natural division between two structures",
+        "A blunt projection similar to an eminence",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12503,
+      question: "How many bones make up the neurocranium (bones surrounding the brain)?",
+      options: [
+        "8 bones",
+        "6 bones",
+        "10 bones",
+        "14 bones",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12504,
+      question: "Which mnemonic is used to remember the 8 neurocranial bones?",
+      options: [
+        "F. PESTO (Frontal, Parietal, Ethmoid, Sphenoid, Temporal, Occipital)",
+        "LIMP (Lacrimal, Inferior nasal conchae, Maxilla, Palatine)",
+        "T.O.S.S (Thyrohyoid, Omohyoid, Sternohyoid, Sternothyroid)",
+        "MMLT (Masseter, Medial pterygoid, Lateral pterygoid, Temporalis)",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12505,
+      question: "How many bones make up the viscerocranium (bones of the face)?",
+      options: [
+        "14 bones",
+        "8 bones",
+        "12 bones",
+        "10 bones",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12506,
+      question: "Which of the following is NOT one of the three ossicles found in the ear?",
+      options: [
+        "Vomer",
+        "Stapes",
+        "Incus",
+        "Malleus",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12507,
+      question: "In the nervous system, \"afferent\" (sensory) neurons carry signals in which direction?",
+      options: [
+        "From the outer body toward the brain",
+        "From the brainstem to the cranial nerve nuclei",
+        "From brain to body to cause muscle action",
+        "From the spinal cord to glands and smooth muscle",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12508,
+      question: "Which two structures make up the Central Nervous System (CNS)?",
+      options: [
+        "Brain and spinal column",
+        "Somatic and autonomic nervous systems",
+        "Cranial nerves and spinal nerves",
+        "Sympathetic and parasympathetic systems",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12509,
+      question: "What effect does the sympathetic nervous system (SNS) have on the body?",
+      options: [
+        "Increased heart rate, blood pressure, and decreased salivary flow",
+        "Relaxation response with normal or decreased heart rate",
+        "Increased salivary flow and decreased heart rate",
+        "Decreased blood pressure and slowed digestion",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12510,
+      question: "Which cranial nerve is responsible for the sense of smell?",
+      options: [
+        "Olfactory Nerve (I)",
+        "Optic Nerve (II)",
+        "Oculomotor Nerve (III)",
+        "Facial Nerve (VII)",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12511,
+      question: "Damage to which cranial nerve results in blindness in the visual field?",
+      options: [
+        "Optic Nerve (II)",
+        "Abducens Nerve (VI)",
+        "Trochlear Nerve (IV)",
+        "Olfactory Nerve (I)",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12512,
+      question: "Which cranial nerve controls eye movement, eyelid opening, pupil constriction, and focusing?",
+      options: [
+        "Oculomotor Nerve (III)",
+        "Abducens Nerve (VI)",
+        "Optic Nerve (II)",
+        "Trochlear Nerve (IV)",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12513,
+      question: "The Trochlear Nerve (IV) controls which specific eye muscle?",
+      options: [
+        "Superior oblique muscle",
+        "Lateral rectus muscle",
+        "Inferior oblique muscle",
+        "Medial rectus muscle",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12514,
+      question: "Which cranial nerve is the largest, composed of three divisions, and whose damage causes loss of sensation and impaired chewing?",
+      options: [
+        "Trigeminal Nerve (V)",
+        "Vagus Nerve (X)",
+        "Facial Nerve (VII)",
+        "Vestibulocochlear Nerve (VIII)",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12515,
+      question: "Which branch of the Trigeminal Nerve provides sensations from the lower eyelid, upper lips and gums, teeth of the maxilla, and palate?",
+      options: [
+        "Maxillary branch (V2)",
+        "Mandibular branch (V3)",
+        "Ophthalmic branch (V1)",
+        "Buccal branch (V4)",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12516,
+      question: "Which division of the Trigeminal Nerve has BOTH sensory AND motor functions?",
+      options: [
+        "Mandibular branch (V3)",
+        "Ophthalmic branch (V1)",
+        "Maxillary branch (V2)",
+        "All three branches are both sensory and motor",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12517,
+      question: "The Abducens Nerve (VI) serves which eye muscle, and what clinical finding results from its damage?",
+      options: [
+        "Serves lateral rectus; eye cannot rotate laterally and rotates medially at rest",
+        "Serves inferior oblique; eye deviates upward at rest",
+        "Serves medial rectus; eye rotates laterally at rest",
+        "Serves superior oblique; eye cannot rotate downward",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12518,
+      question: "Which of the following is a function of the Facial Nerve (VII)?",
+      options: [
+        "Facial expressions, salivary/lacrimal glands, and taste on anterior 2/3 of tongue",
+        "Swallowing and voice production via pharyngeal muscles",
+        "Controls tongue movements for speech and swallowing",
+        "Provides hearing and sense of balance",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12519,
+      question: "The Vestibulocochlear Nerve (VIII) provides which two special sensory functions?",
+      options: [
+        "Hearing (cochlear branch) and balance (vestibular branch)",
+        "Smell and vision",
+        "Taste and smell",
+        "Facial expression and tear production",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12520,
+      question: "Which cranial nerve provides taste from the posterior 1/3 of the tongue and controls salivation, gagging, and blood pressure?",
+      options: [
+        "Hypoglossal Nerve (XII)",
+        "Glossopharyngeal Nerve (IX)",
+        "Vagus Nerve (X)",
+        "Facial Nerve (VII)",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12521,
+      question: "What is the consequence if BOTH Vagus Nerves (X) are severed?",
+      options: [
+        "Permanent deafness and complete loss of balance",
+        "Fatal outcome due to loss of vital autonomic functions",
+        "Inability to move the tongue and impaired speech",
+        "Complete paralysis of facial muscles and loss of taste",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12522,
+      question: "Which cranial nerve is responsible for tongue movements for speech, food manipulation, and swallowing?",
+      options: [
+        "Accessory Nerve (XI)",
+        "Hypoglossal Nerve (XII)",
+        "Glossopharyngeal Nerve (IX)",
+        "Facial Nerve (VII)",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12523,
+      question: "If one Hypoglossal Nerve (XII) is damaged, what is the expected clinical finding?",
+      options: [
+        "Inability to swallow on the affected side",
+        "Tongue deviation toward the injured side",
+        "Loss of taste on the anterior tongue",
+        "Drooping eyelid on the affected side",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12524,
+      question: "Which of the following are clinical signs of epinephrine overdose?",
+      options: [
+        "Muscle weakness, facial droop, and slurred speech",
+        "Anxiety, tremor, throbbing headache, dizziness, pallor, and palpitations",
+        "Decreased heart rate, increased salivation, and drowsiness",
+        "Nausea, loss of balance, and temporary blindness",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12525,
+      question: "Which type of dental injection affects only the gingiva, NOT the tooth or surrounding structures?",
+      options: [
+        "Inferior alveolar nerve block",
+        "Infiltration injection",
+        "Posterior superior alveolar nerve block",
+        "Supraperiosteal injection",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12526,
+      question: "Which type of dental injection targets a nerve trunk, covering the largest area including periodontium, gingiva, and teeth?",
+      options: [
+        "Infiltration injection",
+        "Nerve block injection",
+        "Supraperiosteal injection",
+        "Middle superior alveolar nerve block",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12527,
+      question: "Which muscle type is found ONLY in the heart and is characterized by short twitch movements with endurance and consistency?",
+      options: [
+        "Voluntary striated skeletal muscle",
+        "Cardiac muscle",
+        "Somatic peripheral muscle",
+        "Smooth muscle",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12528,
+      question: "In muscle terminology, what is the \"origin\" of a muscle?",
+      options: [
+        "The direction in which muscle fibers pull during contraction",
+        "The end of the muscle attached to the least movable (immovable) structure",
+        "The work accomplished when muscle fibers contract",
+        "The end attached to the more movable structure",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12529,
+      question: "Which mandibular movement pushes the mandible anteriorly?",
+      options: [
+        "Elevation",
+        "Protraction",
+        "Retraction",
+        "Depression",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12530,
+      question: "Which nerve innervates all four muscles of mastication?",
+      options: [
+        "Maxillary division of the Trigeminal Nerve (V2)",
+        "Mandibular division of the Trigeminal Nerve (V3)",
+        "Facial Nerve (VII)",
+        "Glossopharyngeal Nerve (IX)",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12531,
+      question: "Which artery provides the blood supply to the muscles of mastication?",
+      options: [
+        "Ascending pharyngeal artery",
+        "Maxillary artery",
+        "Facial artery",
+        "External carotid artery",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12532,
+      question: "What is the primary action of the Masseter muscle?",
+      options: [
+        "Moves the mandible laterally from side to side",
+        "Elevates the mandible, causing the teeth to clench together",
+        "Depresses and opens the mouth",
+        "Retrudes the mandible posteriorly",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12533,
+      question: "The Temporalis muscle's posterior fibers are responsible for which specific mandibular movement?",
+      options: [
+        "Lateral excursion of the mandible",
+        "Retruding or pulling the mandible backward",
+        "Depression and opening of the mouth",
+        "Elevation and closing of the mouth",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12534,
+      question: "Which muscle of mastication is the ONLY one responsible for depression of the mandible?",
+      options: [
+        "Temporalis",
+        "Lateral Pterygoid",
+        "Masseter",
+        "Medial Pterygoid",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12535,
+      question: "What is the action of the Medial Pterygoid muscle?",
+      options: [
+        "Retrudes the mandible posteriorly",
+        "Elevates the mandible, closing the mouth",
+        "Protrudes the mandible anteriorly",
+        "Depresses the mandible and opens the mouth",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12536,
+      question: "The pharynx is composed of how many constrictor muscles and how many smaller muscles?",
+      options: [
+        "3 constrictors and 2 smaller muscles",
+        "3 constrictors and 3 smaller muscles",
+        "4 constrictors and 2 smaller muscles",
+        "2 constrictors and 4 smaller muscles",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12537,
+      question: "All three pharyngeal constrictor muscles insert into which structure?",
+      options: [
+        "Thyroid cartilage of the larynx",
+        "Median raphe (midline tendon in the posterior throat wall)",
+        "Styloid process of the temporal bone",
+        "Hyoid bone",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12538,
+      question: "Which nerve supplies all three pharyngeal constrictor muscles?",
+      options: [
+        "Trigeminal Nerve (V3)",
+        "Pharyngeal plexus",
+        "Vagus Nerve (X)",
+        "Glossopharyngeal Nerve (IX)",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12539,
+      question: "What is the origin of the Middle Pharyngeal Constrictor?",
+      options: [
+        "Base of the styloid process on the medial side",
+        "Lower part of the medial pterygoid plate",
+        "Posterior, superior part of the hyoid bone and stylohyoid ligament",
+        "Posterior part of the thyroid cartilage of the larynx",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12540,
+      question: "The Inferior Pharyngeal Constrictor originates from which structure?",
+      options: [
+        "Hyoid bone and stylohyoid ligament",
+        "Styloid process of the temporal bone",
+        "Posterior part of the thyroid cartilage of the larynx",
+        "Median raphe and posterior pharyngeal wall",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12541,
+      question: "Which pharyngeal elevator and dilator is the PRIMARY dilator of the pharynx?",
+      options: [
+        "Salpingopharyngeal muscle",
+        "Inferior pharyngeal constrictor",
+        "Stylopharyngeal muscle",
+        "Palatopharyngeal muscle",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12542,
+      question: "Which cranial nerve supplies the Stylopharyngeal muscle?",
+      options: [
+        "Vagus Nerve (X)",
+        "Facial Nerve (VII)",
+        "Glossopharyngeal Nerve (IX)",
+        "Accessory Nerve (XI)",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12543,
+      question: "Which nerves supply the Salpingopharyngeal muscle?",
+      options: [
+        "Trigeminal (V3) and Glossopharyngeal (IX) nerves",
+        "Glossopharyngeal (IX) and Facial (VII) nerves",
+        "Vagus (X) and Accessory (XI) cranial nerves",
+        "Facial (VII) and Accessory (XI) cranial nerves",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12544,
+      question: "Which soft palate muscle receives its nerve supply from the Mandibular Division of the Trigeminal Nerve (V3)?",
+      options: [
+        "Palatoglossal",
+        "Musculus uvulae",
+        "Tensor veli palatini",
+        "Levator veli palatini",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12545,
+      question: "What is the primary action of the Levator Veli Palatini?",
+      options: [
+        "Opens the auditory tube and tenses the anterior soft palate",
+        "Narrows the posterior pillar and elevates the larynx",
+        "Pulls the posterior soft palate up and back to contact the posterior pharyngeal wall",
+        "Shortens and broadens the uvula and changes soft palate contour",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12546,
+      question: "What is the action of the Musculus Uvulae?",
+      options: [
+        "Tenses the anterior portion of the soft palate",
+        "Pulls the soft palate up and back to seal the nasopharynx",
+        "Shortens and broadens the uvula and changes the posterior soft palate contour",
+        "Opens the auditory tube when it is closed",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12547,
+      question: "Where does the Tensor Veli Palatini originate?",
+      options: [
+        "Two small bands from the posterior end of the hard palate",
+        "Petrous part of the temporal bone near the carotid canal",
+        "Near the base of the medial pterygoid plate and lateral wall of the auditory tube cartilage",
+        "Posterolateral part of the soft palate",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12548,
+      question: "Which unique feature distinguishes the hyoid bone from all other bones in the body?",
+      options: [
+        "It is the only bone found entirely within the floor of the mouth",
+        "It has no marrow and relies on surrounding tissues for nutrition",
+        "It does not articulate with any other bone; it is connected only by muscles and ligaments",
+        "It is the smallest bone in the human body",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12549,
+      question: "The suprahyoid muscles are remembered by which mnemonic?",
+      options: [
+        "MMLT (Masseter, Medial pterygoid, Lateral pterygoid, Temporalis)",
+        "F. PESTO (Frontal, Parietal, Ethmoid, Sphenoid, Temporal, Occipital)",
+        "My Gut Seems Damaged (Mylohyoid, Geniohyoid, Stylohyoid, Digastric)",
+        "T.O.S.S (Thyrohyoid, Omohyoid, Sternohyoid, Sternothyroid)",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12550,
+      question: "What happens when the Digastric muscle contracts?",
+      options: [
+        "It protrudes and depresses the mandible anteriorly",
+        "It elevates the mandible and clenches the teeth together",
+        "It causes backward pull (retrusion) on the mandible and elevates the hyoid during jaw clenching",
+        "It depresses the hyoid bone and pulls the larynx downward",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12551,
+      question: "Which nerve supplies the anterior belly of the Digastric muscle?",
+      options: [
+        "First cervical nerve",
+        "Glossopharyngeal Nerve (IX)",
+        "V3 of the Trigeminal Nerve (5th cranial nerve)",
+        "Facial Nerve (VII)",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12552,
+      question: "Which nerve supplies the posterior belly of the Digastric muscle?",
+      options: [
+        "Vagus Nerve (X)",
+        "Accessory Nerve (XI)",
+        "Facial Nerve (VII)",
+        "V3 of the Trigeminal Nerve",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12553,
+      question: "The Mylohyoid muscle forms which anatomical structure?",
+      options: [
+        "The lateral wall of the nasal cavity",
+        "The roof of the oral cavity",
+        "The floor of the mouth",
+        "The posterior wall of the pharynx",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12554,
+      question: "What is the nerve supply to the Mylohyoid muscle?",
+      options: [
+        "Glossopharyngeal Nerve (IX)",
+        "First cervical nerve",
+        "V3 of the Trigeminal Nerve (mylohyoid branch)",
+        "Facial Nerve (VII)",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12555,
+      question: "What is the nerve supply to the Geniohyoid muscle?",
+      options: [
+        "Facial Nerve (VII)",
+        "Hypoglossal Nerve (XII)",
+        "First cervical nerve of the neck",
+        "V3 of the Trigeminal Nerve",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12556,
+      question: "What is the primary action of the Stylohyoid muscle?",
+      options: [
+        "Protrudes the mandible and opens the mouth",
+        "Depresses the mandible and elevates the hyoid bone",
+        "Pulls the hyoid back and upward",
+        "Forms the floor of the mouth and opens the jaw",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12557,
+      question: "The infrahyoid muscles are remembered by which mnemonic?",
+      options: [
+        "My Gut Seems Damaged",
+        "F. PESTO",
+        "T.O.S.S (Thyrohyoid, Omohyoid, Sternohyoid, Sternothyroid)",
+        "MMLT",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12558,
+      question: "The inferior belly of the Omohyoid muscle originates from which structure?",
+      options: [
+        "Styloid process of the temporal bone",
+        "Upper border of the manubrium of the sternum",
+        "Oblique line on the lateral side of the thyroid cartilage",
+        "Upper border of the scapula (shoulder blade)",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12559,
+      question: "Which nerve supplies both the Omohyoid and Sternohyoid muscles?",
+      options: [
+        "1st cervical nerve",
+        "V3 of the Trigeminal Nerve",
+        "Facial Nerve (VII)",
+        "2nd and 3rd cervical nerves",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12560,
+      question: "What is the action of the Sternothyroid muscle?",
+      options: [
+        "Raises the larynx or depresses the hyoid bone",
+        "Elevates and retracts the mandible",
+        "Pulls the hyoid bone down",
+        "Pulls the larynx down",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12561,
+      question: "What is the action of the Thyrohyoid muscle?",
+      options: [
+        "Protrudes the mandible anteriorly",
+        "Depresses the mandible and opens the mouth",
+        "Pulls the larynx down toward the sternum",
+        "Raises the larynx or depresses the hyoid bone",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12562,
+      question: "Which nerve supplies the Thyrohyoid muscle?",
+      options: [
+        "2nd and 3rd cervical nerves",
+        "V3 of the Trigeminal Nerve",
+        "Hypoglossal Nerve (XII)",
+        "1st cervical nerve",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12563,
+      question: "What is the action of the Palatopharyngeal muscle?",
+      options: [
+        "Shortens and broadens the uvula and changes the soft palate contour",
+        "Opens the auditory tube and tenses the anterior soft palate",
+        "Pulls the posterior soft palate up and back against the pharyngeal wall",
+        "Narrows the posterior pillar and elevates the pharynx and larynx",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12564,
+      question: "Where does the Salpingopharyngeal muscle originate?",
+      options: [
+        "Posterolateral part of the soft palate",
+        "Base of the styloid process on the medial side",
+        "Posterior, superior part of the hyoid bone",
+        "End of the auditory tube in the lateral wall of the nasal pharynx",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12565,
+      question: "Which of the following correctly lists the three regions of the pharynx from top to bottom?",
+      options: [
+        "Laryngopharynx, Nasopharynx, Oropharynx",
+        "Oropharynx, Nasopharynx, Laryngopharynx",
+        "Nasopharynx, Laryngopharynx, Oropharynx",
+        "Nasopharynx, Oropharynx, Laryngopharynx",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12566,
+      question: "Which region of the pharynx is located where the digestive and respiratory systems branch into the esophagus and larynx?",
+      options: [
+        "Oropharynx (middle part)",
+        "Hypopharynx (base part)",
+        "Nasopharynx (upper part)",
+        "Laryngopharynx (lower part)",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12567,
+      question: "Damage to the Accessory Nerve (XI) results in which clinical finding?",
+      options: [
+        "Drooping eyelid and dilated pupil",
+        "Impaired swallowing and loss of voice",
+        "Loss of taste and sagging facial muscles",
+        "Impaired head, neck, and shoulder movement",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12568,
+      question: "What does activation of the parasympathetic nervous system (PNS) cause?",
+      options: [
+        "Increased adrenal hormone release and heightened alertness",
+        "Increased heart rate, elevated blood pressure, and decreased salivation",
+        "Fight-or-flight response with dilated pupils and muscle tension",
+        "Decreased heart rate, lower blood pressure, and increased salivary flow",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12569,
+      question: "A \"condyle\" is best described as which of the following?",
+      options: [
+        "A long tube-like channel or passage through bone",
+        "A groove or natural division between two structures",
+        "A shallow depression or hollow in bone",
+        "A rounded protuberance of a bone forming articulation with another bone",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12570,
+      question: "What is the role of the Superior Pharyngeal Constrictor?",
+      options: [
+        "Forces food down toward the esophagus from the middle pharynx",
+        "Constricts the lower pharynx and pushes food into the esophagus",
+        "Elevates and dilates the pharynx during swallowing",
+        "Constricts the upper pharynx and forces its contents downward",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12571,
+      question: "Sensory neurons are also known by what alternate term?",
+      options: [
+        "Efferent neurons",
+        "Motor neurons",
+        "Autonomic neurons",
+        "Afferent neurons",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12572,
+      question: "Which of the following bones is part of the viscerocranium (facial bones)?",
+      options: [
+        "Frontal bone",
+        "Occipital bone",
+        "Parietal bone",
+        "Zygomatic bone",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12573,
+      question: "Which of the following is a characteristic of skeletal muscle?",
+      options: [
+        "Controls glands and smooth structures throughout the body autonomously",
+        "Found only in the heart; functions involuntarily with endurance",
+        "Located in the digestive system; can maintain tension for long periods",
+        "Attaches to the skeleton, comes in pairs, and movements are usually voluntary",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12574,
+      question: "What is the action of the Sternohyoid muscle?",
+      options: [
+        "Pulls the larynx down toward the chest",
+        "Raises the larynx or depresses the hyoid bone",
+        "Elevates and retracts the mandible posteriorly",
+        "Pulls the hyoid bone down",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12575,
+      question: "Which of the following is a mandibular injection technique used in dental local anesthesia?",
+      options: [
+        "Anterior superior alveolar nerve block",
+        "Greater palatine nerve block",
+        "Naso-palatine nerve block",
+        "Inferior alveolar nerve block",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12576,
+      question: "Which group of muscles consists of the Masseter, Temporalis, Medial Pterygoid, and Lateral Pterygoid?",
+      options: [
+        "Pharyngeal constrictors",
+        "Hyoid muscles",
+        "Soft palate muscles",
+        "Muscles of mastication",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12577,
+      question: "The neurocranium consists of 14 bones, while the viscerocranium consists of 8 bones.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12578,
+      question: "The Mandibular branch (V3) of the Trigeminal Nerve is the only branch that has both sensory and motor functions.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12579,
+      question: "The Lateral Pterygoid is the only muscle of mastication responsible for depression of the mandible.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12580,
+      question: "The hyoid bone articulates directly with the mandible and the temporal bone.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12581,
+      question: "All three pharyngeal constrictor muscles are innervated by the pharyngeal plexus.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12582,
+      question: "The Facial Nerve (VII) provides taste sensation from the posterior 1/3 of the tongue.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12583,
+      question: "Damage to both Vagus Nerves (X) simultaneously can be fatal.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12584,
+      question: "The Tensor Veli Palatini is the only soft palate muscle supplied by V3 of the Trigeminal Nerve.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12585,
+      question: "The Mylohyoid muscle is innervated by the Facial Nerve (VII).",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12586,
+      question: "Smooth muscle is typically voluntary and is found primarily in the skeletal system.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "B"
+    }
   ],
   "5-10. Head and Neck Summary (Part 3)": [
-    // questions
+    {
+      id: 12600,
+      question: "Which type of dental sealant requires mixing a base and catalyst before application?",
+      options: [
+        "Self-cured sealant material",
+        "Light-cured sealant material",
+        "Fluoride-releasing sealant",
+        "Glass ionomer sealant type",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12601,
+      question: "What is the primary purpose of the acid etching step in sealant application?",
+      options: [
+        "To sterilize the tooth surface",
+        "To create micropores for retention",
+        "To remineralize the enamel layer",
+        "To reduce tooth sensitivity level",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12602,
+      question: "Which teeth are most commonly indicated for dental sealant placement?",
+      options: [
+        "Anterior teeth with smooth surfaces",
+        "Teeth with existing restorations",
+        "Molars and premolars with pits and fissures",
+        "Primary teeth only regardless of anatomy",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12603,
+      question: "What is the recommended concentration of phosphoric acid used for etching before sealant placement?",
+      options: [
+        "10-15% phosphoric acid solution",
+        "20-25% phosphoric acid solution",
+        "50-55% phosphoric acid solution",
+        "35-37% phosphoric acid solution",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12604,
+      question: "How long should the acid etchant typically remain on permanent teeth during sealant application?",
+      options: [
+        "15-30 seconds of contact time",
+        "5-10 seconds of contact time",
+        "45-60 seconds of contact time",
+        "90-120 seconds of contact time",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12605,
+      question: "What appearance should properly etched enamel have after rinsing and drying?",
+      options: [
+        "Shiny and wet appearance present",
+        "Chalky, frosty white appearance",
+        "Yellowish discoloration present",
+        "Transparent and glossy surface",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12606,
+      question: "If saliva contaminates the etched enamel surface before sealant application, what should be done?",
+      options: [
+        "Apply the sealant immediately anyway",
+        "Use a bonding agent instead only",
+        "Re-etch the tooth surface again",
+        "Cancel the sealant procedure now",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12607,
+      question: "Which type of fluoride is most commonly used in professional topical fluoride applications?",
+      options: [
+        "Calcium fluoride compound type",
+        "Stannous fluoride solution only",
+        "Sodium fluoride at neutral pH",
+        "Acidulated phosphate fluoride",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12608,
+      question: "What is the recommended fluoride concentration in community water fluoridation?",
+      options: [
+        "0.7 parts per million optimal",
+        "0.1-0.3 parts per million range",
+        "1.5-2.0 parts per million range",
+        "3.0-4.0 parts per million range",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12609,
+      question: "Which condition is a contraindication for acidulated phosphate fluoride (APF) treatment?",
+      options: [
+        "History of dental caries present",
+        "Porcelain or composite restorations",
+        "Patients over the age of twelve",
+        "Presence of dental calculus buildup",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12610,
+      question: "What is the primary mechanism of action of topical fluoride in preventing dental caries?",
+      options: [
+        "Killing all oral bacteria present",
+        "Increasing saliva production rate",
+        "Enhancing enamel remineralization",
+        "Preventing plaque accumulation only",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12611,
+      question: "How long should patients refrain from eating or drinking after a professional fluoride treatment?",
+      options: [
+        "10-15 minutes waiting period",
+        "60 minutes waiting period only",
+        "120 minutes waiting period",
+        "30 minutes waiting period",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12612,
+      question: "Which test uses cold temperature stimulus to assess pulp vitality in teeth?",
+      options: [
+        "Thermal pulp test procedure",
+        "Electric pulp test procedure",
+        "Percussion test procedure only",
+        "Transillumination test method",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12613,
+      question: "What does a negative response to pulp vitality testing typically indicate?",
+      options: [
+        "Healthy vital pulp tissue present",
+        "Necrotic or non-vital pulp tissue",
+        "Reversible pulpitis condition exists",
+        "Hypersensitive pulp tissue present",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12614,
+      question: "Which pulp test applies a small electrical current to determine tooth vitality status?",
+      options: [
+        "Thermal testing with cold spray",
+        "Percussion testing on crown",
+        "Electric pulp testing device",
+        "Bite testing with cotton roll",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12615,
+      question: "What is the purpose of isolating a tooth with cotton rolls during pulp testing?",
+      options: [
+        "To keep the area sterile only",
+        "To improve patient comfort level",
+        "To enhance visual examination view",
+        "To prevent current from spreading",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12616,
+      question: "Which Universal tooth numbering system number represents the maxillary right third molar?",
+      options: [
+        "Tooth number 1 in system",
+        "Tooth number 16 in system",
+        "Tooth number 17 in system",
+        "Tooth number 32 in system",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12617,
+      question: "In the Universal numbering system, which tooth is number 19?",
+      options: [
+        "Maxillary right first molar tooth",
+        "Mandibular left first molar tooth",
+        "Maxillary left third molar tooth",
+        "Mandibular right canine tooth only",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12618,
+      question: "What tooth numbering system uses letters A through T for primary teeth?",
+      options: [
+        "Palmer notation system only",
+        "FDI two-digit system only",
+        "Universal numbering system",
+        "International ISO system only",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12619,
+      question: "In the FDI (International) numbering system, what does the first digit represent?",
+      options: [
+        "The specific tooth type present",
+        "The patient's age category used",
+        "The surface being treated now",
+        "The quadrant of the mouth",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12620,
+      question: "What is the main concern regarding mercury exposure in dental settings?",
+      options: [
+        "Mercury vapor inhalation toxicity",
+        "Mercury causes tooth discoloration",
+        "Mercury increases cavity rates",
+        "Mercury causes gingival growth",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12621,
+      question: "Which of the following is a recommended mercury hygiene practice in dental offices?",
+      options: [
+        "Store mercury in open containers",
+        "Use high-volume evacuation suction",
+        "Heat amalgam before placement",
+        "Dispose of mercury in regular trash",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12622,
+      question: "What type of flooring is recommended in areas where amalgam is handled?",
+      options: [
+        "Carpeted flooring for comfort",
+        "Wooden flooring materials only",
+        "Seamless non-absorbent flooring",
+        "Tiled flooring with wide grout",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12623,
+      question: "How should amalgam scrap be stored in the dental office properly?",
+      options: [
+        "In open containers at room temp",
+        "In paper bags inside cabinets only",
+        "In plastic wrap on countertops",
+        "In sealed containers under water",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12624,
+      question: "What is the purpose of using rubber dam isolation during amalgam removal?",
+      options: [
+        "To reduce mercury vapor inhalation",
+        "To improve visibility of the area",
+        "To speed up the removal process",
+        "To prevent tooth fracture occurring",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12625,
+      question: "Which restorative material requires acid etching of enamel before placement?",
+      options: [
+        "Amalgam restoration material only",
+        "Composite resin material used",
+        "Gold crown restoration type only",
+        "Stainless steel crown type only",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12626,
+      question: "What is the primary advantage of composite resin restorations over amalgam?",
+      options: [
+        "Lower cost of the material used",
+        "Greater durability over time",
+        "Esthetics matching tooth color",
+        "Faster placement procedure time",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12627,
+      question: "Which bonding agent component penetrates into etched enamel micropores?",
+      options: [
+        "The phosphoric acid etchant",
+        "The composite filling material",
+        "The curing light wavelength used",
+        "The primer and adhesive resin",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12628,
+      question: "What type of light is used to cure light-activated composite resins?",
+      options: [
+        "Blue visible light wavelength",
+        "Ultraviolet light wavelength used",
+        "Infrared light wavelength used",
+        "White light wavelength spectrum",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12629,
+      question: "What is the purpose of using a matrix band during amalgam restoration placement?",
+      options: [
+        "To prevent pulp exposure risk",
+        "To provide a wall for condensation",
+        "To increase the setting time rate",
+        "To reduce mercury content used",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12630,
+      question: "Which instrument is used to carve the anatomy of an amalgam restoration?",
+      options: [
+        "Amalgam carrier instrument used",
+        "Condensers of various sizes only",
+        "Discoid-cleoid carver instrument",
+        "Burnisher instrument type only",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12631,
+      question: "What is the function of an amalgam condenser during restoration placement?",
+      options: [
+        "To carry amalgam to the tooth",
+        "To carve the occlusal anatomy",
+        "To polish the final restoration",
+        "To pack and adapt the amalgam",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12632,
+      question: "How long should a patient wait before chewing on a new amalgam restoration?",
+      options: [
+        "Wait at least 24 hours minimum",
+        "The patient can chew immediately",
+        "Wait at least one week total",
+        "Wait at least one month total",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12633,
+      question: "Which material is used for temporary restorations between dental appointments?",
+      options: [
+        "Permanent amalgam filling material",
+        "Intermediate restorative material",
+        "Porcelain crown material only",
+        "Gold inlay material type used",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12634,
+      question: "What is the primary purpose of using a base under a deep restoration?",
+      options: [
+        "To improve esthetics of restoration",
+        "To increase restoration strength",
+        "To provide thermal insulation",
+        "To reduce procedure time needed",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12635,
+      question: "Which dental cement is commonly used as a base under amalgam restorations?",
+      options: [
+        "Zinc phosphate cement material",
+        "Composite resin cement only",
+        "Calcium hydroxide cement type",
+        "Glass ionomer cement material",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12636,
+      question: "What is the function of a liner in restorative dentistry procedures?",
+      options: [
+        "To protect the pulp from irritation",
+        "To fill the entire cavity preparation",
+        "To increase restoration retention",
+        "To improve the esthetics present",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12637,
+      question: "Which instrument is used to place calcium hydroxide liner in a cavity preparation?",
+      options: [
+        "Amalgam carrier instrument only",
+        "Ball-ended applicator instrument",
+        "Plastic filling instrument only",
+        "Condenser instrument type used",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12638,
+      question: "What is the setting reaction of glass ionomer cement based on?",
+      options: [
+        "Light-curing polymerization only",
+        "Heat-curing process activated",
+        "Acid-base chemical reaction type",
+        "Self-curing chemical reaction",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12639,
+      question: "Which property makes glass ionomer cement beneficial for root surface restorations?",
+      options: [
+        "High compressive strength value",
+        "Rapid setting time present",
+        "Superior esthetics achieved",
+        "Fluoride release capability",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12640,
+      question: "What is the purpose of using a dental dam during restorative procedures?",
+      options: [
+        "To provide moisture control",
+        "To increase the setting time",
+        "To reduce material needed",
+        "To eliminate curing time",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12641,
+      question: "Which clamp design is used for anterior teeth during rubber dam isolation?",
+      options: [
+        "Winged clamps with flat jaws",
+        "Butterfly clamps with curved jaws",
+        "Wingless clamps with four prongs",
+        "Universal clamps with serrations",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12642,
+      question: "What is the correct sequence for rubber dam placement procedures?",
+      options: [
+        "Frame, dam, clamp placement order",
+        "Dam, clamp, frame placement order",
+        "Clamp, dam, frame placement order",
+        "Dam, frame, clamp placement order",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12643,
+      question: "Which tooth surface is the mesial surface located on?",
+      options: [
+        "Surface toward the cheek area",
+        "Surface toward the tongue area",
+        "Surface toward the back teeth",
+        "Surface toward the midline",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12644,
+      question: "What does the term \"distal\" refer to in dental terminology?",
+      options: [
+        "Surface away from the midline",
+        "Surface closest to the midline",
+        "Surface toward the tongue area",
+        "Surface toward the cheek area",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12645,
+      question: "Which tooth surface is in contact with the cheek tissue?",
+      options: [
+        "The lingual surface area only",
+        "The buccal surface area only",
+        "The mesial surface area only",
+        "The distal surface area only",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12646,
+      question: "What is the incisal edge of anterior teeth?",
+      options: [
+        "The root portion of the tooth",
+        "The side surface of the tooth",
+        "The cutting edge of the tooth",
+        "The back surface of the tooth",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12647,
+      question: "Which classification describes a cavity on the occlusal surface of molars?",
+      options: [
+        "Class II cavity classification",
+        "Class III cavity classification",
+        "Class IV cavity classification",
+        "Class I cavity classification",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12648,
+      question: "What type of cavity involves the proximal surfaces of posterior teeth?",
+      options: [
+        "Class II cavity classification",
+        "Class I cavity classification",
+        "Class III cavity classification",
+        "Class V cavity classification",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12649,
+      question: "Which cavity classification involves the proximal surfaces of anterior teeth without the incisal angle?",
+      options: [
+        "Class I cavity classification",
+        "Class III cavity classification",
+        "Class II cavity classification",
+        "Class IV cavity classification",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12650,
+      question: "A cavity involving the incisal angle of an anterior tooth is classified as which class?",
+      options: [
+        "Class II cavity classification",
+        "Class III cavity classification",
+        "Class IV cavity classification",
+        "Class V cavity classification",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12651,
+      question: "Class V cavities are located on which tooth surface area?",
+      options: [
+        "Occlusal surfaces of molars",
+        "Proximal surfaces of anteriors",
+        "Incisal edges of anteriors only",
+        "Gingival third of all teeth",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12652,
+      question: "What instrument is used to measure periodontal pocket depth?",
+      options: [
+        "Periodontal probe instrument",
+        "Explorer instrument type used",
+        "Scaler instrument type only",
+        "Curette instrument type used",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12653,
+      question: "Which type of periodontal probe has markings at specific millimeter intervals?",
+      options: [
+        "Nabors probe instrument type",
+        "Cowhorn probe type only",
+        "Williams probe instrument type",
+        "Universal probe type only",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12654,
+      question: "What is the normal sulcus depth in healthy periodontal tissue?",
+      options: [
+        "1-3 millimeters depth range",
+        "4-5 millimeters depth range",
+        "0-1 millimeters depth range",
+        "6-7 millimeters depth range",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12655,
+      question: "Which condition is characterized by inflammation of the gingiva without bone loss?",
+      options: [
+        "Periodontitis condition present",
+        "Pericoronitis condition only",
+        "Periapical abscess present",
+        "Gingivitis condition present",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12656,
+      question: "What is the primary cause of gingivitis in most patients?",
+      options: [
+        "Bacterial plaque accumulation",
+        "Viral infection of tissues only",
+        "Genetic predisposition only",
+        "Nutritional deficiency present",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12657,
+      question: "Which sign is characteristic of healthy gingival tissue?",
+      options: [
+        "Red and swollen appearance",
+        "Pink and stippled appearance",
+        "Bleeding upon probing present",
+        "Purulent exudate present",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12658,
+      question: "What does bleeding on probing indicate about gingival health?",
+      options: [
+        "Healthy tissue is present now",
+        "Tissue is well-attached present",
+        "Inflammation is present now",
+        "No treatment is needed now",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12659,
+      question: "Which type of calculus forms above the gingival margin?",
+      options: [
+        "Subgingival calculus type only",
+        "Serumal calculus type only",
+        "Salivary calculus type only",
+        "Supragingival calculus type",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12660,
+      question: "What is the primary source of minerals for supragingival calculus formation?",
+      options: [
+        "Saliva from salivary glands",
+        "Blood serum from tissues only",
+        "Crevicular fluid from sulcus",
+        "Food particles consumed daily",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12661,
+      question: "Which instrument is designed for removing supragingival calculus deposits?",
+      options: [
+        "Curette instrument type only",
+        "Sickle scaler instrument type",
+        "File instrument type only",
+        "Chisel instrument type only",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12662,
+      question: "What is the working end design of a universal curette instrument?",
+      options: [
+        "Single cutting edge present",
+        "Three cutting edges present",
+        "Two cutting edges present",
+        "Four cutting edges present",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12663,
+      question: "Which gracey curette is designed for use on anterior teeth?",
+      options: [
+        "Gracey 7/8 curette type only",
+        "Gracey 11/12 curette type",
+        "Gracey 13/14 curette type",
+        "Gracey 1/2 curette type",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12664,
+      question: "What is the correct working angulation for a curette during scaling?",
+      options: [
+        "0-40 degrees to the surface",
+        "100-120 degrees to surface",
+        "45-90 degrees to the surface",
+        "130-180 degrees to surface",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12665,
+      question: "Which stroke is used when adapting a curette for calculus removal?",
+      options: [
+        "Horizontal stroke pattern only",
+        "Vertical or oblique strokes",
+        "Circular stroke pattern only",
+        "Random stroke pattern used",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12666,
+      question: "What is the purpose of using an explorer during instrumentation?",
+      options: [
+        "To remove calculus deposits",
+        "To polish the tooth surface",
+        "To detect remaining deposits",
+        "To apply fluoride treatment",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12667,
+      question: "Which type of explorer has a long, thin working end for detecting subgingival calculus?",
+      options: [
+        "Shepherd's hook explorer type",
+        "Pigtail explorer type only",
+        "Orban explorer type only",
+        "11/12 explorer type used",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12668,
+      question: "What is the recommended maintenance interval for patients with healthy periodontium?",
+      options: [
+        "Every 1-2 months interval",
+        "Every 12 months interval",
+        "Every 6 months interval",
+        "Every 24 months interval",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12669,
+      question: "Which ultrasonic scaler tip design is used for subgingival instrumentation?",
+      options: [
+        "Universal tip with broad design",
+        "Straight, thick tip design",
+        "Flat, wide tip for coverage",
+        "Thin, curved tip for access",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12670,
+      question: "What is the primary mechanism of action of ultrasonic scalers?",
+      options: [
+        "Heat generation for removal",
+        "Chemical dissolution process",
+        "Mechanical vibration action",
+        "Laser ablation technique used",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12671,
+      question: "Which cooling mechanism is essential during ultrasonic scaling procedures?",
+      options: [
+        "Air cooling system present",
+        "No cooling is required here",
+        "Chemical coolant solution",
+        "Water lavage irrigation",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12672,
+      question: "What precaution should be taken when using ultrasonic scalers on patients with pacemakers?",
+      options: [
+        "Consult with patient's physician",
+        "No precautions are required",
+        "Never use ultrasonics at all",
+        "Use only at low power setting",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12673,
+      question: "Which polishing paste grit is recommended for removing heavy stain?",
+      options: [
+        "Fine grit polishing paste",
+        "Extra-fine grit paste only",
+        "No grit paste required here",
+        "Coarse grit polishing paste",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12674,
+      question: "What is the purpose of using a rubber cup for polishing?",
+      options: [
+        "To remove calculus deposits",
+        "To apply local anesthesia now",
+        "To polish coronal surfaces",
+        "To place dental sealants now",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12675,
+      question: "Which motion should be used when polishing with a rubber cup?",
+      options: [
+        "Continuous circular motion",
+        "Back and forth motion only",
+        "Up and down motion only",
+        "Intermittent wiping strokes",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12676,
+      question: "What is the recommended speed for rubber cup polishing?",
+      options: [
+        "Low speed rotary motion",
+        "High speed rotary motion",
+        "Variable speed motion only",
+        "No speed limit applies here",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12677,
+      question: "Which agent is commonly added to polishing paste for desensitization?",
+      options: [
+        "Chlorhexidine compound added",
+        "Fluoride compound added",
+        "Hydrogen peroxide added",
+        "Sodium hypochlorite used",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12678,
+      question: "What is selective polishing in dental hygiene practice?",
+      options: [
+        "Polishing all tooth surfaces",
+        "Polishing only anterior teeth",
+        "Polishing only stained areas",
+        "Polishing only posterior teeth",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12679,
+      question: "Which condition is a contraindication for air polishing procedures?",
+      options: [
+        "Presence of dental sealants",
+        "Presence of amalgam fillings",
+        "Presence of gold restorations",
+        "Respiratory conditions present",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12680,
+      question: "What type of particles are used in air polishing devices?",
+      options: [
+        "Sodium bicarbonate particles",
+        "Diamond particles for abrasion",
+        "Glass particles for polishing",
+        "Metal particles for cleaning",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12681,
+      question: "Which area should be avoided when using air polishing devices?",
+      options: [
+        "Enamel surfaces of teeth only",
+        "Exposed root surfaces present",
+        "Occlusal surfaces present now",
+        "Interproximal surfaces only",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12682,
+      question: "What is the purpose of applying disclosing solution before polishing?",
+      options: [
+        "To desensitize the teeth now",
+        "To strengthen the enamel",
+        "To visualize plaque deposits",
+        "To reduce tooth sensitivity",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12683,
+      question: "Dental sealants are only recommended for permanent teeth and should never be placed on primary teeth.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12684,
+      question: "The etched enamel surface should appear shiny and wet before sealant application.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12685,
+      question: "Fluoride varnish can be applied to wet tooth surfaces without prior drying.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12686,
+      question: "Acidulated phosphate fluoride is safe to use on all types of dental restorations.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12687,
+      question: "A positive response to electric pulp testing indicates that the pulp is vital.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12688,
+      question: "In the Universal numbering system, tooth number 1 is the mandibular left third molar.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12689,
+      question: "Mercury vapor is released when amalgam restorations are placed or removed.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12690,
+      question: "Composite resin restorations require acid etching of enamel before placement.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12691,
+      question: "Glass ionomer cement releases fluoride over time after placement.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12692,
+      question: "The mesial surface of a tooth faces away from the midline of the dental arch.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12693,
+      question: "Class II cavities involve the proximal surfaces of anterior teeth.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12694,
+      question: "Normal healthy sulcus depth ranges from 1-3 millimeters.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12695,
+      question: "Supragingival calculus forms primarily from minerals in blood serum.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12696,
+      question: "Universal curettes have two cutting edges on each working end.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12697,
+      question: "Ultrasonic scalers require water lavage during use to prevent overheating.",
+      options: [
+        "True",
+        "False",
+      ],
+      correct: "A"
+    }
   ]
 
 };
