@@ -18440,6 +18440,379 @@ export const questions = {
     }
   ],
   "0. TMJ (Disorder)": [
-    // questions
+    {
+      id: 12698,
+      question: "What are the two types of movement that make up normal TMJ movement?",
+      options: [
+        "Flexion and extension",
+        "Rotation and gliding",
+        "Gliding and compression",
+        "Rotation and translation",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12699,
+      question: "During the initial phase of mouth opening, what lubricates the rotation of the condyle against the articular disc?",
+      options: [
+        "The inferior synovial cavity",
+        "The superior synovial cavity",
+        "The collagenous lamina fluid",
+        "The elastic lamina secretion",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12700,
+      question: "During jaw opening, what is the role of the elastic lamina?",
+      options: [
+        "It contracts to assist the lateral pterygoid muscle during gliding",
+        "It prevents the articular disc from being pulled too far forward",
+        "It holds the disc more posteriorly so the condyle can rotate on top of it",
+        "It pulls the condyle forward along the articular eminence",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12701,
+      question: "Which muscle is responsible for pulling the condyle and disc forward during the gliding phase of mouth opening?",
+      options: [
+        "The superior head of the lateral pterygoid muscle",
+        "The masseter muscle",
+        "The inferior head of the medial pterygoid muscle",
+        "The temporalis muscle",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12702,
+      question: "During jaw closing, what structure prevents the articular disc from being pulled too far forward?",
+      options: [
+        "The inferior synovial membrane",
+        "The posterior ligament",
+        "The collagenous lamina",
+        "The elastic lamina",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12703,
+      question: "During mastication, which side does the condyle maintain contact with the mandibular fossa?",
+      options: [
+        "Alternating sides with each chewing cycle",
+        "The same side as the food being chewed",
+        "The side closest to the hyoid bone",
+        "The side opposite to the food",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12704,
+      question: "During mastication, what happens on the side of the mouth without food?",
+      options: [
+        "The inferior pterygoid relaxes to widen the joint space",
+        "The elastic lamina contracts to fill the space",
+        "The temporalis muscle pulls the condyle anteriorly to fill the space",
+        "The superior head of the lateral pterygoid pulls the thicker part of the disc forward",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12705,
+      question: "Which muscle contracts to pull the condyle posteriorly and bring the mandible back to centric occlusion during mastication?",
+      options: [
+        "The temporalis muscle",
+        "The masseter muscle",
+        "The buccinator muscle",
+        "The medial pterygoid muscle",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12706,
+      question: "What is the most likely cause of popping and clicking in the TMJ?",
+      options: [
+        "Spasm of the temporalis muscle during jaw opening",
+        "The articular disc being pulled too far forward, deranging over the articular eminence",
+        "Arthritis eroding the surface of the articular disc",
+        "Perforation of the inferior synovial cavity membrane",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12707,
+      question: "Which of the following are listed as causes of TMJ popping and clicking?",
+      options: [
+        "Malocclusion, fibromyalgia, and referred muscle pain",
+        "Bruxism, trismus, and subluxation of the condyle",
+        "Arthritis, disc perforations, and synovial membrane adhesions",
+        "Ankylosis, disc derangement, and bony fusion",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12708,
+      question: "Which of the following is a sign of popping and clicking during clinical assessment?",
+      options: [
+        "Radiographs show normal results with no bony changes",
+        "Complaints of diffuse pain in the neck and auricular region",
+        "A mandibular midline shift to one side observed during opening",
+        "The client is unable to close the mouth after wide opening",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12709,
+      question: "Which treatment option is NOT listed for popping and clicking of the TMJ?",
+      options: [
+        "Use of a nightguard splint",
+        "Ultrasound therapy",
+        "Physical therapy",
+        "Surgical recontouring of the articular eminence",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12710,
+      question: "Why is disc derangement typically more painful than simple popping and clicking?",
+      options: [
+        "Because the structures posterior to the disc have full nerve supply, unlike the disc itself",
+        "Because the lateral pterygoid muscle goes into permanent spasm during derangement",
+        "Because disc derangement always involves tearing of the temporal bone periosteum",
+        "Because the articular disc has a very high nerve supply throughout its body",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12711,
+      question: "What structures may be damaged if the articular disc is permanently displaced forward?",
+      options: [
+        "The inferior synovial cavity and the articular eminence cartilage surface",
+        "The posterior laminae, disc-to-condyle attachments, and the disc itself",
+        "The collagenous lamina and the mandibular fossa cartilage",
+        "The lateral pterygoid insertion and the condylar neck periosteum",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12712,
+      question: "What defines subluxation of the TMJ?",
+      options: [
+        "Habitual grinding of the teeth causing muscle fatigue and joint pain",
+        "Fibrous fusion of the mandible to the temporal bone limiting jaw movement",
+        "The articular disc permanently displaced anterior to the condyle position",
+        "The condyle sliding too far forward, passing over the height of the articular eminence",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12713,
+      question: "After subluxation, why is it difficult for the condyle to return over the articular eminence during closing?",
+      options: [
+        "The lateral pterygoid muscle locks the condyle in an anterior position",
+        "Muscles pull the condyle both upward and backward simultaneously",
+        "The elastic lamina becomes too rigid to allow posterior condylar movement",
+        "The collagenous lamina tears, removing posterior guidance of the articular disc",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12714,
+      question: "What is the manual reduction technique used for TMJ subluxation?",
+      options: [
+        "Apply upward pressure on the chin and guide the mandible in a forward direction",
+        "Press firmly on the TMJ externally while the patient attempts to close forcefully",
+        "Grasp the mandible from below and rotate it superiorly in one smooth motion",
+        "Place thumbs on the posterior occlusal surfaces and apply downward, then posterior pressure",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12715,
+      question: "Which of the following is a correct post-operative instruction given after subluxation treatment?",
+      options: [
+        "Do not open wide and avoid stretching the jaw when yawning",
+        "Apply heat to the TMJ and massage the condylar area daily",
+        "Perform jaw-stretching exercises three times per day",
+        "Chew gum regularly to strengthen the lateral pterygoid muscle",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12716,
+      question: "What is bruxism?",
+      options: [
+        "Referred muscle pain experienced in the TMJ from surrounding neck muscles",
+        "A condition where the condyle permanently displaces anterior to the articular eminence",
+        "The habitual grinding of teeth outside of normal function, often during sleep",
+        "Fibrous fusion of the mandibular condyle to the articular fossa over time",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12717,
+      question: "Where does most of the pain associated with bruxism originate?",
+      options: [
+        "From tiring of the muscles of mastication, with referred tenderness in the TMJ",
+        "From the perforation of the articular disc under repeated grinding forces",
+        "From damage to the inferior synovial cavity from excessive clenching forces",
+        "From tearing of the posterior laminae caused by habitual forward disc displacement",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12718,
+      question: "Which of the following is a clinical sign associated with bruxism?",
+      options: [
+        "The mandible becomes progressively immobile due to fibrosis of masticatory muscles",
+        "A visible shift of the mandibular midline during wide mouth opening",
+        "Audible joint noises detected with a stethoscope during condylar movement",
+        "Signs of abfraction and excessive wear on the occlusal surfaces of teeth",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12719,
+      question: "What is referred pain in the context of TMJ disorders?",
+      options: [
+        "Pain caused by direct nerve compression within the mandibular fossa",
+        "Pain interpreted as coming from the TMJ but actually originating from another area",
+        "Pain that originates in the TMJ and radiates to distant muscles of mastication",
+        "Pain resulting from disc perforation that radiates to the auricular region",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12720,
+      question: "Which clinical finding would suggest referred pain rather than an intrinsic TMJ disorder?",
+      options: [
+        "Audible clicking with a stethoscope and midline shift observed during opening",
+        "Inability to close the mouth following wide opening of the jaw",
+        "No pain on palpation and normal results on radiographic examination",
+        "Visible occlusal wear and partner reports of nighttime grinding sounds",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12721,
+      question: "How does malocclusion contribute to TMJ pain?",
+      options: [
+        "Improper tooth occlusion places masticatory muscles out of position, making them prone to fatigue",
+        "It leads to subluxation by reducing the height of the articular eminence over time",
+        "It causes direct disc derangement by altering condylar rotation angles",
+        "It compresses the inferior synovial cavity, causing adhesion of the synovial membranes",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12722,
+      question: "What distinguishes trismus from ankylosis?",
+      options: [
+        "Trismus is treated surgically while ankylosis resolves with physical therapy alone",
+        "Trismus only affects the articular disc while ankylosis affects the entire joint capsule",
+        "Trismus involves bony fusion while ankylosis involves muscle spasm of the jaw",
+        "Trismus involves muscle spasm or fibrosis while ankylosis involves bony or fibrous fusion",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12723,
+      question: "How does arthritis affect the TMJ specifically?",
+      options: [
+        "It causes the articular disc to permanently displace forward during all jaw movements",
+        "It may cause excessive wear of the articular disc and synovial cavities, reducing smooth movement",
+        "It results in fibrosis of the masticatory muscles, locking the jaw in a closed position",
+        "It increases the height of the articular eminence, predisposing the condyle to subluxation",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12724,
+      question: "What is fibromyalgia as it relates to TMJ disorders?",
+      options: [
+        "A localized condition causing disc perforation due to repetitive grinding forces",
+        "A specific TMJ disorder involving bony fusion between the condyle and articular fossa",
+        "An idiopathic syndrome causing generalized heightened nerve sensitivity that can extend to the TMJ",
+        "A condition involving synovial membrane adhesions that progressively restrict joint movement",
+      ],
+      correct: "C"
+    },
+    {
+      id: 12725,
+      question: "Why is the TMJ particularly susceptible to conditions like arthritis and fibromyalgia?",
+      options: [
+        "Because the elastic lamina weakens over time, reducing overall joint stability",
+        "Because it is the only joint in the body with a biconcave articular disc structure",
+        "Because it relies entirely on synovial fluid without any fibrocartilage protection",
+        "Because the TMJ is a high-stress joint used frequently for essential daily functions",
+      ],
+      correct: "D"
+    },
+    {
+      id: 12726,
+      question: "The first millimeters of mouth opening occur through a gliding movement of the condyle.",
+      options: [
+        "True",
+        "False",
+        "Only during wide opening",
+        "Only during chewing",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12727,
+      question: "During the closing phase of jaw movement, the elastic lamina applies a controlled posterior pull to guide the condyle back into the mandibular fossa.",
+      options: [
+        "True",
+        "False",
+        "Only during wide opening",
+        "Only during chewing",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12728,
+      question: "Disc derangement may resolve on its own over time without surgical intervention.",
+      options: [
+        "True",
+        "False",
+        "Only with physical therapy",
+        "Only with splint therapy",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12729,
+      question: "Subluxation occurs when the condyle slides too far forward and passes over the height of the articular eminence.",
+      options: [
+        "True",
+        "False",
+        "Only during extreme mouth opening",
+        "Only in patients with prior TMJ surgery",
+      ],
+      correct: "A"
+    },
+    {
+      id: 12730,
+      question: "Bruxism is more commonly experienced while the patient is awake rather than during sleep.",
+      options: [
+        "True",
+        "False",
+        "It occurs equally during waking and sleep",
+        "It only occurs during sleep",
+      ],
+      correct: "B"
+    },
+    {
+      id: 12731,
+      question: "Ankylosis can be treated conservatively with muscle relaxants and physical therapy alone.",
+      options: [
+        "True",
+        "False",
+        "Only in mild cases",
+        "Only in pediatric patients",
+      ],
+      correct: "B"
+    },
   ]
 };
