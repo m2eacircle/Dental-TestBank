@@ -46,7 +46,7 @@ export const questions = {
         "Posterior tubercle",
         "Mandibular condyle",
       ],
-      correct: "A"
+      correct: "B"
     },
     {
       id: 11004,
@@ -18438,6 +18438,8 @@ export const questions = {
       ],
       correct: "A"
     }
+  ],
+  "0. TMJ (Disorder)": [
+    // questions
   ]
-
 };
