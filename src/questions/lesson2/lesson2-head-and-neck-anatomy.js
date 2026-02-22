@@ -14754,7 +14754,7 @@ export const questions = {
         "A shallow depression or hollow space in bone",
         "A rounded protuberance forming an articulation",
       ],
-      correct: "D"
+      correct: "B"
     },
     {
       id: 12277,
@@ -14765,7 +14765,7 @@ export const questions = {
         "Canal",
         "Process",
       ],
-      correct: "A"
+      correct: "C"
     },
     {
       id: 12278,
@@ -14776,7 +14776,7 @@ export const questions = {
         "A short tube-like opening or passage through bone",
         "A groove or natural division between structures",
       ],
-      correct: "B"
+      correct: "C"
     },
     {
       id: 12279,
@@ -14798,7 +14798,7 @@ export const questions = {
         "Foramen",
         "Suture",
       ],
-      correct: "D"
+      correct: "A"
     },
     {
       id: 12281,
@@ -14820,7 +14820,7 @@ export const questions = {
         "A shallow depression or hollow in bone",
         "A rounded protuberance forming articulation",
       ],
-      correct: "A"
+      correct: "C"
     },
     {
       id: 12283,
@@ -14831,7 +14831,7 @@ export const questions = {
         "Process",
         "Condyle",
       ],
-      correct: "A"
+      correct: "C"
     },
     {
       id: 12284,
@@ -14842,7 +14842,7 @@ export const questions = {
         "14 bones",
         "22 bones",
       ],
-      correct: "A"
+      correct: "B"
     },
     {
       id: 12285,
@@ -14853,7 +14853,7 @@ export const questions = {
         "The bones of the jaw",
         "The bones of the inner ear",
       ],
-      correct: "D"
+      correct: "B"
     },
     {
       id: 12286,
@@ -14864,7 +14864,7 @@ export const questions = {
         "14 bones",
         "22 bones",
       ],
-      correct: "A"
+      correct: "C"
     },
     {
       id: 12287,
@@ -14875,7 +14875,7 @@ export const questions = {
         "Bones of the cranial vault",
         "Bones of the skull base",
       ],
-      correct: "C"
+      correct: "B"
     },
     {
       id: 12288,
@@ -14886,7 +14886,7 @@ export const questions = {
         "Lacrimal, nasal, and vomer",
         "Maxilla, palatine, and zygomatic",
       ],
-      correct: "A"
+      correct: "B"
     },
     {
       id: 12289,
@@ -14897,7 +14897,7 @@ export const questions = {
         "N.V.M.Z",
         "S.I.M",
       ],
-      correct: "A"
+      correct: "B"
     },
     {
       id: 12290,
@@ -14930,7 +14930,7 @@ export const questions = {
         "LIMP",
         "S.I.M",
       ],
-      correct: "A"
+      correct: "C"
     },
     {
       id: 12293,
@@ -14941,7 +14941,7 @@ export const questions = {
         "N.V.M.Z",
         "MMLT",
       ],
-      correct: "A"
+      correct: "C"
     },
     {
       id: 12294,
@@ -14952,7 +14952,7 @@ export const questions = {
         "3 lacrimal bones",
         "4 lacrimal bones",
       ],
-      correct: "D"
+      correct: "B"
     },
     {
       id: 12295,
@@ -14985,7 +14985,7 @@ export const questions = {
         "Between sensory neurons within the cord",
         "Between hemispheres for coordination",
       ],
-      correct: "D"
+      correct: "B"
     },
     {
       id: 12298,
@@ -14996,7 +14996,7 @@ export const questions = {
         "Autonomic and somatic systems",
         "Sympathetic and parasympathetic divisions",
       ],
-      correct: "C"
+      correct: "A"
     },
     {
       id: 12299,
@@ -15007,7 +15007,7 @@ export const questions = {
         "Nerves extending from brain and spinal cord, including ANS",
         "Only the autonomic nervous system",
       ],
-      correct: "A"
+      correct: "C"
     },
     {
       id: 12300,
@@ -15029,7 +15029,7 @@ export const questions = {
         "A pathway only in the peripheral nerves",
         "A long-distance signal requiring multiple neurons",
       ],
-      correct: "D"
+      correct: "B"
     },
     {
       id: 12302,
@@ -15040,7 +15040,7 @@ export const questions = {
         "Sending sensory info to CNS and motor signals to skeletal muscles",
         "Managing unconscious breathing patterns",
       ],
-      correct: "A"
+      correct: "C"
     },
     {
       id: 12303,
@@ -15073,7 +15073,7 @@ export const questions = {
         "Stress response system",
         "Emergency response system",
       ],
-      correct: "C"
+      correct: "B"
     },
     {
       id: 12306,
@@ -15084,7 +15084,7 @@ export const questions = {
         "Heart rate increases and salivary flow decreases",
         "Breathing slows and muscle tension decreases",
       ],
-      correct: "D"
+      correct: "C"
     },
     {
       id: 12307,
@@ -15095,7 +15095,7 @@ export const questions = {
         "Blood pressure increases and digestion decreases",
         "Pupils dilate and breathing accelerates",
       ],
-      correct: "A"
+      correct: "B"
     },
     {
       id: 12308,
@@ -15128,7 +15128,7 @@ export const questions = {
         "Drooping eyelid and dilated pupil",
         "Loss of taste sensation",
       ],
-      correct: "C"
+      correct: "B"
     },
     {
       id: 12311,
@@ -15139,7 +15139,7 @@ export const questions = {
         "Eye movement",
         "Pupil constriction",
       ],
-      correct: "C"
+      correct: "B"
     },
     {
       id: 12312,
@@ -15172,7 +15172,7 @@ export const questions = {
         "Facial expression and taste sensation",
         "Hearing and balance",
       ],
-      correct: "D"
+      correct: "B"
     },
     {
       id: 12315,
@@ -15194,7 +15194,7 @@ export const questions = {
         "Muscles of facial expression",
         "Muscles of mastication",
       ],
-      correct: "C"
+      correct: "B"
     },
     {
       id: 12317,
@@ -15227,7 +15227,7 @@ export const questions = {
         "Both motor and sensory",
         "Autonomic only",
       ],
-      correct: "D"
+      correct: "B"
     },
     {
       id: 12320,
@@ -15238,7 +15238,7 @@ export const questions = {
         "Loss of smell sensation",
         "Paralysis of facial muscles",
       ],
-      correct: "A"
+      correct: "B"
     },
     {
       id: 12321,
@@ -15249,7 +15249,7 @@ export const questions = {
         "4 divisions",
         "5 divisions",
       ],
-      correct: "A"
+      correct: "B"
     },
     {
       id: 12322,
@@ -15260,7 +15260,7 @@ export const questions = {
         "Both motor and sensory",
         "Autonomic only",
       ],
-      correct: "A"
+      correct: "C"
     },
     {
       id: 12323,
@@ -15271,7 +15271,7 @@ export const questions = {
         "All three divisions are sensory only",
         "V1 is motor; V2 and V3 are sensory",
       ],
-      correct: "A"
+      correct: "B"
     },
     {
       id: 12324,
@@ -15898,7 +15898,7 @@ export const questions = {
         "Glossopharyngeal nerve (CN IX)",
         "Vagus nerve (CN X)",
       ],
-      correct: "D"
+      correct: "B"
     },
     {
       id: 12381,
@@ -15909,7 +15909,7 @@ export const questions = {
         "Side of the neck",
         "Back of the throat",
       ],
-      correct: "D"
+      correct: "B"
     },
     {
       id: 12382,
@@ -15920,7 +15920,7 @@ export const questions = {
         "Mental protuberance",
         "Coronoid process",
       ],
-      correct: "A"
+      correct: "B"
     },
     {
       id: 12383,
@@ -15942,7 +15942,7 @@ export const questions = {
         "Lateral movement of mandible",
         "Retraction of mandible",
       ],
-      correct: "D"
+      correct: "B"
     },
     {
       id: 12385,
@@ -15953,7 +15953,7 @@ export const questions = {
         "Glossopharyngeal nerve (CN IX)",
         "Hypoglossal nerve (CN XII)",
       ],
-      correct: "C"
+      correct: "B"
     },
     {
       id: 12386,
@@ -15964,7 +15964,7 @@ export const questions = {
         "Mandibular angle",
         "Coronoid process",
       ],
-      correct: "C"
+      correct: "B"
     },
     {
       id: 12387,
@@ -15986,7 +15986,7 @@ export const questions = {
         "First cervical nerve of the neck",
         "Glossopharyngeal nerve (CN IX)",
       ],
-      correct: "B"
+      correct: "C"
     },
     {
       id: 12389,
@@ -16008,7 +16008,7 @@ export const questions = {
         "Fuses with the mylohyoid",
         "Attaches to the mandible",
       ],
-      correct: "A"
+      correct: "B"
     },
     {
       id: 12391,
@@ -16019,7 +16019,7 @@ export const questions = {
         "Depresses the mandible",
         "Elevates the mandible",
       ],
-      correct: "A"
+      correct: "B"
     },
     {
       id: 12392,
@@ -16030,7 +16030,7 @@ export const questions = {
         "Glossopharyngeal nerve (CN IX)",
         "Hypoglossal nerve (CN XII)",
       ],
-      correct: "C"
+      correct: "B"
     },
     {
       id: 12393,
@@ -16052,7 +16052,7 @@ export const questions = {
         "Three bellies",
         "Four bellies",
       ],
-      correct: "A"
+      correct: "B"
     },
     {
       id: 12395,
@@ -16074,7 +16074,7 @@ export const questions = {
         "Retracts the mandible",
         "Elevates the scapula",
       ],
-      correct: "D"
+      correct: "B"
     },
     {
       id: 12397,
@@ -16085,7 +16085,7 @@ export const questions = {
         "Trigeminal nerve (CN V)",
         "Facial nerve (CN VII)",
       ],
-      correct: "D"
+      correct: "B"
     },
     {
       id: 12398,
@@ -16096,7 +16096,7 @@ export const questions = {
         "Upper border of the manubrium of the sternum",
         "Clavicle",
       ],
-      correct: "A"
+      correct: "C"
     },
     {
       id: 12399,
@@ -16107,7 +16107,7 @@ export const questions = {
         "Retracts the mandible",
         "Elevates the sternum",
       ],
-      correct: "D"
+      correct: "B"
     },
     {
       id: 12400,
@@ -16162,7 +16162,7 @@ export const questions = {
         "Facial nerve (CN VII)",
         "Hypoglossal nerve (CN XII)",
       ],
-      correct: "D"
+      correct: "B"
     },
     {
       id: 12405,
@@ -16173,7 +16173,7 @@ export const questions = {
         "Scapula",
         "Hyoid bone",
       ],
-      correct: "A"
+      correct: "B"
     },
     {
       id: 12406,
@@ -16184,7 +16184,7 @@ export const questions = {
         "Elevates the thyroid gland",
         "Retracts the mandible",
       ],
-      correct: "A"
+      correct: "B"
     },
     {
       id: 12407,
@@ -16195,7 +16195,7 @@ export const questions = {
         "Facial nerve (CN VII)",
         "Trigeminal nerve (CN V)",
       ],
-      correct: "D"
+      correct: "B"
     },
     {
       id: 12408,
