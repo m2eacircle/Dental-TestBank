@@ -744,6 +744,7 @@ export const subjectsWithSubtopics = {
   "Head and Neck Anatomy": [
     "0. TMJ (Part 1)",
     "0. TMJ (Part 2)",
+    "0. TMJ (Disorder)",
     "1. Bones of the skull (Part 1)",
     "1. Bones of the skull (Part 2)",
     "2. Landmarks on bones (Part 1)",
