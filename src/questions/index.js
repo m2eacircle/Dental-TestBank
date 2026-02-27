@@ -768,9 +768,9 @@ export const subjectsWithSubtopics = {
     "2. Drug Metabolism, Antibiotics, and Clinical Pharmacology",
     "3. Clinical Case Applications and Patient Care Scenarios",
     "4. Local Anesthetic",
-    "5. Local Anesthetic",
-    "6. Local Anesthetic",
-    "7. Local Anesthetic",
+    "5. Final Review (Part 1)",
+    "6. Final Review (Part 2)",
+    "7. Final Review (Part 3)"
   ],
   "Oral Health Education": [
     "1. Soft and Hard Deposits",
