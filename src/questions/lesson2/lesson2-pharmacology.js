@@ -833,13 +833,13 @@ export const questions = {
     { id: 10817, question: "Stable in solution means the anesthetic maintains its properties and doesn't break down in storage.", options: ["True", "False"], correct: 0 },
     { id: 10818, question: "Low cost is a desirable property because affordable anesthetics make treatment accessible to more patients.", options: ["True", "False"], correct: 0 }
   ],
-  "5. Local Anesthetic": [
+  "5. Final Review (Part 1)": [
     // qeustions  
   ],
-  "6. Local Anesthetic": [
+  "6. Final Review (Part 2)": [
     // qeustions  
   ],
-  "7. Local Anesthetic": [
+  "7. Final Review (Part 3)": [
      // qeustions  
   ]
 };
