@@ -704,7 +704,7 @@ export const questions = {
     { id: 10690, question: "A client taking antibiotics develops Candida overgrowth due to disruption of normal flora. This is BEST described as:", options: ["Primary infection", "Opportunistic infection", "Viral infection", "Hypersensitivity"], correct: 1 },
     { id: 10691, question: "A client asks why drugs cannot create new body functions. What is the BEST explanation?", options: ["Drugs act independently", "Drugs act only on exogenous pathways", "Drugs act on endogenous functions only", "Drugs replace body systems"], correct: 2 }
   ],
-  "7-1. Local Anesthetic": [
+  "4. Local Anesthetic": [
     { id: 10692, question: "What is the primary function of a local anesthetic agent?", options: ["To cause loss of sensation in a localized area by depressing nerve excitation", "To stimulate peripheral nerve endings and enhance tactile sensation", "To permanently block pain impulses from reaching the central nervous system", "To increase blood flow to peripheral tissues and enhance healing"], correct: 0 },
     { id: 10693, question: "Which metabolic pathway distinguishes esters from amides in local anesthetics?", options: ["Esters are metabolized in the kidneys while amides are metabolized in the intestines", "Esters are metabolized in the blood plasma while amides are metabolized in the liver", "Esters are metabolized in the liver while amides are metabolized in the blood plasma", "Esters are metabolized in muscle tissue while amides are metabolized in adipose tissue"], correct: 1 },
     { id: 10694, question: "What mnemonic trick helps distinguish amides from esters in local anesthetic agents?", options: ["Esters have shorter chemical names than amides", "Esters contain three \"e\"s in their names and are metabolized in the blood", "Amides end with \"-caine\" while esters end with \"-aine\"", "Amides contain two \"i\"s in their names and are metabolized in the liver (which has two \"i\"s)"], correct: 3 },
@@ -833,4 +833,13 @@ export const questions = {
     { id: 10817, question: "Stable in solution means the anesthetic maintains its properties and doesn't break down in storage.", options: ["True", "False"], correct: 0 },
     { id: 10818, question: "Low cost is a desirable property because affordable anesthetics make treatment accessible to more patients.", options: ["True", "False"], correct: 0 }
   ],
+  "5. Local Anesthetic": [
+    // qeustions  
+  ],
+  "6. Local Anesthetic": [
+    // qeustions  
+  ],
+  "7. Local Anesthetic": [
+     // qeustions  
+  ]
 };
