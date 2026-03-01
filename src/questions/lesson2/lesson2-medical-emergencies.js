@@ -9,9 +9,10 @@
 //   1. Introduction and prevention (Part 3-2)
 //   2. Vital Signs revised
 //   3. Legal considerations revised
+//   2-3. Medical Emergencies
 // 
-// TOTAL: 792 questions
-// ID Range: 70001 - 70753
+// TOTAL: 871 questions
+// ID Range: 70001 - 70832
 
 export const questions = {
   "1. Introduction and prevention (Part 1)": [
@@ -7739,6 +7740,858 @@ export const questions = {
     },
   ], 
   "2-3. Medical Emergencies": [
-    //questions
+    {
+      id: 70754,
+      question: "Which of the following is a primary reason why medical emergencies in the dental office are more likely today?",
+      options: [
+        "Patients are less willing to disclose their medical histories to clinicians",
+        "More people are living longer with controlled chronic diseases",
+        "Dental procedures have become significantly shorter in recent years",
+        "Clinicians are less trained in emergency management than before"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70755,
+      question: "Which factor related to surgical procedures contributes to increased medical emergency risk in dental settings?",
+      options: [
+        "An increase in short, simple procedures such as polish-only appointments",
+        "Reduced use of local anesthesia for routine dental hygiene procedures",
+        "An increase in complex surgical procedures such as implant placements",
+        "A decrease in the number of patients seeking elective dental care"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70756,
+      question: "Why does increased drug use contribute to a higher risk of medical emergencies in dental offices?",
+      options: [
+        "Patients are less likely to report drug allergies when medications are common",
+        "Local anesthetics, sedation agents, and nitrous oxide all carry associated risks",
+        "Drug use by clinicians impairs their ability to manage emergencies safely",
+        "Patients who use drugs tend to have more difficult dental anatomy"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70757,
+      question: "According to the class, which of the following correctly describes how medical advances contribute to emergency risk?",
+      options: [
+        "Advances in medicine have completely eliminated the need for medical history",
+        "Patients who previously would have died from illnesses now survive and present for dental care",
+        "Medical advances have reduced the number of medications patients take daily",
+        "Newer surgical techniques prevent any complications during dental treatment"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70758,
+      question: "What is the recommended time to schedule dental appointments for fearful or medically compromised patients?",
+      options: [
+        "Last appointment of the day so the office has extra time available",
+        "Mid-afternoon, after the patient has had time to eat and relax",
+        "First thing in the morning, when patients are less active and less anxious",
+        "Any time is acceptable as long as sedation is available for the patient"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70759,
+      question: "Why should medically compromised patients have shorter dental appointments?",
+      options: [
+        "Longer appointments increase the risk of infection from prolonged exposure",
+        "Insurance companies do not reimburse for appointments exceeding one hour",
+        "Longer appointments increase the stress placed on the patient's body",
+        "Short appointments ensure the clinician finishes on time every session"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70760,
+      question: "A highly anxious patient who refuses both local anesthetic and nitrous oxide requires what action?",
+      options: [
+        "Proceed with treatment using topical anesthetic only to manage discomfort",
+        "Contact the patient's family doctor to discuss consent and management options",
+        "Refer the patient to an oral surgeon who specializes in anxious patients",
+        "Dismiss the patient from care since they cannot cooperate with treatment"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70761,
+      question: "What is the single best strategy to reduce the risk of a medical emergency in a dental setting?",
+      options: [
+        "Keep all appointments short and avoid scheduling complex procedures",
+        "Ensure oxygen and an EpiPen are readily available at every appointment",
+        "Complete and review a thorough medical history for every patient",
+        "Always schedule medically complex patients in the afternoon for safety"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70762,
+      question: "If a patient reports that they bruise easily during the medical history review, what should the clinician do?",
+      options: [
+        "Document it and proceed with care since bruising is rarely significant",
+        "Cancel the appointment immediately and refer the patient to their physician",
+        "Investigate further to determine if the patient has a bleeding disorder",
+        "Note it in the chart and increase suction use throughout the procedure"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70763,
+      question: "Why is it important for dental clinicians to follow up thoroughly on medical history questionnaire responses?",
+      options: [
+        "It helps the clinician bill the insurance company at the correct rate",
+        "Incomplete follow-up can lead to missing conditions that increase emergency risk",
+        "Medical histories are primarily legal documents rather than clinical tools",
+        "Regulatory bodies require completed medical forms before any appointment"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70764,
+      question: "For a patient with epilepsy, what key information should be documented before proceeding with dental treatment?",
+      options: [
+        "The patient's most recent dental appointment and last cleaning date",
+        "Whether the patient has dental anxiety and how they prefer to manage it",
+        "When the last seizure occurred and whether the condition is currently controlled",
+        "Whether the patient takes calcium channel blockers affecting gingival tissue"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70765,
+      question: "According to Ontario dental practice, which source should be referenced for the most current blood pressure guidelines?",
+      options: [
+        "The American Heart Association guidelines for hypertension management",
+        "The provincial CDHO guidelines, which are more current for Ontario practice",
+        "The textbook by Malamed published in 2007 for dental emergencies",
+        "The Canadian Dental Association's published clinical practice standards"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70766,
+      question: "Why should blood pressure be reassessed after five minutes if the initial reading is elevated?",
+      options: [
+        "The cuff may have been placed incorrectly and the error must be corrected",
+        "A single reading is insufficient to make any clinical decisions about the patient",
+        "To confirm the reading and determine whether treatment can proceed safely",
+        "Regulatory guidelines require two readings for every patient appointment"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70767,
+      question: "What should patients with hypertension be asked to avoid before a dental appointment?",
+      options: [
+        "Eating a large meal, wearing tight clothing, or taking prescribed medications",
+        "Drinking water, using mouthwash, or arriving too early for the appointment",
+        "Smoking, consuming caffeinated drinks, and exercising within 30 minutes prior",
+        "Talking to anyone before the appointment to keep stress levels very low"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70768,
+      question: "For routine pediatric patients aged around 7–10 years old, which vitals are typically assessed in dental practice?",
+      options: [
+        "Blood pressure and temperature, but not pulse or respiratory rate",
+        "Height and weight only, since other vitals are not relevant in children",
+        "Full vitals including blood pressure, identical to adult assessment protocols",
+        "Pulse and respiration only, since blood pressure is not typically taken"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70769,
+      question: "Why is patient height and weight recorded in a dental setting?",
+      options: [
+        "To assess nutritional status and make dietary recommendations for patients",
+        "For BMI calculation, sedation dosing, and appropriate local anesthetic dosing",
+        "To determine the correct chair height for patient comfort and accessibility",
+        "For documentation purposes required by all Ontario dental regulatory bodies"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70770,
+      question: "What is the significance of BMI in dental clinical practice?",
+      options: [
+        "It helps estimate the patient's likelihood of developing periodontal disease",
+        "It determines whether a patient qualifies for government-funded dental care",
+        "It influences sedation dosing and local anesthetic maximum dosage calculations",
+        "It measures patient fitness levels to guide appointment length scheduling"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70771,
+      question: "Why can local anesthetic still be administered to cardiac patients in a dental setting?",
+      options: [
+        "Cardiac patients are immune to adverse reactions from local anesthetic agents",
+        "Local anesthetic is mandatory for all patients regardless of medical history",
+        "It can be given safely when dosing is carefully adjusted to body weight",
+        "The dentist's consent overrides any cardiac-related concerns during care"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70772,
+      question: "What are the three factors that should be evaluated when monitoring a patient's heart rate and rhythm?",
+      options: [
+        "Heart rate, skin colour, and capillary refill time at the fingertip",
+        "Heart rate, blood pressure, and respiratory rate measured together",
+        "Heart rate, heart rhythm, and pulse quality assessed at the radial artery",
+        "Heart rate, temperature, and oxygen saturation measured simultaneously"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70773,
+      question: "Where is the pulse most commonly assessed in dental clinical practice?",
+      options: [
+        "Carotid artery at the side of the neck for easiest clinician access",
+        "Brachial artery located in the upper arm region near the elbow",
+        "Femoral artery in the groin for most accurate cardiovascular readings",
+        "Radial artery at the wrist for ease of access and patient comfort"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70774,
+      question: "Why should the clinician avoid telling the patient when their respiratory rate is being measured?",
+      options: [
+        "Patients may object to being monitored and refuse to cooperate further",
+        "Informing the patient will require written consent before measurement",
+        "Patients may consciously alter their breathing pattern when they are aware",
+        "Regulatory standards prohibit disclosure of assessment procedures used"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70775,
+      question: "For how long should respiratory rate ideally be monitored according to the class?",
+      options: [
+        "At least 10 seconds to obtain a reading, with 20 seconds as the ideal",
+        "At least 15 seconds to obtain a reading, with 30 seconds as the ideal",
+        "At least 30 seconds to obtain a reading, with 60 seconds as the ideal",
+        "At least 45 seconds to obtain a reading, with 90 seconds as the ideal"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70776,
+      question: "What is the normal respiratory rate for a healthy adult at rest?",
+      options: [
+        "8 to 12 breaths per minute for a healthy resting adult patient",
+        "16 to 18 breaths per minute for a healthy resting adult patient",
+        "20 to 24 breaths per minute for a healthy resting adult patient",
+        "24 to 30 breaths per minute for a healthy resting adult patient"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70777,
+      question: "What is the average normal body temperature, and at what reading does it indicate a pathologic process?",
+      options: [
+        "Average is 36.5°C; above 38.0°C indicates a pathologic process",
+        "Average is 36.0°C; above 37.5°C indicates a pathologic process",
+        "Average is 35.7°C; above 38.8°C indicates a pathologic process",
+        "Average is 37.0°C; above 39.5°C indicates a pathologic process"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70778,
+      question: "Which of the following is a visible sign of anxiety that can be detected during visual inspection of a patient?",
+      options: [
+        "Elevated blood pressure, dilated pupils, and excessive sweating",
+        "Pale skin, low blood pressure, and very slow speech patterns",
+        "Decreased heart rate, constricted pupils, and slow blinking",
+        "Increased appetite, rapid blinking, and increased salivation"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70779,
+      question: "What is the recommended approach when a clinician notices a patient is visibly anxious?",
+      options: [
+        "Ask the patient directly whether they are nervous to address their anxiety",
+        "Use distraction techniques such as conversation or entertainment options",
+        "Immediately offer benzodiazepine medication before starting any procedure",
+        "Reschedule the appointment for a time when the patient feels more prepared"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70780,
+      question: "Why does excessive waiting time in the dental office increase patient anxiety?",
+      options: [
+        "Patients become bored and start researching the procedure on their phones",
+        "Prolonged waiting causes physical discomfort from sitting in the dental chair",
+        "Waiting gives patients more time to anticipate and ruminate about the procedure",
+        "Delayed appointments violate CDHO scheduling regulations for anxiety patients"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70781,
+      question: "Which of the following best describes how a moderately anxious patient may appear during dental care?",
+      options: [
+        "Relaxed posture, slow speech, and comfortable eye contact with the clinician",
+        "Giving quick answers, fidgeting with hands or tissues, and stiff posture",
+        "Appearing sleepy, slow to respond, and showing very constricted pupils",
+        "Requesting additional details about procedures and asking for a second opinion"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70782,
+      question: "What is the purpose of including anxiety screening questions in the medical history form?",
+      options: [
+        "To determine the patient's preferred language for appointment communications",
+        "To identify anxiety levels so that treatment can be modified to prevent emergencies",
+        "To comply with provincial insurance requirements for anxiety-related treatments",
+        "To decide whether the patient should be referred to a psychologist first"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70783,
+      question: "Why is compassion important when managing a patient with significant dental anxiety?",
+      options: [
+        "Compassionate clinicians are less likely to be sued for malpractice later",
+        "Anxious patients are often battling real fears or past traumatic dental experiences",
+        "Dental regulations in Ontario require all clinicians to demonstrate empathy",
+        "Compassion improves the speed at which procedures can be completed safely"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70784,
+      question: "According to ASA classification, which category describes a patient with a well-controlled systemic condition?",
+      options: [
+        "ASA I: a completely healthy patient with no systemic disease present",
+        "ASA II: a patient with a mild systemic disease that is well controlled",
+        "ASA III: a patient with a severe systemic disease that limits daily activity",
+        "ASA IV: a patient with a life-threatening disease that is not controlled"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70785,
+      question: "What type of dental treatment is permitted for an ASA IV patient in a dental office?",
+      options: [
+        "All treatment types including invasive surgery with physician consultation",
+        "Only emergency extractions needed to prevent immediate systemic infection",
+        "Invasive procedures only if performed under full general anesthesia",
+        "Non-invasive treatment only, with invasive treatment requiring physician guidelines"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70786,
+      question: "For which ASA categories is it especially important to record pre- and post-operative vital signs?",
+      options: [
+        "ASA I and II, since these patients are the most common in private practice",
+        "ASA II and IV, since both categories have significant systemic conditions",
+        "ASA III and IV, since these patients carry greater medical risk during care",
+        "ASA I and III, since alternating high and low risk requires closer monitoring"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70787,
+      question: "What does 'white coat syndrome' refer to in the context of vital signs assessment?",
+      options: [
+        "A condition where patients develop infections from improperly sterilised equipment",
+        "Elevated blood pressure readings caused by anxiety about being in a clinical setting",
+        "A professional requirement for all clinicians to wear clean uniforms daily",
+        "A disorder in which patients refuse to have their blood pressure taken"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70788,
+      question: "Which of the following is included in the stress reduction protocol for a healthy, minimally anxious patient?",
+      options: [
+        "Mandatory prescription of anti-anxiety medication before every appointment",
+        "Scheduling appointments in the afternoon to allow the patient to rest first",
+        "Recognising the patient's anxiety level and premedicating the night before if needed",
+        "Requiring a medical clearance letter before any dental treatment is initiated"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70789,
+      question: "What post-treatment action is recommended for highly anxious or fearful patients?",
+      options: [
+        "Mail a formal written summary of all procedures performed during the visit",
+        "Call the patient later that same day or the following day to follow up",
+        "Ask the patient to complete an anxiety survey before leaving the office",
+        "Refer the patient to a counsellor or therapist for ongoing anxiety management"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70790,
+      question: "How should highly anxious, moderate-to-high-risk patients be scheduled to reduce emergency risk?",
+      options: [
+        "Schedule at the last appointment of the week to avoid affecting other patients",
+        "Schedule randomly throughout the week to maintain equal appointment distribution",
+        "Schedule early in the week and early in the day when the team is most alert",
+        "Schedule only on Fridays so the weekend provides extra recovery time"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 70791,
+      question: "What is the role of pain control in the dental stress reduction protocol?",
+      options: [
+        "Pain control is secondary to time management during busy clinical sessions",
+        "Adequate pain control during therapy is essential to minimise physiological stress",
+        "Pain control only matters if the patient is classified as ASA III or higher",
+        "Pain control is delegated entirely to the dentist and not the hygienist's concern"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70792,
+      question: "Which class of antidepressants is most commonly encountered in dental patients?",
+      options: [
+        "Selective Serotonin Reuptake Inhibitors (SSRIs), which affect serotonin only",
+        "Monoamine Oxidase Inhibitors (MAOIs), which block neurotransmitter breakdown",
+        "Tricyclic antidepressants (TCAs), which affect multiple neurotransmitter systems",
+        "Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs) affecting two neurotransmitters"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70793,
+      question: "Why do SNRIs require extra caution compared to SSRIs in dental patients?",
+      options: [
+        "SNRIs affect both serotonin and norepinephrine, increasing interaction risks",
+        "SNRIs are associated with a higher risk of xerostomia than other antidepressants",
+        "SNRIs have a much shorter half-life, meaning they wear off during appointments",
+        "SNRIs interact more severely with topical anesthetics applied to the gingiva"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70794,
+      question: "What interaction risk must clinicians be mindful of when a dental patient takes SSRIs?",
+      options: [
+        "SSRIs can reduce the effectiveness of rubber dam material in isolation",
+        "SSRIs may interact with local anesthetic or oral sedation agents used in treatment",
+        "SSRIs increase the risk of latex allergy reactions during dental procedures",
+        "SSRIs reduce the absorption of fluoride, making topical treatment ineffective"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70795,
+      question: "What makes Zoloft (sertraline) relatively easier to manage in dental patients compared to SNRIs?",
+      options: [
+        "Zoloft affects serotonin only, making it simpler to assess interaction risks",
+        "Zoloft does not cause dry mouth, which is beneficial for oral health management",
+        "Zoloft is available as a liquid form that does not interact with dental materials",
+        "Zoloft has a shorter duration of action, reducing the window for drug interactions"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70796,
+      question: "In Ontario, which drug is the only one a dental hygienist is authorised to administer independently?",
+      options: [
+        "Nitroglycerin, if the patient is conscious and experiencing chest pain",
+        "Albuterol inhaler, if the patient is experiencing an asthmatic episode",
+        "Aromatic ammonia, if the patient is showing signs of syncope or fainting",
+        "Epinephrine via EpiPen in a life-threatening emergency situation"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70797,
+      question: "In Ontario, why are dental hygienists not permitted to independently administer oxygen?",
+      options: [
+        "Oxygen administration is too dangerous to be performed by non-physicians",
+        "It falls outside the regulated scope of dental hygiene practice in Ontario",
+        "Oxygen equipment is too complex for dental hygienists to operate safely",
+        "Ontario clinics are not required to have oxygen available for emergencies"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70798,
+      question: "For a conscious patient with angina who needs nitroglycerin, who administers it in the dental office?",
+      options: [
+        "The patient self-administers it, or the dentist administers it from the kit",
+        "The emergency responder administers it after being called to the office",
+        "The dental hygienist places the tablet under the patient's tongue for them",
+        "The dental assistant draws it into a syringe and injects it intramuscularly"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70799,
+      question: "Under what condition may a dental hygienist suggest an over-the-counter medication to a patient?",
+      options: [
+        "Only if the dentist is absent and no other medication option is available",
+        "Only if the patient specifically asks and the hygienist has read the label",
+        "The hygienist may never suggest medications; this is outside their scope",
+        "When they know the risks, there are no contraindications, and they document it"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70800,
+      question: "Which of the following correctly lists contents that should be in a dental office emergency kit?",
+      options: [
+        "EpiPen, albuterol inhaler, nitroglycerin, oxygen, and glucose sources",
+        "Morphine, midazolam, atropine, dextrose, and an AED device",
+        "Diphenhydramine, beta-blockers, aspirin, and a blood pressure machine",
+        "Antibiotics, corticosteroids, blood glucose monitor, and a tourniquet"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70801,
+      question: "What is the approximate shelf life of nitroglycerin once the bottle has been opened?",
+      options: [
+        "About 12 weeks, or approximately three months after opening the bottle",
+        "About 24 months, or approximately two years after opening the bottle",
+        "About 4 weeks, or approximately one month after opening the bottle",
+        "About 6 months, or approximately half a year after opening the bottle"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70802,
+      question: "Nitroglycerin is contraindicated in which of the following patient scenarios?",
+      options: [
+        "A patient who took a sexual enhancement drug within the past 24 hours",
+        "A patient with type 2 diabetes whose blood sugar is well controlled",
+        "A patient with stable angina who has used nitroglycerin in the past",
+        "A patient with a history of asthma who uses a salbutamol inhaler"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70803,
+      question: "If a dental office does not have a junior EpiPen (0.15 mg) for a child in an emergency, what should be done?",
+      options: [
+        "Administer the adult dose (0.3 mg) since saving the life is the priority",
+        "Give half of an adult EpiPen by discharging part of the device only",
+        "Administer Benadryl as an alternative since it is safer for children",
+        "Wait for EMS to arrive since giving the wrong dose is too dangerous"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70804,
+      question: "Why is Benadryl (diphenhydramine) not considered a mandatory item in all dental office emergency kits?",
+      options: [
+        "It is rarely needed, not universally stocked, and not officially mandatory",
+        "Benadryl requires a prescription in Ontario and cannot be kept OTC in clinics",
+        "It is only effective when combined with epinephrine and cannot be used alone",
+        "Benadryl causes such severe drowsiness that it is dangerous in dental settings"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70805,
+      question: "What is the correct management approach when aromatic ammonia is used for syncope?",
+      options: [
+        "Break it under the patient's nose to stimulate via inhalation of vapour",
+        "Place it under the patient's tongue so it absorbs sublingually quickly",
+        "Inject it intramuscularly into the thigh for the fastest onset of action",
+        "Mix it with oxygen and administer it through a face mask to the patient"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70806,
+      question: "For which of the following conditions is oxygen administration indicated in a dental office?",
+      options: [
+        "Hypoxia or cardiovascular conditions where the body lacks sufficient oxygen",
+        "Any patient who requests oxygen to help them feel calm during treatment",
+        "Orthostatic hypotension where repositioning the chair is insufficient alone",
+        "Hyperventilation caused by anxiety, since the patient needs more oxygen"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70807,
+      question: "What is the maximum flow rate of oxygen typically referenced in this class for dental emergencies?",
+      options: [
+        "3 litres per minute as the maximum oxygen flow in dental emergencies",
+        "10 litres per minute as the maximum oxygen flow in dental emergencies",
+        "1 litre per minute as the maximum oxygen flow in dental emergencies",
+        "5 litres per minute as the maximum oxygen flow in dental emergencies"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70808,
+      question: "What does the clinical phrase 'if it's not documented, it didn't happen' mean in dental practice?",
+      options: [
+        "Undocumented actions cannot be legally defended or professionally verified",
+        "Documentation is optional but recommended for all patient interactions",
+        "Only major procedures need to be documented in the progress notes",
+        "All appointments must be filmed to verify that procedures were performed"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70809,
+      question: "When should a clinician document all observations and actions taken during a patient emergency?",
+      options: [
+        "As soon as possible after the event, including EMS handover time and details",
+        "Documentation is not required for emergencies since EMS will handle reporting",
+        "Only after the patient has left the clinic and is confirmed to be safe",
+        "Before initiating any treatment so the timeline is accurately captured"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70810,
+      question: "According to the class, what is the correct priority order during a dental medical emergency?",
+      options: [
+        "BLS comes first; drug administration is secondary to life-saving resuscitation",
+        "Visual assessment first, then documentation, then BLS as a last resort",
+        "Drug administration first, then BLS if drugs are ineffective for the patient",
+        "Call EMS first, then begin BLS while waiting for emergency services to arrive"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70811,
+      question: "Even in a case of anaphylaxis, what is the correct sequence of management?",
+      options: [
+        "Perform BLS first, then administer the EpiPen as the secondary measure",
+        "Call EMS first, administer EpiPen, then begin BLS only if EMS is delayed",
+        "Administer Benadryl first, then BLS, then EpiPen only if no improvement",
+        "Administer EpiPen first to address the allergy before starting BLS"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70812,
+      question: "What is the primary responsibility of Team Member 1 during a dental office medical emergency?",
+      options: [
+        "Stay with the patient, initiate BLS, and yell for help to alert the team",
+        "Meet EMS at the entrance of the building to guide them to the correct unit",
+        "Retrieve the emergency kit and bring the AED to the site of emergency",
+        "Call 911 and stay on the line to relay all necessary information to dispatch"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70813,
+      question: "What is the primary responsibility of Team Member 2 during a dental office medical emergency?",
+      options: [
+        "Call 911 and provide the operator with all relevant patient information",
+        "Document all actions taken from the moment the emergency is identified",
+        "Remain with the patient and initiate CPR until the dentist arrives on site",
+        "Bring oxygen, the emergency kit, and the AED to the location of the patient"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70814,
+      question: "Why does the dentist typically lead the emergency team during a medical emergency in the dental office?",
+      options: [
+        "The dentist is the only team member trained in Basic Life Support (BLS)",
+        "Dentists have more years of general education compared to other dental staff",
+        "Dental regulations require that the most senior person always leads the team",
+        "The dentist holds authority to administer emergency drugs from the kit"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70815,
+      question: "How often must dental hygienists complete CPR and BLS refresher training according to CDHO requirements?",
+      options: [
+        "Every three years, as long as the clinician works in a regulated facility",
+        "Only once upon graduation, as the skills are considered lifelong training",
+        "Every two years, aligned with the RDH licence renewal cycle in Ontario",
+        "Every year, regardless of when the license renewal is scheduled to occur"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70816,
+      question: "What information should be provided to EMS when calling 911 during a dental emergency?",
+      options: [
+        "The dentist's license number and the names of all staff present at the time",
+        "The patient's insurance information, billing code, and dental record number",
+        "The clinic's business hours, parking instructions, and postal code only",
+        "Location, phone number, what happened, patient condition, aid given, and medical history"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70817,
+      question: "Which of the following correctly lists aspirin's four pharmacological properties (the '4 A's')?",
+      options: [
+        "Analgesic, Antiemetic, Antiviral, and Anti-inflammatory properties",
+        "Antihypertensive, Analgesic, Anti-inflammatory, and Antifungal properties",
+        "Antibiotic, Antifungal, Anti-inflammatory, and Antispasmodic properties",
+        "Analgesic, Antipyretic, Anti-inflammatory, and Antiplatelet properties"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70818,
+      question: "Ibuprofen is described as having '3 A's'. Which property does it lack compared to aspirin?",
+      options: [
+        "Analgesic (pain relief) effect that is present in aspirin but not ibuprofen",
+        "Anti-inflammatory effect that is present in aspirin but not ibuprofen",
+        "Antipyretic (fever-reducing) effect that is present in aspirin but not ibuprofen",
+        "Antiplatelet effect that is present in aspirin but not in ibuprofen"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70819,
+      question: "When would an RDH suggest ibuprofen (Advil) post-operatively rather than Tylenol?",
+      options: [
+        "When the patient only has mild pain without any notable gingival inflammation",
+        "When the patient is taking SSRIs and requires a non-serotonin-based pain option",
+        "When the patient reports a history of stomach ulcers from anti-inflammatory use",
+        "When the patient has significant periodontal inflammation and pain after treatment"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70820,
+      question: "What is ketoacidosis, and in which diabetic condition is it most commonly seen?",
+      options: [
+        "A condition of very low blood sugar requiring immediate glucose administration",
+        "An inflammatory response in the kidneys caused by uncontrolled blood sugar",
+        "Excess sugar in the blood due to too much insulin; most common in Type 2 diabetes",
+        "A condition of excess acids/ketones in the body, most common in Type 1 diabetes"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70821,
+      question: "What does the term 'diaphoresis' describe in the context of a patient assessment?",
+      options: [
+        "A sensation of the heart pounding or beating rapidly perceived by the patient",
+        "Difficulty swallowing, often associated with a pharyngeal or esophageal issue",
+        "Abnormal electrical activity of the heart causing an irregular heart rhythm",
+        "Excessive perspiration or sweating, often associated with a medical emergency"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70822,
+      question: "What does 'dysphagia' refer to when assessing a dental patient's symptoms?",
+      options: [
+        "Excessive sweating in response to pain, fever, or emotional distress",
+        "Abnormal heart rhythm that causes irregular pumping of blood through vessels",
+        "Difficulty breathing associated with obstructed or restricted airway passages",
+        "Difficulty swallowing, which may indicate a systemic or structural condition"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70823,
+      question: "What is the correct definition of 'hemolysis' as it relates to blood physiology?",
+      options: [
+        "The migration of white blood cells to the site of an active infection",
+        "The formation of clots inside blood vessels, reducing blood flow to organs",
+        "The excessive production of red blood cells in response to chronic hypoxia",
+        "The rupturing or destruction of red blood cells within the bloodstream"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70824,
+      question: "What does 'orthostatic hypotension' describe in a dental patient context?",
+      options: [
+        "Abnormally low blood pressure that is consistently present at all body positions",
+        "A rapid increase in heart rate triggered by sitting in the dental chair",
+        "Elevated blood pressure caused by anxiety during dental treatment procedures",
+        "A sudden drop in blood pressure when the patient changes body position rapidly"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 70825,
+      question: "In Ontario, oxygen administration falls within the regulated scope of practice for dental hygienists.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70826,
+      question: "The best time to schedule appointments for fearful or medically compromised patients is first thing in the morning.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70827,
+      question: "Blood pressure should be taken on all pediatric patients, including those as young as 7 years old, as part of a routine dental assessment.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70828,
+      question: "Respiratory rate should be measured immediately after taking the pulse, without informing the patient.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70829,
+      question: "Oxygen is indicated for treating hyperventilation in anxious dental patients.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70830,
+      question: "BLS must be performed before drug administration, even in a case of anaphylaxis.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 70831,
+      question: "SSRIs and SNRIs carry the same level of interaction risk with local anesthetics and oral sedation agents.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 70832,
+      question: "The dental hygienist in Ontario may administer the EpiPen independently in a life-threatening emergency.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
   ]  
 };
