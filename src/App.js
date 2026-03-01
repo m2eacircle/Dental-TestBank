@@ -146,7 +146,15 @@ const AIAssistantPanel = ({ question, options, show }) => {
     window.open(url, '_blank', 'noopener,noreferrer');
   };
   
-  // Note: Auto-copy removed - user must click copy button or AI assistant button to copy
+  // Auto-copy when panel shows
+  useEffect(() => {
+    if (show && question && options) {
+      const questionText = formatQuestionForAI();
+      navigator.clipboard.writeText(questionText).catch(err => {
+        console.error('Auto-copy failed:', err);
+      });
+    }
+  }, [show]);
   
   if (!show) return null;
   
@@ -170,7 +178,7 @@ const AIAssistantPanel = ({ question, options, show }) => {
       </div>
       
       <p className="text-xs text-gray-600 text-center">
-        Click an AI assistant to open and copy question
+        Question sent automatically and copied to clipboard
       </p>
     </div>
   );
@@ -377,9 +385,9 @@ export default function ImprovedTestBankApp() {
   const [lastTestQuestions, setLastTestQuestions] = useState([]);
   const [usedQuestionIds, setUsedQuestionIds] = useState(new Set());
     const [topicProgress, setTopicProgress] = useState({}); // Track progress per topic
-  // const [shuffledQuestionPool, setShuffledQuestionPool] = useState({}); // Shuffled question pool per topic - Unused
-  // const [currentPoolIndex, setCurrentPoolIndex] = useState({}); // Current index in shuffled pool per topic - Unused
-  // const [currentTopicKey, setCurrentTopicKey] = useState(null); // Currently selected topic key - Unused
+  const [shuffledQuestionPool, setShuffledQuestionPool] = useState({}); // Shuffled question pool per topic
+  const [currentPoolIndex, setCurrentPoolIndex] = useState({}); // Current index in shuffled pool per topic
+  const [currentTopicKey, setCurrentTopicKey] = useState(null); // Currently selected topic key
   const [isRetakeTest, setIsRetakeTest] = useState(false); // Track if current test is a retake
   const [termsAccepted, setTermsAccepted] = useState(false); // Track terms acknowledgment
   const [showTermsModal, setShowTermsModal] = useState(false); // Track terms modal visibility
@@ -493,7 +501,6 @@ export default function ImprovedTestBankApp() {
     } else if (!studyMode && timeLeft === 0 && testStarted && screen === 'test') {
       finishTest();
     }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [testStarted, timeLeft, screen, studyMode, isPaused]);
 
   // Memoized statistics calculation
@@ -782,7 +789,7 @@ export default function ImprovedTestBankApp() {
       const newProgress = currentProgress + selectedQuestions.length;
       setTopicProgress(prev => ({
         ...prev,
-        [topicKey]: newProgress // Use newProgress directly, don't use Math.max
+        [topicKey]: Math.max(currentProgress, newProgress)
       }));
     }
     
@@ -826,7 +833,7 @@ export default function ImprovedTestBankApp() {
       const newProgress = currentProgress + answeredCount;
       setTopicProgress(prev => ({
         ...prev,
-        [topicKey]: newProgress // Use newProgress directly, don't use Math.max
+        [topicKey]: Math.max(currentProgress, newProgress)
       }));
     }
     
@@ -930,7 +937,7 @@ export default function ImprovedTestBankApp() {
             {/* m2ea Circle Link - Top Level */}
             <div className="flex justify-end mb-4">
               <a
-                href="https://www.m2eacircle.com/education/index.html"
+                href="https://www.m2eacircle.com/education/index_en.html"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-3 py-2 rounded-lg hover:bg-gray-100 transition-colors text-gray-700 text-sm font-medium"
@@ -1438,9 +1445,6 @@ export default function ImprovedTestBankApp() {
                 </div>
               )}
               {studyMode && <div className="text-sm font-semibold text-green-600">Study Mode</div>}
-              <div className="text-sm font-semibold text-gray-600">
-                {currentQuestionIndex + 1}/{selectedQuestions.length}
-              </div>
             </div>
             
             {/* Test Progress Bar (for current test session) */}
