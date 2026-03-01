@@ -716,7 +716,15 @@ export const subjectsWithSubtopics = {
     "2. Normal Anatomical Landmarks of the Maxilla and Tooth Structure",
     "3. Radiographic Anatomy of the Mandible and Periodontal Structures",
     "4. Normal Anatomical Landmarks on Panoramic Radiographs",
-    "5. Film Mounting, Viewing Procedures, and Periodontal Disease Assessment"
+    "5. Film Mounting, Viewing Procedures, and Periodontal Disease Assessment",
+    "6. Radiographic Interpretation (Part 1)",
+    "6. Radiographic Interpretation (Part 2)",
+    "6. Radiographic Interpretation (Part 3)",
+    "6. Radiographic Interpretation (Part 4)",
+    "7. Dental Caries",
+    "8. Radiographic Interpretation",
+    "9. Radiographic Interpretation",
+    "10. Dental Radiology"
   ], 
   "Dental Radiography Theory": [
     "1. Radiation History & Radiation Physics (Part 1)",
