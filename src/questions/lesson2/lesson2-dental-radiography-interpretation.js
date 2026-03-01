@@ -5767,7 +5767,7 @@ export const questions = {
       correctAnswer: 1
     }
   ],
-  "8. Radiographic Interpretatio": [
+  "8. Radiographic Interpretation": [
     {
       id: 60559,
       question: "How do metallic restorations appear on a dental radiograph?",
