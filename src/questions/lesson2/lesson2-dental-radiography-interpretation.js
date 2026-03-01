@@ -6,8 +6,14 @@
 //   3. Radiographic Anatomy of the Mandible and Periodontal Structures (73 questions)
 //   4. Normal Anatomical Landmarks on Panoramic Radiographs (87 questions)
 //   5. Film Mounting, Viewing Procedures, and Periodontal Disease Assessment (201 questions)
+//   6. Radiographic Interpretation (Part 1-2) (38 questions)
+//   6. Radiographic Interpretation (Part 3-4) (51 questions)
+//   7. Dental Caries (52 questions)
+//   8. Radiographic Interpretation - Dental Materials (51 questions)
+//   9. Radiographic Interpretation - Trauma & Pathology (70 questions)
+//  10. Dental Radiology - Periodontal & Developmental (53 questions)
 // 
-// TOTAL: 661 questions
+// TOTAL: 727 questions
 
 export const questions = {
   "1. Fundamentals and Professional Practice": [
@@ -4263,21 +4269,3354 @@ export const questions = {
     }
   ],
   "6. Radiographic Interpretation (Part 1-2)": [
-    //questions
+    {
+      id: 60418,
+      question: "What is the PRIMARY purpose of descriptive terminology in dental radiography?",
+      options: [
+        "To describe what is observed accurately without making a diagnosis",
+        "To provide a legal diagnosis of disease based on radiographic findings",
+        "To replace the need for the dentist to review radiographic images",
+        "To classify lesions based on their severity and treatment priority"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60419,
+      question: "Why is descriptive terminology considered essential for legal purposes?",
+      options: [
+        "It allows hygienists to diagnose conditions and bill insurance companies",
+        "It enables dentists to skip reviewing radiographs in routine appointments",
+        "It provides a shortcut for documenting radiographic findings quickly",
+        "It reduces the chance of miscommunication between dental professionals"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60420,
+      question: "Which of the following BEST defines a diagnosis in the context of dental care?",
+      options: [
+        "A report written by the dental hygienist for the patient record",
+        "The identification of disease by examination or analysis",
+        "The process of describing lesion size and location to the dentist",
+        "A description of what is visually observed on a dental radiograph"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60421,
+      question: "What does descriptive terminology describe when applied to a lesion on a dental radiograph?",
+      options: [
+        "The prognosis, treatment plan, and billing code for the lesion",
+        "The patient's medical history and relevant systemic conditions",
+        "The name of the disease and the expected treatment outcome",
+        "The appearance, location, and size of a lesion without diagnosing"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60422,
+      question: "Which of the following BEST distinguishes descriptive terminology from diagnosis?",
+      options: [
+        "Descriptive terminology describes radiographic findings; diagnosis identifies disease",
+        "Descriptive terminology is used by dentists; diagnosis is used by hygienists",
+        "Descriptive terminology identifies disease; diagnosis describes radiographic findings",
+        "Descriptive terminology is only used legally; diagnosis is used clinically"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60423,
+      question: "According to the lecture, where can all the information covered in Lecture #6 be found?",
+      options: [
+        "Chapter 31 of the dental hygiene textbook",
+        "Chapter 28 of the dental hygiene textbook",
+        "Chapter 29 of the dental hygiene textbook",
+        "Chapter 30 of the dental hygiene textbook"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60424,
+      question: "Which type of lesion is specifically introduced in the descriptive terminology section of this lecture?",
+      options: [
+        "Cystic lesions found in gingival tissue",
+        "Radiopaque lesions found in soft tissue",
+        "Radiolucent lesions found in bone",
+        "Mixed density lesions found in enamel"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60425,
+      question: "Who is the dental professional that the hygienist must accurately describe radiographic findings to?",
+      options: [
+        "The dental laboratory technician managing prosthetics",
+        "The DDS (Doctor of Dental Surgery)",
+        "The dental assistant assigned to the operatory",
+        "The office manager responsible for billing"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60426,
+      question: "What is the MAIN reason dental professionals use descriptive terminology when communicating image findings?",
+      options: [
+        "To allow hygienists to perform independent diagnoses legally",
+        "To satisfy insurance company requirements for reimbursement",
+        "To demonstrate superior knowledge to other team members",
+        "To reduce the chance of miscommunication between professionals"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60427,
+      question: "Which of the following is a key characteristic of descriptive terminology?",
+      options: [
+        "It is used exclusively by dentists and oral surgeons, not hygienists",
+        "It is only applicable when the hygienist suspects a malignant condition",
+        "It uses specific terms to describe a lesion's features without diagnosing",
+        "It provides a definitive name and classification for the observed disease"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60428,
+      question: "Descriptive terminology allows the dental hygienist to both describe AND diagnose what is seen on a dental radiograph.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60429,
+      question: "Radiolucent lesions discussed in descriptive terminology are found in bone.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60430,
+      question: "The use of descriptive terminology is essential for legal purposes in dental practice.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60431,
+      question: "Which term describes a radiolucent lesion that has only one compartment?",
+      options: [
+        "Corticated",
+        "Noncorticated",
+        "Unilocular",
+        "Multilocular"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60432,
+      question: "A radiolucent lesion with a thin, well-demarcated radiopaque rim at its periphery is best described as:",
+      options: [
+        "Periapical",
+        "Corticated",
+        "Multilocular",
+        "Noncorticated"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60433,
+      question: "Which term is used to describe the area around the apex of a tooth?",
+      options: [
+        "Pericoronal",
+        "Edentulous zone",
+        "Inter-radicular",
+        "Periapical"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60434,
+      question: "A unilocular radiolucent lesion with corticated borders is generally indicative of which type of process?",
+      options: [
+        "Benign, slow-growing process",
+        "Aggressive neoplastic growth",
+        "Rapidly spreading, malignant process",
+        "Reactive or neoplastic process"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60435,
+      question: "Which location term refers to the area between the roots of adjacent teeth?",
+      options: [
+        "Periapical",
+        "Edentulous zone",
+        "Pericoronal",
+        "Inter-radicular"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60436,
+      question: "The term \"noncorticated\" describes a lesion whose border is characterized by which feature?",
+      options: [
+        "Multiple soap-bubble compartments",
+        "A fuzzy or poorly defined appearance",
+        "A well-defined, thin radiopaque rim",
+        "Expansion of the buccal plate of bone"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60437,
+      question: "A unilocular radiolucent lesion with noncorticated borders may represent which type of process?",
+      options: [
+        "Only a benign slow-growing lesion",
+        "Only a reactive neoplastic lesion",
+        "Either a benign or a malignant process",
+        "Only a malignant aggressive lesion"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60438,
+      question: "Multilocular radiolucent lesions are typically described as resembling which of the following?",
+      options: [
+        "A thin white rim around one compartment",
+        "Soap bubbles with multiple compartments",
+        "A fuzzy or poorly defined single dark area",
+        "A single well-defined circular radiolucency"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60439,
+      question: "Alveolar bone loss is best defined as loss of which structure?",
+      options: [
+        "Maxillary or mandibular bone that surrounds and supports the teeth",
+        "The inter-radicular space between adjacent tooth roots",
+        "The crown structure of an impacted tooth",
+        "The thin radiopaque corticated rim around a lesion"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60440,
+      question: "Which term describes a radiolucent area found around the crown of an impacted tooth?",
+      options: [
+        "Pericoronal",
+        "Alveolar bone loss",
+        "Inter-radicular",
+        "Periapical"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60441,
+      question: "Compared to unilocular lesions, multilocular radiolucent lesions tend to be:",
+      options: [
+        "Similar in size but with noncorticated borders",
+        "Smaller, corticated, and non-aggressive in nature",
+        "Larger, expansile, and capable of displacing bone plates",
+        "Smaller, non-expansile, and less clearly defined"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60442,
+      question: "An \"edentulous zone\" is defined as which of the following?",
+      options: [
+        "Area around the apex of a non-vital tooth root",
+        "An area in the jaw where no teeth are present",
+        "Area around the crown of an unerupted tooth",
+        "Area between the roots of two adjacent teeth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60443,
+      question: "Which of the following is a characteristic feature of multilocular radiolucent lesions regarding their margins?",
+      options: [
+        "They typically exhibit well-defined, corticated margins",
+        "They typically show noncorticated, fuzzy borders",
+        "They typically lack any visible border or margin",
+        "They typically show irregular, poorly defined borders"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60444,
+      question: "A unilocular corticated radiolucent lesion located at the tip of a tooth root is found in which location?",
+      options: [
+        "Inter-radicular",
+        "Periapical",
+        "Edentulous zone",
+        "Pericoronal"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60445,
+      question: "Which type of lesion is most associated with representing a reactive or neoplastic process?",
+      options: [
+        "Unilocular lesion with corticated borders",
+        "Unilocular lesion with noncorticated borders",
+        "Multilocular radiolucent lesion",
+        "Periapical lesion with fuzzy margins"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60446,
+      question: "What does the term \"multilocular\" specifically describe about a radiolucent lesion?",
+      options: [
+        "It is located around the crown of an impacted tooth",
+        "It has a thin, well-defined radiopaque rim",
+        "It has fuzzy or poorly defined borders",
+        "It contains multiple compartments within the lesion"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60447,
+      question: "A radiolucent lesion with a border that does NOT show a thin radiopaque rim and appears fuzzy is described as:",
+      options: [
+        "Unilocular noncorticated",
+        "Multilocular corticated",
+        "Periapical corticated",
+        "Unilocular corticated"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60448,
+      question: "Which of the four appearance terms best describes a lesion most likely benign and slow-growing when small and non-expansile?",
+      options: [
+        "Multilocular with corticated borders",
+        "Multilocular with noncorticated borders",
+        "Unilocular with noncorticated borders",
+        "Unilocular with corticated borders"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60449,
+      question: "How many terms are used to describe the location of radiolucent lesions of the jaw as presented in this lecture?",
+      options: [
+        "Three location terms",
+        "Four location terms",
+        "Five location terms",
+        "Six location terms"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60450,
+      question: "Which of the following growth characteristics is typical of multilocular radiolucent lesions?",
+      options: [
+        "Small and non-expansile with poorly defined borders",
+        "Slow-growing and benign with no corticated margins",
+        "Typically malignant with noncorticated and fuzzy borders",
+        "Benign in nature but exhibiting aggressive growth patterns"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60451,
+      question: "A corticated lesion has a fuzzy or poorly defined border at its periphery.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60452,
+      question: "Multilocular radiolucent lesions are typically larger and more expansile than unilocular lesions.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60453,
+      question: "A unilocular radiolucent lesion with noncorticated borders can represent either a benign or a malignant process.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60454,
+      question: "The term \"periapical\" refers to the area around the crown of an impacted tooth.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60455,
+      question: "Multilocular radiolucent lesions typically exhibit well-defined, corticated margins.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    }
   ],
   "6. Radiographic Interpretation (Part 3-4)": [
-    //questions
+    {
+      id: 60456,
+      question: "What type of radiographic lesion appears as a dark or black area on a dental radiograph, indicating bone loss?",
+      options: [
+        "Radiolucent lesion",
+        "Focal opacity lesion",
+        "Radiopaque lesion",
+        "Soft tissue opacity lesion"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60457,
+      question: "What is the term used for a well-defined, localized radiopaque lesion seen on a dental radiograph?",
+      options: [
+        "Ground glass opacity",
+        "Multifocal confluent",
+        "Target lesion",
+        "Focal opacity"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60458,
+      question: "Which descriptive term refers to a well-defined radiopaque lesion that is surrounded by a uniform radiolucent halo?",
+      options: [
+        "Irregular/ill defined opacity",
+        "Target lesion",
+        "Multifocal confluent opacity",
+        "Soft tissue opacity"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60459,
+      question: "What term describes multiple radiopacities that appear to flow or overlap one another on a radiograph?",
+      options: [
+        "Focal opacity",
+        "Ground glass opacity",
+        "Target lesion",
+        "Multifocal confluent"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60460,
+      question: "Which of the following best describes an \"irregular/ill defined opacity\"?",
+      options: [
+        "A granular radiopacity that resembles pulverized glass",
+        "A well-defined radiopaque lesion with a clear radiolucent halo",
+        "An opacity with irregular borders and a poorly defined pattern",
+        "Multiple overlapping radiopaque areas merging together"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60461,
+      question: "What does the term \"ground glass opacity\" describe in radiographic interpretation?",
+      options: [
+        "A granular or pebbled radiopacity resembling pulverized glass",
+        "A radiolucent lesion caused by alveolar bone loss",
+        "Multiple radiopacities that overlap and flow into each other",
+        "A well-defined radiopaque lesion in soft tissue only"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60462,
+      question: "Which term describes a lesion that contains both radiolucent and radiopaque components, including central opaque flecks or calcifications?",
+      options: [
+        "Ground glass opacity",
+        "Multifocal confluent",
+        "Target lesion",
+        "Mixed lucent-opaque lesion"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60463,
+      question: "Where is a \"soft tissue opacity\" located on a dental radiograph?",
+      options: [
+        "Along the root surface of a tooth",
+        "At the apex of a tooth root only",
+        "In soft tissue as a well-defined radiopaque area",
+        "Within the trabecular bone pattern"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60464,
+      question: "How many descriptive terms are used to describe the appearance of radiopaque lesions?",
+      options: [
+        "5",
+        "7",
+        "6",
+        "8"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60465,
+      question: "What unit of measurement is recommended when measuring the size of a radiolucent or radiopaque lesion?",
+      options: [
+        "Centimeters using a standard ruler",
+        "Micrometers using a caliper",
+        "Inches using a standard ruler",
+        "Millimeters using a millimeter ruler"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60466,
+      question: "Why is documenting the size of a lesion clinically important?",
+      options: [
+        "It is required only for insurance billing purposes",
+        "It determines which type of radiograph should be used",
+        "It helps determine the patient's age and bone density",
+        "It provides a baseline for future comparisons and tracks rate of change"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60467,
+      question: "What range of sizes can radiolucent and radiopaque lesions vary?",
+      options: [
+        "From 0.1 millimeters to 1 millimeter in diameter",
+        "From 1 millimeter to 1 centimeter only",
+        "From several millimeters to several centimeters in diameter",
+        "From 5 millimeters to 10 centimeters in diameter"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60468,
+      question: "How does the size of a lesion clinically impact patient care?",
+      options: [
+        "It influences what type of treatment is necessary",
+        "It is used solely to classify the lesion as benign or malignant",
+        "It defines which tooth is most likely associated with the lesion",
+        "It determines whether a radiograph is needed at all"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60469,
+      question: "In which tissues can radiopaque lesions be found?",
+      options: [
+        "Only in cortical bone",
+        "In both bone and soft tissue",
+        "Only in soft tissue",
+        "Only in cancellous bone"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60470,
+      question: "Which of the following visual tools may be used as a comparison guideline when estimating lesion size?",
+      options: [
+        "A periodontal probe held against the radiograph",
+        "The width of a molar crown on the same film",
+        "A full-mouth series of radiographs for comparison",
+        "Reference objects like pencil tips of 1 mm, 2 mm, and 5 mm"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60471,
+      question: "What radiographic finding is present when alveolar bone loss occurs around the teeth?",
+      options: [
+        "A ground glass pattern throughout the jaw",
+        "A radiolucent lesion caused by alveolar bone loss",
+        "A soft tissue opacity near the crown of a tooth",
+        "A radiopaque lesion between the roots of teeth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60472,
+      question: "Which of the following lesion types would most likely appear as a \"bullseye\" pattern on a radiograph?",
+      options: [
+        "Target lesion",
+        "Ground glass opacity",
+        "Irregular/ill defined opacity",
+        "Multifocal confluent"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60473,
+      question: "A radiograph shows a hazy, granular pattern within the bone resembling crushed glass. Which term best describes this finding?",
+      options: [
+        "Focal opacity",
+        "Multifocal confluent",
+        "Mixed lucent-opaque lesion",
+        "Ground glass opacity"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60474,
+      question: "A radiograph reveals a dark area near the apex of a tooth, indicating bone destruction. This is best classified as which type of lesion?",
+      options: [
+        "A focal opacity",
+        "A ground glass opacity",
+        "A radiolucent lesion",
+        "A soft tissue opacity"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60475,
+      question: "Which of the following is NOT one of the 7 terms used to describe the appearance of radiopaque lesions?",
+      options: [
+        "Radiolucent halo",
+        "Soft tissue opacity",
+        "Ground glass opacity",
+        "Focal opacity"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60476,
+      question: "Radiolucent lesions appear as dark or black areas on dental radiographs.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60477,
+      question: "Radiopaque lesions can only be found in bone, not in soft tissue.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60478,
+      question: "The size of a lesion on a radiograph is always measured in centimeters using a standard ruler.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60479,
+      question: "Documenting lesion size provides a baseline for monitoring future changes and the rate of those changes.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60480,
+      question: "A target lesion is described as a radiopaque lesion surrounded by an irregular, poorly defined border.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60481,
+      question: "A mixed lucent-opaque lesion contains both radiolucent and radiopaque components within the same lesion.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60482,
+      question: "Which term describes an area around the apex of a tooth where a lesion may be located?",
+      options: [
+        "Periapical",
+        "Inter-radicular",
+        "Edentulous zone",
+        "Pericoronal"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60483,
+      question: "What is the primary reason lesion size is documented as a baseline?",
+      options: [
+        "To classify the lesion as benign or malignant immediately",
+        "To track changes over time and assess the speed of change",
+        "To determine the patient's age from radiographic findings",
+        "To calculate the exact type of pathogen involved in the lesion"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60484,
+      question: "Which type of lesion appearance is described as having both radiolucent and radiopaque components mixed together?",
+      options: [
+        "Target lesion",
+        "Soft tissue opacity",
+        "Multifocal confluent lesion",
+        "Mixed lucent-opaque lesion"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60485,
+      question: "What tool is recommended for measuring the size of radiopaque jaw lesions?",
+      options: [
+        "A digital caliper set to inches",
+        "A standard centimeter tape measure",
+        "A millimeter ruler",
+        "A visual estimation guide only"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60486,
+      question: "Which location term refers to the area between the roots of adjacent teeth?",
+      options: [
+        "Periapical",
+        "Pericoronal",
+        "Edentulous zone",
+        "Inter-radicular"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60487,
+      question: "A multifocal confluent lesion is most likely to be found in which location?",
+      options: [
+        "Periapical area of an erupted tooth",
+        "Edentulous zone",
+        "Pericoronal region of an impacted tooth",
+        "Inter-radicular space of anterior teeth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60488,
+      question: "Soft tissue opacity on a radiograph refers to which of the following?",
+      options: [
+        "A fully calcified lesion surrounded by a radiolucent halo",
+        "A lesion that is completely radiolucent and located within bone",
+        "A lesion with a distinct corticated border in the periapical area",
+        "An opaque area arising within soft tissue rather than bone"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60489,
+      question: "What does the term \"pericoronal\" describe in radiographic terminology?",
+      options: [
+        "The area at the apex of a fully erupted tooth",
+        "The area around the crown of an impacted tooth",
+        "The area between roots of two adjacent erupted teeth",
+        "The zone in the jaw where teeth are completely absent"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60490,
+      question: "Which of the following best describes a target lesion in a periapical location?",
+      options: [
+        "A diffuse radiopaque area spread across multiple quadrants",
+        "Multiple small radiopaque foci scattered throughout an edentulous ridge",
+        "A lesion with a central opaque focus surrounded by a radiolucent zone",
+        "A lesion confined entirely within soft tissue with no bony involvement"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60491,
+      question: "Why does the size of a lesion often influence treatment decisions?",
+      options: [
+        "Larger lesions always indicate a benign diagnosis requiring no treatment",
+        "The extent and size of a lesion can guide whether observation or intervention is needed",
+        "Smaller lesions are always treated surgically regardless of appearance",
+        "Size is only relevant for soft tissue lesions and not bony jaw lesions"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60492,
+      question: "How many location terms are used to describe where radiopaque jaw lesions are found?",
+      options: [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60493,
+      question: "Which of the following accurately describes an \"edentulous zone\" in radiographic interpretation?",
+      options: [
+        "The interproximal region between two adjacent molar roots",
+        "An area in the jaw where no teeth are present",
+        "An area with an unerupted tooth visible beneath the alveolar bone",
+        "The region directly surrounding the root apex of an erupted tooth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60494,
+      question: "What is the significance of documenting the \"rapidness of change\" when monitoring a jaw lesion?",
+      options: [
+        "It helps assess whether a lesion is growing slowly or aggressively",
+        "It eliminates the need for future radiographic follow-up",
+        "It is only relevant for soft tissue lesions of the tongue",
+        "It helps determine the patient's brushing technique effectiveness"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60495,
+      question: "A mixed lucent-opaque lesion found in the inter-radicular location would appear where on a radiograph?",
+      options: [
+        "At the root tip of a single-rooted anterior tooth",
+        "Around the crown of a partially erupted wisdom tooth",
+        "In an area of the jaw that is completely free of teeth",
+        "Between the roots of two neighboring teeth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60496,
+      question: "Which of the following best explains why jaw lesion sizes range from millimeters to centimeters?",
+      options: [
+        "Lesion sizes vary widely depending on their nature, duration, and growth pattern",
+        "Size variation is only relevant for radiolucent lesions, not radiopaque ones",
+        "The size range reflects only the type of radiograph used, not actual dimensions",
+        "All jaw lesions start at 1 cm and shrink to millimeters with treatment"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60497,
+      question: "Which appearance category describes scattered opaque foci merging together across an edentulous ridge?",
+      options: [
+        "Target lesion in periapical location",
+        "Soft tissue opacity",
+        "Mixed lucent-opaque lesion in pericoronal location",
+        "Multifocal confluent lesion in edentulous zone"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60498,
+      question: "When comparing lesion size over time, what is the most reliable method according to the lecture?",
+      options: [
+        "Asking the patient if they feel the lesion has grown",
+        "Comparing the lesion to the size of an average molar root",
+        "Using pencil tips of known sizes (1 mm, 2 mm, 5 mm) as visual guides",
+        "Estimating size visually without any measurement tools"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60499,
+      question: "Which type of lesion appearance would most likely be described as a \"target lesion\"?",
+      options: [
+        "A lesion with a central radiopaque core and a surrounding radiolucent ring",
+        "A diffuse, poorly defined opaque area blending with surrounding bone",
+        "A purely radiolucent lesion with no internal calcification",
+        "Multiple radiopaque foci scattered without any central organization"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60500,
+      question: "Which location term would apply to a lesion found near an unerupted third molar?",
+      options: [
+        "Pericoronal",
+        "Inter-radicular",
+        "Periapical",
+        "Edentulous zone"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60501,
+      question: "What page reference is given in the lecture for \"Radiopaque Lesions of the Jaw\"?",
+      options: [
+        "Page 350",
+        "Page 400",
+        "Page 374",
+        "Page 420"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60502,
+      question: "The term \"periapical\" refers to the area around the crown of an impacted tooth.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60503,
+      question: "Documenting lesion size is important for establishing a baseline and tracking changes over time.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60504,
+      question: "A millimeter ruler is the recommended tool for measuring the size of jaw lesions.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60505,
+      question: "An edentulous zone is defined as an area between the roots of adjacent teeth.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60506,
+      question: "The size of a lesion can influence the type of treatment that is necessary.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    }
   ],
   "7. Dental Caries": [
-    //questions
+    {
+      id: 60507,
+      question: "What is the definition of dental caries?",
+      options: [
+        "The localized destruction of teeth by microorganisms",
+        "The generalized inflammation of gum tissue caused by bacteria",
+        "The systemic breakdown of enamel due to acid erosion from diet",
+        "The mechanical wearing of tooth surfaces by external forces"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60508,
+      question: "Which examination method provides the greatest amount of diagnostic information for detecting interproximal caries?",
+      options: [
+        "Bite-wing radiographic image",
+        "Clinical examination with an explorer",
+        "Visual inspection using a dental mirror",
+        "Periapical exposure using bisecting angle technique"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60509,
+      question: "Why does a carious area appear radiolucent on a dental image?",
+      options: [
+        "The carious area contains more calcium, blocking x-ray penetration",
+        "Decreased density in the carious area allows greater x-ray penetration",
+        "Increased density in the carious area deflects x-ray beams",
+        "The carious lesion reflects x-rays back toward the receptor"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60510,
+      question: "Which of the following best describes incipient interproximal caries?",
+      options: [
+        "Caries that extends through enamel and more than halfway through dentin toward the pulp",
+        "Caries that extends to or through the DEJ and into dentin",
+        "Caries that extends less than halfway through the thickness of enamel",
+        "Caries that involves both enamel and dentin and may appear as a cavitation"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60511,
+      question: "A Class II (Moderate) interproximal caries lesion is best described as which of the following?",
+      options: [
+        "Caries extending less than halfway through enamel only",
+        "Caries extending through the DEJ and into dentin up to halfway toward the pulp",
+        "Caries extending through enamel and dentin more than halfway toward the pulp",
+        "Caries extending more than halfway through enamel but not involving the DEJ"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60512,
+      question: "Advanced interproximal caries (Class III) is characterized by which of the following?",
+      options: [
+        "Extension less than halfway through enamel with no DEJ involvement",
+        "Extension to or through the DEJ into dentin, but not more than halfway toward the pulp",
+        "Extension more than halfway through enamel without reaching the DEJ",
+        "Extension through enamel and dentin more than halfway toward the pulp"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60513,
+      question: "Which class of interproximal caries may involve the pulp?",
+      options: [
+        "Class I (Incipient)",
+        "Class II (Moderate)",
+        "Class III (Advanced)",
+        "Class IV (Severe)"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60514,
+      question: "As interproximal caries progresses through enamel, what shape does it typically assume?",
+      options: [
+        "Circular",
+        "Rectangular",
+        "Triangular",
+        "Irregular or amorphous"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60515,
+      question: "When interproximal caries reaches the DEJ, what happens next?",
+      options: [
+        "It spreads laterally and progresses through dentin",
+        "It stops progressing and becomes arrested",
+        "It moves directly toward the pulp in a straight line",
+        "It reverses direction and moves back through enamel"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60516,
+      question: "Where on the tooth are interproximal caries typically seen on dental images?",
+      options: [
+        "On the occlusal surface in the pits and fissures",
+        "Below the CEJ on the root surface",
+        "On the buccal surface near the gumline",
+        "At or just below the contact point between adjacent teeth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60517,
+      question: "Why is clinical examination the preferred method for detecting occlusal caries?",
+      options: [
+        "Bite-wing images cannot be used for posterior teeth",
+        "Periapical radiographs always miss the occlusal surface entirely",
+        "Occlusal caries, especially early lesions, are difficult to detect on dental images",
+        "Clinical examination shows occlusal caries as bright white spots with a mirror"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60518,
+      question: "How does moderate occlusal caries appear on a dental image?",
+      options: [
+        "As a large radiopaque mass on the occlusal surface",
+        "As a thin radiolucent line extending into dentin",
+        "As a circular radiolucent area superimposed on tooth structure",
+        "As a cupped-out crater-shaped radiolucency below the CEJ"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60519,
+      question: "Which statement is true regarding incipient occlusal caries and dental imaging?",
+      options: [
+        "It appears as a thick radiolucent band under the enamel on bite-wing images",
+        "It is visible on periapical images but not on bite-wing images",
+        "It cannot be seen on a dental image and must be detected with an explorer",
+        "It appears as a well-defined radiopaque area on the occlusal surface"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60520,
+      question: "How does severe occlusal caries appear on a dental image?",
+      options: [
+        "As a thin radiolucent line just below the occlusal enamel surface",
+        "As a collar-shaped radiolucency between the CEJ and alveolar bone",
+        "As a radiolucency extending under the enamel of the occlusal surface",
+        "As an ill-defined wedge-shaped radiolucency on the mesial surface"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60521,
+      question: "Why are buccal and lingual caries difficult to detect on dental images?",
+      options: [
+        "They only appear on clinical examination as visible cavitations",
+        "They are superimposed on the tooth structure in the image",
+        "They do not cause any change in radiographic density at all",
+        "They are always located below the alveolar bone level"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60522,
+      question: "When buccal or lingual caries is visible on a dental image, how does it appear?",
+      options: [
+        "As a triangular radiolucent area at the contact point",
+        "As a thin radiolucent line beneath the occlusal enamel",
+        "As a circular radiolucent area superimposed on the tooth",
+        "As a cupped-out radiolucency below the CEJ"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60523,
+      question: "Root surface caries is located where on the tooth?",
+      options: [
+        "On the occlusal or incisal surface of the crown",
+        "On the interproximal surface just below the contact point",
+        "On the buccal or lingual surface of the crown",
+        "Only on the roots of teeth, below the cementoenamel junction"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60524,
+      question: "How does root surface caries appear on a dental image?",
+      options: [
+        "As a triangular radiolucent area at the interproximal contact point",
+        "As a thin radiolucent line under the occlusal enamel surface",
+        "As a circular radiolucent area in the middle of the tooth crown",
+        "As a cupped-out or crater-shaped radiolucency below the CEJ"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60525,
+      question: "Recurrent caries is defined as caries that occurs in which location?",
+      options: [
+        "On the root surface below the cementoenamel junction",
+        "On the buccal or lingual surface superimposed on the crown",
+        "In the pits and fissures of the occlusal surface",
+        "Adjacent to or beneath an existing restoration"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60526,
+      question: "Which of the following is NOT listed as a cause of recurrent caries?",
+      options: [
+        "Inadequate cavity preparation during restorative treatment",
+        "Poor diet and decreased salivary flow in the patient",
+        "Defective margins of the existing restoration",
+        "Incomplete removal of caries before placing the restoration"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60527,
+      question: "Where is recurrent caries most often located in relation to a restoration?",
+      options: [
+        "On the occlusal surface of the restoration material",
+        "On the buccal surface adjacent to the restoration",
+        "Beneath the interproximal margins of the restoration",
+        "At the deepest point of the pulpal floor of the restoration"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60528,
+      question: "Which patient population is most associated with rampant caries?",
+      options: [
+        "Elderly patients with well-controlled diabetes mellitus",
+        "Children with poor diets and adults with decreased salivary flow",
+        "Adults with high fluoride exposure and healthy salivary flow",
+        "Teenagers with excellent oral hygiene but high sugar intake"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60529,
+      question: "What is the definition of rampant caries?",
+      options: [
+        "Caries that occurs adjacent to existing dental restorations",
+        "Early-stage caries that involves only the enamel layer",
+        "Advanced and severe caries affecting a number of teeth simultaneously",
+        "Caries limited strictly to the root surface below the CEJ"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60530,
+      question: "Which of the following conditions can be confused with dental caries on a dental image?",
+      options: [
+        "Periapical abscess, cellulitis, and pulpitis",
+        "Taurodontism, dens invaginatus, and dilaceration",
+        "Hypercementosis, ankylosis, and external root resorption",
+        "Cervical burnout, restorative materials, attrition, and abrasion"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60531,
+      question: "How does cervical burnout appear on a dental image?",
+      options: [
+        "As a triangular radiolucency at the interproximal contact point",
+        "As a circular radiolucency superimposed in the middle of the crown",
+        "As a collar-shaped or wedge-shaped radiolucency between the CEJ and alveolar bone",
+        "As a cupped-out radiolucency below the CEJ on root surfaces"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60532,
+      question: "What type of artifact is cervical burnout?",
+      options: [
+        "A radiopaque artifact resulting from overlapping metal restorations",
+        "A radiolucent artifact caused by normal anatomy and x-ray geometry",
+        "A radiopaque artifact caused by film processing errors",
+        "A radiolucent artifact caused by excessive exposure time settings"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60533,
+      question: "How can a dental professional distinguish restorative materials from caries on a dental image?",
+      options: [
+        "Restorative materials always appear radiopaque, while caries always appear radiolucent",
+        "Restorative materials have a well-defined smooth outline confirmed by clinical exam",
+        "Restorative materials appear as collar-shaped areas, while caries appear circular",
+        "Restorative materials cause no change in density and are invisible on images"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60534,
+      question: "What is attrition?",
+      options: [
+        "The wearing away of tooth structure due to friction from a foreign object",
+        "The localized destruction of teeth by bacterial microorganisms",
+        "The chemical erosion of enamel from dietary acids in food",
+        "The mechanical wearing down of teeth from tooth-to-tooth contact"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60535,
+      question: "On which surfaces can attrition typically be observed?",
+      options: [
+        "Root surfaces below the cementoenamel junction",
+        "Interproximal surfaces at the contact points",
+        "Buccal and lingual surfaces near the cervical area",
+        "Incisal or occlusal surfaces of deciduous or permanent teeth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60536,
+      question: "What is abrasion of tooth structure?",
+      options: [
+        "The localized destruction of enamel and dentin by microorganisms",
+        "The mechanical wearing of teeth from tooth-to-tooth contact during chewing",
+        "The wearing away of tooth structure from friction of a foreign object",
+        "The chemical dissolution of the tooth surface from acidic beverages"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60537,
+      question: "How do areas affected by abrasion appear clinically?",
+      options: [
+        "As hard, highly polished defects in dentin",
+        "As brown, leathery, soft defects on the dentin surface",
+        "As chalky white spots or opacities on smooth tooth surfaces",
+        "As dark staining in the pits and grooves of the occlusal surface"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60538,
+      question: "What is the most frequent type of dental abrasion?",
+      options: [
+        "Abrasion caused by improper toothbrushing technique",
+        "Abrasion caused by pipe or tobacco use habits",
+        "Abrasion caused by nail-biting or pencil chewing habits",
+        "Abrasion caused by occupational exposure to abrasive particles"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60539,
+      question: "Which of the following interpretation tips is recommended for reading dental images?",
+      options: [
+        "View images in a brightly lit room to maximize visibility of details",
+        "View images under direct sunlight for the highest level of contrast",
+        "View images in subdued light, free of distractions, using a viewbox and magnifying glass",
+        "View images without masking to see the full range of surrounding light"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60540,
+      question: "Which of the following is an example of a factor that negatively influences caries interpretation?",
+      options: [
+        "Improper horizontal angulation on a bite-wing image",
+        "Using a magnifying glass during image examination",
+        "Proper mounting of dental images before examination",
+        "Viewing images in a dimly lit room free of distractions"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60541,
+      question: "Which technique for periapical exposures is recommended for detecting caries?",
+      options: [
+        "Paralleling technique",
+        "Bisecting angle technique",
+        "Occlusal technique",
+        "Panoramic technique"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60542,
+      question: "Which of the following clinical signs may suggest the presence of interproximal caries?",
+      options: [
+        "Discoloration of an interproximal ridge",
+        "Hard, polished defects on the buccal surface of teeth",
+        "Wear facets on the incisal edges of anterior teeth",
+        "Localized areas of gingival recession near the CEJ"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60543,
+      question: "What role do dental images play in evaluating caries beyond clinical examination?",
+      options: [
+        "They replace clinical examination entirely for all caries detection",
+        "They enable identification of lesions not visible clinically and evaluate their extent",
+        "They are only useful for detecting occlusal caries missed by the explorer",
+        "They are primarily used to confirm caries already detected clinically"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60544,
+      question: "A Class III (Advanced) interproximal caries lesion involves which tooth structures?",
+      options: [
+        "Only enamel, extending less than halfway through its thickness",
+        "Both enamel and the dentin-enamel junction or dentin",
+        "Only enamel, extending more than halfway but not reaching the DEJ",
+        "Enamel, dentin, and extends to or involves the pulp"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60545,
+      question: "Which is the most appropriate tool to detect incipient occlusal caries?",
+      options: [
+        "Bite-wing radiograph of the posterior teeth",
+        "Explorer during clinical examination of the tooth",
+        "Periapical radiograph using the paralleling technique",
+        "Panoramic radiograph of the full dentition"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60546,
+      question: "Which color change on the occlusal surface may indicate underlying caries?",
+      options: [
+        "Dark staining in fissures, pits, and grooves",
+        "White opaque chalky spots on smooth surfaces",
+        "Brown polished areas on the cervical region of teeth",
+        "Yellow discoloration of the entire crown surface"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60547,
+      question: "How does a smooth surface affected by early caries appear clinically?",
+      options: [
+        "As a chalky white spot or opacity on the surface",
+        "As a dark brown, leathery lesion on the tooth surface",
+        "As dark staining found in the pits and grooves",
+        "As a hard, highly polished concavity in the enamel"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60548,
+      question: "Which of the following tools is used during clinical examination to detect changes in tooth consistency in pits and fissures?",
+      options: [
+        "The mouth mirror for indirect vision and light reflection",
+        "The periodontal probe for measuring sulcus depth",
+        "The cotton forceps for isolating the field of examination",
+        "The explorer for detecting consistency changes in pits and fissures"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60549,
+      question: "Dental images alone are sufficient to detect all types of dental caries without any clinical examination.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60550,
+      question: "A carious lesion appears radiolucent on a dental image because decreased tissue density allows greater x-ray penetration.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60551,
+      question: "Incipient occlusal caries can be detected on a bite-wing radiograph as a thin radiolucent line.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60552,
+      question: "Recurrent caries occurs adjacent to or beneath existing dental restorations.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60553,
+      question: "Cervical burnout is a true carious lesion that requires immediate restorative treatment.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60554,
+      question: "Root surface caries appears as a cupped-out or crater-shaped radiolucency below the CEJ on dental images.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60555,
+      question: "Rampant caries affects only one or two teeth and is unrelated to diet or salivary flow.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60556,
+      question: "Abrasion areas appear clinically as brown, leathery, soft defects that closely resemble root caries.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60557,
+      question: "Buccal and lingual caries, when visible on a dental image, appear as a circular radiolucent area superimposed on the tooth.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60558,
+      question: "Attrition is caused by the friction of a foreign object against the tooth and most commonly results from improper toothbrushing.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    }
   ],
   "8. Radiographic Interpretatio": [
-    //questions
+    {
+      id: 60559,
+      question: "How do metallic restorations appear on a dental radiograph?",
+      options: [
+        "Slightly radiolucent with irregular borders",
+        "Completely radiopaque due to x-ray absorption",
+        "Similar in density to surrounding enamel",
+        "Radiolucent with a thin radiopaque outline"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60560,
+      question: "Which nonmetallic restoration material is the MOST dense and LEAST radiolucent?",
+      options: [
+        "Composite resin with standard filler",
+        "Acrylic temporary crown material",
+        "Porcelain restoration material",
+        "Glass ionomer cement base"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60561,
+      question: "Which nonmetallic restoration material is the LEAST dense and MOST radiolucent?",
+      options: [
+        "Porcelain fused-to-metal crown",
+        "Acrylic temporary restoration",
+        "Composite resin restoration",
+        "Ceramic inlay restoration"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60562,
+      question: "How does a one-surface amalgam restoration typically appear on a dental radiograph?",
+      options: [
+        "As a large, irregular radiopacity covering the entire crown",
+        "As a thin radiolucent line along the enamel surface",
+        "As a distinct, small, round or ovoid radiopacity",
+        "As a barely visible shadow resembling dentin density"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60563,
+      question: "Where can one-surface amalgam restorations be located on a tooth?",
+      options: [
+        "Only on the proximal surfaces between teeth",
+        "Only on the occlusal surfaces of posterior teeth",
+        "On buccal, lingual, or occlusal surfaces",
+        "Only on the lingual surfaces of anterior teeth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60564,
+      question: "What is the radiographic characteristic of multi-surface amalgam restorations compared to one-surface?",
+      options: [
+        "They appear radiolucent with a defined border",
+        "They appear radiopaque and are characterized by irregular outlines or borders",
+        "They appear identical to one-surface restorations in radiographic density",
+        "They appear as smooth, round radiopacities similar to gold foil"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60565,
+      question: "What is an amalgam overhang?",
+      options: [
+        "An excessive amount of amalgam placed on the occlusal surface",
+        "An extension of amalgam beyond the crown in the interproximal region",
+        "A fragment of amalgam embedded within the pulp chamber",
+        "An amalgam restoration that extends into the root canal space"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60566,
+      question: "Which of the following is a clinical consequence of an amalgam overhang?",
+      options: [
+        "It strengthens the restoration and prevents future decay",
+        "It disrupts cleansing contours, traps food and plaque, and contributes to bone loss",
+        "It seals the margins more tightly and prevents microleakage",
+        "It increases the radiopacity of the surrounding bone tissue"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60567,
+      question: "How do amalgam fragments appear on a dental radiograph?",
+      options: [
+        "As smooth, round radiopacities with well-defined borders",
+        "As radiolucent shadows within the soft tissue",
+        "As dense radiopacities with irregular borders",
+        "As faint radiopaque streaks along root surfaces"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60568,
+      question: "What is the PRIMARY difference between how gold restorations and amalgam restorations appear on a radiograph?",
+      options: [
+        "Gold appears radiolucent while amalgam appears radiopaque",
+        "Gold exhibits a smooth marginal outline while amalgam does not",
+        "Amalgam appears brighter white while gold appears gray",
+        "Gold is less radiopaque than amalgam on dental images"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60569,
+      question: "How do gold crowns and bridges appear on a dental radiograph?",
+      options: [
+        "As slightly radiopaque restorations resembling dentin density",
+        "As large radiopaque restorations with smooth contours and regular borders",
+        "As small round radiopacities with irregular margins",
+        "As radiolucent restorations with a thin radiopaque liner visible"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60570,
+      question: "How do gold foil restorations appear on a dental radiograph?",
+      options: [
+        "As large, irregular radiopacities with smooth borders",
+        "As radiolucent areas surrounded by a thin opaque line",
+        "As small round radiopacities similar to one-surface amalgam",
+        "As a completely transparent area within the tooth crown"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60571,
+      question: "How do stainless steel and chrome crowns appear on a dental radiograph compared to amalgam or gold?",
+      options: [
+        "They appear more densely radiopaque than both amalgam and gold",
+        "They appear radiopaque but not as densely radiopaque as amalgam or gold",
+        "They appear radiolucent with a slight metallic outline visible",
+        "They are identical in radiopacity to full gold crowns"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60572,
+      question: "What is the distinctive radiographic feature of stainless steel and chrome crowns that differs from other restorations?",
+      options: [
+        "They always appear with a post extending into the root canal",
+        "They show a ghost image artifact on panoramic radiographs",
+        "Some areas may appear \"see-through\" on a dental image",
+        "They appear with a radiolucent halo surrounding the crown"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60573,
+      question: "In what type of teeth are post and core restorations typically found?",
+      options: [
+        "Teeth with large multi-surface amalgam restorations",
+        "Endodontically treated teeth",
+        "Teeth that have undergone orthodontic treatment",
+        "Primary teeth with stainless steel crowns"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60574,
+      question: "How does the post component of a post and core restoration appear radiographically?",
+      options: [
+        "As a radiolucent line extending from the crown into the root",
+        "As a radiopaque structure extending into the pulp canal",
+        "As a slightly radiopaque area resembling the density of dentin",
+        "As a thin, invisible structure that cannot be seen on radiographs"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60575,
+      question: "How does a full all-porcelain crown appear on a dental radiograph?",
+      options: [
+        "Completely radiopaque, similar to a full metal crown",
+        "Completely radiolucent, invisible on the radiograph",
+        "Slightly radiopaque, resembling the radiopacity of dentin",
+        "Alternating bands of radiolucent and radiopaque areas"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60576,
+      question: "What radiographic feature may be visible through an all-porcelain crown?",
+      options: [
+        "The outline of the pulp chamber and root canals",
+        "A thin radiopaque line representing the cement luting agent",
+        "The trabecular bone pattern beneath the crown",
+        "The individual ceramic layers of the porcelain material"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60577,
+      question: "In a porcelain-fused-to-metal (PFM) crown, how do the two components appear radiographically?",
+      options: [
+        "Both components appear equally radiopaque on the image",
+        "Both components appear slightly radiolucent on the image",
+        "Metal appears completely radiopaque; porcelain appears slightly radiopaque",
+        "Metal appears slightly radiopaque; porcelain appears completely radiopaque"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60578,
+      question: "How do composite restorations appear on a dental radiograph?",
+      options: [
+        "Always completely radiopaque, similar to amalgam",
+        "Always completely radiolucent, similar to a cavity",
+        "Variable, ranging from radiolucent to slightly radiopaque based on composition",
+        "Always identical to the radiopacity of surrounding enamel"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60579,
+      question: "What is the primary use of acrylic restorations in dentistry?",
+      options: [
+        "As a permanent filling material for posterior teeth",
+        "As an interim or temporary crown or filling",
+        "As a root canal filling material in endodontics",
+        "As a permanent crown material for anterior teeth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60580,
+      question: "What is the function of base materials used in restorative dentistry?",
+      options: [
+        "To enhance the radiopacity of the final restoration",
+        "To serve as cavity liners on the floor of cavity preparations to protect the pulp",
+        "To improve the bond strength between the tooth and metallic restorations",
+        "To provide the primary restorative filling for occlusal cavities"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60581,
+      question: "How do base materials compare radiographically to amalgam?",
+      options: [
+        "They are more radiodense than amalgam",
+        "They appear radiolucent, similar to soft tissue",
+        "They appear radiopaque but less radiodense than amalgam",
+        "They are identical in radiopacity to amalgam restorations"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60582,
+      question: "What is the purpose of metallic pins in restorative dentistry?",
+      options: [
+        "To seal the apex of root-treated teeth",
+        "To stabilize jaw fractures after oral surgery",
+        "To enhance retention of amalgam or composite restorations",
+        "To serve as anchors for removable partial dentures"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60583,
+      question: "How do metallic pins appear on a dental radiograph?",
+      options: [
+        "As round, dense radiopacities with smooth borders",
+        "As cylindrical or screw-shaped radiopacities",
+        "As faint radiolucent lines within the restorative material",
+        "As barely visible shadows similar to dentin density"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60584,
+      question: "What is gutta percha used for in dentistry?",
+      options: [
+        "As a temporary filling material for occlusal cavities",
+        "As a cavity liner to protect the pulp",
+        "As a claylike material used to fill pulp canals in endodontics",
+        "As a base material placed under composite restorations"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60585,
+      question: "How does gutta percha compare radiographically to metallic restorations?",
+      options: [
+        "It is more radiodense than metallic restorations",
+        "It appears radiolucent and cannot be seen on radiographs",
+        "It appears radiopaque but less radiodense than metallic restorations",
+        "It appears identical in density to surrounding bone tissue"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60586,
+      question: "How do silver points compare radiographically to gutta percha?",
+      options: [
+        "Silver points are less radiopaque than gutta percha",
+        "Silver points are very radiopaque and more radiodense than gutta percha",
+        "Silver points and gutta percha appear identical on radiographs",
+        "Silver points appear radiolucent while gutta percha appears radiopaque"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60587,
+      question: "What instruction should be given to patients regarding dentures before taking dental radiographs?",
+      options: [
+        "Patients should keep dentures in to provide reference points",
+        "Patients should be instructed to remove all complete and partial dentures",
+        "Only partial dentures need to be removed before radiographic exposure",
+        "Only complete dentures need to be removed before radiographic exposure"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60588,
+      question: "What is the radiographic appearance of a complete denture that has NOT been removed before taking a panoramic image?",
+      options: [
+        "It appears as a very dense radiopacity covering the entire arch",
+        "It gives the illusion of rootless or \"floating\" teeth",
+        "It appears radiolucent and is difficult to detect on radiographs",
+        "It appears identical to natural teeth with normal root structure"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60589,
+      question: "How does a removable partial denture (RPD) with a metal base and acrylic saddles appear on a dental radiograph?",
+      options: [
+        "Uniformly radiolucent throughout all areas of the appliance",
+        "Uniformly radiopaque throughout all areas of the appliance",
+        "Densely radiopaque where metal is present; slightly radiopaque in acrylic areas",
+        "Slightly radiopaque where metal is present; densely radiopaque in acrylic areas"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60590,
+      question: "What types of materials are visible on dental radiographs in orthodontic treatment?",
+      options: [
+        "Only the orthodontic wires are visible; brackets are not radiopaque",
+        "Orthodontic bands, brackets, and wires may all be observed",
+        "Only metallic bands are visible; ceramic brackets are not visible",
+        "Orthodontic materials are radiolucent and cannot be seen on radiographs"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60591,
+      question: "What materials are used in oral surgery to stabilize fractures of the maxilla and mandible?",
+      options: [
+        "Only gutta percha and silver points are used for fracture stabilization",
+        "Suture wires, metallic splints and plates, bone screws, and stabilizing arches",
+        "Only acrylic splints and composite resin are used for fracture stabilization",
+        "Orthodontic wires and bands are routinely used for jaw fracture stabilization"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60592,
+      question: "Why should patients be asked to remove metal earrings before panoramic radiography?",
+      options: [
+        "Metal earrings do not affect the radiographic image quality",
+        "Earrings can scratch the panoramic receptor and damage the equipment",
+        "Metal earrings appear as dense radiopacities and can cause ghost image artifacts",
+        "Earrings cause the patient to move during the exposure, creating motion blur"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60593,
+      question: "What is a \"ghost image\" in dental radiography?",
+      options: [
+        "A faint image of a tooth that has been extracted but appears to remain",
+        "A radiodense artifact created by a radiodense object that can obscure important information",
+        "A double image created when two teeth overlap on the radiograph",
+        "A blurry image created by patient movement during the panoramic exposure"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60594,
+      question: "What types of foreign objects besides earrings may appear on dental radiographs?",
+      options: [
+        "Only metallic earrings and necklaces are visible on dental radiographs",
+        "Necklaces, nose jewelry, eyeglasses metal frames, napkin chains, and hearing aids",
+        "Only external objects worn on the face are visible on dental radiographs",
+        "Only objects made of pure gold or silver will appear on dental radiographs"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60595,
+      question: "What portion of eyeglasses is visible on a dental radiograph?",
+      options: [
+        "The entire frame including plastic and metal components",
+        "Only the lenses of the eyeglasses appear on dental images",
+        "Only the metal portion of the frames appears as a radiopacity",
+        "Eyeglasses are completely radiolucent and cannot be seen on radiographs"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60596,
+      question: "What is shrapnel in the context of dental radiography?",
+      options: [
+        "Fragments of broken dental instruments embedded in tissue",
+        "Small metal fragments from an exploding device that may be viewed on dental images",
+        "Metallic debris from dental restorations that have fractured",
+        "Small pieces of calculus that appear on periapical radiographs"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60597,
+      question: "Regarding dental implants visible on radiographs, which statement is most accurate?",
+      options: [
+        "All dental implants have an identical radiographic appearance",
+        "Implants always appear radiolucent because titanium absorbs minimal radiation",
+        "The appearance varies based on the shape and design of the implant used",
+        "Implants are never visible on standard periapical radiographs"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60598,
+      question: "Which category of dental materials includes items used to fill pulp canals?",
+      options: [
+        "Restorative dentistry materials",
+        "Prosthodontic materials",
+        "Endodontic materials",
+        "Orthodontic materials"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60599,
+      question: "What is the primary radiographic distinction between a full metal crown and a porcelain-fused-to-metal crown?",
+      options: [
+        "Full metal crowns are always darker on radiographs than PFM crowns",
+        "PFM crowns show areas of varying opacity while full metal crowns appear uniformly radiopaque",
+        "Full metal crowns appear radiolucent while PFM crowns appear radiopaque",
+        "PFM crowns appear completely radiopaque while full metal crowns appear slightly gray"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60600,
+      question: "Metallic restorations absorb x-rays, leaving the receptor unexposed, which causes them to appear completely radiopaque on dental images.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60601,
+      question: "Porcelain is the least dense of all nonmetallic restoration materials and therefore appears most radiolucent on a dental radiograph.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60602,
+      question: "Amalgam overhangs can contribute to bone loss because they disrupt the natural cleansing contours of the tooth and trap food and plaque.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60603,
+      question: "Gold restorations appear completely radiopaque on dental radiographs and have the same irregular marginal outline as amalgam restorations.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60604,
+      question: "Post and core restorations are found in endodontically treated teeth, with the post portion extending into the pulp canal and appearing radiopaque.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60605,
+      question: "A complete denture that is not removed before radiographic exposure gives the illusion of teeth with exaggerated root length on the radiograph.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60606,
+      question: "Silver points used as root canal filling material appear more radiopaque on dental images than gutta percha.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60607,
+      question: "Composite restorations always appear completely radiolucent on dental radiographs, making them appear identical to dental caries.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60608,
+      question: "Metal earrings can create ghost image artifacts on panoramic radiographs that may obscure important diagnostic information and render the image nondiagnostic.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60609,
+      question: "Patients should be instructed to remove their removable partial dentures before dental radiographs are taken so that underlying teeth and bone can be properly evaluated.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    }
   ],
   "9. Radiographic Interpretation": [
-    //questions
+    {
+      id: 60610,
+      question: "What is trauma in the context of dental radiography?",
+      options: [
+        "An injury produced by an external force affecting crowns, roots, teeth, and bone",
+        "A systemic infection affecting only the pulp tissue of teeth",
+        "A chronic inflammatory condition limited to the alveolar bone only",
+        "A radiographic artifact caused by incorrect exposure settings"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60611,
+      question: "Crown fractures most often involve which teeth?",
+      options: [
+        "Anterior teeth",
+        "Maxillary premolars",
+        "Mandibular molars",
+        "Mandibular premolars"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60612,
+      question: "What is the primary purpose of a dental image in evaluating a crown fracture?",
+      options: [
+        "To assess proximity of damage to the pulp and evaluate the root for additional fractures",
+        "To measure the exact surface area of enamel loss",
+        "To identify the type of external force that caused the injury",
+        "To determine the patient's age and developmental stage"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60613,
+      question: "Which structures may be involved in a crown fracture?",
+      options: [
+        "Enamel, dentin, and/or pulp",
+        "The root apex, periodontal ligament, and alveolar bone",
+        "Only the enamel layer of the tooth",
+        "Only the dentin and cementum layers"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60614,
+      question: "Root fractures most often occur in which region?",
+      options: [
+        "Maxillary central region",
+        "Maxillary premolar region",
+        "Mandibular molar region",
+        "Mandibular premolar region"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60615,
+      question: "When will a root fracture appear as a radiolucent line on a dental image?",
+      options: [
+        "When the x-ray beam is parallel to the plane of the fracture",
+        "When the fracture is vertical rather than horizontal",
+        "When the fracture is multiple rather than single",
+        "When the fracture is located in the coronal third of the root"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60616,
+      question: "What happens when the x-ray beam is NOT parallel to the plane of a root fracture?",
+      options: [
+        "The fracture may not be apparent at all on the image",
+        "The fracture appears as a radiopaque line on the image",
+        "The fracture appears doubled or magnified on the image",
+        "The fracture appears as a widened periodontal ligament space"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60617,
+      question: "Which imaging technique is best for visualizing mandibular fractures?",
+      options: [
+        "Panoramic image",
+        "Occlusal radiograph",
+        "Periapical radiograph",
+        "Bitewing radiograph"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60618,
+      question: "Jaw fractures are most often observed in which bone?",
+      options: [
+        "The mandible",
+        "The zygomatic bone",
+        "The maxilla",
+        "The palatine bone"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60619,
+      question: "How do jaw fractures appear on a dental image?",
+      options: [
+        "As a radiolucent line within the bone",
+        "As a widened periodontal ligament space near the fracture",
+        "As a radiopaque line with defined borders throughout the bone",
+        "As a diffuse area of increased bone density around the fracture"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60620,
+      question: "What is luxation?",
+      options: [
+        "The abnormal displacement of teeth from their normal position",
+        "A fracture that occurs along the root surface of a tooth",
+        "The physiologic movement of primary teeth during eruption",
+        "Complete displacement of a tooth from alveolar bone"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60621,
+      question: "How is intrusion defined in the context of dental trauma?",
+      options: [
+        "The abnormal displacement of teeth into bone",
+        "The complete removal of a tooth from its socket",
+        "The abnormal displacement of teeth out of bone",
+        "The lateral movement of a tooth within its socket"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60622,
+      question: "What is dental avulsion?",
+      options: [
+        "Complete displacement of a tooth from alveolar bone",
+        "The abnormal displacement of a tooth into surrounding bone",
+        "A fracture of the root in the apical third",
+        "Partial displacement of a tooth from its normal position"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60623,
+      question: "How does avulsion appear on a periapical radiograph?",
+      options: [
+        "A tooth socket without a tooth present",
+        "A tooth with a widened periodontal ligament space at the apex",
+        "A tooth with a radiolucent line through the root",
+        "A tooth with blunted root apices and shortened root length"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60624,
+      question: "Why are maxillary fractures typically difficult to detect on dental images?",
+      options: [
+        "The overlapping structures of the midface make them hard to visualize",
+        "Maxillary bone is too dense for standard dental x-rays to penetrate",
+        "Maxillary fractures heal too quickly to be visible radiographically",
+        "Maxillary fractures rarely produce any detectable radiographic changes"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60625,
+      question: "What is physiologic resorption?",
+      options: [
+        "Pathologic destruction of root structure due to abnormal stimuli",
+        "A normal process seen with the shedding of primary teeth",
+        "Calcification within the pulp chamber of permanent teeth",
+        "Resorption caused by trauma or inflammation of the periodontal tissues"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60626,
+      question: "What is pathologic resorption?",
+      options: [
+        "The normal process of primary tooth root resorption before shedding",
+        "A regressive alteration of tooth structure due to abnormal stimuli",
+        "Calcification within the pulp chamber associated with aging",
+        "Deposition of excess cementum on the root surface"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60627,
+      question: "Which of the following is NOT listed as a cause of external resorption?",
+      options: [
+        "Reimplanted teeth and abnormal mechanical forces",
+        "Idiopathic causes and dental caries",
+        "Tumors, cysts, and impacted teeth",
+        "Trauma and chronic inflammation"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60628,
+      question: "Where does external resorption typically occur?",
+      options: [
+        "Within the pulp chamber and dentin of the crown",
+        "Along the periphery of the root surface, most often at the apices",
+        "Along the lateral wall of the root canal",
+        "At the cementoenamel junction of posterior teeth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60629,
+      question: "How does external resorption appear radiographically?",
+      options: [
+        "As a round-to-ovoid radiolucency in the mid-crown portion",
+        "The apical region appears blunted with shorter than normal root length",
+        "As a widened periodontal ligament space throughout the root",
+        "As increased radiopacity around the root apex"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60630,
+      question: "Where does internal resorption occur?",
+      options: [
+        "Along the external surface of the root near the apex",
+        "Within the crown or root, involving the pulp chamber, canals, and dentin",
+        "Only within the coronal portion of the pulp chamber",
+        "Along the alveolar bone crest adjacent to the tooth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60631,
+      question: "Which factors are believed to precipitate internal resorption?",
+      options: [
+        "Aging, pulpal sclerosis, and secondary dentin formation",
+        "Trauma, pulp capping, and pulp polyps",
+        "Idiopathic causes, hypercementosis, and pulpal obliteration",
+        "Orthodontic forces, dental caries, and periodontal disease"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60632,
+      question: "How does internal resorption appear on a dental radiograph?",
+      options: [
+        "As a blunted root apex with shortened overall root length",
+        "As a round-to-ovoid radiolucency in the mid-crown or mid-root portion",
+        "As a radiopaque mass within the alveolar bone below the apex",
+        "As a widened periodontal ligament space along the entire root"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60633,
+      question: "What treatment is recommended for internal resorption if perforation has not occurred?",
+      options: [
+        "Extraction of the tooth followed by bone grafting",
+        "Endodontic therapy",
+        "Observation only, as no treatment is needed",
+        "Surgical curettage of the periapical region"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60634,
+      question: "What is pulpal sclerosis?",
+      options: [
+        "Complete obliteration of the pulp cavity by secondary dentin deposition",
+        "Diffuse calcification of the pulp chamber and pulp canals resulting in reduced cavity size",
+        "Dystrophic calcifications found in the pulp chamber or canals",
+        "External calcification around the root apex associated with chronic inflammation"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60635,
+      question: "With what condition is pulpal sclerosis most commonly associated?",
+      options: [
+        "Trauma and pulp polyps",
+        "Aging",
+        "Chronic periapical infection",
+        "Orthodontic treatment"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60636,
+      question: "When is pulpal sclerosis considered clinically significant?",
+      options: [
+        "When it spreads to adjacent teeth in the same arch",
+        "When endodontic therapy is indicated",
+        "When it causes pain and sensitivity to temperature changes",
+        "When the tooth becomes non-vital and discolored externally"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60637,
+      question: "What is pulpal obliteration?",
+      options: [
+        "Diffuse calcification reducing pulp cavity size while maintaining some space",
+        "The calcification or deposition of hard tissue within the pulp cavity",
+        "Formation of dystrophic calcifications in the pulp chamber only",
+        "Complete calcification of pulp canals due to orthodontic forces"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60638,
+      question: "What is the vitality status of a tooth with pulpal obliteration, and does it require treatment?",
+      options: [
+        "The tooth is vital and requires endodontic treatment",
+        "The tooth is non-vital and does not require treatment",
+        "The tooth is vital and does not require treatment",
+        "The tooth is non-vital and requires immediate extraction"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60639,
+      question: "What are pulp stones?",
+      options: [
+        "Calcified masses formed in the alveolar bone adjacent to non-vital teeth",
+        "Dystrophic calcifications found in the pulp chamber or pulp canals",
+        "Fragments of dentin that break off inside the root canal system",
+        "Calcified deposits forming on the external surface of the root"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60640,
+      question: "How do pulp stones appear on dental images?",
+      options: [
+        "As radiolucent ovals within the pulp chamber",
+        "As diffuse areas of reduced density within the crown",
+        "As round, ovoid, or cylindrical radiopacities",
+        "As irregular linear radiopacities along the root canal walls"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60641,
+      question: "Which statement best describes pulp stones clinically?",
+      options: [
+        "They cause significant pain and sensitivity requiring treatment",
+        "They are always associated with pulpitis and periapical disease",
+        "They do not cause symptoms and do not require treatment",
+        "They indicate pulp necrosis and require immediate endodontic therapy"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60642,
+      question: "What is a periapical granuloma?",
+      options: [
+        "A cystic degeneration of granulation tissue at the lateral root surface",
+        "A collection of pus at the apex of a tooth with a history of trauma",
+        "A localized mass of chronically inflamed granulation tissue at the apex of a non-vital tooth",
+        "A well-defined radiopacity seen at the apex of vital non-carious teeth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60643,
+      question: "What is the periapical granuloma considered the most common sequela of?",
+      options: [
+        "Dental avulsion and reimplantation",
+        "External root resorption",
+        "Pulpitis",
+        "Periodontal disease and alveolar bone loss"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60644,
+      question: "How does a periapical granuloma appear on dental images?",
+      options: [
+        "As a round-to-ovoid radiolucency in the mid-root portion",
+        "As a well-defined radiopacity below the apex of a non-vital tooth",
+        "As a widened periodontal ligament space at the root apex",
+        "As a blunted root with shortened overall root length"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60645,
+      question: "What is the treatment for a periapical granuloma?",
+      options: [
+        "Antibiotic therapy without any surgical or endodontic intervention",
+        "Observation only, as it typically resolves on its own",
+        "Endodontic therapy or removal of the tooth with curettage of the apical region",
+        "Surgical extraction of the tooth without additional curettage procedures"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60646,
+      question: "What is a periapical (radicular) cyst and how does it develop?",
+      options: [
+        "A cyst that forms due to direct bacterial invasion of periapical tissues",
+        "A rapidly forming lesion resulting from acute pulpitis and necrosis",
+        "A lesion that develops over a long period from cystic degeneration of a periapical granuloma",
+        "A cyst that forms from remnants of the dental lamina near the tooth apex"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60647,
+      question: "What is the most common of all tooth-related cysts?",
+      options: [
+        "Dentigerous cyst",
+        "Odontogenic keratocyst",
+        "Periapical (radicular) cyst",
+        "Lateral periodontal cyst"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60648,
+      question: "What is a periapical abscess?",
+      options: [
+        "A well-defined radiopacity at the apex of a tooth with chronic pulpitis",
+        "A granulomatous lesion at the apex of a vital asymptomatic tooth",
+        "A localized collection of pus around the apex of a non-vital tooth",
+        "A cystic degeneration of granulation tissue at the root apex"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60649,
+      question: "Which describes the characteristics of an ACUTE periapical abscess?",
+      options: [
+        "Appears as a round or ovoid apical radiolucency on dental images",
+        "Usually asymptomatic with pus draining through bone or periodontal ligament",
+        "Painful, non-vital tooth that is sensitive to pressure, percussion, and heat",
+        "Well-defined radiopacity below the apex with no associated symptoms"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60650,
+      question: "How does a CHRONIC periapical abscess appear on dental images?",
+      options: [
+        "It typically does not appear on dental images",
+        "As a radiopaque mass attached to the root apex",
+        "As a round or ovoid apical radiolucency",
+        "As a widened periodontal ligament space throughout the root"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60651,
+      question: "What is a periodontal abscess?",
+      options: [
+        "A collection of pus at the apex of a non-vital tooth",
+        "Cystic degeneration of granulation tissue in the periodontal ligament",
+        "A collection of pus resulting from infection within the periodontal tissues surrounding the tooth",
+        "A granulomatous lesion forming along the lateral aspect of the alveolar bone"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60652,
+      question: "What is the most common symptom of a periodontal abscess?",
+      options: [
+        "Sensitivity to cold temperatures and sweet foods",
+        "Swelling of the gingiva without pain",
+        "Deep, throbbing pain",
+        "Sensitivity to percussion with no spontaneous pain"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60653,
+      question: "How does a periodontal abscess appear radiographically?",
+      options: [
+        "As a round or ovoid radiolucency at the root apex",
+        "As a radiopaque mass attached to the lateral root surface",
+        "As a radiolucent area along the lateral aspect of the root",
+        "As a widened periodontal ligament space at the apex only"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60654,
+      question: "What is condensing osteitis?",
+      options: [
+        "Excess deposition of cementum on the root surface causing a bulbous apex appearance",
+        "Diffuse calcification of the pulp chamber and canals associated with aging",
+        "A radiolucency seen at the apex of vital teeth with unknown etiology",
+        "A well-defined radiopacity seen below the apex of a tooth with long-standing pulpitis"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60655,
+      question: "In which location is condensing osteitis most commonly found in adults?",
+      options: [
+        "Maxillary anterior region",
+        "Mandibular premolar region",
+        "Maxillary molar region",
+        "Mandibular third molar region"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60656,
+      question: "Which statement about condensing osteitis and attachment to the tooth root is TRUE?",
+      options: [
+        "It is always attached to the root apex",
+        "It is attached to the lateral surface of the root only",
+        "It is always found in the furcation area of multi-rooted teeth",
+        "It does not appear to be attached to the tooth root"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60657,
+      question: "What is sclerotic bone?",
+      options: [
+        "Calcification within the pulp cavity associated with trauma or pulp capping",
+        "A radiolucency seen at the apex of non-vital carious teeth",
+        "Excess cementum deposition causing a bulbous root apex appearance",
+        "A well-defined radiopacity seen below the apices of vital, non-carious teeth with unknown cause"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60658,
+      question: "Which characteristic differentiates sclerotic bone from condensing osteitis?",
+      options: [
+        "Sclerotic bone is attached to the tooth; condensing osteitis is not attached",
+        "Sclerotic bone is radiolucent; condensing osteitis is radiopaque",
+        "Sclerotic bone affects only the maxilla; condensing osteitis affects only the mandible",
+        "Sclerotic bone occurs below vital, non-carious teeth; condensing osteitis is associated with pulpitis"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60659,
+      question: "What is hypercementosis?",
+      options: [
+        "Internal calcification of the pulp cavity causing loss of pulp space",
+        "Resorption of cementum from the root surface causing shortened roots",
+        "Calcification of the periodontal ligament space around the root",
+        "Excess deposition of cementum on root surfaces"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60660,
+      question: "Which factors may cause hypercementosis?",
+      options: [
+        "Dental caries, periodontal disease, and external resorption",
+        "Aging, orthodontic treatment, and pulp capping procedures",
+        "Pulpal necrosis, periapical infection, and avulsion",
+        "Supra-eruption, inflammation, or trauma"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60661,
+      question: "How does hypercementosis appear radiographically?",
+      options: [
+        "As a radiolucent area surrounding a blunted root apex",
+        "As a well-defined radiopacity not attached to the tooth root",
+        "As a round-to-ovoid radiolucency in the mid-root region",
+        "The apical area appears enlarged and bulbous"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60662,
+      question: "What is the vitality and treatment status of teeth affected by hypercementosis?",
+      options: [
+        "The teeth are non-vital and require endodontic therapy",
+        "The teeth are vital but require surgical removal of the excess cementum",
+        "The teeth are non-vital but do not require treatment",
+        "The teeth are vital and do not require treatment"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60663,
+      question: "Why can periapical granulomas, cysts, and abscesses NOT be definitively diagnosed from dental image appearance alone?",
+      options: [
+        "Because all three conditions appear as radiopacities on dental images",
+        "Because dental images do not reveal periapical pathology with sufficient clarity",
+        "Because all three conditions are asymptomatic and cannot be differentiated clinically",
+        "Because diagnosis must be based on clinical features, dental image, and microscopic appearance"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60664,
+      question: "Which of the following conditions is classified as a periapical radiopacity on dental images?",
+      options: [
+        "Periapical granuloma and periapical cyst",
+        "Periapical abscess and periodontal abscess",
+        "Internal resorption and external resorption",
+        "Condensing osteitis and sclerotic bone"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60665,
+      question: "Which of the following is NOT a pulpal lesion detectable on dental images?",
+      options: [
+        "Pulpal sclerosis",
+        "Pulp stones",
+        "Pulpal obliteration",
+        "Periapical granuloma"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60666,
+      question: "What important radiographic landmark is notably absent in images showing periapical granuloma?",
+      options: [
+        "The pulp chamber outline",
+        "The periodontal ligament space along the lateral root surface",
+        "The alveolar crest bone adjacent to the tooth",
+        "The lamina dura between the apex and the apical lesion"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60667,
+      question: "Trauma may result in which types of tooth displacement?",
+      options: [
+        "Pulpal obliteration, sclerosis, and calcification",
+        "Condensing osteitis, sclerotic bone, and hypercementosis",
+        "External resorption, internal resorption, and physiologic resorption",
+        "Luxation (intrusion and extrusion) and avulsion"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60668,
+      question: "Crown fractures most often involve the posterior molar teeth.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60669,
+      question: "Root fractures may be either vertical or horizontal, and may be single or multiple.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60670,
+      question: "The panoramic image is the best film for visualizing mandibular fractures.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60671,
+      question: "Intrusion is the abnormal displacement of a tooth out of bone, while extrusion is the displacement of a tooth into bone.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60672,
+      question: "Physiologic resorption is a normal process associated with the shedding of primary teeth.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60673,
+      question: "Internal resorption appears on dental images as a round-to-ovoid radiopacity in the mid-crown or mid-root portion of the tooth.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60674,
+      question: "Pulpal sclerosis results in a pulp cavity of increased size and is clinically significant in all cases.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60675,
+      question: "Pulp stones do not cause symptoms and do not require treatment.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60676,
+      question: "A periapical granuloma is the most common sequela of pulpitis and may give rise to a cyst or an abscess.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60677,
+      question: "An acute periapical abscess may not appear on dental images, while a chronic periapical abscess appears as a round or ovoid apical radiolucency.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60678,
+      question: "Condensing osteitis is attached to the tooth root and is most commonly found in the maxillary anterior region.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60679,
+      question: "Hypercementosis causes affected teeth to become non-vital, and treatment is required to remove the excess cementum.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    }
   ],
   "10. Dental Radiology": [
-    //questions
+    {
+      id: 60680,
+      question: "What is the radiographic appearance of calculus on a dental image?",
+      options: [
+        "White or light radiopaque projection extending from proximal root surfaces",
+        "Dark or black irregular projection extending from root surfaces",
+        "Gray uniform band surrounding the root of the tooth",
+        "Clear or transparent outline near the alveolar crest"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60681,
+      question: "Why is it sometimes difficult to distinguish between supragingival and subgingival calculus on a radiograph?",
+      options: [
+        "Both types of calculus have identical radiographic density and location",
+        "Radiographic films are not sensitive enough to detect mineralized deposits",
+        "Calculus deposits are too small to be detected radiographically in most cases",
+        "Soft tissue such as the gingiva cannot be detected on radiographic images"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60682,
+      question: "Which of the following is NOT a radiographic appearance that calculus may present as?",
+      options: [
+        "Nodular image projection on a root surface",
+        "Ringlike opacity surrounding a root",
+        "Radiolucent area beneath the alveolar crest",
+        "Smooth opacity on a root surface"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60683,
+      question: "Which of the following best describes what calculus results from?",
+      options: [
+        "Overgrowth of gingival tissue caused by inflammation",
+        "Resorption of cementum along the root surface",
+        "Accumulation of food particles trapped beneath restorations",
+        "Mineralization of dental plaque on tooth surfaces"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60684,
+      question: "Which of the following best describes a predisposing factor in periodontal disease as it relates to radiographic interpretation?",
+      options: [
+        "Local irritants such as calculus and defective restorations that contribute to disease",
+        "Bone changes that occur only in edentulous regions of the jaw",
+        "Furcation involvement visible exclusively through probing measurements",
+        "Any tooth morphology variation visible only on panoramic images"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60685,
+      question: "What is a \"shy margin\" in the context of defective restorations?",
+      options: [
+        "A restoration with uneven ridge heights causing food impaction",
+        "A restoration margin that does not fully cover the prepared tooth surface",
+        "A restoration that has an open or loose contact with the adjacent tooth",
+        "A restoration margin that protrudes beyond the tooth contour"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60686,
+      question: "Faulty restorations may contribute to periodontal disease primarily because they:",
+      options: [
+        "Cause widening of the periodontal ligament space at the furcation",
+        "Alter the shade and translucency of the enamel surface",
+        "Reduce the thickness of the lamina dura around the root apex",
+        "Act as food traps leading to accumulation of food debris and bacteria"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60687,
+      question: "On a radiograph, which feature helps identify an open or light (loose) contact between teeth?",
+      options: [
+        "Widened periodontal ligament space at the contact point",
+        "Loss of lamina dura continuity at the interproximal crest",
+        "A radiolucent gap visible between the proximal surfaces of adjacent teeth",
+        "A radiopaque projection between two adjacent teeth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60688,
+      question: "Which of the following defective restoration types is characterized by a restoration margin that extends beyond the tooth surface onto the root?",
+      options: [
+        "Overhang margin",
+        "Uneven marginal ridge",
+        "Open contact",
+        "Shy margin"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60689,
+      question: "Why may furcation involvement sometimes NOT be detected on a dental radiograph?",
+      options: [
+        "Superimposition of buccal and lingual bone obscures the furcation area",
+        "Furcation involvement only occurs in anterior teeth with single roots",
+        "The furcation area is always covered by dense cortical bone",
+        "Radiographic films cannot distinguish between bone and soft tissue density"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60690,
+      question: "What does the normal periodontal ligament (PDL) space appear as on a radiograph?",
+      options: [
+        "A thin radiolucent line between the root and the lamina dura",
+        "A radiopaque line between the root and alveolar bone",
+        "An irregular dark shadow apical to the root tip",
+        "A uniform white band running parallel to the root surface"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60691,
+      question: "Which radiographic feature is associated with occlusal trauma in addition to a widened PDL space?",
+      options: [
+        "Horizontal bone loss visible at the alveolar crest interproximally",
+        "Thickening of the lamina dura and increased diffuse periodontal bone density",
+        "Disappearance of the lamina dura and periapical radiolucency",
+        "Ringlike calculus deposits on the proximal surfaces of affected teeth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60692,
+      question: "In a healthy tooth, the periodontal ligament (PDL) space should appear:",
+      options: [
+        "Discontinuous at the furcation area of multi-rooted teeth",
+        "Visible only on the proximal surfaces of posterior teeth",
+        "Continuous around the root and of uniform thickness throughout",
+        "Thicker at the apex and thinner at the cervical region of the root"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60693,
+      question: "What is the term for a condition in which a tooth's root shows abnormal shortening visible on a radiograph?",
+      options: [
+        "Dilaceration",
+        "External resorption",
+        "Flexion of the root",
+        "Hypercementosis"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60694,
+      question: "A widened PDL space on a radiograph may indicate which of the following conditions?",
+      options: [
+        "Occlusal trauma or periapical pathology affecting the tooth",
+        "Amelogenesis imperfecta affecting the enamel layer",
+        "Concrescence of two adjacent teeth at the root surface",
+        "Normal eruption pattern of a permanent tooth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60695,
+      question: "According to the eruption chronology, which teeth typically erupt at 6 to 7 years of age?",
+      options: [
+        "Mandibular central incisors and maxillary/mandibular first molars",
+        "Mandibular canines and maxillary lateral incisors",
+        "Maxillary central incisors and mandibular lateral incisors",
+        "Maxillary and mandibular second premolars and canines"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60696,
+      question: "An edentulous radiograph differs from a partial dentition radiograph primarily in that:",
+      options: [
+        "Edentulous radiographs always demonstrate furcation involvement in the posterior regions",
+        "Edentulous radiographs show residual alveolar ridges without any remaining teeth",
+        "Edentulous radiographs show only soft tissue outlines without any bony landmarks",
+        "Edentulous radiographs require bitewing technique exclusively for proper diagnosis"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60697,
+      question: "Which of the following best describes ectopic eruption?",
+      options: [
+        "A primary tooth that fails to exfoliate at the appropriate developmental age",
+        "A permanent tooth that erupts in an abnormal location in the dental arch",
+        "A supernumerary tooth that forms between the maxillary central incisors",
+        "Delayed eruption of all teeth caused by a systemic hormonal deficiency"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60698,
+      question: "At approximately what age do the maxillary and mandibular second molars typically erupt?",
+      options: [
+        "6 to 7 years old",
+        "9 to 10 years old",
+        "11 to 13 years old",
+        "10 to 12 years old"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60699,
+      question: "Which of the following eruption sequences is correct according to the chronology of eruption?",
+      options: [
+        "Maxillary and mandibular premolars erupt between ages 10 to 12",
+        "Mandibular canines erupt before maxillary and mandibular first molars",
+        "Maxillary lateral incisors erupt before mandibular central incisors",
+        "Maxillary central incisors erupt after mandibular lateral incisors"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60700,
+      question: "What is the term for a condition in which two teeth are joined together only at the cementum level?",
+      options: [
+        "Gemination",
+        "Concrescence",
+        "Fusion",
+        "Dilaceration"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60701,
+      question: "Gemination (twinning) is characterized by which of the following features?",
+      options: [
+        "One tooth germ attempting to divide, resulting in two crowns sharing one root",
+        "Two separate teeth fused together sharing a single root canal",
+        "Fusion of two teeth joined by dentin with separate pulp chambers",
+        "A supernumerary tooth erupting adjacent to a normal permanent tooth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60702,
+      question: "How does fusion differ from gemination in tooth morphology?",
+      options: [
+        "Fusion affects only primary teeth, while gemination affects only permanent teeth",
+        "Fusion involves two teeth joined by dentin/pulp, while gemination involves twinning of one tooth",
+        "Fusion involves one crown with one root, while gemination involves two separate teeth",
+        "Fusion is detected clinically only, while gemination is detected radiographically only"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60703,
+      question: "What is hypercementosis?",
+      options: [
+        "Resorption of cementum caused by occlusal forces on the root surface",
+        "Formation of an accessory root canal branching from the main canal",
+        "Abnormal thickening of cementum on the root of a tooth",
+        "Deposition of enamel on the root surface near the furcation area"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60704,
+      question: "Which of the following is a recognized etiology of hypercementosis?",
+      options: [
+        "Fluorosis and enamel hypoplasia during tooth development",
+        "Supernumerary tooth formation in the anterior maxillary region",
+        "Paget's disease of bone (osteitis deformans) and periapical inflammation",
+        "Ankylosis of a primary tooth preventing normal exfoliation"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60705,
+      question: "Which teeth are most commonly affected by hypercementosis?",
+      options: [
+        "Mandibular anterior teeth and maxillary canines",
+        "Mandibular premolars and maxillary lateral incisors",
+        "Upper molars are the most frequently affected teeth",
+        "Lower central incisors and maxillary first premolars"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60706,
+      question: "What is a mesiodens?",
+      options: [
+        "A supernumerary tooth most commonly located between maxillary central incisors",
+        "A dwarfed root found on maxillary lateral incisors in adults",
+        "A tooth that erupts in a transposed position within the dental arch",
+        "An impacted lower third molar located distal to the second molar"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60707,
+      question: "Ankylosis of a tooth is best described as:",
+      options: [
+        "Direct union of the tooth root with the alveolar bone, with loss of the PDL",
+        "Fusion of two adjacent teeth through their shared cementum surfaces",
+        "Resorption of the root tip caused by excessive orthodontic force",
+        "A condition where the crown and root are joined by enamel deposits"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60708,
+      question: "Dens invaginatus (dens in dente) is characterized by which of the following?",
+      options: [
+        "A focal enamel deposit on the root surface near the furcation",
+        "An invagination of the enamel organ into the developing tooth structure",
+        "Fusion of the crown enamel with the adjacent gingival tissue",
+        "Formation of a secondary root canal parallel to the primary root canal"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60709,
+      question: "Dilaceration of a tooth root refers to:",
+      options: [
+        "Abnormal thickening of cementum at the root apex of posterior teeth",
+        "Resorption of the root surface caused by occlusal trauma or orthodontic forces",
+        "Fusion of two roots of the same tooth into a single conical structure",
+        "A severe bend or curve in the root caused by trauma or developmental disturbance"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60710,
+      question: "What is flexion in terms of tooth root morphology?",
+      options: [
+        "Incomplete root formation in a recently erupted permanent tooth",
+        "Resorption of the root apex caused by periapical pathology",
+        "Abnormal elongation of a root associated with hypercementosis",
+        "A mild curvature of the root tip in one direction"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60711,
+      question: "Dwarfed roots are characterized by which of the following features?",
+      options: [
+        "Roots that are excessively long and curved at the apex",
+        "Roots that are disproportionately short relative to the crown",
+        "Accessory roots that form alongside the main root of a molar",
+        "Roots that are fused together creating a single conical form"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60712,
+      question: "What is an enamel pearl?",
+      options: [
+        "A small spherical deposit of calculus on the proximal surface of a root",
+        "A rounded nodular area of hypercementosis near the root apex",
+        "A focal deposit of enamel on the root surface, often near the furcation",
+        "An invagination of enamel into the pulp chamber of a lateral incisor"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60713,
+      question: "Amelogenesis imperfecta affects which dental structure, and how does it appear radiographically?",
+      options: [
+        "The alveolar bone, appearing as generalized horizontal bone loss on radiographs",
+        "The pulp, appearing as premature calcification of the root canal on radiographs",
+        "The enamel, which appears as a radiolucent area on dental radiographs",
+        "The cementum and PDL fibers, appearing as widened PDL space on radiographs"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60714,
+      question: "Dentinogenesis imperfecta primarily affects which dental structure?",
+      options: [
+        "Enamel, causing pitting and discoloration of crown surfaces",
+        "Dentin, resulting in abnormal tooth color and weak tooth structure",
+        "Periodontal ligament, leading to loss of alveolar bone support",
+        "Cementum, causing hypercementosis on all root surfaces"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60715,
+      question: "Transposition in the dental arch refers to which of the following conditions?",
+      options: [
+        "A supernumerary tooth that develops between two normal teeth",
+        "Delayed eruption of a permanent tooth beyond the normal eruption age",
+        "A tooth that erupts in an inverted position with the root facing coronally",
+        "Two teeth that have exchanged positions within the dental arch"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60716,
+      question: "Which of the following best describes accessory roots?",
+      options: [
+        "Extra root canals that form within a single root of a posterior tooth",
+        "Resorbed root surfaces that appear shortened on periapical radiographs",
+        "Root projections caused by excessive deposition of cementum over time",
+        "Additional roots that develop on a tooth beyond the normal number"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60717,
+      question: "Macrodontia refers to teeth that are:",
+      options: [
+        "Displaying excessive root curvature due to developmental disruption",
+        "Abnormally small relative to the size of the dental arch",
+        "Fused together sharing a common pulp chamber and root",
+        "Abnormally large relative to the size of the dental arch"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60718,
+      question: "Microdontia is defined as:",
+      options: [
+        "Teeth that are abnormally large and cause crowding in the dental arch",
+        "Teeth with excessively short roots relative to normal crown length",
+        "Teeth that are abnormally small, often associated with peg laterals",
+        "Teeth with absent or minimal enamel due to hereditary defect"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 60719,
+      question: "Loss of space in the dental arch as seen radiographically may result in which of the following?",
+      options: [
+        "Hypercementosis of the remaining teeth due to excess occlusal load",
+        "Fusion of primary and permanent teeth at the crown level",
+        "Widened PDL space around all remaining teeth in the quadrant",
+        "Blocked or impacted eruption of developing permanent teeth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60720,
+      question: "Radiographic interpretation is important in dental hygiene practice primarily because it:",
+      options: [
+        "Replaces the need for clinical examination in detecting periodontal disease",
+        "Provides definitive diagnosis of systemic diseases reflected in the oral cavity",
+        "Eliminates the need for probing to assess furcation involvement in molars",
+        "Allows identification of calculus, defective restorations, bone changes, and tooth abnormalities"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 60721,
+      question: "Calculus appears as a radiolucent (dark) area on a dental radiograph.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60722,
+      question: "The normal periodontal ligament (PDL) space appears as a thin radiolucent line between the root and the lamina dura.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60723,
+      question: "Furcation involvement can always be detected on a dental radiograph without any difficulty.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60724,
+      question: "Defective restorations with overhangs can act as food traps and contribute to periodontal disease.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60725,
+      question: "Gemination (twinning) results in two crowns that share a single root.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60726,
+      question: "Hypercementosis is defined as an abnormal thinning of cementum on the root of a tooth.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60727,
+      question: "Amelogenesis imperfecta causes the enamel to appear radiolucent on a dental radiograph.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60728,
+      question: "Dens invaginatus (dens in dente) results from an invagination of the enamel organ into the developing tooth.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60729,
+      question: "Mandibular central incisors and maxillary/mandibular first molars typically erupt between the ages of 7 to 8 years.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 60730,
+      question: "Concrescence refers to two teeth joined together only at the level of the cementum.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60731,
+      question: "Ankylosis involves direct fusion of the tooth root with the alveolar bone with loss of the periodontal ligament space.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 60732,
+      question: "A widened PDL space may be associated with occlusal trauma affecting a tooth.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    }
   ]
 };
