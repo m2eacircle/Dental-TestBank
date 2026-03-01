@@ -7737,5 +7737,8 @@ export const questions = {
       ],
       correctAnswer: 0
     },
+  ], 
+  "2-3. Medical Emergencies": [
+    //questions
   ]  
 };
