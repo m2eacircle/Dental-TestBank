@@ -790,6 +790,8 @@ export const subjectsWithSubtopics = {
     "1. Introduction and prevention (Part 3)",
     "1. Introduction and prevention (Part 3-2)",
     "1. Introduction and prevention (Part 4)",
-    "1. Introduction and prevention (Part 4-2)"
+    "1. Introduction and prevention (Part 4-2)",
+    "2. Vital Signs revised",
+    "3. Legal considerations revised"
   ]  
 };
