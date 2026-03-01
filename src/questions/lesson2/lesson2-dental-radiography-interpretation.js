@@ -4262,16 +4262,10 @@ export const questions = {
       correctAnswer: 0
     }
   ],
-  "6. Radiographic Interpretation (Part 1)": [
+  "6. Radiographic Interpretation (Part 1-2)": [
     //questions
   ],
-  "6. Radiographic Interpretation (Part 2)": [
-    //questions
-  ],
-  "6. Radiographic Interpretation (Part 3)": [
-    //questions
-  ],
-  "6. Radiographic Interpretation (Part 4)": [
+  "6. Radiographic Interpretation (Part 3-4)": [
     //questions
   ],
   "7. Dental Caries": [
