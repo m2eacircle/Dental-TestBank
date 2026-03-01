@@ -5398,5 +5398,7 @@ export const questions = {
       ],
       correctAnswer: 0
     }
-  ]    
+  ],    
+  "1. Introduction and prevention (Part 3=2)": [
+  ]
 };
