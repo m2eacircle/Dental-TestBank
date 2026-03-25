@@ -21,6 +21,23 @@ import { questions as oralHealthEducationQuestions } from './lesson2/lesson2-ora
 import { questions as dentalHygieneTheory2Questions } from './lesson2/lesson2-dental-hygiene-theory-ii.js';
 import { questions as medicalemergenciesQuestions } from './lesson2/lesson2-medical-emergencies.js';
 
+// Lesson 3 imports
+import { questions as communityDentalHealth1Questions } from './lesson3/lesson3-community-dental-health-i.js';
+import { questions as dentalHygieneTheory3Questions } from './lesson3/lesson3-dental-hygiene-theory-iii.js';
+import { questions as dentalMaterialsLabQuestions } from './lesson3/lesson3-dental-materials-lab.js';
+import { questions as ethicsJurisprudenceQuestions } from './lesson3/lesson3-ethics-and-jurisprudence.js';
+import { questions as gerontologyQuestions } from './lesson3/lesson3-gerontology.js';
+import { questions as nutritionForLivingQuestions } from './lesson3/lesson3-nutrition-for-living.js';
+import { questions as oralHealthPromotionQuestions } from './lesson3/lesson3-oral-health-promotion.js';
+import { questions as oralPathologyQuestions } from './lesson3/lesson3-oral-pathology.js';
+import { questions as periodontology2Questions } from './lesson3/lesson3-periodontology-ii.js';
+
+// Lesson 4 imports
+import { questions as businessPracticeQuestions } from './lesson4/lesson4-business-practice.js';
+import { questions as communityDentalHealth2Questions } from './lesson4/lesson4-community-dental-health-ii.js';
+import { questions as consolidatedLearningQuestions } from './lesson4/lesson4-consolidated-learning.js';
+import { questions as dentalHygieneTheory4Questions } from './lesson4/lesson4-dental-hygiene-theory-iv.js';
+
 // Board Exam imports
 import { questions as professionalPracticeFoundationsQuestions } from './boardexam/boardexam-professional-practice-and-foundations.js';
 import { questions as communityPublicHealthQuestions } from './boardexam/boardexam-community-and-public-health.js';
@@ -72,6 +89,19 @@ export const allQuestions = {
   ...oralHealthEducationQuestions,
   ...dentalHygieneTheory2Questions,
   ...medicalemergenciesQuestions,
+  ...communityDentalHealth1Questions,
+  ...dentalHygieneTheory3Questions,
+  ...dentalMaterialsLabQuestions,
+  ...ethicsJurisprudenceQuestions,
+  ...gerontologyQuestions,
+  ...nutritionForLivingQuestions,
+  ...oralHealthPromotionQuestions,
+  ...oralPathologyQuestions,
+  ...periodontology2Questions,
+  ...businessPracticeQuestions,
+  ...communityDentalHealth2Questions,
+  ...consolidatedLearningQuestions,
+  ...dentalHygieneTheory4Questions,
   ...professionalPracticeFoundationsQuestions,
   ...communityPublicHealthQuestions,
   ...infectionControlSafetyQuestions,
@@ -124,6 +154,19 @@ export {
   oralHealthEducationQuestions,
   dentalHygieneTheory2Questions,
   medicalemergenciesQuestions,
+  communityDentalHealth1Questions,
+  dentalHygieneTheory3Questions,
+  dentalMaterialsLabQuestions,
+  ethicsJurisprudenceQuestions,
+  gerontologyQuestions,
+  nutritionForLivingQuestions,
+  oralHealthPromotionQuestions,
+  oralPathologyQuestions,
+  periodontology2Questions,
+  businessPracticeQuestions,
+  communityDentalHealth2Questions,
+  consolidatedLearningQuestions,
+  dentalHygieneTheory4Questions,
   professionalPracticeFoundationsQuestions,
   communityPublicHealthQuestions,
   infectionControlSafetyQuestions,
