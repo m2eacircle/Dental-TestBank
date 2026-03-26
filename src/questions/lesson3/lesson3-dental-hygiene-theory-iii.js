@@ -44,7 +44,7 @@ export const questions = {
         "1 in 20 adults aged 65 and older",
         "1 in 5 adults aged 65 and older"
       ],
-      correctAnswer: 3
+      correctAnswer: 1
     },
     {
       id: 92005,
