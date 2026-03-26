@@ -843,5 +843,18 @@ export const subjectsWithSubtopics = {
     "2. Vital Signs revised",
     "3. Legal considerations revised",
     "2-3. Medical Emergencies"
+  ],  
+  "Oral Pathology": [
+    "1. Introduction to Oral Pathology",
+    "2. Diagnostic Methods Chapter 1"
+  ],  
+  "Community Dental Health I": [
+    "1. Introduction to Public Health"
+  ],  
+  "Dental Hygiene Theory III": [
+    "1. Fixed Prosthodontics"
+  ],  
+  "Nutrition for Living": [
+    "1. Introduction to Nutrition"
   ]  
 };
