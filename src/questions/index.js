@@ -856,5 +856,32 @@ export const subjectsWithSubtopics = {
   ],  
   "Nutrition for Living": [
     "1. Introduction to Nutrition"
-  ]  
+  ],  
+  "Dental Materials Lab": [
+    "1. test"
+  ],  
+  "Ethics and Jurisprudence": [
+    "1. test"
+  ],  
+  "Gerontology": [
+    "1. test"
+  ],  
+  "Oral Health Promotion": [
+    "1. test"
+  ],  
+  "Periodontology II": [
+    "1. test"
+  ],  
+  "Business Practice": [
+    "1. test"
+  ],  
+  "Community Dental Health II": [
+    "1. test"
+  ],  
+  "Consolidated Learning": [
+    "1. test"
+  ],  
+  "Dental Hygiene Theory IV": [
+    "1. test"
+  ] 
 };
