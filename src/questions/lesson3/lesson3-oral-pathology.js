@@ -973,7 +973,7 @@ export const questions = {
       options: [
         "Excessive cementum deposition at the root apex appearing as a bulbous opacity",
         "Calcification within the pulp chamber appearing as a radiopaque mass",
-        "Radiolucent lines on the apex or lateral side of the root dentin",
+        "An oval or balloon-shaped radiolucent widening within the pulp canal or root dentin",
         "Widening of the periodontal ligament space surrounding the entire root"
       ],
       correctAnswer: 2
