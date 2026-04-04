@@ -855,7 +855,10 @@ export const subjectsWithSubtopics = {
     "1. Fixed Prosthodontics"
   ],  
   "Nutrition for Living": [
-    "1. Introduction to Nutrition"
+    "1. Introduction to Nutrition",
+    "2. Nutritional Aspects of Dental Caries",
+    "3. Carbohydrates",
+    "4. Protein"
   ],  
   "Dental Materials Lab": [
     "1. test"
