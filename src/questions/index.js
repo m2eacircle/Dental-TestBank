@@ -846,7 +846,13 @@ export const subjectsWithSubtopics = {
   ],  
   "Oral Pathology": [
     "1. Introduction to Oral Pathology",
-    "2. Diagnostic Methods Chapter 1"
+    "2. Diagnostic Methods Chapter 1",
+    "3. Introduction to Preliminary Diagnosis of Oral Lesions",
+    "4. Classification of Benign Conditions of Unknown Cause",
+    "5. Inflammation and Repair",
+    "6. Immunity and Immunologic Oral Lesions (Part 1)",
+    "6. Immunity and Immunologic Oral Lesions (Part 2)",
+    "7. Infectious Diseases"
   ],  
   "Community Dental Health I": [
     "1. Introduction to Public Health"
