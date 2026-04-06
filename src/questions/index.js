@@ -858,7 +858,8 @@ export const subjectsWithSubtopics = {
     "1. Introduction to Public Health"
   ],  
   "Dental Hygiene Theory III": [
-    "1. Fixed Prosthodontics"
+    "1. Fixed Prosthodontics",
+    "2. Removable Prosthedontics"
   ],  
   "Nutrition for Living": [
     "1. Introduction to Nutrition",
