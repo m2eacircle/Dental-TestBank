@@ -855,7 +855,8 @@ export const subjectsWithSubtopics = {
     "7. Infectious Diseases"
   ],  
   "Community Dental Health I": [
-    "1. Introduction to Public Health"
+    "1. Introduction to Public Health",
+    "2. Research and Design Studies Part I"
   ],  
   "Dental Hygiene Theory III": [
     "1. Fixed Prosthodontics",
