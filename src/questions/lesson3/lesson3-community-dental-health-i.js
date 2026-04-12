@@ -378,7 +378,7 @@ export const questions = {
       correctAnswer: 0
     },
   ],
-  "2. Research and Design Studies Part I": [
+  "2. Research and Design Studies (Part 1)": [
     {
       id: 91036,
       question: "Which of the following best defines public health?",
@@ -924,6 +924,502 @@ export const questions = {
     {
       id: 91086,
       question: "Research ethics require that all human participants provide voluntary, informed consent and that their confidentiality be protected before, during, and after a study.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+  ],
+  "2. Research and Design Studies (Part 2)": [
+    {
+      id: 91087,
+      question: "Before reading a clinical research paper, which of the following elements should you note first?",
+      options: [
+        "The statistical methods used in the study",
+        "The publication, title, authors, and date",
+        "The conclusions drawn by the researchers",
+        "The data collection instruments described"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91088,
+      question: "What does the Introduction of a clinical research paper primarily convey?",
+      options: [
+        "A comprehensive breakdown of every result found in the study",
+        "A summary of limitations discovered after the study was completed",
+        "A description of data collection timing and instrument reliability",
+        "The purpose of the study and why it contributes to scientific knowledge"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91089,
+      question: "Which section of a clinical research paper first appears and provides the reader with an overview before they read the full paper?",
+      options: [
+        "Discussion",
+        "Introduction",
+        "Abstract",
+        "Materials and Methods"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91090,
+      question: "In the context of clinical research, \"Treatment\" refers to which of the following?",
+      options: [
+        "The clinical procedures and/or test materials administered to subjects",
+        "The criteria used to determine whether a study endpoint was reached",
+        "The final conclusions drawn from the statistical analysis",
+        "The process by which subjects are randomly assigned to groups"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91091,
+      question: "Which study design involves subjects receiving their respective treatments simultaneously without switching?",
+      options: [
+        "Parallel design",
+        "Split-mouth design",
+        "Stratified randomization",
+        "Crossover design"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91092,
+      question: "In a crossover study design, what happens after the initial treatment phase?",
+      options: [
+        "The study endpoint is measured and the study concludes immediately",
+        "Subjects are re-randomized into entirely new treatment groups",
+        "A washout period occurs and then groups switch treatments",
+        "All subjects are given the placebo treatment permanently"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91093,
+      question: "The split-mouth design is described as a dental-specific study design. How is each subject's mouth organized within this design?",
+      options: [
+        "Only one quadrant is treated while the remaining three serve as controls",
+        "The mouth is divided into units, and each subject receives all treatments",
+        "Subjects are grouped by dental arch, upper versus lower teeth",
+        "One side receives the placebo and the other side receives no intervention"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91094,
+      question: "Which of the following best describes a Placebo Control Group in a clinical study?",
+      options: [
+        "Subjects who receive the treatment currently under investigation",
+        "Subjects who receive a treatment known to produce a positive result",
+        "Subjects who receive an inert treatment with no active ingredients",
+        "Subjects who are excluded from the study due to screening criteria"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91095,
+      question: "What is the role of a Positive Control Group in a clinical study?",
+      options: [
+        "To receive a treatment already known to yield a positive result",
+        "To receive no treatment at all during the study period",
+        "To test a new experimental compound not yet studied",
+        "To receive the same inert treatment as the placebo group"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91096,
+      question: "Why do researchers randomly divide research subjects into treatment groups before administering treatments?",
+      options: [
+        "To ensure each group has an equal number of male and female subjects",
+        "To make certain that the grouping itself is not the cause of observed results",
+        "To simplify the statistical analysis performed at the end of the study",
+        "To allow subjects to choose the treatment they are most comfortable with"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91097,
+      question: "In Simple Randomization, how are research subjects assigned to treatment groups?",
+      options: [
+        "Subjects self-select into groups based on their treatment preference",
+        "They are first stratified by demographic characteristics, then randomized",
+        "Researchers randomly assign each subject to a group without prior stratification",
+        "They are assigned based on their geographic location or clinic of origin"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91098,
+      question: "How does Stratified Randomization differ from Simple Randomization?",
+      options: [
+        "Subjects are first divided by characteristics such as gender before being randomized",
+        "It does not use random assignment; researchers manually select subjects",
+        "Subjects are randomly assigned without any consideration of their characteristics",
+        "Only one stratum is used and all subjects are assigned to a single group"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91099,
+      question: "Blinding in clinical research is best described as a technique used to minimize what?",
+      options: [
+        "The time required to complete data collection during a clinical trial",
+        "The impact of psychological bias on study results",
+        "The cost associated with administering multiple treatments simultaneously",
+        "The number of subjects required to achieve statistical significance"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91100,
+      question: "In a Double Blind study, who is unaware of which treatment each subject receives?",
+      options: [
+        "Only the subject is unaware; the examiner knows the treatment allocation",
+        "Neither the subject nor the examiner knows the treatment allocation",
+        "Only the examiner is unaware; the subject knows their own treatment",
+        "Both the subject and the sponsor are unaware, but the examiner knows"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91101,
+      question: "In an Open Label study, who is aware of which treatment each subject receives?",
+      options: [
+        "Both the subject and the examiner are aware of the treatment allocation",
+        "Only an independent third-party reviewer is aware of the treatment allocation",
+        "Neither the subject nor the examiner is aware of the treatment allocation",
+        "Only the subject is aware; the examiner remains blinded throughout"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91102,
+      question: "Which of the following is a component of the Data Collection section that helps demonstrate reproducibility of results?",
+      options: [
+        "Description of the treatment dosage and frequency of administration",
+        "The p-value threshold used to determine statistical significance",
+        "Intra-rater and inter-rater reliability of data collection instruments",
+        "The washout period duration between treatment phases"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91103,
+      question: "An \"endpoint\" in a clinical study is best defined as which of the following?",
+      options: [
+        "The criteria used to determine whether a treatment is effective",
+        "The section of the paper where final conclusions are presented",
+        "The final statistical technique applied to analyze collected data",
+        "The last date on which data was collected from research subjects"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91104,
+      question: "In the presentation, which example was given to illustrate what an endpoint might look like?",
+      options: [
+        "Decrease in patient-reported pain following a periodontal scaling procedure",
+        "Improvement in oral hygiene index scores following flossing instruction",
+        "Reduction in plaque scores after using an experimental toothpaste",
+        "Reduction in gingivitis when testing the effectiveness of an antimicrobial mouthrinse"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91105,
+      question: "The P-value in statistical design is used to assess which of the following?",
+      options: [
+        "Whether the sample size was large enough to detect treatment differences",
+        "Whether the treatment group assignment was properly randomized",
+        "Whether a result is statistically significant",
+        "Whether the blinding procedure was successfully maintained throughout"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91106,
+      question: "If a study reports a p-value of 0.05, what does this mean regarding the probability that the treatment caused the observed results?",
+      options: [
+        "There is a 95% probability that the treatment was responsible for the observed results",
+        "There is a 50% probability that observed results were due to chance alone",
+        "There is a 5% probability that the treatment was responsible for the observed results",
+        "There is a 95% probability that observed results were due to chance alone"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91107,
+      question: "According to the Sample Size Guide, which situation calls for a LARGE sample size?",
+      options: [
+        "A pilot study exploring a new treatment or research area",
+        "Assessing rare occurrences in the general population",
+        "Homogeneous populations with little variability relative to treatment",
+        "Studies with very small expected differences between treatment groups"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91108,
+      question: "According to the Sample Size Guide, which situation is most appropriate for a SMALL sample size?",
+      options: [
+        "Heterogeneous populations with great variability or diversity",
+        "Assessing for small differences between treatment groups",
+        "Studies involving rare occurrences in a large population",
+        "Pilot study exploring a new treatment or research area"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91109,
+      question: "After reading the Materials and Methods section, which of the following is a critical thinking question you should ask yourself?",
+      options: [
+        "What was the study design — parallel, crossover, double blind, or single blind?",
+        "Are the references cited in the paper recent and up to date?",
+        "Did the conclusion logically follow from the data presented in results?",
+        "What research influenced the authors to engage in this described study?"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91110,
+      question: "What is the primary purpose of the Results section of a clinical research paper?",
+      options: [
+        "To describe the limitations of the study and suggest future research",
+        "To interpret the data and relate it back to existing scientific knowledge",
+        "To list the authors' recommendations for future clinical practice",
+        "To summarize the study's findings without introducing data interpretations"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91111,
+      question: "After reading the Results section, which of the following is a key critical thinking question?",
+      options: [
+        "Are the references cited in the paper recent and up to date?",
+        "Was a statistical method used to ensure an adequate sample size?",
+        "Did the conclusion directly answer the research question posed?",
+        "What research influenced the authors' decision to conduct the study?"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91112,
+      question: "What does the Discussion section of a clinical research paper primarily provide?",
+      options: [
+        "A complete list of all references consulted during the research process",
+        "A description of the treatment groups and their assigned interventions",
+        "A raw summary of data collected without any author commentary",
+        "The authors' interpretation of study results and how they fit existing knowledge"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91113,
+      question: "Which of the following is something the Discussion section may address?",
+      options: [
+        "The demographic characteristics and screening criteria of the research subjects",
+        "The frequency and dosage of the treatment administered to each group",
+        "Limitations of the study and suggestions for topics of further research",
+        "The timing and instruments used during the data collection phase"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91114,
+      question: "After reading the Discussion section, which critical thinking question is most relevant?",
+      options: [
+        "Was a statistical method used to ensure an adequate sample size?",
+        "What limitations, if any, were described about the study?",
+        "Are the references cited in the paper recent and up to date?",
+        "What was the number of study subjects included in the research?"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91115,
+      question: "According to the presentation, the Conclusion section should be directly related to which of the following?",
+      options: [
+        "The statistical techniques selected to analyze the data collected",
+        "The demographic characteristics of the subjects enrolled in the study",
+        "The data collection methods and instruments used during the study",
+        "The research question or hypothesis posed at the start of the study"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91116,
+      question: "After reading the Conclusion, which critical thinking question is most appropriate?",
+      options: [
+        "Are the references cited in the paper recent and up to date?",
+        "What research influenced the authors to engage in this described study?",
+        "Did the results support the conclusion drawn by the authors?",
+        "Were the treatment group subjects properly screened and randomized?"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91117,
+      question: "What are the two main benefits of the References section described in the presentation?",
+      options: [
+        "Verifying author credentials and confirming journal publication standards",
+        "Identifying conflicting studies and determining sample size appropriateness",
+        "Evaluating the statistical methods and confirming the endpoint measures",
+        "Looking up additional information and understanding the types of sources the author relies on most"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91118,
+      question: "When critically examining the References section, what key question should you ask?",
+      options: [
+        "Are the references recent and up to date?",
+        "Did the authors use a double-blind or single-blind design?",
+        "Were the data collection instruments valid and reliable?",
+        "Did the conclusion directly answer the hypothesis?"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91119,
+      question: "According to the Professional Application section, why is the ability to critically read clinical papers important?",
+      options: [
+        "It qualifies clinicians to serve as examiners in future clinical research studies",
+        "It allows clinicians to avoid reading papers they professionally disagree with",
+        "It ensures clinicians can publish their own research in peer-reviewed journals",
+        "It helps clinicians make evidence-based decisions and give patients the best care"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91120,
+      question: "The presentation advises that when product representatives visit clinicians, what should clinicians request?",
+      options: [
+        "A free sample of the product to test on patients in their practice",
+        "A comparison of the product with all competitor products on the market",
+        "References and data supporting product efficacy and safety",
+        "Permission to independently conduct a trial with their own patients"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91121,
+      question: "According to the presentation's three-part framework, which of the following is NOT one of the three aspects of a clinical research paper to explore?",
+      options: [
+        "Critically Reading and Evaluating the Content",
+        "The Funding Sources Behind the Research",
+        "Professional Application of the Information",
+        "The Context of a Clinical Research Paper"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91122,
+      question: "Which of the following best captures what the title of a clinical research paper is expected to do?",
+      options: [
+        "Summarize the main conclusion reached by the research team",
+        "Indicate the journal in which the paper was published",
+        "Describe the content of the paper clearly and succinctly",
+        "List all of the authors who contributed to the paper"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91123,
+      question: "Which of the following is NOT listed as an element typically addressed in the Materials and Methods section?",
+      options: [
+        "Research subjects and sample size",
+        "Treatment dosage and frequency",
+        "Statistical design and data collection",
+        "Authors' interpretation of the study findings"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91124,
+      question: "After reading the Introduction, which critical thinking question is most appropriate to ask?",
+      options: [
+        "What questions are the authors answering through the study?",
+        "Were the subjects randomly assigned to treatment groups?",
+        "Were the data collection instruments valid and reliable?",
+        "Did the conclusion logically follow from the data presented?"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91125,
+      question: "Which of the following best describes what the Conclusion section should NOT do?",
+      options: [
+        "Be supported by data presented and analyzed in the Results and Discussion",
+        "Address the research question or hypothesis posed by the authors",
+        "Provide conclusions that logically follow from data in the Results section",
+        "Introduce findings or interpretations that are unsupported by study data"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91126,
+      question: "Which section of the Materials and Methods describes the demographic characteristics of subjects, sample size, and screening criteria?",
+      options: [
+        "Research Subjects",
+        "Study Design",
+        "Statistical Design",
+        "Treatment Group Assignment"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91127,
+      question: "The Abstract section of a clinical research paper provides the authors' detailed interpretation of the study results.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91128,
+      question: "In a Crossover study design, after the washout period, each group of subjects switches to the opposite treatment.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91129,
+      question: "A Positive Control Group is subjected to an inert treatment with no active ingredients.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91130,
+      question: "In a Double Blind study, both the subject and the examiner are unaware of which treatment each subject receives.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91131,
+      question: "The Results section of a clinical research paper is where the authors provide their interpretation of the data collected.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91132,
+      question: "A p-value of 0.05 means there is a 5% probability that the observed results were due to chance.",
       options: [
         "True",
         "False"
