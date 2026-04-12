@@ -873,7 +873,7 @@ export const subjectsWithSubtopics = {
     "6. Vitamins & Minerals",
     "7. Fluids",
     "8. Nutrition in Various Stages of Life",
-    "9. Canada’s Food Guide to Healthy Eating"
+    "9. Canada Food Guide to Healthy Eating"
   ],  
   "Dental Materials Lab": [
     "1. test"
