@@ -1328,5 +1328,823 @@ export const questions = {
       ],
       correctAnswer: 0
     },
+  ],
+  "3. Endodontics": [
+    {
+      id: 94001,
+      question: "What does the term \"endodontics\" literally mean?",
+      options: [
+        "Inside the tooth",
+        "Around the root",
+        "Outside the tooth",
+        "Below the gum line"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94002,
+      question: "Which of the following best describes the dental pulp?",
+      options: [
+        "Connective tissue composed of nerves, blood vessels, and other cells",
+        "A hard calcified layer that covers the root surface",
+        "The outermost layer of the tooth crown made of enamel",
+        "A mineralized tissue that lines the inner surface of alveolar bone"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94003,
+      question: "How many additional years of training does a specialist endodontist receive beyond general dentistry?",
+      options: [
+        "3 years",
+        "1 year",
+        "2 years",
+        "4 years"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94004,
+      question: "Which of the following is a microbial cause of pulp damage?",
+      options: [
+        "Bacteria-related infection entering the pulp",
+        "Orthodontic movement applying excessive force",
+        "Sensitivity or allergy to restorative materials",
+        "Tooth preparation during crown placement"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94005,
+      question: "Which of the following is classified as a mechanical cause of pulpal irritation?",
+      options: [
+        "Intense parafunctional habits such as bruxism",
+        "Tooth bleaching agents",
+        "Allergy to composite resin materials",
+        "Bacterial invasion through dentinal tubules"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94006,
+      question: "What are the primary symptoms of pulpal nerve damage?",
+      options: [
+        "Pain on occlusion, pain during mastication, temperature sensitivity, and facial swelling",
+        "Tooth discoloration, bone loss, gingival recession, and halitosis",
+        "Increased salivation, bleeding on probing, pocket formation, and mobility",
+        "Snoring, jaw clicking, headache, and ear ringing"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94007,
+      question: "Cracked tooth syndrome is defined as which of the following?",
+      options: [
+        "An incomplete fracture of the dentine in a vital posterior tooth",
+        "A complete fracture of the enamel extending into the cementum",
+        "A vertical split of the root caused by excessive occlusal loading",
+        "A horizontal fracture of the crown caused by trauma"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94008,
+      question: "Which instrument or method is used during clinical examination to detect a cracked tooth?",
+      options: [
+        "A sharp explorer whose tip may catch in a crack",
+        "Periodontal probe inserted into the sulcus",
+        "Radiograph taken with a bisecting angle technique",
+        "Pulp tester delivering an electrical stimulus"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94009,
+      question: "Which of the following is used in transillumination to help detect a fracture line in a tooth?",
+      options: [
+        "Fiber optic light directed through the tooth",
+        "Carbon dioxide spray applied to the surface",
+        "Warm gutta-percha placed against enamel",
+        "Sodium hypochlorite solution applied to dentin"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94010,
+      question: "What does a positive response to a percussion test indicate?",
+      options: [
+        "There is inflammation in the periodontal ligament",
+        "The pulp has undergone complete necrosis",
+        "The root canal system contains accessory canals",
+        "The tooth has a vertical root fracture"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94011,
+      question: "How is a palpation test performed during an endodontic examination?",
+      options: [
+        "The clinician applies firm pressure to the mucosa above the root apex",
+        "The clinician taps the incisal edge with a mirror handle",
+        "The clinician places ice on the facial surface of the tooth",
+        "The clinician inserts a file to gauge resistance in the canal"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94012,
+      question: "A necrotic pulp will display which characteristic response during thermal testing?",
+      options: [
+        "No response to either cold or heat stimulation",
+        "Prolonged and intense pain to cold stimuli only",
+        "Immediate sharp pain that subsides within seconds",
+        "Heightened sensitivity to warm but not cold stimuli"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94013,
+      question: "Which materials are used for the cold test in pulp vitality assessment?",
+      options: [
+        "Ice, dry ice, or carbon dioxide spray",
+        "Warm gutta-percha and heated metal instruments",
+        "Calcium hydroxide paste and zinc oxide eugenol",
+        "Parachlorophenol and sodium hypochlorite solution"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94014,
+      question: "Where should thermal stimuli NEVER be applied during testing?",
+      options: [
+        "A metallic restoration or gingival tissue",
+        "The lingual surface of mandibular molars",
+        "The incisal edge of upper anterior teeth",
+        "The mesial surface adjacent to the contact point"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94015,
+      question: "Which of the following factors can cause a false-positive or false-negative result with an electric pulp tester?",
+      options: [
+        "The tooth has more than one canal",
+        "The patient reports sharp, brief pain to cold",
+        "Testing is performed on the lingual surface",
+        "There is no restorative material present on the tooth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94016,
+      question: "Which term describes a tooth whose pulp shows no subjective symptoms, responds normally to sensory stimuli, and is surrounded by a healthy layer of dentin?",
+      options: [
+        "Normal pulp",
+        "Reversible pulpitis",
+        "Pulp fibrosis",
+        "Necrotic pulp"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94017,
+      question: "What distinguishes reversible pulpitis from irreversible pulpitis?",
+      options: [
+        "Reversible pulpitis only occurs in primary teeth; irreversible only in permanent teeth",
+        "In reversible pulpitis, symptoms subside after sedative treatment; in irreversible they persist",
+        "Reversible pulpitis always requires extraction; irreversible requires observation only",
+        "Reversible pulpitis shows necrosis on radiograph; irreversible shows normal bone levels"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94018,
+      question: "What sedative dressing material is placed in the cavity preparation to treat reversible pulpitis?",
+      options: [
+        "Zinc oxide eugenol cement mixed to a firm consistency",
+        "Calcium hydroxide placed in the cavity preparation",
+        "Formocresol solution diluted with sterile water",
+        "Sodium hypochlorite irrigated into the pulp chamber"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94019,
+      question: "What is the only treatment alternative to endodontic therapy for a tooth with irreversible pulpitis?",
+      options: [
+        "Pulpotomy with formocresol dressing",
+        "Extraction of the tooth",
+        "Indirect pulp capping with calcium hydroxide",
+        "Scaling and root planing of adjacent tissues"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94020,
+      question: "Pulpal necrosis is best described as which of the following?",
+      options: [
+        "Mild inflammation of the pulp that responds to sedative treatment",
+        "Nonvital, infected \"dead\" pulp deprived of its nerve and blood supply",
+        "Reversible inflammation caused by a thin partition of exposed dentin",
+        "Calcification of the pulp canal that prevents file penetration"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94021,
+      question: "What radiographic finding is most associated with a periapical abscess (Lesion of Endodontic Origin)?",
+      options: [
+        "Horizontal bone loss appearing as a shelf along the root",
+        "Rounded radiolucency at the apex of the tooth",
+        "Widening of the periodontal ligament space in the coronal third",
+        "Calcified deposit appearing as a radiopaque mass within the canal"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94022,
+      question: "An untreated periapical abscess can potentially lead to which life-threatening condition?",
+      options: [
+        "Horizontal root resorption at the apical third",
+        "Cellulitis spreading to the connective tissues of the face and neck",
+        "Pulp calcification blocking all root canal access",
+        "Chronic periodontitis with generalized bone loss"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94023,
+      question: "When assessing tooth pain to determine its origin, what percentage is generally attributed to pulpal causes versus periodontal causes?",
+      options: [
+        "50% pulpal and 50% periodontal",
+        "85% pulpal and 15% periodontal",
+        "70% pulpal and 30% periodontal",
+        "60% pulpal and 40% periodontal"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94024,
+      question: "What is a combination abscess?",
+      options: [
+        "An abscess involving both primary and permanent teeth simultaneously",
+        "An abscess present when both periapical and periodontal infectious processes occur in the same tooth",
+        "An abscess caused by both bacterial and chemical irritation in the pulp",
+        "An abscess that has both acute and chronic features at the same time"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94025,
+      question: "Which of the following best describes a periradicular cyst?",
+      options: [
+        "A fluid-filled sac forming within the gingival sulcus due to bacterial plaque",
+        "A cyst developing at or near the root of a necrotic tooth as an inflammatory response",
+        "A cyst that develops inside the pulp chamber as a result of calcification",
+        "A cyst that develops in the alveolar bone unrelated to tooth vitality"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94026,
+      question: "Pulp fibrosis is characterized by which of the following?",
+      options: [
+        "Bacterial invasion causing complete liquefaction of the pulp contents",
+        "A decrease in living cells causing fibrous tissue to replace the pulp canal",
+        "Rapid cellular proliferation forming granulation tissue in the apex",
+        "Formation of secondary cementum inside the root canal space"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94027,
+      question: "In which patient population is pulp fibrosis most commonly seen?",
+      options: [
+        "Adolescents undergoing orthodontic treatment",
+        "Older patients as part of the aging process",
+        "Children with primary dentition and deep caries",
+        "Middle-aged adults with parafunctional habits"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94028,
+      question: "What procedure involves removal of only the coronal portion of exposed vital pulp to preserve root vitality?",
+      options: [
+        "Apicoectomy",
+        "Pulpotomy",
+        "Retrograde restoration",
+        "Pulpectomy"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94029,
+      question: "For which of the following situations is a pulpotomy most commonly indicated?",
+      options: [
+        "Permanent teeth with complete pulp necrosis and periapical pathology",
+        "Vital primary teeth and teeth with deep carious lesions",
+        "Teeth requiring retrograde filling after failed root canal therapy",
+        "Teeth with severely curved roots that prevent file penetration"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94030,
+      question: "What is the key difference between a pulpotomy and a pulpectomy?",
+      options: [
+        "A pulpotomy uses rotary files; a pulpectomy uses only hand files",
+        "A pulpotomy removes only the coronal pulp; a pulpectomy removes all radicular and coronal pulp",
+        "A pulpotomy is always followed by extraction; a pulpectomy is the definitive treatment",
+        "A pulpotomy is performed under general anesthesia; a pulpectomy under local anesthesia"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94031,
+      question: "What is the purpose of an endodontic post?",
+      options: [
+        "To expand the root canal space before filing begins",
+        "To retain the core buildup over which the final crown restoration is placed",
+        "To condense gutta-percha laterally during obturation",
+        "To deliver irrigation solution deep into the apical third of the canal"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94032,
+      question: "Which of the following is the most commonly used irrigation solution during root canal therapy?",
+      options: [
+        "Parachlorophenol mixed with camphor",
+        "Sodium hypochlorite mixed equal parts with sterile water",
+        "Hydrogen peroxide diluted with sterile saline",
+        "Formocresol solution at full strength"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94033,
+      question: "What is the function of irrigation solutions during root canal therapy?",
+      options: [
+        "To soften gutta-percha before condensation into the canal",
+        "To remove debris, bleach and deodorize the canal, and control hemorrhaging",
+        "To temporarily seal the access cavity between appointments",
+        "To anesthetize the pulp before file instrumentation begins"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94034,
+      question: "Which instrument has a paddle end resembling a beaver tail and is used to place temporary restorative material?",
+      options: [
+        "Endodontic spreader",
+        "Endodontic spoon excavator",
+        "Glick number 1",
+        "K-type file"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94035,
+      question: "Which instrument is specifically used to remove necrotic pulp tissue, decay, and temporary cement during endodontic procedures?",
+      options: [
+        "Hedstrom file",
+        "Broach",
+        "Endodontic spoon excavator",
+        "Endodontic spreader"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94036,
+      question: "What is the function of a broach during endodontic treatment?",
+      options: [
+        "To shape and enlarge the apical third of the canal",
+        "To condense gutta-percha laterally within the shaped canal",
+        "To remove pulp tissue, cotton pellets, and paper points from root canals",
+        "To measure the exact working length of the canal electronically"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94037,
+      question: "What is the primary function of paper points during root canal therapy?",
+      options: [
+        "To carry sealer cement to the apical portion of the canal",
+        "To condense and adapt gutta-percha against the canal walls",
+        "To absorb irrigating solutions and dry the root canal",
+        "To measure and record the working length of the canal"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94038,
+      question: "Which endodontic file type is used for initial debridement, shaping, and contouring of the root canal?",
+      options: [
+        "Hedstrom file",
+        "Gates-Glidden bur",
+        "K-type file",
+        "Reamer file"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94039,
+      question: "What color handle corresponds to a file with a diameter of 25, 55, or 110 on the standard color-coding chart?",
+      options: [
+        "Blue",
+        "White",
+        "Red",
+        "Yellow"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94040,
+      question: "At what temperature does gutta-percha melt during obturation?",
+      options: [
+        "Above 120 degrees Fahrenheit",
+        "Above 200 degrees Fahrenheit",
+        "Above 140 degrees Fahrenheit",
+        "Above 100 degrees Fahrenheit"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94041,
+      question: "What is the most common temporary restorative material placed into an endodontic access opening between appointments?",
+      options: [
+        "Glass ionomer restorative",
+        "Zinc phosphate cement",
+        "Cavit cement",
+        "Intermediate restorative material mixed with eugenol"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94042,
+      question: "What are the radiographic requirements for an endodontic film?",
+      options: [
+        "Must show the crown and 2 mm beyond the apex with moderate contrast",
+        "Must show bone levels equivalent to a full-mouth series radiograph",
+        "Must show 4 to 5 mm beyond the apex, an accurate undistorted image, and good contrast",
+        "Must show only the coronal third taken at a right-angle technique"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94043,
+      question: "Which radiographic image is taken to determine the length of the root canal during treatment?",
+      options: [
+        "Initial diagnostic radiograph",
+        "Root canal completion image",
+        "Working length image",
+        "Recall posttreatment image"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94044,
+      question: "During root canal therapy, rubber dams are used for which purpose?",
+      options: [
+        "To retract the cheek and improve access to posterior teeth",
+        "To prevent the electronic apex locator from short-circuiting",
+        "To isolate and disinfect the operating field",
+        "To stabilize the tooth during percussion testing"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94045,
+      question: "What type of anesthesia is typically used for maxillary teeth during root canal therapy?",
+      options: [
+        "General anesthesia with IV sedation",
+        "Nerve block at the inferior alveolar nerve",
+        "Infiltration anesthesia",
+        "Intraosseous injection technique"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94046,
+      question: "What is the step-by-step sequence of root canal (endodontic) therapy?",
+      options: [
+        "Access preparation, obturation, pulpectomy, debridement, restoration",
+        "Obturation, canal shaping, pulpotomy, irrigation, temporary filling",
+        "Pulpectomy, debridement of canals, shaping of canals, filling of canals, restoration",
+        "Temporary filling, canal debridement, pulp capping, working length, obturation"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94047,
+      question: "What percentage failure rate is associated with root canal therapy, potentially necessitating surgical intervention?",
+      options: [
+        "5% to 8%",
+        "25% to 30%",
+        "10% to 15%",
+        "1% to 3%"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94048,
+      question: "Which of the following is an indication for surgical endodontic intervention?",
+      options: [
+        "Mild reversible pulpitis that responds to calcium hydroxide placement",
+        "Normal pulp with no subjective symptoms or objective signs",
+        "Persistent infection, severely curved roots, or perforation of the canal",
+        "A first-time root canal with no periapical pathology present"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94049,
+      question: "What is an apicoectomy?",
+      options: [
+        "The complete removal of the dental pulp from the coronal and radicular portions",
+        "The placement of a post and core to retain a crown on an endodontically treated tooth",
+        "Surgical removal of the apical portion of the root using a high-speed handpiece",
+        "The removal of one or more roots of a multirooted tooth while keeping the crown"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94050,
+      question: "What is a retrograde restoration also commonly called?",
+      options: [
+        "Indirect pulp cap",
+        "Canal obturation",
+        "Apical debridement",
+        "Root-end filling"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94051,
+      question: "Root amputation is most often performed on which type of teeth?",
+      options: [
+        "Mandibular incisors with single roots",
+        "Mandibular molars during hemisection procedures",
+        "Maxillary premolars with two roots",
+        "Maxillary molars with multiple roots"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94052,
+      question: "Hemisection involves which of the following?",
+      options: [
+        "Removing only the root tips surgically while preserving the entire crown",
+        "Separating the roots of a maxillary molar without touching the crown",
+        "Removing the coronal pulp tissue and capping the remaining radicular pulp",
+        "Cutting the root and crown lengthwise and removing the diseased portion"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94053,
+      question: "What is the correct sequence of measurements used in an endodontic filling procedure?",
+      options: [
+        "Trial point, trial file, trial length",
+        "Trial length, trial point, trial file",
+        "Trial file, trial length, trial point",
+        "Trial length, trial file, trial point"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94054,
+      question: "Which of the following describes an acute periodontal abscess?",
+      options: [
+        "A chronic long-standing infection associated with a sinus tract draining continuously",
+        "A periapical lesion resulting from pulpal necrosis and bacterial invasion of the root canal",
+        "A combination lesion involving both pulpal infection and deep periodontal pocketing",
+        "Localized accumulation of purulence in the gingival wall of a periodontal pocket with rapid onset"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94055,
+      question: "What differentiates a chronic periodontal abscess from an acute periodontal abscess?",
+      options: [
+        "A chronic abscess involves only the gingiva; an acute abscess involves the alveolar bone",
+        "A chronic abscess is always associated with a non-vital tooth; an acute abscess with a vital tooth",
+        "A chronic abscess requires surgical drainage; an acute abscess resolves with antibiotics alone",
+        "A chronic abscess is a long-standing infection often with a sinus tract; acute presents with sudden pain and swelling"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94056,
+      question: "What is a fistula (sinus tract) in relation to a periodontal or periapical abscess?",
+      options: [
+        "A pocket of purulent exudate forming at the junction of hard and soft tissue",
+        "A calcified deposit forming along the root surface inside a periodontal pocket",
+        "A perforated area of the root resulting from file separation during canal shaping",
+        "An abnormal channel connecting the abscess to another space or to the surface"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94057,
+      question: "Which microbial species are most associated with periodontal abscesses?",
+      options: [
+        "Streptococcus mutans and Lactobacillus acidophilus",
+        "Actinomyces and Candida albicans",
+        "Staphylococcus aureus and Enterococcus faecalis",
+        "Porphyromonas gingivalis and Treponema denticola among others"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94058,
+      question: "What is the primary treatment approach for an acute periodontal abscess?",
+      options: [
+        "Immediate extraction of the affected tooth and socket debridement",
+        "Placement of an antibiotic-impregnated chip into the periodontal pocket only",
+        "Root canal therapy followed by retrograde restoration at the next appointment",
+        "Drainage of the abscess through the pocket or incision, scaling, and postoperative care"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94059,
+      question: "After treatment of an acute periodontal abscess, approximately how long does it take for gingival appearance to return to normal?",
+      options: [
+        "2 to 3 days",
+        "3 to 4 months",
+        "9 to 12 months",
+        "6 to 8 weeks"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94060,
+      question: "What is the purpose of a control tooth in an endodontic examination?",
+      options: [
+        "It is used to calibrate the electronic apex locator before testing",
+        "It is extracted to provide access for surgical endodontic procedures",
+        "It is the first tooth treated to ensure the protocol is correct before proceeding",
+        "It is a healthy tooth of the same type in the opposite quadrant used for comparison"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94061,
+      question: "What is the formulation of the formocresol pulpotomy medicament?",
+      options: [
+        "35% formaldehyde and 19% cresol",
+        "50% formaldehyde and 50% phenol solution",
+        "19% cresol and 35% calcium hydroxide",
+        "19% formaldehyde and 35% cresol"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94062,
+      question: "What is parachlorophenol (PCP) used for in endodontic procedures?",
+      options: [
+        "As a sealer to cement gutta-percha points to the canal walls",
+        "As a temporary restorative material to seal the access cavity",
+        "As an anesthetic agent applied topically to the pulp tissue",
+        "As an antimicrobial agent for disinfection of the pulp canal"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94063,
+      question: "Which of the following best describes the role of the endodontic spreader during root canal obturation?",
+      options: [
+        "It creates the access opening in the crown of the tooth",
+        "It measures the working length before canal instrumentation begins",
+        "It delivers paper points into the canal to absorb residual moisture",
+        "It condenses gutta-percha into the canal during filling"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94064,
+      question: "What is the primary responsibility of the dental hygienist regarding patients with untreated periapical abscesses?",
+      options: [
+        "To perform the root canal treatment if the dentist is unavailable",
+        "To extract the tooth to prevent life-threatening spread of infection",
+        "To prescribe antibiotics and schedule a surgical consultation immediately",
+        "To inform patients of the risks of delaying treatment and monitor for complications"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94065,
+      question: "Which of the following is a key objective finding assessed during the endodontic objective examination?",
+      options: [
+        "The patient's description of pain character and duration",
+        "The patient's self-reported sensitivity to hot and cold beverages",
+        "The patient's report of recent dental trauma or restorative work",
+        "Tooth mobility, swelling, and pulp exposure"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94066,
+      question: "Which component of the endodontic subjective examination involves the patient's description of their main concern?",
+      options: [
+        "Chief complaint reported by the patient",
+        "Radiographic findings noted at the apex",
+        "Mobility test results recorded by the clinician",
+        "Percussion sensitivity recorded with a mirror handle"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94067,
+      question: "The dental pulp provides nourishment, sensation, and protection through the formation of reparative dentin throughout the life of the tooth.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94068,
+      question: "General dentists are NOT permitted to perform endodontic treatment; it must always be referred to a specialist endodontist.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94069,
+      question: "A necrotic (nonvital) tooth that has lost its pulp vitality is no longer attached to the alveolus and will spontaneously exfoliate.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94070,
+      question: "Periapical abscesses are among the most common dental emergencies and can also be referred to as apical periodontitis or endodontic abscesses.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94071,
+      question: "Rubber dams are optional during root canal procedures and are only used when the dentist prefers isolation.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94072,
+      question: "The endodontic spreader is used to condense gutta-percha into the canal during obturation.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94073,
+      question: "Sodium hypochlorite is diluted with sterile water and has both antimicrobial and solvent action on necrotic pulp tissue during root canal irrigation.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94074,
+      question: "Root amputation is most commonly performed on mandibular molars, while hemisection is most often performed on maxillary molars.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94075,
+      question: "An untreated periapical abscess can lead to life-threatening conditions such as brain abscess or fasciitis of the neck or chest wall.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94076,
+      question: "Cavit cement is the most common temporary restorative material placed into an endodontic access opening between appointments.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
   ]
 };
