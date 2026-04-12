@@ -4398,7 +4398,7 @@ export const questions = {
       correctAnswer: 0
     }
   ],
-  "9. Canada’s Food Guide to Healthy Eating": [
+  "9. Canada Food Guide to Healthy Eating": [
     {
       id: 90583,
       question: "According to the chapter, food patterns are generally developed during which period of life?",
