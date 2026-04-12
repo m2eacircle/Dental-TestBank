@@ -868,7 +868,12 @@ export const subjectsWithSubtopics = {
     "1. Introduction to Nutrition",
     "2. Nutritional Aspects of Dental Caries",
     "3. Carbohydrates",
-    "4. Protein"
+    "4. Protein",
+    "5. Lipids",
+    "6. Vitamins & Minerals",
+    "7. Fluids",
+    "8. Nutrition in Various Stages of Life",
+    "9. Canada’s Food Guide to Healthy Eating"
   ],  
   "Dental Materials Lab": [
     "1. test"
