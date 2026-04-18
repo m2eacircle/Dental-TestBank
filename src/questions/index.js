@@ -888,7 +888,9 @@ export const subjectsWithSubtopics = {
     "1. test"
   ],  
   "Periodontology II": [
-    "1. test"
+    "1. Review of Perio I",
+    "2. Oral Piercings",
+    "3. Darby"
   ],  
   "Business Practice": [
     "1. test"
