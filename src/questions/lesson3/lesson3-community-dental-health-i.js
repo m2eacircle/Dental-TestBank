@@ -1426,5 +1426,623 @@ export const questions = {
       ],
       correctAnswer: 0
     },
+  ],
+  "3. Determinants of Health (Part 1)": [
+    {
+      id: 91133,
+      question: "Which broad category of health determinants refers to the personal actions individuals take that influence their own health?",
+      options: [
+        "Individual behavior",
+        "Health services",
+        "Biology and genetics",
+        "Social determinants"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91134,
+      question: "According to the Canadian Medical Association, what percentage of health outcomes is attributed to \"Your Life\" (social determinants)?",
+      options: [
+        "10%",
+        "25%",
+        "15%",
+        "50%"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91135,
+      question: "Which of the following is an example of a health services determinant of health?",
+      options: [
+        "A family history of cleft palate affecting tooth development",
+        "Availability of oral health workforce in rural communities",
+        "Choosing to quit smoking to reduce periodontal disease risk",
+        "Concentrated poverty limiting access to nutritious food"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91136,
+      question: "Which term refers to the economic and sociological combined total measure of a person's work experience and social position based on income, education, and occupation?",
+      options: [
+        "Health disparity index",
+        "Social exclusion measure",
+        "Socioeconomic status (SES)",
+        "Community health quotient"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91137,
+      question: "Health disparities are defined as preventable differences in the burden of disease or opportunities to achieve optimal health. Which populations are most affected?",
+      options: [
+        "Populations with high income and advanced levels of education",
+        "Socially disadvantaged populations defined by race, income, geography, or other factors",
+        "Individuals living in metropolitan areas with full dental coverage",
+        "Populations with access to multiple healthcare providers and specialists"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91138,
+      question: "What is the definition of health equity as described in the lecture?",
+      options: [
+        "Providing identical healthcare resources to every person in society regardless of need",
+        "Every person having the opportunity to attain full health potential without social disadvantage",
+        "Measuring health outcomes using standardized national benchmarks",
+        "Eliminating all chronic diseases through government policy initiatives"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91139,
+      question: "According to the Canadian Medical Association framework, what percentage of health is attributed to \"Your Biology\" (biology and genetics)?",
+      options: [
+        "15%",
+        "25%",
+        "10%",
+        "50%"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91140,
+      question: "Which of the following is classified as a physical social determinant of health?",
+      options: [
+        "Concentrated poverty in a neighbourhood limiting healthcare access",
+        "Quality of schools and educational institutions in a community",
+        "Familial transmission of caries-associated bacteria between family members",
+        "Ramps and sidewalk cuts for individuals with physical disabilities"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91141,
+      question: "The common risk factor approach in dentistry is based on which core concept?",
+      options: [
+        "Dental diseases are exclusively caused by poor individual oral hygiene habits",
+        "Oral diseases require entirely separate treatment strategies from systemic diseases",
+        "Interprofessional collaboration is only needed in hospital-based dental settings",
+        "Dental diseases share risk factors with other systemic diseases such as CVD and obesity"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91142,
+      question: "Which of the following is an example of a biology and genetics determinant specifically relevant to oral health?",
+      options: [
+        "Transportation options to reach dental clinics in remote areas",
+        "Dental insurance coverage and reimbursement rates for procedures",
+        "Congenitally missing teeth or cleft lip and palate as inherited conditions",
+        "Changing one's diet to reduce the risk of developing dental caries"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91143,
+      question: "In the \"Equality vs. Equity\" concept, what does equity mean in the context of healthcare?",
+      options: [
+        "Giving all patients the same number of appointments regardless of their need",
+        "Providing disadvantaged individuals with additional support to achieve equal outcomes",
+        "Treating all patients with identical clinical procedures and materials used",
+        "Distributing healthcare funding equally across all geographic regions"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91144,
+      question: "Which of the following groups is listed as a marginalized or vulnerable population in Canada?",
+      options: [
+        "Middle-class urban professionals with employer health benefits plans",
+        "University-educated individuals working in regulated industries full-time",
+        "First Nations/Indigenous peoples, refugees, and low-income/working poor",
+        "Individuals living in metropolitan areas with comprehensive dental coverage"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91145,
+      question: "According to the social determinants of health definition, health-affecting circumstances are shaped by:",
+      options: [
+        "Individual lifestyle choices and personal motivation to stay healthy",
+        "Random genetic variation occurring across different population groups",
+        "Access to private health insurance and employer wellness programs",
+        "The distribution of money, power, and resources at global, national, and local levels"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91146,
+      question: "Which of the following initiatives is described in the lecture as addressing social determinants of health?",
+      options: [
+        "Raising minimum wage to improve financial security for low-income workers",
+        "Expanding dental school curricula to include more clinical practice hours",
+        "Increasing the number of dental hygienists working in urban city centres",
+        "Introducing community water fluoridation programs in rural municipalities"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91147,
+      question: "In the type 2 diabetes example, which factor represents a social determinant influencing the patient's health risk?",
+      options: [
+        "His genetic predisposition to type 2 diabetes inherited from family members",
+        "His heavy carbohydrate diet as a result of personal food preferences made",
+        "His working and living environment that promotes a sedentary lifestyle",
+        "His age and biological sex as non-modifiable intrinsic risk factors"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91148,
+      question: "According to the Canadian Medical Association framework, what percentage of health is attributed to \"Your Environment\" (air quality and civic infrastructure)?",
+      options: [
+        "25%",
+        "15%",
+        "20%",
+        "10%"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91149,
+      question: "Which of the following best describes what \"determinants of health\" means?",
+      options: [
+        "The range of personal, social, economic, and environmental factors that influence health status",
+        "Clinical diagnoses used to predict a patient's future disease burden over time",
+        "A list of modifiable risk factors targeted by individual behaviour change programs",
+        "Biological markers measured in laboratory tests to assess a patient's outcomes"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91150,
+      question: "Practicing adequate oral hygiene is listed under which category of health determinants?",
+      options: [
+        "Social determinants related to community and environmental conditions",
+        "Biology and genetics including inherited predispositions to disease",
+        "Individual behavior involving personal actions that influence health",
+        "Health services including access and quality of available care"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91151,
+      question: "Which risk factors are shared between dental diseases and cardiovascular disease (CVD), as highlighted by the common risk factor approach?",
+      options: [
+        "Fluoride exposure, water quality, and levels of air pollution",
+        "Sugary foods, smoking, and stress affecting multiple body systems",
+        "Genetic mutations, immune deficiencies, and developmental birth defects",
+        "Income level, housing instability, and social exclusion from services"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91152,
+      question: "The lecture states that health disparities are directly related to which underlying cause?",
+      options: [
+        "The historical and current unequal distribution of social, political, economic, and environmental resources",
+        "Insufficient individual motivation to adopt healthy personal behaviours consistently",
+        "Lack of personal responsibility for managing and preventing chronic disease",
+        "Geographic isolation that prevents individuals from accessing advanced medical technology"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91153,
+      question: "Health disparities are unavoidable differences in disease burden that cannot be prevented by social or policy changes.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91154,
+      question: "The Canadian Medical Association identifies \"Your Life\" (social determinants) as the largest single contributor to health outcomes, accounting for 50% of health.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91155,
+      question: "The common risk factor approach proposes that dental diseases and systemic diseases such as cardiovascular disease share common risk factors, making an interprofessional approach most effective.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91156,
+      question: "Health equity means providing exactly the same resources to every individual in a society, regardless of their level of need or disadvantage.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91157,
+      question: "According to the Canadian Medical Association, biology and genetics account for a larger share of health outcomes than social determinants.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91158,
+      question: "Socioeconomic status (SES) is measured using a combination of income, education, and occupation.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91159,
+      question: "Indigenous peoples in Canada are identified in this lecture as one of the marginalized or vulnerable populations who may experience worse health outcomes due to historical and ongoing social determinants.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    }
+  ],
+  "3. Determinants of Health (Part 2)": [
+    {
+      id: 91160,
+      question: "According to the paper, social determinants of health for Aboriginal peoples are categorized into which three levels?",
+      options: [
+        "Proximal, intermediate, and distal levels of determinants",
+        "Biological, behavioral, and environmental levels of influence",
+        "Individual, community, and national levels of policy impact",
+        "Physical, mental, and spiritual dimensions of wellbeing"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91161,
+      question: "What does the Community Well-Being (CWB) index measure to assess community health?",
+      options: [
+        "Physical fitness, mental health, spiritual wellbeing, and cultural retention rates",
+        "Access to healthcare, clean water, nutritious food, and transportation systems",
+        "Rates of disease, disability, violence, and early death in a community",
+        "Income, education, housing quantity and quality, and labour force characteristics"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91162,
+      question: "According to Table 1, which community type had the lowest Community Well-Being score in 2001?",
+      options: [
+        "Inuit communities, with a score of 0.63 in the 2001 index",
+        "Other Canadian communities, with a score of 0.77 in the 2001 index",
+        "Métis communities, with a score of 0.58 in the 2001 index",
+        "First Nations communities, with a score of 0.66 in the 2001 index"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91163,
+      question: "According to Table 2, how does the daily smoking rate of First Nation adults on reserve compare to non-Aboriginal adults in Canada?",
+      options: [
+        "First Nation adults smoke at a rate more than twice that of non-Aboriginal adults",
+        "First Nation adults smoke at a rate approximately equal to that of non-Aboriginal adults",
+        "First Nation adults smoke at a rate about 25% higher than non-Aboriginal adults",
+        "First Nation adults smoke at a rate about 50% higher than non-Aboriginal adults"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91164,
+      question: "What does Table 3 show about smoking rates among First Nation mothers on reserve during pregnancy?",
+      options: [
+        "First Nation mothers: 36.6%; all Canadian mothers: 19.4% smoked during pregnancy",
+        "First Nation mothers: 19.4%; all Canadian mothers: 36.6% smoked during pregnancy",
+        "First Nation mothers: 32.2%; all Canadian mothers: 15.0% smoked during pregnancy",
+        "First Nation mothers: 15.0%; all Canadian mothers: 32.2% smoked during pregnancy"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91165,
+      question: "According to Table 5, what percentage of on-reserve dwellings required major repairs compared to Canadian dwellings overall?",
+      options: [
+        "On reserve: 31.7%; Canadian overall: 26.9% needed major repairs",
+        "On reserve: 24.0%; Canadian overall: 65.6% needed major repairs",
+        "On reserve: 33.6%; Canadian overall: 7.5% needed major repairs",
+        "On reserve: 7.5%; Canadian overall: 33.6% needed major repairs"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91166,
+      question: "According to Table 6, which Aboriginal group is most likely to live in crowded housing conditions in Canada?",
+      options: [
+        "Inuit people, who are 10 times more likely than non-Aboriginal Canadians to be in crowded housing",
+        "Off-reserve Aboriginal people, who face the greatest crowding compared to non-Aboriginal Canadians",
+        "First Nations people, who are 10 times more likely than non-Aboriginal Canadians to be in crowded housing",
+        "Métis people, who are 10 times more likely than non-Aboriginal Canadians to be in crowded housing"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91167,
+      question: "What health outcomes has crowded housing been specifically linked to, according to the paper?",
+      options: [
+        "Diabetes, cardiovascular disease, obesity, and reduced life expectancy in communities",
+        "Infectious disease transmission, respiratory infections, injuries, mental health problems, and family tensions",
+        "Dental caries, periodontal disease, oral cancer, and cleft palate in Aboriginal populations",
+        "Asthma, chronic ear infections, learning disabilities, and allergies exclusively in children"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91168,
+      question: "According to Table 7, what was the unemployment rate for Aboriginal people compared to non-Aboriginal people in Canada in 2001?",
+      options: [
+        "Aboriginal: 14.0%; non-Aboriginal: 7.1%, a two-fold difference in unemployment rates",
+        "Aboriginal: 19.1%; non-Aboriginal: 7.1%, meaning Aboriginal unemployment was nearly three times higher",
+        "Aboriginal: 22.2%; non-Aboriginal: 14.0%, reflecting inequalities in labour force participation",
+        "Aboriginal: 7.1%; non-Aboriginal: 19.1%, with non-Aboriginal rates being higher overall"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91169,
+      question: "According to Table 8, what was the median total income for North American Indians compared to non-Aboriginal Canadians in 2000?",
+      options: [
+        "North American Indian: $12,263; non-Aboriginal: $22,431, roughly half the non-Aboriginal median",
+        "North American Indian: $22,431; non-Aboriginal: $33,416, a significant but smaller income gap",
+        "North American Indian: $13,525; non-Aboriginal: $43,486, a gap of over $30,000 in income",
+        "North American Indian: $16,342; non-Aboriginal: $34,778, representing a two-fold difference"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91170,
+      question: "What does Table 9 reveal about self-reported fair or poor health at low income levels for Aboriginal and non-Aboriginal Canadians?",
+      options: [
+        "Aboriginal: 26%; non-Aboriginal: 16%, with the gap disappearing at the lowest income level",
+        "Aboriginal: 34%; non-Aboriginal: 25%, with the gap remaining significant across all income levels",
+        "Aboriginal: 14%; non-Aboriginal: 9%, showing higher rates for both groups at high income levels",
+        "Aboriginal: 25%; non-Aboriginal: 34%, showing Aboriginal people report better health at low income"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91171,
+      question: "What does the paper identify as the approximate percentage of Aboriginal youth who drop out of high school?",
+      options: [
+        "75% of Aboriginal youth drop out or are pushed out of high school across Canada",
+        "50% of Aboriginal youth drop out or are pushed out of high school across Canada",
+        "25% of Aboriginal youth drop out or are pushed out of high school across Canada",
+        "35% of Aboriginal youth drop out or are pushed out of high school across Canada"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91172,
+      question: "According to Table 12, how did food insecurity rates compare between Aboriginal off-reserve people and all Canadians in 1998-99?",
+      options: [
+        "Aboriginal off-reserve: 10%; all Canadians: 27%, meaning Canadians had higher food insecurity",
+        "Aboriginal off-reserve: 58%; all Canadians: 35%, with social assistance households being highest",
+        "Aboriginal off-reserve: 35%; all Canadians: 10%, reflecting low income effects on food access",
+        "Aboriginal off-reserve: 27%; all Canadians: 10%, meaning Aboriginal people were nearly three times more affected"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91173,
+      question: "Which of the following is listed as a barrier to accessing health services for First Nation adults living on reserve, according to Table 14?",
+      options: [
+        "Lack of interest in preventive care and general reluctance to seek professional medical help",
+        "Shortage of traditional healers and lack of awareness about available healthcare resources",
+        "Waiting lists too long, services not available in the area, and inability to afford transport costs",
+        "Distance from urban centres, language barriers, and low health literacy across communities"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91174,
+      question: "How does the paper describe intermediate determinants in relation to proximal determinants of health?",
+      options: [
+        "Intermediate determinants are biological factors that strengthen or reinforce proximal determinants",
+        "Intermediate determinants are the origin of proximal determinants, such as poverty rooted in lack of community infrastructure",
+        "Intermediate determinants directly cause disease while proximal determinants shape community wellbeing",
+        "Intermediate determinants are individual-level factors that develop before proximal determinants"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91175,
+      question: "What did Chandler and Lalonde's landmark 1998 study find about cultural continuity among First Nations in British Columbia?",
+      options: [
+        "Cultural continuity was unrelated to health outcomes but strongly correlated with educational attainment",
+        "Cultural continuity, including land title and self-government, was associated with lower rates of suicide",
+        "Cultural continuity reduced chronic disease rates but had no measurable effect on mental health outcomes",
+        "Cultural continuity improved access to healthcare and reduced systemic barriers to treatment"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91176,
+      question: "According to the paper, which determinant is cited as the most important determinant of health among Aboriginal peoples?",
+      options: [
+        "Self-determination, which influences all other determinants including education and housing",
+        "Access to culturally appropriate healthcare systems within Aboriginal communities",
+        "Education and literacy as the foundation for employment and income security",
+        "Adequate housing and safe physical environments for all community members"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91177,
+      question: "According to Table 20, what was the most frequently mentioned element of residential school experiences contributing to negative health impacts among survivors?",
+      options: [
+        "Physical abuse, reported by 69.2% of residential school survivors in the survey",
+        "Loss of language, reported by 71.1% of residential school survivors in the survey",
+        "Isolation from family, reported by 81.3% of residential school survivors in the survey",
+        "Harsh discipline, reported by 78.0% of residential school survivors in the survey"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91178,
+      question: "According to Table 21, what percentage of First Nation adults on reserve reported experiencing racism in the 12 months prior to the survey?",
+      options: [
+        "Approximately 37.9% reported experiencing racism in the prior 12 months",
+        "Approximately 48.4% reported experiencing racism, with no effect on self-esteem reported",
+        "Approximately 18.9% reported experiencing racism with some effect on their self-esteem",
+        "Approximately 27.0% reported experiencing racism with a strong effect on their self-esteem"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91179,
+      question: "What is the Integrated Life Course and Social Determinants Model of Aboriginal Health (ILCSDAH)?",
+      options: [
+        "A government policy framework allocating funding for Aboriginal health based on life stage needs",
+        "A clinical model integrating Western medicine with traditional Aboriginal healing practices together",
+        "A conceptual model using nested spheres to depict life stages, socio-political contexts, and determinants of health",
+        "A statistical tool developed to measure Aboriginal health outcomes against national population benchmarks"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91180,
+      question: "According to the paper, what percentage of the Aboriginal population is under the age of 25?",
+      options: [
+        "Almost 75% of the Aboriginal population is under the age of 25 in Canada",
+        "Almost 60% of the Aboriginal population is under the age of 25 in Canada",
+        "Almost 50% of the Aboriginal population is under the age of 25 in Canada",
+        "Almost 40% of the Aboriginal population is under the age of 25 in Canada"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91181,
+      question: "According to Table 16, what was the overall percentage of First Nations people with knowledge of an Aboriginal language in 2006?",
+      options: [
+        "Approximately 44% of First Nations people had knowledge of an Aboriginal language in 2006",
+        "Approximately 50% of First Nations people had knowledge of an Aboriginal language in 2006",
+        "Approximately 12% of First Nations people had knowledge of an Aboriginal language in 2006",
+        "Approximately 29% of First Nations people had knowledge of an Aboriginal language in 2006"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91182,
+      question: "According to Table 25, which long-term health condition is most disproportionately prevalent among First Nation adults on reserve compared to other Canadian adults?",
+      options: [
+        "Arthritis or rheumatism, at 25.3% in First Nations versus 19.1% in other Canadian adults",
+        "High blood pressure, at 20.4% in First Nations versus 16.4% in other Canadian adults",
+        "Diabetes, at 19.7% in First Nations versus 5.2% in other Canadian adults, nearly four times higher",
+        "Chronic back pain, at 16.7% in First Nations versus 21.4% in other Canadian adults overall"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91183,
+      question: "How does the paper describe colonialism's role as a distal determinant of health?",
+      options: [
+        "Colonialism affects health only through psychological trauma and has no measurable economic impact",
+        "Colonialism directly causes disease but does not substantially influence social or economic determinants",
+        "Colonialism creates social inequalities that trickle down to construct unfavourable intermediate and proximal determinants",
+        "Colonialism affects health exclusively through loss of language and the disruption of cultural practices"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91184,
+      question: "According to the paper, what is the holistic concept of health embraced by Indigenous peoples?",
+      options: [
+        "A biomedical model that focuses on physical wellbeing and the absence of diagnosed disease",
+        "A community-centred model that prioritizes collective wellbeing over individual health outcomes",
+        "A preventive model that emphasizes lifestyle choices as the primary determinant of good health",
+        "A model encompassing physical, spiritual, emotional, and mental dimensions and their interrelatedness"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91185,
+      question: "According to the paper's discussion of educational systems, what type of program has demonstrated the most favourable return on investment among Aboriginal children?",
+      options: [
+        "High school retention programs that incorporate Indigenous cultural content into standard curricula",
+        "Post-secondary scholarship programs that increase Aboriginal university enrollment and completion",
+        "Community mentorship programs that connect Aboriginal youth with professional role models",
+        "Preschool programs that support early childhood development among Aboriginal children"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91186,
+      question: "According to the paper, the unemployment rate for Aboriginal people in Canada is approximately two to three times higher than for non-Aboriginal Canadians.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91187,
+      question: "The paper states that approximately 50% of Aboriginal youth drop out or are pushed out of high school, leading to diminished literacy, employment, and increased poverty.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91188,
+      question: "According to Table 6, Métis people in Canada are as likely as Inuit people to live in crowded housing conditions.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91189,
+      question: "The paper identifies self-determination as the least important determinant of health among Aboriginal peoples.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91190,
+      question: "Chandler and Lalonde's 1998 study found that cultural continuity — including land title and self-government — was associated with lower rates of suicide among First Nations in British Columbia.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    }
   ]
 };
