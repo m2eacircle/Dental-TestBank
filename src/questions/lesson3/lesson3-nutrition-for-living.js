@@ -2292,7 +2292,7 @@ export const questions = {
         "True",
         "False"
       ],
-      correctAnswer: 0
+      correctAnswer: 1
     },
     {
       id: 90386,
