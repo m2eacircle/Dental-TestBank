@@ -487,5 +487,539 @@ export const questions = {
       ],
       correctAnswer: 0
     },
+    {
+      id: 94046,
+      question: "Which of the following best defines maleficence?",
+      options: [
+        "Causing harm or evil to a client through action or inaction",
+        "Failing to disclose relevant information to a client before treatment",
+        "Making decisions for a client without consulting them first",
+        "Performing a procedure outside the dental hygiene scope of practice"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94047,
+      question: "A dentist decides not to mention an expensive treatment option to a client, assuming the client cannot afford it. This is an example of:",
+      options: [
+        "Justice",
+        "Fidelity",
+        "Paternalism",
+        "Nonmaleficence"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94048,
+      question: "Which ethical theory is also known as \"nonconsequentialism\"?",
+      options: [
+        "Teleology",
+        "Deontology",
+        "Virtue Ethics",
+        "Utilitarianism"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94049,
+      question: "Which of the following best describes normative ethics?",
+      options: [
+        "The study of the origin and meaning of ethical terms such as \"good\" and \"right\"",
+        "Ethical thinking that guides human behaviour by establishing norms and asking \"What is right and wrong?\"",
+        "The analysis of moral judgments without prescribing specific conduct or behavior",
+        "A branch of philosophy that explores whether objective moral truths can exist"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94050,
+      question: "A hygienist promises a client to research a new whitening product and provide information at the next appointment, and follows through on this promise. This demonstrates:",
+      options: [
+        "Veracity",
+        "Beneficence",
+        "Autonomy",
+        "Fidelity"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94051,
+      question: "Ensuring that instruments are sharp to avoid tissue tearing and trauma during treatment reflects which ethical principle?",
+      options: [
+        "Autonomy",
+        "Veracity",
+        "Nonmaleficence",
+        "Accountability"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94052,
+      question: "Which of the following examples best illustrates the principle of confidentiality?",
+      options: [
+        "A hygienist advocates for equitable access to dental care in the community",
+        "A hygienist refrains from discussing a client's medical history with family or friends",
+        "A hygienist follows through on all treatment promises made to clients",
+        "A hygienist documents errors immediately and informs the supervising dentist"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94053,
+      question: "In Kohlberg's model, Stage 3 (Good Boy/Good Girl Orientation) is primarily motivated by:",
+      options: [
+        "Avoiding punishment from authority figures in positions of power",
+        "Seeking personal rewards and satisfying individual self-interests",
+        "Conforming to win approval and avoid disapproval from others",
+        "Upholding social order and fulfilling duty to society as a whole"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94054,
+      question: "Which stage in Kohlberg's model is characterized by the belief that rules should be based on mutual agreement and can be changed if they no longer serve the community?",
+      options: [
+        "Stage 3 - Good Boy/Good Girl Orientation",
+        "Stage 4 - Law & Order Orientation",
+        "Stage 5 - Social Contract Orientation",
+        "Stage 6 - Universal Ethical Principles"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94055,
+      question: "In Kohlberg's Stage 6, morality is based on:",
+      options: [
+        "Obeying rules to maintain social order and avoid legal consequences",
+        "Abstract, universal principles of justice and compassion regardless of law",
+        "Seeking mutual benefit through individual agreements with other people",
+        "Conforming to social norms in order to gain approval from the community"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94056,
+      question: "Which level of Kohlberg's moral development is associated with children?",
+      options: [
+        "Postconventional Level",
+        "Conventional Level",
+        "Transitional Level",
+        "Preconventional Level"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94057,
+      question: "Which of the following describes Step 4 of the 8-step Ethical Decision-Making Model?",
+      options: [
+        "Evaluating the pros and cons of each possible course of action",
+        "Carrying out the chosen decision thoughtfully and sensitively",
+        "Brainstorming the various possible courses of action available",
+        "Identifying the ethical principles at stake in the situation"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94058,
+      question: "Step 6 of the 8-step Ethical Decision-Making Model requires the hygienist to:",
+      options: [
+        "Collect relevant facts, policies, laws, and stakeholder perspectives",
+        "Identify the nature of the ethical challenge in a preliminary way",
+        "Evaluate outcomes and assess the consequences of the decision",
+        "Decide on and be able to justify a chosen course of action"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94059,
+      question: "Which step of the 8-step Ethical Decision-Making Model involves collecting relevant facts, policies, and laws?",
+      options: [
+        "Step 1 - Identify the Problem",
+        "Step 2 - Gather Information",
+        "Step 3 - Clarify the Problem",
+        "Step 5 - Assess Options"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94060,
+      question: "Using broken or dull instruments, or not spending adequate time to properly debride teeth, is an example of:",
+      options: [
+        "Fraud",
+        "Overtreatment",
+        "Substandard Care",
+        "Maleficence"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94061,
+      question: "Which of the following correctly describes what a regular order authorizes?",
+      options: [
+        "A hygienist to perform a specific procedure for a defined class of clients",
+        "A hygienist to diagnose a condition and determine necessary treatment",
+        "A hygienist to perform a specific procedure for one specific named client",
+        "A hygienist to prescribe designated drugs in a long-term care facility"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94062,
+      question: "How many Controlled Acts are outlined under the RHPA?",
+      options: [
+        "5 controlled acts",
+        "10 controlled acts",
+        "14 controlled acts",
+        "26 controlled acts"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94063,
+      question: "Which of the following procedures is a controlled act that dental hygienists in Ontario are authorized to perform?",
+      options: [
+        "Taking a client's blood pressure reading",
+        "Providing oral hygiene instruction to a client",
+        "Applying fluoride to a client's teeth",
+        "Scaling teeth and root planing including curetting surrounding tissue"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94064,
+      question: "The CDHO's primary mission is best described as:",
+      options: [
+        "Training and licensing dental hygiene students in Ontario",
+        "Regulating the profession in the interest of the public's health and safety",
+        "Providing insurance and liability coverage to registered hygienists",
+        "Promoting the professional interests and wages of dental hygienists"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94065,
+      question: "Which of the following documents is described as the overarching law that applies to all regulated health professions in Ontario?",
+      options: [
+        "DHA (Dental Hygiene Act, 1991)",
+        "CDHO Code of Ethics",
+        "RHPA (Regulated Health Professions Act, 1991)",
+        "CDHO Bylaw No. 5"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94066,
+      question: "What does CDHO Bylaw No. 5 primarily govern?",
+      options: [
+        "The ethical principles that guide the conduct of all dental hygiene registrants",
+        "The scope of practice and controlled acts for dental hygienists in Ontario",
+        "The internal rules for the administration and operation of the College itself",
+        "The overarching framework for all regulated health professions in Ontario"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 94067,
+      question: "Which of the following is the FIRST principle listed in both the CDHO and CDHA Codes of Ethics?",
+      options: [
+        "Autonomy",
+        "Accountability",
+        "Professionalism",
+        "Beneficence"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94068,
+      question: "Which of the following is a core value in the ADHA Code of Ethics?",
+      options: [
+        "Veracity",
+        "Professionalism",
+        "Integrity",
+        "Prima Facie"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94069,
+      question: "What is the Commercial Model of professionalism?",
+      options: [
+        "A model viewing dental services as a commodity to be bought and sold",
+        "A model viewing the dentist as the sole authority on all clinical decisions",
+        "A model viewing the professional and client as having equal moral status",
+        "A model viewing the profession as dedicated to altruism above self-interest"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94070,
+      question: "Which of the following is listed as a principle of professionalism?",
+      options: [
+        "Consequentialism",
+        "Altruism",
+        "Teleology",
+        "Prima Facie"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94071,
+      question: "Which of the following is included in the definition of professionalism according to the CDHO Code of Ethics (Principle V)?",
+      options: [
+        "Prioritizing the hygienist's personal financial interests in clinical decisions",
+        "Serving the client and the public good through committed professional practice",
+        "Advocating for reduced regulatory oversight of dental hygiene in Ontario",
+        "Limiting participation in continuing education to once per licensing cycle"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94072,
+      question: "Which of the following is NOT one of the three core components of professionalism as summarized in the study notes?",
+      options: [
+        "Be profitable",
+        "Be competent",
+        "Be honest",
+        "Be fair"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94073,
+      question: "Which of the following is an example of integrity?",
+      options: [
+        "A hygienist adheres to a strict ethical code with honesty and consistency of character",
+        "A hygienist advocates for fair distribution of dental resources in the community",
+        "A hygienist fulfills a promise made to a client at the previous appointment",
+        "A hygienist makes decisions for a client to protect them from unnecessary worry"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94074,
+      question: "Which of the following is an example of a Prima Facie duty being overridden?",
+      options: [
+        "A hygienist tells the truth to a client because honesty is always required",
+        "A hygienist withholds the truth to prevent serious harm to a third party",
+        "A hygienist follows all professional rules regardless of the current situation",
+        "A hygienist applies universal ethical principles that never change in any context"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94075,
+      question: "Which of the following examples illustrates maleficence?",
+      options: [
+        "Performing an unnecessary and painful procedure on a client",
+        "Failing to research treatment alternatives before making a recommendation",
+        "Discussing a client's health information with another registered professional",
+        "Delaying a referral to a specialist due to an administrative scheduling error"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94076,
+      question: "A client refuses radiographic images after the hygienist has explained the risks and benefits. Respecting this decision reflects which principle?",
+      options: [
+        "Autonomy",
+        "Beneficence",
+        "Fidelity",
+        "Justice"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94077,
+      question: "Which of the following is a characteristic of a profession?",
+      options: [
+        "Generating the highest profit for its members",
+        "Operating without external societal oversight or regulation",
+        "Determining its own standards exclusively based on member preferences",
+        "Possessing a specialized body of knowledge gained through intensive academic study"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94078,
+      question: "The principle of justice in dental hygiene is most closely associated with which concept?",
+      options: [
+        "Keeping promises made to clients in the professional relationship",
+        "Making fair and equitable allocation of resources among individuals",
+        "Promoting the overall happiness of the greatest number of people",
+        "Following the rules and duties of the profession regardless of outcome"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94079,
+      question: "A hygienist documents a treatment error in a client's chart and immediately informs the supervising dentist. This is an example of:",
+      options: [
+        "Accountability",
+        "Veracity",
+        "Autonomy",
+        "Fidelity"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94080,
+      question: "Which of the following is a requirement of the CDHO Quality Assurance Program?",
+      options: [
+        "Passing a written licensing exam administered by the RHPA every two years",
+        "Maintaining a Professional Portfolio as proof of continuing education participation",
+        "Completing a minimum of 100 clinical hours per year under direct supervision",
+        "Retaking the national dental hygiene licensing examination every five years"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94081,
+      question: "What is the relationship between normative ethics and metaethics?",
+      options: [
+        "Normative ethics is completely independent of and unrelated to metaethics",
+        "Metaethics is a practical subset of normative ethics focused on daily decisions",
+        "Metaethics guides daily behaviour, while normative ethics studies moral concepts",
+        "Normative ethics is a branch of metaethics"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94082,
+      question: "Which of the following is a key distinction between ethical distress and an ethical dilemma?",
+      options: [
+        "In ethical distress the right action is known but feels blocked; in a dilemma the right action is unclear",
+        "Ethical distress involves two competing ethical principles, while a dilemma involves external pressure",
+        "Ethical distress is caused by professional negligence, while a dilemma results from policy conflicts",
+        "A dilemma requires following established procedures, while distress requires personal judgment only"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94083,
+      question: "According to the study notes, which of the following is an example of an ethical dilemma?",
+      options: [
+        "A hygienist fears employer retaliation for reporting a broken sterilizer",
+        "A hygienist knowingly bills for services that were never performed",
+        "A hygienist performs a cleaning instead of the required scaling and root planing",
+        "The principle of confidentiality conflicts with concern for the welfare of a third party"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94084,
+      question: "Which of the following professional traits is listed in the study notes?",
+      options: [
+        "Reliability and Responsibility",
+        "Assertiveness and Self-Promotion",
+        "Financial Acuity and Business Awareness",
+        "Task Efficiency and Time Management"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94085,
+      question: "Telling a client a \"little white lie\" to prevent unnecessary worry because you believe it will do more good than the truth is an example of which ethical theory?",
+      options: [
+        "Deontology",
+        "Virtue Ethics",
+        "Metaethics",
+        "Teleology"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94086,
+      question: "Which of the following is NOT listed as a core value in the ADHA Code of Ethics?",
+      options: [
+        "Professionalism",
+        "Individual Autonomy",
+        "Societal Trust",
+        "Justice and Fairness"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94087,
+      question: "Which of the following is a controlled act that dental hygienists are authorized to perform only under an order?",
+      options: [
+        "Polishing teeth",
+        "Taking blood pressure",
+        "Providing oral hygiene instruction",
+        "Performing restorative procedures"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 94088,
+      question: "The Interactive Model of professionalism views the dentist as the sole authority and the client as a passive recipient of care.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94089,
+      question: "The DHA (Dental Hygiene Act, 1991) is the profession-specific act that defines the scope of practice for dental hygienists in Ontario.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94090,
+      question: "Dental hygienists in Ontario are permitted to diagnose diseases or disorders as part of their authorized scope of practice.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94091,
+      question: "According to Kohlberg's model, approximately 20% of the total population reaches the Postconventional Level of moral development.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94092,
+      question: "Fidelity refers to the duty to tell the truth and be honest in all professional situations.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94093,
+      question: "The RHPA (Regulated Health Professions Act, 1991) governs 26 regulated health professions in Ontario.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 94094,
+      question: "Substandard care and overtreatment describe the same type of professional misconduct in dental hygiene practice.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 94095,
+      question: "The fifth principle in the CDHA Code of Ethics is Integrity, while the fifth principle in the CDHO Code of Ethics is Professionalism.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
   ]
 };
