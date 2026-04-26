@@ -881,7 +881,7 @@ export const subjectsWithSubtopics = {
     "1. test"
   ],  
   "Ethics and Jurisprudence": [
-    "1. test"
+    "1. Philosophers and types of ethics"
   ],  
   "Gerontology": [
     "1. test"
