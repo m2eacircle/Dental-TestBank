@@ -873,7 +873,8 @@ export const subjectsWithSubtopics = {
     "4. Protein",
     "5. Lipids",
     "6. Vitamins & Minerals",
-    "7. Fluids",
+    "7. Fluids (Part 1)",
+    "7. Fluids (Part 2)",
     "8. Nutrition in Various Stages of Life (Part 1)",
     "8. Nutrition in Various Stages of Life (Part 2)",
     "9. Canada Food Guide to Healthy Eating"
