@@ -874,7 +874,8 @@ export const subjectsWithSubtopics = {
     "5. Lipids",
     "6. Vitamins & Minerals",
     "7. Fluids",
-    "8. Nutrition in Various Stages of Life",
+    "8. Nutrition in Various Stages of Life (Part 1)",
+    "8. Nutrition in Various Stages of Life (Part 2)",
     "9. Canada Food Guide to Healthy Eating"
   ],  
   "Dental Materials Lab": [
