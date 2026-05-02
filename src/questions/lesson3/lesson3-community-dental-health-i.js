@@ -2044,5 +2044,537 @@ export const questions = {
       ],
       correctAnswer: 0
     }
+  ],
+  "4. Dental Indices": [
+    {
+      id: 91191,
+      question: "Which of the following best describes the purpose of the \"Assessment\" core function in public health?",
+      options: [
+        "Identifying community health needs through one-time or continuous data collection",
+        "Developing laws and regulations to improve community health outcomes",
+        "Ensuring that services are provided to meet community health goals",
+        "Funding healthcare programs for underserved populations"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91192,
+      question: "What is a surveillance system in the context of public health?",
+      options: [
+        "A periodic survey tool used by dental hygienists to screen elementary school children",
+        "A method of comparing individual patient outcomes across different dental offices",
+        "A database used exclusively by governments to record dental treatment outcomes",
+        "Functional capacity for data collection, analysis, and dissemination linked to public health programs"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91193,
+      question: "Which of the following correctly lists the three core functions of public health?",
+      options: [
+        "Prevention, education, and policy enforcement",
+        "Assessment, policy development, and assurance",
+        "Monitoring, evaluation, and program implementation",
+        "Assessment, surveillance, and treatment"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91194,
+      question: "Which of the following is an example of a continuous assessment in public health surveillance?",
+      options: [
+        "Conducting a national oral health survey every ten years across provinces",
+        "Distributing mailed questionnaires to households in a specific region",
+        "Monitoring hospital admissions for a specific disease on an ongoing basis",
+        "Performing a one-time cross-sectional study of caries prevalence in children"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91195,
+      question: "What is the primary purpose of measuring and monitoring dental diseases at a population level?",
+      options: [
+        "To replace clinical examinations with survey data for individual patients",
+        "To train dental hygienists in new clinical techniques and procedures",
+        "To reduce the number of dental practitioners needed in underserved regions",
+        "To identify community needs, track disease trends, and evaluate program impacts"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91196,
+      question: "Which data collection method involves analyzing existing patient records rather than conducting new examinations?",
+      options: [
+        "Health record survey",
+        "Health examination survey",
+        "Questionnaire survey",
+        "Health interview survey"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91197,
+      question: "Administrative data collected in Canada is primarily used for which of the following purposes?",
+      options: [
+        "Providing statistical analysis of individual treatment outcomes for dental practices",
+        "Recording registrations, transactions, and evaluating program administration outputs",
+        "Replacing clinical oral health examinations in national health studies",
+        "Tracking dental hygienist performance across provincial health authorities"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91198,
+      question: "Why is observation alone considered insufficient for building medical and health science evidence?",
+      options: [
+        "Observations are too time-consuming to be practical in clinical settings",
+        "Observations rely on patient self-reporting and are therefore unreliable",
+        "Observations must be transformed into precise, reproducible measurements to generate valid evidence",
+        "Observations are only valid when conducted by licensed dentists rather than hygienists"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91199,
+      question: "Which two qualities must the process of measurement satisfy to be considered scientifically sound?",
+      options: [
+        "Judgability (adequate and appropriate) and reproducibility (can be repeated)",
+        "Simplicity of the scoring criteria and broad geographic application",
+        "Acceptance by regulatory bodies and peer-reviewed publication",
+        "Speed and affordability of the measurement process"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91200,
+      question: "What is a dental index?",
+      options: [
+        "An expression of clinical observation in numeric values used to describe the status of an individual or group",
+        "A written description of a patient's oral health used to guide treatment planning",
+        "A photographic record of clinical conditions used in epidemiological studies",
+        "A standardized form used by dental hygienists to report treatment outcomes"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91201,
+      question: "Which of the following is a key advantage of using a dental index over descriptive language?",
+      options: [
+        "Indices allow clinicians to skip the need for a clinical examination entirely",
+        "Indices provide more consistency and less subjectivity when describing conditions",
+        "Indices eliminate the need for calibration between examiners",
+        "Indices are legally required for all public health reporting in Canada"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91202,
+      question: "A reversible index differs from an irreversible index in which of the following ways?",
+      options: [
+        "A reversible index measures permanent structural damage, while irreversible measures inflammation",
+        "A reversible index is used for caries only, while an irreversible index is used for periodontal disease",
+        "A reversible index score can change over time, while an irreversible index score cannot decrease",
+        "A reversible index requires probing, while an irreversible index relies on radiographic data"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91203,
+      question: "Which classification of dental indices is based on the extent to which areas of the oral cavity are assessed?",
+      options: [
+        "Reversible versus irreversible indices",
+        "Disease versus treatment indices",
+        "Primary versus secondary surveillance indices",
+        "Simplified versus full mouth indices"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91204,
+      question: "Which of the following is an example of a \"treatment\" index based on the entity measured classification?",
+      options: [
+        "The gingival or sulcular bleeding index",
+        "The D component of the DMFT index",
+        "The OHI-S plaque debris index",
+        "The F (filled) component of the DMFT index"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91205,
+      question: "Which characteristic of an ideal index refers to its ability to measure what it is actually intended to measure?",
+      options: [
+        "Reliability",
+        "Sensitivity",
+        "Utility",
+        "Validity"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91206,
+      question: "Which characteristic of an ideal index describes the ability to measure consistently at different times and under different conditions?",
+      options: [
+        "Validity",
+        "Acceptability",
+        "Reliability",
+        "Clinical significance"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91207,
+      question: "Which characteristic of an ideal index refers to it being easy and simple to conduct in field settings?",
+      options: [
+        "Sensitivity",
+        "Utility",
+        "Quantifiability",
+        "Acceptability"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91208,
+      question: "An index that is \"accurate but unreliable\" is best described as which of the following?",
+      options: [
+        "The ideal scenario where measurements are both consistent and correct",
+        "A tool that measures correctly but does not provide consistent results over time or with different examiners",
+        "A tool that provides consistent results but does not measure the correct value",
+        "A tool that provides both inconsistent and incorrect measurements"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91209,
+      question: "In the DMFT index, what does the letter \"M\" represent?",
+      options: [
+        "Mobility of the tooth due to periodontal disease",
+        "Missing teeth due to caries",
+        "Monitored surfaces with early caries lesions",
+        "Mesial surfaces scored during the examination"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91210,
+      question: "Which of the following indices is used specifically for primary (deciduous) dentition caries recording?",
+      options: [
+        "DMFT",
+        "DMFS",
+        "dmft or deft",
+        "PUFA"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91211,
+      question: "The PUFA index measures which of the following conditions?",
+      options: [
+        "Plaque, ulceration, fluorosis, and abscess formation on tooth surfaces",
+        "Pocket depth, ulceration, furcation involvement, and attachment loss",
+        "Plaque accumulation, calculus, fistula, and alveolar bone loss",
+        "Pulp involvement, ulceration, fistula, and abscess resulting from untreated decay"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91212,
+      question: "In the PUFA index, a score of \"A\" is recorded when which of the following is observed?",
+      options: [
+        "Visible opening of the pulp chamber due to severe caries",
+        "Traumatic ulceration of soft tissue caused by sharp edges of a dislocated tooth",
+        "A pus-releasing sinus tract related to a tooth with pulp involvement",
+        "A pus-containing swelling related to a tooth with pulpal involvement"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91213,
+      question: "Which periodontal index assesses probing depths and bleeding and was developed to obtain more uniform worldwide epidemiologic data?",
+      options: [
+        "Gingival Index (GI) by Loe and Silness",
+        "Periodontal Index (PI) by Russell",
+        "Community and Periodontal Index of Treatment Needs (CPITN)",
+        "Eastman Interdental Bleeding Index (EIBI)"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91214,
+      question: "The Gingival Index (GI) developed by Loe and Silness assesses which of the following?",
+      options: [
+        "Presence of inflammation and bleeding in the interdental area upon toothpick insertion",
+        "Severity of gingivitis based on color, consistency, and bleeding on probing",
+        "Severity of gingival inflammation, pocket depth, and level of gingival attachment",
+        "Periodontal health through probing depths, bleeding, and presence of hard deposits"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91215,
+      question: "Which periodontal index assesses the severity of gingival inflammation without the use of probing?",
+      options: [
+        "Gingival Bleeding Index (GBI)",
+        "Modified Gingival Index (MGI)",
+        "Periodontal Disease Index (PDI)",
+        "Periodontal Index (PI) by Russell"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91216,
+      question: "The Ramfjord teeth used in several periodontal indices include which set of teeth?",
+      options: [
+        "Teeth 11, 16, 26, 31, 36, and 46",
+        "Teeth 14, 17, 21, 34, 37, and 41",
+        "Teeth 16, 21, 24, 36, 41, and 44",
+        "Teeth 13, 16, 23, 33, 36, and 43"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91217,
+      question: "Which oral hygiene index combines both a debris index and a calculus index into a single score?",
+      options: [
+        "Gingival Bleeding Index (GBI)",
+        "Plaque Index (PI) by Silness and Loe",
+        "Oral Hygiene Index – Simplified (OHI-S)",
+        "Periodontal Screening and Recording (PSR)"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91218,
+      question: "In the OHI-S debris scoring criteria, a score of \"0\" is assigned when which of the following is present?",
+      options: [
+        "No debris or stain present on the tooth surface",
+        "Soft debris covering not more than one-third of the tooth surface",
+        "Soft debris covering more than one-third but not more than two-thirds of the surface",
+        "Soft debris covering more than two-thirds of the exposed tooth surface"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91219,
+      question: "In the OHI-S debris scoring criteria, a score of \"1\" is assigned when which of the following is present?",
+      options: [
+        "No debris or stain is visible anywhere on the tooth surface",
+        "Soft debris covering not more than one-third of the tooth surface, or extrinsic stain without debris",
+        "Soft debris covering more than one-third but not more than two-thirds of the surface",
+        "Soft debris covering more than two-thirds of the exposed tooth surface"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91220,
+      question: "According to the OHI-S calculus criteria, a score of \"3\" is recorded when which condition is present?",
+      options: [
+        "Individual flecks of subgingival calculus around the cervical portion only",
+        "Supragingival calculus covering more than one-third but under two-thirds of the surface",
+        "No calculus visible but bleeding on probing is present at the site",
+        "Supragingival calculus covering more than two-thirds of the surface or a continuous heavy band of subgingival calculus"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91221,
+      question: "In Dean's Fluorosis Index, which category describes enamel that is smooth, glossy, and pale creamy-white translucent?",
+      options: [
+        "Normal",
+        "Questionable",
+        "Very Mild",
+        "Mild"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91222,
+      question: "In Dean's Fluorosis Index, the \"Severe\" category is best described as which of the following?",
+      options: [
+        "Small opaque, paper-white areas covering less than 25% of the tooth surface",
+        "Opaque white areas covering less than 50% of the tooth surface",
+        "All tooth surfaces affected with marked wear on biting surfaces; brown stain may be present",
+        "All tooth surfaces affected with discrete or confluent pitting and brown stain present"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91223,
+      question: "Poor oral health has been associated with which of the following systemic and social consequences?",
+      options: [
+        "Increased academic performance and reduced emergency department visits",
+        "Lower self-esteem, systemic diseases, sleep deprivation, and unemployment",
+        "Improved nutrition and increased confidence in daily activities",
+        "Reduced healthcare costs and improved family relationships"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91224,
+      question: "Which of the following best describes the Oral Health Impact Profile (OHIP-14)?",
+      options: [
+        "A clinical index used by hygienists to score plaque and calculus accumulation levels",
+        "A rapid visual screening tool used in school settings to detect gross dental lesions",
+        "A 14-item questionnaire measuring how oral conditions affect daily functioning and well-being",
+        "A fluorosis index measuring the severity of enamel defects on a six-point scale"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91225,
+      question: "The OHIP-14 questionnaire asks patients to report on experiences over what time period?",
+      options: [
+        "The past week",
+        "The past month",
+        "The past six months",
+        "The past 12 months"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91226,
+      question: "Which of the following is NOT one of the questions included in the OHIP-14?",
+      options: [
+        "Have you had trouble pronouncing any words?",
+        "Have you experienced bleeding gums during toothbrushing?",
+        "Have you been self-conscious?",
+        "Have you been totally unable to function?"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91227,
+      question: "The Basic Screening Survey (BSS) is best described as which of the following?",
+      options: [
+        "A rapid visual assessment using a dental mirror to detect gross dental and oral lesions",
+        "A detailed periodontal examination using a calibrated probe and radiographs",
+        "A comprehensive caries risk assessment tool administered by questionnaire",
+        "A fluorosis screening protocol requiring specialized ultraviolet lighting equipment"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91228,
+      question: "In the context of school-based dental screenings, what is the primary role of the registered dental hygienist performing a BSS?",
+      options: [
+        "To identify obvious painful conditions, notify parents, and recommend additional services",
+        "To provide restorative treatment for cavities found during the screening visit",
+        "To diagnose and document all dental conditions requiring specialist referral",
+        "To administer fluoride treatments and place sealants on all eligible teeth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91229,
+      question: "Which of the following is an example of a public health \"indicator\" related to access to preventive treatment?",
+      options: [
+        "The percentage of the population with dental insurance coverage",
+        "The number of teeth sealed in a target population",
+        "The percentage of the population who visited a health care professional in the last year",
+        "The percentage of the population receiving fluoridated water"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91230,
+      question: "Which of the following examples best represents an indicator of \"access to care\"?",
+      options: [
+        "The number of teeth sealed in a target population",
+        "The percentage of edentulous individuals in a community",
+        "The percentage of the population who visited a health care professional within the last year",
+        "The percentage of the population who receive fluoridated water"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91231,
+      question: "Surveillance is defined as the ongoing systematic collection, analysis, and interpretation of health data aimed at timely dissemination to responsible parties who plan and evaluate public health programs.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91232,
+      question: "The term \"measurement\" in health sciences refers only to physical measurements such as probing depth and does not include subjective measures like pain or anxiety.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91233,
+      question: "A dental index allows for more consistency and less subjectivity compared to using descriptive words to document oral health conditions.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91234,
+      question: "An irreversible index is one where the score can increase or decrease over time depending on treatment and disease progression.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91235,
+      question: "In the DMFT index, the \"D\" component represents disease, the \"M\" component represents missing teeth due to caries, and the \"F\" component represents treatment (filled).",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91236,
+      question: "The PUFA index is used to measure early-stage caries before cavitation occurs in the enamel layer.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91237,
+      question: "Dean's Fluorosis Index classifies \"Severe\" fluorosis as all tooth surfaces affected with discrete or confluent pitting and brown stain present.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91238,
+      question: "Poor oral health has been linked only to physical health consequences and has no impact on social or psychological outcomes such as self-esteem or employment.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91239,
+      question: "The Basic Screening Survey (BSS) is a comprehensive diagnostic examination requiring radiographs and a full periodontal probing chart.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91240,
+      question: "Indicators in public health are values such as the percentage of the population with insurance that may reflect the presence of health or disease risk factors in a community.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
   ]
 };
