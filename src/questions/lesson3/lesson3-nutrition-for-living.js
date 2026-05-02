@@ -2991,7 +2991,7 @@ export const questions = {
       correctAnswer: 1
     }
   ],
-  "7. Fluids": [
+  "7. Fluids (Part 1)": [
     {
       id: 90452,
       question: "What percentage of body weight does water constitute in a newborn infant?",
@@ -3727,7 +3727,7 @@ export const questions = {
       correctAnswer: 0
     }
   ],
-  "8. Nutrition in Various Stages of Life": [
+  "8. Nutrition in Various Stages of Life (Part 1)": [
     {
       id: 90520,
       question: "What is the energy requirement range for infants between 3 and 12 months of age (cal/kg/day)?",
@@ -4752,5 +4752,970 @@ export const questions = {
       ],
       correctAnswer: 1
     }
+  ],
+  "7. Fluids (Part 2)": [
+    {
+      id: 90701,
+      question: "Approximately what percentage of total body weight is water in a healthy adult?",
+      options: [
+        "50–60%",
+        "75–80%",
+        "30–40%",
+        "65–70%"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90702,
+      question: "Which of the following correctly explains why fat tissue contains less water than muscle tissue?",
+      options: [
+        "Muscle tissue requires more water to support its metabolic and contractile activity",
+        "Fat cells rely on a different chemical structure that displaces intracellular water",
+        "Fat cells actively pump water out to maintain energy stores within the cell",
+        "Fat tissue breaks down water through oxidation at a higher rate than muscle tissue"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90703,
+      question: "Water moves between intracellular and extracellular compartments primarily through which process?",
+      options: [
+        "Osmosis, driven by differences in solute concentration across cell membranes",
+        "Active transport using ATP-dependent ion pumps located in cell membranes",
+        "Diffusion of electrolytes from areas of low to high concentration in tissue",
+        "Filtration through capillary walls driven by hydrostatic pressure gradients"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90704,
+      question: "Which of the following is a physiological role of water in the human body?",
+      options: [
+        "Regulating body temperature through the mechanism of sweating and evaporation",
+        "Storing excess energy from macronutrients in the form of glycogen reserves",
+        "Synthesizing glucose from amino acids during periods of prolonged fasting",
+        "Producing red blood cells in the bone marrow through a hydration-dependent process"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90705,
+      question: "Which of the following is a sign of water deficiency related to the oral cavity?",
+      options: [
+        "Increased salivary production causing pooling of fluid under the tongue",
+        "Swelling and redness of the gingival tissues due to fluid retention",
+        "Proliferation of oral mucosa leading to thickening of the buccal lining",
+        "Dry, fissured tongue caused by significantly reduced salivary flow"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90706,
+      question: "A patient reports that they feel hungry even after drinking water. This relates to which well-known water deficiency consideration?",
+      options: [
+        "Thirst being frequently confused with hunger, leading to excess food intake",
+        "Increased fat metabolism triggered by dehydration mimicking a fasted state",
+        "Reduced gastric acid production during dehydration affecting appetite signals",
+        "Impaired glucose metabolism caused by low fluid volume in the blood"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90707,
+      question: "Which of the following correctly describes bottled water in comparison to tap water?",
+      options: [
+        "Bottled water is always derived from natural springs and contains added minerals",
+        "Bottled water is chemically treated to remove all minerals including fluoride",
+        "Bottled water contains a higher fluoride concentration than most municipal tap water",
+        "Bottled water often comes from the same sources as tap water and frequently lacks fluoride"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90708,
+      question: "What approximate percentage of water is found in fruits and vegetables?",
+      options: [
+        "30–45%",
+        "45–65%",
+        "70–80%",
+        "80–85%"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90709,
+      question: "Which of the following is classified as a TRACE element according to the lecture?",
+      options: [
+        "Fluorine",
+        "Calcium",
+        "Potassium",
+        "Magnesium"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90710,
+      question: "Which of the following correctly defines an electrolyte?",
+      options: [
+        "A compound that becomes positively or negatively charged when dissolved in solution",
+        "A mineral that is stored in bone and released when blood levels fall below normal",
+        "A vitamin that enhances the absorption of calcium and phosphorus in the intestine",
+        "A protein-bound mineral that carries nutrients across the cell membrane"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90711,
+      question: "Why must positive and negative ions be balanced in the body?",
+      options: [
+        "Imbalanced ions cause vitamin deficiencies by altering enzyme activity in the liver",
+        "Ion imbalance leads to excess mineral deposition in the joints and renal tubules",
+        "Ion balance prevents the oxidation of lipids in cell membranes during metabolism",
+        "Ion balance is essential for regulating the body's overall hydration status"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90712,
+      question: "Which of the following best describes the initial step in the mineralization of dentin, cementum, and bone?",
+      options: [
+        "Calcium phosphate is deposited directly onto the surface of existing mineral crystals",
+        "Hydroxyapatite crystals form spontaneously in the bloodstream before migrating to tissues",
+        "A protein matrix or collagen deposition is laid down before mineral accumulation begins",
+        "Fluoride ions bind to existing enamel to create a scaffold for further mineralization"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90713,
+      question: "What is apatite, as described in the context of mineralization?",
+      options: [
+        "A water-soluble protein that transports calcium to bone-forming cells in the periosteum",
+        "A calcium phosphate complex that automatically crystallizes next to collagen fibers",
+        "A fluoride-rich compound responsible for the acid resistance of mature enamel",
+        "An organic matrix component made up of lipids that initiates mineralization in dentin"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90714,
+      question: "Which of the following explains why a lack of calcium is NOT critically important to the erupted tooth?",
+      options: [
+        "Erupted teeth receive continuous calcium supply through the pulp and periodontal ligament",
+        "Enamel is remineralized daily by minerals in saliva, compensating for any dietary shortfall",
+        "Enamel and dentin do not contain blood vessels or nerves, so post-eruption supply is limited but not critical",
+        "Calcium is only needed during the developmental phase; erupted teeth are self-sustaining"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90715,
+      question: "The dentin in teeth is primarily composed of which of the following?",
+      options: [
+        "Fluorapatite crystals embedded in a network of elastin and keratin fibers",
+        "Hydroxyapatite crystals embedded in collagen, containing calcium, phosphate, oxygen, and hydrogen",
+        "Pure calcium carbonate crystals arranged in a layered crystalline matrix",
+        "Calcium sulfate crystals reinforced with lipid-based proteins for acid resistance"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90716,
+      question: "How does saliva contribute to the prevention of dental caries, specifically related to calcium?",
+      options: [
+        "Saliva dilutes dietary sugars before they reach the enamel surface during food clearance",
+        "Saliva releases proteolytic enzymes that break down cariogenic bacteria on enamel",
+        "Saliva physically washes fermentable carbohydrates off the tooth surface after meals",
+        "Saliva is supersaturated with calcium, helping to mineralize demineralized enamel and buffer acids"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90717,
+      question: "During periods of low blood calcium, which cell type breaks down bone to release calcium?",
+      options: [
+        "Osteoblasts",
+        "Fibroblasts",
+        "Osteoclasts",
+        "Odontoblasts"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90718,
+      question: "What is the recommended daily calcium intake for adults aged 19 to 50 years?",
+      options: [
+        "500 mg per day",
+        "750 mg per day",
+        "1000 mg per day",
+        "1500 mg per day"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90719,
+      question: "Which of the following is required to INCREASE calcium absorption in the body?",
+      options: [
+        "Vitamin C and iron taken together with calcium-rich foods at each meal",
+        "Vitamin D and phosphorus, which facilitate calcium absorption in the small intestine",
+        "Magnesium and zinc, which enhance calcium uptake across the intestinal wall",
+        "Vitamin K and potassium, which stimulate calcium-binding proteins in the gut"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90720,
+      question: "Where in the gastrointestinal tract is calcium primarily absorbed?",
+      options: [
+        "Stomach",
+        "Large intestine",
+        "Duodenum only",
+        "Small intestine"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90721,
+      question: "Which of the following is a symptom of Hypercalcemia mentioned in the lecture?",
+      options: [
+        "Tetany, muscle spasms, and neuromuscular excitability throughout the body",
+        "Rickets, osteoporosis, and widespread hypomineralization of the skeleton",
+        "Xerostomia, kidney stones, constipation, and inhibition of iron and zinc absorption",
+        "Hypoplastic dentition, reduced alveolar bone density, and enamel mottling"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90722,
+      question: "Hypocalcemia causes a neuromuscular disorder known as:",
+      options: [
+        "Tetany",
+        "Rickets",
+        "Fluorosis",
+        "Osteopenia"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90723,
+      question: "Which of the following best describes phosphorus in relation to its abundance in the body?",
+      options: [
+        "It is the most abundant mineral in the body and is found almost exclusively in teeth",
+        "It is the second most abundant mineral and is present in all cells of the body",
+        "It is a trace element found primarily in soft tissues and has limited systemic functions",
+        "It is present only in calcified structures and requires supplementation in most diets"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90724,
+      question: "Which of the following is a role of phosphorus in the body?",
+      options: [
+        "Regulating blood glucose and facilitating insulin secretion from the pancreas",
+        "Binding iron in the bloodstream to prevent oxidative damage to red blood cells",
+        "Aiding in acid-base balance, energy transfer, and the composition of DNA and RNA",
+        "Stimulating osteoblast activity and promoting collagen synthesis in alveolar bone"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90725,
+      question: "Where is phosphorus primarily absorbed in the gastrointestinal tract?",
+      options: [
+        "Stomach",
+        "Jejunum",
+        "Ileum",
+        "Large intestine"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90726,
+      question: "A phosphorus deficiency during tooth development may result in which of the following?",
+      options: [
+        "Excessive enamel formation leading to crowding of teeth in the arch",
+        "Incomplete calcification of teeth due to insufficient phosphorus for mineralization",
+        "Premature eruption of primary teeth due to accelerated root formation",
+        "Abnormal root morphology and increased susceptibility to external root resorption"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90727,
+      question: "Which of the following is correctly identified as a source of phosphorus in the diet?",
+      options: [
+        "Leafy green vegetables, legumes, and whole grain products",
+        "Citrus fruits, berries, and root vegetables",
+        "Milk products, meat, and food additives including baking products",
+        "Nuts, seeds, and fermented dairy products such as yogurt"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90728,
+      question: "Which of the following best describes the role of magnesium in the body?",
+      options: [
+        "Magnesium primarily functions to transport oxygen to muscles and regulate iron metabolism",
+        "Magnesium serves as the main structural component of tooth enamel and alveolar bone",
+        "Magnesium is involved in energy metabolism, insulin activity, glucose use, and blood pressure control",
+        "Magnesium functions mainly as an antioxidant protecting cell membranes from oxidative damage"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90729,
+      question: "What is the daily recommended intake of magnesium for adults according to the lecture?",
+      options: [
+        "About 120 mg per day",
+        "About 210 mg per day",
+        "About 310 mg per day",
+        "About 420 mg per day"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90730,
+      question: "What are the oral implications of a magnesium dietary deficiency?",
+      options: [
+        "Increased susceptibility to caries due to reduced salivary buffering capacity",
+        "Hypoplastic dentition and reduced alveolar bone density",
+        "Enamel mottling and white-to-brown staining of the tooth surface",
+        "Gingival hyperplasia and delayed eruption of permanent teeth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90731,
+      question: "Fluoride is absorbed primarily in which part of the gastrointestinal tract?",
+      options: [
+        "Stomach, with small amounts also absorbed in the intestine",
+        "Duodenum, where most mineral absorption occurs in the body",
+        "Jejunum, the same site where phosphorus absorption takes place",
+        "Large intestine, where water-soluble minerals are reclaimed"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90732,
+      question: "When calcium supplements and fluoride supplements are taken at the same time, what effect occurs?",
+      options: [
+        "Calcium enhances fluoride absorption, increasing its bioavailability significantly",
+        "Fluoride replaces calcium in hydroxyapatite, increasing the rate of bone formation",
+        "The two supplements compete for the same absorption pathway, resulting in no effect",
+        "Fluoride absorption is inhibited when taken simultaneously with calcium supplements"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90733,
+      question: "What is the tolerable upper intake level of fluoride per day as stated in the lecture?",
+      options: [
+        "3 mg per day",
+        "5 mg per day",
+        "7 mg per day",
+        "10 mg per day"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90734,
+      question: "How does topical fluoride protect teeth from acid attack?",
+      options: [
+        "It neutralizes dietary acids directly by raising the pH of the oral environment",
+        "It increases salivary flow to dilute and clear acids from the tooth surface faster",
+        "It replaces hydroxyl ions in hydroxyapatite to form fluorapatite, which is less soluble",
+        "It seals exposed dentinal tubules to prevent acid penetration into the pulp chamber"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90735,
+      question: "Which of the following correctly describes MILD to MODERATE dental fluorosis?",
+      options: [
+        "Associated with increased caries susceptibility and severe structural pitting of enamel",
+        "Associated with caries resistance and characterized by white to brown staining of enamel",
+        "Caused by fluoride deficiency during enamel formation and marked by hypoplastic pits",
+        "Caused by post-eruptive fluoride exposure and associated with rapid enamel dissolution"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90736,
+      question: "Which of the following correctly describes SEVERE dental fluorosis?",
+      options: [
+        "Characterized by white chalky spots and associated with strong caries resistance",
+        "Presents as mild translucent banding across enamel with no structural involvement",
+        "Associated with increased caries risk and characterized by brownish staining and pitting",
+        "Results from topical fluoride overexposure after tooth eruption during adulthood"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90737,
+      question: "What is the conclusion drawn in the lecture regarding fluoride's link to diseases such as cancer and Alzheimer's disease?",
+      options: [
+        "Fluoride has been confirmed as a contributing factor to cancer in high-exposure populations",
+        "No negative trends have been identified despite fluoride being one of the most researched health issues",
+        "Fluoride's connection to Alzheimer's disease has been confirmed in several longitudinal studies",
+        "Research on fluoride and systemic disease remains inconclusive with no peer-reviewed consensus"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90738,
+      question: "Which of the following populations is at HIGHEST risk for osteoporosis according to the lecture?",
+      options: [
+        "Young physically active males with low calcium intake during adolescence",
+        "Obese men over the age of 40 who are sedentary and consume a low-protein diet",
+        "Elderly men over the age of 65 and women beginning around the time of menopause",
+        "Small, thin women, representing the highest risk group for developing osteoporosis"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90739,
+      question: "Which of the following medications is listed as a treatment for osteoporosis in the lecture?",
+      options: [
+        "Bisphosphonates and estrogen hormone therapy to slow or stop bone loss progression",
+        "Calcium supplements and Vitamin D injections to reverse bone density loss",
+        "Probiotic therapy and anti-inflammatory agents to reduce bone resorption rates",
+        "Fluoride supplements and magnesium infusions to stimulate new bone formation"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90740,
+      question: "Which of the following oral conditions may be associated with osteoporosis according to the lecture?",
+      options: [
+        "Dental fluorosis, recurrent aphthous stomatitis, and xerostomia",
+        "Tooth mobility or loss, alveolar bone resorption, TMD, and clinical attachment loss",
+        "Enamel hypoplasia, halitosis, and increased sensitivity to acidic foods",
+        "Gingival hyperplasia, delayed eruption of teeth, and hypercementosis"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90741,
+      question: "Water makes up approximately 75–80% of total body weight in infants but only 50–60% in adults.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90742,
+      question: "Calcium and phosphorus in saliva act as buffers and help inhibit the development of dental caries.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90743,
+      question: "Sodium fluoride has an absorption rate of approximately 80% and is primarily absorbed in the stomach.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90744,
+      question: "Severe dental fluorosis is associated with caries resistance, similar to mild and moderate fluorosis.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+  ],
+  "8. Nutrition in Various Stages of Life (Part 2)": [
+    {
+      id: 90801,
+      question: "Which of the following best describes the primary focus of a Dental Hygienist when providing nutritional counselling?",
+      options: [
+        "Treating the client's systemic disease through dietary modification",
+        "Replacing the role of a Registered Dietitian in managing chronic conditions",
+        "Identifying harmful dietary habits and focusing on oral manifestations of healthy eating",
+        "Prescribing specific diets to manage conditions such as Type II Diabetes"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90802,
+      question: "A Dental Hygienist is reviewing a client with diabetes. Which of the following actions falls WITHIN the DH's scope of practice?",
+      options: [
+        "Designing a carbohydrate-controlled meal plan to regulate the client's blood glucose levels",
+        "Educating the client on oral side effects of their medications and suggesting xylitol gum for xerostomia",
+        "Advising the client to stop taking their diabetes medication due to oral side effects",
+        "Recommending insulin dosage changes based on the client's observed dietary intake"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90803,
+      question: "A client with lactose intolerance wants to maintain adequate calcium intake. Which of the following is the BEST recommendation?",
+      options: [
+        "Eliminate all dairy products and rely solely on calcium supplements prescribed by a physician",
+        "Drink large amounts of regular milk at once to build lactose tolerance gradually over time",
+        "Consume fermented dairy products like yogurt and aged cheese, which contain less lactose and active lactase",
+        "Avoid all calcium-containing foods until a specialist has completed a full nutritional assessment"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90804,
+      question: "Which of the following vitamins and minerals may become deficient when a client with lactose intolerance significantly reduces dairy intake?",
+      options: [
+        "Vitamin D, Calcium, Phosphorus, and Riboflavin",
+        "Iron, Zinc, and Vitamin C",
+        "Vitamin A, Folate, and Potassium",
+        "Thiamin, Niacin, and Vitamin B6"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90805,
+      question: "Which professional should a Dental Hygienist refer a client to when nutritional concerns extend beyond oral health management?",
+      options: [
+        "Registered Dietitian",
+        "Registered Nurse",
+        "Occupational Therapist",
+        "Physiotherapist"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90806,
+      question: "When counselling an elderly client with limited ability to prepare or obtain food, the Dental Hygienist should recognize that:",
+      options: [
+        "Elderly clients should be referred to a physician before any nutritional discussion occurs",
+        "The DH should provide a complete dietary plan to ensure the client's adequate nutrient intake",
+        "Nutritional responsibility may shift to caregivers or family members who assist the client",
+        "Elderly clients are fully responsible for their own nutritional choices regardless of circumstance"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90807,
+      question: "According to Canada's Food Guide principles discussed in the lecture, which statement best supports healthy eating habits for children?",
+      options: [
+        "Children should independently choose all foods from a young age to develop healthy autonomy",
+        "Parents serve as role models and shared mealtimes help children develop healthy attitudes toward food",
+        "Peer influence is the most important factor shaping a child's food preferences from infancy",
+        "Children's food preferences should never be restricted as this may cause long-term psychological harm"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90808,
+      question: "Which food group is the PRIMARY source of Vitamin C according to the Nutrients in Food Groups table?",
+      options: [
+        "Vegetables and Fruit",
+        "Milk and Alternatives",
+        "Meat and Alternatives",
+        "Grain Products"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90809,
+      question: "Which food group provides BOTH Vitamin B12 and Protein according to the Nutrients in Food Groups table?",
+      options: [
+        "Grain Products and Vegetables and Fruit combined",
+        "Grain Products only",
+        "Milk and Alternatives, and Meat and Alternatives",
+        "Vegetables and Fruit, and Grain Products combined"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90810,
+      question: "According to the Nutrients in Food Groups table, which nutrient is found in ALL FOUR food groups?",
+      options: [
+        "Calcium",
+        "Magnesium",
+        "Vitamin C",
+        "Riboflavin"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90811,
+      question: "Which of the following best explains why Canada's Food Guide recommends choosing lower-fat foods?",
+      options: [
+        "High-fat foods tend to contain more saturated and trans fats rather than healthier unsaturated fats",
+        "Lower-fat foods have fewer calories and are more rapidly digested by the body",
+        "Fat is not an essential macronutrient and should be minimized in all age groups",
+        "All dietary fat is harmful to the body and should be completely eliminated"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90812,
+      question: "Why are high-sugar foods commonly referred to as \"empty calories\"?",
+      options: [
+        "They are high in calories but very low in nutrients, offering little nutritional value",
+        "They are only harmful when consumed in large quantities in a single sitting",
+        "They cause weight loss by speeding up the body's overall metabolic processes",
+        "They contain no energy and have no effect on body weight or metabolism"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90813,
+      question: "The majority of dietary sodium in the average person's diet comes from:",
+      options: [
+        "Natural sodium found in fresh vegetables and fruits consumed daily",
+        "Salt in packaged and processed foods and meals eaten outside the home",
+        "Salt added during home cooking from a shaker at the dinner table",
+        "Sodium supplements routinely prescribed by physicians and registered dietitians"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90814,
+      question: "Which of the following is the underlying cause of Lactose Malabsorption?",
+      options: [
+        "Overproduction of lactase enzyme leading to excessive lactose digestion",
+        "Insufficient lactase enzyme, resulting in lactose being fermented by gut bacteria",
+        "An autoimmune reaction to dairy proteins triggering intestinal inflammation",
+        "A complete absence of gut bacteria needed for absorption of essential nutrients"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90815,
+      question: "Which of the following is NOT a symptom of Lactose Intolerance?",
+      options: [
+        "Flatulence",
+        "Abdominal cramps",
+        "Halitosis",
+        "Skin rash"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90816,
+      question: "Which of the following is NOT listed as a cause of xerostomia in the lecture?",
+      options: [
+        "Radiation or chemotherapy",
+        "High dietary sugar intake",
+        "Tobacco and alcohol use",
+        "Medications"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90817,
+      question: "Which of the following is an appropriate Dental Hygienist recommendation for a client experiencing xerostomia?",
+      options: [
+        "Advise the client to reduce fluid intake to prevent overstimulation of the salivary glands",
+        "Prescribe saliva-stimulating medications and adjust the client's current prescriptions accordingly",
+        "Suggest the client avoid all carbohydrate foods to reduce caries risk associated with dry mouth",
+        "Increase fluid intake with meals, recommend xylitol products, and advise use of fluoride agents"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90818,
+      question: "A client with xerostomia is at increased risk for which of the following oral conditions?",
+      options: [
+        "Dental caries",
+        "Gingival hyperplasia",
+        "Dental fluorosis",
+        "Enamel hypoplasia"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90819,
+      question: "Which of the following best describes Type II Diabetes Mellitus in terms of its metabolic mechanism?",
+      options: [
+        "The pancreas produces no insulin, causing blood glucose to drop critically low",
+        "Excessive insulin production results in frequent and severe episodes of hypoglycemia",
+        "The immune system destroys all insulin produced before it can act on body cells",
+        "Insulin is produced normally or in excess, but cells fail to uptake glucose, keeping levels high"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90820,
+      question: "Which of the following is an appropriate Dental Hygienist consideration when managing a client with diabetes?",
+      options: [
+        "Prescribing a specific meal plan to directly help the client control blood glucose levels",
+        "Advising the client to avoid all carbohydrates to maintain stable blood sugar at all times",
+        "Monitoring blood glucose at every appointment and referring poorly controlled cases to an MD or dietitian",
+        "Managing the client's insulin therapy based on dietary intake observed during dental appointments"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90821,
+      question: "When assessing a client with high caries risk, which of the following dietary factors should the Dental Hygienist evaluate?",
+      options: [
+        "Daily caloric intake and the fat-to-carbohydrate ratio in the client's meals",
+        "Total daily protein intake and the specific type of protein source the client consumes",
+        "Vitamin and mineral supplement use and daily hydration levels exclusively",
+        "Frequency of fermentable carbohydrate intake, form, time of day, and acidic food consumption"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90822,
+      question: "Which of the following foods is recommended for clients with high caries risk because it can help increase oral pH?",
+      options: [
+        "Citrus fruits and carbonated water",
+        "Milk, yogurt, and aged cheese",
+        "White bread and honey",
+        "Dried fruits and granola bars"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90823,
+      question: "After consuming acidic foods, what should the Dental Hygienist advise the client to do?",
+      options: [
+        "Brush teeth immediately to physically remove acid from the enamel surface",
+        "Use a whitening toothpaste to counteract and neutralize acid erosion on teeth",
+        "Rinse with water to neutralize the acids and wait before brushing the teeth",
+        "Consume a sugary snack to help buffer the remaining acidity in the mouth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90824,
+      question: "Which of the following strategies helps reduce the cariogenic impact of consuming sweets?",
+      options: [
+        "Eating sweets first thing in the morning on a completely empty stomach",
+        "Substituting all sweets with acidic snacks such as citrus fruits and juices",
+        "Consuming sweets separately from main meals to avoid interactions with other foods",
+        "Eating sweets with meals, since fibre, proteins, and fats have cariostatic properties"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90825,
+      question: "Inadequate protein intake is particularly significant in dental hygiene practice because it:",
+      options: [
+        "Reduces enamel mineralization by limiting calcium absorption in the GI tract",
+        "Leads to Vitamin B12 deficiency, causing glossitis and persistent oral ulcerations",
+        "Increases caries risk by directly reducing the buffering capacity of saliva",
+        "Impairs the systemic response to inflammation and infection, affecting periodontal healing"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90826,
+      question: "Which dietary pattern includes fish as the only animal protein source?",
+      options: [
+        "Pescatarian",
+        "Pollotarian",
+        "Ovovegetarian",
+        "Flexitarian"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90827,
+      question: "Which of the following describes a Lacto-Vegetarian dietary pattern?",
+      options: [
+        "Includes eggs and dairy but excludes all types of meat and fish",
+        "Avoids all animal products including all forms of dairy and eggs",
+        "Includes dairy products but excludes eggs and all types of meat",
+        "Includes fish as the only animal-sourced food consumed"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90828,
+      question: "What is a \"complementary food\" in the context of vegetarian nutrition?",
+      options: [
+        "A fortified food product fully designed to meet all nutritional needs of vegans",
+        "A supplement taken alongside a vegetarian diet to replace animal protein entirely",
+        "Any single vegetable that naturally contains all nine essential amino acids on its own",
+        "A food eaten together with another to collectively provide all essential amino acids"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90829,
+      question: "What are the oral manifestations of Celiac Disease mentioned in the lecture?",
+      options: [
+        "Halitosis, gingival hyperplasia, and increased tooth sensitivity",
+        "Xerostomia, tooth erosion, and angular cheilitis",
+        "Delayed eruption, enamel deficits, and recurrent aphthous stomatitis",
+        "Gingival recession, increased tooth mobility, and alveolar bone loss"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90830,
+      question: "How does Celiac Disease affect nutrient absorption?",
+      options: [
+        "It increases carbohydrate absorption by enhancing enzymatic activity in the stomach",
+        "It blocks fat absorption in the large intestine by altering the gut bacteria composition",
+        "It prevents protein digestion by significantly reducing the production of stomach acid",
+        "It triggers an immune attack on the microvilli in the small intestine, contributing to malabsorption"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90831,
+      question: "Which of the following BEST distinguishes Celiac Disease from Gluten Intolerance?",
+      options: [
+        "Celiac disease is an autoimmune disorder with intestinal damage; gluten intolerance causes GI symptoms without autoimmune damage",
+        "Gluten intolerance leads to microvilli destruction, while celiac disease only causes mild discomfort",
+        "Both conditions have identical mechanisms but differ only in the overall severity of symptoms",
+        "Celiac disease affects only children, while gluten intolerance is exclusively an adult-onset condition"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90832,
+      question: "A client reports changes in taste and smell affecting their appetite. According to the lecture, which deficiency could contribute to gustatory or olfactory disorders?",
+      options: [
+        "Vitamin D and Calcium deficiency from reduced dairy intake",
+        "Vitamin B12 or Zinc deficiency",
+        "Iron and Folate deficiency from low vegetable and grain consumption",
+        "Vitamin C and Potassium deficiency from low fruit and vegetable intake"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90833,
+      question: "Why is it clinically important for a Dental Hygienist to consider a client's edentulous status or ill-fitting dentures when assessing nutritional health?",
+      options: [
+        "Difficulty chewing reduces food variety and impairs digestion if food is not adequately broken down",
+        "Ill-fitting dentures increase caries risk by trapping food particles beneath the appliance",
+        "Edentulous clients cannot absorb fat-soluble vitamins without the mechanical stimulation of mastication",
+        "Edentulous clients require additional protein supplementation to compensate for the loss of teeth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90834,
+      question: "Acid reflux and chronic vomiting are nutritionally and clinically significant in dental hygiene because they:",
+      options: [
+        "Increase the risk of periodontal disease by fundamentally altering the pH of the gingival crevice",
+        "Lead to Vitamin D and Calcium deficiency by preventing their absorption in the small intestine",
+        "Increase salivary flow, which dilutes protective antibodies present in the oral cavity",
+        "May cause enamel erosion and sensitivity, and may indicate the presence of an eating disorder"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90835,
+      question: "How do antibiotics affect nutritional absorption, specifically regarding Vitamin K?",
+      options: [
+        "Antibiotics increase Vitamin K absorption by eliminating all competing gut bacteria",
+        "Antibiotics have no effect on vitamin absorption since vitamins are absorbed in the stomach",
+        "Antibiotics alter the gut microbiome and may reduce bacterial production of Vitamin K, impairing absorption",
+        "Antibiotics directly bind to Vitamin K in the gut and permanently prevent its absorption"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90836,
+      question: "Which clients should consult a dietitian BEFORE using probiotic supplements?",
+      options: [
+        "Clients who are pregnant or currently breastfeeding",
+        "Clients who are taking fluoride supplements or fluoride rinses as part of treatment",
+        "Clients who follow a strict vegetarian or vegan dietary lifestyle",
+        "Clients who are immunosuppressed"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90837,
+      question: "Which of the following is the most prevalent enzyme deficiency mentioned in the context of bariatric surgery and enzymatic deficiencies in the lecture?",
+      options: [
+        "Lactase deficiency",
+        "Amylase deficiency",
+        "Lipase deficiency",
+        "Protease deficiency"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90838,
+      question: "Which dietary strategy is recommended in the lecture for clients with new dentures who experience gustatory or olfactory changes?",
+      options: [
+        "Switching to a completely liquid diet to accommodate taste and texture sensitivities",
+        "Experimenting with herbs and spices to reignite interest in food consumption",
+        "Eliminating all strong-flavoured foods to avoid overstimulating altered taste receptors",
+        "Increasing salt and sugar intake to enhance perceived flavour with reduced taste sensitivity"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90839,
+      question: "A mother is breastfeeding and concerned about her infant's oral health. Which of the following is an appropriate action for a Dental Hygienist?",
+      options: [
+        "Recommend the mother discontinue breastfeeding due to the cariogenic nature of breast milk",
+        "Refer the mother immediately to a dietitian to evaluate the nutritional adequacy of breast milk",
+        "Advise the mother to wipe her child's teeth after breastfeeding to reduce the infant's caries risk",
+        "Prescribe fluoride supplements to counteract the sugar content present in breast milk"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90840,
+      question: "Which of the following factors should a Dental Hygienist be mindful of when providing dietary counselling to clients from diverse backgrounds?",
+      options: [
+        "Only the client's clinical diagnosis and currently prescribed medications",
+        "Religious dietary guidelines, socioeconomic restrictions, and personal food preferences",
+        "The client's age and gender as the primary determinants of their dietary needs",
+        "National food guide recommendations applied uniformly without adapting to individual circumstances"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90841,
+      question: "It is within the Dental Hygienist's scope of practice to provide nutritional advice specifically aimed at treating a client's systemic disease.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90842,
+      question: "Lactose intolerance generally worsens with age, and all healthy infants can successfully digest lactose in human milk.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90843,
+      question: "Fermented dairy products such as yogurt and aged cheese are generally better tolerated by lactose-intolerant individuals because they contain more lactose than regular milk.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90844,
+      question: "Celiac disease is an autoimmune disorder in which gluten consumption triggers an immune response that attacks the microvilli in the small intestine.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90845,
+      question: "Clients who are immunosuppressed can safely begin probiotic supplementation without first consulting a healthcare professional.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
   ]
 };
