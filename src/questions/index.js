@@ -859,7 +859,8 @@ export const subjectsWithSubtopics = {
     "2. Research and Design Studies (Part 1)",
     "2. Research and Design Studies (Part 2)",
     "3. Determinants of Health (Part 1)",
-    "3. Determinants of Health (Part 2)"
+    "3. Determinants of Health (Part 2)",
+    "4. Dental Indices"
   ],  
   "Dental Hygiene Theory III": [
     "1. Fixed Prosthodontics",
