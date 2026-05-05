@@ -850,9 +850,9 @@ export const subjectsWithSubtopics = {
     "3. Introduction to Preliminary Diagnosis of Oral Lesions",
     "4. Classification of Benign Conditions of Unknown Cause",
     "5. Inflammation and Repair",
-    "6. Immunity and Immunologic Oral Lesions (Part 1)",
-    "6. Immunity and Immunologic Oral Lesions (Part 2)",
-    "7. Infectious Diseases"
+    "6. Immunity and Immunologic Oral Lesions",
+    "7. Autoimmune",
+    "8. Infectious Diseases"
   ],  
   "Community Dental Health I": [
     "1. Introduction to Public Health",
