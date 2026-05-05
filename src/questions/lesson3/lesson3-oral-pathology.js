@@ -3437,7 +3437,7 @@ export const questions = {
       correctAnswer: 1
     },
   ],
-  "6. Immunity and Immunologic Oral Lesions (Part 1)": [
+  "6. Immunity and Immunologic Oral Lesions": [
     {
       id: 93319,
       question: "Which of the following is a key characteristic of the acquired immune response?",
@@ -4563,7 +4563,7 @@ export const questions = {
       correctAnswer: 0
     },
   ],
-  "6. Immunity and Immunologic Oral Lesions (Part 2)": [
+  "7. Autoimmune": [
     {
       id: 93423,
       question: "Which of the following autoimmune diseases primarily affects the salivary and lacrimal glands, resulting in dry mouth and dry eyes?",
@@ -5059,7 +5059,7 @@ export const questions = {
       correctAnswer: 0
     },
   ],
-  "7. Infectious Diseases": [
+  "8. Infectious Diseases": [
     {
       id: 93469,
       question: "Which type of immunity involves T-cell lymphocytes and is effective against intracellular bacteria, viruses, and fungi?",
