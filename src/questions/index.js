@@ -851,7 +851,7 @@ export const subjectsWithSubtopics = {
     "4. Classification of Benign Conditions of Unknown Cause",
     "5. Inflammation and Repair",
     "6. Immunity and Immunologic Oral Lesions",
-    "7. Autoimmune",
+    "7. Autoimmune Disease",
     "8. Infectious Diseases",
     "9. Infectious Diseases",
     "10. Developmental Disorders"
