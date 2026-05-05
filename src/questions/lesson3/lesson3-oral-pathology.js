@@ -5565,5 +5565,1603 @@ export const questions = {
       ],
       correctAnswer: 0
     },
+  ],
+  "9. Infectious Diseases": [
+    {
+      id: 93516,
+      question: "Which organism is responsible for causing candidiasis?",
+      options: [
+        "Aspergillus fumigatus",
+        "Histoplasma capsulatum",
+        "Cryptococcus neoformans",
+        "Candida albicans"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93517,
+      question: "Which of the following conditions is NOT listed as a predisposing factor for candidiasis?",
+      options: [
+        "Hypertension, hyperthyroidism, and vitamin D excess",
+        "Antibiotics, cancer chemotherapy, and corticosteroid therapy",
+        "Dentures, diabetes mellitus, and HIV infection",
+        "Xerostomia, hypoparathyroidism, and multiple myeloma"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93518,
+      question: "How is Candida identified from an oral lesion?",
+      options: [
+        "Blood culture sent to a microbiology laboratory",
+        "Urine sample tested for fungal antigens",
+        "Scraping of the lesion examined microscopically",
+        "Chest X-ray used to detect pulmonary spread"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93519,
+      question: "What is the clinical appearance of pseudomembranous candidiasis?",
+      options: [
+        "Fissuring and cracking at the corners of the mouth",
+        "White curdlike material on the mucosal surface with erythema underneath",
+        "Red, flat erosion on the dorsal tongue midline only",
+        "White lesion that does not wipe off the mucosa"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93520,
+      question: "A patient with pseudomembranous candidiasis may experience which symptoms?",
+      options: [
+        "Numbness, blurred vision, and jaw stiffness",
+        "Bleeding gums, tooth mobility, and bone loss",
+        "Facial swelling, trismus, and cervical lymphadenopathy",
+        "Burning sensation and/or a metallic taste in the mouth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93521,
+      question: "Which type of candidiasis is considered the most common?",
+      options: [
+        "Denture stomatitis (chronic atrophic candidiasis)",
+        "Erythematous candidiasis",
+        "Chronic hyperplastic candidiasis",
+        "Pseudomembranous candidiasis"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93522,
+      question: "Denture stomatitis is most commonly found on which oral structures?",
+      options: [
+        "Tongue and floor of the mouth",
+        "Buccal mucosa and labial frenum",
+        "Palate and maxillary alveolar ridge",
+        "Mandibular alveolar ridge and retromolar pad"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93523,
+      question: "Which statement best describes denture stomatitis?",
+      options: [
+        "A white lesion under a full or partial denture that causes severe pain",
+        "Erythematous mucosa limited to denture-covered areas, usually asymptomatic",
+        "Painful ulcers beneath the denture that bleed on contact",
+        "Diffuse white coating with underlying erythema throughout the mouth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93524,
+      question: "Chronic hyperplastic candidiasis (candidal leukoplakia) is best described as which of the following?",
+      options: [
+        "A white lesion that cannot be wiped off but responds to antifungal medication",
+        "A red, painful lesion that responds to antifungal therapy within days",
+        "A painful ulcer on the dorsal tongue that does not respond to treatment",
+        "A white lesion that wipes off easily and leaves a bleeding surface beneath"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93525,
+      question: "If a lesion diagnosed as chronic hyperplastic candidiasis does NOT respond to antifungal medication, what is the next recommended step?",
+      options: [
+        "Monitor the lesion for six months before taking further action",
+        "Prescribe a second course of a stronger antifungal agent",
+        "Refer the patient for radiographic imaging of the head and neck",
+        "Perform a biopsy of the lesion"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93526,
+      question: "Angular cheilitis is characterized by which clinical finding?",
+      options: [
+        "Raised white plaques on the hard palate",
+        "Swelling and erythema of the major salivary glands",
+        "Erythema or fissuring at the labial commissures",
+        "Vesicles and ulcers along the soft palate and pharynx"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93527,
+      question: "Angular cheilitis is most commonly caused by which organism, though other factors may contribute?",
+      options: [
+        "Herpes simplex virus type 1",
+        "Staphylococcus aureus",
+        "Candida species",
+        "Streptococcus mutans"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93528,
+      question: "Which of the following is an additional non-infectious contributing factor for angular cheilitis?",
+      options: [
+        "Immunosuppression from organ transplantation",
+        "Prolonged antibiotic use for systemic infection",
+        "Uncontrolled diabetes mellitus causing immunosuppression",
+        "Nutritional deficiency affecting tissue integrity"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93529,
+      question: "Chronic mucocutaneous candidiasis typically presents with involvement of which body areas?",
+      options: [
+        "Lungs, heart, and liver with superficial skin changes",
+        "Joints, bones, and lymph nodes with mucosal ulcers",
+        "Oral mucosa, genital mucosa, and skin lesions simultaneously",
+        "Eyes, ears, and nasal mucosa with systemic fungemia"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93530,
+      question: "Median rhomboid glossitis most commonly appears in which location?",
+      options: [
+        "Lateral border of the tongue near the molars",
+        "Tip of the tongue on the ventral surface",
+        "Floor of the mouth adjacent to Wharton's duct",
+        "Midline of the posterior dorsal tongue"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93531,
+      question: "How is median rhomboid glossitis diagnosed?",
+      options: [
+        "A mucosal smear sent to the laboratory for staining and examination",
+        "CT scan of the head and neck to rule out malignancy",
+        "Blood test showing elevated Candida antibody titers",
+        "Incisional biopsy always required before any treatment"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93532,
+      question: "A patient has persistent and recurrent candidiasis. What may this indicate?",
+      options: [
+        "A minor salivary gland dysfunction requiring surgical correction",
+        "A sign of a severe underlying medical problem",
+        "Normal variation in oral flora not requiring further workup",
+        "Inadequate oral hygiene that can be resolved with better brushing"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93533,
+      question: "Deep fungal infections that cause oral lesions primarily involve which organ system first?",
+      options: [
+        "The skin and peripheral lymph nodes",
+        "The gastrointestinal tract and oral cavity together",
+        "The central nervous system and meninges",
+        "The lungs, with oral lesions appearing after pulmonary involvement"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93534,
+      question: "Which fungi are associated with deep fungal infections that can produce oral lesions?",
+      options: [
+        "Candida albicans, Aspergillus, Mucor, and Rhizopus",
+        "Trichophyton, Epidermophyton, Microsporum, and Fusarium",
+        "Histoplasma, Coccidioides, Blastomyces, and Cryptococcus",
+        "Alternaria, Penicillium, Sporothrix, and Paracoccidioides"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93535,
+      question: "How do oral lesions from deep fungal infections typically appear clinically?",
+      options: [
+        "White, curdlike plaques that wipe off easily",
+        "Chronic, nonhealing ulcers that can resemble squamous cell carcinoma",
+        "Multiple vesicles that rupture and form shallow ulcers within days",
+        "Smooth, raised, pink nodules that are painless and well-demarcated"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93536,
+      question: "How is a definitive diagnosis of a deep fungal infection made?",
+      options: [
+        "Biopsy and microscopic examination of the affected tissue",
+        "Serological blood testing with ELISA for fungal antigen detection",
+        "Culture of saliva on Sabouraud dextrose agar for fungal growth",
+        "Clinical examination and response to empirical antifungal therapy"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93537,
+      question: "Which medications are used to treat deep fungal infections?",
+      options: [
+        "Acyclovir, valacyclovir, or famciclovir administered orally",
+        "Nystatin rinse, clotrimazole troches, or topical fluconazole",
+        "Amphotericin B, ketoconazole, or itraconazole systemically",
+        "Penicillin, amoxicillin, or metronidazole for secondary infection"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93538,
+      question: "What is a notable concern regarding deep fungal infections after treatment?",
+      options: [
+        "They permanently destroy mucosal tissue with no recovery",
+        "Latent infections may remain and reactivate if the immune system is compromised",
+        "They frequently spread to bones and joints despite treatment",
+        "Treated infections always confer lifelong immunity and do not recur"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93539,
+      question: "Mucormycosis most commonly presents in the oral cavity as which of the following?",
+      options: [
+        "White, removable plaques on the buccal mucosa bilaterally",
+        "A proliferating or destructive mass in the maxilla",
+        "Painless swelling of the submandibular salivary gland",
+        "Multiple small vesicles on the soft palate that rupture quickly"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93540,
+      question: "Which patient populations are most susceptible to mucormycosis?",
+      options: [
+        "Patients with uncontrolled diabetes and otherwise debilitated individuals",
+        "Children with primary herpetic gingivostomatitis under age five",
+        "Healthy young adults with recent viral upper respiratory infections",
+        "Elderly patients with nutritional deficiencies and poor oral hygiene"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93541,
+      question: "Where is the mucormycosis organism normally found in nature?",
+      options: [
+        "Soil, where it is commonly found and usually nonpathogenic",
+        "The oral cavity as part of normal commensal microflora",
+        "Stagnant freshwater sources and tropical environments",
+        "Bird droppings in urban and agricultural environments"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93542,
+      question: "How many types of human papillomavirus (HPV) have been identified?",
+      options: [
+        "Fewer than 20 distinct types with limited clinical significance",
+        "More than 100 types with varying tissue tropism",
+        "Exactly 76 types, all linked to oral lesions",
+        "Approximately 50 types affecting only mucosal surfaces"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93543,
+      question: "Verruca vulgaris in the oral cavity is most commonly transmitted by which route?",
+      options: [
+        "Respiratory droplets from an infected individual during conversation",
+        "Contaminated food or water ingested during meals",
+        "Direct contact with saliva from an infected person during kissing",
+        "Skin to oral mucosa, often via finger sucking or fingernail biting"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93544,
+      question: "What is the recommended treatment for verruca vulgaris in the oral cavity?",
+      options: [
+        "Conservative surgical excision, though recurrence is possible",
+        "Topical antifungal cream applied twice daily for four weeks",
+        "Systemic antiviral therapy for a minimum of two weeks",
+        "Laser ablation as the only effective treatment option"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93545,
+      question: "Condyloma acuminatum is generally transmitted by which primary route?",
+      options: [
+        "Fecal-oral contamination in children under five years of age",
+        "Sexual contact, oral-genital contact, or self-inoculation",
+        "Contaminated dental instruments during routine oral examinations",
+        "Respiratory aerosols from coughing or sneezing in close contact"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93546,
+      question: "How does condyloma acuminatum appear clinically in the oral cavity?",
+      options: [
+        "Flat, white, non-wipeable plaques on keratinized mucosa",
+        "Papillary, bulbous pink masses that may occur anywhere in the oral mucosa",
+        "Multiple vesicles that progress rapidly to painful ulcers",
+        "Smooth, dark-red nodules on the gingiva near the cervical margins"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93547,
+      question: "Focal epithelial hyperplasia (Heck Disease) is characterized by which clinical presentation?",
+      options: [
+        "Single white plaque on the hard palate not responding to antifungals",
+        "Vesicles limited to the soft palate and posterior pharyngeal wall",
+        "Multiple whitish to pale pink nodules distributed throughout the oral mucosa",
+        "Red, bleeding ulcers on the attached gingiva with extensive bone loss"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93548,
+      question: "Which statement is true regarding focal epithelial hyperplasia (Heck Disease)?",
+      options: [
+        "It requires aggressive surgical excision to prevent malignant transformation",
+        "It affects mainly immunocompromised adults requiring systemic antiviral therapy",
+        "It is a premalignant condition requiring biopsy and long-term surveillance",
+        "Lesions are generally asymptomatic, require no treatment, and resolve spontaneously"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93549,
+      question: "Oral infections caused by herpes simplex virus are most commonly due to which type?",
+      options: [
+        "Type 3, also known as varicella-zoster virus",
+        "Type 2, typically associated with genital lesions",
+        "Type 1, which primarily causes oral infections",
+        "Type 4, also known as Epstein-Barr virus"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93550,
+      question: "Primary herpetic gingivostomatitis most commonly affects which age group?",
+      options: [
+        "Children between 6 months and 6 years of age",
+        "Adults between 25 and 45 years of age",
+        "Elderly adults over the age of 65 with compromised immunity",
+        "Adolescents between 13 and 17 years of age"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93551,
+      question: "Which systemic symptoms may accompany primary herpetic gingivostomatitis?",
+      options: [
+        "Chest pain, shortness of breath, and generalized skin rash",
+        "Fever, malaise, and cervical lymphadenopathy",
+        "Abdominal pain, nausea, and jaundice with liver involvement",
+        "Joint pain, muscle weakness, and loss of sensation in limbs"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93552,
+      question: "Where does recurrent herpes simplex infection most frequently occur intraorally?",
+      options: [
+        "On the soft palate and moveable mucosa of the floor of the mouth",
+        "On keratinized mucosa that is firmly attached to bone",
+        "On the lateral tongue and buccal mucosa near the occlusal plane",
+        "On the gingival margin adjacent to erupting third molar teeth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93553,
+      question: "During which stage of herpes simplex infection is the viral load at its highest?",
+      options: [
+        "The prodromal stage with tingling and burning sensations",
+        "The vesicle stage before rupture and ulcer formation",
+        "The latent stage when the virus is dormant in neural tissue",
+        "The crusting and healing stage following ulcer resolution"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93554,
+      question: "Where does the herpes simplex virus persist in its latent state?",
+      options: [
+        "In the nerve tissue of the trigeminal ganglion",
+        "In the epithelial cells of the oral mucosa between recurrences",
+        "In the bone marrow of the mandible and maxilla",
+        "In the submandibular lymph nodes and tonsillar crypts"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93555,
+      question: "Which of the following is NOT listed as a trigger for recurrent herpes simplex infection?",
+      options: [
+        "Stress and sunlight exposure",
+        "Menstruation and fatigue",
+        "High-protein diet and dehydration",
+        "Fever and general physical illness"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93556,
+      question: "Herpetic whitlow is best described as which of the following?",
+      options: [
+        "A deep fungal infection that creates ulcerations on the dorsal tongue",
+        "An asymptomatic herpes lesion of the nail bed without vesicle formation",
+        "A bacterial superinfection of pre-existing herpetic lesions on the hand",
+        "A painful herpes simplex infection of the fingers from primary or secondary infection"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93557,
+      question: "How is recurrent herpes simplex infection primarily diagnosed?",
+      options: [
+        "Polymerase chain reaction testing on oral mucosal cells",
+        "Laboratory culture of vesicle fluid sent within 24 hours of onset",
+        "Based on clinical appearance and patient history",
+        "Serological testing for herpes simplex virus antibody titers"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93558,
+      question: "Varicella-zoster virus is responsible for causing which two diseases?",
+      options: [
+        "Measles (rubeola) and rubella (German measles)",
+        "Hand-foot-and-mouth disease and herpangina",
+        "Chickenpox (varicella) and shingles (herpes zoster)",
+        "Infectious mononucleosis and hairy leukoplakia"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93559,
+      question: "How is varicella-zoster virus transmitted from person to person?",
+      options: [
+        "Only through direct skin-to-skin contact with active vesicles",
+        "Via blood transfusion or organ transplantation from infected donors",
+        "Exclusively through contaminated food and water sources",
+        "Through respiratory aerosols and contact with secretions from skin lesions"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93560,
+      question: "Herpes zoster (shingles) is best described as which of the following?",
+      options: [
+        "A primary varicella infection in immunocompromised adults",
+        "A new infection acquired through contact with an active chickenpox patient",
+        "A reactivation of latent varicella-zoster virus causing unilateral vesicular eruption along a nerve",
+        "A fungal co-infection triggered by prior chickenpox exposure"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93561,
+      question: "When herpes zoster affects the face, which nerve may be involved?",
+      options: [
+        "Any branch of the trigeminal nerve",
+        "The facial nerve (CN VII) and vagus nerve only",
+        "The oculomotor nerve and abducens nerve exclusively",
+        "The glossopharyngeal nerve and hypoglossal nerve"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93562,
+      question: "What is the typical treatment for varicella (chickenpox) in otherwise healthy patients?",
+      options: [
+        "Prophylactic antibiotics to prevent secondary bacterial skin infections",
+        "Immediate intravenous acyclovir regardless of immune status",
+        "Systemic antifungal medications given for a minimum of four weeks",
+        "Supportive care, with antiviral drugs reserved for immunocompromised patients"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93563,
+      question: "Which of the following diseases is associated with Epstein-Barr virus (EBV)?",
+      options: [
+        "Herpangina, hand-foot-and-mouth disease, and mucormycosis",
+        "Median rhomboid glossitis, angular cheilitis, and denture stomatitis",
+        "Candidiasis, verruca vulgaris, and condyloma acuminatum",
+        "Infectious mononucleosis, hairy leukoplakia, Burkitt lymphoma, and nasopharyngeal carcinoma"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93564,
+      question: "Which clinical finding may appear in the oral cavity of a patient with infectious mononucleosis?",
+      options: [
+        "White curdlike plaques on the tongue responding to antifungal therapy",
+        "Multiple vesicles on the soft palate resolving without treatment",
+        "Median rhomboid-shaped erythematous lesion on the posterior dorsal tongue",
+        "Petechiae on the palate along with fever and generalized lymphadenopathy"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93565,
+      question: "In what population does infectious mononucleosis most commonly occur in the United States?",
+      options: [
+        "Children under five years of age attending daycare facilities",
+        "Adolescents and young adults, often transmitted by kissing",
+        "Elderly adults over age 70 in long-term care settings",
+        "Middle-aged adults with occupational respiratory exposure"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93566,
+      question: "Hairy leukoplakia associated with Epstein-Barr virus appears most commonly in which location?",
+      options: [
+        "The floor of the mouth adjacent to the salivary gland ducts",
+        "The dorsal surface of the tongue near the circumvallate papillae",
+        "The lateral border of the tongue",
+        "The hard palate along the midpalatine raphe"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93567,
+      question: "Which patient group is most commonly affected by hairy leukoplakia?",
+      options: [
+        "Diabetic patients on long-term metformin therapy",
+        "Patients infected with HIV",
+        "Elderly patients with xerostomia from salivary gland dysfunction",
+        "Patients with untreated chronic periodontitis and poor oral hygiene"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93568,
+      question: "Coxsackievirus infections can be transmitted by which routes?",
+      options: [
+        "Only through blood-to-blood contact and sexual transmission",
+        "Fecal-oral contamination, saliva, and respiratory droplets",
+        "Contaminated water and food sources only",
+        "Airborne transmission exclusively during sneezing"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93569,
+      question: "Which of the following is a distinctive oral lesion caused by coxsackievirus infection?",
+      options: [
+        "Hairy leukoplakia on the lateral tongue border",
+        "Median rhomboid glossitis on the dorsal tongue",
+        "Angular cheilitis with fissuring at the commissures",
+        "Herpangina with vesicles on the soft palate"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93570,
+      question: "Herpangina is characterized by which set of clinical features?",
+      options: [
+        "Fever, malaise, sore throat, dysphagia, vesicles on the soft palate, and erythematous pharyngitis",
+        "Vesicles on the hard palate, painless lymphadenopathy, and widespread skin rash",
+        "Papillary growths on the tongue, gingival hyperplasia, and cervical swelling",
+        "Bilateral parotid swelling, trismus, and difficulty opening the mouth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93571,
+      question: "How long does herpangina typically take to resolve without treatment?",
+      options: [
+        "Less than one week without any specific treatment",
+        "Two to four weeks with adequate rest and fluid intake",
+        "Up to three months if recurrent episodes occur",
+        "Approximately 10 to 14 days with antiviral medication"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93572,
+      question: "Hand-foot-and-mouth disease typically affects which population and in what pattern?",
+      options: [
+        "Adults over 40 years of age with weakened immune systems",
+        "Newborns in hospital nurseries with underdeveloped immunity",
+        "Pregnant women during the third trimester as an epidemic",
+        "Children under 5 years old, usually occurring in epidemic form"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93573,
+      question: "What is the typical time frame for resolution of hand-foot-and-mouth disease?",
+      options: [
+        "Resolves within 24 to 48 hours with antiviral medication",
+        "Resolves within 2 weeks",
+        "May persist for months without appropriate antifungal therapy",
+        "Takes 4 to 6 weeks to fully heal without leaving scarring"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93574,
+      question: "Acute lymphonodular pharyngitis caused by coxsackievirus is characterized by which clinical finding?",
+      options: [
+        "Painful vesicles on the lateral tongue and floor of the mouth",
+        "White plaques on the dorsal tongue that wipe off with a tongue blade",
+        "Yellowish or dark pink nodules from hyperplastic lymphoid tissue on the soft palate or tonsillar pillars",
+        "Chronic ulcerations on the posterior pharynx lasting more than four weeks"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93575,
+      question: "Measles is caused by which type of virus?",
+      options: [
+        "A paramyxovirus that is highly contagious and causes systemic symptoms and skin rash",
+        "A herpesvirus that reactivates from a latent state in nerve tissue",
+        "A papillomavirus that causes both skin and mucosal proliferative lesions",
+        "A coxsackievirus transmitted via the fecal-oral route"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93576,
+      question: "Which oral manifestation is associated with measles?",
+      options: [
+        "White curdlike plaques on the tongue that respond to nystatin",
+        "Unilateral vesicles on keratinized mucosa limited to one quadrant",
+        "Multiple papillary growths on the buccal mucosa and labial frenum",
+        "Small erythematous macules called Koplik spots in the oral cavity"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93577,
+      question: "Mumps primarily affects which structure?",
+      options: [
+        "The parotid glands, most commonly causing bilateral swelling",
+        "The submandibular lymph nodes bilaterally",
+        "The sublingual gland causing floor-of-mouth swelling",
+        "The thyroid gland, leading to anterior neck enlargement"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93578,
+      question: "Pseudomembranous candidiasis presents as a white curdlike material on the mucosal surface with erythema underneath.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93579,
+      question: "Denture stomatitis is the least common type of candidiasis.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93580,
+      question: "Chronic hyperplastic candidiasis lesions should be biopsied if they do not respond to antifungal medication.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93581,
+      question: "Angular cheilitis can only be caused by Candida and has no other contributing factors.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93582,
+      question: "Deep fungal infections affecting the oral cavity include histoplasmosis, coccidioidomycosis, blastomycosis, and cryptococcosis.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93583,
+      question: "Verruca vulgaris is transmitted from the oral mucosa to the skin and never in the reverse direction.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93584,
+      question: "Primary herpetic gingivostomatitis represents the initial infection with herpes simplex virus.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93585,
+      question: "Recurrent herpes simplex infection occurs on non-keratinized moveable mucosa intraorally.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93586,
+      question: "Hairy leukoplakia is an Epstein-Barr virus-associated lesion that most commonly appears on the lateral border of the tongue in HIV-infected patients.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93587,
+      question: "Hand-foot-and-mouth disease is most common in adults over the age of 40.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+  ],
+  "10. Developmental Disorders": [
+    {
+      id: 93601,
+      question: "Which structure is formed when ectoderm infolds during the third week of embryonic development?",
+      options: [
+        "The stomodeum, which becomes the primitive oral cavity",
+        "The primary dental lamina, a band of ectoderm in each jaw",
+        "The dental sac, which later forms cementum and alveolar bone",
+        "The globular process, which forms the philtrum of the upper lip"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93602,
+      question: "What is the term for a disorder caused by an abnormality in the genetic makeup of an individual?",
+      options: [
+        "Acquired disorder, resulting from environmental exposure after birth",
+        "Developmental disorder, caused by a failure during cell differentiation",
+        "Inherited disorder, caused by an abnormality in the genetic makeup",
+        "Congenital disorder, which is always present at birth regardless of cause"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93603,
+      question: "Two pits develop on the frontal process and divide it into how many named parts?",
+      options: [
+        "Two parts: the left and right lateral nasal processes only",
+        "Four parts: median, bilateral lateral, and inferior nasal processes",
+        "Three parts: the median nasal process and two lateral nasal processes",
+        "Five parts including the maxillary and mandibular nasal divisions"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93604,
+      question: "The globular process is formed when the median nasal process grows downward. What does the globular process eventually become?",
+      options: [
+        "The dental lamina, which initiates tooth development in both jaws",
+        "The philtrum of the upper lip in the fully developed face",
+        "The premaxilla, which fuses with the lateral palatine processes",
+        "The stomodeum, the earliest recognizable structure of the oral cavity"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93605,
+      question: "The lateral palatine processes form from which embryonic structure?",
+      options: [
+        "The globular process, which also gives rise to the premaxilla",
+        "The frontal process, after it is divided by two nasal pits",
+        "The mandibular process, the lower portion of the first arch",
+        "The maxillary process, which also contributes to the cheeks"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93606,
+      question: "The lateral palatine processes fuse with the premaxilla to create what pattern?",
+      options: [
+        "A Y-shaped pattern during formation of the hard palate",
+        "An X-shaped pattern along the midline of the developing palate",
+        "A T-shaped pattern separating the nasal and oral cavities",
+        "A circular pattern around the developing primary dental lamina"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93607,
+      question: "From which branchial arch does the body of the tongue develop?",
+      options: [
+        "The second branchial arch, along with the base of the tongue",
+        "The third branchial arch, which also contributes to the palate",
+        "The first branchial arch, as the primary source of tongue body",
+        "The fourth branchial arch, which also forms the laryngeal structures"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93608,
+      question: "From which branchial arches does the base of the tongue develop?",
+      options: [
+        "The first branchial arch exclusively, same as the tongue body",
+        "The fourth and fifth branchial arches together",
+        "The second and third branchial arches together",
+        "The third branchial arch exclusively, distinct from the tongue body"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93609,
+      question: "Odontogenesis begins at approximately which week of embryonic life?",
+      options: [
+        "The third week, when the stomodeum first forms in the embryo",
+        "The fifth week, when the primary dental lamina begins to develop",
+        "The seventh week, after the palate has fully fused together",
+        "The tenth week, corresponding to the cap stage of tooth development"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93610,
+      question: "What tissues are involved in odontogenesis, the process of tooth development?",
+      options: [
+        "Ectoderm and ectomesenchyme, which together initiate tooth formation",
+        "Endoderm and mesoderm, which form the enamel and dentin layers",
+        "Mesoderm and ectomesenchyme, which build the root supporting tissues",
+        "Ectoderm and endoderm, which differentiate into pulp and cementum"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93611,
+      question: "How many small knoblike proliferations develop on the primary dental lamina in each jaw?",
+      options: [
+        "Eight, corresponding to the primary molar and incisor positions",
+        "Twelve, corresponding to the permanent tooth positions in each jaw",
+        "Ten, each extending into the underlying mesenchyme tissue",
+        "Six, which later form the anterior segment of each dental arch"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93612,
+      question: "What are the three parts of the tooth germ during cell differentiation?",
+      options: [
+        "Enamel organ, dental papilla, and dental sac or follicle",
+        "Dental follicle, stellate reticulum, and Hertwig's epithelial root sheath",
+        "Ameloblast layer, odontoblast layer, and the dental pulp core",
+        "Primary dental lamina, outer enamel epithelium, and root sheath"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93613,
+      question: "Which cells produce enamel during tooth development?",
+      options: [
+        "Odontoblasts, which line the pulp chamber and form the dentin",
+        "Cementoblasts, which are activated after crown formation is complete",
+        "Ameloblasts, which are part of the enamel organ and produce enamel",
+        "Fibroblasts, which are located within the dental sac connective tissue"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93614,
+      question: "The dental sac or follicle forms which three structures during tooth development?",
+      options: [
+        "Enamel, dentin, and dental pulp tissue within the crown of the tooth",
+        "Cementum, the periodontal ligament, and alveolar bone around roots",
+        "Stellate reticulum, ameloblasts, and the inner enamel epithelium layer",
+        "Root sheath, dental papilla, and the primary dental lamina remnants"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93615,
+      question: "What is the function of Hertwig's epithelial root sheath?",
+      options: [
+        "It produces enamel on the inner surface of the developing tooth crown",
+        "It connects the dental sac to the alveolar bone during eruption",
+        "It forms the stellate reticulum layer within the enamel organ tissue",
+        "It shapes the root and induces formation of root dentin in the tooth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93616,
+      question: "When is cementum production completed in relation to tooth eruption?",
+      options: [
+        "After eruption, once the tooth is in occlusion and functioning normally",
+        "At the time of crown completion, before the tooth begins to erupt",
+        "Before eruption, during the late bell stage of tooth development",
+        "During root formation, approximately six months before tooth emergence"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93617,
+      question: "Root length is typically completed how many years after tooth eruption?",
+      options: [
+        "One to four years after the tooth has erupted into the oral cavity",
+        "Five to seven years after the tooth has fully erupted into the mouth",
+        "Six months to one year after the crown has emerged through the gingiva",
+        "Eight to ten years after initial eruption, depending on the tooth type"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93618,
+      question: "A developmental cyst is defined as which of the following?",
+      options: [
+        "A solid mass of epithelial cells embedded in fibrous connective tissue",
+        "A calcified lesion within bone lined by odontogenic epithelium only",
+        "An abnormal fluid-filled, epithelium-lined sac or cavity in the body",
+        "A pseudocyst lacking epithelial lining but filled with blood or fluid"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93619,
+      question: "What is the most common oral cyst?",
+      options: [
+        "The dentigerous cyst, associated with unerupted third molars in bone",
+        "The odontogenic keratocyst, found most often in the mandibular area",
+        "The radicular cyst (periapical cyst), also known as a residual cyst",
+        "The nasopalatine canal cyst, located within the incisive canal region"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93620,
+      question: "Cysts are classified as odontogenic or nonodontogenic based on which factors?",
+      options: [
+        "Patient age, gender, clinical symptoms, and response to antibiotic therapy",
+        "Size, bone expansion, relationship to adjacent teeth, and pain level",
+        "Radiographic density, cortication, root resorption, and tooth vitality",
+        "Location, cause, origin of epithelial cells, and histologic appearance"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93621,
+      question: "Intraosseous cysts generally appear on radiographs as which of the following?",
+      options: [
+        "Well-circumscribed radiopacities with a sclerotic border in bone",
+        "Diffuse radiolucencies with irregular margins blending into bone",
+        "Mixed radiolucent-radiopaque lesions with calcified internal structures",
+        "Well-circumscribed radiolucencies that may be unilocular or multilocular"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93622,
+      question: "The dentigerous cyst (follicular cyst) forms around which type of tooth?",
+      options: [
+        "A fully erupted and functioning tooth within the dental arch",
+        "A non-vital tooth with a periapical infection or abscess present",
+        "A tooth with severe periodontal disease and significant bone loss",
+        "An unerupted or developing tooth, most often an impacted third molar"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93623,
+      question: "What is the epithelial origin of the dentigerous cyst lining?",
+      options: [
+        "The primary dental lamina remnants trapped within the alveolar bone",
+        "The reduced enamel epithelium after the crown has formed and calcified",
+        "The oral epithelium that proliferates into the follicular space around teeth",
+        "The Hertwig's root sheath cells that remain after root formation ends"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93624,
+      question: "On radiograph, the dentigerous cyst appears as which of the following?",
+      options: [
+        "A multilocular, soap-bubble radiolucency involving multiple tooth roots",
+        "A diffuse, ill-defined radiolucency at the apex of a non-vital tooth",
+        "A pear-shaped radiolucency between the roots of two adjacent teeth",
+        "A well-defined, unilocular radiolucency around the crown of an unerupted tooth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93625,
+      question: "Histologically, the dentigerous cyst lumen is most characteristically lined by which epithelium?",
+      options: [
+        "Pseudostratified ciliated columnar epithelium with numerous goblet cells",
+        "Orthokeratinized stratified squamous epithelium filled with keratin debris",
+        "Parakeratin-surfaced epithelium eight to ten cell layers in thickness",
+        "Cuboidal epithelium surrounded by a wall of connective tissue"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93626,
+      question: "What is the recommended treatment for a dentigerous cyst?",
+      options: [
+        "Antibiotic therapy alone, which resolves the cyst without surgical need",
+        "Removal of the cyst, with awareness of the risk of neoplastic transformation",
+        "No treatment required, as the cyst resolves spontaneously over time",
+        "Curettage of the bony walls only, leaving the cyst lining in position"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93627,
+      question: "How does the eruption cyst differ from the dentigerous cyst?",
+      options: [
+        "The eruption cyst is found in soft tissue around the crown of an erupting tooth",
+        "The eruption cyst requires immediate surgical intervention for resolution",
+        "The eruption cyst is located within bone rather than in soft tissue",
+        "The eruption cyst is lined by orthokeratinized epithelium with ghost cells"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93628,
+      question: "What is the recommended treatment for an eruption cyst?",
+      options: [
+        "Surgical incision and drainage to release the fluid-filled swelling",
+        "Antibiotic coverage to prevent secondary infection of the lesion",
+        "No treatment, as it resolves on its own when the tooth erupts",
+        "Removal of the associated tooth to eliminate the source of the cyst"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93629,
+      question: "Where does the primordial cyst most commonly develop?",
+      options: [
+        "Around the crown of a retained primary molar in young children",
+        "Between the roots of maxillary anterior teeth near the midline",
+        "Along the lateral surface of the mandibular premolar root area",
+        "In place of a tooth, most commonly in place of a third molar"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93630,
+      question: "In which patient population is the primordial cyst most often discovered?",
+      options: [
+        "Elderly patients over 70 years old during routine panoramic screening",
+        "Children under 10 years old during mixed dentition radiographic surveys",
+        "Middle-aged women between 40 and 60 years as an incidental finding",
+        "Young adults, usually discovered incidentally on radiographic examination"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93631,
+      question: "Histologically, the primordial cyst lumen is lined by which type of epithelium?",
+      options: [
+        "Cuboidal epithelium surrounded by loosely arranged connective tissue",
+        "Stratified squamous epithelium surrounded by parallel collagen fiber bundles",
+        "Pseudostratified ciliated columnar epithelium with mucous goblet cells",
+        "Orthokeratinized epithelium with hair follicles visible in the cyst wall"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93632,
+      question: "Which two cysts might a primordial cyst prove to be upon histologic examination?",
+      options: [
+        "A dentigerous cyst or a calcifying odontogenic cyst with ghost cells",
+        "A nasopalatine canal cyst or a median palatine cyst in the palate",
+        "A simple bone cyst or an aneurysmal bone cyst with giant cells present",
+        "An odontogenic keratocyst or a lateral periodontal cyst upon examination"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93633,
+      question: "The odontogenic keratocyst (OKC) is histologically lined by epithelium of what thickness?",
+      options: [
+        "Two to four cell layers thick, surfaced by orthokeratin",
+        "Eight to ten cell layers thick, surfaced by parakeratin",
+        "Fifteen to twenty cell layers thick, surfaced by mucous cells",
+        "A single cell layer thick, with a flat, non-keratinized surface"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93634,
+      question: "Where is the OKC most often found in the jaws?",
+      options: [
+        "In the anterior maxilla, between the central and lateral incisors",
+        "At the midline of the mandible, below the mandibular incisors",
+        "In the mandibular third molar region of the posterior jaw",
+        "Along the hard palate midline between the two central incisors"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93635,
+      question: "What is a notable clinical feature distinguishing the OKC from other cysts?",
+      options: [
+        "It is the only cyst that exclusively occurs in females under age 20",
+        "It never recurs after surgical removal and has an excellent prognosis",
+        "It spontaneously resolves without treatment within one to two years",
+        "It can move teeth and cause resorption, and has a high recurrence rate"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93636,
+      question: "What is the recommended treatment for the odontogenic keratocyst?",
+      options: [
+        "Surgical excision and osseous curettage due to the high recurrence rate",
+        "No treatment required; observation and periodic radiographic follow-up",
+        "Antibiotic therapy alone to control the associated inflammatory process",
+        "Drainage and irrigation of the cyst cavity without bony wall removal"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93637,
+      question: "On radiograph, the OKC frequently appears as which type of lesion?",
+      options: [
+        "A well-defined, unilocular radiolucency around an impacted third molar",
+        "A diffuse, poorly defined radiolucency with irregular sclerotic margins",
+        "A well-defined, multilocular, radiolucent lesion with a high recurrence rate",
+        "A mixed radiolucent-radiopaque lesion with internal calcified structures"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93638,
+      question: "The calcifying odontogenic cyst (COC) is best described as which of the following?",
+      options: [
+        "A nonaggressive, cystic lesion lined by odontogenic epithelium with ghost cells",
+        "A highly aggressive cyst that commonly transforms into squamous carcinoma",
+        "A pseudocyst lacking epithelial lining that is filled with blood-derived fluid",
+        "A cyst identical to the primordial cyst but located exclusively in the maxilla"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93639,
+      question: "The COC is said to closely resemble which other odontogenic lesion?",
+      options: [
+        "A lateral periodontal cyst, with thin squamous epithelial lining",
+        "A primordial cyst, developing in the location where a tooth is absent",
+        "A dentigerous cyst, due to its association with an unerupted tooth crown",
+        "An ameloblastoma, due to the similar pattern of epithelial lining"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93640,
+      question: "What is the characteristic histologic feature unique to the calcifying odontogenic cyst?",
+      options: [
+        "A pseudostratified ciliated lining with mucous-secreting goblet cells",
+        "Balloon-shaped ghost cells with clear cytoplasm within the lining",
+        "Parallel bundles of collagen fibers surrounding the squamous lining",
+        "A lumen filled entirely with keratin and orthokeratinized epithelium"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93641,
+      question: "The lateral periodontal cyst is most often seen in which jaw location?",
+      options: [
+        "The maxillary anterior region, between the central and lateral incisors",
+        "The mandibular cuspid and premolar area along the root lateral surface",
+        "The posterior maxilla, in the region of the second and third molars",
+        "The anterior mandible, below the apices of the mandibular incisors"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93642,
+      question: "Which gender is the lateral periodontal cyst found most often in?",
+      options: [
+        "Females, with a 4:1 ratio favoring females over males in all cases",
+        "Both sexes equally, with no documented predilection for either gender",
+        "Females only during their reproductive years between ages 20 and 45",
+        "Males, who are more commonly affected by the lateral periodontal cyst"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93643,
+      question: "The botryoid odontogenic cyst is defined as which variant of another cyst?",
+      options: [
+        "A unilocular variant of the primordial cyst found in the mandible",
+        "A calcified variant of the odontogenic keratocyst with ghost cell features",
+        "A bilateral variant of the dentigerous cyst in the third molar region",
+        "A multilocular variant of the lateral periodontal cyst resembling grapes"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93644,
+      question: "Histologically, the gingival cyst is lined by which type of epithelium?",
+      options: [
+        "A thin band of stratified squamous epithelium in the soft tissue",
+        "Pseudostratified ciliated columnar epithelium with goblet cells present",
+        "Cuboidal epithelium surrounded by a dense wall of connective tissue",
+        "Parakeratin-surfaced epithelium eight to ten cell layers in thickness"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93645,
+      question: "The nasopalatine canal cyst (incisive canal cyst) is located in which region?",
+      options: [
+        "In the midline of the mandible below the apices of the incisors",
+        "Within the nasopalatine canal or at the incisive papilla in the palate",
+        "Between the roots of the maxillary lateral incisor and canine teeth",
+        "In the soft tissue at the base of the nose and upper lip junction"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93646,
+      question: "Which demographic is most commonly affected by the nasopalatine canal cyst?",
+      options: [
+        "Young females between 20 and 30 years old with palatal swelling",
+        "Children under 12 years old in whom it is discovered incidentally",
+        "Males between 40 and 60 years old who are usually asymptomatic",
+        "Elderly females over 70 years old with associated tooth root resorption"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93647,
+      question: "What shape may the nasopalatine canal cyst appear on a radiograph?",
+      options: [
+        "Round or triangular in shape, superimposed over the anterior teeth",
+        "Oval or heart-shaped, as a well-defined radiolucent lesion",
+        "Pear-shaped or teardrop, located between two adjacent root apices",
+        "Multilocular or soap-bubble in appearance in the anterior maxilla"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93648,
+      question: "Histologically, the nasopalatine canal cyst is lined by which epithelial type?",
+      options: [
+        "Only orthokeratinized stratified squamous epithelium throughout the lumen",
+        "Parakeratin-surfaced epithelium eight to ten cell layers in thickness",
+        "Cuboidal epithelium surrounded by a dense fibrous connective tissue wall",
+        "Epithelium ranging from stratified squamous to pseudostratified ciliated columnar"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93649,
+      question: "The median palatine cyst is located in which specific area?",
+      options: [
+        "Between the maxillary lateral incisor and cuspid along the alveolar ridge",
+        "In the midline of the hard palate",
+        "Within the incisive canal at the anterior portion of the hard palate",
+        "In the soft tissue at the nasal base adjacent to the alar cartilage"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93650,
+      question: "Histologically, the median palatine cyst is lined by which epithelium?",
+      options: [
+        "Pseudostratified ciliated columnar epithelium with multiple goblet cells",
+        "Parakeratin-surfaced epithelium that is eight to ten cell layers thick",
+        "Cuboidal epithelium similar in appearance to the dentigerous cyst lining",
+        "Stratified squamous epithelium surrounded by dense fibrous connective tissue"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93651,
+      question: "The globulomaxillary cyst appears radiographically as which shape?",
+      options: [
+        "A pear-shaped radiolucency between the maxillary lateral incisor and cuspid",
+        "A round, well-defined unilocular radiolucency at the root apex",
+        "A heart-shaped lesion located above the incisive foramen on imaging",
+        "A multilocular lesion with scalloped borders along the root surfaces"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93652,
+      question: "The median mandibular cyst is characterized as which type of lesion?",
+      options: [
+        "A common lesion seen frequently in patients over 50 years of age",
+        "A soft tissue cyst originating from the nasolacrimal duct remnants",
+        "A rare lesion located in the midline of the mandible lined with squamous epithelium",
+        "A pseudocyst arising from traumatic injury to the mandibular symphysis"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93653,
+      question: "Where does the nasolabial cyst clinically present?",
+      options: [
+        "On the floor of the mouth, causing tongue elevation and displacement",
+        "Along the lateral surface of the mandibular premolar root region",
+        "At the midline of the palate, causing a palpable swelling in the vault",
+        "In the mucobuccal fold near the maxillary canine and floor of the nose"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93654,
+      question: "From which structure is the nasolabial cyst thought to originate?",
+      options: [
+        "The lower anterior portion of the nasolacrimal duct remnants",
+        "The reduced enamel epithelium from a previously developed tooth crown",
+        "The primary dental lamina trapped within the alveolar ridge mucosa",
+        "The lateral nasal process during embryonic fusion of facial processes"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93655,
+      question: "Which age group and gender is the nasolabial cyst most commonly observed in?",
+      options: [
+        "Males between 20 and 30 years old with a 4:1 male-to-female ratio",
+        "Children under 10 years old during primary dentition development",
+        "Adults 40 to 50 years old with a 4:1 ratio favoring females over males",
+        "Elderly males over 65 years old discovered on routine panoramic imaging"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93656,
+      question: "Histologically, the nasolabial cyst is lined by which type of epithelium?",
+      options: [
+        "Orthokeratinized stratified squamous epithelium with a keratin-filled lumen",
+        "Pseudostratified ciliated columnar epithelium with multiple goblet cells",
+        "Cuboidal epithelium surrounded by a dense fibrous connective tissue wall",
+        "Thin stratified squamous epithelium identical to the gingival cyst lining"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93657,
+      question: "The dermoid cyst in the oral cavity is most commonly found in which location?",
+      options: [
+        "At the midline of the hard palate where it causes palatal expansion",
+        "In the mandibular molar region, appearing as a bony expansion",
+        "Along the buccal mucosa adjacent to the maxillary molar teeth",
+        "In the floor of the mouth, and may cause tongue displacement"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93658,
+      question: "What is the characteristic histologic finding in a dermoid cyst wall?",
+      options: [
+        "Ghost cells and calcifications similar to the calcifying odontogenic cyst",
+        "Multinucleated giant cells and blood-filled spaces in fibrous stroma",
+        "Hair follicles, sebaceous glands, and sweat glands in the cyst wall",
+        "Pseudostratified ciliated columnar epithelium with multiple goblet cells"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93659,
+      question: "The dermoid cyst lumen is typically filled with which material?",
+      options: [
+        "Keratin, as the lumen is lined by orthokeratinized stratified squamous epithelium",
+        "Blood and fluid surrounded by multinucleated giant cells in the wall",
+        "Thin, watery fluid similar in composition to normal tissue fluid",
+        "Ghost cells with clear cytoplasm arranged in balloon-like formations"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93660,
+      question: "Pseudocysts differ from true cysts in which fundamental way?",
+      options: [
+        "They are always located in soft tissue rather than within bone",
+        "They are not lined by epithelium, unlike true developmental cysts",
+        "They are always filled with keratin rather than fluid or blood",
+        "They are always associated with an unerupted or impacted tooth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93661,
+      question: "The static bone cyst (Stafne bone cyst) is clinically described as which of the following?",
+      options: [
+        "A pathologic fluid-filled cavity associated with traumatic injury to the jaw",
+        "An epithelium-lined sac located within the incisive canal of the palate",
+        "A blood-filled space surrounded by giant cells in the posterior mandible",
+        "An anatomic depression on the posterior lingual area of the mandible"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93662,
+      question: "The static bone cyst appears radiographically in which location relative to the mandibular canal?",
+      options: [
+        "In the posterior mandible, as a radiolucency inferior to the mandibular canal",
+        "Above the mandibular canal in the premolar region of the mandible",
+        "In the mandibular symphysis region, between the lower central incisors",
+        "In the ramus near the condylar head, superior to the mandibular canal"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93663,
+      question: "What is the recommended treatment for the static bone cyst?",
+      options: [
+        "Surgical excision with curettage to stimulate healing of the bone cavity",
+        "No treatment is required, as it is an anatomic variation, not a pathologic cavity",
+        "Curettage of the bony walls to promote hemorrhage and bone healing",
+        "Antibiotic coverage followed by periodic radiographic follow-up imaging"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93664,
+      question: "The simple bone cyst (traumatic bone cyst) may be associated with which factor?",
+      options: [
+        "A developmental defect in the primary dental lamina during odontogenesis",
+        "An infection from a non-vital tooth that spreads into the adjacent bone",
+        "Trauma, and the cyst is not lined with epithelium unlike true cysts",
+        "A genetic mutation affecting cementogenesis and alveolar bone formation"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93665,
+      question: "The simple bone cyst is treated by which method?",
+      options: [
+        "Surgical excision of the entire cyst and surrounding bone tissue",
+        "No treatment, as it resolves spontaneously without any intervention",
+        "Extraction of all associated teeth to eliminate the source of the lesion",
+        "Curettage of the wall lining the bony void to stimulate healing"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93666,
+      question: "On radiograph, the simple bone cyst characteristically shows which feature?",
+      options: [
+        "A well-defined radiolucency with scalloping around the roots of teeth",
+        "A multilocular soap-bubble appearance typical of giant cell-containing lesions",
+        "A heart-shaped or oval radiolucency above the anterior maxillary teeth",
+        "A pear-shaped radiolucency between the lateral incisor and canine roots"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93667,
+      question: "The aneurysmal bone cyst is histologically composed of which elements?",
+      options: [
+        "Orthokeratinized epithelium filled with keratin and sebaceous glands",
+        "Ghost cells with clear cytoplasm surrounded by odontogenic epithelium",
+        "Blood-filled spaces surrounded by multinucleated giant cells and fibrous tissue",
+        "Cuboidal epithelium with a connective tissue wall and inflammatory infiltrate"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93668,
+      question: "On radiograph, the aneurysmal bone cyst shows which characteristic appearance?",
+      options: [
+        "A well-defined unilocular radiolucency with scalloping around root apices",
+        "A pear-shaped radiolucency between the lateral incisor and cuspid roots",
+        "A heart-shaped radiolucency superimposed over the anterior palate region",
+        "A multilocular honeycomb or soap-bubble radiolucent appearance in bone"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93669,
+      question: "Which patient demographic is most commonly affected by the aneurysmal bone cyst?",
+      options: [
+        "Elderly males over 60 years old with a strong male predilection overall",
+        "Persons under 30 years old with a slight predilection for females",
+        "Middle-aged adults between 40 and 55 with equal gender distribution",
+        "Children under 5 years old during early primary dentition development"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93670,
+      question: "The cause of most congenital abnormalities is unknown.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93671,
+      question: "The base of the tongue develops from the first branchial arch.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93672,
+      question: "Cementogenesis occurs after crown formation is complete in tooth development.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93673,
+      question: "The eruption cyst requires surgical removal to allow the tooth to erupt normally.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93674,
+      question: "The odontogenic keratocyst has a high recurrence rate and can move teeth and cause resorption.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93675,
+      question: "The static bone cyst is a true pathologic cavity that requires surgical treatment.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93676,
+      question: "The nasolabial cyst is an intraosseous cyst visible on periapical radiographs.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
   ]
 };
