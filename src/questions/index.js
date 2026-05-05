@@ -852,7 +852,9 @@ export const subjectsWithSubtopics = {
     "5. Inflammation and Repair",
     "6. Immunity and Immunologic Oral Lesions",
     "7. Autoimmune",
-    "8. Infectious Diseases"
+    "8. Infectious Diseases",
+    "9. Infectious Diseases",
+    "10. Developmental Disorders"
   ],  
   "Community Dental Health I": [
     "1. Introduction to Public Health",
