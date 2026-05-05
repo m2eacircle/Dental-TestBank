@@ -4563,7 +4563,7 @@ export const questions = {
       correctAnswer: 0
     },
   ],
-  "7. Autoimmune": [
+  "7. Autoimmune Disease": [
     {
       id: 93423,
       question: "Which of the following autoimmune diseases primarily affects the salivary and lacrimal glands, resulting in dry mouth and dry eyes?",
