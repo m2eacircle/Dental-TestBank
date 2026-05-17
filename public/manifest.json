@@ -26,8 +26,8 @@
       "purpose": "any maskable"
     }
   ],
-  "start_url": "https://www.m2eacircle.com/education/testbank/",
-  "scope": "https://www.m2eacircle.com/education/testbank/",
+  "start_url": "./",
+  "scope": "./"
   "display": "standalone",
   "theme_color": "#4F46E5",
   "background_color": "#ffffff"
