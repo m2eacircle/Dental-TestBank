@@ -2146,17 +2146,5 @@ export const questions = {
       ],
       correctAnswer: 0
     },
-  ],
-  "4. Oral and Maxillofacial Surgery": [
-    //questions
-  ],
-  "5. Pediatric Dentistry": [
-    //questions
-  ],
-  "6. Sutures Supplemental Slides": [
-    //questions
-  ],
-  "7. Introduction to Orthodontics": [
-    //questions
   ]
 };
