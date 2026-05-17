@@ -13,8 +13,9 @@ root.render(
 // Register service worker for PWA install support
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register('/sw.js').catch(err => {
-      console.warn('SW registration failed:', err);
-    });
+    navigator.serviceWorker
+      .register('/education/testbank/sw.js', { scope: '/education/testbank/' })
+      .then(reg => console.log('SW registered, scope:', reg.scope))
+      .catch(err => console.warn('SW registration failed:', err));
   });
 }

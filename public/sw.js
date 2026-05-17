@@ -1,17 +1,23 @@
-const CACHE_NAME = 'dental-testbank-v1';
+const CACHE_NAME = 'dental-testbank-v2';
+const BASE = '/education/testbank';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/manifest.json',
-  '/favicon.svg',
-  '/favicon-16x16.svg',
-  '/favicon-32x32.svg',
-  '/apple-touch-icon.svg'
+  BASE + '/',
+  BASE + '/index.html',
+  BASE + '/manifest.json',
+  BASE + '/favicon.svg',
+  BASE + '/icon-192x192.png',
+  BASE + '/icon-512x512.png'
 ];
 
 self.addEventListener('install', event => {
   event.waitUntil(
-    caches.open(CACHE_NAME).then(cache => cache.addAll(urlsToCache))
+    caches.open(CACHE_NAME)
+      .then(cache => {
+        // Cache one by one so a single 404 doesn't abort everything
+        return Promise.allSettled(
+          urlsToCache.map(url => cache.add(url).catch(e => console.warn('Cache miss:', url, e)))
+        );
+      })
   );
   self.skipWaiting();
 });
