@@ -3221,8 +3221,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     },
@@ -3232,8 +3230,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     },
@@ -3243,8 +3239,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 0
     },
@@ -3254,8 +3248,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     },
@@ -3265,8 +3257,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     },
@@ -3276,8 +3266,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     },
@@ -3287,8 +3275,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 0
     },
@@ -3298,8 +3284,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     },
@@ -3309,8 +3293,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 0
     },
@@ -3320,8 +3302,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     },
@@ -3331,8 +3311,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 0
     },
@@ -3342,8 +3320,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     }
@@ -4323,8 +4299,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 0
     },
@@ -4334,8 +4308,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     },
@@ -4345,8 +4317,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 0
     },
@@ -4356,8 +4326,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     },
@@ -4367,8 +4335,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 0
     },
@@ -4378,8 +4344,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     },
@@ -4389,8 +4353,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 0
     },
@@ -4400,8 +4362,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     },
@@ -4411,8 +4371,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 0
     },
@@ -4422,8 +4380,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     }
@@ -5425,8 +5381,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     },
@@ -5436,8 +5390,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     },
@@ -5447,8 +5399,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     },
@@ -5458,8 +5408,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 0
     },
@@ -5469,8 +5417,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 0
     },
@@ -5480,8 +5426,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     },
@@ -5491,8 +5435,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 0
     },
@@ -5502,8 +5444,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 0
     },
@@ -5513,8 +5453,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     },
@@ -5524,8 +5462,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     }
@@ -6274,8 +6210,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 0
     },
@@ -6285,8 +6219,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     },
@@ -6296,8 +6228,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 0
     },
@@ -6307,8 +6237,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     },
@@ -6318,8 +6246,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     },
@@ -6329,8 +6255,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 0
     },
@@ -6340,8 +6264,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     },
@@ -6351,8 +6273,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 0
     },
@@ -6362,8 +6282,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 0
     },
@@ -6373,8 +6291,6 @@ export const questions = {
       options: [
         "True",
         "False",
-        "",
-        ""
       ],
       correctAnswer: 1
     }
