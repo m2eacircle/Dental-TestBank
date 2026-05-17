@@ -867,7 +867,11 @@ export const subjectsWithSubtopics = {
   "Dental Hygiene Theory III": [
     "1. Fixed Prosthodontics",
     "2. Removable Prosthedontics",
-    "3. Endodontics"
+    "3. Endodontics",
+    "4. Oral and Maxillofacial Surgery",
+    "5. Pediatric Dentistry",
+    "6. Sutures Supplemental Slides",
+    "7. Introduction to Orthodontics"
   ],  
   "Nutrition for Living": [
     "1. Introduction to Nutrition",
