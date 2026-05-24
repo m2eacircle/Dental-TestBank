@@ -7163,5 +7163,808 @@ export const questions = {
       ],
       correctAnswer: 1
     },
+  ],
+  "13. Genetics": [
+    {
+      id: 93677,
+      question: "Which of the following best describes the term \"genetics\"?",
+      options: [
+        "The study of chromosomal abnormalities only, excluding all normal inherited traits",
+        "The study of only disease-causing mutations passed between generations",
+        "The molecular analysis of RNA and DNA sequences within a single organism",
+        "The inheritance and expression of inherited traits, including all physical and biochemical characteristics"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93678,
+      question: "Which of the following best defines a \"syndrome\"?",
+      options: [
+        "A distinctive association of multiple signs and symptoms occurring together",
+        "A single clinical sign caused by one specific chromosomal mutation",
+        "A biochemical abnormality detected only through laboratory testing",
+        "A hereditary disorder affecting only one organ system at a time"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93679,
+      question: "What is the term for the physical, biochemical, and physiological traits of an individual?",
+      options: [
+        "Genotype",
+        "Karyotype",
+        "Phenotype",
+        "Allele"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93680,
+      question: "In Down syndrome, which chromosome is affected by nondisjunction?",
+      options: [
+        "Chromosome 5",
+        "Chromosome 21",
+        "Chromosome 13",
+        "Chromosome 23"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93681,
+      question: "Which of the following is a common oral manifestation of Down syndrome?",
+      options: [
+        "Complete absence of all teeth at birth with no bone involvement",
+        "Bilateral cleft lip and palate with microphthalmia",
+        "Gingival fibromatosis with firm, granular, corrugated tissue overgrowth",
+        "Gingival and periodontal disease reported in approximately 90% of affected individuals"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93682,
+      question: "Which facial characteristic is commonly associated with Down syndrome?",
+      options: [
+        "Downward sloping of the eyes with a fishlike mouth appearance",
+        "Slanted eyes with a depressed bridge of the nose and frontal bossing",
+        "Webbing of the neck with a broad chest and widely spaced nipples",
+        "Upward slanting of palpebral fissures with hypertelorism of all facial bones"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93683,
+      question: "Which of the following statements about Trisomy 13 is correct?",
+      options: [
+        "The majority of patients survive past 12 months with appropriate medical treatment",
+        "Trisomy 13 is associated with extra X chromosomes in female patients only",
+        "Approximately 70% of patients die within the first 7 months of life",
+        "The primary oral finding in Trisomy 13 is gingival fibromatosis without clefting"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93684,
+      question: "Which of the following is a characteristic facial feature of Trisomy 13?",
+      options: [
+        "Broad flat nose, fissured tongue, and prominent frontal bossing",
+        "Fishlike mouth, hypoplastic malar bones, and abnormally placed ears",
+        "Webbed neck, low hairline, and widely spaced nipples",
+        "Bilateral cleft lip and palate, along with microphthalmia or anophthalmia"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93685,
+      question: "Turner syndrome is associated with which of the following findings?",
+      options: [
+        "Female karyotype with short stature, webbed neck, and primary amenorrhea",
+        "Multiple osteomas of facial bones with intestinal polyps prone to malignancy",
+        "Bilateral facial swelling beginning at 1.5 to 4 years with multilocular jaw lesions",
+        "Male phenotype with extra X chromosomes and taller-than-normal stature"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93686,
+      question: "Which of the following describes the chromosomal basis of Klinefelter syndrome?",
+      options: [
+        "Monosomy of the X chromosome occurring exclusively in female patients",
+        "A deletion on the short arm of chromosome 5 causing a catlike cry at birth",
+        "An extra chromosome 21 resulting from nondisjunction during meiosis",
+        "Extra X chromosomes present in a male individual, such as XXY or XXXY"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93687,
+      question: "Which physical characteristic is associated with Klinefelter syndrome?",
+      options: [
+        "Short stature, webbed neck, and widely spaced nipples in a female patient",
+        "Catlike cry at birth with mental retardation and deletion of chromosome 5",
+        "Bilateral jaw swelling with a multilocular jaw appearance in early childhood",
+        "Taller than normal stature with wider hips and smaller, harder testes"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93688,
+      question: "Cri du Chat syndrome is caused by which chromosomal change?",
+      options: [
+        "A deletion on the short arm of chromosome 4",
+        "An extra chromosome 21 resulting from nondisjunction during cell division",
+        "A deletion on the short arm of chromosome 5",
+        "Extra X chromosomes present in a phenotypically male individual"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93689,
+      question: "Which of the following is a characteristic feature of Wolf-Hirschhorn syndrome?",
+      options: [
+        "Multiple bony projections on jaw bones and intestinal polyps prone to malignancy",
+        "Cleft palate and an IQ under 30, caused by a deletion on chromosome 4",
+        "Catlike cry at birth with mental retardation and deletion of chromosome 5",
+        "Bilateral swelling of the jaw with a soap bubble radiographic appearance"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93690,
+      question: "Which of the following best describes autosomal dominant inheritance?",
+      options: [
+        "Both parents must be carriers and the affected child must be homozygous",
+        "Only males manifest the trait while females carry it without expression",
+        "The trait is only expressed when a double gene dose is present in all cases",
+        "The trait is transmitted vertically and males and females are equally affected"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93691,
+      question: "What does \"lack of penetrance\" mean in autosomal dominant inheritance?",
+      options: [
+        "The gene is expressed more severely in females than in males",
+        "An individual carries the gene without presenting any clinical manifestation",
+        "The trait requires both alleles to be identical before it can be expressed",
+        "The dominant trait is suppressed by a recessive gene from the other parent"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93692,
+      question: "Which of the following best describes autosomal recessive inheritance?",
+      options: [
+        "The trait is transmitted vertically with equal expression in males and females",
+        "Both parents must be carriers, and the child must be homozygous for the gene",
+        "Only one parent needs to carry the gene for it to be expressed in the child",
+        "The trait is expressed in males more commonly due to X-linkage involvement"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93693,
+      question: "Which of the following correctly describes Cyclic Neutropenia?",
+      options: [
+        "An autosomal recessive condition caused by decreased serum alkaline phosphatase",
+        "An autosomal dominant condition with cyclic decreases in circulating neutrophils",
+        "An X-linked condition characterized by decreased sweating, hair, and teeth",
+        "A genetic condition with hyperkeratosis of palms, soles, and gingival tissues"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93694,
+      question: "Which of the following oral manifestations is associated with Cyclic Neutropenia?",
+      options: [
+        "Severe ulcerative gingivitis, gingivostomatitis, and recurrent periodontal disease",
+        "Multiple hyaline fibromas on the nose, chin, and head with gingival enlargement",
+        "Bilateral cleft lip and palate with enamel hypoplasia and missing central incisors",
+        "Gingival fibromatosis with firm, granular tissue and delayed tooth eruption"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93695,
+      question: "Papillon-Lefèvre Syndrome follows which pattern of inheritance?",
+      options: [
+        "Autosomal recessive inheritance with depressed peripheral blood neutrophils",
+        "X-linked recessive affecting primarily males with carrier females",
+        "Autosomal dominant with complete penetrance and uniform expression",
+        "Autosomal dominant with variable expressivity and incomplete penetrance"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93696,
+      question: "Which of the following best describes the oral findings in Papillon-Lefèvre Syndrome?",
+      options: [
+        "Multiple cysts of the jaws classified histologically as odontogenic keratocysts",
+        "Gingivoperiodontal inflammation beginning at 1.5 to 2 years with premature loss of both dentitions",
+        "Gingival enlargement with firm tissue and a granular corrugated surface only",
+        "Teeth with opalescent color, short roots, and completely absent pulp chambers"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93697,
+      question: "Which systemic feature distinguishes Papillon-Lefèvre Syndrome from Focal Palmoplantar and Gingival Hyperkeratosis?",
+      options: [
+        "Gingival fibromatosis with firm tissue is present only in Papillon-Lefèvre Syndrome",
+        "Hyperkeratosis of palms and soles is present only in Papillon-Lefèvre Syndrome",
+        "Premature loss of both the primary and permanent dentitions occurs in Papillon-Lefèvre",
+        "Café au lait pigmentation is found on the skin only in Papillon-Lefèvre Syndrome"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93698,
+      question: "Focal Palmoplantar and Gingival Hyperkeratosis follows which pattern of inheritance?",
+      options: [
+        "Autosomal dominant with hyperkeratinization of palms, soles, and labial/lingual gingiva",
+        "Autosomal recessive with depressed neutrophil chemotaxis",
+        "Autosomal recessive with hyperkeratosis only on the palms and soles",
+        "X-linked dominant affecting primarily females"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93699,
+      question: "Gingival Fibromatosis is characterized by which of the following tissue features?",
+      options: [
+        "Thin atrophic gingival tissue with widespread exposed root surfaces",
+        "Soft spongy white folded tissue with outer surface desquamation",
+        "Vascular tissue with capillary dilations causing spontaneous hemorrhage",
+        "Very firm tissue with a granular corrugated surface"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93700,
+      question: "Which of the following syndromes is associated with Gingival Fibromatosis and also features dysplastic or absent nails and hepatosplenomegaly?",
+      options: [
+        "Papillon-Lefèvre Syndrome with hyperkeratosis of palms and soles",
+        "Laband Syndrome with autosomal dominant inheritance pattern",
+        "Cyclic neutropenia with fever, malaise, and recurrent sore throat",
+        "Turner syndrome with short stature and primary amenorrhea"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93701,
+      question: "Laband Syndrome is characterized by which combination of features?",
+      options: [
+        "Gingival fibromatosis, hyperkeratosis of palms and soles, and premature tooth loss",
+        "Multiple hyaline fibrous tumors on the head, nose, and chin with gingival enlargement",
+        "Gingival enlargement with epilepsy, hypertrichosis, and bilateral cleft palate",
+        "Gingival fibromatosis, dysplastic or absent nails, malformed nose and ears, and hypoplasia of terminal phalanges"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93702,
+      question: "Which of the following syndromes is associated with Gingival Fibromatosis, epilepsy, and hypertrichosis?",
+      options: [
+        "Laband syndrome with hepatosplenomegaly and hypoplastic terminal phalanges",
+        "Murray-Puretic-Drescher syndrome with multiple hyaline fibromas",
+        "Gingival Fibromatosis with Hypertrichosis, Epilepsy, and Mental Retardation Syndrome",
+        "Cyclic neutropenia with recurrent fever and severe periodontal destruction"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93703,
+      question: "Cherubism is best described by which of the following?",
+      options: [
+        "Unilateral swelling of the maxilla beginning at puberty with a soap bubble appearance",
+        "Multiple osteomas of facial bones with intestinal polyps prone to malignant change",
+        "Bilateral facial enlargement due to gingival fibromatosis with granular corrugated tissue",
+        "Progressive bilateral facial swelling beginning at 1.5 to 4 years with multilocular jaw lesions"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93704,
+      question: "What is the characteristic radiographic appearance of Cherubism?",
+      options: [
+        "Multiple odontogenic keratocysts along the inferior border of the mandible",
+        "Periapical radiolucencies with short thin roots and absent pulp chambers",
+        "A soap bubble or multilocular radiolucent appearance of the jaw bones",
+        "Multiple bony projections on the jaw with impacted supernumerary teeth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93705,
+      question: "Ellis-van Creveld Syndrome (Chondroectodermal Dysplasia) is associated with which of the following oral findings?",
+      options: [
+        "Progressive bilateral jaw swelling with multilocular radiolucencies",
+        "Multiple impacted supernumerary teeth with delayed eruption and jaw cysts",
+        "Fusion of the maxillary gingiva to the lip, missing central incisors, and natal teeth",
+        "Bilateral cleft lip and palate with microphthalmia and extra fingers"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93706,
+      question: "Ellis-van Creveld Syndrome follows which pattern of inheritance?",
+      options: [
+        "Autosomal recessive with dwarfism and polydactyly on the ulnar side",
+        "Autosomal dominant with variable expressivity and incomplete penetrance",
+        "X-linked dominant affecting primarily females with low serum phosphorus",
+        "Autosomal dominant with complete penetrance and bilateral jaw involvement"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93707,
+      question: "Cleidocranial Dysplasia is characterized by which of the following findings?",
+      options: [
+        "Bilateral jaw swelling beginning in early childhood with a soap bubble radiograph",
+        "Multiple hyaline fibrous tumors on the nose, chin, and head with jaw involvement",
+        "Mushroom-shaped cranium, hypoplastic clavicles, and multiple supernumerary impacted teeth",
+        "Osteomas of facial bones, multiple odontomas, and intestinal polyps in the jaw"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93708,
+      question: "Gardner Syndrome is also known as which of the following?",
+      options: [
+        "Chondroectodermal Dysplasia",
+        "Familial Colorectal Polyposis",
+        "Mandibulofacial Dysostosis",
+        "Nevoid Basal Cell Carcinoma Syndrome"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93709,
+      question: "Which of the following is the most clinically significant feature of Gardner Syndrome?",
+      options: [
+        "Progressive bilateral jaw swelling resembling giant cell granuloma lesions",
+        "Multiple supernumerary impacted teeth leading to pathological jaw fractures",
+        "Odontogenic keratocysts forming along the jaw with associated basal cell carcinomas",
+        "Intestinal polyps that are benign initially but become malignant around age 30 or later"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93710,
+      question: "Mandibulofacial Dysostosis (Treacher-Collins Syndrome) is characterized by which of the following?",
+      options: [
+        "Downward sloping palpebral fissures, hypoplastic malar bones, and fishlike mouth",
+        "Bilateral facial swelling, soap bubble jaw radiolucencies, and short stature",
+        "Multiple osteomas of facial bones, multiple odontomas, and intestinal polyps",
+        "Open fontanelles, mushroom-shaped skull, and multiple impacted supernumerary teeth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93711,
+      question: "Which of the following dental findings is associated with Treacher-Collins Syndrome?",
+      options: [
+        "Natal teeth with conical shape, enamel hypoplasia, and missing central incisors",
+        "Malposed teeth with malocclusion, anterior open bite, and high arched palate",
+        "Multiple supernumerary impacted teeth with associated jaw cysts",
+        "Opalescent teeth with short thin roots and no visible pulp chambers"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93712,
+      question: "Nevoid Basal Cell Carcinoma Syndrome is also known by which name?",
+      options: [
+        "Gardner Syndrome",
+        "Laband Syndrome",
+        "Gorlin Syndrome",
+        "Van der Woude Syndrome"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93713,
+      question: "Which of the following jaw findings is characteristic of Nevoid Basal Cell Carcinoma Syndrome?",
+      options: [
+        "Progressive bilateral jaw swelling with multilocular bone lesions resembling giant cell granuloma",
+        "Multiple osteomas of the jaw with impacted odontomas and intestinal polyps",
+        "Soap bubble jaw radiolucency with bilateral swelling beginning in early childhood",
+        "Multiple jaw cysts that are histologically classified as odontogenic keratocysts"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93714,
+      question: "Osteogenesis Imperfecta is primarily caused by which underlying problem?",
+      options: [
+        "Mutations affecting collagen resulting in abnormally formed bones that fracture easily",
+        "Decreased alkaline phosphatase leading to failure of cementum and bone formation",
+        "Extra X chromosomes causing defective bone matrix and dental enamel formation",
+        "Depressed neutrophil chemotaxis causing recurrent bone and periodontal infections"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93715,
+      question: "Which of the following dental findings is associated with Osteogenesis Imperfecta?",
+      options: [
+        "Multiple supernumerary impacted teeth with associated odontogenic cysts",
+        "Hypodontia, conically shaped teeth, and fusion of the gingiva to the lip",
+        "Natal teeth with conical crowns and enamel hypoplasia",
+        "Dentinogenesis imperfecta-like condition with opalescent or translucent teeth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93716,
+      question: "Van der Woude Syndrome is characterized by which of the following?",
+      options: [
+        "Multiple melanotic macular pigmentations with gastrointestinal polyposis hamartomas",
+        "Multiple capillary dilations on skin and mucous membranes with epistaxis",
+        "White corrugated folded buccal mucosa with a thick desquamating keratin layer",
+        "Cleft lip and palate combined with congenital lip pits on the lower lip"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93717,
+      question: "Hereditary Hemorrhagic Telangiectasia (Osler-Rendu-Parkes Weber Syndrome) is characterized by which finding?",
+      options: [
+        "White corrugated folded buccal mucosa with desquamation of the keratin layer",
+        "Multiple melanotic macular pigmentations with gastrointestinal hamartomas",
+        "Multiple capillary dilations of skin and mucous membranes called telangiectasias",
+        "Gingival fibromatosis with firm granular tissue and associated hypertrichosis"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93718,
+      question: "Neurofibromatosis of von Recklinghausen is associated with which characteristic finding?",
+      options: [
+        "Melanotic macular pigmentation on the lips and perioral skin surface",
+        "Hyperpigmentation of the buccal mucosa with spider-like vascular patterns",
+        "Café au lait pigmentation on the skin with multiple neurofibromas",
+        "Melanotic macules limited to the gingiva and alveolar mucosa only"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93719,
+      question: "White Sponge Nevus is characterized by which oral feature?",
+      options: [
+        "White corrugated soft folded buccal mucosa that does not affect the free gingiva",
+        "Multiple neuromas on the lips, tongue, and buccal mucosa",
+        "Melanotic macular pigmentation on the lips and gingival tissues",
+        "Multiple capillary dilations affecting the oral mucosa and nasal cavities"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93720,
+      question: "Amelogenesis Imperfecta is best defined as which of the following?",
+      options: [
+        "A single inherited disorder causing absent pulp chambers and short thin roots",
+        "A genetic condition affecting cementum and bone with premature tooth exfoliation",
+        "A group of inherited conditions affecting tooth enamel with no associated systemic defects",
+        "A group of inherited conditions affecting dentin of teeth with systemic bone involvement"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93721,
+      question: "Which type of Amelogenesis Imperfecta is characterized by enamel that does not develop to normal thickness?",
+      options: [
+        "Type II – Hypocalcified amelogenesis imperfecta",
+        "Type I – Hypoplastic amelogenesis imperfecta",
+        "Type IV – Hypoplastic-hypomaturation amelogenesis imperfecta",
+        "Type III – Hypomaturation amelogenesis imperfecta"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93722,
+      question: "Which type of Amelogenesis Imperfecta features enamel of normal thickness but poor calcification?",
+      options: [
+        "Type III – Hypomaturation amelogenesis imperfecta",
+        "Type I – Hypoplastic amelogenesis imperfecta",
+        "Type IV – Hypoplastic-hypomaturation amelogenesis imperfecta",
+        "Type II – Hypocalcified amelogenesis imperfecta"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93723,
+      question: "Which type of Amelogenesis Imperfecta is described as having a \"snowcapped\" appearance?",
+      options: [
+        "Type III – Hypomaturation amelogenesis imperfecta",
+        "Type I – Hypoplastic amelogenesis imperfecta",
+        "Type II – Hypocalcified amelogenesis imperfecta",
+        "Type IV – Hypoplastic-hypomaturation amelogenesis imperfecta"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93724,
+      question: "Which of the following radiographic findings is associated with Dentinogenesis Imperfecta?",
+      options: [
+        "Enamel with radiodensity similar to dentin and enlarged pulp chambers",
+        "Multiple cysts associated with impacted supernumerary teeth in the jaw",
+        "Large pulp chambers with very long pulp horns and dentin cracks",
+        "Absent pulp chambers and root canals, with short thin roots and periapical radiolucencies"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93725,
+      question: "Dentin Dysplasia Type I (Radicular) is characterized by which of the following?",
+      options: [
+        "Primary teeth with translucent amber color while adult teeth appear completely normal",
+        "Teeth with opalescent bluish color, short roots, and absent pulp chambers",
+        "Normal-appearing tooth crowns with abnormal roots and premature tooth exfoliation",
+        "Large pulp chambers and taurodontic molars with apically displaced furcation"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93726,
+      question: "Which of the following is the classic triad of features in Hypohidrotic Ectodermal Dysplasia?",
+      options: [
+        "Hyperkeratosis, hypodontia, and hyperhydrosis",
+        "Hyperdontia, hypotrichosis, and absence of sweat glands",
+        "Gingival fibromatosis, sparse hair, and increased sweating",
+        "Hypodontia, hypotrichosis, and hypohidrosis"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93727,
+      question: "Hypophosphatasia is associated with which of the following dental findings?",
+      options: [
+        "Opalescent teeth with absent pulp chambers and periapical radiolucencies",
+        "Multiple supernumerary teeth with impaction and associated jaw cysts",
+        "Teeth lacking cementum with premature exfoliation",
+        "Conically shaped teeth with enamel hypoplasia and natal teeth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93728,
+      question: "Hypophosphatemic Vitamin D-Resistant Rickets follows which pattern of inheritance?",
+      options: [
+        "Autosomal recessive with decreased serum alkaline phosphatase levels",
+        "Autosomal dominant with multiple supernumerary impacted teeth in the jaws",
+        "X-linked dominant with large pulp chambers, long pulp horns, and dentin cracks",
+        "Autosomal recessive with decreased serum phosphorus and large pulp chambers"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93729,
+      question: "Taurodontism is characterized by which of the following features?",
+      options: [
+        "Large pyramid-shaped molars with large pulp chambers and apically displaced furcation",
+        "Conically shaped teeth with enamel hypoplasia and premature exfoliation",
+        "Normal crowns with abnormal roots and premature tooth exfoliation",
+        "Short thin roots with periapical radiolucencies and absent pulp chambers"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93730,
+      question: "Pegged or Absent Maxillary Lateral Incisors follows which pattern of inheritance?",
+      options: [
+        "Autosomal dominant with variable expression",
+        "X-linked dominant affecting females primarily",
+        "Autosomal recessive with complete penetrance",
+        "Autosomal recessive with variable expressivity and reduced penetrance"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93731,
+      question: "Which of the following syndromes is associated with multiple supernumerary impacted teeth and osteomas of the jaw and facial skeleton?",
+      options: [
+        "Cherubism",
+        "Cleidocranial Dysplasia",
+        "Gardner Syndrome",
+        "Gorlin Syndrome"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93732,
+      question: "Which of the following syndromes involves bilateral enlargement of the jaw with bone lesions histologically similar to central giant cell granuloma?",
+      options: [
+        "Gardner Syndrome",
+        "Nevoid Basal Cell Carcinoma Syndrome",
+        "Ellis-van Creveld Syndrome",
+        "Cherubism"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93733,
+      question: "A patient presents with multiple jaw cysts, skin basal cell carcinomas, bifurcated ribs, and skeletal anomalies. Which syndrome is most likely?",
+      options: [
+        "Cleidocranial Dysplasia",
+        "Nevoid Basal Cell Carcinoma Syndrome (Gorlin Syndrome)",
+        "Mandibulofacial Dysostosis (Treacher-Collins Syndrome)",
+        "Gardner Syndrome (Familial Colorectal Polyposis)"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93734,
+      question: "A patient has hyperkeratosis of the palms and soles with progressive gingival inflammation beginning at age 2, and both primary and permanent teeth are lost prematurely. Which syndrome is most likely?",
+      options: [
+        "Focal Palmoplantar and Gingival Hyperkeratosis",
+        "Cyclic Neutropenia (Kostmann Syndrome)",
+        "Papillon-Lefèvre Syndrome",
+        "Gingival Fibromatosis with Hypertrichosis and Epilepsy"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93735,
+      question: "Which of the following syndromes is associated with multiple capillary dilations that can cause nosebleeds and gingival hemorrhage?",
+      options: [
+        "Hereditary Hemorrhagic Telangiectasia",
+        "Neurofibromatosis of von Recklinghausen",
+        "White Sponge Nevus",
+        "Neurofibromatosis with café au lait skin lesions"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93736,
+      question: "A patient has a characteristic mushroom-shaped head, absent or hypoplastic clavicles, and many unerupted supernumerary teeth causing jaw cysts. Which syndrome does this describe?",
+      options: [
+        "Gardner Syndrome",
+        "Cherubism",
+        "Nevoid Basal Cell Carcinoma Syndrome",
+        "Cleidocranial Dysplasia"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93737,
+      question: "In oral pathology, gross chromosomal abnormalities that can be observed in a karyotype include which of the following?",
+      options: [
+        "Molecular mutations at the DNA level visible only under electron microscopy",
+        "Changes in chromosome structure such as deletion, translocation, or inversion",
+        "Single-gene mutations that cause the most common inherited disorders of alleles",
+        "Mitochondrial DNA abnormalities that are inherited exclusively from the father"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93738,
+      question: "Which of the following correctly defines \"alleles\"?",
+      options: [
+        "Single genes responsible for multiple unrelated traits across different chromosomes",
+        "Genes located on sex chromosomes that control X-linked characteristics only",
+        "Pairs of chromosomes with identical DNA sequences found only in somatic cells",
+        "Genes located at the same locus on homologous chromosomes that control identical functions"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 93739,
+      question: "Which of the following correctly defines the difference between penetrance and expressivity?",
+      options: [
+        "Penetrance refers to severity of expression, while expressivity refers to number affected",
+        "Penetrance applies to recessive traits only, while expressivity applies to dominant traits",
+        "Penetrance refers to the number of individuals affected, while expressivity pertains to the degree to which an individual is affected",
+        "Penetrance and expressivity are the same concept applied to different inheritance patterns"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 93740,
+      question: "Down syndrome results from trisomy of chromosome 21, meaning there are three copies of that chromosome.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93741,
+      question: "Turner syndrome affects males and is characterized by extra X chromosomes causing female secondary sex characteristics.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93742,
+      question: "Papillon-Lefèvre Syndrome is inherited in an autosomal recessive pattern and involves hyperkeratosis of the palms and soles.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93743,
+      question: "Gingival and periodontal disease is reported in approximately 90% of individuals with Down syndrome.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93744,
+      question: "Klinefelter syndrome is characterized by a female karyotype with short stature, webbed neck, and primary amenorrhea.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93745,
+      question: "Cherubism causes bilateral facial swelling due to multilocular jaw lesions that appear as a soap bubble pattern radiographically.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93746,
+      question: "Cleidocranial Dysplasia is most notably associated with multiple impacted supernumerary teeth and hypoplastic or absent clavicles.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93747,
+      question: "Gardner Syndrome intestinal polyps are malignant from birth and require immediate surgical removal in all affected patients.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93748,
+      question: "Dentinogenesis Imperfecta is characterized by absent or obliterated pulp chambers, short thin roots, and hereditary opalescent dentin.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93749,
+      question: "White Sponge Nevus affects the free gingiva and presents as red, ulcerated tissue on the buccal mucosa.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 93750,
+      question: "Hypohidrotic Ectodermal Dysplasia is characterized by hypodontia, hypotrichosis, and hypohidrosis.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 93751,
+      question: "Amelogenesis Imperfecta is a group of inherited conditions affecting only the dentin of teeth with no associated systemic defects.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    }
   ]
 };
