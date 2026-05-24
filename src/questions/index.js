@@ -854,7 +854,8 @@ export const subjectsWithSubtopics = {
     "7. Autoimmune Disease",
     "8. Infectious Diseases",
     "9. Infectious Diseases",
-    "10. Developmental Disorders"
+    "10. Developmental Disorders",
+    "13. Genetics" 
   ],  
   "Community Dental Health I": [
     "1. Introduction to Public Health",
