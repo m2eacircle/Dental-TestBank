@@ -1,8 +1,0 @@
-{
-  "extends": "react-app",
-  "rules": {
-    "no-useless-escape": "off",
-    "no-unused-vars": "off",
-    "react-hooks/exhaustive-deps": "off"
-  }
-}
