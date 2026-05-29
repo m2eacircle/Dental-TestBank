@@ -391,6 +391,8 @@ export default function ImprovedTestBankApp() {
   const [isRetakeTest, setIsRetakeTest] = useState(false); // Track if current test is a retake
   const [termsAccepted, setTermsAccepted] = useState(false); // Track terms acknowledgment
   const [showTermsModal, setShowTermsModal] = useState(false); // Track terms modal visibility
+  const [installPrompt, setInstallPrompt] = useState(null); // PWA install prompt
+  const [showInstallBanner, setShowInstallBanner] = useState(false); // Show install banner
 
   // Shuffle function for randomizing questions
   const shuffleArray = (array) => {
@@ -400,6 +402,27 @@ export default function ImprovedTestBankApp() {
       [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
     }
     return shuffled;
+  };
+
+  // PWA install prompt handler
+  useEffect(() => {
+    const handler = (e) => {
+      e.preventDefault();
+      setInstallPrompt(e);
+      setShowInstallBanner(true);
+    };
+    window.addEventListener('beforeinstallprompt', handler);
+    return () => window.removeEventListener('beforeinstallprompt', handler);
+  }, []);
+
+  const handleInstall = async () => {
+    if (!installPrompt) return;
+    installPrompt.prompt();
+    const { outcome } = await installPrompt.userChoice;
+    if (outcome === 'accepted') {
+      setInstallPrompt(null);
+      setShowInstallBanner(false);
+    }
   };
 
   // Load data from localStorage on mount
@@ -930,6 +953,36 @@ export default function ImprovedTestBankApp() {
       <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 p-4">
         <div className="max-w-md sm:max-w-2xl lg:max-w-4xl mx-auto">
           
+          {/* PWA Install Banner */}
+          {showInstallBanner && (
+            <div className="bg-white rounded-2xl shadow-lg p-4 mb-4 flex items-center justify-between gap-3">
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 bg-indigo-600 rounded-xl flex items-center justify-center flex-shrink-0">
+                  <Download className="w-5 h-5 text-white" />
+                </div>
+                <div>
+                  <p className="font-semibold text-gray-800 text-sm">Install App</p>
+                  <p className="text-xs text-gray-500">Add to home screen for offline access</p>
+                </div>
+              </div>
+              <div className="flex items-center gap-2 flex-shrink-0">
+                <button
+                  onClick={handleInstall}
+                  className="px-3 py-1.5 bg-indigo-600 text-white text-xs font-semibold rounded-lg hover:bg-indigo-700 transition-colors"
+                >
+                  Install
+                </button>
+                <button
+                  onClick={() => setShowInstallBanner(false)}
+                  className="p-1.5 text-gray-400 hover:text-gray-600 transition-colors"
+                  aria-label="Dismiss"
+                >
+                  <X className="w-4 h-4" />
+                </button>
+              </div>
+            </div>
+          )}
+
           {/* Google Ad - Home Screen Top Banner */}
           <GoogleAd slot="5701429538019796" format="horizontal" className="mb-4" />
           
@@ -937,7 +990,7 @@ export default function ImprovedTestBankApp() {
             {/* m2ea Circle Link - Top Level */}
             <div className="flex justify-end mb-4">
               <a
-                href="https://www.m2eacircle.com/education/index_en.html"
+                href="https://www.m2eacircle.com/education/index.html"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-3 py-2 rounded-lg hover:bg-gray-100 transition-colors text-gray-700 text-sm font-medium"
