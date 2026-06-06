@@ -2045,7 +2045,7 @@ export const questions = {
       correctAnswer: 0
     }
   ],
-  "4. Dental Indices": [
+  "4. Dental Indices (Part 1)": [
     {
       id: 91191,
       question: "Which of the following best describes the purpose of the \"Assessment\" core function in public health?",
@@ -2570,6 +2570,3996 @@ export const questions = {
     {
       id: 91240,
       question: "Indicators in public health are values such as the percentage of the population with insurance that may reflect the presence of health or disease risk factors in a community.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+  ],
+  "3. Determinants of Health (Part 3)": [
+    {
+      id: 91241,
+      question: "What is the central focus of the mission of public health?",
+      options: [
+        "Treating individual patients in private clinical settings only",
+        "Maximizing revenue for hospitals and healthcare insurers",
+        "Preventing disease and providing an environment for healthy living",
+        "Training dentists to open more private dental practices"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91242,
+      question: "Which organization established and administers the Certified in Public Health (CPH) examination?",
+      options: [
+        "The Commission on Dental Accreditation standards office",
+        "The National Board of Public Health Examiners",
+        "The American Dental Hygienists' Association leadership board",
+        "The Centers for Disease Control and Prevention division"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91243,
+      question: "The CPH examination ensures competency of graduates from programs accredited by which body?",
+      options: [
+        "The National Commission for Health Education Credentialing",
+        "The American Dental Education Association curriculum board",
+        "The Association of State and Territorial Dental Directors",
+        "The Council on Education for Public Health (CEPH)"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91244,
+      question: "The NCHEC provides the Certified Health Education Specialist (CHES) credential and which advanced credential?",
+      options: [
+        "Master Certified Health Education Specialist (MCHES)",
+        "Advanced Registered Public Health Educator (ARPHE)",
+        "Senior Community Oral Health Specialist (SCOHS)",
+        "Certified Dental Public Health Practitioner (CDPHP)"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91245,
+      question: "The tasks needed to master the CHES and MCHES examinations are organized within how many areas of responsibility?",
+      options: [
+        "Ten areas",
+        "Eight areas",
+        "Four areas",
+        "Six areas"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91246,
+      question: "The Council on Linkages core competencies for public health professionals are divided into how many domains?",
+      options: [
+        "Twelve domains",
+        "Eight domains",
+        "Three domains",
+        "Five domains"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91247,
+      question: "According to the chapter, what is the main aim of health educators?",
+      options: [
+        "To diagnose oral diseases and prescribe medications to patients",
+        "To enforce penalties on communities lacking fluoridated water",
+        "To set insurance reimbursement rates for dental procedures",
+        "To promote healthy behaviors and empower people to adopt and maintain them"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91248,
+      question: "According to CODA standards, dental hygiene graduates must be able to do which of the following?",
+      options: [
+        "Perform complex oral surgeries within hospital operating rooms",
+        "Independently set state-level public health law and policy",
+        "Manufacture and distribute fluoride supplements to schools",
+        "Assess community needs, plan and implement a program, and evaluate it"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91249,
+      question: "What are the three core functions of public health that shape its basic practice?",
+      options: [
+        "Research, publication, and academic instruction",
+        "Funding, marketing, and staffing of health clinics",
+        "Assessment, policy development, and assurance",
+        "Diagnosis, treatment, and rehabilitation of patients"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91250,
+      question: "Which statement best describes assessment as a core public health function?",
+      options: [
+        "The marketing of new dental products to the general public",
+        "The systematic collection and analysis of data on community health",
+        "The direct provision of restorative dental care to individuals",
+        "The enforcement of laws regulating private dental practices"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91251,
+      question: "Epidemiology is best defined as the study of which of the following?",
+      options: [
+        "The distribution and determinants of health-related states in populations",
+        "The chemical composition of pharmaceutical drugs in a lab",
+        "The financial accounting practices used by health agencies",
+        "The repair of dental equipment used in mobile clinics"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91252,
+      question: "The epidemiologic triangle depicts disease as the outcome of which interacting factors?",
+      options: [
+        "Federal, state, and local government factors",
+        "Income, education, and employment factors",
+        "Host, agent, and environmental factors",
+        "Primary, secondary, and tertiary factors"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91253,
+      question: "In the epidemiologic triangle, the host refers to which of the following?",
+      options: [
+        "The physical and social surroundings that influence disease",
+        "The biological or mechanical means of causing the disease",
+        "The individual potentially affected by the disease in question",
+        "The length of time before symptoms or recovery occur"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91254,
+      question: "Which of the following best describes agent factors in the epidemiologic triangle?",
+      options: [
+        "The economic and sociocultural conditions surrounding people",
+        "The individual person who is susceptible to a given disease",
+        "The duration of time it takes for an epidemic to develop",
+        "The biologic or mechanical means of causing disease or injury"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91255,
+      question: "Environmental factors in the epidemiologic triangle include which of the following components?",
+      options: [
+        "The host's individual beliefs, values, habits, and customs",
+        "Specific bacteria such as Streptococcus mutans and Lactobacillus",
+        "Physical, sociocultural, sociopolitical, and economic components",
+        "Tooth enamel structure and the flow and composition of saliva"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91256,
+      question: "In the epidemiologic triangle, what does the element of time represent?",
+      options: [
+        "The cost in dollars of treating a population's disease burden",
+        "The number of staff required to run a public health program",
+        "The geographic distance between patients and dental clinics",
+        "The length of time for damage, symptoms, recovery, or epidemic onset"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91257,
+      question: "In the U.S. population, most oral diseases such as dental caries and periodontitis are considered to be what?",
+      options: [
+        "Endemic",
+        "Pandemic",
+        "Eradicated",
+        "Sporadic"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91258,
+      question: "Eradication of a disease, the stated ideal, requires which of the following?",
+      options: [
+        "Complete elimination of all government health regulations",
+        "A firm understanding of the causative agents and factors",
+        "Restricting the disease only to rural farming communities",
+        "Limiting data collection to qualitative interviews alone"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91259,
+      question: "The 1948 World Health Organization definition describes health as which of the following?",
+      options: [
+        "The financial ability to afford private medical treatment",
+        "A condition achieved only through individual lifestyle choices",
+        "A complete absence of any disease, infirmity, or disability",
+        "A state of complete physical, social, and mental well-being"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91260,
+      question: "The Ottawa Charter for Health Promotion describes prerequisites for health that include which set?",
+      options: [
+        "Peace, shelter, education, food, income, and social justice",
+        "Diagnosis, treatment, billing, and insurance reimbursement",
+        "Surgery, medication, hospitalization, and rehabilitation",
+        "Profit, marketing, competition, and corporate growth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91261,
+      question: "Health promotion, as described in the Ottawa Charter, is best defined as which process?",
+      options: [
+        "Requiring people to follow strict government health mandates",
+        "Enabling people to increase control over and improve their health",
+        "Restricting the sale of unhealthy foods within communities",
+        "Providing surgical treatment to people with advanced disease"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91262,
+      question: "Which concept emerged as multifactorial perspectives of health and disease grew?",
+      options: [
+        "The web of causation",
+        "The deficiency-based assessment model",
+        "The windshield survey method",
+        "The single-cause theory of disease transmission"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91263,
+      question: "Which of the following is one of the categories used to organize the determinants of health?",
+      options: [
+        "Funding, staffing, marketing, scheduling, and billing of clinics",
+        "Diagnosis, prevention, treatment, evaluation, and rehabilitation",
+        "Primary, secondary, tertiary, formative, and summative review",
+        "Policymaking, social, health services, individual behavior, and biology"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91264,
+      question: "Which of the following is an example of the policymaking determinant of health?",
+      options: [
+        "Limited availability of dentists who speak a patient's language",
+        "Community water fluoridation enacted to prevent dental caries",
+        "A patient who inherits a predisposition to a dental condition",
+        "A person choosing to quit smoking to reduce their cancer risk"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91265,
+      question: "Social determinants of health are best described as which of the following?",
+      options: [
+        "The inherited biological make-up of an individual's body",
+        "The federal and state laws that regulate individual behavior",
+        "Conditions in which people are born, live, learn, work, and age",
+        "The personal daily actions that influence one's own health"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91266,
+      question: "Which of the following is an example of the individual behavior determinant of health?",
+      options: [
+        "An inherited condition such as congenitally missing teeth",
+        "Practicing adequate oral hygiene with suitable supplies",
+        "The availability of an oral health workforce in rural areas",
+        "A city ordinance prohibiting smoking in public buildings"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91267,
+      question: "Which of the following is an example of the biology and genetics determinant of health?",
+      options: [
+        "Inherited conditions such as cleft lip or congenitally missing teeth",
+        "Access to dental providers who speak the patient's language",
+        "Changing one's diet to reduce the risk of dental caries",
+        "A state law requiring that seat belts be worn in vehicles"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91268,
+      question: "Which of the following falls under the health services determinant of health?",
+      options: [
+        "A school policy banning sugary snacks at school parties",
+        "An individual's frequency of brushing and flossing at home",
+        "Insurance and dental insurance coverage availability",
+        "A family history of diabetes or heart disease in relatives"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91269,
+      question: "Health inequities are best defined as which of the following?",
+      options: [
+        "Random natural differences in health that cannot be changed",
+        "Unfair, unjust, unnecessary, and avoidable differences in health",
+        "Equal distribution of health resources across all populations",
+        "Differences caused solely by individual genetic make-up"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91270,
+      question: "Which of the following is one of the five key areas to address social determinants of health?",
+      options: [
+        "Surgical capacity, including operating rooms and staff",
+        "Pharmaceutical supply, including drug manufacturing rates",
+        "Private profit, including corporate revenue and growth",
+        "Economic stability, including poverty and employment"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91271,
+      question: "Under social determinants of health, the neighborhood and built environment area includes which factor?",
+      options: [
+        "Health insurance coverage and access to primary care",
+        "Availability of healthy foods and access to transportation",
+        "High school graduation and enrollment in higher education",
+        "Social cohesion, civic participation, and discrimination"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91272,
+      question: "What is the first step of the community health program planning process?",
+      options: [
+        "Developing measurable process and outcome objectives",
+        "Assessing the community to identify the primary health issues",
+        "Evaluating the interventions and using results to improve them",
+        "Implementing the selected health interventions in the field"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91273,
+      question: "Which statement best characterizes the community health program planning process?",
+      options: [
+        "It applies only to large state-level programs and nothing smaller",
+        "It excludes evaluation because outcomes cannot be measured",
+        "It is a continuous process that can be subdivided into detailed steps",
+        "It is a one-time event completed and never revisited again"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91274,
+      question: "A community oral health assessment is best described as a process that is which of the following?",
+      options: [
+        "Focused only on the financial profit of dental providers",
+        "Community-oriented and community-directed in its approach",
+        "Limited strictly to counting the number of local dentists",
+        "Directed entirely by outside federal agencies without local input"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91275,
+      question: "Why are assets-oriented assessment methods generally preferred over deficiency-based approaches?",
+      options: [
+        "They require no community participation or local engagement",
+        "They focus only on problems and ignore community strengths",
+        "They are faster because they skip the data collection phase",
+        "They serve communities better and produce more sustainable outcomes"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91276,
+      question: "What is the first phase of the community needs assessment process?",
+      options: [
+        "Cultivate partnerships and select an advisory committee",
+        "Collect data from primary and secondary sources",
+        "Prioritize issues and report the assessment findings",
+        "Organize, review, and analyze the collected data"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91277,
+      question: "A coalition is best defined as which of the following?",
+      options: [
+        "A private company that markets dental products to consumers",
+        "A single government agency that funds all health programs",
+        "An alliance of groups and individuals working toward a common goal",
+        "A law that requires communities to fluoridate their water"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91278,
+      question: "A community partnership is best described as which of the following?",
+      options: [
+        "A competition between agencies for limited government funding",
+        "An individual effort by one dentist to improve a neighborhood",
+        "An arrangement among groups that combine resources for a common goal",
+        "A legal contract that prevents organizations from collaborating"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91279,
+      question: "In community health, empowerment refers to which of the following?",
+      options: [
+        "Granting all decision-making authority to outside consultants",
+        "Removing community members from the assessment process",
+        "Enabling the community to take control and make its own decisions",
+        "Restricting health information to professionals only"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91280,
+      question: "What is the main purpose of the self-assessment phase (Phase 2) of the needs assessment?",
+      options: [
+        "To collect clinical oral health data from the population directly",
+        "To publish the final findings to community stakeholders",
+        "To prioritize the oral health issues facing the community",
+        "To identify goals and define the purpose of the needs assessment"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91281,
+      question: "A community snapshot is best described as which of the following?",
+      options: [
+        "A brief overview describing community traits and health indicators",
+        "A final executive summary delivered at the end of the assessment",
+        "A detailed statistical report with all primary and secondary data",
+        "A clinical survey measuring dental caries in schoolchildren"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91282,
+      question: "Secondary data are best described as which of the following?",
+      options: [
+        "Data that cannot be expressed numerically in any form",
+        "Data collected directly from the source through new interviews",
+        "Clinical measurements taken during an oral health survey",
+        "Previously collected data compiled from existing sources"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91283,
+      question: "Primary data are best described as which of the following?",
+      options: [
+        "Existing data already gathered and reported by other agencies",
+        "Data that describe only the history and traditions of a community",
+        "Reports compiled solely from newspapers and social media",
+        "Data collected directly from the source, such as through surveys"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91284,
+      question: "Quantitative data are best described as which of the following?",
+      options: [
+        "Information that is objective, measurable, and expressed as amounts",
+        "Information reflecting the quality or nature of a health problem",
+        "Information gathered only through personal interviews and focus groups",
+        "Descriptions of community traditions and historical narratives"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91285,
+      question: "Qualitative data are best described as which of the following?",
+      options: [
+        "Employment figures and the number of schools in a county",
+        "Information that cannot be numerically measured but adds meaning",
+        "Demographic statistics expressed as quantities or amounts",
+        "Numerical counts of births, deaths, and disease prevalence rates"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91286,
+      question: "Which data collection method is generally the most costly and time-consuming?",
+      options: [
+        "A telephone interview conducted by phone",
+        "A mailed survey sent to community households",
+        "A person-to-person interview with individuals",
+        "A windshield tour of the neighborhood"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91287,
+      question: "In data analysis, the term significance means which of the following?",
+      options: [
+        "The resulting information truly reflects that a problem exists",
+        "The data require no review for possible errors or bias",
+        "The data were collected faster than in previous assessments",
+        "The findings are kept confidential from the community members"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91288,
+      question: "Phase 6 of the needs assessment consists of which two key actions?",
+      options: [
+        "Collecting primary data and collecting secondary data",
+        "Cultivating partnerships and selecting an advisory committee",
+        "Prioritizing the issues and reporting the assessment findings",
+        "Designing the assessment and evaluating the assessment process"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91289,
+      question: "Prioritization of issues is best described as which of the following?",
+      options: [
+        "A method that ignores the availability of funding and workforce",
+        "A random selection of issues with no community involvement",
+        "A process that excludes the advisory committee from decisions",
+        "An impartial, balanced process deciding the order of importance"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91290,
+      question: "When communicating assessment outcomes, why is it important to prepare an executive summary?",
+      options: [
+        "To replace the need for any charts, graphs, tables, or maps",
+        "To hide the limitations of the data from the target audience",
+        "To succinctly highlight the key findings of the assessment",
+        "To restrict the findings to oral health professionals only"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91291,
+      question: "Which term refers to the comprehensive, detailed description of the community?",
+      options: [
+        "Community profile",
+        "Community snapshot",
+        "Community asset map",
+        "Primary data collection"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91292,
+      question: "After completing the evaluation in Phase 7, the needs assessment process loops back to which phase?",
+      options: [
+        "Phase 4, to collect new primary data",
+        "Phase 1, to cultivate partnerships again",
+        "Phase 6, to re-prioritize the issues",
+        "Phase 2, to re-establish the assessment purpose"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91293,
+      question: "A critique of the assessment conducted at the end of the process is an example of which evaluation?",
+      options: [
+        "Summative evaluation providing a record of lessons learned",
+        "Financial evaluation of the program's annual budget",
+        "Clinical evaluation of individual patients' oral health",
+        "Formative evaluation performed throughout the process"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91294,
+      question: "What role are dental hygienists in public health expected to play in community oral health assessments?",
+      options: [
+        "A leadership role in conducting the assessments",
+        "No role, since assessments are done only by physicians",
+        "A role restricted to cleaning teeth in private offices",
+        "A role limited strictly to billing and scheduling"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91295,
+      question: "What are the main purposes of a community oral health assessment?",
+      options: [
+        "To increase the private profits of local dental practices only",
+        "To identify factors affecting oral health and available resources",
+        "To replace the need for any oral health improvement plan",
+        "To eliminate community members from health decision-making"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91296,
+      question: "According to the chapter, a community oral health assessment is virtually useless unless what occurs?",
+      options: [
+        "The findings are reported only to outside federal agencies",
+        "The information is used to develop and implement programs",
+        "The data are kept private and never shared with anyone",
+        "The assessment is repeated every single week without changes"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91297,
+      question: "Which of the following is an example of quantitative data?",
+      options: [
+        "Personal observations recorded during participant observation",
+        "The history and traditions of a particular community",
+        "Descriptions gathered from a community focus group discussion",
+        "Incidence or prevalence rates of disease in a population"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91298,
+      question: "Which of the following is identified as a source of information for a community oral health assessment?",
+      options: [
+        "Federal, state, and local government agencies and reports",
+        "Solely advertisements for commercial dental products",
+        "Only data invented by the advisory committee members",
+        "Exclusively the personal opinions of a single dentist"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91299,
+      question: "Community assessment data can be meaningfully compared with which of the following?",
+      options: [
+        "Previous years from the same community and surrounding areas",
+        "Random numbers generated without any defined source",
+        "Only data from a single household within the community",
+        "Data from unrelated industries with no health relevance"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91300,
+      question: "The concepts of health and disease prevention have expanded from an individual focus toward what?",
+      options: [
+        "A focus limited only to acute infectious diseases",
+        "A purely financial and profit-driven healthcare model",
+        "A human ecologic approach considering broad influences",
+        "A model that ignores social and environmental factors"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91301,
+      question: "Assessment is one of the three core functions of public health, along with policy development and assurance.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91302,
+      question: "In the epidemiologic triangle, the agent refers to the individual person who is potentially affected by the disease.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91303,
+      question: "Social determinants of health are primarily responsible for health inequities among populations.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91304,
+      question: "Quantitative data refer to information that cannot be numerically measured or analyzed.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91305,
+      question: "The first phase of the community needs assessment is to cultivate partnerships and select an advisory committee.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91306,
+      question: "A person-to-person interview is generally the least costly and least time-consuming data collection method.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+  ],
+  "4. Dental Indices (Part 2)": [
+    {
+      id: 91307,
+      question: "Public health surveillance is best defined as which of the following?",
+      options: [
+        "The one-time provision of clinical dental treatment to individual patients",
+        "The enforcement of laws that regulate private dental office practices",
+        "The marketing of new dental products to consumers across the nation",
+        "The ongoing systematic collection, analysis, and interpretation of health data"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91308,
+      question: "Which of the following are the four critical processes of surveillance?",
+      options: [
+        "Diagnosis, treatment, billing, and rehabilitation of patients",
+        "Data collection, analysis, interpretation, and dissemination",
+        "Funding, staffing, scheduling, and marketing of programs",
+        "Screening, referral, prevention, and clinical examination"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91309,
+      question: "Which of the following is a stated function of public health surveillance?",
+      options: [
+        "To replace the need for any clinical dental care in communities",
+        "To set the prices charged by private dentists for their services",
+        "To serve as an early warning system for impending health emergencies",
+        "To eliminate the role of government in public health entirely"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91310,
+      question: "In what year was the first landmark report of the Healthy People initiative issued?",
+      options: [
+        "1989",
+        "1979",
+        "1999",
+        "1969"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91311,
+      question: "Healthy People objectives are established for what length of time each cycle?",
+      options: [
+        "Ten-year national health objectives",
+        "Five-year national health objectives",
+        "Two-year national health objectives",
+        "Twenty-year national health objectives"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91312,
+      question: "Healthy People 2030 is which edition of the program?",
+      options: [
+        "The fifth edition of the program",
+        "The third edition of the program",
+        "The second edition of the program",
+        "The fourth edition of the program"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91313,
+      question: "Which agency oversaw and managed the development of Healthy People 2030?",
+      options: [
+        "The National Cancer Institute Surveillance Program alone",
+        "The Federal Interagency Workgroup on Healthy People 2030 (FIW)",
+        "The World Health Organization Tobacco Free Initiative",
+        "The Association of State and Territorial Dental Directors only"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91314,
+      question: "Which of the following is a component of the Healthy People 2030 framework?",
+      options: [
+        "A list of approved private dental products for nationwide sale",
+        "A schedule of fees that dentists must charge for procedures",
+        "A vision statement, mission statement, principles, and overarching goals",
+        "A directory of every licensed dentist working in the country"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91315,
+      question: "What does the Healthy People 2030 framework embrace as its approach to health improvement?",
+      options: [
+        "The elimination of all government involvement in health policy",
+        "A reliance only on private-sector profit to drive improvements",
+        "The determinants of health and the integration of health policies",
+        "A focus solely on treating disease rather than preventing it"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91316,
+      question: "As defined for Healthy People 2030, a health disparity refers to which of the following?",
+      options: [
+        "Any random natural difference in health that cannot be modified",
+        "A difference caused entirely by an individual's genetic make-up",
+        "An equal distribution of health resources across all populations",
+        "A health difference that is unfair due to social or economic disadvantage"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91317,
+      question: "Health equity is best described as which of the following?",
+      options: [
+        "A way to eliminate the need for any public health surveillance",
+        "A goal entailing special efforts to improve health of the disadvantaged",
+        "A method of restricting health services to wealthy populations only",
+        "A guarantee that all people will have identical health outcomes"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91318,
+      question: "Approximately what proportion of the Healthy People 2030 objectives clearly address health equity?",
+      options: [
+        "About 70%",
+        "About 10%",
+        "About 30%",
+        "About 50%"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91319,
+      question: "How many core measurable objectives does Healthy People 2030 contain?",
+      options: [
+        "455 core objectives",
+        "255 core objectives",
+        "355 core objectives",
+        "555 core objectives"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91320,
+      question: "The Healthy People 2030 objectives are organized by how many topic areas?",
+      options: [
+        "62 topic areas",
+        "72 topic areas",
+        "42 topic areas",
+        "52 topic areas"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91321,
+      question: "The leading health indicators (LHIs) are best described as which of the following?",
+      options: [
+        "A smaller set of high-priority health issues for the decade",
+        "A list of all private dental insurers in the country",
+        "A set of fees charged for dental services in clinics",
+        "A complete list of every objective across all topic areas"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91322,
+      question: "How many leading health indicators (LHIs) are identified for this decade?",
+      options: [
+        "33 LHIs",
+        "23 LHIs",
+        "43 LHIs",
+        "13 LHIs"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91323,
+      question: "Which statement describes a characteristic of the leading health indicators?",
+      options: [
+        "They focus on upstream measures like risk factors and behaviors",
+        "They focus only on disease outcomes rather than risk factors",
+        "They exclude any focus on social determinants of health",
+        "They remain identical and unchanged from one decade to the next"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91324,
+      question: "Oral Conditions in Healthy People 2030 is best described as which of the following?",
+      options: [
+        "One of the 62 topic areas by which objectives are organized",
+        "A survey conducted only in long-term care nursing facilities",
+        "A private organization that sells dental products nationally",
+        "A clinical index used to score caries on individual teeth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91325,
+      question: "Which Healthy People 2030 Oral Conditions objective is identified as a leading health indicator?",
+      options: [
+        "Increasing the proportion of persons with dental insurance",
+        "Reducing the consumption of calories from added sugars",
+        "Reducing the proportion of adults with moderate periodontitis",
+        "Increasing the proportion who use the oral healthcare system (OH-8a)"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91326,
+      question: "The National Oral Health Surveillance System (NOHSS) was established through collaboration between which entities?",
+      options: [
+        "The CDC Division of Oral Health and the ASTDD",
+        "The World Health Organization and the National Cancer Institute",
+        "The Federal Interagency Workgroup and the Agency for Quality",
+        "The American Dental Association and private insurance companies"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91327,
+      question: "What is the NOHSS designed to monitor?",
+      options: [
+        "The number of dental schools accredited within each U.S. state",
+        "The burden of oral disease, use of care, and water fluoridation status",
+        "The profits earned by private dental practices each fiscal year",
+        "The retail prices of toothpaste and other oral hygiene products"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91328,
+      question: "Oral health indicators tracked by the NOHSS are best described as which of the following?",
+      options: [
+        "A complete clinical diagnosis and treatment plan for each patient",
+        "A list of fees charged by dentists for preventive services",
+        "A standard set of minimal quantifiable characteristics of a population",
+        "A ranking of states by their total dental workforce numbers"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91329,
+      question: "What makes the National Health and Nutrition Examination Survey (NHANES) unique?",
+      options: [
+        "It relies entirely on data invented by survey administrators",
+        "It collects data only from private dental insurance claims",
+        "It combines interviews with physical (oral) examinations",
+        "It examines only the teeth of children attending Head Start"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91330,
+      question: "The Behavioral Risk Factor Surveillance System (BRFSS) is best described as which of the following?",
+      options: [
+        "A clinical examination performed only in nursing facilities",
+        "A registry tracking only oral and pharyngeal cancer deaths",
+        "A state-specific telephone survey assessing health behaviors",
+        "A household survey relying solely on physical examinations"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91331,
+      question: "The National Health Interview Survey (NHIS) primarily monitors health status using which method?",
+      options: [
+        "Remote analysis of digital photographs of participants' teeth",
+        "Personal household interviews on a broad range of health topics",
+        "Telephone calls limited strictly to tobacco-use questions",
+        "Clinical intraoral examinations conducted in dental offices"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91332,
+      question: "The Medical Expenditure Panel Survey (MEPS) collects information primarily about which of the following?",
+      options: [
+        "The cost and use of health care and health insurance coverage",
+        "The number of school-based dental sealant programs per state",
+        "The fluoride concentration of community public water systems",
+        "The clinical severity of periodontitis around individual teeth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91333,
+      question: "Basic screening for oral conditions involves which of the following?",
+      options: [
+        "Direct visual observation using a tongue blade, mirror, and lighting",
+        "Remote scoring of digital photographs by multiple expert examiners",
+        "A full clinical examination resulting in a complete treatment plan",
+        "Detailed visual-tactile assessment with dental instruments and a light"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91334,
+      question: "An epidemiologic examination differs from basic screening in that it entails which of the following?",
+      options: [
+        "A dichotomous yes/no observation made without any instruments",
+        "Detailed visual-tactile assessment with dental instruments and a light",
+        "Only a verbal questionnaire with no examination of the mouth",
+        "Remote scoring of photographs taken by community volunteers"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91335,
+      question: "Why is the basic screening approach generally not appropriate for research?",
+      options: [
+        "It produces data that cannot be compared among any populations",
+        "It can only be performed by licensed physicians, not examiners",
+        "It uses dichotomous (yes/no) measures rather than precise measures",
+        "It requires far more expensive equipment than research allows"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91336,
+      question: "Surveys used in community oral health assessment are best characterized as which of the following?",
+      options: [
+        "Long-term clinical studies that follow individuals for decades",
+        "Experimental trials that test new treatments on patient groups",
+        "Descriptive and cross-sectional, estimating status at a point in time",
+        "Diagnostic procedures that result in personalized treatment plans"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91337,
+      question: "Which organization designed the Basic Screening Survey tools for Preschool/School Children and Older Adults?",
+      options: [
+        "The World Health Organization (WHO) for global surveillance",
+        "The Federal Interagency Workgroup on Healthy People 2030",
+        "The Association of State and Territorial Dental Directors (ASTDD)",
+        "The National Institutes of Health (NIH) Cancer Institute"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91338,
+      question: "The WHO's Basic Oral Health Survey tool was designed primarily for which purpose?",
+      options: [
+        "Tracking the profits of dental practices in the United States",
+        "Global surveillance used by WHO member countries",
+        "Scoring fluorosis remotely from digital photographs only",
+        "Clinical diagnosis of individual patients in private offices"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91339,
+      question: "On the Basic Screening Survey, who may make observations of oral health status?",
+      options: [
+        "Only licensed physicians working in hospital emergency rooms",
+        "Dentists, dental hygienists, or other appropriate healthcare workers",
+        "Only researchers holding an advanced epidemiology doctorate",
+        "Only the survey participants themselves through self-report"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91340,
+      question: "A dental index is best defined as which of the following?",
+      options: [
+        "An abbreviated measurement of the amount or condition of oral disease",
+        "A complete written treatment plan for an individual dental patient",
+        "A list of the fees charged for various dental procedures performed",
+        "A directory of all dental clinics located within a given community"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91341,
+      question: "Which attribute of an effective dental index refers to its accuracy in measuring what is intended?",
+      options: [
+        "Sensitivity",
+        "Acceptability",
+        "Reliability",
+        "Validity"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91342,
+      question: "Which attribute of a dental index refers to measuring consistently with reproducible, stable results?",
+      options: [
+        "Validity",
+        "Utility",
+        "Specificity",
+        "Reliability"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91343,
+      question: "In the context of dental indices, sensitivity refers to which of the following?",
+      options: [
+        "The index correctly identifies the absence of the variable",
+        "Small degrees of difference in the variable can be detected",
+        "The criteria are clear, objective, and simple to calculate",
+        "Statistics can be applied to the data collected with the index"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91344,
+      question: "In a dental index, specificity refers to which of the following?",
+      options: [
+        "The index correctly identifies the absence of the variable",
+        "The index criteria are clinically meaningful overall",
+        "Small degrees of difference in the variable can be detected",
+        "The index measures consistently at different times"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91345,
+      question: "Which index is the best known and most widely used for measuring coronal caries?",
+      options: [
+        "The Decayed, Missing, Filled (DMF) Index",
+        "The Community Periodontal Index (CPI)",
+        "The Root Caries Index (RCI)",
+        "Dean's Fluorosis Index (DFI)"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91346,
+      question: "Why is the DMF index considered irreversible?",
+      options: [
+        "It measures only the current active decay in the mouth",
+        "It cannot be repeated once it has been scored one time",
+        "It can only be applied to primary teeth in young children",
+        "It indicates the cumulative, lifetime caries experience"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91347,
+      question: "In the DMF index, what does a high M (missing) component indicate?",
+      options: [
+        "That caries prevention efforts have completely succeeded",
+        "That no further preventive programs are needed at all",
+        "That the population is currently receiving adequate treatment",
+        "A need for education and earlier intervention to avoid extractions"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91348,
+      question: "In DMF scoring, what does a high F (filled) component indicate?",
+      options: [
+        "A need to immediately stop all treatment programs",
+        "That the population has no caries experience at all",
+        "That the population is receiving dental treatment",
+        "A failure of all caries prevention in the population"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91349,
+      question: "Why are lower-case letters (dmf, df, def) used instead of upper-case letters (DMF)?",
+      options: [
+        "To show that the index is used for fluorosis rather than caries",
+        "To indicate that the index measures periodontal disease instead",
+        "To signify the use of the index on primary teeth in children",
+        "To signify the use of the index only on adult permanent teeth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91350,
+      question: "The Early Childhood Caries (ECC) Classification system is based on which of the following?",
+      options: [
+        "The presence of swelling, color, and bleeding of gingiva",
+        "The number of dmf surfaces and the child's age",
+        "The percentage of root surfaces decayed or filled",
+        "The number of permanent teeth lost to tooth decay"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91351,
+      question: "The Root Caries Index (RCI) measurement is generally based on which of the following?",
+      options: [
+        "The number of quadrants showing any sign of gingival bleeding",
+        "The proportion of teeth lost specifically to periodontal disease",
+        "The total number of permanent molars sealed in the mouth",
+        "The proportion of root surfaces decayed or filled relative to those at risk"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91352,
+      question: "How is the presence of dental sealants traditionally assessed in populations?",
+      options: [
+        "Through analysis of dental insurance claims data only",
+        "Through a basic screening or epidemiologic examination procedure",
+        "Through telephone interviews asking participants to self-report",
+        "Through review of birth certificate records in each state"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91353,
+      question: "On the Basic Screening Survey, dental sealants are scored using which approach?",
+      options: [
+        "A remote digital photographic analysis by multiple examiners",
+        "A detailed per-surface count using a No. 23 explorer on all molars",
+        "A self-reported questionnaire completed by the participant",
+        "A dichotomous (yes/no) measure of at least one sealant, per person"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91354,
+      question: "Besides examining individuals, how does the ASTDD measure sealant use across states?",
+      options: [
+        "By tallying the number of dental schools located in each state",
+        "By assessing the number of school-based sealant programs per state",
+        "By counting the number of private dental offices in each state",
+        "By reviewing the fluoride concentration of each state's water"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91355,
+      question: "The term periodontal disease is best described as which of the following?",
+      options: [
+        "A condition measured only by counting the number of missing teeth",
+        "A disease that can only be assessed through self-report questions",
+        "A single, uniform disease entity affecting all teeth identically",
+        "A group of closely related different diseases with similar presentation"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91356,
+      question: "The Modified Gingival Index (MGI) was adapted from the Gingival Index by doing which of the following?",
+      options: [
+        "Adding a probing requirement to increase the precision of scoring",
+        "Combining gingivitis and periodontitis scores onto a single scale",
+        "Restricting its use to only the so-called Ramfjord teeth",
+        "Eliminating the probing requirement to avoid trauma and increase reliability"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91357,
+      question: "Why are composite periodontal indices now considered invalid and discarded?",
+      options: [
+        "They relied entirely on remote digital photographic analysis",
+        "They scored gingivitis and periodontitis on the same scale",
+        "They could only be used on primary teeth in young children",
+        "They required expensive equipment unavailable to most surveys"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91358,
+      question: "Recent NHANES surveys have measured periodontal status using which method?",
+      options: [
+        "Full-mouth clinical probing of every tooth by two dentists",
+        "Counting only the number of teeth lost to periodontal disease",
+        "Patient self-report of periodontal status and related factors",
+        "Remote scoring of digital photographs by expert examiners"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91359,
+      question: "Why was the periodontal disease objective age range changed to adults aged 45 and older?",
+      options: [
+        "The change was required by private dental insurance companies",
+        "Older adults were found to never develop periodontal disease",
+        "Younger adults were too difficult and costly to examine",
+        "Earlier sampling of only younger adults underestimated prevalence"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91360,
+      question: "The Community Periodontal Index (CPI) was developed by which organization?",
+      options: [
+        "The Centers for Disease Control and Prevention",
+        "The World Health Organization (WHO)",
+        "The American Academy of Periodontology",
+        "The Association of State and Territorial Dental Directors"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91361,
+      question: "The specific teeth historically measured in the Periodontal Disease Index (PDI) are known by what name?",
+      options: [
+        "The sentinel teeth",
+        "The marker teeth",
+        "The Ramfjord teeth",
+        "The index teeth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91362,
+      question: "Edentulism is best defined as which of the following?",
+      options: [
+        "The presence of at least one natural tooth in the mouth",
+        "Complete tooth loss, with no remaining teeth regardless of cause",
+        "The retention of all natural teeth into older adulthood",
+        "The loss of exactly six or more teeth from decay or gum disease"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91363,
+      question: "An individual with at least one natural tooth is described by which term?",
+      options: [
+        "Retained",
+        "Exfoliated",
+        "Edentulous",
+        "Dentate"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91364,
+      question: "In the 2020 NHANES, how was the cause of tooth loss handled during examination?",
+      options: [
+        "Tooth loss was not assessed at all in the 2020 survey period",
+        "No attempt was made to differentiate caries from periodontal causes",
+        "Only teeth lost to orthodontic treatment were recorded as missing",
+        "Every tooth was precisely classified by its specific cause of loss"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91365,
+      question: "It is recommended that tooth loss be measured in older adults using which approach?",
+      options: [
+        "A basic screening approach",
+        "A full epidemiologic examination only",
+        "Remote digital photographic analysis",
+        "Dental insurance claims review only"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91366,
+      question: "Which two programs collect population data on oral and pharyngeal cancer (OPC) occurrence?",
+      options: [
+        "The Behavioral Risk Factor System and the Medical Expenditure Survey",
+        "The World Health Organization and the Federal Interagency Workgroup",
+        "The Association of State and Territorial Dental Directors and the ADA",
+        "The CDC National Program of Cancer Registries and the NIH SEER program"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91367,
+      question: "What is identified as the biggest risk factor for oral and pharyngeal cancer (OPC)?",
+      options: [
+        "The presence of dental sealants on molars",
+        "The consumption of fluoridated drinking water",
+        "The retention of all natural teeth into old age",
+        "The use of tobacco in all of its forms"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91368,
+      question: "Data on the number of deaths resulting from OPC are obtained from which source?",
+      options: [
+        "Water Fluoridation Reporting System monitoring records",
+        "Death certificates collected through the National Vital Statistics System",
+        "Clinical sealant examinations performed in school programs",
+        "Self-reported telephone interviews conducted by the BRFSS"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91369,
+      question: "Why is detecting OPC at the earliest stage (Stage 1, localized) important?",
+      options: [
+        "It is associated with an increased survival rate",
+        "It eliminates the need for any tobacco surveillance",
+        "It increases the number of teeth a patient retains",
+        "It reduces the cost of community water fluoridation"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91370,
+      question: "The Global Tobacco Surveillance System (GTSS) was developed through collaboration among which entities?",
+      options: [
+        "The ASTDD, the ADA, and private dental insurance companies",
+        "The NIH, the SEER program, and state dental licensing boards",
+        "The CDC, the WHO, and the Canadian Public Health Association",
+        "The FIW, the MEPS program, and the National Cancer Institute"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91371,
+      question: "The Global Youth Tobacco Survey (GYTS) within the GTSS is conducted with which group?",
+      options: [
+        "Third-year dentistry and medicine students only",
+        "Adults aged 65 years and older in nursing homes",
+        "Teachers and administrators from participating schools",
+        "Youth aged 13–15 years in schools"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91372,
+      question: "On the older adult Basic Screening Survey, malocclusion is assessed by measuring which of the following?",
+      options: [
+        "The number of permanent teeth lost to periodontal disease only",
+        "The proportion of root surfaces that are decayed or filled",
+        "The presence of at least one dental sealant per person",
+        "Posterior functional contacts, indicating whether teeth oppose and function"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91373,
+      question: "How are craniofacial anomalies such as cleft lip and palate usually expressed in the U.S.?",
+      options: [
+        "As a dichotomous yes/no score during basic screening surveys",
+        "As a per-surface count using the Decayed, Missing, Filled index",
+        "As a self-reported telephone interview question on the BRFSS",
+        "As a proportion or rate based on recordings on birth certificates"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91374,
+      question: "Dean's Fluorosis Index (DFI), also called the Community Fluorosis Index (CFI), is used to measure what?",
+      options: [
+        "The proportion of root surfaces that are decayed or filled",
+        "The prevalence and severity of dental fluorosis in the population",
+        "The swelling, color, and bleeding of the gingival tissues",
+        "The cumulative lifetime caries experience in permanent teeth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91375,
+      question: "Dean's Fluorosis Index scores fluorosis on which scale?",
+      options: [
+        "A 0 to 4 scale representing categories from normal to severe",
+        "An ordinal scale of bleeding severity around each tooth",
+        "A 1 to 10 scale based on the number of teeth affected",
+        "A dichotomous yes/no scale of presence or absence only"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91376,
+      question: "Why is scoring nonfluoride opacities helpful when assessing fluorosis?",
+      options: [
+        "It allows fluorosis to be scored entirely through self-report",
+        "It speeds up the examination by eliminating the need to score teeth",
+        "It removes the need to differentiate fluorosis from caries lesions",
+        "It helps control for fluorosis measurement error and misclassification"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91377,
+      question: "Which is listed as an advantage of using digital imaging to score fluorosis?",
+      options: [
+        "It allows a tactile examination of all tooth surfaces directly",
+        "It is faster, easier, and more cost-effective than clinical examination",
+        "It provides a permanent record that can be archived for repeated scoring",
+        "It is entirely free of any technique sensitivity or image variation"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91378,
+      question: "Which is listed as an advantage of clinical examination (versus digital imaging) for fluorosis?",
+      options: [
+        "It can be kept for longitudinal assessment and examiner training",
+        "It allows blinding of examiners to minimize potential bias",
+        "It provides a permanent record that can be archived for later use",
+        "It is fast, easy, cost-effective, and allows a tactile examination"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91379,
+      question: "On the Basic Screening Survey, the urgency criterion is especially linked to which of the following?",
+      options: [
+        "The proportion of the population that is caries-free",
+        "The cumulative lifetime caries experience score",
+        "The presence of dental sealants on permanent molars",
+        "The need for referral for oral health care"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91380,
+      question: "Referral when a need for dental care is observed during screening is described as which of the following?",
+      options: [
+        "A task that can only be performed by a licensed physician",
+        "A necessary component and an ethical obligation",
+        "A practice that is discouraged in public health surveillance",
+        "An optional step left entirely to the examiner's discretion"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91381,
+      question: "Community water fluoridation is measured by which of the following?",
+      options: [
+        "The percentage of people served by optimally fluoridated public systems",
+        "The number of states that operate an oral cancer registry",
+        "The total number of dental sealants placed in school programs",
+        "The proportion of adults who have lost all of their natural teeth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91382,
+      question: "Surveillance data on the fluoridation status of public water systems are obtained from which source?",
+      options: [
+        "The Surveillance, Epidemiology, and End Results (SEER) program",
+        "The Medical Expenditure Panel Survey (MEPS)",
+        "The Water Fluoridation Reporting System (WFRS)",
+        "The Behavioral Risk Factor Surveillance System (BRFSS)"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91383,
+      question: "My Water's Fluoride is best described as which of the following?",
+      options: [
+        "A clinical index used to score dental fluorosis on a 0 to 4 scale",
+        "A registry of oral and pharyngeal cancer deaths by state and county",
+        "A source of fluoridation surveillance information available to the public",
+        "A telephone survey of adult behaviors that influence health status"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91384,
+      question: "A common measure of access to and use of the oral healthcare system is which of the following?",
+      options: [
+        "Having a dental visit in the past year, called dental attendance",
+        "The cumulative lifetime caries experience measured by the DMF index",
+        "The percentage of people served by fluoridated water systems",
+        "The number of root surfaces that are decayed or filled per person"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91385,
+      question: "The biennial National Study of Long-Term Care Providers (NSLTCP) collects data from which sources?",
+      options: [
+        "Administrators of residential care communities and adult day services centers",
+        "Third-year students pursuing degrees in dentistry and medicine",
+        "State and tribal fluoridation managers monitoring water quality",
+        "School teachers and administrators participating in tobacco surveys"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91386,
+      question: "Oral health-related quality of life (OHRQOL) builds on which broader concepts?",
+      options: [
+        "The leading health indicators and the core public health functions",
+        "Quality of life (QOL) and health-related quality of life (HRQOL)",
+        "The Decayed, Missing, Filled index and the Root Caries Index",
+        "Basic screening surveys and full epidemiologic examinations"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91387,
+      question: "Measuring health-related quality of life (HRQOL) is characterized as which of the following?",
+      options: [
+        "Possible only through clinical intraoral examination procedures",
+        "Restricted to counting the number of teeth lost in a population",
+        "Subjective and based on an individual's self-report of perceptions",
+        "Entirely objective and easier to measure than health outcomes"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91388,
+      question: "How is OHRQOL primarily measured?",
+      options: [
+        "By measuring physical, psychological, and social dimensions with questionnaires",
+        "By reviewing dental insurance claims and cost data from insurers",
+        "By scoring fluorosis remotely from digital photographs of teeth",
+        "By counting the number of decayed, missing, and filled teeth only"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91389,
+      question: "A state dental public health program organized within a state health department is referred to as which of the following?",
+      options: [
+        "A Global Tobacco Surveillance System program",
+        "A Federally Qualified Health Center program",
+        "A National Oral Health Surveillance System",
+        "A State Oral Health Program (SOHP)"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91390,
+      question: "Assessment of the infrastructure and capacity of the oral healthcare system involves examining which components?",
+      options: [
+        "Only the fluoride concentration of community water systems",
+        "Only the number of teeth lost to caries in the population",
+        "Funding, workforce, resources, program structure, and activities",
+        "Only the retail prices of toothpaste and oral hygiene products"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91391,
+      question: "The ASTDD Guidelines for State and Territorial Health Programs are framed around which foundation?",
+      options: [
+        "The core public health functions and 10 essential public health services",
+        "The seven attributes of an effective clinical dental index",
+        "The eight competency domains used to certify health educators",
+        "The five overarching goals of the Healthy People 2030 framework"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91392,
+      question: "The ASTDD Competencies for State Oral Health Programs are categorized under how many domains?",
+      options: [
+        "Five domains",
+        "Twelve domains",
+        "Seven domains",
+        "Ten domains"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91393,
+      question: "Which is one of the competency domains for strong state oral health programs?",
+      options: [
+        "Build Support with stakeholders to promote oral health",
+        "Accredit dental schools located within each U.S. state",
+        "Set retail prices for dental products sold to consumers",
+        "Eliminate all government involvement in public health"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91394,
+      question: "How does the ASTDD serve as an evaluation mechanism for state oral health programs?",
+      options: [
+        "By annually surveying SOHPs to collect data on best-practice parameters",
+        "By setting the fees that dentists must charge for their services",
+        "By performing clinical examinations on every resident of each state",
+        "By directly funding every local fluoride varnish program nationwide"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91395,
+      question: "Which is identified as a major challenge for state oral health surveillance moving forward?",
+      options: [
+        "A complete absence of any oral diseases in the population",
+        "An excess of federal funding that cannot be spent in time",
+        "Too many trained dental public health professionals available",
+        "Limited infrastructure, insufficient resources, and workforce shortages"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91396,
+      question: "Reliability analyses from recent NHANES periods showed that using dental hygienists as examiners resulted in which of the following?",
+      options: [
+        "A complete inability to measure caries, sealants, or probing depths",
+        "Data quality far below the acceptable level for surveillance",
+        "An acceptable level of data quality similar to using dentists",
+        "Results that could not be compared with dentist examinations"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91397,
+      question: "Compared with an epidemiological survey using the DMFT index, the unit cost of a BSS screening is which of the following?",
+      options: [
+        "More cost-efficient",
+        "Far more expensive",
+        "Impossible to determine",
+        "Exactly equal in cost"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91398,
+      question: "How have states reported success in finding cost-efficient methods of oral health surveillance?",
+      options: [
+        "By ending participation in the National Oral Health Surveillance System",
+        "By linking to existing systems and adding self-report oral health questions",
+        "By relying solely on private dental practices to report data",
+        "By eliminating all data collection on oral health indicators"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91399,
+      question: "Public health surveillance is the ongoing systematic collection, analysis, and interpretation of health-related data.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91400,
+      question: "Healthy People objectives are established each cycle as twenty-year national health objectives.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91401,
+      question: "The Decayed, Missing, Filled (DMF) Index is considered irreversible because it reflects cumulative lifetime caries experience.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91402,
+      question: "An epidemiologic examination uses only direct visual observation with a tongue blade and no dental instruments.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91403,
+      question: "The use of tobacco in all of its forms is the biggest risk factor for oral and pharyngeal cancer.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91404,
+      question: "Composite periodontal indices that scored gingivitis and periodontitis on the same scale are still considered valid today.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91405,
+      question: "Edentulism refers to complete tooth loss, meaning no remaining teeth regardless of the cause of loss.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91406,
+      question: "Dean's Fluorosis Index scores fluorosis on a dichotomous yes/no scale of presence or absence only.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91407,
+      question: "The National Oral Health Surveillance System (NOHSS) was established through collaboration between the CDC Division of Oral Health and the ASTDD.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+  ],
+  "5. Population Health": [
+    {
+      id: 91408,
+      question: "How many oral diseases and conditions account for most of the global oral disease burden?",
+      options: [
+        "Three oral diseases and conditions",
+        "Five oral diseases and conditions",
+        "Seven oral diseases and conditions",
+        "Nine oral diseases and conditions"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91409,
+      question: "Which oral condition is the most prevalent worldwide?",
+      options: [
+        "Oral and pharyngeal cancer",
+        "Untreated dental caries",
+        "Severe periodontitis",
+        "Cleft lip and cleft palate"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91410,
+      question: "Noma (cancrum oris) is best described as which of the following?",
+      options: [
+        "A reversible gum inflammation caused by poor oral hygiene",
+        "A disfiguring form of gangrene that destroys orofacial tissues",
+        "A malignant squamous cell tumor of the tongue and pharynx",
+        "A common birth defect affecting the lip and palate of newborns"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91411,
+      question: "Noma primarily occurs in which group?",
+      options: [
+        "Adolescents with high socioeconomic status and education",
+        "Wealthy older adults with excellent access to dental care",
+        "Young malnourished children aged 2 to 6 years in extreme poverty",
+        "Middle-aged adults in highly developed urban nations"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91412,
+      question: "The Pan American Health Organization (PAHO) is best described as which of the following?",
+      options: [
+        "The WHO Regional Office for the Americas tracking oral health indicators",
+        "A private company that sells dental insurance across the nation",
+        "A federal agency that licenses dentists in the United States",
+        "An organization that funds all school-based sealant programs"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91413,
+      question: "Dental caries is described in the chapter as which of the following?",
+      options: [
+        "A genetic disorder present at birth in most newborns",
+        "A rare condition that affects only older adults in poverty",
+        "A disease that has been completely eradicated in the U.S.",
+        "One of the most common and preventable chronic diseases of children"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91414,
+      question: "According to the chapter, the burden of oral diseases in the U.S. is best described as which of the following?",
+      options: [
+        "Limited entirely to people living in large urban cities",
+        "Spread unevenly throughout the population, with profound disparities",
+        "Distributed equally and fairly across all population groups",
+        "Concentrated only among wealthy, well-insured individuals"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91415,
+      question: "Which groups are noted as experiencing the poorest oral health?",
+      options: [
+        "Only middle-income adults living in suburban communities",
+        "The poor of all ages, especially children and older adults in poverty",
+        "Wealthy individuals with private dental insurance coverage",
+        "People living exclusively in fluoridated urban areas"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91416,
+      question: "Socioeconomic status (SES) is associated with oral diseases because individuals in poverty do which of the following?",
+      options: [
+        "Experience fewer serious consequences from oral disease",
+        "Have greater access to care and higher oral health literacy",
+        "Receive more frequent preventive dental visits than others",
+        "Lack resources for preventive care and have lower oral health literacy"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91417,
+      question: "Among adolescents 14 to 17 years old, dental caries has been reported to be how common compared with asthma?",
+      options: [
+        "Six times more common than asthma",
+        "Four times more common than asthma",
+        "Eight times more common than asthma",
+        "Two times more common than asthma"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91418,
+      question: "What is identified as a cause of the general decline in caries prevalence in children since the 1980s?",
+      options: [
+        "Community water fluoridation, other fluorides, and dental sealants",
+        "A reduction in the total number of children in the population",
+        "The complete removal of fluoride from public water systems",
+        "The elimination of all sugar from children's diets nationwide"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91419,
+      question: "How does the prevalence of caries experience in children relate to family income?",
+      options: [
+        "Caries experience decreases as family income increases",
+        "Caries experience is unrelated to family income at all",
+        "Caries experience is identical across all income levels",
+        "Caries experience increases as family income increases"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91420,
+      question: "According to the Oral Health Surveillance Report (2011–2016), what percentage of adults 65 and older had experienced dental caries?",
+      options: [
+        "About 56%",
+        "Over 96%",
+        "About 76%",
+        "About 36%"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91421,
+      question: "Despite their effectiveness, dental sealants are described in the chapter as which of the following?",
+      options: [
+        "Equally distributed across all income and racial groups",
+        "Underutilized, with most states not meeting the need in high-risk schools",
+        "Overused in nearly every school across the entire nation",
+        "Required by federal law for all children in public schools"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91422,
+      question: "In the 3–5-year-old group, children from low-income families had a higher rate of sealants in primary teeth likely because of which factors?",
+      options: [
+        "A federal law banning sealants for higher-income children",
+        "A complete lack of access to any dental care services",
+        "Higher caries risk and an increase in Medicaid coverage",
+        "Lower caries risk and reduced need for any treatment"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91423,
+      question: "Community water fluoridation is described as which of the following?",
+      options: [
+        "A method that increases oral health disparities in communities",
+        "A cornerstone of dental caries prevention benefiting all ages and SES",
+        "A program available exclusively in rural farming communities",
+        "A treatment that benefits only wealthy, well-insured adults"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91424,
+      question: "What is the Healthy People 2030 goal for the proportion of people served by optimally fluoridated community water systems?",
+      options: [
+        "87.1% by 2030",
+        "57.1% by 2030",
+        "77.1% by 2030",
+        "67.1% by 2030"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91425,
+      question: "In 2016, the proportion of the U.S. population with access to fluoridated community water was 72.8%, a drop attributed to which factor?",
+      options: [
+        "A sudden decision by most states to stop fluoridating water",
+        "A federal law that banned community water fluoridation",
+        "A large decrease in the total U.S. population that year",
+        "A methodology change in data analysis introduced that year"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91426,
+      question: "Of the 30 largest U.S. cities, which one is noted as not being fluoridated?",
+      options: [
+        "Boston, Massachusetts",
+        "Phoenix, Arizona",
+        "Houston, Texas",
+        "Portland, Oregon"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91427,
+      question: "In the 2009–2014 NHANES, periodontitis was classified using case definitions developed by which collaboration?",
+      options: [
+        "A workgroup of the CDC and the American Academy of Periodontology",
+        "The World Health Organization and the National Cancer Institute",
+        "The American Dental Association and private insurance companies",
+        "The Health Resources and Services Administration and the ADEA"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91428,
+      question: "The 2009–2014 NHANES results revealed that what percentage of adults 30 and older sampled had periodontitis?",
+      options: [
+        "32%",
+        "52%",
+        "42%",
+        "62%"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91429,
+      question: "According to the 2009–2014 NHANES, which group had the highest prevalence of severe periodontitis?",
+      options: [
+        "Adults aged 65 years and older, and smokers",
+        "Children under 18 years from high-income families",
+        "Non-Hispanic white adults above 400% of the poverty level",
+        "Adults aged 30 to 44 years who were nonsmokers"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91430,
+      question: "The most recent clinical gingivitis data (NHANES III, 1988–1994) indicated that what proportion of adults 35–44 had gingivitis?",
+      options: [
+        "Nearly all (90%)",
+        "Nearly half (48%)",
+        "About one-tenth (10%)",
+        "About one-quarter (25%)"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91431,
+      question: "According to the Oral Health Surveillance Report, the prevalence of complete edentulism in adults 65 and older during 2011–2016 was which of the following?",
+      options: [
+        "27.3%, unchanged from 27.2% in 1999–2004",
+        "7.3%, a decrease from 17.2% in 1999–2004",
+        "37.3%, an increase from 27.2% in 1999–2004",
+        "17.3%, a decrease from 27.2% in 1999–2004"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91432,
+      question: "The American College of Prosthodontists anticipates tooth loss and the need for denture care to do which of the following in upcoming decades?",
+      options: [
+        "Remain exactly the same as it was in the 1960s",
+        "Decrease, because fewer people will reach older adulthood",
+        "Increase, because of the increasing numbers of older adults",
+        "Disappear entirely as dental care continues to improve"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91433,
+      question: "Most oral and pharyngeal cancers (OPC) are which type of malignancy?",
+      options: [
+        "Sarcomas",
+        "Squamous cell carcinomas",
+        "Adenocarcinomas",
+        "Basal cell carcinomas"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91434,
+      question: "OPC linked to human papillomavirus (HPV) tend to occur in patients who are which of the following?",
+      options: [
+        "Exclusively female with no history of any tobacco use",
+        "Older, with heavy tobacco and alcohol use and lower SES",
+        "Equally distributed across all age and socioeconomic groups",
+        "Younger, with less tobacco and alcohol exposure and higher SES"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91435,
+      question: "According to the 2017–2018 NHANES, who performed the majority of reported oral cancer examinations?",
+      options: [
+        "Other non-dental professionals (nearly 77%)",
+        "Medical professionals (nearly 77%)",
+        "The patient's dentist (nearly 77%)",
+        "The patient's dental hygienist (nearly 77%)"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91436,
+      question: "Cleft lip (CL) and cleft palate (CP) are described in the chapter as which of the following?",
+      options: [
+        "A rare form of oral cancer in newborns",
+        "A reversible condition treated without surgery",
+        "A disease caused only by poor oral hygiene",
+        "The most common birth defects"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91437,
+      question: "Which is identified as a maternal risk factor for the fetus developing cleft lip or cleft palate?",
+      options: [
+        "Receiving regular preventive dental care during pregnancy",
+        "Maintaining a healthy diet and weight during pregnancy",
+        "Smoking, alcohol overuse, or certain epilepsy medicines during pregnancy",
+        "Drinking optimally fluoridated water during pregnancy"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91438,
+      question: "Care for individuals with orofacial clefts is described as most effective when delivered by which approach?",
+      options: [
+        "A multidisciplinary team providing services across the lifespan",
+        "A single general dentist working alone in private practice",
+        "Self-care by the family with no professional involvement",
+        "A one-time surgery requiring no further follow-up care"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91439,
+      question: "Approximately what proportion of craniofacial injuries are sports related?",
+      options: [
+        "About one-third",
+        "About two-thirds",
+        "About three-quarters",
+        "About one-half"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91440,
+      question: "Which interventions are recommended to reduce craniofacial injuries, especially during organized sports?",
+      options: [
+        "Passenger restraints, helmets, protective gear, and mouth guards",
+        "More frequent professional teeth cleanings for all athletes",
+        "Mandatory dental sealants for all school-aged children",
+        "Increased fluoride in community drinking water supplies"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91441,
+      question: "Most current fluorosis research focuses on which population and why?",
+      options: [
+        "Newborns, to track birth defects related to maternal nutrition",
+        "Adolescents, to evaluate effects of a lifetime of increased fluoride exposure",
+        "Older adults, to study tooth loss from periodontal disease",
+        "Middle-aged adults, to measure their dental insurance coverage"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91442,
+      question: "After analyzing the 2011–2014 fluorosis data, the CDC National Center for Health Statistics suggested which of the following?",
+      options: [
+        "The increase in prevalence was not biologically plausible and a measurement error may have occurred",
+        "The increase was fully accurate and required no further review",
+        "Fluorosis had been completely eliminated from the population",
+        "Fluorosis could no longer be measured using any known index"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91443,
+      question: "What is the current primary model for oral health care in the U.S.?",
+      options: [
+        "A fully government-run universal dental care system",
+        "A system in which all care is delivered through schools",
+        "The private practice delivery model with a safety net",
+        "A nonprofit-only model with no private practices"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91444,
+      question: "The dental safety net is best described as which of the following?",
+      options: [
+        "A network available only to wealthy, fully insured patients",
+        "A program that guarantees free dental care to every citizen",
+        "A single uniform national system with identical services everywhere",
+        "A patchwork of organizations and providers that is not uniform among communities"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91445,
+      question: "Under the private practice model, where do most dentists tend to locate?",
+      options: [
+        "Primarily in low-income and rural underserved areas",
+        "In high-income areas that can support them, more than low-income areas",
+        "Evenly across high-income and low-income areas alike",
+        "Only in government facilities and public health clinics"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91446,
+      question: "Which of the following is listed as an internal barrier to accessing oral health care?",
+      options: [
+        "Dental hygiene supervision requirements set by law",
+        "Fear of dental care and lack of awareness of oral health importance",
+        "Lack of availability of providers in the community",
+        "Narrow scope of dental hygiene practice in the state"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91447,
+      question: "Which of the following is listed as an external barrier to accessing oral health care?",
+      options: [
+        "Low personal health literacy and lack of education",
+        "Fear of dental care and denial of one's diagnosis",
+        "Lack of availability of providers and lack of transportation",
+        "Personal cultural values, habits, and individual attitudes"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91448,
+      question: "The number of children, adolescents, and adults who used the oral healthcare system in the previous year was described as which of the following for Healthy People 2020?",
+      options: [
+        "An unmeasurable benchmark",
+        "A developmental objective only",
+        "A leading health indicator",
+        "A discontinued objective"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91449,
+      question: "Nearly what proportion of 2017–2018 NHANES participants reported being unable to obtain needed dental care during the previous year?",
+      options: [
+        "Nearly 20%",
+        "Nearly 80%",
+        "Nearly 40%",
+        "Nearly 60%"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91450,
+      question: "Which factors are cited as explaining a decrease in financial barriers to dental care from 1997 to 2016?",
+      options: [
+        "An increase in the cost of all dental procedures nationwide",
+        "A reduction in the total number of dentists in practice",
+        "Economic recovery, flattening of dental fees, and more public coverage",
+        "The elimination of Medicaid and CHIP dental coverage"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91451,
+      question: "Dental insurance coverage is also referred to as which of the following?",
+      options: [
+        "Out-of-pocket payment",
+        "Direct patient payment",
+        "Fee-for-service payment",
+        "Third-party payment"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91452,
+      question: "About what proportion of insured individuals have private dental insurance versus public benefits?",
+      options: [
+        "About one-third private and about two-thirds public",
+        "Nearly all private and almost none public",
+        "About half private and about half public",
+        "About two-thirds private and about one-third public"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91453,
+      question: "How does private dental insurance differ from private health insurance?",
+      options: [
+        "Dental-plan premiums cost less, but enrollees pay greater out-of-pocket costs",
+        "Dental and health plans have identical premiums and out-of-pocket costs",
+        "Dental-plan premiums cost more, and enrollees pay less out-of-pocket",
+        "Dental plans require no premiums and cover all costs fully"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91454,
+      question: "Medicare is best described in relation to dental coverage as which of the following?",
+      options: [
+        "A program covering all routine dental care for low-income children",
+        "A state program that fully funds dental care for pregnant women",
+        "The primary source of comprehensive dental coverage for older adults",
+        "A health program for older adults that is not a current source of dental coverage"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91455,
+      question: "Under Medicaid, dental coverage is required for which group as part of EPSDT benefits?",
+      options: [
+        "All adult enrollees",
+        "All child enrollees",
+        "Only pregnant women",
+        "Only older adults"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91456,
+      question: "Medicaid minimum dental benefits for children must cover which of the following?",
+      options: [
+        "Relief of pain and infections, tooth restoration, and health maintenance",
+        "Only hospital-based oral surgery for medical conditions",
+        "Only cosmetic procedures such as whitening and veneers",
+        "Only orthodontic treatment for adolescents and adults"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91457,
+      question: "Adult dental coverage under Medicaid is best described as which of the following?",
+      options: [
+        "Federally required to be comprehensive in every state",
+        "Considered optional, with states determining what benefits are provided",
+        "Identical to children's coverage in all 50 states",
+        "Prohibited by federal law in all circumstances"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91458,
+      question: "CHIP is best described as which of the following?",
+      options: [
+        "A federal program providing dental coverage only to older adults",
+        "A private insurance plan purchased directly by individuals",
+        "A joint state-federal program financing coverage for children not eligible for Medicaid",
+        "A program that covers only emergency adult dental care"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91459,
+      question: "In the indemnity (fee-for-service) dental benefits plan, reimbursement is based on which of the following?",
+      options: [
+        "A barter exchange of goods between provider and patient",
+        "The usual, customary, and reasonable (UCR) fee",
+        "A flat encounter fee regardless of services provided",
+        "A fixed capitation payment per enrolled patient"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91460,
+      question: "Capitation as a payment mechanism is best described as which of the following?",
+      options: [
+        "A fee set for each service and charged each time it is performed",
+        "Reimbursement based on an average of fees for a geographic area",
+        "A negotiated exchange of goods or services without using money",
+        "A fixed payment for all or most care a group needs during a contract period"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91461,
+      question: "A copayment is best described as which of the following?",
+      options: [
+        "A percentage of the fee that the patient must pay each visit",
+        "An amount paid out of pocket before insurance begins to pay",
+        "A maximum dollar limit the plan will pay each year",
+        "A fixed amount the patient pays at each visit to discourage overuse"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91462,
+      question: "A deductible is best described as which of the following?",
+      options: [
+        "A fixed dollar amount paid by the patient at each visit",
+        "An amount the patient must pay out of pocket before the plan pays",
+        "A percentage of each fee shared between patient and plan",
+        "The maximum dollar amount a plan will pay each year"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91463,
+      question: "National dental care expenditures in 2016 were approximately which of the following?",
+      options: [
+        "About $12 billion, accounting for 30% of all healthcare expenditures",
+        "About $124 billion, accounting for 3.7% of all healthcare expenditures",
+        "About $500 billion, accounting for 25% of all healthcare expenditures",
+        "About $50 billion, accounting for 15% of all healthcare expenditures"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91464,
+      question: "The decline in uninsured children from 15.8% in 2010 to 10.3% in 2015 is attributed to which factor?",
+      options: [
+        "A reduction in the total number of children in the U.S.",
+        "The elimination of Medicaid dental benefits for children",
+        "The increase in children's dental coverage resulting from the ACA",
+        "A federal law banning private dental insurance for children"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91465,
+      question: "The dental insurance situation for adults aged 65 and older is described as which of the following?",
+      options: [
+        "Fully provided through the Medicare program for all seniors",
+        "Better than coverage for any other adult age group",
+        "A staggering dearth of coverage, with about 62% uninsured in 2014",
+        "Comprehensive coverage, with nearly all older adults insured"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91466,
+      question: "The current dental workforce is described in relation to need and demand as which of the following?",
+      options: [
+        "Unable to meet present-day need and demand because of inadequate supply",
+        "Shrinking only because demand for care is rapidly declining",
+        "More than sufficient to meet all current and future demand",
+        "Exactly balanced with present-day need and demand"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91467,
+      question: "Based on DHHS projections, what was expected regarding dentists by 2025?",
+      options: [
+        "The complete elimination of the dental profession",
+        "A significant surplus of dentists",
+        "A significant shortage of dentists",
+        "An exact balance of supply and demand"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91468,
+      question: "The dentist-to-population ratio in 2018 was estimated at approximately which of the following?",
+      options: [
+        "About 61 dentists per 100,000 people",
+        "About 100 dentists per 100,000 people",
+        "About 30 dentists per 100,000 people",
+        "About 150 dentists per 100,000 people"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91469,
+      question: "Dental hygiene is described as having which employment outlook?",
+      options: [
+        "No expected change in employment levels through 2028",
+        "An expected decline of 11% through 2028 as demand falls",
+        "A complete elimination of the profession by 2028",
+        "An expected growth of 11% through 2028, among the fastest-growing occupations"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91470,
+      question: "Where do dental therapists practice primarily?",
+      options: [
+        "Only in hospital operating rooms performing surgery",
+        "Exclusively in private high-income suburban practices",
+        "In public health settings, though more are entering private practice",
+        "Solely in dental schools as classroom instructors"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91471,
+      question: "Regarding diversity of the oral health workforce, the chapter notes which trend?",
+      options: [
+        "Nonwhite dental hygiene graduates decreased steadily after 2011",
+        "Nonwhite dental hygiene graduates increased from 23.8% in 2011 to 31.8% in 2018",
+        "The workforce became entirely white between 2011 and 2018",
+        "Diversity figures remained completely unchanged since 2011"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91472,
+      question: "The number of accredited dental hygiene programs increased dramatically from which figures?",
+      options: [
+        "From 56 in 1990 to 66 in 2018",
+        "From 66 in 1990 to 56 in 2018",
+        "From 327 in 1990 to 202 in 2018",
+        "From 202 in 1990 to 327 in 2018"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91473,
+      question: "Maldistribution of dental professionals contributes to poor access to dental care, especially in which areas?",
+      options: [
+        "Rural and inner-city areas",
+        "Areas with the highest dentist-to-population ratios",
+        "Wealthy suburban areas",
+        "Densely populated downtown areas"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91474,
+      question: "A dental health professional shortage area (dental HPSA) is identified by which agency?",
+      options: [
+        "The Health Resources and Services Administration (HRSA)",
+        "The Association of State and Territorial Dental Directors",
+        "The American Dental Association (ADA)",
+        "The Centers for Disease Control and Prevention (CDC)"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91475,
+      question: "A HPSA dental designation occurs when the population-to-provider ratio is higher than which threshold?",
+      options: [
+        "10,000 to 1",
+        "500 to 1",
+        "5,000 to 1",
+        "1,000 to 1"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91476,
+      question: "HRSA scores a dental HPSA on a scale of 0 to 26, with a higher score indicating which of the following?",
+      options: [
+        "Lesser need",
+        "No need at all",
+        "An adequate workforce",
+        "Greater need"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91477,
+      question: "The number of dental HPSAs designated by HRSA has done which of the following over time?",
+      options: [
+        "Decreased steadily, from 6782 in 1993 to 792 in 2019",
+        "Been eliminated entirely by the year 2019",
+        "Remained exactly the same from 1993 to 2019",
+        "Grown exponentially, from 792 in 1993 to 6782 in 2019"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91478,
+      question: "In 2018, about what proportion of dentists accepted Medicaid or CHIP for child dental services?",
+      options: [
+        "About 19%",
+        "About 39%",
+        "About 89%",
+        "About 69%"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91479,
+      question: "To strengthen the dental public health infrastructure, the chapter recommends which of the following?",
+      options: [
+        "Legal authority to use personnel efficiently and cost-effectively",
+        "Eliminating direct reimbursement for dental hygienists",
+        "Limiting the scope of practice for dental therapists further",
+        "Reducing the total number of dental hygienists in practice"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91480,
+      question: "The number of older adults (ages 65 and over) is expected to do which of the following during 2016–2060?",
+      options: [
+        "Almost double, from 49.2 million to 94.7 million",
+        "Decrease by about half over the period",
+        "Remain completely unchanged through 2060",
+        "Fall below the number of children by 2034"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91481,
+      question: "How is racial diversity of the U.S. population expected to change by 2060?",
+      options: [
+        "Increase, with the non-Hispanic white population decreasing to 44.3%",
+        "Remain completely unchanged from current levels",
+        "Decrease, with the non-Hispanic white population growing sharply",
+        "Become entirely non-Hispanic white across the nation"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91482,
+      question: "The ASTDD evaluation of state oral health program (SOHP) infrastructure generally demonstrated which finding?",
+      options: [
+        "That infrastructure and capacity were universally excellent",
+        "That SOHPs no longer needed any federal or state funding",
+        "A need to strengthen the infrastructure and capacity of SOHPs",
+        "That all SOHPs were fully staffed and adequately funded"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91483,
+      question: "According to the ASTDD, placing dental public health programs under a broader organizational umbrella has which effect?",
+      options: [
+        "It guarantees full funding for the oral health program",
+        "It greatly increases the effectiveness of the program",
+        "It has no effect whatsoever on program effectiveness",
+        "It reduces the effectiveness of a state oral health program"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91484,
+      question: "The ASTDD recommends that a state dental director should have which of the following?",
+      options: [
+        "A full-time position with a dental background and public health experience",
+        "A part-time position with no dental or public health background",
+        "A temporary contract position lasting less than one year",
+        "A purely administrative role with no clinical knowledge required"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91485,
+      question: "In the 2011 Pew evaluation, how did most states perform against the policy benchmarks for children's oral health?",
+      options: [
+        "The benchmarks could not be measured for any state",
+        "Most did not have key policies in place, and no state met all benchmarks",
+        "Nearly every state met all of the policy benchmarks",
+        "All states exceeded every benchmark by a wide margin"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91486,
+      question: "SOHPs are described as being funded by which of the following?",
+      options: [
+        "A single source of funding from private dental insurers",
+        "Out-of-pocket payments collected directly from patients",
+        "Profits earned from selling dental products to consumers",
+        "A variety of means, including state revenues, foundations, and federal grants"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91487,
+      question: "Community health centers are best described as which of the following?",
+      options: [
+        "Private dental offices located in high-income suburban areas",
+        "Federal hospitals that provide only emergency surgical care",
+        "Community-based, patient-directed organizations serving vulnerable populations",
+        "For-profit clinics serving only well-insured wealthy patients"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91488,
+      question: "What proportion of community health center patients receive oral health services?",
+      options: [
+        "More than 90%, because all centers provide dental care",
+        "None, because centers do not offer any oral health care",
+        "Less than 25%, because not all centers have an oral health component",
+        "Exactly 50%, evenly split among all patients served"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91489,
+      question: "Teledentistry (TD) is best described as which of the following?",
+      options: [
+        "A model that expands capacity by providing a remote workforce",
+        "A method available only to wealthy, fully insured patients",
+        "A system that eliminates the need for any licensed dentists",
+        "A program that replaces all in-person dental care nationwide"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91490,
+      question: "How does teledentistry help reach underserved areas with no dentists?",
+      options: [
+        "It removes the need for any oral health professionals at all",
+        "It requires every patient to travel to a distant dental office",
+        "It limits care strictly to patients in large urban centers",
+        "Nondentists onsite consult with remote dentists to expand the workforce"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91491,
+      question: "Which is identified as a barrier that still limits the use of teledentistry?",
+      options: [
+        "A complete lack of any technology to support remote care",
+        "Varying state laws and inconsistent insurance reimbursement",
+        "Federal laws that prohibit teledentistry in every state",
+        "A total absence of patient demand for remote dental care"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91492,
+      question: "In the Alaska Tribal Health System program, who provides dental services to isolated rural regions where there are no dentists?",
+      options: [
+        "Traveling private-practice oral surgeons",
+        "Out-of-state volunteer dental students",
+        "Alaska Dental Health Aide Therapists (DHATs)",
+        "Hospital-based emergency room physicians"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91493,
+      question: "Which factor is expected to impact future changes in the oral health workforce?",
+      options: [
+        "The elimination of every dental school in the country",
+        "A total end to all interprofessional collaborative practice",
+        "A complete halt to all immigration into the United States",
+        "Expanded scope of practice for dental hygienists and dental therapists"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91494,
+      question: "According to the chapter's Guiding Principles, what is described as critical for improved oral health outcomes to come to fruition?",
+      options: [
+        "Political will at all government levels",
+        "The complete privatization of all dental care",
+        "The removal of all public health programs",
+        "An end to community water fluoridation efforts"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91495,
+      question: "Which is listed as a key element necessary to achieve improved oral health in future decades?",
+      options: [
+        "A reduction in the diversity of the dental workforce nationwide",
+        "Fewer partnerships between public and private agencies",
+        "Elimination of evidence-based population-based interventions",
+        "A culturally diverse, educated, competent dental public health workforce"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91496,
+      question: "Untreated dental caries is the most prevalent oral condition worldwide.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91497,
+      question: "Noma primarily occurs in wealthy older adults who have excellent access to dental care.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91498,
+      question: "Community water fluoridation benefits Americans of all ages and socioeconomic status and helps reduce oral health disparities.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91499,
+      question: "Medicare is currently a major source of comprehensive dental coverage for adults aged 65 and older.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91500,
+      question: "Under Medicaid, dental coverage is required for all child enrollees as part of EPSDT benefits.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91501,
+      question: "A dental health professional shortage area (HPSA) is designated when the population-to-provider ratio is higher than 5,000 to 1.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91502,
+      question: "Most dentists in the U.S. choose to practice in low-income and rural underserved areas rather than high-income areas.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91503,
+      question: "Teledentistry can expand the capacity of state oral health programs and community health centers by providing a remote workforce.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91504,
+      question: "Capitation is the most commonly used payment mechanism in dentistry today.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+  ],
+  "6. Oral Health Programs in the Community": [
+    {
+      id: 91505,
+      question: "School-based dental sealant programs have been shown to reduce dental caries by up to what amount?",
+      options: [
+        "Up to 60%",
+        "Up to 75%",
+        "Up to 45%",
+        "Up to 30%"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91506,
+      question: "Water fluoridation decreases tooth decay by about what percentage today?",
+      options: [
+        "About 47%",
+        "About 27%",
+        "About 67%",
+        "About 87%"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91507,
+      question: "The best practice approach is best defined as which of the following?",
+      options: [
+        "A strategy chosen solely by a single dentist's personal preference",
+        "A public health strategy supported by evidence for its impact and effectiveness",
+        "A program funded entirely by private dental insurance companies",
+        "A method that relies only on tradition without any scientific basis"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91508,
+      question: "As the largest grant-making agency in the federal government for health programs, which agency funds services at the local level?",
+      options: [
+        "The Department of Health and Human Services (DHHS)",
+        "The Association of State and Territorial Dental Directors",
+        "The American Dental Hygienists' Association",
+        "The Environmental Protection Agency (EPA)"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91509,
+      question: "State oral health programs (SOHPs) are best described as which of the following?",
+      options: [
+        "Programs that exist in only a few states across the nation",
+        "Private dental practices serving only high-income state residents",
+        "Federal agencies that license all dentists working in each state",
+        "A major source of planning, funding, and coordinating oral health programs in states"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91510,
+      question: "SOHPs are funded by which of the following?",
+      options: [
+        "Profits earned from selling dental products to consumers",
+        "State general revenues and national sources from DHHS divisions",
+        "Private dental insurance premiums collected from patients",
+        "Out-of-pocket payments made directly by treated patients"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91511,
+      question: "According to the ASTDD, oral health coalitions help SOHPs do which of the following?",
+      options: [
+        "Implement and promote comprehensive oral health services in communities",
+        "Eliminate community involvement in oral health decisions",
+        "Replace the need for any state oral health program funding",
+        "Restrict oral health services to wealthy population groups"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91512,
+      question: "Which of the following is identified as a role of oral health coalitions?",
+      options: [
+        "Duplicating services already provided by other organizations",
+        "Limiting the scope of services to a single narrow issue",
+        "Maximizing the power of individuals and groups through joint action",
+        "Increasing competition and distrust among partner groups"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91513,
+      question: "The Wisconsin Oral Health Coalition's Seal-A-Smile program focuses on which of the following?",
+      options: [
+        "Integrating dental hygienists into prenatal medical teams only",
+        "Distributing dental insurance to uninsured older adults",
+        "Providing school-based dental sealants to improve children's oral health",
+        "Operating mobile dental clinics for rural farm workers"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91514,
+      question: "Many local health department dental clinics are described as which of the following?",
+      options: [
+        "Operated solely by volunteers with no government funding",
+        "Privately funded, serving only fully insured wealthy patients",
+        "Limited strictly to emergency oral surgery in hospitals",
+        "Federally funded, offering services on a sliding scale and accepting Medicaid"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91515,
+      question: "The Future Smiles of Northern Nevada program is best described as which of the following?",
+      options: [
+        "A nonprofit school-based oral health program serving a vulnerable population",
+        "A research lab studying fluoride concentrations in well water",
+        "A federal agency that licenses dentists in two Nevada counties",
+        "A private dental practice serving high-income suburban families"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91516,
+      question: "To be eligible for free lunches through the National School Lunch Program, children must be from families with incomes at or below which level?",
+      options: [
+        "185% of the federal poverty level",
+        "130% of the federal poverty level",
+        "200% of the federal poverty level",
+        "250% of the federal poverty level"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91517,
+      question: "How many steps does the Community Health Program Planning Process (CHPPP) have?",
+      options: [
+        "Six steps",
+        "Four steps",
+        "Three steps",
+        "Five steps"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91518,
+      question: "In the CHPPP, identifying the primary health issues corresponds to which step of the dental hygiene process of care?",
+      options: [
+        "Implementation",
+        "Evaluation",
+        "Documentation",
+        "Assessment"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91519,
+      question: "In the CHPPP, implementing the selected health interventions corresponds to which step of the dental hygiene process of care?",
+      options: [
+        "Planning, establishing goals for the patient",
+        "Assessment, collecting and reviewing patient data",
+        "Implementation, completing the treatment plan",
+        "Documentation, recording the treatment outcomes"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91520,
+      question: "Which of the following is identified as a key question used to establish health priorities?",
+      options: [
+        "Which dentist in the community has the largest private office?",
+        "What is the magnitude of the problem and how many people are affected?",
+        "How can community members be excluded from the decision?",
+        "How much profit can the dental practice earn from the program?"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91521,
+      question: "When a community's basic needs for food and security are not being met, what happens to dental needs?",
+      options: [
+        "Dental needs are completely eliminated from consideration",
+        "Dental needs are fully funded by the federal government",
+        "Dental needs automatically become the highest priority",
+        "Dental needs become a low priority for the community"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91522,
+      question: "Using dental survey data previously collected by other organizations is referred to as which of the following?",
+      options: [
+        "Qualitative data",
+        "Primary data",
+        "Outcome data",
+        "Secondary data"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91523,
+      question: "A goal in program planning is best described as which of the following?",
+      options: [
+        "A short-term activity delivered during program implementation",
+        "A broadly based ambitious statement of the impact of an intervention",
+        "A specific, measurable statement of a desired end result",
+        "A detailed step-by-step instruction for performing a skill"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91524,
+      question: "Objectives in program planning must include which of the following?",
+      options: [
+        "Broad verbs such as understand, value, or learn that cannot be measured",
+        "Vague descriptions that avoid stating any measurable outcomes",
+        "Only the name of the dentist who will conduct the program",
+        "Action verbs that communicate specific, measurable activities and outcomes"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91525,
+      question: "Process objectives are best described as which of the following?",
+      options: [
+        "Actionable statements describing activities and strategies delivered in a program",
+        "Descriptions of the funding sources used to operate a program",
+        "Broad ambitious statements from which other objectives are derived",
+        "Statements of the long-term health status changes in the population"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91526,
+      question: "Outcome objectives are best described as which of the following?",
+      options: [
+        "Statements describing only the program's budget and timeline",
+        "Short-term statements describing the activities and services delivered",
+        "Broad goals from which specific objectives will later be developed",
+        "Statements of the specific intended effects of a program on the priority population"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91527,
+      question: "Which category of outcome objectives explains what program participants will learn from an educational program?",
+      options: [
+        "Environmental objectives",
+        "Behavioral objectives",
+        "Process objectives",
+        "Learning objectives"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91528,
+      question: "Behavioral objectives are best described as which of the following?",
+      options: [
+        "Statements describing actions participants will take to improve a health issue",
+        "Statements describing the activities delivered during a program",
+        "Statements about changes to the physical and social surroundings",
+        "Statements explaining what participants will learn from a program"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91529,
+      question: "Environmental objectives are best described as which of the following?",
+      options: [
+        "Statements describing actions participants will take to improve health",
+        "Statements explaining how emotional, physical, and social surroundings will change",
+        "Short-term statements describing the program's delivered activities",
+        "Statements describing what participants will learn from a program"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91530,
+      question: "In a SMART + C objective, the letter S stands for which characteristic?",
+      options: [
+        "Sustainable",
+        "Standardized",
+        "Specific",
+        "Scientific"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91531,
+      question: "In the expanded SMART + C objective format, the added letter C stands for which characteristic?",
+      options: [
+        "Consistent",
+        "Challenging",
+        "Comparable",
+        "Comprehensive"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91532,
+      question: "In a SMART + C objective, the letter M (measurable) means which of the following?",
+      options: [
+        "The objective stretches the group toward a significant improvement",
+        "Information about the objective can be collected, detected, or obtained",
+        "The objective is relevant to the overall mission of the program",
+        "The objective has a target date by which it will be achieved"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91533,
+      question: "On what basis should an intervention or activity be selected during program planning?",
+      options: [
+        "The personal preference of a single program administrator",
+        "Best practices established by scientific evidence of effectiveness",
+        "Whichever option is the least expensive regardless of evidence",
+        "The intervention that requires the least community involvement"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91534,
+      question: "Formative (process) evaluation is best described as which of the following?",
+      options: [
+        "A final judgment of whether a fully operational program met its goals",
+        "An internal assessment of program processes during implementation",
+        "A one-time evaluation conducted only after the program ends",
+        "A method that measures only the program's long-term impact"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91535,
+      question: "Using a smaller population with the intent to expand a program later is called which of the following?",
+      options: [
+        "Summative evaluation",
+        "Pilot testing",
+        "Secondary analysis",
+        "Outcome assessment"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91536,
+      question: "Summative evaluation is best described as which of the following?",
+      options: [
+        "A judgment of whether a fully operational program met its goals and objectives",
+        "A preliminary review conducted before a program begins operating",
+        "An internal assessment of activities while the program is taking place",
+        "A test of a program on a small population before full launch"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91537,
+      question: "When summative evaluation focuses on long-term, sustained changes from program activities, it is referred to as which of the following?",
+      options: [
+        "Formative evaluation",
+        "Impact evaluation",
+        "Process evaluation",
+        "Pilot evaluation"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91538,
+      question: "According to the chapter, what is the bottom line in program evaluation?",
+      options: [
+        "Avoiding any negative outcomes regardless of the actual data",
+        "Keeping the results private from the community and stakeholders",
+        "Maximizing the profit earned by the dental practice involved",
+        "Accountability to consumers, providers, agencies, and stakeholders"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91539,
+      question: "If a program evaluation concludes that objectives were not met, this means which of the following?",
+      options: [
+        "The objectives should be ignored when reporting the results",
+        "The program is not necessarily a failure if it becomes a learning experience",
+        "The program was a complete failure with no redeeming value",
+        "The program must be permanently abandoned without analysis"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91540,
+      question: "Community water fluoridation is best defined as which of the following?",
+      options: [
+        "Applying fluoride varnish to the teeth of community members",
+        "Removing all naturally occurring fluoride from the public water supply",
+        "Prescribing fluoride supplement tablets to all schoolchildren",
+        "Adding a controlled amount of fluoride to the public water supply to an optimal level"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91541,
+      question: "Who first noticed brown stains and few decayed teeth in patients, leading to the discovery of fluoride's role?",
+      options: [
+        "Dr. Frederick McKay in Colorado",
+        "Dr. Robert Quock in California",
+        "Dr. H. Trendley Dean at the NIH",
+        "Dr. Frank Hodges in Michigan"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91542,
+      question: "What was the first U.S. city to adjust the fluoride content of its drinking water?",
+      options: [
+        "Portland, Oregon, in the 1950s",
+        "Fairmont, Minnesota, in the 1960s",
+        "Laredo, Texas, in the 1930s",
+        "Grand Rapids, Michigan, in the 1940s"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91543,
+      question: "Early studies of adjusted water fluoridation demonstrated what reduction of dental caries in children's permanent teeth?",
+      options: [
+        "A 40% to 60% reduction",
+        "A 10% to 20% reduction",
+        "A 5% to 15% reduction",
+        "A 70% to 90% reduction"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91544,
+      question: "The diffusion or halo effect of fluoridation refers to which of the following?",
+      options: [
+        "People in nonfluoridated areas benefiting from processed foods and beverages",
+        "The discoloration of teeth caused by excessive fluoride intake",
+        "The decline in fluoridation as cities switch to other sources",
+        "Fluoride being completely removed from a community's water supply"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91545,
+      question: "Regarding fluoridation and adverse health effects, the chapter states which of the following?",
+      options: [
+        "Fluoridation has been shown to increase the risk of bone fracture",
+        "Fluoridation is proven to cause cancer in long-term residents",
+        "Strong evidence links fluoridation to several systemic disorders",
+        "No credible evidence supports an association with any adverse health effect"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91546,
+      question: "The primary mechanism of action of fluoride in caries inhibition is which of the following?",
+      options: [
+        "Posteruptive, through remineralization of the enamel",
+        "Preeruptive, through replacement during enamel formation only",
+        "Mechanical removal of plaque from the tooth surfaces",
+        "Systemic only, with no topical effect on the teeth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91547,
+      question: "Because the posteruptive effect is the primary benefit, the benefits of water fluoridation depend on which of the following?",
+      options: [
+        "A single application of fluoride during childhood only",
+        "The complete avoidance of all other fluoride sources",
+        "Daily consumption of the fluoridated tap water throughout life",
+        "Living only in a community with deep artesian wells"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91548,
+      question: "A recent economic analysis demonstrated that community water fluoridation had what average return on investment?",
+      options: [
+        "About 20 to 1 (20 dollars saved per dollar invested)",
+        "About 5 to 1 (5 dollars saved per dollar invested)",
+        "About 2 to 1 (2 dollars saved per dollar invested)",
+        "About 50 to 1 (50 dollars saved per dollar invested)"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91549,
+      question: "What is the current optimal level of fluoride recommended for community water fluoridation since 2015?",
+      options: [
+        "0.7 mg/L regardless of climatic conditions",
+        "1.2 mg/L depending on the average temperature",
+        "2.0 mg/L based on the local water source",
+        "4.0 mg/L as a safe drinking water standard"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91550,
+      question: "Why was the optimal fluoride level changed to a single value in 2015?",
+      options: [
+        "A complete elimination of fluorosis from the population",
+        "A decrease in the total number of community water systems",
+        "A federal law banning fluoride in all drinking water",
+        "Increased fluoride sources, rising fluorosis, and air conditioning use"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91551,
+      question: "The Environmental Protection Agency (EPA) requires defluoridation when the natural fluoride level of community water exceeds which amount?",
+      options: [
+        "Greater than 1.2 mg/L",
+        "Greater than 0.7 mg/L",
+        "Greater than 2.0 mg/L",
+        "Greater than 4.0 mg/L"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91552,
+      question: "Antifluoridationists base their opposition to fluoridation on beliefs that fluoride does which of the following?",
+      options: [
+        "Is the safest and most effective public health measure available",
+        "Should be added at much higher concentrations to the water",
+        "Provides equal benefit to all ages and socioeconomic groups",
+        "Is toxic, does not prevent decay, is costly, and infringes on rights"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91553,
+      question: "For antifluoridationists to be defeated, a fluoridation campaign must be executed in which manner?",
+      options: [
+        "A secretive manner hidden from the public",
+        "A spontaneous, disorganized manner",
+        "A well-planned, unified manner",
+        "A manner that avoids educating the community"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91554,
+      question: "Why is distributing fluoride toothpaste not considered a cost-effective public health program?",
+      options: [
+        "Fluoride toothpaste is available only by prescription from a dentist",
+        "Fluoride toothpaste is already readily available and heavily marketed to the public",
+        "Fluoride toothpaste has been proven completely ineffective at preventing caries",
+        "Fluoride toothpaste is too expensive for any community program to provide"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91555,
+      question: "How often is fluoride varnish recommended to be applied for optimal benefit, depending on risk level?",
+      options: [
+        "Once every two years",
+        "Once every five years",
+        "Once in a person's lifetime",
+        "Two to four times a year"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91556,
+      question: "Compared with tray application of fluoride gel, fluoride varnish offers which advantage?",
+      options: [
+        "Complete prevention of all pit-and-fissure caries in molars",
+        "A systemic effect that works even without tooth contact",
+        "Ease of application with less discomfort and lower potential for harm",
+        "A permanent coating like a sealant that never needs reapplication"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91557,
+      question: "In a structured school-based fluoride mouthrinse program, children typically rinse with which solution?",
+      options: [
+        "10 mL of 0.2% sodium fluoride for 60 seconds, weekly",
+        "5 mL of 1.2% stannous fluoride for 30 seconds, monthly",
+        "20 mL of 0.05% sodium fluoride for 2 minutes, yearly",
+        "10 mL of 38% silver diamine fluoride for 5 minutes, daily"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91558,
+      question: "Dietary fluoride supplements are recommended only for which children?",
+      options: [
+        "Children over the age of 16 years in any community",
+        "Children living in nonfluoridated areas, available only by prescription",
+        "Children living in optimally fluoridated communities only",
+        "All children regardless of where they live or their water source"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91559,
+      question: "What is described as a major disadvantage of community-based dietary fluoride supplement programs?",
+      options: [
+        "The high cost of the equipment needed to dispense them",
+        "The complete lack of any caries-preventive effect",
+        "The need for daily compliance over an extended period of time",
+        "The requirement that a dentist apply them in a clinic"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91560,
+      question: "Silver diamine fluoride (38% SDF) was approved by the FDA in 2014 to treat sensitivity but is endorsed for off-label use to do which of the following?",
+      options: [
+        "Replace the need for community water fluoridation",
+        "Whiten teeth and improve their cosmetic appearance",
+        "Prevent caries and arrest cavitated carious lesions",
+        "Treat periodontal disease and gingival inflammation"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91561,
+      question: "Which are described as the main contributors to an increase in dental fluorosis?",
+      options: [
+        "School-based dental sealant programs in high-risk schools",
+        "Community water fluoridation programs operating alone",
+        "Fluoridated water, infant formula, and swallowed toothpaste",
+        "Fluoride mouthrinse programs conducted weekly in schools"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91562,
+      question: "To help prevent fluorosis, how much fluoride toothpaste is recommended for children younger than 3 years?",
+      options: [
+        "A full toothbrush of fluoride toothpaste",
+        "No toothpaste of any kind at all",
+        "A smear of fluoride toothpaste",
+        "A pea-sized amount of fluoride toothpaste"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91563,
+      question: "Dental sealants are designed to prevent which type of caries?",
+      options: [
+        "Smooth surface caries",
+        "Root surface caries",
+        "Pit-and-fissure caries",
+        "Interproximal caries"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91564,
+      question: "Studies have shown that sealant placement in permanent molars prevents what percentage of caries after 2 years?",
+      options: [
+        "20% of dental caries",
+        "40% of dental caries",
+        "60% of dental caries",
+        "80% of dental caries"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91565,
+      question: "School-based sealant programs (SBSPs) generally focus on providing sealants to which children?",
+      options: [
+        "Adults over the age of 65 in nursing facilities",
+        "Adolescents aged 16 to 19 years in high school",
+        "Children younger than 3 years old in Head Start",
+        "Children aged 6 to 11 years or in grades 3 through 5"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91566,
+      question: "A school-linked sealant program differs from a school-based program in that the sealants are which of the following?",
+      options: [
+        "Provided only to children who already have a dental home",
+        "Delivered at a different site such as a clinic or private dental office",
+        "Applied directly at the school using mobile or portable equipment",
+        "Restricted to children who are not enrolled in any school"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91567,
+      question: "According to the ASTDD, why is targeting children shortly after tooth eruption considered a best practice?",
+      options: [
+        "It allows sealants to be placed without any screening",
+        "It maximizes the time of greatest susceptibility to caries",
+        "It eliminates the need for any parental permission",
+        "It reduces the cost of the sealant material needed"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91568,
+      question: "In the CDC recommendations for school-based sealant programs, which teeth receive highest priority for sealant placement?",
+      options: [
+        "Third molars (wisdom teeth)",
+        "Permanent maxillary lateral incisors",
+        "Primary canines and incisors",
+        "First and second permanent molars"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91569,
+      question: "How are schools targeted for school-based sealant programs to reach high-caries-risk children?",
+      options: [
+        "Schools that already have a full-time dentist on staff",
+        "Schools with the lowest enrollment in the entire district",
+        "Schools with a high rate of children in free or reduced-price meal programs",
+        "Schools located only in wealthy suburban neighborhoods"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91570,
+      question: "Oral health education (OHE) is best defined as which of the following?",
+      options: [
+        "The process of teaching people about oral health to help prevent oral disease",
+        "The clinical placement of dental sealants on children's molars",
+        "The provision of restorative dental treatment to patients",
+        "The addition of fluoride to a community's public water supply"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91571,
+      question: "According to the chapter, local programming limited to only oral health education has which result?",
+      options: [
+        "It eliminates the need for fluorides and sealants entirely",
+        "It guarantees optimal oral health in every population group",
+        "It has not resulted in improving children's oral health on its own",
+        "It is the single most effective way to prevent all oral disease"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91572,
+      question: "Which is described as a characteristic of an effective teacher?",
+      options: [
+        "Has a thorough command of the topic and uses active, hands-on learning",
+        "Reads directly from notes without engaging the audience at all",
+        "Avoids giving any feedback to students on their performance",
+        "Uses only a single instructional technique for every topic"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91573,
+      question: "A lesson plan is described as which of the following?",
+      options: [
+        "An optional document rarely used in community education",
+        "A clinical treatment plan for an individual dental patient",
+        "A necessary step in planning an oral health presentation",
+        "A summary written only after a presentation is finished"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91574,
+      question: "Among teaching methods, the lecture method has which disadvantage?",
+      options: [
+        "It can only be used with very small groups of fewer than five people",
+        "It allows no active participation and encourages one-way communication",
+        "It is unable to convey information to a large audience at once",
+        "It requires expensive technology that most settings cannot afford"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91575,
+      question: "The discussion teaching method has which advantage?",
+      options: [
+        "It requires no background knowledge from any participants",
+        "It works best with very young children who cannot yet read",
+        "It allows interaction and two-way communication among participants",
+        "It guarantees that the group always reaches a clear conclusion"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91576,
+      question: "The Whole School, Whole Community, Whole Child (WSCC) model promoted by the CDC is best described as which of the following?",
+      options: [
+        "A student-centered model emphasizing community support and evidence-based practices",
+        "A surveillance model for tracking oral cancer rates nationwide",
+        "A financing model for distributing dental insurance to families",
+        "A clinical model for treating individual patients in private offices"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91577,
+      question: "The success of a school-based oral health program (SBOHP) is described as depending on which of the following?",
+      options: [
+        "Its restriction to children who already have a dental home",
+        "Its complete separation from all other school activities",
+        "Its integration with other school health programs",
+        "Its reliance on a single dentist working in isolation"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91578,
+      question: "In the Miles of Smiles–Laredo program, which screening tool is used for dental screening?",
+      options: [
+        "The Community Periodontal Index (CPI)",
+        "Dean's Fluorosis Index (DFI)",
+        "The Basic Screening Survey (BSS)",
+        "The Decayed, Missing, Filled (DMF) Index"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91579,
+      question: "The Head Start (HS) program was originally founded in what year and as part of what initiative?",
+      options: [
+        "1965, as part of President Johnson's War on Poverty",
+        "1995, as part of the Early Head Start expansion",
+        "2010, as part of the Affordable Care Act reform",
+        "2017, as part of the Consolidated Appropriations Act"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91580,
+      question: "The Head Start program was designed to serve children of which age and background?",
+      options: [
+        "Children aged 6 to 11 from middle-income families",
+        "Older adults aged 65 and over in nursing facilities",
+        "Children from birth to age 5 from low-income families",
+        "Adolescents aged 12 to 17 from any income level"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91581,
+      question: "Early Head Start (EHS), established in 1995, serves children of which age range?",
+      options: [
+        "From 6 weeks after birth until the child turns 3 years old",
+        "From 3 years old until the child turns 5 years old",
+        "From 5 years old until the child enters kindergarten",
+        "From birth until the child turns 12 months old only"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91582,
+      question: "Head Start programs are required to establish and maintain which of the following?",
+      options: [
+        "A mobile dental clinic owned by the program",
+        "A Health Services Advisory Committee (HSAC)",
+        "A private dental insurance plan for all families",
+        "A community water fluoridation monitoring system"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91583,
+      question: "According to the Head Start Program Performance Standards, what must programs assist every enrolled family in establishing?",
+      options: [
+        "A community health coalition",
+        "A private insurance policy",
+        "A dental home",
+        "A fluoridated water supply"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91584,
+      question: "Which is a way that dental hygienists can be a valuable resource to Head Start programs?",
+      options: [
+        "Setting the federal income eligibility limits for HS enrollment",
+        "Offering screenings, preventive services, education, and referral for treatment",
+        "Determining the racial and ethnic composition of enrollees",
+        "Awarding the federal grant funding directly to HS agencies"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91585,
+      question: "In the Dental Hygienist Liaison program, how many dental hygienists from each state volunteer to promote oral health?",
+      options: [
+        "One dental hygienist from each state",
+        "Twenty dental hygienists from each state",
+        "Five dental hygienists from each state",
+        "Ten dental hygienists from each state"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91586,
+      question: "Failure to receive primary preventive care results in which of the following?",
+      options: [
+        "The complete elimination of all oral disease in a population",
+        "The need for more costly secondary and tertiary preventive treatment",
+        "A guarantee that no further dental care will ever be needed",
+        "An automatic reduction in the cost of all future dental care"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91587,
+      question: "Dental hygienists initiating treatment in community settings without a dentist present is referred to as which of the following?",
+      options: [
+        "Direct access",
+        "Remote consultation",
+        "General supervision",
+        "Indirect supervision"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91588,
+      question: "According to the AAPD, the dental home should be established no later than what age?",
+      options: [
+        "12 months of age",
+        "3 years of age",
+        "21 years of age",
+        "5 years of age"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91589,
+      question: "According to the ADA, not having a dental home is described as which of the following?",
+      options: [
+        "An advantage for people who rarely need dental treatment",
+        "A requirement for enrollment in community health centers",
+        "A risk factor for dental caries for children and adults of all ages",
+        "A benefit that reduces the cost of dental care for families"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91590,
+      question: "The I-Smile program is best described as which of the following?",
+      options: [
+        "A private insurance plan sold to high-income Iowa families",
+        "A federal program that licenses dentists across all 50 states",
+        "A statewide dental home program connecting Iowans with dental and community resources",
+        "A research study measuring fluoride levels in Iowa wells"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91591,
+      question: "The number of Americans aged 65 and older is projected to do which of the following from 2018 to 2060?",
+      options: [
+        "Remain completely unchanged through 2060",
+        "Decrease by about half over the period",
+        "Nearly double, from 52 million to 95 million",
+        "Fall below the number of children under age 5"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91592,
+      question: "Why do many older adults experience a financial barrier to oral health care?",
+      options: [
+        "They live on a fixed income and lose dental insurance when they retire",
+        "They are never eligible for any public insurance program",
+        "They have more dental coverage than any other age group",
+        "They are required by law to pay double for all dental services"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91593,
+      question: "Apple Tree Dental is best described as which of the following?",
+      options: [
+        "A federal agency that sets dental policy for older adults nationwide",
+        "A nonprofit that brings dental care to older adults in long-term care via mobile equipment",
+        "A private insurance company serving only wealthy retirees",
+        "A research institute studying tooth loss in younger adults"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91594,
+      question: "The financing of dental public health is best described as which of the following?",
+      options: [
+        "Provided solely through profits from private dental practices",
+        "Funded entirely by patient out-of-pocket payments alone",
+        "Simple, with a single guaranteed source of permanent funding",
+        "Complex, with a combination of public and private monies supporting programs"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91595,
+      question: "The Maternal and Child Health Services (MCHS) block grant (Title V) is described as which of the following?",
+      options: [
+        "A program that funds only oral health care for older adults",
+        "A private grant available only to wealthy dental practices",
+        "The oldest and one of the largest federal block grant programs",
+        "A state program with no federal funding involvement at all"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 91596,
+      question: "The Women, Infants, and Children (WIC) Program provides grants for which of the following?",
+      options: [
+        "Comprehensive restorative dental treatment for older adults",
+        "Community water fluoridation infrastructure for large cities",
+        "Orthodontic treatment for low-income adolescents nationwide",
+        "Supplemental foods, nutrition education, immunizations, and healthcare referrals"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91597,
+      question: "A community health center that receives grants under Section 330 of the Public Health Service Act is referred to as which of the following?",
+      options: [
+        "A Health Services Advisory Committee (HSAC)",
+        "A Federally Qualified Health Center (FQHC)",
+        "A State Oral Health Program (SOHP)",
+        "A Maternal and Child Health Services grantee"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91598,
+      question: "The ADA Give Kids a Smile program is best described as which of the following?",
+      options: [
+        "A program treating children without access to dental care free of charge",
+        "A federal insurance program covering all children's dental care",
+        "A research program studying caries rates in wealthy children",
+        "A licensing program for new pediatric dentists nationwide"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91599,
+      question: "Donated Dental Services (DDS), operated by the Dental Lifeline Network, provides free care to which population?",
+      options: [
+        "Only children enrolled in Head Start programs nationwide",
+        "Only wealthy adults seeking cosmetic dental procedures",
+        "Only college students providing community service hours",
+        "People who are disabled, aged 65 or older, or medically fragile"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 91600,
+      question: "Community water fluoridation is recognized as one of the top 10 public health measures of the 20th century.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91601,
+      question: "The Community Health Program Planning Process (CHPPP) has five steps that parallel the dental hygiene process of care.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91602,
+      question: "Formative evaluation is conducted only after a program has been fully completed to judge whether it met its goals.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91603,
+      question: "Dental sealants are designed to prevent smooth surface caries rather than pit-and-fissure caries.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91604,
+      question: "The current optimal level of fluoride recommended for community water fluoridation since 2015 is 0.7 mg/L regardless of climate.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91605,
+      question: "Dietary fluoride supplements are recommended for all children, including those living in optimally fluoridated areas.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91606,
+      question: "Head Start programs are required to assist every enrolled family in establishing a dental home.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 91607,
+      question: "Objectives written with broad verbs such as understand, value, or learn are specific and easily measurable.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 91608,
+      question: "The Head Start program was founded in 1965 as part of President Johnson's War on Poverty.",
       options: [
         "True",
         "False"
