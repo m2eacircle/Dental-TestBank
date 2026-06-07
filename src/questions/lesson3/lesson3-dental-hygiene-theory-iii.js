@@ -6294,5 +6294,6472 @@ export const questions = {
       ],
       correctAnswer: 1
     }
+  ],
+  "8. Introduction to Orthodontics (Part 1)": [
+    {
+      id: 991001,
+      question: "What is orthodontics?",
+      options: [
+        "The branch of dentistry that diagnoses, prevents, and treats dental and facial irregularities",
+        "The branch of dentistry that focuses only on the surgical removal of impacted teeth",
+        "The branch of dentistry that treats diseases of the gums and supporting bone",
+        "The branch of dentistry that restores decayed teeth with crowns and fillings"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991002,
+      question: "What does the term dentofacial orthopedics refer to?",
+      options: [
+        "Using only surgery to reshape the bones of the upper and lower jaws entirely",
+        "Using a fixed or removable appliance to correct tooth movement or jaw growth problems",
+        "Using bleaching agents to change the color and shade of the natural teeth",
+        "Using dental implants to permanently replace teeth that have been lost"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991003,
+      question: "Which of the following is a type of treatment provided by orthodontics?",
+      options: [
+        "Whitening teeth that have become stained from coffee, tea, and tobacco use",
+        "Filling cavities that have formed on the chewing surfaces of the molars",
+        "Straightening teeth that are rotated, tilted, or otherwise improperly aligned",
+        "Treating infections found deep within the pulp chamber of a tooth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991004,
+      question: "According to the content, why will more people choose orthodontic treatment at any age?",
+      options: [
+        "Orthodontic treatment has become completely painless and requires no appliances",
+        "Orthodontists no longer require any diagnostic records before beginning treatment",
+        "Dental schools have eliminated all training related to orthodontic procedures",
+        "Insurance companies are increasing their benefits for continued orthodontic care"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991005,
+      question: "How can severe malocclusion create a psychosocial problem?",
+      options: [
+        "It can be a social handicap and influence self-esteem and positive feelings",
+        "It permanently changes the color of the enamel on all of the front teeth",
+        "It always causes complete loss of the ability to taste and smell food",
+        "It prevents the salivary glands from producing any saliva in the mouth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991006,
+      question: "How can malocclusion contribute to oral malfunction?",
+      options: [
+        "It increases the rate at which the permanent teeth erupt into the mouth",
+        "Jaw discrepancies can force changes in the manner of swallowing",
+        "It strengthens the muscles used during normal chewing and biting motions",
+        "It improves the natural cleansing action of the tongue against the teeth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991007,
+      question: "How can malocclusion contribute to dental decay and periodontal disease?",
+      options: [
+        "It causes the teeth to produce excess enamel that traps food and bacteria inside",
+        "It forces the gum tissue to grow upward and completely cover the crowns of teeth",
+        "Without normal occlusion and natural cleansing, proper plaque removal becomes difficult",
+        "It makes the salivary glands secrete strong acids that slowly dissolve the enamel"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991008,
+      question: "What is the emphasis of study for the orthodontist?",
+      options: [
+        "Restorative materials, crown fabrication, denture design, and bridge cementation",
+        "Root canal therapy, pulp testing, apex location, and infection control methods",
+        "Periodontal surgery, gum grafting, bone regeneration, and implant placement work",
+        "Orofacial growth and development, new techniques, biomechanics, and research"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991009,
+      question: "The patient care area of the orthodontic office can be sectioned off to serve which three functions?",
+      options: [
+        "To obtain records, to take radiographs, and to provide clinical care at all stages",
+        "To prepare meals, to store patient luggage, and to sell retail dental products",
+        "To bill insurance, to schedule cleanings, and to train new front-desk staff members",
+        "To extract teeth, to fabricate dentures, and to perform emergency root canal therapy"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991010,
+      question: "Which area of practice can be more expansive in the orthodontic setting?",
+      options: [
+        "The sterilization room",
+        "The dental laboratory",
+        "The front reception desk",
+        "The patient waiting area"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991011,
+      question: "What is the most common cause of malocclusion?",
+      options: [
+        "A buildup of hardened plaque and calculus along the gumline of the molars",
+        "An overuse of fluoride toothpaste during the early years of childhood development",
+        "A disproportion in size between the jaw and teeth or between the upper and lower jaws",
+        "A diet that is too high in soft foods that do not require any chewing effort"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991012,
+      question: "How is malocclusion defined?",
+      options: [
+        "Occlusion in which all of the teeth meet together in their ideal and perfect positions",
+        "Occlusion that occurs only in patients who have lost one or more of their molars",
+        "Occlusion that is present at birth and corrects itself naturally as a child grows",
+        "Occlusion that deviates from a Class I normal occlusion as a result of irregularities"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991013,
+      question: "What results in congenitally missing teeth?",
+      options: [
+        "Interruption or absence of tooth bud formation",
+        "Excessive grinding of the teeth during sleep",
+        "Early removal of the primary baby teeth",
+        "An overgrowth of the surrounding gum tissue"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991014,
+      question: "Which of the following is a developmental cause of malocclusion?",
+      options: [
+        "Heavy staining of the enamel from drinking dark-colored beverages daily",
+        "Ectopic eruption, the abnormal direction of tooth eruption",
+        "Excessive wear of the chewing surfaces from eating very hard foods",
+        "A temporary swelling of the gums after a routine dental cleaning visit"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991015,
+      question: "How can genetic factors cause malocclusion?",
+      options: [
+        "A child may develop cavities faster than other children of the same age",
+        "A child may produce too much saliva, which washes away the protective enamel",
+        "A child may inherit a small jaw and large teeth, causing overcrowding",
+        "A child may grind the teeth at night, which shifts them out of alignment"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991016,
+      question: "According to the genetic causes content, what is likely true if you have a missing tooth?",
+      options: [
+        "You will eventually lose all of the teeth that surround the missing space",
+        "Your remaining teeth will become stronger to make up for the missing one",
+        "The missing tooth will grow back on its own once you reach adulthood",
+        "One of your parents or grandparents likely has the same missing tooth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991017,
+      question: "What is fetal molding as a cause of malocclusion?",
+      options: [
+        "When an arm or leg of the fetus presses against another part of the body",
+        "When the mother eats foods that are too soft during the pregnancy term",
+        "When the infant is fed only liquids during the first months of its life",
+        "When the child sucks a thumb repeatedly during the early growth years"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991018,
+      question: "Birth injuries that can cause malocclusion fall into which two major categories?",
+      options: [
+        "Poor nutrition during pregnancy and a lack of fluoride in the water supply",
+        "Fetal molding and trauma during birth, such as an injury to the jaw",
+        "Early loss of baby teeth and delayed eruption of the permanent teeth",
+        "Excessive thumb sucking and frequent breathing through the open mouth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991019,
+      question: "Dental trauma can lead to malocclusion in which of the following ways?",
+      options: [
+        "Strengthening of the roots that hold the permanent teeth in their sockets",
+        "Improvement of the alignment of teeth that were previously crowded together",
+        "Damage to permanent tooth buds when an injury to primary teeth has occurred",
+        "An increase in the speed at which the permanent teeth replace primary teeth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991020,
+      question: "Which is one of the three ways dental trauma can lead to malocclusion?",
+      options: [
+        "Hardening of the enamel surface after a tooth has been chipped or cracked",
+        "Faster healing of the gum tissue after a primary tooth falls out naturally",
+        "Permanent whitening of a tooth that has been bumped during a sports injury",
+        "Movement of a tooth as a result of premature loss of a primary tooth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991021,
+      question: "Which of the following is listed as a habit that can cause malocclusion?",
+      options: [
+        "Tongue thrusting",
+        "Daily flossing",
+        "Drinking water",
+        "Chewing slowly"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991022,
+      question: "What does bruxism, a habit that can cause malocclusion, refer to?",
+      options: [
+        "Breathing through the nose",
+        "Teeth grinding or clenching",
+        "Swallowing food quickly",
+        "Biting the lower lip"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991023,
+      question: "What is the system that classifies any deviation from normal occlusion as malocclusion?",
+      options: [
+        "The Black's classification of dental cavities",
+        "The Miller's classification of gum recession",
+        "The Angle's classification of malocclusion",
+        "The Glickman's classification of bone loss"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991024,
+      question: "How many classes are included in Angle's classification of malocclusion?",
+      options: [
+        "Two classes: Class A and Class B malocclusion",
+        "Four classes: Class I, II, III, and Class IV malocclusion",
+        "Five classes: Class I through Class V malocclusion",
+        "Three classes: Class I, Class II, and Class III"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991025,
+      question: "What characterizes a Class I malocclusion?",
+      options: [
+        "A normal molar relationship but anterior teeth that are malpositioned or rotated",
+        "A complete absence of any contact between the upper and lower molar teeth",
+        "A jaw that is positioned far behind its normal location relative to the skull",
+        "A condition in which all of the teeth are perfectly aligned and well spaced"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991026,
+      question: "Class II malocclusion is also referred to by which term?",
+      options: [
+        "Mesioclusion",
+        "Distoclusion",
+        "Neutroclusion",
+        "Crossoclusion"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991027,
+      question: "What is the facial profile associated with Class II malocclusion known as?",
+      options: [
+        "Prognathic",
+        "Orthognathic",
+        "Retrognathic",
+        "Mesognathic"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991028,
+      question: "In Class II malocclusion, the body of the mandible is in what relationship to the maxilla?",
+      options: [
+        "An abnormal mesial relationship to the maxilla",
+        "A perfectly normal and balanced relationship to the maxilla",
+        "A vertically overlapped relationship to the maxilla",
+        "An abnormal distal relationship to the maxilla"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991029,
+      question: "Class III malocclusion is also referred to by which term?",
+      options: [
+        "Mesioclusion",
+        "Distoclusion",
+        "Neutroclusion",
+        "Linguoclusion"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991030,
+      question: "What is the facial profile associated with Class III malocclusion known as?",
+      options: [
+        "Retrognathic",
+        "Prognathic",
+        "Orthognathic",
+        "Distognathic"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991031,
+      question: "What happens to the teeth in a Class III malocclusion?",
+      options: [
+        "The maxillary anterior teeth protrude far in front of the lower front teeth",
+        "All of the molar teeth fail to make any contact when the jaw is closed",
+        "The mandibular anterior teeth protrude in front of the maxillary anterior teeth",
+        "The upper and lower teeth meet together in an ideal and balanced position"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991032,
+      question: "What is the most common contributor to malocclusion, in which one or many teeth are misplaced?",
+      options: [
+        "Open bite",
+        "Cross-bite",
+        "Spacing",
+        "Crowding"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991033,
+      question: "What does overjet describe?",
+      options: [
+        "Excessive protrusion of the maxillary incisors creating space from the mandibular incisors",
+        "An increased vertical overlap of the upper incisors covering the lower incisors",
+        "A tooth that is positioned incorrectly against its opposing tooth in the bite",
+        "A complete lack of contact between the front teeth when the jaw is closed"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991034,
+      question: "What is an overbite?",
+      options: [
+        "A sideways shift of a single tooth against its opposing tooth",
+        "An increased vertical overlap of the maxillary incisors",
+        "An excessive horizontal protrusion of the upper front teeth",
+        "A gap between the upper and lower teeth during chewing"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991035,
+      question: "What is an open bite?",
+      options: [
+        "An excessive sideways overlap of the molar teeth on one entire side of the mouth",
+        "A condition in which the lower front teeth completely hide the upper teeth at rest",
+        "A lack of vertical overlap of the maxillary incisors, leaving an opening when occluded",
+        "An increased forward position of the lower jaw relative to the upper jaw and teeth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991036,
+      question: "What is a cross-bite?",
+      options: [
+        "When the front teeth fail to touch as the back teeth close together",
+        "When the upper incisors stick out far ahead of the lower incisors",
+        "When too many teeth are crowded into a space that is too small",
+        "When a tooth is not properly aligned with its opposing tooth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991037,
+      question: "Who is trained to recognize and treat preventive and interceptive orthodontic cases?",
+      options: [
+        "Pediatric and general practitioners",
+        "Dental hygienists only",
+        "Oral surgeons only",
+        "Dental laboratory technicians"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991038,
+      question: "What happens to more extensive orthodontic cases?",
+      options: [
+        "They are managed entirely by the patient at home with online instructions",
+        "They are referred to the orthodontist for diagnosis and treatment",
+        "They are left untreated until the patient reaches full adulthood and stops growing",
+        "They are treated only by the dental laboratory technician who makes the models"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991039,
+      question: "What does corrective orthodontics include?",
+      options: [
+        "Tooth whitening, dental cleanings, and routine fluoride treatment applications",
+        "Cavity fillings, root canals, and the placement of porcelain crowns on teeth",
+        "Fixed appliances, removable appliances, and orthognathic surgery",
+        "Gum grafting, bone smoothing, and the surgical removal of wisdom teeth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991040,
+      question: "How are fixed appliances defined?",
+      options: [
+        "Devices that the patient can easily take in and out and that gradually whiten teeth",
+        "Devices placed beneath the gums to fight infection and reduce the swelling of tissue",
+        "Devices worn only at nighttime that prevent the patient from grinding the teeth hard",
+        "Devices attached to the teeth that cannot be removed by the patient and cause tooth movement"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991041,
+      question: "What is the dental history used for in orthodontic treatment planning?",
+      options: [
+        "To evaluate specific orthodontic concerns",
+        "To determine the patient's billing arrangements",
+        "To schedule the patient's future cleaning visits",
+        "To select the color of the patient's braces"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991042,
+      question: "Why is a physical growth evaluation important in orthodontics?",
+      options: [
+        "Because it determines exactly how much the treatment will cost the patient",
+        "Because orthodontic treatment in children is closely related to growth stages",
+        "Because it identifies which teeth have the most plaque and calculus buildup",
+        "Because it predicts the color and shade the teeth will become after treatment"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991043,
+      question: "What does the social and behavioral evaluation determine?",
+      options: [
+        "The exact shade of the tooth enamel",
+        "The total number of teeth in the mouth",
+        "The motivation for seeking treatment",
+        "The patient's preferred appointment times"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991044,
+      question: "The clinical examination is used to do which of the following?",
+      options: [
+        "Determine the cost of treatment and arrange the patient's payment schedule plan",
+        "Choose the colors of the elastics and the style of the brackets to be used",
+        "Sterilize the instruments and prepare the dental laboratory for cast fabrication",
+        "Document, measure, and analyze facial proportions and evaluate oral health and function"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991045,
+      question: "Diagnostic records are required in which forms?",
+      options: [
+        "Photographs, radiographs, and diagnostic models",
+        "Blood tests, urine samples, and saliva cultures",
+        "Insurance forms, consent waivers, and billing statements",
+        "Handwritten notes, voice recordings, and patient surveys"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991046,
+      question: "Photographs are useful as an aid in which of the following?",
+      options: [
+        "Sterilizing equipment, mixing cement, and bending the orthodontic arch wires",
+        "Patient identification, treatment planning, case presentation, and patient education",
+        "Calculating insurance costs, ordering supplies, and scheduling future appointments",
+        "Removing plaque, polishing enamel, and applying fluoride to the patient's teeth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991047,
+      question: "Which two standard extraoral photographs are routinely taken?",
+      options: [
+        "The maxillary view and a mandibular view",
+        "The buccal view and an occlusal view",
+        "The frontal view and a profile view",
+        "The lingual view and a palatal view"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991048,
+      question: "Which of the following is one of the three standard intraoral photographs taken?",
+      options: [
+        "The full skull profile view",
+        "The extraoral frontal view",
+        "The neck and shoulder view",
+        "The maxillary occlusal view"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991049,
+      question: "What is a panoramic radiograph used for?",
+      options: [
+        "To view the eruption process and evaluate space available for eruption",
+        "To measure the exact temperature inside the patient's open mouth area",
+        "To detect the color and shade of the enamel on each individual tooth",
+        "To record the patient's bite force when chewing on hard food items"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991050,
+      question: "What do cephalometric (extraoral) radiographs make it possible to evaluate?",
+      options: [
+        "The exact amount of plaque present on the surface of each tooth crown",
+        "The anatomic basis for malocclusion as well as the skull, bones, and soft tissue",
+        "The color of the gums and the amount of bleeding present during brushing",
+        "The total number of cavities hidden between the patient's back teeth surfaces"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991051,
+      question: "How is cephalometric analysis performed?",
+      options: [
+        "Directly on the radiograph itself using a marker to circle the problem areas",
+        "By measuring the patient's bite force with a special pressure-sensitive device",
+        "As a tracing or computerized drawing that emphasizes relationships among selected points",
+        "By taking a series of color photographs of the teeth from many different angles"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991052,
+      question: "What can the orthodontist recognize through cephalometric analysis?",
+      options: [
+        "The exact shade of enamel needed to match the patient's whitened teeth",
+        "The brand of toothpaste the patient has been using at home each day",
+        "The number of cavities that will form in the patient's mouth over time",
+        "Growth patterns that reveal the type of treatment that should be provided"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991053,
+      question: "What are diagnostic casts used for?",
+      options: [
+        "Diagnosis, case presentation, and space analysis of the dentition",
+        "Whitening the teeth and removing surface stains before treatment begins",
+        "Sterilizing instruments and storing the orthodontic bands between visits",
+        "Measuring the bite force and recording the patient's chewing patterns"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991054,
+      question: "The orthodontic diagnostic cast is commonly made from which material?",
+      options: [
+        "Stainless steel, polished to a smooth and shiny finished surface",
+        "Plaster, constructed in a precise and finished manner",
+        "Soft rubber, molded quickly to capture the shape of the teeth",
+        "Clear plastic, heated and pressed over the patient's dental arch"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991055,
+      question: "What is the orthodontic scaler used for?",
+      options: [
+        "Bending the arch wires and adjusting the clasps on removable appliances",
+        "Taking radiographs and developing the films in the darkroom afterward",
+        "Bracket placement, removal of elastomeric rings, and removal of excess cement",
+        "Whitening the teeth and polishing the enamel after the braces are removed"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991056,
+      question: "What is the ligature director used for?",
+      options: [
+        "To form and bend the arch wires into the shape of the dental arch",
+        "To remove bands from the molar teeth at the completion of treatment",
+        "To seat a molar band onto a tooth for the placement of a fixed appliance",
+        "To guide the ligature tie around the bracket and tuck it under the arch wire"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991057,
+      question: "What is the band plugger used for?",
+      options: [
+        "To help seat a molar band for a fixed appliance",
+        "To bend the arch wire into the correct shape",
+        "To cut the ligature wire during removal",
+        "To carry the bonded bracket to the tooth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991058,
+      question: "What are bracket placement tweezers used for?",
+      options: [
+        "To remove the molar bands at the end of treatment",
+        "To carry and place the bonded bracket on the tooth",
+        "To close and adjust the clasps on a removable retainer",
+        "To cut the stainless steel ligature ties for removal"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991059,
+      question: "What are bird-beak pliers used for?",
+      options: [
+        "To fit the molar bands",
+        "To remove the bands",
+        "To form and bend wires",
+        "To adjust the clasps"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991060,
+      question: "What are Weingart utility pliers used for?",
+      options: [
+        "Closing clasps",
+        "Fitting bands",
+        "Cutting ligatures",
+        "Placing arch wires"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991061,
+      question: "What are contouring pliers used for?",
+      options: [
+        "Fitting bands",
+        "Bending wires",
+        "Cutting ties",
+        "Removing bands"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991062,
+      question: "What are three-prong pliers used for?",
+      options: [
+        "To form and bend the wires",
+        "To close and adjust clasps",
+        "To place the arch wires",
+        "To fit the molar bands"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991063,
+      question: "What are posterior band remover pliers used for?",
+      options: [
+        "To place wires",
+        "To fit bands",
+        "To remove bands",
+        "To bend wires"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991064,
+      question: "What are wire-bending pliers used for?",
+      options: [
+        "To close and adjust the clasps on a removable retainer device",
+        "To carry and place the bonded brackets onto the tooth surfaces",
+        "To seat the molar bands during placement of a fixed appliance",
+        "To hold, bend, and adjust arch wires to create movement"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991065,
+      question: "What is the pin and ligature cutter used for?",
+      options: [
+        "Cutting the ligature wire for removal",
+        "Bending the arch wire for movement",
+        "Fitting the bands onto the molars",
+        "Placing the brackets onto teeth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991066,
+      question: "What are ligature-tying pliers used for?",
+      options: [
+        "For removing the molar bands",
+        "For ease in ligature tying",
+        "For bending the arch wires",
+        "For fitting the molar bands"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991067,
+      question: "What are Howe (110) pliers used for?",
+      options: [
+        "Whitening the teeth and polishing the enamel after treatment is finished",
+        "Taking the diagnostic photographs of the patient from several angles",
+        "Placement, removal, and making adjustment bends in the arch wire",
+        "Sterilizing the other instruments before each patient appointment begins"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991068,
+      question: "Why are Howe (110) pliers considered versatile?",
+      options: [
+        "They are made of a special plastic that never needs to be sterilized again",
+        "They can take radiographs and develop the film all within a single device",
+        "They automatically bend the wire into the perfect arch shape without effort",
+        "They have a round, flat, wide tip suitable for holding materials intraorally"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991069,
+      question: "What does orthodontic treatment refer to?",
+      options: [
+        "Using fixed or removable appliances or both to mechanically move the jaw or teeth",
+        "Using bleaching agents to lighten the natural color of the patient's teeth",
+        "Using surgery alone to remove all of the crowded teeth from the mouth",
+        "Using daily rinses and gels to strengthen the enamel against future decay"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991070,
+      question: "Fixed appliances, also referred to as braces, are a combination of which components?",
+      options: [
+        "Trays, gels, and bleaching lights",
+        "Bands, brackets, and auxiliaries",
+        "Crowns, posts, and cement layers",
+        "Implants, screws, and abutments"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991071,
+      question: "Fixed appliances can move a tooth in how many directions?",
+      options: [
+        "Two directions: only forward and backward within the dental arch space",
+        "Three directions: up, down, and sideways within the mouth cavity area",
+        "Six directions: mesially, distally, lingually, facially, apically, and occlusally",
+        "Four directions: left, right, forward, and backward but never vertically"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991072,
+      question: "What is the first step in the sequence of appointments for fixed appliances?",
+      options: [
+        "Removal of the appliance",
+        "Bonding of the brackets",
+        "Insertion of the arch wire",
+        "Placement of separators"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991073,
+      question: "What is the final step in the sequence of appointments for fixed appliances?",
+      options: [
+        "Retention of teeth",
+        "Placement of separators",
+        "Cementation of molar bands",
+        "Insertion of the arch wire"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991074,
+      question: "In the sequence of appointments, what step comes immediately after bonding of brackets?",
+      options: [
+        "Placement of the separators between the molar teeth in the arch",
+        "Insertion of arch wire and tying in with ligature ties or elastomeric ties",
+        "Cementation of the molar bands onto the back teeth of the patient",
+        "Complete removal of the appliance and all of its attached components"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991075,
+      question: "When are teeth separated using separators?",
+      options: [
+        "After the appliance has been completely removed from the mouth",
+        "During the retention phase once treatment has been finished",
+        "Before fitting and placement of the molar bands",
+        "Only after the arch wire has been tied into all of the brackets"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991076,
+      question: "Which tool is used for the placement of separators?",
+      options: [
+        "Posterior band remover pliers",
+        "The band plugger and bite stick",
+        "The pin and ligature cutter",
+        "Bird beak pliers or separating pliers"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991077,
+      question: "Where are pre-formed stainless steel bands fitted and cemented?",
+      options: [
+        "To molar teeth",
+        "To the front incisors",
+        "To the canine teeth",
+        "To the premolar teeth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991078,
+      question: "What is attached to orthodontic bands for the arch wire and power products?",
+      options: [
+        "Hooks, screws, and plates",
+        "Buttons, tubes, and cleats",
+        "Wires, springs, and coils",
+        "Pins, rings, and clasps"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991079,
+      question: "On a bonded bracket, how is the arch wire positioned?",
+      options: [
+        "Glued permanently to the front surface so it can never be removed again",
+        "Wrapped tightly around the entire tooth and then cemented into the gum",
+        "Placed horizontally through the wings of the bracket and then ligated in place",
+        "Inserted vertically through the center of the tooth into the jaw bone"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991080,
+      question: "How does the bonded bracket initiate tooth movement?",
+      options: [
+        "By releasing a chemical that softens the bone around the tooth root",
+        "By applying heat directly to the enamel to loosen the tooth in place",
+        "By creating suction that pulls the tooth toward the front of the mouth",
+        "By allowing forces from the arch wire to be transmitted to the tooth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991081,
+      question: "What are headgear tubes used for?",
+      options: [
+        "Insertion of the inner bow of a facebow appliance",
+        "Holding the interarch elastics between the two arches",
+        "Receiving the arch wire on the buccal surfaces of molars",
+        "Stabilizing the arch on the lingual portion of the bands"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991082,
+      question: "What are edgewise tubes used for?",
+      options: [
+        "Inserting the inner bow of the facebow appliance into the molar band",
+        "Receiving the arch wire on the buccal surfaces of upper and lower first molar bands",
+        "Holding the interarch elastics between the upper and lower dental arches",
+        "Stabilizing the lingual arch and reinforcing anchorage for tooth movement"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991083,
+      question: "What do labial hooks hold?",
+      options: [
+        "The inner facebow bow",
+        "The lingual arch wire",
+        "The interarch elastics",
+        "The molar separators"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991084,
+      question: "What does the lingual arch attachment do?",
+      options: [
+        "Holds the interarch elastics between the upper and lower arches",
+        "Receives the inner bow of the facebow appliance during treatment",
+        "Covers the arch wire to increase patient comfort during eating",
+        "Stabilizes the arch and reinforces anchorage and tooth movement"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991085,
+      question: "What is the purpose of the arch wire?",
+      options: [
+        "To provide a pattern for the dental arch and guide the teeth in movement",
+        "To permanently glue the brackets to the front surfaces of the teeth",
+        "To whiten the enamel of the teeth during the course of treatment",
+        "To cover the gums and protect them from irritation during chewing"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991086,
+      question: "Why is nickel titanium (NiTi) wire used?",
+      options: [
+        "For final positioning because it is stiff",
+        "For movement because of its flexibility",
+        "For its bright and attractive appearance",
+        "For its ability to whiten the enamel"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991087,
+      question: "What is a characteristic of stainless steel arch wire?",
+      options: [
+        "It is the most flexible wire available",
+        "It is used mainly for its esthetics",
+        "It is stiffer and stronger",
+        "It is used only for light force"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991088,
+      question: "What does beta titanium (TMA) arch wire provide?",
+      options: [
+        "Only flexibility with no strength or memory at all",
+        "Only a pleasing esthetic appearance for the patient",
+        "Only stiffness with no flexibility for the final stages",
+        "A combination of strength, flexibility, and memory"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991089,
+      question: "Why is Optiflex arch wire used?",
+      options: [
+        "For light force and its esthetics",
+        "For its stiffness and great strength",
+        "For its ability to remove plaque buildup",
+        "For seating the molar bands onto teeth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991090,
+      question: "When are round arch wires used?",
+      options: [
+        "Only at the very end of treatment to finish positioning the tooth roots",
+        "In the initial and intermediate stages to correct crowding and level the arch",
+        "Exclusively during the retention phase after the braces have been removed",
+        "Only when seating the molar bands during the very first appointment visit"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991091,
+      question: "When are square or rectangular arch wires used?",
+      options: [
+        "During the initial stages to correct crowding and open up the bite",
+        "Only during the separator placement at the start of all treatment",
+        "During the final stages to position the crown and root correctly",
+        "Exclusively for cleaning plaque from around the brackets and bands"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991092,
+      question: "What is a ligature tie?",
+      options: [
+        "A soft rubber pad placed over the wire to increase patient comfort",
+        "A pre-formed band cemented around the molar tooth during treatment",
+        "A plaster model used to plan the movement of the teeth before treatment",
+        "A 0.01-gauge stainless steel wire used to tie in arch wires"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991093,
+      question: "What are Kobayashi hooks?",
+      options: [
+        "Ligature ties spot welded at the tip to form hooks for attaching elastics",
+        "Round tubes welded to molar bands for the inner bow of a facebow",
+        "Plastic covers placed over the wire to reduce irritation to the cheek",
+        "Plaster attachments added to the diagnostic cast for treatment planning"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991094,
+      question: "What are elastic chain ties used for?",
+      options: [
+        "To take radiographs of the patient's teeth and supporting bone",
+        "To close space between teeth or to correct rotated teeth",
+        "To seat the molar bands during the placement of fixed appliances",
+        "To whiten the teeth after the orthodontic appliances are removed"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991095,
+      question: "How are elastics, commonly called rubber bands, used?",
+      options: [
+        "Cemented permanently around each molar to anchor the entire appliance",
+        "Bonded directly to the front of each tooth to whiten the enamel surface",
+        "Placed from one tooth to another to close spaces and correct occlusal relationships",
+        "Wrapped over the gums to protect the soft tissue from wire irritation"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991096,
+      question: "What is elastic thread used for?",
+      options: [
+        "To cover the arch wire and increase the patient's overall comfort",
+        "To take the diagnostic photographs of the patient before treatment",
+        "To cement the molar bands onto the back teeth during the first visit",
+        "To close space or aid in the eruption of impacted teeth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991097,
+      question: "What is comfort tubing used for?",
+      options: [
+        "To aid patient comfort by covering an arch wire that may cause discomfort",
+        "To close spaces between the teeth and correct any rotated teeth present",
+        "To assist in the eruption of teeth that have become impacted in the bone",
+        "To stabilize the lingual arch and reinforce anchorage during tooth movement"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991098,
+      question: "What is the new orthodontic alignment technique used for simple alignment of teeth?",
+      options: [
+        "The stainless steel headgear device",
+        "The vacuum formed clear aligner",
+        "The fixed lingual canine-to-canine wire",
+        "The bonded metal bracket and band system"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991099,
+      question: "How do the patient's teeth move with a clear aligner system?",
+      options: [
+        "Instantly after the first aligner is placed into the mouth once",
+        "Only after surgery is performed to reposition the jaw bones first",
+        "Gradually as a result of the pressure that the aligner creates",
+        "Through a chemical reaction that dissolves the bone around the roots"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991100,
+      question: "Which statement about the clear aligner system is true?",
+      options: [
+        "It is suitable for every possible case of malocclusion equally",
+        "It is fabricated by hand without the use of any computer at all",
+        "It is permanently fixed to the teeth and cannot ever be removed",
+        "It is not suitable for all cases of malocclusion"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991101,
+      question: "What does the chairside assistant check the patient's appliance for during adjustment visits?",
+      options: [
+        "Broken arch wires, loose brackets and bands, and loose or missing ligatures and elastics",
+        "The exact shade of the tooth enamel and the level of staining present on each tooth",
+        "The total number of hidden cavities present between all of the patient's back teeth",
+        "The amount of plaque on the patient's tongue and the level of bleeding from the gums"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991102,
+      question: "According to the toothbrushing instructions, how should you floss with braces?",
+      options: [
+        "Avoid flossing entirely until the braces are removed at the end",
+        "Floss your teeth using a floss threader for easy application",
+        "Floss only once each month to avoid loosening the brackets and wires",
+        "Use a metal pick to scrape between the brackets instead of flossing"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991103,
+      question: "After brushing with braces, what should you do to remove any debris?",
+      options: [
+        "Chew a piece of sticky gum thoroughly",
+        "Press hard on each bracket with a finger",
+        "Rinse and swish water around the mouth",
+        "Skip rinsing to keep the toothpaste on longer"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991104,
+      question: "Why should sugar-containing foods be avoided during orthodontic treatment?",
+      options: [
+        "They cause the arch wire to permanently change its color over time",
+        "They make the elastics stretch out and lose their ability to close spaces",
+        "They cause the gums to grow over the brackets and cover the teeth fully",
+        "They weaken cement beneath the bands and adhere to enamel, causing cavities"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991105,
+      question: "Why should hard foods such as ice and jawbreakers be avoided with braces?",
+      options: [
+        "They loosen bands and bend and occasionally break arch wires",
+        "They dissolve the bonding cement and cause the brackets to fall off",
+        "They stain the brackets and elastics a dark and unattractive color",
+        "They cause the gums to swell and bleed around the bands and wires"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991106,
+      question: "Why should sticky foods such as caramel and taffy be avoided with braces?",
+      options: [
+        "They lodge between bands and beneath wires, irritating the gum tissues",
+        "They loosen bands, pull out ligature ties, and may bend arch wires",
+        "They weaken the cement and adhere to the enamel, causing tooth decay",
+        "They cause the brackets to change color and become permanently stained"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991107,
+      question: "What is headgear used to control?",
+      options: [
+        "Tooth color and enamel shade",
+        "Plaque buildup and gum bleeding",
+        "Growth and tooth movement",
+        "Saliva production and bad breath"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991108,
+      question: "What is the facebow used for?",
+      options: [
+        "To apply fluoride to the teeth and strengthen the enamel against decay",
+        "To whiten the front teeth and remove stains caused by food and drink",
+        "To take photographs of the patient's face from the front and side views",
+        "To stabilize or move the maxillary first molar distally and create more room"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991109,
+      question: "What are traction devices used for?",
+      options: [
+        "To apply the extraoral force necessary to achieve the desired treatment results",
+        "To take the diagnostic radiographs of the patient's skull and jaw bones",
+        "To clean the plaque from around the brackets during each adjustment visit",
+        "To cement the molar bands onto the back teeth during the first appointment"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991110,
+      question: "How is band removal accomplished at the completion of treatment?",
+      options: [
+        "By dissolving the cement with a special chemical rinse over several weeks",
+        "By breaking the seal of cement and lifting the bands off with a band remover",
+        "By heating each band until the metal softens and slides off the tooth easily",
+        "By allowing the bands to fall off naturally as the teeth shift into position"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991111,
+      question: "How are bonded brackets removed at the completion of treatment?",
+      options: [
+        "By breaking the cement seal and lifting them with a band remover tool",
+        "By soaking them in a chemical solution until the bond dissolves completely",
+        "By creating a fracture within the resin bonding material",
+        "By waiting until they loosen on their own once the arch wire is taken out"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991112,
+      question: "Why is retention necessary after orthodontic treatment?",
+      options: [
+        "To whiten the teeth and remove any stains that built up during treatment",
+        "To strengthen the enamel and protect the teeth from future decay and cavities",
+        "To take final photographs and radiographs for the patient's permanent record",
+        "To allow tissue reorganization, support unstable teeth, and control growth changes"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991113,
+      question: "Which of the following is a type of appliance used for retention?",
+      options: [
+        "The Hawley retainer",
+        "The bird-beak plier",
+        "The orthodontic scaler",
+        "The molar band plugger"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991114,
+      question: "What does the orthodontic positioner do?",
+      options: [
+        "Whitens the teeth, removes the surface stains, and polishes all of the enamel smooth",
+        "Retains teeth in position, lets the alveolus rebuild support, and massages the gingiva",
+        "Takes the radiographs, records the bite force, and measures the patient's jaw movements",
+        "Cements the bands, bonds the brackets, and ties in the arch wire firmly and securely"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991115,
+      question: "What is the purpose of a Hawley retainer?",
+      options: [
+        "This fixed appliance actively moves the teeth into their new position quickly",
+        "This device whitens the teeth and removes stains after treatment is finished",
+        "This removable retainer passively retains the teeth in their new position",
+        "This appliance applies extraoral force to move the molars back in the arch"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 991116,
+      question: "What is a lingual retainer?",
+      options: [
+        "A removable plate worn over the palate to passively retain the front teeth",
+        "A clear vacuum-formed tray that covers all of the teeth in the dental arch",
+        "A round tube on the molar band used for the inner bow of a facebow device",
+        "A fixed lingual wire bonded canine-to-canine on the lingual surfaces"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 991117,
+      question: "What does the lingual retainer provide?",
+      options: [
+        "Lower incisor position during late growth",
+        "Whitening of the lower front teeth",
+        "Movement of the maxillary molars distally",
+        "Extraoral force to reshape the jaw"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991118,
+      question: "Orthodontics is the specialized branch of dentistry that diagnoses, prevents, and treats dental and facial irregularities.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991119,
+      question: "The most common cause of malocclusion is a buildup of plaque and calculus along the gumline.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991120,
+      question: "Bruxism, which refers to teeth grinding or clenching, is listed as a habit that can cause malocclusion.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991121,
+      question: "Class II malocclusion is also referred to as mesioclusion and produces a prognathic facial profile.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991122,
+      question: "Crowding is the most common contributor to malocclusion, in which one or many teeth are misplaced.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991123,
+      question: "Nickel titanium (NiTi) arch wire is used for movement because of its flexibility.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991124,
+      question: "The first step in the sequence of appointments for fixed appliances is the bonding of brackets.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991125,
+      question: "Round arch wires are used during the final stages of treatment to position the crown and root.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991126,
+      question: "Pre-formed stainless steel orthodontic bands are fitted and cemented to the molar teeth.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991127,
+      question: "A Hawley retainer is a fixed appliance that actively moves teeth into a new position.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 991128,
+      question: "Headgear is an orthodontic device used to control growth and tooth movement.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 991129,
+      question: "The vacuum formed clear aligner system is suitable for all cases of malocclusion.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    }
+  ],
+  "8. Introduction to Orthodontics (Part 2)": [
+    {
+      id: 992001,
+      question: "Orthodontics is best defined as a dental specialty dealing with the recognition, prevention, and treatment of:",
+      options: [
+        "diseases of the tongue, throat, and glands",
+        "infections of the pulp, roots, and apex",
+        "disorders of the sinuses, airway, and nose",
+        "irregularities of the teeth, jaws, and face"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992002,
+      question: "Which of the following is a stated goal of orthodontic treatment?",
+      options: [
+        "Establish or maintain a normal functioning occlusion",
+        "Eliminate the future need for any restorative work",
+        "Remove every primary tooth before it can erupt",
+        "Prevent the permanent teeth from ever erupting"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992003,
+      question: "Improving facial esthetics is considered to be:",
+      options: [
+        "a recognized goal of orthodontic treatment",
+        "an unrelated concern of cosmetic dentistry only",
+        "a side effect that is generally best avoided",
+        "a goal limited to surgical jaw procedures only"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992004,
+      question: "One goal of orthodontic treatment is to establish the best physiologic position of the:",
+      options: [
+        "incisor along the anterior border of bone",
+        "molar against the opposing arch surface",
+        "condyle in the temporomandibular joint",
+        "canine within the curve of the dental arch"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992005,
+      question: "Among the goals of orthodontic treatment is to establish healthy and stable:",
+      options: [
+        "short-term enamel whiteness",
+        "long-term salivary output",
+        "long-term periodontal health",
+        "short-term jaw muscle bulk"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992006,
+      question: "Which of the following can arise from untreated malocclusion?",
+      options: [
+        "Psychosocial problems for the individual",
+        "Permanent fusion of the upper and lower jaws",
+        "Complete loss of all feeling in the lower lip",
+        "Spontaneous regrowth of previously lost teeth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992007,
+      question: "Untreated malocclusion can lead to injury caused by trauma to and breakage of:",
+      options: [
+        "protruding teeth",
+        "the salivary glands",
+        "the facial nerve",
+        "the nasal septum"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992008,
+      question: "The dental hygienist's role in orthodontics includes identifying malocclusions and:",
+      options: [
+        "bending and adjusting the archwires during treatment",
+        "maintaining dental and periodontal health during treatment",
+        "prescribing the surgical plan for the jaw repositioning",
+        "selecting the bracket system placed on each single tooth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992009,
+      question: "In most cases, a malocclusion is caused by a combination of:",
+      options: [
+        "viral and bacterial infections",
+        "dietary and hormonal imbalances",
+        "skeletal and dental discrepancies",
+        "muscular and neural injuries"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992010,
+      question: "A skeletal discrepancy exists when the malocclusion is caused by the:",
+      options: [
+        "shade and surface texture of the enamel",
+        "number of fillings present in the mouth",
+        "direction the tongue rests during sleep",
+        "position of the jaws relative to one another"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992011,
+      question: "The three basic spatial planes used to describe malocclusion are:",
+      options: [
+        "anterior, posterior, and occlusal",
+        "buccal, lingual, and incisal edge",
+        "horizontal, vertical, and transverse",
+        "mesial, distal, and apical level"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992012,
+      question: "Horizontal malocclusions are classified as:",
+      options: [
+        "open bites or severe overbites cases",
+        "anterior or posterior crossbite cases",
+        "primate or developmental space cases",
+        "class II or class III malocclusions"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992013,
+      question: "Which condition is an example of a vertical malocclusion?",
+      options: [
+        "A posterior or an anterior crossbite",
+        "An open bite or a severe overbite",
+        "A class II or a class III relationship",
+        "A midline diastema or tooth rotation"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992014,
+      question: "Which of the following is classified as a transverse malocclusion?",
+      options: [
+        "An open bite of the anterior teeth",
+        "A crossbite of the posterior teeth",
+        "A class II molar relationship pattern",
+        "A severe overbite of the front teeth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992015,
+      question: "An anterior open bite is a malocclusion that occurs in the:",
+      options: [
+        "vertical dimension",
+        "transverse dimension",
+        "horizontal dimension",
+        "rotational dimension"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992016,
+      question: "An anterior open bite can occur if the:",
+      options: [
+        "posterior teeth erupt too far into the mouth",
+        "anterior teeth erupt too far out of the mouth",
+        "posterior teeth fail to develop any roots",
+        "anterior teeth fuse together at the midline"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992017,
+      question: "In long face syndrome, the mandible is positioned:",
+      options: [
+        "too far downward and backward",
+        "too far upward and forward",
+        "too far to the left and inward",
+        "too far to the right and outward"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992018,
+      question: "A skeletal short face with insufficient posterior eruption predisposes the client to:",
+      options: [
+        "a severe anterior overbite",
+        "a severe posterior open bite",
+        "a severe unilateral crossbite",
+        "a severe midline diastema"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992019,
+      question: "Treatment of an open bite or severe overbite requires correction of:",
+      options: [
+        "alignment problems of the anterior teeth",
+        "color problems of the enamel surfaces",
+        "spacing problems of the lower incisors",
+        "eruption problems of the posterior teeth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992020,
+      question: "Treatment of a class II or III malocclusion caused by malpositioned teeth alone is:",
+      options: [
+        "identical to one caused by skeletal relationships",
+        "different from one caused by skeletal relationships",
+        "impossible without major orthognathic jaw surgery",
+        "always delayed until all third molars erupt fully"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992021,
+      question: "According to the eruption sequence, which primary tooth erupts first?",
+      options: [
+        "The mandibular central incisor",
+        "The maxillary central incisor",
+        "The mandibular first molar tooth",
+        "The maxillary lateral incisor"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992022,
+      question: "According to the eruption sequence, the last primary tooth to erupt is the:",
+      options: [
+        "mandibular first molar",
+        "maxillary central incisor",
+        "mandibular lateral incisor",
+        "maxillary second molar"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992023,
+      question: "Angle's classification of malocclusion applies only to the:",
+      options: [
+        "primary dentition",
+        "mixed dentition",
+        "transitional dentition",
+        "permanent dentition"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992024,
+      question: "Classification of the primary dentition's occlusion uses the distal surfaces of the:",
+      options: [
+        "primary maxillary and mandibular central incisors",
+        "permanent maxillary and mandibular first molars",
+        "primary maxillary and mandibular second molars",
+        "permanent maxillary and mandibular canine teeth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992025,
+      question: "Angle's classification and the primary classification systems are both described as:",
+      options: [
+        "the final word in any occlusal assessment work",
+        "only a starting point for occlusal assessment",
+        "useful only for adults over forty years of age",
+        "valid only after all third molars have erupted"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992026,
+      question: "Eruption time is considered normal if it occurs within:",
+      options: [
+        "2 months before or 2 months after the expected age",
+        "6 months before or 6 months after the expected age",
+        "1 year before or 1 year after the expected age",
+        "3 weeks before or 3 weeks after the expected age"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992027,
+      question: "Primate space is described as spacing that occurs predominantly in:",
+      options: [
+        "one location and is permanent in all human beings",
+        "four locations and is temporary in subhuman apes",
+        "two locations and is permanent in subhuman primates",
+        "three locations and is temporary in young children"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992028,
+      question: "In the maxilla, primate space occurs between the:",
+      options: [
+        "central incisors and the midline",
+        "first molars and the second molars",
+        "lateral incisors and the canines",
+        "canines and the first premolars"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992029,
+      question: "In the mandible, primate space occurs between the:",
+      options: [
+        "lateral incisors and the canines",
+        "central incisors and the midline",
+        "first molars and the second molars",
+        "canines and the first molars"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992030,
+      question: "Developmental spacing between the incisors is an indication that:",
+      options: [
+        "the permanent teeth will erupt in the wrong order",
+        "the primary teeth are about to become ankylosed",
+        "the tongue is pushing the teeth out of position",
+        "alveolar growth is adequate for the permanent teeth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992031,
+      question: "Spacing in the primary anterior teeth is a positive sign of arch development unless it is related to:",
+      options: [
+        "a recent change in the child's daily diet plan",
+        "a normal eruption of all the primary canines",
+        "a tongue thrust or congenitally missing incisors",
+        "a healthy growth pattern of the lower jawbone"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992032,
+      question: "The absence of spacing in the primary dentition is a clear sign that:",
+      options: [
+        "growth of the jaws has stopped completely now",
+        "the permanent teeth will never erupt at all",
+        "the child has an unusually small tongue size",
+        "teeth will be crowded in the permanent dentition"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992033,
+      question: "According to the permanent eruption sequence, the first permanent teeth to erupt are the:",
+      options: [
+        "maxillary central incisors",
+        "mandibular lateral incisors",
+        "mandibular first molars",
+        "maxillary second premolars"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992034,
+      question: "According to the permanent eruption sequence, the third molars typically erupt at about:",
+      options: [
+        "12 years of age",
+        "16 years of age",
+        "20 years of age",
+        "25 years of age"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992035,
+      question: "Transitional dentition occurs after eruption of the first permanent tooth but before the teeth:",
+      options: [
+        "come into full occlusion",
+        "finish forming their roots",
+        "begin to show heavy wear",
+        "develop their first cavities"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992036,
+      question: "In the young adolescent, posterior teeth appear to have short clinical crowns because of:",
+      options: [
+        "slow continued eruption tied to growth of the ramus",
+        "rapid wear of the enamel during heavy chewing",
+        "early loss of the overlying primary molar teeth",
+        "a thick layer of plaque covering the crown tips"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992037,
+      question: "Compared with the age of eruption, a change in the sequence of eruption is a:",
+      options: [
+        "less reliable sign of a developmental problem",
+        "more reliable sign of a developmental problem",
+        "completely unrelated sign of a jaw fracture",
+        "normal finding that requires no further action"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992038,
+      question: "Asymmetrical tooth eruption may be a sign of:",
+      options: [
+        "excellent arch development",
+        "developmental discrepancies",
+        "normal primate spacing",
+        "complete dental maturity"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992039,
+      question: "Skeletal age refers to the development of the skeletal system in relation to the client's:",
+      options: [
+        "dental age",
+        "chronologic age",
+        "mental age",
+        "gingival age"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992040,
+      question: "Chronologic age is defined as the client's age measured in:",
+      options: [
+        "weeks and days",
+        "decades and years",
+        "hours and minutes",
+        "years and months"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992041,
+      question: "Dental age refers to the maturation of the teeth, including their:",
+      options: [
+        "enamel coloring",
+        "clinical eruption",
+        "surface roughness",
+        "chewing strength"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992042,
+      question: "Besides eruption, shift, and position of the teeth, occlusion also depends on the:",
+      options: [
+        "skeletal growth of the mandible and maxilla",
+        "daily intake of sugar in the child's diet",
+        "frequency of professional dental cleanings",
+        "thickness of the enamel on the front teeth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992043,
+      question: "According to equilibrium theory, an object will move only if it is subjected to:",
+      options: [
+        "forces of equal magnitude",
+        "no external force at all",
+        "forces of unequal magnitude",
+        "only the pull of gravity"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992044,
+      question: "In causing tooth movement, the duration of the force applied is:",
+      options: [
+        "less important than the strength of the force",
+        "more important than the strength of the force",
+        "exactly as important as the color of tooth",
+        "unrelated to whether the tooth will move"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992045,
+      question: "Which of the following contributes to the equilibrium of forces applied to the teeth?",
+      options: [
+        "Mineral deposits within the tooth enamel",
+        "Elastic gingival fibers around the teeth",
+        "Air pressure inside the maxillary sinus",
+        "Blood flow through the facial arteries"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992046,
+      question: "Tooth eruption and position within the arches are determined by forces from the tongue, cheeks, and lips, the periodontal ligament, and the:",
+      options: [
+        "mineral content of the saliva",
+        "elasticity of the gingival fibers",
+        "thickness of the cheek muscles",
+        "pressure inside the ear canal"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992047,
+      question: "In order to affect the position of the teeth, a force must be applied for at least:",
+      options: [
+        "about 2 hours each day",
+        "about 1 hour each day",
+        "about 12 hours each day",
+        "about 6 hours each day"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992048,
+      question: "Forces from the lips, tongue, and cheeks during mastication do not determine tooth position because their:",
+      options: [
+        "duration is much too short",
+        "direction is always upward",
+        "strength is much too great",
+        "timing is always at night"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992049,
+      question: "Relapse after orthodontic treatment is prevented by the use of:",
+      options: [
+        "retainers and/or incision of the gingival fibers",
+        "antibiotics and/or removal of the wisdom teeth",
+        "fluoride gels and/or whitening of the enamel",
+        "mouthguards and/or extraction of the molars"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992050,
+      question: "Frontal resorption is the process in which osteoclasts attack the lamina dura and:",
+      options: [
+        "add new bone on the pressure side of tooth",
+        "remove bone on the pressure side of the tooth",
+        "remove bone on the tension side of tooth",
+        "add new enamel on the surface of tooth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992051,
+      question: "After osteoclasts remove bone, the cells needed to remodel that bone are the:",
+      options: [
+        "fibroblasts",
+        "odontoblasts",
+        "ameloblasts",
+        "osteoblasts"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992052,
+      question: "Osteoclastic and osteoblastic activities during tooth movement are stimulated by:",
+      options: [
+        "vitamin D pills",
+        "prostaglandin E",
+        "adrenaline rush",
+        "insulin release"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992053,
+      question: "Forces considered ideal for orthodontic tooth movement are:",
+      options: [
+        "heavy and intermittent, producing rapid bone loss",
+        "light and continuous, producing only frontal resorption",
+        "light and intermittent, producing no bone change",
+        "heavy and continuous, producing fast jaw growth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992054,
+      question: "As the periodontal ligament becomes compressed during tooth movement, there is pain, altered blood flow, and:",
+      options: [
+        "immediate hardening of the enamel on the crown",
+        "permanent loss of all sensation around the tooth",
+        "release of cellular mediators within the ligament",
+        "rapid growth of new nerves inside the tooth pulp"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992055,
+      question: "Differentiation into osteoclasts and osteoblasts occurs after sustained pressure lasting about:",
+      options: [
+        "6 days",
+        "6 hours",
+        "6 weeks",
+        "6 months"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992056,
+      question: "During orthodontic tooth movement, the job of the osteoclasts is to:",
+      options: [
+        "form enamel",
+        "remove bone",
+        "build dentin",
+        "close pulp"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992057,
+      question: "Osteoblasts remodel bone on the pressure side and also form new bone on the:",
+      options: [
+        "surface of the visible tooth crown",
+        "side to which tension is applied",
+        "roof of the maxillary sinus cavity",
+        "floor of the mandibular canal space"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992058,
+      question: "A hyalinized area develops when sustained force is great enough to:",
+      options: [
+        "increase blood flow and speed up the healing rate",
+        "stimulate new nerve growth within the dental pulp",
+        "occlude blood vessels and cut off the blood supply",
+        "harden the enamel surface of the affected tooth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992059,
+      question: "Orthodontic appointments are typically scheduled no more frequently than every:",
+      options: [
+        "about 1 week apart",
+        "about 2 days apart",
+        "about 4 weeks apart",
+        "about 6 months apart"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992060,
+      question: "Orthodontic force has implications on which of the following areas?",
+      options: [
+        "The salivary glands and the tongue muscles",
+        "The facial nerve and the parotid gland duct",
+        "The root structure and height of alveolar bone",
+        "The nasal sinuses and the bony eye sockets"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992061,
+      question: "Removable appliances are used for which of the following purposes?",
+      options: [
+        "Permanent fusion of two adjacent teeth",
+        "Complete closure of all extraction sites",
+        "Rapid surgical repositioning of the jaws",
+        "Retention after the completion of treatment"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992062,
+      question: "In orthodontic treatment, fixed appliances are described as:",
+      options: [
+        "useful for no cases",
+        "required for most cases",
+        "banned in most cases",
+        "optional in all cases"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992063,
+      question: "One advantage of removable appliances is that they:",
+      options: [
+        "can never be lost or thrown away",
+        "can be removed for social functions",
+        "can complete the most complex moves",
+        "can work without any cooperation"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992064,
+      question: "One disadvantage of removable appliances is that:",
+      options: [
+        "treatment depends heavily on client compliance",
+        "they require far more chair time than fixed",
+        "they cannot be removed for social functions",
+        "they make complex tooth movement very easy"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992065,
+      question: "More modification of skeletal growth is possible with:",
+      options: [
+        "fixed appliances than with removable ones",
+        "neither removable nor fixed appliances ever",
+        "surgery alone, without any appliances used",
+        "removable appliances than with fixed appliances"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992066,
+      question: "A cause of malaligned teeth in the early mixed dentition is:",
+      options: [
+        "lack of adequate space in the dental arch",
+        "excess saliva production during the night",
+        "early eruption of all the third molars",
+        "complete absence of any primary teeth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992067,
+      question: "Which of the following is a sign for the need for early orthodontic intervention?",
+      options: [
+        "Mandibular second molars erupt before second premolars",
+        "Mandibular central incisors erupt before first molars",
+        "Maxillary canines erupt before the lateral incisors",
+        "Maxillary first molars erupt before the second molars"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992068,
+      question: "Which finding is a sign for the need for early orthodontic intervention?",
+      options: [
+        "Even spacing between all the primary front teeth",
+        "Overretention or early loss of the primary teeth",
+        "Symmetrical eruption on both sides of the mouth",
+        "On-time eruption of every permanent tooth present"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992069,
+      question: "Leeway space is the difference in mesiodistal crown width between the primary canines and molars and their:",
+      options: [
+        "adjacent incisors",
+        "opposing molars",
+        "primary neighbors",
+        "permanent successors"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992070,
+      question: "Which of the following is listed as a sign for early orthodontic intervention?",
+      options: [
+        "A complete absence of any tooth decay",
+        "An even and symmetrical eruption order",
+        "A midline diastema or impacted canines",
+        "A normal amount of developmental spacing"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992071,
+      question: "A main goal of comprehensive orthodontic treatment is to make the occlusion as ideal as possible through:",
+      options: [
+        "repositioning of the teeth",
+        "whitening of the teeth",
+        "extraction of the teeth",
+        "splinting of the teeth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992072,
+      question: "Which is one of the three major stages of comprehensive orthodontic treatment?",
+      options: [
+        "Extraction of every primary tooth in the mouth",
+        "Whitening of the enamel on all the front teeth",
+        "Removal of the temporomandibular joint disc",
+        "Alignment of teeth and leveling of the occlusal planes"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992073,
+      question: "Retention is necessary after orthodontic treatment partly because:",
+      options: [
+        "the brackets must stay bonded for several more years",
+        "the teeth become permanently fixed once they align",
+        "gingival and periodontal tissues need time to reorganize",
+        "the jaws stop growing the moment braces come off"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992074,
+      question: "Reorganization of the periodontium after orthodontic treatment takes about:",
+      options: [
+        "about 3 to 4 months",
+        "about 1 to 2 days",
+        "about 5 to 6 years",
+        "about 9 to 10 hours"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992075,
+      question: "The most common type of retainer is the:",
+      options: [
+        "fixed bracket worn on the mandibular arch",
+        "clear aligner worn on both arches at once",
+        "Hawley appliance worn on the maxillary arch",
+        "metal band worn around each molar tooth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992076,
+      question: "Fixed retainers are bonded to the teeth and are used for the:",
+      options: [
+        "short-term whitening of the enamel surface",
+        "rapid extraction of the impacted canine teeth",
+        "gradual closure of the maxillary sinus space",
+        "long-term control of orthodontic alignment"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992077,
+      question: "The AAO recommends that a child first be examined by an orthodontist by the age of:",
+      options: [
+        "about 3 years old",
+        "about 12 years old",
+        "about 16 years old",
+        "about 7 years old"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992078,
+      question: "For a client with multiple dental problems, orthodontic treatment can begin only after:",
+      options: [
+        "carious teeth are restored and disease is controlled",
+        "all retainers have been worn for several years",
+        "the crowns and bridges are completely finished",
+        "the client reaches the age of forty or older"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992079,
+      question: "Definitive periodontal therapy such as osseous surgery is delayed until after orthodontic treatment because:",
+      options: [
+        "the gingiva cannot be numbed during treatment",
+        "the alveolar bone changes during the treatment",
+        "the teeth are too clean to operate on safely",
+        "the insurance will not cover earlier surgery"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992080,
+      question: "Definitive restorative procedures such as crowns and bridges are completed:",
+      options: [
+        "before any disease is controlled",
+        "during the very first appointment",
+        "instead of any orthodontic care",
+        "after the orthodontic treatment"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992081,
+      question: "The stated goals of orthodontic treatment planning are ideal occlusion, facial esthetics, and:",
+      options: [
+        "periodontal health and stability",
+        "complete whitening of enamel",
+        "removal of the wisdom teeth",
+        "permanent fusion of the jaws"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992082,
+      question: "One of the three goals of profile analysis is to determine the position of the jaws in the:",
+      options: [
+        "horizontal plane of the eyes",
+        "vertical plane of the nose",
+        "anteroposterior plane of space",
+        "transverse plane of the ears"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992083,
+      question: "A goal of profile analysis is to assess the posture of the lips and the position of the:",
+      options: [
+        "sinuses",
+        "tonsils",
+        "earlobes",
+        "incisors"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992084,
+      question: "Which of the following is included among the orthodontic diagnostic records?",
+      options: [
+        "A complete blood count and a clean urine sample",
+        "A daily food diary and an electronic sleep tracker",
+        "Diagnostic dental casts and a wax bite registration",
+        "A handwriting sample and a standard vision test"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992085,
+      question: "Which is listed as a baseline factor to be assessed during orthodontic diagnosis?",
+      options: [
+        "Shoe size, including width and arch height",
+        "Hair color, including any recent dye changes",
+        "Handedness, including grip strength on each side",
+        "Health history, including diseases and medications"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992086,
+      question: "For the adult with periodontal disease, dental hygiene care is considered complete only when:",
+      options: [
+        "every tooth has been crowned and root canal treated",
+        "the client agrees to wear a retainer for the rest of life",
+        "inflammation is controlled enough for safe tooth movement",
+        "all of the wisdom teeth have been surgically removed"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992087,
+      question: "Clients with periodontal disease must be seen for professional supportive periodontal maintenance every:",
+      options: [
+        "2 to 3 months",
+        "2 to 3 years",
+        "2 to 3 days",
+        "2 to 3 weeks"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992088,
+      question: "Control of which factor is described as key to managing the adult with periodontal disease?",
+      options: [
+        "Saliva flow",
+        "Plaque biofilm",
+        "Jaw width",
+        "Tooth shade"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992089,
+      question: "Care of the orthodontic client by the dental hygienist includes:",
+      options: [
+        "providing nutritional assessment and counseling",
+        "bending and adjusting the metal archwires",
+        "performing the orthognathic surgery on jaws",
+        "diagnosing the underlying skeletal growth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992090,
+      question: "Clients with fixed appliances are advised to brush:",
+      options: [
+        "three times a day with a fluoride dentifrice",
+        "once a week with a whitening dentifrice only",
+        "only at night with a non-fluoride toothpaste",
+        "every other day with plain lukewarm water"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992091,
+      question: "A floss threader or super floss is recommended to clean:",
+      options: [
+        "subgingivally on the proximal tooth surfaces",
+        "the chewing surfaces of the front teeth only",
+        "the outside of the metal orthodontic brackets",
+        "the roof of the mouth near the back of throat"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992092,
+      question: "When using an oral irrigator, the client should set it on:",
+      options: [
+        "high power and aim it straight at the gums",
+        "low power and aim it underneath the tongue",
+        "low power and aim it just above the papilla",
+        "high power and aim it at the cheek lining"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992093,
+      question: "When chlorhexidine is prescribed, it should be separated from fluoride use by about:",
+      options: [
+        "5 minutes for the effective use of each",
+        "60 minutes for the effective use of each",
+        "12 hours for the effective use of each",
+        "3 days for the effective use of each"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992094,
+      question: "A floss threader is used during interdental cleaning to:",
+      options: [
+        "polish the surface of brackets",
+        "remove a loose metal band",
+        "tighten the elastic ties on",
+        "place floss under the archwire"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992095,
+      question: "During interdental cleaning, a rubber-tip stimulator is used to:",
+      options: [
+        "thread the floss beneath the archwire",
+        "place fluoride gel into the deep pockets",
+        "bend the archwire back into proper shape",
+        "disrupt plaque and massage the papillae"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992096,
+      question: "Which food should be avoided when wearing fixed orthodontic appliances?",
+      options: [
+        "Soft yogurt and applesauce",
+        "Cooked pasta and low-sugar foods",
+        "Fruit cut into small soft pieces",
+        "Hard candy and whole apples"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992097,
+      question: "Which food is recommended for clients wearing fixed orthodontic appliances?",
+      options: [
+        "Caramels and chewing gum",
+        "Popcorn and corn on the cob",
+        "Hard pretzels and crunchy ice",
+        "Applesauce and plain yogurt"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992098,
+      question: "While in the hospital, oral hygiene care for the surgical client consists of frequent:",
+      options: [
+        "whitening treatment with a high-powered laser unit",
+        "scaling appointment with an ultrasonic hand instrument",
+        "saline irrigation with a 30-ml syringe and blunt needle",
+        "fluoride varnish application with a small foam brush"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992099,
+      question: "For the first 2 weeks after orthognathic surgery, clients continue to:",
+      options: [
+        "floss aggressively around every single bracket",
+        "irrigate with the use of saline and a syringe",
+        "brush the lingual surfaces several times a day",
+        "chew sugarless gum to strengthen the jaw bones"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992100,
+      question: "Surgical orthodontic clients require instruction in physical therapy techniques to restore:",
+      options: [
+        "color of the enamel and shine of the surfaces",
+        "growth of the roots and length of the crowns",
+        "function of the lips and ability to open the jaws",
+        "flow of the saliva and moisture of the tongue"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992101,
+      question: "After surgical incisions have healed, the recommended antimicrobial agent for postsurgical rinsing is:",
+      options: [
+        "hydrogen peroxide, valued for its foaming action",
+        "table salt water, valued for its very low cost",
+        "chlorhexidine, valued for its low alcohol content",
+        "rubbing alcohol, valued for its strong odor"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992102,
+      question: "From 2 to 8 weeks after surgery, plaque control may include:",
+      options: [
+        "vigorous scrubbing with a stiff hard-bristled brush",
+        "complete avoidance of all toothbrushing for weeks",
+        "daily polishing with a coarse abrasive whitener",
+        "modified sulcular brushing with a soft-bristled brush"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 992103,
+      question: "In postsurgical dietary recommendations, clients are advised to avoid:",
+      options: [
+        "all nutritious liquid drinks",
+        "all plain drinking water",
+        "any carbonated beverages",
+        "all high-caloric liquids"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 992104,
+      question: "Compared with a dentist, an orthodontist is best described as a:",
+      options: [
+        "specialist in tooth and jaw alignment",
+        "generalist in all dental and oral health",
+        "specialist in root canals and pulp therapy",
+        "generalist in gum disease and cleanings"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992105,
+      question: "Angle's classification of malocclusion applies only to the permanent dentition.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992106,
+      question: "In causing tooth movement, the strength of the force is more important than its duration.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992107,
+      question: "The most common type of retainer is the Hawley appliance, which is worn on the maxillary arch.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992108,
+      question: "Definitive restorative procedures such as crowns and bridges are completed before orthodontic treatment begins.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992109,
+      question: "The duration of a force must be at least about 6 hours per day to affect the position of the teeth.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992110,
+      question: "Developmental spacing between the primary incisors indicates that the teeth will be crowded in the permanent dentition.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992111,
+      question: "The AAO recommends that a child be examined by an orthodontist by the age of 7 years.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992112,
+      question: "During orthodontic tooth movement, the job of the osteoclasts is to form new bone.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 992113,
+      question: "Forces that are light and continuous and produce only frontal resorption are considered ideal for tooth movement.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992114,
+      question: "The three basic spatial planes used to describe malocclusion are horizontal, vertical, and transverse.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992115,
+      question: "Fixed appliances are required for most orthodontic cases.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 992116,
+      question: "Reorganization of the periodontium after orthodontic treatment takes 3 to 4 months.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    }
+  ],
+  "8. Introduction to Orthodontics (Part 3)": [
+    {
+      id: 993001,
+      question: "Orthodontics is best defined as a dental specialty that deals with the:",
+      options: [
+        "recognition, prevention, and treatment of irregularities of the teeth, jaws, and face",
+        "restoration, cleaning, and polishing of damaged teeth, gums, and tooth roots",
+        "extraction, replacement, and implantation of decayed teeth and oral tissues",
+        "diagnosis, scaling, and whitening of stained teeth and other oral surfaces"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 993002,
+      question: "Which of the following is one of the stated goals of orthodontics?",
+      options: [
+        "Eliminate the need for any future restorative dental treatment",
+        "Increase the total number of erupted teeth in both dental arches",
+        "Reduce the natural curvature of the jaw to a perfectly flat line",
+        "Establish the best physiological position of the condyle in the TMJ"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 993003,
+      question: "According to the listed goals, orthodontics aims to promote:",
+      options: [
+        "long-term stability of the corrected dentition and the occlusion",
+        "rapid tooth movement regardless of any long-term outcome at all",
+        "complete removal of all bacteria from the entire oral cavity area",
+        "permanent fusion of the maxillary and mandibular dental arches"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 993004,
+      question: "Preventive orthodontics refers to procedures designed to:",
+      options: [
+        "reverse all damage caused by previously untreated malocclusions",
+        "replace missing teeth with fixed appliances and dental implants",
+        "prevent or minimize the degree of severity of future problems",
+        "realign only the molars while leaving the front teeth untouched"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 993005,
+      question: "Corrective orthodontic treatment involves the movement of teeth and the:",
+      options: [
+        "complete prevention of any decay forming on the treated surfaces",
+        "whitening of discolored enamel using force from fixed appliances",
+        "removal of all primary teeth before the permanent teeth can erupt",
+        "correction of malrelationships and malformations of the structures"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 993006,
+      question: "Occlusion is defined as the contact relationship between maxillary and mandibular teeth when the jaws are:",
+      options: [
+        "separated widely apart during the act of chewing on tough foods",
+        "in a fully closed position, and between the teeth in the same arch",
+        "moving rapidly from side to side during normal patterns of speech",
+        "held in a resting state with the lips kept slightly parted open"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 993007,
+      question: "As the primary teeth erupt in a child, the developing occlusion is influenced by the development of the:",
+      options: [
+        "salivary glands and the surrounding lymph node structures",
+        "facial muscles and the established neuromuscular patterns",
+        "nasal cavity and the position of the developing sinus areas",
+        "tongue papillae and the taste receptors located along them"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 993008,
+      question: "Which term describes the condition in which one or more teeth are congenitally missing?",
+      options: [
+        "Microdontia, which results in unusually small but present teeth",
+        "Supernumerary, which is the presence of additional extra teeth",
+        "Anodontia, which may be partial or complete and can be genetic",
+        "Macrodontia, which results in unusually large but present teeth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 993009,
+      question: "The terms microdontia and macrodontia are used to describe teeth that:",
+      options: [
+        "vary in shape, such as peg-shaped lateral incisors and the molars",
+        "erupt early or late compared to the normal eruption schedule",
+        "are missing entirely from one or from both of the dental arches",
+        "vary in size, being either very small or very large in their form"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 993010,
+      question: "Supernumerary teeth are best described as:",
+      options: [
+        "teeth that fail to erupt because their path is fully blocked off",
+        "teeth that erupt into an abnormal position within the dental arch",
+        "extra teeth that are present beyond the normal expected number",
+        "teeth that are congenitally absent from one of the dental arches"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 993011,
+      question: "When the eruption of a tooth is blocked and prevented from erupting, the condition is called:",
+      options: [
+        "ectopic eruption into an abnormal position within the dental arch",
+        "supraversion, in which the tooth erupts beyond the occlusal plane",
+        "anodontia, in which the tooth is congenitally absent at the birth",
+        "impaction, in which the normal eruption is completely blocked"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 993012,
+      question: "Ectopic eruption occurs when a tooth is:",
+      options: [
+        "completely prevented from erupting due to a physical blockage",
+        "present in addition to the normal complement of erupted teeth",
+        "forced to erupt into an abnormal position within the dental arch",
+        "shed much earlier than the expected schedule for that one tooth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 993013,
+      question: "Genetic causes are responsible for malocclusion mainly when there are discrepancies in the:",
+      options: [
+        "size of the jaw and/or the size of the teeth in the dental arches",
+        "color of the enamel and/or the thickness of the soft gum tissue",
+        "number of taste buds and/or the strength of the chewing force",
+        "amount of saliva produced and/or the speed of the tooth eruption"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 993014,
+      question: "A genetically based malocclusion happens most commonly when a child inherits:",
+      options: [
+        "identical jaw and identical tooth sizes from both of the parents",
+        "a small jaw from one parent and larger teeth from the other one",
+        "a large jaw from one parent and smaller teeth from the other one",
+        "weakened enamel from one parent and strong roots from the other"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 993015,
+      question: "If a person has a congenitally missing tooth, it is most likely that:",
+      options: [
+        "the tooth was lost due to trauma during early childhood years",
+        "the tooth was removed during a previous orthodontic treatment",
+        "a parent or grandparent has that same tooth missing as well",
+        "the missing tooth has no connection to any inherited patterns"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 993016,
+      question: "According to the material, tooth development and physical development are:",
+      options: [
+        "always perfectly synchronized throughout a person's whole lifetime",
+        "entirely controlled by the diet a person consumes while still young",
+        "independent of one another and follow two separate timelines",
+        "determined only by the environment and never by any genetic factor"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 993017,
+      question: "Which of the following can significantly impact the development of the teeth?",
+      options: [
+        "The frequency of toothbrushing during the adolescent years",
+        "Serious illness, nutritional deprivation, and physical trauma",
+        "The type of toothpaste used during early childhood development",
+        "The total number of dental checkups attended before adulthood"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 993018,
+      question: "As teeth erupt into function, genetics and the environment determine tooth position, but tooth arrangement is affected by:",
+      options: [
+        "the total volume of saliva that is secreted into the oral cavity",
+        "muscle pressure exerted on the teeth from the surrounding tissues",
+        "the order in which the primary teeth were originally shed earlier",
+        "the temperature of the foods that are most frequently consumed"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 993019,
+      question: "According to the notes on dental development, girls compared with boys generally:",
+      options: [
+        "have noticeably larger teeth across both of the two dental arches",
+        "experience tooth eruption at a considerably later average age",
+        "develop a greater total number of supernumerary extra teeth",
+        "shed primary teeth and receive permanent teeth slightly earlier"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 993020,
+      question: "Which of the following is an environmental cause of malocclusion related to injury?",
+      options: [
+        "Inheritance of a small jaw combined with larger sized teeth",
+        "Damage to permanent tooth buds when primary teeth are injured",
+        "A tooth being congenitally absent because of a genetic pattern",
+        "Variation in the natural shape of the lateral incisor crowns"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 993021,
+      question: "The premature loss of a primary tooth can lead to malocclusion because it may cause:",
+      options: [
+        "the movement of nearby teeth into the space that was created",
+        "the immediate eruption of supernumerary teeth into the open gap",
+        "a permanent halt to the development of the underlying tooth bud",
+        "the complete fusion of the adjacent teeth across the empty space"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 993022,
+      question: "Sucking habits involving the thumb, tongue, lip, or finger during the primary dentition years are:",
+      options: [
+        "always a sign of a serious underlying skeletal jaw deformity",
+        "guaranteed to cause permanent damage to the developing teeth",
+        "considered normal and have few long-term effects at that stage",
+        "never of any concern even if they continue into the adult years"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 993023,
+      question: "An ideal occlusion with 138 occlusal contacts among the 32 permanent teeth in closure:",
+      options: [
+        "is found in the great majority of adults with permanent teeth",
+        "develops naturally once all of the primary teeth have been shed",
+        "rarely, if ever, actually exists in a real human dentition",
+        "can only be achieved through completed orthodontic treatment"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 993024,
+      question: "Centric occlusion is defined as the relation of opposing occlusal surfaces that provides the:",
+      options: [
+        "maximum planned contact and/or intercuspation when teeth close",
+        "widest possible separation of the arches during a chewing motion",
+        "least amount of tooth contact while still allowing normal speech",
+        "earliest point of contact as the lower jaw first begins to close"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 993025,
+      question: "In a normal occlusion at centric position, each tooth occludes with two opposing teeth, except for the:",
+      options: [
+        "maxillary central incisors and the mandibular molar teeth",
+        "mandibular canine teeth and the maxillary premolar teeth",
+        "maxillary lateral incisors and the mandibular canine teeth",
+        "mandibular central incisors and the maxillary molar teeth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 993026,
+      question: "Overjet is best described as the:",
+      options: [
+        "vertical overlap of the maxillary teeth, also called a deep bite",
+        "horizontal overlap of the maxillary teeth, also called protrusion",
+        "complete absence of any contact between the front teeth at all",
+        "lingual tipping of the lower incisors behind the upper incisors"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 993027,
+      question: "The measurement of overjet is taken from the:",
+      options: [
+        "lingual surface of the maxillary molar to the mandibular cusp",
+        "labial surface of the mandibular incisor to the maxillary edge",
+        "incisal edge of the lower canine to the upper canine surface",
+        "gingival margin of the upper incisor to the lower root apex"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 993028,
+      question: "Overbite is best described as the:",
+      options: [
+        "horizontal overlap of the maxillary teeth, also called protrusion",
+        "vertical overlap of the maxillary teeth, also called a deep bite",
+        "sideways shifting of the lower arch relative to the upper arch",
+        "failure of the front teeth to make any contact while biting down"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 993029,
+      question: "A normal overbite is classified as approximately:",
+      options: [
+        "a complete overlap reaching all the way down to the gingiva",
+        "a one-third overlap of the lower incisors by the upper teeth",
+        "an overlap of only the very tip of the lower incisor edges",
+        "an overlap covering the middle third of the lower front teeth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 993030,
+      question: "The first guidelines clearly describing normal and abnormal tooth relationships were developed in the 1890s by:",
+      options: [
+        "G. V. Black, using the mandibular incisors as the main key",
+        "Pierre Fauchard, using the maxillary canines as the main key",
+        "Willoughby Miller, using the second molars as the central key",
+        "Edward H. Angle, using the maxillary first molars as the key"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 993031,
+      question: "A recognized limitation of Angle's classification system is that it:",
+      options: [
+        "requires expensive radiographic equipment that is hard to use",
+        "can only be applied accurately to the primary tooth dentition",
+        "only considers the anteroposterior plane of space for the teeth",
+        "ignores the position of the molars when classifying the bite"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 993032,
+      question: "In a Class I occlusion, the mesiobuccal cusp of the maxillary first molar occludes:",
+      options: [
+        "with the occlusal fossa of the maxillary second molar tooth",
+        "in the interdental space mesial to the mandibular canine",
+        "in the buccal groove of the mandibular first molar tooth",
+        "against the lingual surface of the mandibular lateral incisor"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 993033,
+      question: "Class II, Division 1 malocclusion is characterized by Class II molars and:",
+      options: [
+        "protruded anterior teeth, and is the most common deformity",
+        "retroclined central incisors overlapped by the lateral teeth",
+        "a prognathic appearance caused by an overgrown lower jaw",
+        "a perfectly normal molar relationship with aligned front teeth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 993034,
+      question: "Class II, Division 2 malocclusion is distinguished from Division 1 by:",
+      options: [
+        "anterior teeth that are clearly protruded and flared outward",
+        "a mandible that sits in a mesial relationship to the maxilla",
+        "molar relationships that are entirely within the normal range",
+        "retroclined centrals with the lateral teeth overlapping them"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 993035,
+      question: "A Class III deformity typically yields an appearance described as:",
+      options: [
+        "retrognathic, or a weak and clearly recessed lower chin profile",
+        "prognathic, or a strong chin, from differences in jaw size",
+        "a long, gummy smile caused by over-erupted upper front incisors",
+        "a perfectly balanced facial profile with no noticeable changes"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 993036,
+      question: "A malocclusion is defined as any deviation from the normal relationship of the:",
+      options: [
+        "enamel surface of a tooth to its underlying dentin layer",
+        "gingival tissue to the cementum along the root surface area",
+        "temporomandibular joint to the base of the cranial skull",
+        "maxillary arch or teeth to the mandibular arch or teeth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 993037,
+      question: "Which of the following is listed as a problem that can arise from untreated malocclusion?",
+      options: [
+        "A permanent increase in the total saliva flow within the mouth",
+        "An automatic strengthening of the periodontal support tissues",
+        "The spontaneous correction of any crowded or rotated teeth",
+        "Temporomandibular dysfunction affecting chewing and speech"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 993038,
+      question: "For the classification of skeletal malocclusion, the three basic spatial planes involved are the:",
+      options: [
+        "sagittal, transverse, and occlusal planes of the structures",
+        "frontal, lateral, and horizontal planes of the facial bones",
+        "mesial, distal, and incisal planes of the individual teeth",
+        "buccal, lingual, and apical planes of the supporting tissues"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 993039,
+      question: "Vertical skeletal malocclusions include:",
+      options: [
+        "open bites and severe overbites, also called deep overbites",
+        "crossbites occurring on the sides and the front of the mouth",
+        "Class II and Class III anteroposterior molar relationships",
+        "edge-to-edge contact between the upper and lower front teeth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 993040,
+      question: "A crossbite occurs when one or more upper teeth:",
+      options: [
+        "bite on the inside of the lower teeth, at the front or the sides",
+        "fail to make any contact at all with the opposing lower teeth",
+        "overlap the lower teeth vertically by more than one-third deep",
+        "are positioned too far ahead of the corresponding lower teeth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 993041,
+      question: "An underbite, in which the lower teeth protrude past the front teeth, is usually caused by:",
+      options: [
+        "a horizontal overlap of the upper teeth far beyond the lower ones",
+        "over-eruption of the upper incisors past the edge of the top lip",
+        "undergrowth of the upper jaw, overgrowth of the lower jaw, or both",
+        "the upper teeth biting on the inside of the lower posterior teeth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 993042,
+      question: "\"Long face syndrome\" refers to an anterior open bite in which the mandible is:",
+      options: [
+        "rotated upward and forward with insufficiently erupted posterior teeth",
+        "shifted sideways so the upper teeth sit inside the lower posterior teeth",
+        "aligned quite normally while only the anterior teeth are tipped outward",
+        "positioned too far downward and backward with over-erupted posteriors"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 993043,
+      question: "\"Short face syndrome\" is described as insufficient eruption of the posterior teeth and a:",
+      options: [
+        "flat mandibular plane creating a severe anterior overbite",
+        "steep mandibular plane creating a wide anterior open bite",
+        "sideways crossbite affecting the entire posterior segment",
+        "protrusion of the anterior teeth beyond the lower front teeth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 993044,
+      question: "A posterior crossbite exists in the transverse plane when the buccal cusps of the maxillary teeth are:",
+      options: [
+        "lingual to their normal relationship with the mandibular teeth",
+        "positioned far ahead of their normal contact with the lower teeth",
+        "erupted well beyond the normal level of the whole occlusal plane",
+        "absent entirely from any contact with the opposing lower teeth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 993045,
+      question: "Facioversion describes a tooth that is positioned:",
+      options: [
+        "toward the tongue, lingual to its normal position in the arch",
+        "beyond the occlusal plane due to a lack of opposing contact",
+        "toward the face or cheek, away from its normal arch alignment",
+        "rotated around its own long axis within the dental arch space"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 993046,
+      question: "Linguoversion describes a tooth that is positioned:",
+      options: [
+        "toward the tongue, lingual to its normal location in the arch",
+        "toward the cheek, facial to its normal location in the arch",
+        "higher than the occlusal plane because of over-eruption issues",
+        "twisted on its own long axis relative to the neighboring teeth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 993047,
+      question: "Supraversion, also called over-eruption, refers to a tooth that has:",
+      options: [
+        "been forced toward the tongue side of the dental arch line",
+        "erupted beyond the normal occlusal plane of the dental arch",
+        "rotated around its own long axis within its place in the arch",
+        "failed to erupt at all because its path was completely blocked"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 993048,
+      question: "According to the material, in most cases a malocclusion is caused by:",
+      options: [
+        "a single isolated genetic factor passed down from one parent",
+        "the premature loss of one primary tooth during the childhood",
+        "an oral habit such as thumb sucking that was never corrected",
+        "a combination of both skeletal and dental discrepancies"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 993049,
+      question: "The eruption of the permanent teeth is affected by the shedding of the primary teeth and will in turn affect the occlusion.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 993050,
+      question: "According to the material, teeth are slightly larger in boys than in girls.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 993051,
+      question: "Class II, Division 1 is described as probably the most common skeletal deformity.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 993052,
+      question: "When teeth do not occlude properly, the resulting unnatural stress on the teeth and periodontium may lead to pain and/or occlusal trauma.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 993053,
+      question: "Habits that contribute to malalignment do NOT need to be corrected for orthodontic treatment to be successful.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    }
+  ],
+  "8. Introduction to Orthodontics (Part 4)": [
+    {
+      id: 994001,
+      question: "What is an orthodontic band?",
+      options: [
+        "A grooved metal piece bonded to the facial surface of a tooth",
+        "A metal ring that encircles a tooth and carries a tube or bracket",
+        "A thin elastic donut that ties the main wire into a bracket",
+        "A small metal extension that holds elastics onto the braces"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 994002,
+      question: "In orthodontics, what is an attachment?",
+      options: [
+        "A tube or bracket that is welded onto a band",
+        "A wire that ties the archwire into each bracket groove",
+        "A metal ring that is cemented around a molar tooth",
+        "A spring that is placed between two adjacent brackets"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 994003,
+      question: "How is an orthodontic bracket best described?",
+      options: [
+        "A ring of metal that fully surrounds a tooth on every side",
+        "A grooved piece on a band or tooth that holds the main wire",
+        "A pipe into which the archwire or night brace is inserted",
+        "A rubber connector that ties the wire into a tooth groove"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 994004,
+      question: "The archwire is the main wire on which the teeth slide like:",
+      options: [
+        "A bead sliding along a length of string",
+        "A door swinging on a fixed metal hinge",
+        "A train moving along a set of rails",
+        "A wheel turning around a center axle"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 994005,
+      question: "What is the function of a ligature?",
+      options: [
+        "To tie or lash the archwire into the groove on each bracket",
+        "To weld a tube or bracket securely onto a metal band",
+        "To create space between teeth before bands are cemented",
+        "To attach rubber bands between the upper and lower arches"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 994006,
+      question: "What are hooks used for on braces?",
+      options: [
+        "To hold the main archwire in the bracket",
+        "To attach rubber bands onto the braces",
+        "To create space between crowded teeth",
+        "To roughen the enamel before bonding"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 994007,
+      question: "A spring placed on the archwire between two brackets is used to:",
+      options: [
+        "Push teeth apart or pull two teeth together",
+        "Tie the archwire firmly into each bracket",
+        "Hold elastics between the two dental arches",
+        "Cement a band around the first molar tooth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 994008,
+      question: "What is a tube in orthodontic appliances?",
+      options: [
+        "A grooved piece that holds the main wire on a tooth",
+        "A rubber ring that ties the wire into the bracket slot",
+        "A pipe into which the archwire or night brace is inserted",
+        "A metal hook used to attach elastics to the braces"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 994009,
+      question: "What attaches a bracket to the tooth?",
+      options: [
+        "A ligature elastic or a colored o-ring",
+        "A power chain or a small coil spring",
+        "A periodontal probe or a mouth mirror",
+        "Bonding material (glue) or a metal band"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 994010,
+      question: "Brackets that do not need elastic ligatures are called:",
+      options: [
+        "Direct-bonded brackets",
+        "Ceramic mesh brackets",
+        "Self-ligating brackets",
+        "Preformed band brackets"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 994011,
+      question: "The initial archwire, called a twist wire, behaves like:",
+      options: [
+        "A solid bar that resists any kind of bending",
+        "A soft ribbon that keeps its curved shape",
+        "A small cable that wants to remain straight",
+        "A rigid rod that returns to a coiled shape"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 994012,
+      question: "The temperature inside the mouth is roughly how much above room temperature?",
+      options: [
+        "About 5 to 10 degrees",
+        "About 20 to 25 degrees",
+        "About 35 to 40 degrees",
+        "About 50 to 55 degrees"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 994013,
+      question: "In braided or twisted wires, separate strands may be as small as:",
+      options: [
+        "0.005 or 0.010",
+        "0.025 or 0.030",
+        "0.050 or 0.075",
+        "0.100 or 0.150"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 994014,
+      question: "Braided or twisted wires are typically made of how many strands around a central wire?",
+      options: [
+        "Five or seven strands",
+        "Two or three strands",
+        "Nine or ten strands",
+        "Twelve or fifteen strands"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 994015,
+      question: "A triple-stranded multi-stranded wire is made of:",
+      options: [
+        "Three wires twisted together",
+        "Five wires around a core wire",
+        "Eight strands in a rectangle",
+        "Two wires welded side by side"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 994016,
+      question: "A coaxial wire is described as:",
+      options: [
+        "Three wires twisted around each other",
+        "Eight strands formed into a rectangle",
+        "Two wires braided around a center",
+        "Five wires wrapped around a core wire"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 994017,
+      question: "A braided multi-stranded wire is described as:",
+      options: [
+        "An eight-strand rectangular wire",
+        "A three-strand twisted round wire",
+        "A five-strand coaxial round wire",
+        "A two-strand welded flat wire"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 994018,
+      question: "The solid wires used later in treatment are made of:",
+      options: [
+        "A pure soft copper alloy",
+        "A coated stainless lead alloy",
+        "A heavy solid platinum alloy",
+        "A nickel-titanium alloy"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 994019,
+      question: "About how long does the osteoclast (breakdown) process take to get fully going?",
+      options: [
+        "About 10 days",
+        "About 90 days",
+        "About 10 months",
+        "About 72 hours"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 994020,
+      question: "About how long does the osteoblast (rebuild) process take?",
+      options: [
+        "About 72 hours",
+        "About 7 days",
+        "About 90 days",
+        "About 10 months"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 994021,
+      question: "Stabilizing the orthodontic result takes about how long, making a retainer important?",
+      options: [
+        "About 72 hours",
+        "About 10 months",
+        "About 30 days",
+        "About 5 years"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 994022,
+      question: "Bonding is the process by which orthodontic brackets are:",
+      options: [
+        "Welded onto a metal band",
+        "Removed at the end of care",
+        "Tied onto the main archwire",
+        "Affixed to the tooth surface"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 994023,
+      question: "The resin frequently used in bonding is:",
+      options: [
+        "Calcium-releasing and heat-activated",
+        "Fluoride-releasing and light-activated",
+        "Chlorine-releasing and air-activated",
+        "Mineral-releasing and acid-activated"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 994024,
+      question: "Direct bonding is best described as:",
+      options: [
+        "A two-step procedure using a transfer tray or template",
+        "A method that cements metal bands onto the molars",
+        "A process that removes the brackets from the teeth",
+        "A single-step procedure bonding attachments individually"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 994025,
+      question: "Indirect bonding uses a template or tray because it:",
+      options: [
+        "Transfers attachments from a study cast at one time",
+        "Bonds each attachment individually inside the mouth",
+        "Removes residual adhesive after the brackets come off",
+        "Creates space between teeth before bands are placed"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 994026,
+      question: "Stainless steel bands are cemented to the permanent first molar because:",
+      options: [
+        "They are quicker and easier to place than the brackets",
+        "They allow better plaque control at the cervical third",
+        "They give the strength to hold palatal bars and elastics",
+        "They can be bonded onto teeth that are partly erupted"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 994027,
+      question: "Brackets are bonded to which surfaces to retain the archwire?",
+      options: [
+        "The lingual surfaces of the teeth",
+        "The occlusal surfaces of the teeth",
+        "The proximal surfaces of the teeth",
+        "The facial surfaces of the teeth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 994028,
+      question: "Which is an advantage of bonded brackets over bands?",
+      options: [
+        "The attachment has more surface area on the tooth",
+        "Rebonding a loose bracket is quicker than a band",
+        "Placement is faster and easier than placing bands",
+        "Debonding causes no potential damage to the enamel"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 994029,
+      question: "Which is a disadvantage of bonded brackets?",
+      options: [
+        "They give worse access for plaque control at the gumline",
+        "They can detach more readily due to less surface contact",
+        "They cannot ever be placed on partially erupted teeth",
+        "They hide proximal caries until the bracket is removed"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 994030,
+      question: "Separators are placed proximally in order to:",
+      options: [
+        "Hold the archwire firmly inside each bracket slot",
+        "Attach elastics between the upper and lower arches",
+        "Create space between teeth before fitting the bands",
+        "Remove residual adhesive from the enamel surface"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 994031,
+      question: "During bonding, isolation is crucial because saliva or blood will:",
+      options: [
+        "Speed up the chemical curing of the resin",
+        "Improve the grip of the bracket on enamel",
+        "Strengthen the adhesive layer under bracket",
+        "Contaminate the bond and cause bond failure"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 994032,
+      question: "Etching is done using 30% phosphoric acid for how long?",
+      options: [
+        "30 to 45 seconds",
+        "10 to 15 seconds",
+        "60 to 90 seconds",
+        "3 to 5 minutes"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 994033,
+      question: "Which etch consistency stays in one place but is more difficult to rinse off?",
+      options: [
+        "Liquid etch",
+        "Foam etch",
+        "Gel etch",
+        "Powder etch"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 994034,
+      question: "When etching, the area covered should be:",
+      options: [
+        "The entire facial surface of the crown of the tooth",
+        "As large as the bracket base but not the whole tooth",
+        "Only the very tip and edge of the bracket base pad",
+        "The whole crown including the incisal biting edge"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 994035,
+      question: "After etching, the surface should be rinsed for how long?",
+      options: [
+        "2 to 5 seconds",
+        "15 to 30 seconds",
+        "60 to 90 seconds",
+        "4 to 6 minutes"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 994036,
+      question: "After seating a bracket, the 'flash' that must be removed refers to:",
+      options: [
+        "The thin oxide layer left on the metal band",
+        "The bright reflection seen under the curing light",
+        "Excess bonding material around the bracket base",
+        "The leftover etch trapped beneath the bracket"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 994037,
+      question: "A chemical cure has a 7-minute total set that gives a tie strength of:",
+      options: [
+        "20 percent",
+        "60 percent",
+        "80 percent",
+        "100 percent"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 994038,
+      question: "The light cure set time for a metal bracket is about:",
+      options: [
+        "10 seconds",
+        "20 seconds",
+        "50 seconds",
+        "30 seconds"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 994039,
+      question: "The light cure set time for a molar bracket is about:",
+      options: [
+        "40 seconds",
+        "10 seconds",
+        "20 seconds",
+        "30 seconds"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 994040,
+      question: "Fuji Glass Ionomer is a cement that:",
+      options: [
+        "Is a ready-made paste with only a light cure set",
+        "Is a single liquid with only a chemical cure set",
+        "Is a powder/liquid mix with chemical and light cure",
+        "Is a metal primer with no curing step at all"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 994041,
+      question: "A thermal (thermally activated) wire is:",
+      options: [
+        "Soft at room temperature and stiffer at body temperature",
+        "Stiff at room temperature and softer once in the mouth",
+        "Equally stiff at every temperature it is exposed to",
+        "Active only when it is cooled well below room temperature"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 994042,
+      question: "The three preformed archwire shapes shown are square, tapered, and:",
+      options: [
+        "Conical",
+        "Ovoid",
+        "Oblong",
+        "Circular"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 994043,
+      question: "Why is physically 'tightening' braces no longer necessary?",
+      options: [
+        "Brackets are now glued much more firmly to the teeth",
+        "Patients wear elastics that pull the teeth in tighter",
+        "Power chains remove the need for any archwire at all",
+        "Thermal wires stiffen on their own at mouth temperature"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 994044,
+      question: "A power chain is best described as:",
+      options: [
+        "A rigid metal bar that locks the teeth together",
+        "A coil spring that pushes two teeth far apart",
+        "An elastic plastic chain that gradually applies force",
+        "A wire ligature that ties a single bracket shut"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 994045,
+      question: "The colored part of braces that patients can choose is the:",
+      options: [
+        "Ligature (donut or o-ring)",
+        "Bracket made of metal",
+        "Archwire across the teeth",
+        "Band around the molar"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 994046,
+      question: "Auxiliary elastics are placed between which structures to move teeth?",
+      options: [
+        "The maxillary and mandibular arches",
+        "The two halves of a single bracket",
+        "The archwire and the curing light",
+        "The band and the periodontal probe"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 994047,
+      question: "The two main steps in debonding are bracket removal and:",
+      options: [
+        "Fresh archwire placement",
+        "New separator insertion",
+        "Final fluoride etching",
+        "Residual adhesive cleaning"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 994048,
+      question: "In the peeling force technique for bracket removal, the plier tips are placed:",
+      options: [
+        "Across the incisal tip and the gingival margin of crown",
+        "Around the entire outer circumference of the metal band",
+        "Onto the center of the bracket mesh pad and main wire",
+        "Against the mesial and distal edges of the bonding base"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 994049,
+      question: "An orthodontic ligature elastic (o-ring) is usually changed at each adjustment visit.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 994050,
+      question: "Bracket positioning landmarks can be measured with a periodontal probe.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 994051,
+      question: "Besides molding the arch form, the archwire serves as a guide to slide the teeth along.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 994052,
+      question: "If one or two teeth are too far out of line, they must always be extracted before treatment can continue.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 994053,
+      question: "During bonding, the prophy step can be bypassed when the enamel is clean because the etch will penetrate the pellicle.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    }
+  ],
+  "8. Introduction to Orthodontics (Part 5)": [
+    {
+      id: 995001,
+      question: "The diagnosis and treatment planning process in orthodontics follows what kind of approach?",
+      options: [
+        "A problem-oriented approach based on client data",
+        "A symptom-based approach based on laboratory results",
+        "A budget-based approach based on insurance limits",
+        "A random-trial approach based on repeated testing"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 995002,
+      question: "Once the problem list has been developed, the problems are then:",
+      options: [
+        "Combined so they form one single overarching concern",
+        "Postponed until the client specifically requests action",
+        "Prioritized so the most important one is treated first",
+        "Discarded whenever the client cannot afford the care"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 995003,
+      question: "The best treatment options are presented to the client in terms of:",
+      options: [
+        "Color, durability, comfort, and total weight",
+        "Cost, effectiveness, complexity, and risk",
+        "Speed, brand, popularity, and product warranty",
+        "Size, texture, flavor, and surface appearance"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 995004,
+      question: "The chief complaint must be treated as a priority because it is:",
+      options: [
+        "The main concern the client wants to have addressed",
+        "The cheapest dental problem to correct in the mouth",
+        "Always the most severe skeletal abnormality present",
+        "A legal requirement to complete before any imaging"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 995005,
+      question: "The age of a client is important because it may affect the client's:",
+      options: [
+        "Exact total duration required for the treatment",
+        "Particular type of radiograph that is needed",
+        "Motivation and cooperation during the treatment",
+        "Need for any diagnostic records at all to begin"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 995006,
+      question: "Compared with children, adult orthodontic clients are generally:",
+      options: [
+        "Treated only because their parents wish it done",
+        "Unable to cooperate with any appliance therapy",
+        "Internally motivated to complete their treatment",
+        "Excluded from the problem-oriented planning method"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 995007,
+      question: "The history of previous treatment that should be reviewed includes that of the:",
+      options: [
+        "Client and the client's neighbors or coworkers",
+        "Dentist and the dentist's parents or siblings",
+        "Client and the client's parents or siblings",
+        "Hygienist and the hygienist's former employers"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 995008,
+      question: "A history of trauma to the teeth or jaws can provide insight into:",
+      options: [
+        "The cause of an existing skeletal asymmetry",
+        "The exact cost of the planned appliance therapy",
+        "The client's overall motivation for the treatment",
+        "The presence of a nickel or a latex sensitivity"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 995009,
+      question: "The implication of temporomandibular joint osteoarthritis for orthodontics is that treatment:",
+      options: [
+        "Must always be doubled in its total duration",
+        "Will fully reverse the existing joint damage",
+        "Will not improve the degenerative joint changes",
+        "Should begin without any radiographs being taken"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 995010,
+      question: "A nickel or latex allergy matters during planning because:",
+      options: [
+        "Metal appliances contain latex and elastics contain nickel",
+        "Both the appliances and the elastics are made only of plastic",
+        "Neither the appliances nor the elastics ever touch the gingiva",
+        "Metal appliances contain nickel and elastics contain latex"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 995011,
+      question: "Medications for hypertension, epilepsy, and organ transplants carry a risk of:",
+      options: [
+        "Permanent loss of all of the anterior teeth",
+        "Complete bony fusion of both dental arches",
+        "Immediate resorption of the mandibular condyles",
+        "Gingival enlargement and increased plaque retention"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 995012,
+      question: "With osteoporosis and its treatment, the dental hygienist should expect that:",
+      options: [
+        "Bone remodeling will stop entirely during care",
+        "Bone remodeling will speed beyond safe limits",
+        "Bone remodeling stays unaffected by the disease",
+        "Bone remodeling may occur at a slower rate"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 995013,
+      question: "Indomethacin, a potent prostaglandin inhibitor used for arthritis, may:",
+      options: [
+        "Increase the speed of the tooth movement greatly",
+        "Cause an immediate enlargement of the gingival tissue",
+        "Trigger a sudden allergy to the nickel in the brackets",
+        "Reduce the response of the teeth to orthodontic forces"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 995014,
+      question: "Corticosteroids and nonsteroidal anti-inflammatory agents used on a chronic basis may:",
+      options: [
+        "Improve the response of the teeth to the applied forces",
+        "Reduce the response of the teeth to orthodontic forces",
+        "Shift the maxillary midline toward the nasal columna",
+        "Create supernumerary teeth within the dental arches"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 995015,
+      question: "Tricyclic antidepressants, antimalarial agents, and methylxanthines may affect orthodontics by:",
+      options: [
+        "Raising prostaglandin levels and speeding the tooth response",
+        "Influencing prostaglandin levels and lowering tooth response",
+        "Causing a latex allergy to develop within the client",
+        "Producing degenerative changes in the joint surfaces"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 995016,
+      question: "Before orthodontic treatment, dental caries and endodontic pathology must be:",
+      options: [
+        "Ignored until the appliances have been fully placed",
+        "Treated only if the client reports any tooth pain",
+        "Assessed and then controlled or treated beforehand",
+        "Left alone because the braces protect the teeth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 995017,
+      question: "Areas of inadequate attached gingiva are corrected before treatment with:",
+      options: [
+        "Bitewing radiographs of the molar teeth",
+        "A wax-bite registration of both arches",
+        "Repositioning of the nearby anterior teeth",
+        "Gingival grafting of the affected sites"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 995018,
+      question: "In children, shifting of the mandible during closure may:",
+      options: [
+        "Improve the symmetry of the dental arches",
+        "Affect the skeletal development of the mandible",
+        "Remove the need for diagnostic study models",
+        "Prevent caries from forming on the molars"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 995019,
+      question: "Intraoral photographs are taken mainly in order to:",
+      options: [
+        "Replace the need for the diagnostic study models",
+        "Measure the exact cost of the planned treatment",
+        "Predict the client's motivation and cooperation",
+        "Document the client's status before treatment begins"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 995020,
+      question: "Which of the following is a standard intraoral photographic view?",
+      options: [
+        "An anterior view with the teeth in occlusion",
+        "A full face view taken while the client smiles",
+        "A lateral view of the skull and of the cranium",
+        "A profile view of the relaxed soft tissue chin"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 995021,
+      question: "A panoramic radiograph is exposed to examine the perioral structures for:",
+      options: [
+        "Active caries between the posterior tooth contacts",
+        "The midline relationship of the maxillary arch",
+        "Pathology or supernumerary or impacted teeth",
+        "The bilateral symmetry of the whole facial form"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 995022,
+      question: "On a panoramic film, the mandibular condyles are evaluated to determine the:",
+      options: [
+        "Possible need for additional radiographs of the TMJ",
+        "Exact shade and the color of the enamel surfaces",
+        "Predisposition of the anterior roots to resorption",
+        "Latex content of the elastics and of the brackets"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 995023,
+      question: "Anterior periapical films may be taken to evaluate the roots for:",
+      options: [
+        "The client's full smiling facial soft tissue",
+        "The slower rate of future bone remodeling",
+        "A possible latex content within the elastics",
+        "A predisposition to apical root resorption"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 995024,
+      question: "Bitewing radiographs are taken during orthodontic records to:",
+      options: [
+        "Trace the landmarks of the lateral skull view",
+        "Rule out the presence of any active caries",
+        "Assess the symmetry of the upper dental arch",
+        "Predict the final results of the chosen plan"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 995025,
+      question: "An adult with a history of periodontal disease requires:",
+      options: [
+        "Only a single bitewing radiograph of the molars",
+        "A full set of periapical films plus the panoramic",
+        "No radiographs until the appliances are removed",
+        "A repeat facial profile photograph at each visit"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 995026,
+      question: "The lateral cephalograph is always indicated in orthodontics to assess:",
+      options: [
+        "The skeletal relationship of the jaws and the cranium",
+        "The active caries hidden between the posterior teeth",
+        "The latex content of the elastics and the brackets",
+        "The bilateral symmetry of the soft tissue profile"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 995027,
+      question: "Cephalometrics is valuable because two similar-looking malocclusions may:",
+      options: [
+        "Always require the very same appliance and the timing",
+        "Never need any radiographs taken before the treatment",
+        "Produce identical results regardless of the chosen plan",
+        "Differ greatly once the skeletal components are analyzed"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 995028,
+      question: "During orthodontic care, cephalometric radiographs are taken:",
+      options: [
+        "Only once, on the very first appointment day",
+        "Only after the appliances have been removed",
+        "Only when the client reports pain in the joint",
+        "Before, during, and after the orthodontic therapy"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 995029,
+      question: "A cephalometric visualization treatment objective is used to:",
+      options: [
+        "Record the exact cost of the chosen appliance",
+        "Replace the need for the diagnostic photographs",
+        "Predict the results of the planned treatment",
+        "Measure the latex sensitivity of the soft tissue"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 995030,
+      question: "Before tracing a cephalogram, the x-ray should be examined for:",
+      options: [
+        "Abnormalities or pathology such as a pituitary tumour",
+        "The exact shade and the color of the enamel surface",
+        "The presence of active caries on the molar tooth",
+        "The bilateral symmetry of the smiling soft tissue"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 995031,
+      question: "Hand tracing of a cephalogram requires which proper equipment?",
+      options: [
+        "A wax-bite registration and a panoramic radiograph film",
+        "A set of latex elastics and several of the metal brackets",
+        "Tracing paper, a sharp pencil, and a built-in view box",
+        "A full face photograph and a smiling profile photograph"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 995032,
+      question: "From the frontal view, facial photographs are evaluated for the:",
+      options: [
+        "Bilateral symmetry of the soft tissue features",
+        "Active caries between the posterior tooth contacts",
+        "Predisposition of the anterior roots to resorption",
+        "Slower rate of the remodeling within the jaw bone"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 995033,
+      question: "The midline of the maxilla is assessed in relation to the:",
+      options: [
+        "Mandibular condyle and the temporomandibular joint",
+        "Philtrum and the nasal columna of the face",
+        "Posterior molars and the buccal tooth sextant",
+        "Tracing paper and the built-in radiograph view box"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 995034,
+      question: "Which of the following is one of the minimum four facial photographic views?",
+      options: [
+        "An occlusal view of the upper maxillary arch",
+        "A full face view taken with the lips relaxed",
+        "A buccal view of the lower posterior sextant",
+        "A panoramic view of the perioral structures"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 995035,
+      question: "Diagnostic dental casts or study models are used to assess the occlusion and the:",
+      options: [
+        "Latex content of the elastics and brackets",
+        "Symmetry of the form of the dental arches",
+        "Predisposition of the roots to resorption",
+        "Pathology hidden within the soft tissues"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 995036,
+      question: "To prepare diagnostic study models, impressions of both arches are taken with a:",
+      options: [
+        "Wax-bite registration of the client's occlusion",
+        "Panoramic radiograph of the whole jaw region",
+        "Smiling profile photograph of the lower face",
+        "Latex elastic placed across both dental arches"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 995037,
+      question: "According to the summary, complete diagnostic records typically include:",
+      options: [
+        "A history, clinical exam, study models, photos, and X-rays",
+        "Only a single panoramic film and a wax-bite registration",
+        "Only the facial photographs and the smiling profile views",
+        "Only the chief complaint and the client's age at the start"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 995038,
+      question: "Osteoarthritis of the temporomandibular joint can be improved through orthodontic treatment.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 995039,
+      question: "A panoramic radiograph is used to examine the perioral structures for supernumerary or impacted teeth.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 995040,
+      question: "Cephalometric radiographs are taken only after orthodontic therapy has been completed.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 995041,
+      question: "Impressions of the maxillary and mandibular arches are taken with a wax-bite registration to prepare the study models.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    }
+  ],
+  "8. Introduction to Orthodontics (Part 6)": [
+    {
+      id: 996001,
+      question: "Into how many main categories do orthodontic appliances fall?",
+      options: [
+        "Four categories of appliances",
+        "Two categories of appliances",
+        "Three categories of appliances",
+        "Five categories of appliances"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996002,
+      question: "Which set correctly names the four main categories of orthodontic appliances?",
+      options: [
+        "Removable, fixed, passive, intra-oral",
+        "Removable, fixed, functional, extra-oral",
+        "Active, passive, fixed, lingual",
+        "Removable, banded, bonded, extra-oral"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996003,
+      question: "What can happen if an appliance is selected poorly and used incorrectly?",
+      options: [
+        "It can shorten the treatment time",
+        "It can improve client comfort",
+        "It can make the malocclusion worse",
+        "It can strengthen the tooth enamel"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996004,
+      question: "What kind of tooth movements are removable appliances capable of?",
+      options: [
+        "Only complex bodily movements",
+        "Only rotational movements",
+        "Only extrusive movements",
+        "Only very simple movements"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996005,
+      question: "How are fixed appliances best described in terms of capability?",
+      options: [
+        "Sophisticated devices that precisely position teeth",
+        "Simple devices that can only tip teeth slightly",
+        "Passive devices that only hold the teeth still",
+        "Removable devices that widen the upper arch fast"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996006,
+      question: "Functional appliances are primarily used for which malocclusion?",
+      options: [
+        "Class I Division II malocclusions",
+        "Class II Division I malocclusions",
+        "Class III Division I malocclusions",
+        "Class II Division II malocclusions"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996007,
+      question: "What is the main purpose of extra-oral devices?",
+      options: [
+        "To replace missing teeth quickly",
+        "To whiten the front teeth",
+        "To re-enforce anchorage in the arch",
+        "To clean beneath the gum line"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996008,
+      question: "In order of importance, what are the three basic requirements of an orthodontic appliance?",
+      options: [
+        "Esthetic, comfortable, functional",
+        "Comfortable, functional, esthetic",
+        "Functional, esthetic, comfortable",
+        "Functional, comfortable, esthetic"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996009,
+      question: "Any oral prosthetic, in broad terms, must meet which set of conditions?",
+      options: [
+        "The same basic requirements as appliances",
+        "A completely separate set of rules",
+        "Only the comfort requirement alone",
+        "Only the esthetic requirement alone"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996010,
+      question: "What does it mean for an orthodontic appliance to be functional?",
+      options: [
+        "It looks pleasing inside the mouth",
+        "It performs the task it was designed for",
+        "It feels soft against the gums",
+        "It can be removed at any time"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996011,
+      question: "How is an appliance that cannot perform its function described?",
+      options: [
+        "It is considered esthetic",
+        "It is considered passive",
+        "It is considered worthless",
+        "It is considered comfortable"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996012,
+      question: "Where does comfort rank relative to function for an appliance?",
+      options: [
+        "Above function in importance",
+        "Equal to function exactly",
+        "Above esthetics and function",
+        "Below function in importance"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996013,
+      question: "Why is comfort important for appliance success?",
+      options: [
+        "The client may not wear it if uncomfortable",
+        "The appliance will rust if uncomfortable",
+        "The teeth will whiten if comfortable",
+        "The gums will shrink if uncomfortable"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996014,
+      question: "What is needed when some appliance designs are uncomfortable regardless of effort?",
+      options: [
+        "A complete redesign of the device",
+        "The client's commitment to treatment",
+        "A switch to a fixed appliance",
+        "An immediate stop to treatment"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996015,
+      question: "How does esthetics rank against function and comfort?",
+      options: [
+        "It is more important than both",
+        "It is equal to both factors",
+        "It is less important than both",
+        "It is the single most important factor"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996016,
+      question: "Which appliance is given as one that is large, uncomfortable, and unsightly yet works?",
+      options: [
+        "Hawley retainer",
+        "Lingual arch",
+        "Bionator",
+        "Headgear"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996017,
+      question: "When classified by how they are used in the mouth, appliances are separated into which three groups?",
+      options: [
+        "Passive, active, functional",
+        "Passive, fixed, removable",
+        "Active, fixed, esthetic",
+        "Functional, fixed, extra-oral"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996018,
+      question: "What defines a passive appliance?",
+      options: [
+        "It exerts force on single teeth",
+        "It does not exert force in the mouth",
+        "It uses muscles to create change",
+        "It widens the palate with a screw"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996019,
+      question: "What is the purpose of a passive appliance?",
+      options: [
+        "To rapidly move teeth into place",
+        "To stretch the facial muscles",
+        "To hold the teeth and inhibit movement",
+        "To expand the upper dental arch"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996020,
+      question: "Which of these is given as an example of a passive appliance?",
+      options: [
+        "Rapid palatal expander and screws",
+        "Finger spring and Z-spring",
+        "Bionator and activator",
+        "Lower Lingual Arch and retainers"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996021,
+      question: "What is the basic purpose of lingual arches as passive appliances?",
+      options: [
+        "To maintain space unilaterally in the arch",
+        "To rotate the molars bodily forward",
+        "To stretch the muscles of mastication",
+        "To expand the midpalatal suture"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996022,
+      question: "How do active appliances accomplish tooth movement?",
+      options: [
+        "By stretching the oral muscles",
+        "By placing forces upon the teeth",
+        "By holding the teeth still",
+        "By widening the air passages"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996023,
+      question: "Where are the forces of an active appliance generated?",
+      options: [
+        "From the muscles of the cheek",
+        "From the back of the neck",
+        "Within the appliance itself",
+        "From the temporomandibular joint"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996024,
+      question: "Which of these are listed as active components of an appliance?",
+      options: [
+        "Bands and bonded brackets",
+        "Clasps and acrylic plates",
+        "Tubes and elastic bands",
+        "Screws and wire springs"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996025,
+      question: "What do functional appliances use to create change in the orofacial complex?",
+      options: [
+        "The muscles of mastication and oral cavity",
+        "Expansion screws turned by a small metal key",
+        "Stainless steel bands cemented to the molars",
+        "External neck anchorage straps and headgear"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996026,
+      question: "How do functional appliances generally produce their forces?",
+      options: [
+        "Through a coiled spring pushing on the teeth",
+        "Through positioning and stretching of muscles",
+        "Through a screw turned slowly with a key",
+        "Through cement bonding the parts to enamel"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996027,
+      question: "Functional appliances are also referred to by which other name?",
+      options: [
+        "Retentive appliances",
+        "Anchorage appliances",
+        "Orthopedic appliances",
+        "Cosmetic appliances"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996028,
+      question: "What changes do functional appliances mainly produce?",
+      options: [
+        "Changes to the tooth enamel color",
+        "Changes to the saliva production",
+        "Changes to the tongue muscle size",
+        "Changes to the supporting structures"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996029,
+      question: "Functional appliances are also called by which name?",
+      options: [
+        "Myofunctional appliances",
+        "Myorelaxant appliances",
+        "Myostatic appliances",
+        "Myotonic appliances"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996030,
+      question: "Myofunctional appliances are used for procedures aimed at what?",
+      options: [
+        "Whitening and polishing the front teeth surfaces",
+        "Intercepting and treating jaw discrepancies",
+        "Cleaning and scaling the gums around the teeth",
+        "Sealing and filling the grooves of the molars"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996031,
+      question: "Which of these is an example of a removable myofunctional appliance?",
+      options: [
+        "Herbst appliance and Jasper jumper",
+        "Hawley retainer and biteplane",
+        "Activator and Bionator",
+        "Lingual arch and Nance"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996032,
+      question: "Which of these is an example of a fixed myofunctional appliance?",
+      options: [
+        "Activator and Bionator",
+        "Hawley retainer and biteplane",
+        "Transpalatal bar and Nance",
+        "Herbst appliance and Jasper jumper"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996033,
+      question: "When classified by how the appliance is retained, appliances divide into which two groups?",
+      options: [
+        "Removable and fixed",
+        "Passive and active",
+        "Active and functional",
+        "Functional and esthetic"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996034,
+      question: "How are fixed appliances defined?",
+      options: [
+        "They can be removed at any time freely",
+        "They cannot be removed without damaging them",
+        "They use the muscles to create force",
+        "They rest loosely against the palate"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996035,
+      question: "What are stainless steel bands used for in fixed appliances?",
+      options: [
+        "Whitening by fully covering the tooth enamel",
+        "Cleaning by gently scraping the tooth surface",
+        "Retention by fitting tightly around a tooth",
+        "Cushioning by padding the inside of the cheeks"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996036,
+      question: "How are stainless steel bands held in the mouth?",
+      options: [
+        "With suction against the palate",
+        "With clasps on adjacent teeth",
+        "With elastic bands across teeth",
+        "With cement around the tooth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996037,
+      question: "After bands are placed, what is done to give a fixed appliance its function?",
+      options: [
+        "Components are soldered to the bands",
+        "Acrylic is poured over the bands",
+        "Clasps are clipped onto the bands",
+        "Springs are glued to the gums"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996038,
+      question: "Besides bands, what other retention method is mentioned for fixed appliances?",
+      options: [
+        "Soft rubber suction cups on the palate",
+        "Small mesh retentive pads (brackets)",
+        "Adjustable metal clasps on the teeth",
+        "Removable acrylic plates and bows"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996039,
+      question: "When is a space maintainer typically inserted?",
+      options: [
+        "When the upper front teeth are being whitened",
+        "When the gums around the teeth become inflamed",
+        "When posterior teeth are prematurely extracted",
+        "When the upper palate has been fully expanded"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996040,
+      question: "How is a space maintainer attached to the mouth?",
+      options: [
+        "Permanently bonded to the gums",
+        "Held in place by suction only",
+        "Clipped on with adjustable clasps",
+        "Temporarily cemented onto a tooth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996041,
+      question: "When is a space maintainer removed?",
+      options: [
+        "When the permanent tooth is ready to erupt",
+        "When the client first reports feeling discomfort",
+        "When the upper front teeth become fully aligned",
+        "When the palate has stopped widening at all"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996042,
+      question: "By which other names is the space maintainer known?",
+      options: [
+        "Bionator, activator, biteplane",
+        "Spacer, band and loop, space regainer",
+        "Hawley, Nance, lingual arch",
+        "Headgear, facebow, expander"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996043,
+      question: "What defines a removable appliance?",
+      options: [
+        "It cannot be taken out once it has been placed",
+        "It uses the muscles to move the jaw forward",
+        "It can be removed from the mouth at any time",
+        "It is cemented onto the upper molar teeth firmly"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996044,
+      question: "What holds a removable appliance in the mouth during function?",
+      options: [
+        "Cement applied to the molar bands",
+        "Solder joining the metal parts",
+        "Bonding glue on the bracket pads",
+        "Clasps or another disengagable mechanism"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996045,
+      question: "Which is one stated advantage of removable appliances?",
+      options: [
+        "They can be removed on sensitive occasions",
+        "They move teeth in complex ways",
+        "They never depend on client effort",
+        "They are built inside the mouth directly"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996046,
+      question: "Where are removable appliances fabricated?",
+      options: [
+        "Directly in the client's mouth",
+        "In the laboratory, not in the mouth",
+        "At the front desk during a visit",
+        "Inside the imaging x-ray room"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996047,
+      question: "On what is the treatment response of a removable appliance heavily dependent?",
+      options: [
+        "The strength of the dental cement",
+        "The color of the acrylic plate",
+        "Client compliance with wearing it",
+        "The brand of the metal clasps"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996048,
+      question: "What is usually the main limitation of removable appliances?",
+      options: [
+        "Their unusually bright acrylic coloring",
+        "Their large external anchorage straps",
+        "Their many soldered metal joint points",
+        "Their retentive components, the clasps"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996049,
+      question: "Why do clasps limit removable appliance treatment?",
+      options: [
+        "Hard to get two-point contacts for complex movement",
+        "They corrode quite quickly inside the moist mouth",
+        "They make the whole appliance far too heavy to wear",
+        "They block the client's speech almost entirely at times"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996050,
+      question: "Which is one of the three major indications for removable retainers?",
+      options: [
+        "Complex bodily movement of the lower molars",
+        "Limited tipping movements for arch expansion",
+        "Permanent replacement of teeth that are lost",
+        "Surgical correction of the patient's lower jaw"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996051,
+      question: "Removable appliances are indicated for growth modification during which stage?",
+      options: [
+        "The fully adult dentition stage",
+        "The newborn pre-eruption stage",
+        "The mixed dentition stage",
+        "The completed permanent stage"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996052,
+      question: "Removable retainers are indicated for retention at what point?",
+      options: [
+        "Before any treatment has started",
+        "During the surgical procedure only",
+        "Instead of any active treatment",
+        "After comprehensive treatment is finished"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996053,
+      question: "How often should a client wearing an active removable appliance be seen?",
+      options: [
+        "Every four to six weeks",
+        "Every one to two days",
+        "Every six to eight months",
+        "Every two to three years"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996054,
+      question: "To produce how much tooth movement should springs be adjusted at each visit?",
+      options: [
+        "Approximately one centimeter",
+        "Approximately one millimeter",
+        "Approximately five millimeters",
+        "Approximately ten millimeters"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996055,
+      question: "What is done to the baseplate when a spring is adjusted?",
+      options: [
+        "It is thickened to add more support",
+        "It is removed entirely from the mouth",
+        "It is relieved to allow similar clearance",
+        "It is cemented firmly onto the teeth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996056,
+      question: "From what materials can the baseplate of a removable appliance be made?",
+      options: [
+        "Stainless steel bands set firmly with cement",
+        "Soft rubber, silicone, and flexible foam pads",
+        "Dental porcelain, fired ceramic, and clear glass",
+        "Acrylic resins, thermoplastics, precious metals"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996057,
+      question: "Why are precious metals rarely used for the baseplate?",
+      options: [
+        "Increased cost and difficulty in fabricating",
+        "They feel too soft inside the mouth",
+        "They corrode rapidly in saliva",
+        "They cannot be cleaned by the client"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996058,
+      question: "How must the acrylic plate fit against the palatal tissues?",
+      options: [
+        "Loosely placed with plenty of room to shift",
+        "Closely adapted and seating snugly without rocking",
+        "Cemented firmly onto the upper molar teeth",
+        "Suspended above the palate by several wires"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996059,
+      question: "What is the average thickness of an acrylic plate in most cases?",
+      options: [
+        "About ten to twelve millimeters",
+        "About one half of a millimeter",
+        "About two to three millimeters",
+        "About six to eight millimeters"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996060,
+      question: "How should the thickness of the acrylic plate be across its surface?",
+      options: [
+        "Thickest at the front edge",
+        "Thinnest near the molar teeth",
+        "Tapered toward the midline only",
+        "Uniform across the plate"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996061,
+      question: "Why are maxillary removable appliances generally more successful than mandibular ones?",
+      options: [
+        "The maxillary framework is more stable",
+        "The maxillary arch needs no clasps",
+        "The mandibular arch grows much faster",
+        "The mandibular teeth are always larger"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996062,
+      question: "What stabilizes the maxillary removable appliance?",
+      options: [
+        "A snug strap fastened behind the patient's neck",
+        "A direct connection across the arch between molars",
+        "A small screw turned each day with a metal key",
+        "A wire bonded behind the lower front teeth firmly"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996063,
+      question: "Why is the horseshoe-shaped mandibular appliance less stable?",
+      options: [
+        "It is far too rigid to ever seat properly in the mouth",
+        "It is built only from costly precious metal materials",
+        "It is inevitably somewhat flexible and prone to breakage",
+        "It is firmly cemented to just a single lower molar tooth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996064,
+      question: "What is a second complication frequently found with mandibular appliances?",
+      options: [
+        "The complete lack of any clasps",
+        "The excessive width of the arch",
+        "The absence of palatal tissue",
+        "The frequent presence of undercuts"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996065,
+      question: "Why can the mandibular baseplate not extend far gingivally?",
+      options: [
+        "Lingually inclined molars and a high mylohyoid ridge",
+        "A very flat, shallow palate with little surface area",
+        "An overly thick acrylic surface across the whole plate",
+        "A missing direct connection across the dental arch"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996066,
+      question: "What results from a less stable framework and loose posterior fit in mandibular removables?",
+      options: [
+        "Faster and noticeably stronger tooth movement",
+        "Less comfort and less effective tooth movement",
+        "Improved esthetics and a better palate fit",
+        "Greater overall stability than maxillary ones"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996067,
+      question: "What is the rapid palatal expansion appliance used to do?",
+      options: [
+        "Hold the lower front teeth in place",
+        "Stretch the muscles of the cheek",
+        "Expand the upper arch or roof of the mouth",
+        "Pull the upper jaw backward gently"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996068,
+      question: "How can widening the upper arch with an RPE help the bite?",
+      options: [
+        "The upper front teeth gradually become much whiter",
+        "The crowded molars can then be removed more easily",
+        "The lower jaw is steadily pushed much further back",
+        "Upper teeth may line up better with lower teeth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996069,
+      question: "How does palatal expansion affect breathing?",
+      options: [
+        "It widens the air passages above the palate",
+        "It narrows the nasal passage opening",
+        "It blocks the throat during sleep",
+        "It has no effect on the airway"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996070,
+      question: "How can widening the palate help crowded teeth?",
+      options: [
+        "It removes the need for any braces",
+        "It makes more room for teeth to align",
+        "It permanently fuses the loose teeth",
+        "It shrinks the size of large teeth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996071,
+      question: "When can a narrow palate be corrected easily with a palatal expander?",
+      options: [
+        "Only after age fifty",
+        "Only during infancy",
+        "Up until puberty",
+        "Only after skeletal maturity"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996072,
+      question: "How is the expansion screw of a palatal expander activated?",
+      options: [
+        "A retentive clasp is carefully bent with pliers",
+        "A metal band is cemented onto the molar tooth",
+        "A coiled spring is compressed firmly by hand",
+        "A key is inserted and the screw is turned"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996073,
+      question: "What happens after the palate has been fully expanded?",
+      options: [
+        "New bone tissue fills the space",
+        "The old bone dissolves away",
+        "The teeth fall out naturally",
+        "The palate returns to normal"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996074,
+      question: "Roughly how long does it usually take to expand the upper arch enough with an RPE?",
+      options: [
+        "About one to two days",
+        "About six to eight weeks",
+        "About six to eight months",
+        "About three to four years"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996075,
+      question: "What temporary effect does widening the palate have on the front teeth?",
+      options: [
+        "It noticeably darkens the two upper front teeth",
+        "It loosens nearly all of the upper front teeth",
+        "It causes a space between the two front teeth",
+        "It slightly shortens the two upper front teeth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996076,
+      question: "What sensation may the pressure of expansion cause?",
+      options: [
+        "A sharp pain in the lower jaw",
+        "A complete loss of taste",
+        "A ringing sound in the ears",
+        "A tingling at the base of the nose"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996077,
+      question: "What is the primary purpose of the Transpalatal Bar, Nance, and Lingual Arch appliances?",
+      options: [
+        "To maintain space in the arch",
+        "To whiten the anterior teeth",
+        "To stretch the chewing muscles",
+        "To pull the jaw forward"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996078,
+      question: "In which patients are transpalatal appliances primarily placed?",
+      options: [
+        "Patients with full adult dentition",
+        "Patients in transitional dentition",
+        "Patients before any teeth erupt",
+        "Patients with no remaining teeth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996079,
+      question: "Where is the Transpalatal Bar attached?",
+      options: [
+        "To the cheek-side of the lower front incisor teeth",
+        "To a padded strap worn behind the patient's neck",
+        "To the tongue-side of the upper first molar bands",
+        "To the front surface of the upper canine teeth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996080,
+      question: "Where is the Lingual Arch attached?",
+      options: [
+        "To the cheek-side of the upper first molar teeth",
+        "To the front surface of the upper incisor teeth",
+        "To a padded strap worn behind the patient's neck",
+        "To the tongue-side of the lower first molar bands"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996081,
+      question: "When is the Lingual Arch recommended?",
+      options: [
+        "When baby teeth are lost prematurely",
+        "When the adult teeth are all present",
+        "When the palate is fully widened",
+        "When the front teeth are whitened"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996082,
+      question: "What is the Bionator used to help correct?",
+      options: [
+        "A crossbite by widening the palate",
+        "An overbite by promoting lower jaw growth",
+        "A space by closing front teeth",
+        "A rotation by tipping the molars"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996083,
+      question: "Since the Bionator is an orthopedic appliance, when should it be used?",
+      options: [
+        "After skeletal maturity is reached",
+        "Only in fully grown adults",
+        "During a period of maximum growth",
+        "Only after the teeth are extracted"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996084,
+      question: "What happens if the patient does not grow while using the Bionator?",
+      options: [
+        "The jawbone grows much faster",
+        "The appliance works even better",
+        "The palate expands on its own",
+        "Only changes in tooth position are seen"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996085,
+      question: "When is the Bionator no longer effective at influencing jaw growth?",
+      options: [
+        "When the patient reaches skeletal maturity",
+        "When the patient first starts growing",
+        "When the front teeth are aligned",
+        "When the palate is fully expanded"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996086,
+      question: "What is the Biteplane used to reduce?",
+      options: [
+        "A wide crossbite of the molars",
+        "A deep overbite of the front teeth",
+        "A large gap between front teeth",
+        "A narrow upper dental arch"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996087,
+      question: "How does the Biteplane work?",
+      options: [
+        "It steadily pushes the upper front teeth backward",
+        "It widens the upper palate with an expansion screw",
+        "It lets back teeth erupt by preventing full biting",
+        "It stretches and positions the muscles of the cheek"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996088,
+      question: "What is the Biteplane made of?",
+      options: [
+        "Rubber and silicone",
+        "Porcelain and glass",
+        "Cement and steel bands",
+        "Wire and acrylic"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996089,
+      question: "When is a removable Biteplane most effective?",
+      options: [
+        "When it is worn all the time",
+        "When it is worn only at night",
+        "When it is worn once a week",
+        "When it is rarely worn at all"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996090,
+      question: "What is a Bitesplint?",
+      options: [
+        "A metal bar that is bonded across the upper palate",
+        "A custom-fit rubber mouthpiece worn on the lower teeth",
+        "A padded neck strap that is used for added anchorage",
+        "A thin wire that is glued behind the front teeth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996091,
+      question: "What is a Bitesplint primarily used to help correct?",
+      options: [
+        "A deep overbite affecting the back molar teeth",
+        "A narrow upper palate that needs to be widened",
+        "A crossbite, worn along with upper braces",
+        "A wide space between the upper front teeth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996092,
+      question: "How does a Bitesplint allow a tooth in crossbite to move?",
+      options: [
+        "It pushes directly on the crooked tooth",
+        "It widens the whole upper arch",
+        "It stretches the chewing muscles",
+        "It prevents the patient from completely biting"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996093,
+      question: "What does the Fan-type Expander do?",
+      options: [
+        "Widens the front of the upper arch only",
+        "Widens the back of the upper arch",
+        "Holds the lower front teeth still",
+        "Pulls the upper jaw far back"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996094,
+      question: "On which teeth are the Fan-type Expander bands placed?",
+      options: [
+        "The two front incisors",
+        "The six-year molars",
+        "The lower canine teeth",
+        "The wisdom teeth in back"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996095,
+      question: "How is the main body of the Fan-type Expander joined at the center?",
+      options: [
+        "By a soft rubber pad",
+        "By a bonded bracket",
+        "By an expansion screw",
+        "By a neck anchorage strap"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996096,
+      question: "For the Fan-type Expander, how does patient age affect the correction?",
+      options: [
+        "Older patient age gives a faster overall correction",
+        "Patient age has no effect at all on the correction",
+        "Only fully grown adults can be corrected with it",
+        "Younger age gives more rapid, stable correction"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996097,
+      question: "What is a Fixed Lingual Retainer?",
+      options: [
+        "A wire bonded behind the front teeth",
+        "A removable acrylic palate plate",
+        "A metal strap behind the neck",
+        "A screw that widens the palate"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996098,
+      question: "When is the lower fixed retainer wire bonded in place?",
+      options: [
+        "After the teeth are extracted",
+        "Before the braces are removed",
+        "Long before treatment begins",
+        "Only after the palate widens"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996099,
+      question: "How long does the fixed lingual retainer wire remain in the mouth?",
+      options: [
+        "Only for a single day",
+        "Only during the surgery",
+        "Long term, as long as possible",
+        "Only until the next visit"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996100,
+      question: "An upper fixed retainer is typically used for patients who had what before treatment?",
+      options: [
+        "A fully expanded upper palate",
+        "A missing lower first molar",
+        "A neck strap for anchorage",
+        "A large space between the front teeth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996101,
+      question: "What does the Hawley retainer's metal wire typically surround?",
+      options: [
+        "The six anterior teeth",
+        "The four back molars",
+        "The lower wisdom teeth",
+        "The upper first premolars"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996102,
+      question: "How many loops does the labial wire, or Hawley bow, incorporate?",
+      options: [
+        "Five loops for adjustment",
+        "Two loops for adjustment",
+        "Eight loops for adjustment",
+        "Ten loops for adjustment"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996103,
+      question: "Where is the Hawley bow anchored?",
+      options: [
+        "In a padded strap fastened behind the neck",
+        "In dental cement on the molar tooth bands",
+        "In an acrylic arch that sits in the palate",
+        "In a soft rubber pad resting on the tongue"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996104,
+      question: "What is an advantage of the Hawley retainer?",
+      options: [
+        "It can never be removed at all once it is placed",
+        "It widens the upper palate with an expansion screw",
+        "It permanently fuses the upper front teeth together",
+        "Its wires can be adjusted to continue minor movement"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996105,
+      question: "When is headgear used?",
+      options: [
+        "When the upper jaw is too far forward of the lower",
+        "When the lower jaw is growing far too quickly",
+        "When the upper palate is much too narrow",
+        "When the front teeth have a noticeable gap"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996106,
+      question: "Which appearance is the condition treated by headgear often responsible for?",
+      options: [
+        "A wide gap between the lower back molar teeth",
+        "Protruded upper front teeth or buck teeth",
+        "A narrow and highly arched upper palate shape",
+        "A crossbite affecting the upper back molar teeth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996107,
+      question: "What other use does headgear have during space closure?",
+      options: [
+        "Quickly widening the narrow upper dental arch",
+        "Whitening and polishing the upper front teeth",
+        "Preventing upper back teeth from slipping forward",
+        "Holding the lower front teeth firmly in place"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 996108,
+      question: "What does the headgear use as an anchor?",
+      options: [
+        "The roof of the palate",
+        "The lower front teeth",
+        "The tongue muscle itself",
+        "The back of the neck"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 996109,
+      question: "Where does the inner part of the headgear slide?",
+      options: [
+        "Into tubes on the side of the first molars",
+        "Into retentive clasps on the front incisors",
+        "Into narrow grooves cut into the hard palate",
+        "Into metal bands placed around the canines"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996110,
+      question: "Removable appliances are capable of very complex tooth movements.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996111,
+      question: "Functional appliances are also referred to as orthopedic appliances.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996112,
+      question: "A passive appliance exerts active force on the teeth while in the mouth.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996113,
+      question: "Maxillary removable appliances tend to be more stable than mandibular ones.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996114,
+      question: "Esthetics is the most important requirement of an orthodontic appliance.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996115,
+      question: "Stainless steel bands in fixed appliances are held in place with cement.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996116,
+      question: "Headgear uses the back of the neck as an anchor.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996117,
+      question: "A space maintainer is permanently bonded and never removed.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996118,
+      question: "The Bionator is no longer effective at influencing jaw growth after skeletal maturity.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996119,
+      question: "The average thickness of an acrylic plate is about ten to twelve millimeters.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 996120,
+      question: "A Biteplane is used to reduce a deep overbite.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 996121,
+      question: "Active appliances generate their forces within the appliance itself.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    }
+  ],
+  "8. Introduction to Orthodontics (Part 7)": [
+    {
+      id: 997001,
+      question: "When is dental hygiene care for the adult orthodontic client considered complete?",
+      options: [
+        "When all the teeth have been fully aligned and straightened by the orthodontist",
+        "When inflammatory conditions are controlled enough to safely begin tooth movement",
+        "Once the client has received a full set of bands, brackets, and wires",
+        "Once the client can remove plaque without using any special cleaning aids"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 997002,
+      question: "How often must clients with periodontal disease be seen for supportive periodontal maintenance?",
+      options: [
+        "Every 6 to 8 months, or every 3 months if severe disease is present",
+        "Every 12 months, or every 6 months if severe disease is present",
+        "Every 4 to 5 months, or every 8 weeks if severe disease is present",
+        "Every 2 to 3 months, or every 4 weeks if severe disease is present"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 997003,
+      question: "What is the key to managing the adult client who has periodontal disease?",
+      options: [
+        "Careful control of the plaque biofilm in the mouth",
+        "Routine removal of all bands and brackets from the teeth",
+        "Taking daily systemic antibiotics throughout the care",
+        "Scheduling frequent radiographs of the alveolar bone"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 997004,
+      question: "Which of the following is part of the dental hygienist's role with the orthodontic client?",
+      options: [
+        "Surgically placing the orthodontic bands and brackets on the teeth",
+        "Prescribing systemic pain medication to manage the client's discomfort",
+        "Providing nutritional assessment and counseling for the client",
+        "Designing the wire-bending sequence used for the tooth movement"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 997005,
+      question: "How should the hygienist's written home-care directions relate to the orthodontic office?",
+      options: [
+        "They should replace any verbal instruction the hygienist provides",
+        "They should list every product available on the consumer market",
+        "They should be written only in highly technical clinical language",
+        "They should correlate with the orthodontic office's recommendations"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 997006,
+      question: "What brushing frequency and dentifrice are recommended for clients with fixed appliances?",
+      options: [
+        "Three times a day with a fluoride dentifrice (0.22% sodium fluoride)",
+        "Once a day with a non-fluoride tooth-whitening dentifrice product",
+        "Twice a week with a 1.1% stannous fluoride cleaning paste product",
+        "Five times a day with a baking-soda-based abrasive dentifrice product"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 997007,
+      question: "What is the recommended way to brush around the brackets?",
+      options: [
+        "Place the bristles flat and drag them straight across the bracket faces",
+        "Aim the bristles only at the incisal edges and avoid the brackets entirely",
+        "Place bristles above aiming down, then below aiming up, toward the brackets",
+        "Press the bristles hard onto the brackets and hold them still without moving"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 997008,
+      question: "How should an oral irrigator be used by the orthodontic client?",
+      options: [
+        "On high power twice a day, aimed straight down into the gingival sulcus",
+        "On low power once a day, aimed perpendicularly just above the papilla",
+        "On low power once a week, aimed only at the incisal edges of the teeth",
+        "On high power once a month, aimed beneath the free gingival margin"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 997009,
+      question: "When chlorhexidine is prescribed, how should it be timed relative to fluoride?",
+      options: [
+        "Separate chlorhexidine from fluoride use by about 60 minutes",
+        "Use chlorhexidine and fluoride together at the exact same moment",
+        "Separate chlorhexidine from fluoride use by only about 5 minutes",
+        "Never use any fluoride product while taking a chlorhexidine rinse"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 997010,
+      question: "Which fluoride products are recommended for once-daily home use with fixed appliances?",
+      options: [
+        "A 0.2% sodium fluoride rinse, or a 5.0% sodium fluoride gel or paste",
+        "A 0.12% stannous fluoride rinse, or a 2.5% fluoride gel or paste",
+        "A 0.05% sodium fluoride rinse, or a 1.1% sodium fluoride gel or paste",
+        "A 1.0% sodium fluoride rinse, or a 0.22% fluoride gel or paste"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 997011,
+      question: "What is the purpose of a rubber-tip stimulator in interdental cleaning?",
+      options: [
+        "To place dental floss underneath the orthodontic archwire",
+        "To disrupt plaque and to gently massage the gingival papillae",
+        "To remove loose cement from beneath a loosened metal band",
+        "To polish the smooth facial surface of each bonded bracket"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 997012,
+      question: "What is the purpose of a floss threader for the orthodontic client?",
+      options: [
+        "To disrupt plaque and massage the papillae between the brackets",
+        "To scrub plaque away from the gingival margin around the brackets",
+        "To stimulate and toughen the gingiva around a loosened band",
+        "To place floss under the archwire so it can clean between teeth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 997013,
+      question: "Which group of foods should be AVOIDED while wearing fixed orthodontic appliances?",
+      options: [
+        "Yogurt, applesauce, soft pasta, and well-cooked soft vegetables",
+        "Cut fresh fruit, low-sugar foods, and soft easy-to-chew breads",
+        "Chewing gum, sticky candies, hard foods such as nuts, and ice",
+        "Warm soups, mashed potatoes, scrambled eggs, and soft cheeses"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 997014,
+      question: "Which group of foods is recommended to INCLUDE while wearing fixed appliances?",
+      options: [
+        "Fresh fruits and vegetables that have been cut into small pieces",
+        "Whole crunchy apples, raw whole carrots, and hard salty pretzels",
+        "Chewy caramels, Tootsie Rolls, and thick spoonfuls of peanut butter",
+        "Buttered popcorn, corn on the cob, and a stick of chewing gum"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 997015,
+      question: "While in the hospital, oral hygiene care for the surgical orthodontic client consists of:",
+      options: [
+        "Vigorous daily brushing with a large, firm-bristled manual toothbrush",
+        "Careful daily flossing with a floss threader between each tooth",
+        "Hourly rinsing with an undiluted, full-strength chlorhexidine product",
+        "Frequent saline irrigation with a 30-mL syringe and a blunt needle"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 997016,
+      question: "For the first 2 weeks after surgery, what do surgical orthodontic clients do?",
+      options: [
+        "They begin immediate scaling and root planing at home",
+        "They continue to irrigate using saline and a syringe",
+        "They switch to a high-power irrigator on its strongest setting",
+        "They stop all oral hygiene until the surgeon removes the sutures"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 997017,
+      question: "During maxillomandibular fixation, special suction-unit brushes can clean which surfaces?",
+      options: [
+        "The lingual surfaces; the labial surfaces will not be accessible",
+        "Both the labial and lingual surfaces equally during week one",
+        "Only the occlusal surfaces of the posterior molars and bicuspids",
+        "The labial surfaces; the lingual surfaces will not be accessible"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 997018,
+      question: "Which antimicrobial agent is recommended in postsurgical plaque control, and why?",
+      options: [
+        "Hydrogen peroxide, because of its strong and visible foaming action",
+        "Full-strength ethanol, because of its rapid surface drying effect",
+        "Chlorhexidine, because of its effectiveness and low alcohol content",
+        "A gritty salt paste, because of its strong abrasive scrubbing power"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 997019,
+      question: "From 2 to 8 weeks after surgery, brushing may be started using:",
+      options: [
+        "Modified sulcular brushing with a small, soft-bristled toothbrush",
+        "Aggressive scrub brushing with a large, firm-bristled toothbrush",
+        "No brushing of any kind until eight full weeks have gone by",
+        "Brushing only the appliance itself and never the natural teeth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 997020,
+      question: "In the postsurgical diet, which beverages should be avoided?",
+      options: [
+        "Plain water and clear nutritious drinks should be avoided",
+        "Carbonated beverages should be avoided during recovery",
+        "High-caloric supplement liquids should be strictly avoided",
+        "Room-temperature herbal teas should be avoided completely"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 997021,
+      question: "What is significant about the moon-shaped area between the bracket and the gingiva?",
+      options: [
+        "It is the smoothest and easiest area to keep fully clean",
+        "It should never be touched by the toothbrush bristles at all",
+        "It becomes a target area where food tends to be trapped",
+        "It naturally cleans itself through the normal act of chewing"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 997022,
+      question: "What is true about the areas behind the wire?",
+      options: [
+        "They are not cleaned by brushing alone and need additional aids",
+        "They are fully cleaned by simply brushing twice every single day",
+        "They do not collect any plaque or trapped pieces of food debris",
+        "They should only ever be cleaned by the dental hygienist in office"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 997023,
+      question: "What is true about decalcification during orthodontic treatment?",
+      options: [
+        "It disappears completely as soon as the braces have been removed",
+        "It affects only the gingiva and never the underlying tooth enamel",
+        "It is quickly reversed by simply using a daily whitening toothpaste",
+        "It leaves permanent markings on the teeth and can lead to decay"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 997024,
+      question: "Home fluoride rinses are especially recommended for which clients?",
+      options: [
+        "Clients who have already completed all of their orthodontic care",
+        "Clients who are unable or unwilling to keep their teeth clean",
+        "Clients who brush and floss perfectly after every single meal",
+        "Clients who have no brackets, bands, or wires in their mouth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 997025,
+      question: "Why are hard and sticky foods a concern for clients with appliances?",
+      options: [
+        "They permanently stain the visible surface of every metal bracket",
+        "They may bend wires, loosen cement, or break brackets and tubes",
+        "They cause the metal archwire to rust within just a few hours",
+        "They make the colored elastic ligatures quickly change their shade"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 997026,
+      question: "What are the small donut-shaped elastic ligatures used for?",
+      options: [
+        "Large metal clips that permanently fuse the wire onto each tooth",
+        "Soft rubber pads placed to protect the cheeks from the brackets",
+        "Thin plastic strips placed to cover the sharp ends of the wire",
+        "Small donut-shaped elastics that hold the wire and brace together"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 997027,
+      question: "Which foods should be cut up so they can be eaten more safely?",
+      options: [
+        "Apples cut into small wedges and carrots cut into thin curls",
+        "Whole bagels eaten in big bites and full ears of corn on the cob",
+        "Hard candies sucked slowly and crunchy nuts eaten by the handful",
+        "Sticky caramels chewed slowly and tough beef jerky torn by hand"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 997028,
+      question: "If high-sugar foods are eaten, what is the recommended guidance?",
+      options: [
+        "Eat them slowly throughout the day, between each of the meals",
+        "Eat them first so that the mouth feels clean again afterward",
+        "Eat them only at the end of a meal and then brush immediately",
+        "Eat them only right before going to sleep for the night"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 997029,
+      question: "Which habits should the client with appliances be told to avoid?",
+      options: [
+        "Drinking plain water, eating soft yogurt, and chewing soft pasta",
+        "Biting pencils and pens, chewing ice and hard candy, biting nails",
+        "Brushing gently, flossing once daily, and rinsing well with water",
+        "Cutting apples into wedges and eating spoonfuls of soft applesauce"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 997030,
+      question: "Which toothbrush and technique are recommended for oral self-care?",
+      options: [
+        "A hard toothbrush held at a 90-degree angle, moved in long strokes",
+        "A medium toothbrush held flat, moved with firm back-and-forth scrubs",
+        "A soft toothbrush held at a 45-degree angle, moved in small circles",
+        "A firm toothbrush held at a 30-degree angle, moved in single sweeps"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 997031,
+      question: "What are the three parts that must be brushed once appliances are placed?",
+      options: [
+        "Above the ortho, between the brackets and wires, and below the braces",
+        "Only the facial surfaces of the upper front teeth near the lip line",
+        "Just the brackets themselves and nothing else around or near them",
+        "Only the chewing surfaces of the back molar teeth in both arches"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 997032,
+      question: "What is described as the \"most important step\" in the brushing technique?",
+      options: [
+        "Brushing only the flat front surface of each individual bracket",
+        "Brushing the tongue using firm and quick back-and-forth strokes",
+        "Brushing the chewing surfaces with a single quick passing stroke",
+        "Brushing at an angle toward the gums to clean along the gumline"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 997033,
+      question: "What is the correct role of a Waterpik or home irrigator?",
+      options: [
+        "It is a complete replacement for both daily brushing and flossing",
+        "It is a tool meant to be used only by the hygienist in the office",
+        "It is a device that should never be used by any orthodontic client",
+        "It is an adjunct to home care but not a substitute for flossing"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 997034,
+      question: "How often should orthodontic clients usually come in for recare visits?",
+      options: [
+        "More frequent visits, usually about every 3 to 4 months",
+        "Much less frequent visits, usually every 12 to 18 months",
+        "Only one single visit at the very end of all the treatment",
+        "Weekly visits for the entire length of the orthodontic care"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 997035,
+      question: "On average, how long should it take to brush and floss with full orthodontics?",
+      options: [
+        "Roughly 1 to 2 minutes for each cleaning session",
+        "Roughly 8 to 15 minutes for each cleaning session",
+        "Roughly 30 to 45 minutes for each cleaning session",
+        "Roughly 20 to 25 minutes for each cleaning session"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 997036,
+      question: "How should a removable retainer be cared for?",
+      options: [
+        "Soak it in boiling hot water and then wrap it in soft tissue paper",
+        "Leave it loose in a pocket or a purse between each of the meals",
+        "Brush it with soap and water, store it in its case, keep it from pets",
+        "Clean it with bleach and store it on a warm and sunny windowsill"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 997037,
+      question: "What is true about a fixed (lingual) retainer?",
+      options: [
+        "It needs no cleaning at all because it stays fixed in one place",
+        "It should be taken out and soaked in cleaner every single night",
+        "It is plaque-retentive, so floss daily and use a floss threader",
+        "It stops any calculus from ever forming near the bonded wire"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 997038,
+      question: "When and how does discomfort usually occur after the appliance is placed?",
+      options: [
+        "It starts 2 to 3 hours later and peaks on the first evening and day two",
+        "It starts right away and then disappears within about ten minutes",
+        "It begins a full week later and then lasts for only about one hour",
+        "It never occurs at all because modern appliances are fully painless"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 997039,
+      question: "What is the purpose of orthodontic relief wax?",
+      options: [
+        "To permanently glue a loose bracket back into place on the tooth",
+        "To relieve rubbing on soft tissue while that tissue toughens up",
+        "To take the place of daily brushing of the area around the wire",
+        "To dissolve the archwire so that it stops poking into the cheek"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 997040,
+      question: "What is a temporary anchorage device (TAD)?",
+      options: [
+        "A permanent metal crown that is cemented over a badly damaged molar",
+        "A removable plastic tray that is worn only at night for whitening",
+        "A soft rubber spacer that is placed between two tightly crowded teeth",
+        "A device temporarily fixed to bone to enhance anchorage, then removed"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 997041,
+      question: "Why is a loose band considered an orthodontic concern?",
+      options: [
+        "It immediately speeds up the desired movement of the involved tooth",
+        "It is completely harmless and can simply be ignored until the end",
+        "It causes the involved tooth to whiten faster than the other teeth",
+        "It creates an increased plaque-retention area that should be avoided"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 997042,
+      question: "Where is a removable appliance or retainer considered safe?",
+      options: [
+        "It is perfectly safe when wrapped inside a napkin during a meal",
+        "It is safest when carried loose inside a front or back jeans pocket",
+        "It is only safe in the mouth or in the case (\"in your face or the case\")",
+        "It is fine to store inside a purse as long as it is wrapped in paper"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 997043,
+      question: "When a piece of wire is being cut, what may be helpful to manage it?",
+      options: [
+        "Use a folded Kleenex to trap and catch the cut piece of wire",
+        "Swallow the cut piece of wire since it will pass without harm",
+        "Let the cut piece of wire fall freely into the back of the throat",
+        "Push the cut piece of wire down between the gum and the cheek"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 997044,
+      question: "How do dental implants differ from temporary anchorage devices (TADs)?",
+      options: [
+        "Implants and TADs are identical, and both are removed after treatment",
+        "Implants supporting a prosthesis are not TADs, since they are not removed",
+        "Implants can never be used to provide any orthodontic anchorage at all",
+        "TADs are always left in the bone permanently in order to support a crown"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 997045,
+      question: "Initially rotated or malpositioned teeth trap more food and are harder to access with regular brushing.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 997046,
+      question: "A proxabrush, sulca brush, and end-tuft brush are all options for cleaning areas that a regular toothbrush cannot reach.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 997047,
+      question: "Orthodontic relief wax is dangerous to swallow because it contains active medications.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 997048,
+      question: "Threaders, superfloss, and floss must be used to clean interproximally and subgingivally.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 997049,
+      question: "A fixed retainer should be removed by the client every night for cleaning.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    }
+  ],
+  "8. Introduction to Orthodontics (Part 8)": [
+    {
+      id: 998001,
+      question: "What approach does Invisalign use to straighten teeth?",
+      options: [
+        "A fixed set of metal brackets and tightening wires",
+        "A single rigid plastic mouthguard worn at night",
+        "A custom-made series of clear aligner trays",
+        "A bonded permanent wire placed behind the teeth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 998002,
+      question: "What are the Invisalign aligner trays made of?",
+      options: [
+        "Smooth, comfortable, and virtually invisible plastic",
+        "Rigid, brightly colored, and very visible acrylic",
+        "Flexible stainless steel wire woven into a mesh",
+        "Soft rubberized silicone padding with foam lining"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 998003,
+      question: "How do the aligners move the teeth?",
+      options: [
+        "They instantly snap teeth into their final position",
+        "They loosen the teeth so they can be removed faster",
+        "They permanently fuse the teeth to the jawbone below",
+        "They gradually and gently shift teeth into place"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 998004,
+      question: "Compared with traditional braces, Invisalign involves:",
+      options: [
+        "Stronger metal brackets and thicker tightening wires",
+        "No metal brackets to attach and no wires to tighten",
+        "More frequent wire adjustments made at every visit",
+        "Extra headgear that must be worn outside the mouth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 998005,
+      question: "How often does a patient switch to a new set of aligners?",
+      options: [
+        "Approximately every two weeks during the treatment",
+        "Approximately every two days during the treatment",
+        "Approximately every two months during treatment",
+        "Only one single time at the very end of treatment"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 998006,
+      question: "Who plans the exact movements of the teeth?",
+      options: [
+        "The patient choosing the movements on their own",
+        "A retail pharmacy technician working at the store",
+        "The dentist or orthodontist treating the patient",
+        "The factory workers who package the aligner trays"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 998007,
+      question: "What is the first step a patient takes to begin treatment?",
+      options: [
+        "Ordering the aligner trays directly from a website",
+        "Selecting an Invisalign-trained provider to consult",
+        "Buying replacement wires straight from a pharmacy",
+        "Taking the dental impressions at home with no doctor"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 998008,
+      question: "Why is choosing the right doctor described as so essential?",
+      options: [
+        "It is only a small and minor cosmetic styling choice",
+        "It is needed to renew a yearly product subscription",
+        "It is required in order to qualify for a tax refund",
+        "It is an important medical and financial decision"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 998009,
+      question: "What range of cases can Invisalign now address?",
+      options: [
+        "Only the most severe surgical jaw realignment cases",
+        "Many cases, ranging from simple to more complex",
+        "Only the baby teeth found in very young children",
+        "Only one single front tooth treated at any one time"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 998010,
+      question: "What can a patient take ahead of time to check candidacy?",
+      options: [
+        "A blood test ordered at the local hospital lab",
+        "A written history exam all about orthodontics",
+        "A full-body magnetic resonance imaging scan",
+        "The Smile Assessment offered by Invisalign"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 998011,
+      question: "During the consultation, the patient can ask about:",
+      options: [
+        "Costs, dental or orthodontic insurance, and concerns",
+        "Recipes, grocery prices, and weekly cooking plans",
+        "Travel routes, flight times, and hotel reservations",
+        "Car repairs, fuel prices, and parking arrangements"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 998012,
+      question: "What records does the doctor collect to build the plan?",
+      options: [
+        "Blood samples, urine tests, and full allergy panels",
+        "Hearing tests, eye exams, and basic reflex checks",
+        "X-rays, pictures, and impressions of the teeth",
+        "Diet logs, sleep charts, and daily stress surveys"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 998013,
+      question: "What does Invisalign create from the collected records?",
+      options: [
+        "A handwritten paper chart describing the teeth",
+        "A solid plaster statue of the patient's whole head",
+        "A flat two-dimensional black-and-white sketch",
+        "A digital three-dimensional image of the teeth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 998014,
+      question: "What does the doctor map out in the treatment plan?",
+      options: [
+        "The patient's daily meal and afternoon snack plan",
+        "The exact tooth movements and approximate length",
+        "The preferred color of the aligner storage container",
+        "The clinic's billing and appointment software setup"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 998015,
+      question: "About how long does treatment typically take for adults?",
+      options: [
+        "Approximately one week, the same for everyone",
+        "Approximately five years, the same for everyone",
+        "Approximately one year, though every case varies",
+        "Approximately one day, the same for every patient"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 998016,
+      question: "For teens, the length of Invisalign treatment is:",
+      options: [
+        "Comparable to the length of treatment with braces",
+        "Always far shorter than the treatment with braces",
+        "Always exactly double the treatment with braces",
+        "Completely unrelated to any treatment with braces"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 998017,
+      question: "What feature of the aligner plastic is highlighted?",
+      options: [
+        "It is BPA-free and won't irritate cheeks and gums",
+        "It contains BPA and often irritates the gum tissue",
+        "It is metal-based and abrasive against the cheeks",
+        "It is wood-based and stains the teeth very quickly"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 998018,
+      question: "When should the patient remove the aligners?",
+      options: [
+        "Only when sleeping at night during each evening",
+        "Only during the weekly checkups at the dental clinic",
+        "When eating or to brush and floss the teeth",
+        "Only after the entire treatment has been finished"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 998019,
+      question: "Why do most people not notice the aligners?",
+      options: [
+        "Because the aligners are kept inside a small case",
+        "Because the aligners are virtually invisible to see",
+        "Because the aligners are only worn while sleeping",
+        "Because the aligners are painted to match the lips"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 998020,
+      question: "Putting on a new set of aligners advances the patient to:",
+      options: [
+        "The first stage of the overall treatment plan",
+        "The final fitting of permanent metal brackets",
+        "The completion of all required retainer wear",
+        "The next stage of the overall treatment plan"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 998021,
+      question: "How often are checkups with the doctor usually needed?",
+      options: [
+        "Usually only about every six days during treatment",
+        "Usually only about every six months during treatment",
+        "Usually only about every six weeks during treatment",
+        "Usually only about every six hours during treatment"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 998022,
+      question: "How many hours per day should aligners be worn?",
+      options: [
+        "About 20 to 22 hours during every single day",
+        "About 2 to 4 hours during every single day",
+        "About 8 to 10 hours during every single day",
+        "About 14 to 16 hours during every single day"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 998023,
+      question: "What is the purpose of a retainer after treatment?",
+      options: [
+        "To continue moving the teeth much farther along",
+        "To completely replace the need for daily brushing",
+        "To whiten and polish the outer surfaces of teeth",
+        "To keep the teeth in their new corrected position"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 998024,
+      question: "Vivera retainers are made using:",
+      options: [
+        "Recycled metal taken from old traditional braces",
+        "The same state-of-the-art technology as Invisalign",
+        "Simple hand-bent wire shaped by hand at the clinic",
+        "Off-the-shelf one-size-fits-all sports mouthguards"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 998025,
+      question: "How are retainers worn during the first 3 to 6 months?",
+      options: [
+        "For only about 1 to 2 hours each day at first",
+        "For only on the weekends each week at first",
+        "For no time at all during those first months",
+        "For about 12 to 22 hours each day at first"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 998026,
+      question: "The retainer wearing schedule varies depending on:",
+      options: [
+        "The patient's favorite color and preferred music",
+        "The complexity of the problem and the patient's age",
+        "The distance the patient lives from the dental clinic",
+        "The brand of toothpaste the patient chooses to use"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 998027,
+      question: "What kinds of problems can Invisalign correct?",
+      options: [
+        "Malocclusion, overbite, underbite, gaps, and crowding",
+        "Only the color and surface whiteness of the teeth",
+        "Only missing teeth that need a full replacement set",
+        "Only jaw injuries caused by accidents and trauma"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 998028,
+      question: "What did the 26-year-old female patient's case involve?",
+      options: [
+        "Widely spaced teeth that were placed very far apart",
+        "Upper teeth that bit on the inside of the lower teeth",
+        "Overly crowded teeth with not enough room in the jaw",
+        "A deep overbite overlapping the lower teeth too much"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 998029,
+      question: "According to the file, untreated overly crowded teeth can:",
+      options: [
+        "Cure decay and lower the chance of gum disease",
+        "Cause decay and raise the chance of gum disease",
+        "Strengthen the enamel and whiten the teeth fast",
+        "Speed up the eruption of brand-new adult teeth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 998030,
+      question: "According to the file, spacing issues in teeth can cause:",
+      options: [
+        "A permanent loss of the patient's sense of taste",
+        "A much higher risk of suddenly breaking the jaw",
+        "An immediate and lasting change in the eye color",
+        "Some periodontal, gum-related diseases over time"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 998031,
+      question: "The 27-year-old female patient's misaligned jaws caused:",
+      options: [
+        "Lower teeth to fall out within a few short weeks",
+        "The teeth to become fused firmly to the jawbone",
+        "Upper teeth to bite inside lower teeth, causing wear",
+        "The jaw to lock completely shut while she was eating"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 998032,
+      question: "Among the cases shown, what was the longest treatment?",
+      options: [
+        "About 20 months for the overbite/overlap case",
+        "About 2 months for the overbite/overlap case",
+        "About 50 months for the overbite/overlap case",
+        "About 36 months for the overbite/overlap case"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 998033,
+      question: "Invisalign aligners should be worn about 20 to 22 hours per day for best results.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 998034,
+      question: "Invisalign uses metal brackets and wires that must be tightened regularly.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 998035,
+      question: "Vivera retainers are used after treatment to help keep the teeth in their new position.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    }
   ]
 };
