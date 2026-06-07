@@ -884,10 +884,7 @@ export const subjectsWithSubtopics = {
     "8. Introduction to Orthodontics (Part 5)",
     "8. Introduction to Orthodontics (Part 6)",
     "8. Introduction to Orthodontics (Part 7)",
-    "8. Introduction to Orthodontics (Part 8)",
-    "8. Introduction to Orthodontics (Part 9)",
-    "8. Introduction to Orthodontics (Part 10)",
-    "8. Introduction to Orthodontics (Part 11)"
+    "8. Introduction to Orthodontics (Part 8)"
   ],  
   "Nutrition for Living": [
     "1. Introduction to Nutrition",
