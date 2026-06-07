@@ -876,7 +876,18 @@ export const subjectsWithSubtopics = {
     "4. Oral and Maxillofacial Surgery",
     "5. Pediatric Dentistry",
     "6. Sutures Supplemental Slides",
-    "7. Introduction to Orthodontics"
+    "7. Introduction to Orthodontics",
+    "8. Introduction to Orthodontics (Part 1)",
+    "8. Introduction to Orthodontics (Part 2)",
+    "8. Introduction to Orthodontics (Part 3)",
+    "8. Introduction to Orthodontics (Part 4)",
+    "8. Introduction to Orthodontics (Part 5)",
+    "8. Introduction to Orthodontics (Part 6)",
+    "8. Introduction to Orthodontics (Part 7)",
+    "8. Introduction to Orthodontics (Part 8)",
+    "8. Introduction to Orthodontics (Part 9)",
+    "8. Introduction to Orthodontics (Part 10)",
+    "8. Introduction to Orthodontics (Part 11)"
   ],  
   "Nutrition for Living": [
     "1. Introduction to Nutrition",
