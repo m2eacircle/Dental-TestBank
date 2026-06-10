@@ -867,7 +867,8 @@ export const subjectsWithSubtopics = {
     "4. Dental Indices (Part 1)",
     "4. Dental Indices (Part 2)",
     "5. Population Health",
-    "6. Oral Health Programs in the Community"
+    "6. Oral Health Programs in the Community",
+    "7. The State of Oral Health in Canada"
   ],  
   "Dental Hygiene Theory III": [
     "1. Fixed Prosthodontics",
