@@ -6566,5 +6566,1270 @@ export const questions = {
       ],
       correctAnswer: 0
     },
+  ],
+  "7. The State of Oral Health in Canada": [
+    {
+      id: 917001,
+      question: "How does the World Health Organization define oral health?",
+      options: [
+        "A state free from mouth and facial pain, oral and throat cancer, infection, gum disease, decay and tooth loss",
+        "A state in which the teeth are perfectly straight, white, free of stains and never require any treatment",
+        "A condition reached only after a person has received braces, fillings and professional whitening of teeth",
+        "A measure of how many dental appointments a person attends within a given calendar year of their life"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917002,
+      question: "Worldwide, what proportion of school-aged children and of adults are affected by tooth decay?",
+      options: [
+        "Around 10-20% of school-aged children and roughly half of all adults have some tooth decay",
+        "Around 60-90% of school-aged children and nearly 100% of adults have tooth decay",
+        "Around 30-40% of school-aged children and about one quarter of adults have tooth decay",
+        "Around 5-15% of school-aged children and fewer than ten percent of adults have decay"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917003,
+      question: "How is dental caries described in terms of its place among chronic diseases?",
+      options: [
+        "It is a rare hereditary disorder that cannot be prevented and affects only a small share of people",
+        "It is an infectious tropical disease that has now been almost completely eliminated worldwide",
+        "It is the most common yet preventable chronic disease on the planet and a major public health challenge",
+        "It is an age-related condition that appears only after sixty and rarely affects younger people"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917004,
+      question: "Roughly how many school-days are estimated to be missed each year in Canada due to dental-related illness?",
+      options: [
+        "About 12.5 million school-days are missed each year because of dental-related illness",
+        "About 250 thousand school-days are missed each year because of dental-related illness",
+        "About 40.4 million school-days are missed each year because of dental-related illness",
+        "About 2.26 million school-days are missed each year because of dental-related illness"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917005,
+      question: "Tooth decay accounts for what share of day surgeries performed on Canadian children aged 1 to 5?",
+      options: [
+        "Tooth decay accounts for about one-third of all day surgeries on children aged 1 to 5",
+        "Tooth decay accounts for about one-tenth of all day surgeries on children aged 1 to 5",
+        "Tooth decay accounts for about three-quarters of all day surgeries on children aged 1 to 5",
+        "Tooth decay accounts for about one-half of all day surgeries on children aged 1 to 5"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917006,
+      question: "According to the Global Burden of Disease data cited by the CDA, where does untreated decay of permanent teeth rank in prevalence?",
+      options: [
+        "Untreated caries of permanent teeth ranks 6th, affecting about 11% of the population",
+        "Untreated caries of permanent teeth ranks 1st, affecting about 35% of the population",
+        "Untreated caries of permanent teeth ranks 9th, affecting about 9% of the population",
+        "Untreated caries of permanent teeth ranks 36th, affecting about 2% of the population"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917007,
+      question: "What was the estimated global economic impact of dental diseases in 2010 according to the CDA report?",
+      options: [
+        "The global economic impact of dental diseases amounted to about US$144 billion in 2010",
+        "The global economic impact of dental diseases amounted to about US$13 billion in 2010",
+        "The global economic impact of dental diseases amounted to about US$442 billion in 2010",
+        "The global economic impact of dental diseases amounted to about US$1 trillion in 2010"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917008,
+      question: "Recent findings suggest oral diseases account for productivity losses of how much per year in Canada alone?",
+      options: [
+        "Oral diseases account for productivity losses of over $1 million per year in Canada alone",
+        "Oral diseases account for productivity losses of over $100 billion per year in Canada alone",
+        "Oral diseases account for productivity losses of over $50 million per year in Canada alone",
+        "Oral diseases account for productivity losses of over $1 billion per year in Canada alone"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917009,
+      question: "According to the CDA, what proportion of the world's population is in need of appropriate and affordable oral health care?",
+      options: [
+        "More than 70% of the world's population, mostly in low- and middle-income countries, needs such care",
+        "Fewer than 10% of the world's population, mostly in high-income countries, needs such care",
+        "Roughly 25% of the world's population, mostly in upper-income countries, needs such care",
+        "About 50% of the world's population, evenly spread across all income groups, needs care"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917010,
+      question: "Among the countries compared by the OECD, which had the highest average percentage visiting a dentist in the past year?",
+      options: [
+        "Canada had the highest average, with about 64.6% of its population visiting a dentist",
+        "France had the highest average, with about 74.9% of its population visiting a dentist",
+        "The United States had the highest average, with about 42.4% visiting a dentist",
+        "Denmark had the highest average, with about 35.3% of its population visiting"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917011,
+      question: "What does the DMFT index represent and in whom is it usually measured?",
+      options: [
+        "Daily mouth and fluoride treatments, usually measured in newborns for international comparison",
+        "Dental membership and family treatment, usually measured in seniors for national comparison",
+        "Decayed, missing and filled teeth, usually measured in 12-year-olds for international comparison",
+        "Decay, malocclusion, fillings and trauma, usually measured in adults for regional comparison"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917012,
+      question: "What was the mean DMFT score reported for Canadian 12-year-olds, compared with the OECD average?",
+      options: [
+        "Canada's mean DMFT was 2.50, worse than the OECD average of about 1.6 in 2006",
+        "Canada's mean DMFT was 6.00, worse than the OECD average of about 1.6 in 2006",
+        "Canada's mean DMFT was 3.20, equal to the OECD average of about 1.6 in 2006",
+        "Canada's mean DMFT was 1.02, better than the OECD average of about 1.6 in 2006"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917013,
+      question: "In 2010, what proportion of Canadians aged 60-79 had no natural teeth (edentulism)?",
+      options: [
+        "About 22% of Canadians aged 60-79 had no natural teeth in 2010",
+        "About 6% of Canadians aged 60-79 had no natural teeth in 2010",
+        "About 38% of Canadians aged 60-79 had no natural teeth in 2010",
+        "About 50% of Canadians aged 60-79 had no natural teeth in 2010"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917014,
+      question: "Why is edentulism considered an important oral health measure?",
+      options: [
+        "Losing all natural teeth permanently prevents any future gum disease and lowers a person's cancer risk",
+        "Losing all natural teeth can change eating patterns, cause nutrient deficiency, weight loss and speech difficulty",
+        "Losing all natural teeth is harmless and mainly affects a person's appearance rather than their health",
+        "Losing all natural teeth automatically qualifies a person for free government dental coverage for life"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917015,
+      question: "Which countries recorded the lowest 12-year-old DMFT scores in the OECD comparison table?",
+      options: [
+        "Japan and Norway, both with a DMFT of around 1.7",
+        "New Zealand and Australia, both with a DMFT of 1.6",
+        "Germany and the United Kingdom, both with a DMFT of 0.7",
+        "Canada and the United States, both with a DMFT of 1.3"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917016,
+      question: "The 2010 Health Canada report on dental health was based on which survey?",
+      options: [
+        "The Canadian Community Volunteer Survey conducted by the dental colleges",
+        "The Global Oral Health Status Report conducted by the World Bank group",
+        "The Inuit Oral Health Survey conducted by provincial dental societies",
+        "The Canadian Health Measures Survey conducted by Statistics Canada"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917017,
+      question: "How did the percentage of Canadians consulting a dentist per year change from the early 1970s to the late 2000s?",
+      options: [
+        "It increased from about 49.5% to about 74.5%",
+        "It increased from about 23.6% to about 64.6%",
+        "It decreased from about 86% to about 75% over the period",
+        "It stayed roughly the same at just above 60% over time"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917018,
+      question: "How did the percentage of children with at least one decayed tooth change over the 40-year period studied?",
+      options: [
+        "It decreased from about 96.6% to about 58.8%",
+        "It decreased from about 74% to about 23.6%",
+        "It decreased from about 49.5% to about 23.6%",
+        "It increased from about 23.6% to about 74% over time"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917019,
+      question: "How did the percentage of adults with no natural teeth change over the 40-year period studied?",
+      options: [
+        "It decreased from about 74% to about 23.6%",
+        "It decreased from about 96.6% to about 58.8%",
+        "It decreased from about 23.6% to about 6.4%",
+        "It increased from about 6.4% to about 23.6% over time"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917020,
+      question: "What proportion of Canadians were reported to have no dental insurance?",
+      options: [
+        "About 6% of Canadians have no dental insurance at all",
+        "About 53% of Canadians have no dental insurance at all",
+        "About 84% of Canadians have no dental insurance at all",
+        "About 32% of Canadians have no dental insurance"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917021,
+      question: "What share of Canadians rated their own oral health as good or excellent?",
+      options: [
+        "About 84% of Canadians reported their oral health as good or excellent",
+        "About 73% of Canadians reported their oral health as good or excellent",
+        "About 64% of Canadians reported their oral health as good or excellent",
+        "About 32% of Canadians reported their oral health as good or excellent"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917022,
+      question: "What share of Canadians reported brushing twice or more per day?",
+      options: [
+        "About 28% of Canadians brush twice or more per day",
+        "About 73% of Canadians brush twice or more per day",
+        "About 84% of Canadians brush twice or more per day",
+        "About 53% of Canadians brush twice or more per day"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917023,
+      question: "How did treatment needs differ between lower-income and higher-income Canadians?",
+      options: [
+        "About 26% of lower-income Canadians had a need identified, compared with about 47% of the higher-income group",
+        "About 84% of lower-income Canadians had a need identified, compared with about 32% of the higher-income group",
+        "About 47% of lower-income Canadians had a need identified, compared with about 26% of the higher-income group",
+        "About 6% of lower-income Canadians had a need identified, compared with about 53% of the higher-income group"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917024,
+      question: "Overall, how did oral health outcomes compare between lower-income and higher-income Canadian families?",
+      options: [
+        "Lower-income families had outcomes that were generally identical to those of higher-income families",
+        "Lower-income families had about two times better outcomes on many measures than higher-income families",
+        "Lower-income families had slightly better outcomes, mainly because they visited dentists more often",
+        "Lower-income families had about two times worse outcomes on many measures than higher-income families"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917025,
+      question: "What did the Inuit Oral Health Survey (2008-2009) find compared with non-Indigenous Canadians?",
+      options: [
+        "More Inuit reported poor oral health, food avoidance and oral pain, and most had untreated disease",
+        "More Inuit reported excellent oral health, with very few cases of decay or pain at any age",
+        "Inuit oral health was identical to that of the rest of Canada across every age group studied",
+        "Inuit had far fewer extractions and far more fillings than non-Indigenous Canadians overall"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917026,
+      question: "Among Inuit adolescents, how did extractions compare with fillings relative to non-Indigenous adolescents?",
+      options: [
+        "Inuit adolescents had 2.3 extractions per 100 fillings, versus about ten extractions per 100 for non-Indigenous",
+        "Inuit adolescents had 20.3 extractions per 100 fillings, versus about one extraction per 100 fillings for non-Indigenous",
+        "Inuit adolescents had the same low extraction-to-filling ratio as non-Indigenous Canadian adolescents",
+        "Inuit adolescents had 1.0 extraction per 100 fillings, versus about twenty for non-Indigenous adolescents"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917027,
+      question: "According to the CDA, which two factors are the most important determinants of dental care utilization in Canada?",
+      options: [
+        "Province of residence and age are the two most important determinants of dental care utilization",
+        "Gender and education level are the two most important determinants of dental care utilization",
+        "Income and dental insurance are the two most important determinants of dental care utilization",
+        "Fluoride exposure and diet are the two most important determinants of dental care utilization"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917028,
+      question: "In what four main ways do Canadians typically finance their own dental care?",
+      options: [
+        "Hospital billing, medicare coverage, charity grants and international aid transfer payments",
+        "Provincial medicare, federal medicare, municipal taxes and employer pension contributions",
+        "Bank loans, health spending accounts, mandatory premiums and provincial sales taxes",
+        "Third-party insurance, private insurance, out-of-pocket payment and government-subsidized programs"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917029,
+      question: "In 2015, which source represented the largest share of dental service expenditures in Canada?",
+      options: [
+        "Private insurance, at about 56.2% of dental service expenditures",
+        "Private direct out-of-pocket payment, at about 37.6% of expenditures",
+        "Public provincial governments, at about 4.0% of expenditures",
+        "Public federal government direct funding, at about 2.2% of total"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917030,
+      question: "What were the estimated total dental service expenditures in Canada in 2015, and the public-sector share?",
+      options: [
+        "About $13.6 billion total, with the public sector accounting for $12.7 billion (about 93.8%)",
+        "About $13.6 billion total, with the public sector accounting for $846 million (about 6.2%)",
+        "About $219.2 billion total, with the public sector accounting for $846 million (about 6.2%)",
+        "About $6.3 billion total, with the public sector accounting for $5.4 billion (about 86%)"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917031,
+      question: "What was the estimated total per capita spending on dental services in Canada?",
+      options: [
+        "About $959.00 per Canadian, compared with $378.60 on drugs and $23.60 on physician services",
+        "About $23.60 per Canadian, compared with $355 on drugs and $946 on physician services",
+        "About $378.60 per Canadian, compared with $959 on drugs and $946 on physician services",
+        "About $946.00 per Canadian, compared with $378.60 on drugs and $959 on physician services"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917032,
+      question: "What was the population-to-dentist ratio in Canada in January 2016?",
+      options: [
+        "About 45,961 people for every dentist in Canada",
+        "About 16,220 people for every dentist in Canada",
+        "About 718 people for every dentist in Canada",
+        "About 1,622 people for every dentist in Canada"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917033,
+      question: "To which groups are public-sector dental expenditures in Canada primarily targeted?",
+      options: [
+        "Children, seniors, eligible Indigenous individuals and people with disabilities",
+        "High-income earners, business owners, professionals and self-employed people",
+        "Tourists, temporary workers, students and international visiting researchers",
+        "Athletes, military contractors, retirees abroad and dual-citizen residents"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917034,
+      question: "Dental services financed by the federal government are available to which of the following groups?",
+      options: [
+        "All employed adults, their spouses, their children and their extended family members",
+        "Military personnel, Indigenous status holders, veterans, federal prisoners, refugees and the RCMP",
+        "Only residents of rural and remote communities who lack access to a local dentist",
+        "Provincial prisoners, social-assistance recipients and low-income seniors in care"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917035,
+      question: "Of Health Canada's roughly $246 million in dental expenditures, which program received the largest share?",
+      options: [
+        "The Children's Oral Health Initiative, at about $231 million (94% of the total)",
+        "The Dental Therapy Program, at about $231 million (94% of the total)",
+        "The Non-Insured Health Benefits Program, at about $231 million (94% of the total)",
+        "The Department of National Defence program, at about $231 million (94%)"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917036,
+      question: "Many publicly funded oral health services in the provinces are delivered by which professionals?",
+      options: [
+        "Family physicians and registered nurses working within general hospital settings",
+        "Pharmacists and pharmacy technicians operating from community drug stores",
+        "Oral surgeons and anaesthesiologists working only within university teaching clinics",
+        "Allied oral health care professionals such as dental hygienists and dental therapists"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917037,
+      question: "In the CDA report, the term 'children' refers to which age range?",
+      options: [
+        "All Canadians from 0 to 18 years of age",
+        "All Canadians from 6 to 12 years of age",
+        "All Canadians from 0 to 6 years of age",
+        "All Canadians from 1 to 5 years of age"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917038,
+      question: "Which three peoples make up Canada's Indigenous population, as noted in the report?",
+      options: [
+        "Inuit, refugees and new immigrants, each with unique heritages and beliefs",
+        "First Nations, Inuit and Metis, each with unique heritages, languages and beliefs",
+        "First Nations, settlers and Metis, each with unique heritages and languages",
+        "Inuit, Metis and seniors, each with distinct cultural practices and languages"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917039,
+      question: "What is the CDA's recommended timing for a child's first visit to the dentist?",
+      options: [
+        "By 36 months of age, or within 12 months of the first tooth erupting",
+        "By 60 months of age, or once all baby teeth have fully erupted",
+        "By 12 months of age, or within 6 months of the first tooth erupting",
+        "By 24 months of age, or within 18 months of the first tooth erupting"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917040,
+      question: "What proportion of Canada's water supply was reported to be fluoridated?",
+      options: [
+        "About 70% of Canada's water supply is fluoridated currently",
+        "About 6% of Canada's water supply is fluoridated currently",
+        "About 84% of Canada's water supply is fluoridated currently",
+        "Only about 37% of Canada's water supply is fluoridated"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917041,
+      question: "What were the three specific priorities highlighted by the Canadian Oral Health Roundtable?",
+      options: [
+        "A common position on water fluoridation, oral health standards in long-term care, and education for children and parents",
+        "Free national dental care, mandatory dental insurance, and dental clinics in every public school building",
+        "Banning sugary drinks, taxing toothpaste, and training more oral surgeons at universities nationwide",
+        "Building mobile clinics, importing more dentists, and replacing fluoride with newer cavity treatments"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917042,
+      question: "What did the Canadian Oral Health Roundtable recommend for residents of long-term care facilities?",
+      options: [
+        "Annual extraction of all remaining teeth, replacement with dentures, and removal of all fluoride products",
+        "Regular oral health assessments, a referral process to a dentist, and a daily mouth-care plan implemented by staff",
+        "Mandatory weekly hospital visits, sedation for all cleanings, and a ban on visits by dental hygienists",
+        "Self-directed care only, no staff involvement, and oral checks performed solely by family members"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917043,
+      question: "Which province purchased two mobile dental clinics to help increase seniors' access to oral health care?",
+      options: [
+        "Manitoba, through the Healthy Smile Happy Child partnership program",
+        "Ontario, through the Ontario Dental Association and TVOKids show",
+        "Alberta, through the Alberta Dental Association and College",
+        "Nova Scotia, through its HealthyTeeth and HealthyTeeth+ websites"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917044,
+      question: "What is Manitoba's 'Healthy Smile Happy Child' program designed to do?",
+      options: [
+        "Provide free dentures and full-mouth rehabilitation to low-income senior residents",
+        "Operate a fleet of mobile dental clinics serving rural and remote First Nations",
+        "Run a public-education television show scripted by the provincial dental association",
+        "Take an upstream approach to engage communities in preventing early childhood caries"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917045,
+      question: "What did the Newfoundland and Labrador Dental Association develop with provincial government funding?",
+      options: [
+        "A universal program covering children from birth to 13 years, active and supported for ten years",
+        "A universal program covering all seniors in long-term care, active and supported for ten years",
+        "A mobile dental fleet covering rural adults, active and supported for over twenty years",
+        "A free first-visit campaign for children up to age three, active for more than ten years"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917046,
+      question: "According to a 2005 survey, roughly how much volunteer dental care did Canadian dentists provide, in today's values?",
+      options: [
+        "About $8 million in volunteer dental services, reaching over 30,000 Canadians",
+        "About $125 million in volunteer dental services, reaching over 300,000 Canadians",
+        "About $846 million in volunteer dental services, reaching over 3 million Canadians",
+        "About $13.6 billion in volunteer dental services, reaching all Canadians in need"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917047,
+      question: "The CDHA's 2010 brief refers to the Report on the Oral Health Component of the 2007-2009 survey as what?",
+      options: [
+        "A clinical treatment manual that gives step-by-step instructions for treating decay",
+        "A marketing study that gives advice on attracting more patients to dental practices",
+        "An oral health report card that gives a snapshot of the oral health status of Canadians",
+        "A legal ruling that gives provinces the power to insure all dental care under medicare"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917048,
+      question: "On equity issues such as access to dental care, how did a 2010 Commonwealth Fund report rank Canada's health system?",
+      options: [
+        "Canada ranked first out of seven countries on equity issues",
+        "Canada ranked second out of seven countries on equity issues",
+        "Canada ranked seventh out of seven countries on equity issues",
+        "Canada ranked fifth out of seven countries on equity issues"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917049,
+      question: "According to the CDHA brief, how much more common was having no insurance among low-income families versus higher-income families?",
+      options: [
+        "About two and a half times more common, at 49.8% versus 19.8%",
+        "About ten times more common, at 49.8% versus around 5% of families",
+        "About the same in both groups, at roughly 20% of families each",
+        "About one and a half times more common, at 30% versus 20% of families"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917050,
+      question: "What did the CDHA recommend regarding federal investment in public health dental hygiene human resources?",
+      options: [
+        "Investing 100 million dollars one time only to fully privatize dental hygiene services",
+        "Investing 10 million dollars each year in a designated fund to bolster these resources",
+        "Investing 1 billion dollars each year to provide universal dental care for all Canadians",
+        "Investing 1 million dollars each year to study whether dental hygienists are needed"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917051,
+      question: "According to the CDHA brief, how much was spent on dental care in Canada in 2009 and what share came from private sources?",
+      options: [
+        "About $13.6 billion was spent, with 6% coming from private sources",
+        "About $10 billion was spent, with 70% coming from private sources",
+        "About $6.3 billion was spent, with 94% coming from private sources",
+        "About $846 million was spent, with 40% coming from private sources"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917052,
+      question: "In terms of costs by disease category, where does dental care fall according to the CDHA brief?",
+      options: [
+        "It follows cancer and respiratory disease but exceeds the cost of cardiovascular disease",
+        "It is the single most costly disease category, ahead of all cardiovascular conditions",
+        "It is the least costly disease category, well below respiratory disease and cancer",
+        "It follows cardiovascular disease and exceeds the costs for respiratory disease and cancer"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917053,
+      question: "How did per capita expenditures on dental care change in Canada between 1960 and 2008?",
+      options: [
+        "They increased from $6.16 to $361.62 per capita",
+        "They increased from $23.60 to $378.60 per capita",
+        "They decreased from $361.62 to $6.16 per capita",
+        "They increased from $6.16 to $959.00 per capita"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917054,
+      question: "What share of all dental expenditures in Canada came from public funding, according to the CDHA brief?",
+      options: [
+        "About 70%, of which the federal government contributes 40% and the provinces 60%",
+        "Only about 6%, of which the federal government contributes 40% and the provinces 60%",
+        "About 94%, of which the federal government contributes 60% and the provinces 40%",
+        "About 50%, of which the federal government contributes 50% and the provinces 50%"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917055,
+      question: "How many oral health care providers were working in public health in Canada, according to the CDHA brief?",
+      options: [
+        "About 42,633 of 45,961 providers, including most dental hygienists, were in public health",
+        "About 10,000 of 42,633 providers, including 453 dental hygienists, were in public health",
+        "Only 718 of 42,633 providers, including 453 dental hygienists, were in public health",
+        "Only 453 of 718 providers, none of them dental hygienists, were in public health"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917056,
+      question: "How long had Canada gone without collecting oral health data before the 2010 report?",
+      options: [
+        "Canada had not collected comparable oral health data for about three years",
+        "Canada had not collected comparable oral health data for about fifty years",
+        "Canada had not collected comparable oral health data for about ten years",
+        "Canada had not collected comparable oral health data for about thirty years"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917057,
+      question: "How does the CDHA brief describe early childhood caries (ECC) in North America?",
+      options: [
+        "As the most common chronic childhood disease, labelled a pandemic in North America",
+        "As a rare childhood disorder that has largely been eliminated in North America",
+        "As a minor cosmetic issue affecting only the appearance of baby teeth in children",
+        "As a non-preventable genetic condition unrelated to diet or oral hygiene habits"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917058,
+      question: "What does the CDHA identify as a key limitation of the 2005 Canadian Oral Health Strategy?",
+      options: [
+        "The absence of any measurable goals or specific objectives for any future year",
+        "The absence of an implementation plan to put its goals and objectives into practice",
+        "The absence of input from oral health professionals during its development process",
+        "The absence of provincial participation in the wide consultation that created it"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917059,
+      question: "What change to the Canadian Health Measures Survey did the CDHA recommend?",
+      options: [
+        "Removing the oral health component from the survey to reduce overall costs",
+        "Conducting the entire survey every single year rather than periodically",
+        "Incorporating an oral health component into the survey every five years",
+        "Limiting the oral health component to high-income provinces only going forward"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917060,
+      question: "How does the WHO Global oral health status report describe the worldwide reach of oral diseases?",
+      options: [
+        "They affect an estimated 350 million people and are among the rarest of recorded conditions",
+        "They affect an estimated 35 million people and are limited mainly to low-income countries",
+        "They affect an estimated 13 billion people and have been declining steadily since 1990",
+        "They affect an estimated 3.5 billion people and are the most widespread of more than 300 conditions"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917061,
+      question: "Where do most people affected by oral diseases live, according to the WHO report?",
+      options: [
+        "Three out of four people affected live in middle-income countries",
+        "Three out of four people affected live in high-income countries",
+        "Three out of four people affected live in low-income countries",
+        "Three out of four people affected live in the WHO African Region"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917062,
+      question: "Which oral disease has the highest number of cases worldwide, according to GBD data in the WHO report?",
+      options: [
+        "Severe periodontal disease, with around 2 billion cases worldwide",
+        "Untreated caries of permanent teeth, with around 2 billion cases",
+        "Untreated caries of deciduous teeth, with around 2 billion cases",
+        "Edentulism (total tooth loss), with around 2 billion cases worldwide"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917063,
+      question: "How did global case numbers of oral diseases change between 1990 and 2019?",
+      options: [
+        "They fell by more than 1 billion, a 50% decrease driven by better global prevention",
+        "They stayed almost flat, growing only about 3% while population grew about 45%",
+        "They grew by more than 1 billion, a 50% increase that outpaced population growth of about 45%",
+        "They grew by about 100 million, far slower than the population growth of 45%"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917064,
+      question: "How is a disability-adjusted life year (DALY) defined in the WHO report?",
+      options: [
+        "It represents the total cost of one year of dental treatment per person",
+        "It represents the number of teeth lost over one year of a person's life",
+        "It represents one year of life gained through a public health intervention",
+        "It represents the loss of the equivalent of one year of full health"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917065,
+      question: "What did the historic resolution adopted by the World Health Assembly in May 2021 (WHA74.5) call for?",
+      options: [
+        "Embedding oral health within the noncommunicable disease agenda and including it in health coverage",
+        "Removing oral health from all national health budgets and shifting every dental cost onto patients",
+        "Replacing all the world's dentists with general physicians given brief training in oral procedures",
+        "Banning the sale of fluoride toothpaste worldwide until further long-term safety studies finish"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917066,
+      question: "Which is identified as the main cause of dental caries in the WHO report?",
+      options: [
+        "The consumption of fluoride, which shows a clear dose-effect relationship with caries",
+        "The consumption of free sugars, which shows a clear dose-effect relationship with caries",
+        "Exposure to tobacco smoke, which shows a clear dose-effect relationship with caries",
+        "A lack of physical activity, which shows a clear dose-effect relationship with caries"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917067,
+      question: "What does the WHO recommend regarding intake of free sugars?",
+      options: [
+        "Less than 50% of total energy intake, with a conditional recommendation to reduce to 25%",
+        "Less than 1% of total energy intake, with a conditional recommendation to eliminate it",
+        "Less than 10% of total energy intake, with a conditional recommendation to reduce further to 5%",
+        "Less than 30% of total energy intake, with a conditional recommendation to reduce to 20%"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917068,
+      question: "Which set of common risk factors do oral diseases share with other noncommunicable diseases?",
+      options: [
+        "Genetic inheritance, advancing age and the natural eruption of teeth",
+        "Cold climate, high altitude and prolonged exposure to direct sunlight",
+        "Fluoride exposure, frequent tooth brushing and regular dental visits",
+        "Tobacco use, harmful alcohol use and unhealthy diets high in sugar"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917069,
+      question: "According to the WHO report, what is the global prevalence of tobacco use among people aged 15 and older?",
+      options: [
+        "About 22.3% overall, with men using tobacco at far higher rates than women",
+        "About 5.3% overall, with women using tobacco at far higher rates than men",
+        "About 45% overall, split almost equally between men and women globally",
+        "About 8% overall, mainly concentrated in high-income countries worldwide"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917070,
+      question: "Which association between oral and general health has the strongest and most consistent evidence?",
+      options: [
+        "An association between untreated caries and seasonal influenza infections",
+        "An association between severe periodontal disease and diabetes mellitus",
+        "An association between edentulism and improved long-term cardiovascular health",
+        "An association between gingivitis and a reduced risk of developing any cancer"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917071,
+      question: "What was the goal of Japan's 8020 Campaign, launched in 1989?",
+      options: [
+        "To ensure people completed 80 dental visits by age 20 so that all future tooth loss is prevented",
+        "To ensure that 80% of all people over age 20 received a free set of dentures within one decade",
+        "To ensure people still had 20 of their teeth at age 80 to maintain nutrition and social well-being",
+        "To ensure people brushed their teeth 20 times each week so as to reach age 80 free of any decay"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917072,
+      question: "What was the estimated total direct expenditure for oral diseases worldwide in 2019, per the WHO report?",
+      options: [
+        "About US$442 billion, roughly 25% of global direct health expenditures",
+        "About US$50 billion, roughly 0.5% of global direct health expenditures",
+        "About US$134 billion, roughly 50% of global direct health expenditures",
+        "About US$387 billion, roughly 4.8% of global direct health expenditures"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917073,
+      question: "How does per capita dental expenditure compare between low-income and high-income countries?",
+      options: [
+        "Low-income countries spend about US$0.52 per capita while high-income spend about US$260, roughly 500 times more",
+        "Low-income countries spend about US$260 per capita while high-income spend about US$0.52, far less per person",
+        "Low-income and high-income countries spend almost identical amounts of about US$50 per capita each",
+        "Low-income countries spend about US$50 per capita while high-income spend about US$100, only twice as much"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917074,
+      question: "Which country has the single highest total direct dental expenditure, according to the WHO report?",
+      options: [
+        "China, at about US$134 billion, followed by the United States at about US$61 billion",
+        "The United States, at about US$134 billion, followed by China at about US$61 billion",
+        "India, at about US$134 billion, followed by Japan at about US$61 billion worldwide",
+        "Germany, at about US$134 billion, followed by France at about US$61 billion globally"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917075,
+      question: "How is dental caries defined in the WHO report?",
+      options: [
+        "A sudden hereditary cracking of tooth tissues caused by chewing on hard objects",
+        "A reversible swelling of the gums caused by an excess of fluoride in toothpaste",
+        "A gradual loss and breakdown of tooth tissues when sugars are converted by bacteria into acids",
+        "An age-related thinning of the jawbone that loosens and eventually removes teeth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917076,
+      question: "What is the estimated global prevalence of untreated caries of permanent teeth, per the WHO report?",
+      options: [
+        "About 43% of the relevant population, representing more than 2 billion cases",
+        "About 19% of the relevant population, representing more than 2 billion cases",
+        "About 7% of the relevant population, representing more than 2 billion cases",
+        "About 29% of the relevant population, representing more than 2 billion cases"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917077,
+      question: "How is severe periodontal disease defined and how widespread is it, per the WHO report?",
+      options: [
+        "A pocket of more than 6 mm depth; about 19% of people over 15, or more than 1 billion cases",
+        "A pocket of more than 1 mm depth; about 45% of people over 15, or more than 3 billion cases",
+        "Any visible bleeding of the gums; about 7% of people over 15, or about 350 million cases",
+        "Loss of more than 9 teeth in total; about 11% of people over 6, or about 510 million cases"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917078,
+      question: "At roughly what age does severe periodontal disease reach its highest prevalence?",
+      options: [
+        "Around 6 years of age, soon after eruption",
+        "Around 55 to 60 years of age",
+        "Around 20 years of age, in early adulthood",
+        "Around 80 years of age, in advanced old age"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917079,
+      question: "How is edentulism defined in the WHO report, and what is its global prevalence?",
+      options: [
+        "Loss of one or more teeth; a global average prevalence of about 45%, or 3.5 billion cases",
+        "A pocket deeper than 6 mm; a global average prevalence of about 19%, or 1 billion cases",
+        "Complete toothlessness; a global average prevalence of about 7%, or more than 350 million cases",
+        "Decay of all baby teeth; a global average prevalence of about 43%, or 514 million cases"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917080,
+      question: "Among people older than 60, what is the global average prevalence of edentulism?",
+      options: [
+        "About 6.8%, meaning roughly one in fifteen people older than 60 have no teeth",
+        "About 45%, meaning nearly half of all people older than 60 have no teeth left",
+        "About 10.5%, meaning roughly one in ten people older than 60 have no teeth",
+        "About 22.7%, meaning almost one in four people older than 60 have no teeth left"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917081,
+      question: "How many new cases and deaths from lip and oral cavity cancer were estimated worldwide in 2020?",
+      options: [
+        "About 377,713 new cases and 177,757 deaths",
+        "About 177,757 new cases and 377,713 deaths",
+        "About 37,713 new cases and 17,757 deaths in total",
+        "About 3.5 million new cases and 1.7 million deaths"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917082,
+      question: "How do oral cancer incidence rates compare between men and women, per the WHO report?",
+      options: [
+        "The incidence rate for women (13.1 per 100,000) is more than 2.5 times higher than for men (5 per 100,000)",
+        "The incidence rate for men (13.1 per 100,000) is more than 2.5 times higher than for women (5 per 100,000)",
+        "The incidence rate is almost identical for men and women, at about 5 per 100,000 each",
+        "The incidence rate for men is only slightly higher than for women, by less than ten percent"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917083,
+      question: "Which country alone accounts for about 36% of new oral cancer cases worldwide?",
+      options: [
+        "China, with more than 130,000 new cases reported in 2020",
+        "The United States, with more than 130,000 new cases in 2020",
+        "India, with more than 130,000 new cases reported in 2020",
+        "Brazil, with more than 130,000 new cases reported in 2020"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917084,
+      question: "Which are identified as the main risk factors for lip, oral cavity and oropharyngeal cancers?",
+      options: [
+        "High sugar intake, poor brushing and missing dental visits, acting alone or together",
+        "Fluoride exposure, cold weather and frequent travel, acting alone or in combination",
+        "Genetic inheritance, advancing age and tooth eruption, acting alone or together",
+        "Tobacco use, alcohol consumption and betel quid use, acting alone or in combination"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917085,
+      question: "How does chewing betel quid affect the risk of oral cavity cancer, per the WHO report?",
+      options: [
+        "Chewing it without tobacco raises risk about 2.5-fold, and with tobacco about 7.74-fold",
+        "Chewing it without tobacco lowers risk about 2.5-fold, and with tobacco about 7.74-fold",
+        "Chewing it has no measurable effect on oral cancer risk with or without tobacco",
+        "Chewing it without tobacco raises risk about 100-fold, and with tobacco about 500-fold"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917086,
+      question: "Which human papillomavirus types are now the most common cause of oropharyngeal cancers?",
+      options: [
+        "HPV types 1 and 2 only",
+        "HPV types 16 and 18",
+        "HPV types 6 and 11 only",
+        "HPV types 31 and 33 only"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917087,
+      question: "How common are orofacial clefts among newborns worldwide, per the WHO report?",
+      options: [
+        "They affect roughly 1 in 10 newborns, with more than 90% of cases in high-income countries only",
+        "They affect roughly 1 in 100,000 newborns, evenly spread across all country income groups",
+        "They affect roughly 1 in 1000 to 1500 newborns, with more than 90% of cases in low- and middle-income countries",
+        "They affect roughly 1 in 50 newborns, with more than 90% of cases in the WHO European Region"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917088,
+      question: "What is noma, and which children does it mostly affect?",
+      options: [
+        "A mild reversible gum inflammation that resolves on its own, mostly affecting healthy children aged 12 to 18 in wealthy regions",
+        "A hereditary tooth disorder that is rarely serious, mostly affecting newborns in high-income countries with good nutrition",
+        "A cosmetic staining of the teeth from betel quid that is harmless, mostly affecting adults aged 40 and over in Asia",
+        "A gangrenous disease of the mouth and face that is fatal in about 90% of untreated cases, mostly affecting children aged 2 to 6 in extreme poverty"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917089,
+      question: "How large is the global oral health workforce estimated to be, per the WHO report?",
+      options: [
+        "Nearly 4 million people, including about 2.5 million dentists",
+        "Nearly 40 million people, including about 25 million dentists",
+        "Nearly 400,000 people, including about 250,000 dentists",
+        "Nearly 4 billion people, including about 2.5 billion dentists"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917090,
+      question: "How does the dentist-to-population ratio compare between high-income and low-income countries?",
+      options: [
+        "Low-income countries have about 6.85 dentists per 10,000, more than 12 times the high-income ratio of 0.57",
+        "High-income countries have about 6.85 dentists per 10,000, more than 12 times the low-income ratio of 0.57",
+        "High-income and low-income countries have an almost identical ratio of about 3.28 dentists per 10,000",
+        "High-income countries have about 0.57 dentists per 10,000, only twice the low-income ratio of 0.28"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917091,
+      question: "What fluoride concentration in toothpaste do WHO and other public health agencies recommend?",
+      options: [
+        "Between 1 ppm and 10 ppm, used with twice-daily brushing",
+        "Between 5000 ppm and 7500 ppm, used with weekly brushing",
+        "Between 1000 ppm and 1500 ppm, used with twice-daily brushing",
+        "Between 100 ppm and 200 ppm, used with monthly brushing"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917092,
+      question: "By roughly how much can water fluoridation reduce dental caries, according to the WHO report?",
+      options: [
+        "By an estimated 1% to 5%, depending on the study, location and population",
+        "By an estimated 80% to 95%, depending on the study, location and population",
+        "By an estimated 100%, eliminating caries entirely regardless of location",
+        "By an estimated 25% to 60%, depending on the study, location and population"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917093,
+      question: "How does water fluoridation affect health equity, per the WHO report?",
+      options: [
+        "It does not discriminate by social class and provides universal benefit, helping to reduce inequalities",
+        "It mainly benefits high-income groups and therefore tends to widen health inequalities",
+        "It benefits only adults and offers no protection to children within a community",
+        "It must be purchased individually, so only insured residents can receive its benefits"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917094,
+      question: "In the Philippines Fit for School program, what did daily group toothbrushing with fluoride toothpaste achieve?",
+      options: [
+        "It prevented up to 5% of new caries lesions and slightly increased school absence",
+        "It prevented up to 38% of new caries lesions and reduced days of absence",
+        "It prevented up to 90% of new caries lesions and eliminated all school absence",
+        "It had no measurable effect on caries lesions or on rates of school absence"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917095,
+      question: "What share of countries have oral health surveillance data on their populations, per the WHO report?",
+      options: [
+        "More than two thirds of all countries have such surveillance data",
+        "Almost every country has detailed such surveillance data available",
+        "Fewer than one third of all countries have such surveillance data",
+        "Exactly half of all countries have such surveillance data on record"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917096,
+      question: "What does the Minamata Convention on Mercury address in relation to dentistry?",
+      options: [
+        "Banning the use of fluoride toothpaste, which contains traces of mercury",
+        "Requiring mercury fillings in all children to strengthen their teeth early",
+        "Eliminating all dental x-ray machines because they release mercury vapour",
+        "Phasing down the use of dental amalgam, which consists of about 50% mercury"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917097,
+      question: "Under the Minamata Convention, for which patients is the use of dental amalgam to be avoided?",
+      options: [
+        "Deciduous teeth, patients under 15 years, and pregnant or breastfeeding women",
+        "Permanent teeth, patients over 65 years, and adults with private insurance",
+        "All adult patients regardless of age, but never children or pregnant women",
+        "Only patients in low-income countries, with no restriction in wealthy nations"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917098,
+      question: "How were oral health services affected during the first phase of the COVID-19 pandemic in 2020?",
+      options: [
+        "About 6% of countries reported partial disruption and 1% reported complete disruption",
+        "About 60% of countries reported partial disruption and 17% reported severe or complete disruption",
+        "Almost no countries reported any disruption to their oral health services at all",
+        "Every country reported that oral health services continued completely unaffected"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917099,
+      question: "What share of all global antibiotic prescriptions are estimated to come from dental prescriptions?",
+      options: [
+        "About 50% of all global antibiotic prescriptions",
+        "About 1% of all global antibiotic prescriptions",
+        "About 10% of all global antibiotic prescriptions",
+        "About 75% of all global antibiotic prescriptions"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917100,
+      question: "Which country is highlighted as having achieved universal health coverage that includes an oral health benefits package?",
+      options: [
+        "Japan, which has had universal health coverage since 1989",
+        "The United States, which reached coverage through the 2010 reform",
+        "Nigeria, which reached coverage through its noma control program",
+        "Thailand, which has had universal health coverage since 2002"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917101,
+      question: "According to the WHO report, how are oral diseases distributed across social groups?",
+      options: [
+        "They are socially patterned, showing a social gradient that disproportionately affects vulnerable groups",
+        "They are distributed at random, affecting every social group across society equally and purely by chance",
+        "They mainly affect the wealthiest groups, who tend to consume far more processed food and sweet drinks",
+        "They affect only isolated rural communities and almost never appear among any urban population groups"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917102,
+      question: "How are oral health inequalities defined in the WHO report?",
+      options: [
+        "As natural differences in oral health that are unavoidable and accepted as fair outcomes",
+        "As differences in oral health status that are avoidable and deemed unfair, unacceptable and unjust",
+        "As differences in dental fees charged between private clinics in the same city",
+        "As variation in the number of dentists that each country decides to train each year"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917103,
+      question: "In the primary oral health care pyramid described by the WHO, how do cost and need relate across the levels?",
+      options: [
+        "Need and demand are highest at the top, where the least expensive care is also provided",
+        "Cost and need are equal at every level of the pyramid from bottom to top",
+        "Need and demand are highest at the lower levels, while the most expensive care sits at the top",
+        "The most expensive care sits at the bottom, where need and demand are lowest"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 917104,
+      question: "What does the WHO report identify as the dominant model in the practice of dentistry?",
+      options: [
+        "A prevention-focused, community-based approach relying mainly on low-cost self-care",
+        "A purely public, government-run approach that excludes all private practitioners",
+        "A volunteer-driven, charity-based approach that provides nearly all care free of charge",
+        "A treatment-focused, surgical and interventionist approach relying on costly high-tech equipment"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 917105,
+      question: "What characteristic of dentistry was brought to light as a key challenge by the COVID-19 pandemic?",
+      options: [
+        "Its isolation from the mainstream health system, which is an almost universal feature worldwide",
+        "Its complete integration with hospital systems, which made it impossible to deliver care",
+        "Its reliance on public funding, which left private dentists with no patients to treat",
+        "Its lack of any infection control, which had never before been considered in dentistry"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917106,
+      question: "Based on a wide range of metrics, the CDA states that Canada is among the world leaders in the overall oral health of its citizens.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917107,
+      question: "According to the CDA report, the majority of responsibility for health care planning and delivery in Canada lies with the federal government rather than the provinces and territories.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917108,
+      question: "The CDA reports that about three out of every four Canadians visit a dental professional at least once per year.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917109,
+      question: "In Canada, dental care is largely a publicly insured service that is fully covered for all citizens under medicare.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917110,
+      question: "The WHO report states that the combined number of oral disease cases globally is about 1 billion higher than the cases of the five main noncommunicable diseases combined.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917111,
+      question: "According to the WHO report, oral diseases are largely impossible to prevent and require complex, high-technology treatment in every case.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917112,
+      question: "The WHO report notes that untreated caries in deciduous teeth is the single most common chronic childhood disease.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917113,
+      question: "The CDHA brief argues that Canada's public funding covers a higher share of total health spending than the OECD average.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917114,
+      question: "The WHO report identifies sugar consumption, all forms of tobacco use, and harmful alcohol use as key modifiable risk factors shared between oral diseases and other noncommunicable diseases.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917115,
+      question: "According to the WHO report, the negative side effect of fluorosis only occurs when fluoride is ingested in excess during the formation of the teeth.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 917116,
+      question: "The CDA report states that there is a single 'one-size-fits-all' remedy for the oral health of vulnerable groups across all of Canada.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 917117,
+      question: "The CDHA brief estimates that about 40.36 million hours were lost from normal activities, school or work in the previous 12 months due to check-ups or problems with teeth.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    }
   ]
 };
