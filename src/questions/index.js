@@ -915,7 +915,10 @@ export const subjectsWithSubtopics = {
   "Periodontology II": [
     "1. Review of Perio I",
     "2. Oral Piercings",
-    "3. Darby"
+    "3. Darby",
+    "4. Periodontal Emergencies",
+    "6. Nonsurgical Periodontal Therapy",
+    "7. NPT Decision Making"
   ],  
   "Business Practice": [
     "1. test"
