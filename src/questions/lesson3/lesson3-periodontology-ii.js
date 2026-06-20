@@ -1739,5 +1739,2704 @@ export const questions = {
       ],
       correctAnswer: 0
     }
+  ],
+    "4. Periodontal Emergencies": [
+    {
+      id: 80163,
+      question: "Why must a dental hygienist take a careful medical and dental history before any procedure?",
+      options: [
+        "It is required only to bill the insurance company for the visit",
+        "To identify emergency conditions and ensure appropriate care",
+        "It allows the hygienist to skip the radiographic examination",
+        "It removes the need for any clinical or visual oral exam"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80164,
+      question: "What are the three basic types of abscesses described in the chapter?",
+      options: [
+        "Marginal, attached, and interdental",
+        "Viral, fungal, and parasitic",
+        "Coronal, apical, and furcal",
+        "Periodontal, gingival, and periapical"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80165,
+      question: "A periodontal abscess is best described as a site of inflammation that is:",
+      options: [
+        "Caused solely by occlusal trauma without any bacteria",
+        "Of microbial origin with accumulated purulent exudate",
+        "A benign tumor of the periodontal ligament fibers",
+        "A normal healing response after routine scaling"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80166,
+      question: "The pus associated with a periodontal abscess is often referred to as:",
+      options: [
+        "Granulation connective tissue",
+        "Exudate or purulent exudate",
+        "Calcified plaque biofilm",
+        "Keratinized epithelial debris"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80167,
+      question: "The presence of a periodontal abscess means that:",
+      options: [
+        "The tooth does not necessarily have to be extracted",
+        "The tooth must always be extracted immediately",
+        "Antibiotics are never required for the patient",
+        "Radiographs are contraindicated for the area"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80168,
+      question: "An acute periodontal abscess most commonly forms when:",
+      options: [
+        "A periodontal pocket becomes occluded",
+        "A foreign object is forced into healthy gingiva",
+        "A primary tooth begins its normal exfoliation",
+        "A restoration is polished with fluoride paste"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80169,
+      question: "Acute periodontal abscesses are typically associated with:",
+      options: [
+        "Preexisting periodontal disease in the area",
+        "Completely disease-free healthy gingival tissue",
+        "A dormant virus residing in the nerve ganglion",
+        "Recent exposure to bright sunlight or wind"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80170,
+      question: "Clinically, an acute periodontal abscess appears as a:",
+      options: [
+        "Flat white patch that wipes off the mucosa",
+        "Cratered, punched-out interdental papilla",
+        "Shiny, red, raised, rounded mass on the gingiva",
+        "Yellow vesicle with a bright red border"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80171,
+      question: "When an acute periodontal abscess drains through a sulcus or fistula, the infection:",
+      options: [
+        "Stabilizes and is considered to be in a chronic state",
+        "Immediately spreads to the brain and neck tissues",
+        "Becomes a highly communicable viral infection",
+        "Resolves completely with no further treatment"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80172,
+      question: "What is the most common symptom of an acute periodontal abscess?",
+      options: [
+        "Fever",
+        "Pain",
+        "Trismus",
+        "Halitosis"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80173,
+      question: "Why may a tooth with an acute periodontal abscess feel \"high\" to the client?",
+      options: [
+        "The opposing tooth has been recently extracted",
+        "The enamel has worn down from heavy grinding",
+        "It may extrude slightly from periodontal ligament swelling",
+        "The crown has been built up with composite resin"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80174,
+      question: "Treatment of an acute periodontal abscess consists primarily of:",
+      options: [
+        "Immediate full-mouth extraction of all the teeth",
+        "Long-term observation with no active intervention",
+        "Drainage along with antibiotics or antimicrobial agents",
+        "Application of topical fluoride varnish only"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80175,
+      question: "After drainage, the teeth in the affected area are scaled, root planed, and:",
+      options: [
+        "Sealed permanently with a stainless steel crown",
+        "Curettage is performed to remove granulation tissue",
+        "Splinted to the adjacent teeth for one full year",
+        "Coated with chlorhexidine and left undisturbed"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80176,
+      question: "A fistula opening along the lateral aspect of an adult tooth usually indicates:",
+      options: [
+        "A normal anatomical feature of healthy gingiva",
+        "A primary herpetic infection of the mucosa",
+        "A bisphosphonate-related area of dead bone",
+        "A periodontal abscess, although it may be periapical"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80177,
+      question: "Recommended postoperative instructions for an acute periodontal abscess include:",
+      options: [
+        "Vigorous brushing of the site every single hour",
+        "Resting, drinking fluids, and warm salt water rinses",
+        "Complete avoidance of all liquids for one day",
+        "Applying ice packs directly inside the pocket"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80178,
+      question: "The recommended warm salt water rinse is prepared using:",
+      options: [
+        "One teaspoon of salt in a glass of warm water",
+        "One cup of salt in a small glass of cold water",
+        "One drop of salt in a liter of boiling water",
+        "One tablespoon of sugar in warm chlorhexidine"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80179,
+      question: "Chronic periodontal abscesses are usually:",
+      options: [
+        "Extremely painful with no possibility of drainage",
+        "Found only on completely edentulous ridges",
+        "Associated with a dormant viral nerve infection",
+        "Painless and able to drain into the oral cavity"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80180,
+      question: "As long as a chronic periodontal abscess continues to drain, it is:",
+      options: [
+        "Certain to cause immediate loss of the tooth",
+        "Guaranteed to spread to the opposite jaw",
+        "Unlikely to be painful, so clients may tolerate it",
+        "Considered fully healed and requiring no care"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80181,
+      question: "Gingival abscesses most frequently occur:",
+      options: [
+        "Deep within the alveolar bone near the apex",
+        "Only in clients taking bisphosphonate therapy",
+        "On the marginal gingiva in disease-free areas",
+        "Exclusively on partially erupted third molars"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80182,
+      question: "A gingival abscess is often related to:",
+      options: [
+        "A virus traveling along the trigeminal nerve",
+        "Forceful inclusion of a foreign object into the area",
+        "Long-term intravenous bisphosphonate therapy",
+        "An occluded pocket in advanced periodontitis"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80183,
+      question: "The recommended treatment for a gingival abscess is to:",
+      options: [
+        "Extract the tooth and replace the pulp with metal",
+        "Prescribe lifelong systemic antiviral medication",
+        "Drain the abscess and remove the foreign object",
+        "Leave it undisturbed until it drains on its own"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80184,
+      question: "An endodontic abscess most often results from:",
+      options: [
+        "Forceful inclusion of food into healthy gingiva",
+        "An occluded pocket in preexisting periodontitis",
+        "Reactivation of a virus stored in nerve ganglia",
+        "Infection through caries, fracture, or dental trauma"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80185,
+      question: "On a radiograph, an endodontic abscess often appears as a:",
+      options: [
+        "Rounded radiolucency at the apex of the tooth",
+        "Bright radiopaque mass over the entire crown",
+        "Cratered defect along the marginal gingiva only",
+        "Diffuse haziness limited to the maxillary sinus"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80186,
+      question: "Approximately what proportion of tooth pain is pulpal in origin?",
+      options: [
+        "About 15 percent",
+        "About 50 percent",
+        "About 85 percent",
+        "About 5 percent"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80187,
+      question: "Compared with periodontal pain, periapical pain is usually described as:",
+      options: [
+        "Constant, localized, and relatively less severe",
+        "Completely painless and seen only on a radiograph",
+        "A mild itch that is easily relieved by rinsing",
+        "Sharp, severe, intermittent, and hard to localize"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80188,
+      question: "Treatment of an endodontic abscess requires:",
+      options: [
+        "Forceful removal of an embedded foreign object",
+        "Postponing all care until the lesion runs its course",
+        "Root canal therapy or extraction of the tooth",
+        "Simple scaling and root planing of the surface only"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80189,
+      question: "An untreated endodontic abscess can lead to the dangerous outcome of:",
+      options: [
+        "A self-limiting cold sore on the outer lip border",
+        "A brain abscess or fasciitis of the neck or chest",
+        "A harmless area of gingival color change only",
+        "A temporary increase in normal tooth mobility"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80190,
+      question: "A combination abscess develops when an abscess:",
+      options: [
+        "Forms only from a foreign object in the gingiva",
+        "Is caused strictly by a reactivated herpes virus",
+        "Results purely from bisphosphonate bone damage",
+        "Spreads between the pulp and the periodontium"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80191,
+      question: "Combination abscesses often:",
+      options: [
+        "Heal quickly with a single warm salt water rinse",
+        "Are the easiest of all abscesses to diagnose early",
+        "Require extensive therapy and result in tooth loss",
+        "Never produce any signs or symptoms at all"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80192,
+      question: "Pericoronitis is an abscess associated with a tooth that is:",
+      options: [
+        "Partly or fully covered by a flap called an operculum",
+        "Completely missing from the dental arch entirely",
+        "Restored with a large intracoronal amalgam filling",
+        "Surrounded by healthy, fully attached gingiva"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80193,
+      question: "The tooth most commonly affected by pericoronitis is the:",
+      options: [
+        "Maxillary canine tooth",
+        "Mandibular central incisor",
+        "Mandibular third molar",
+        "Maxillary second premolar"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80194,
+      question: "Which symptom may occur with acute pericoronitis?",
+      options: [
+        "A self-limiting cold sore on the outer lip border",
+        "Trismus, which is a muscle spasm of the jaw",
+        "Exposed dead bone persisting beyond eight weeks",
+        "Painless drainage with no swelling whatsoever"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80195,
+      question: "Initial therapy for pericoronitis involves:",
+      options: [
+        "Debridement and flushing with warm water or chlorhexidine",
+        "Immediate root canal therapy on the affected tooth",
+        "Lifelong daily use of systemic antiviral medication",
+        "Splinting the operculum to the neighboring teeth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80196,
+      question: "Necrotizing ulcerative gingivitis (NUG) is primarily observed in:",
+      options: [
+        "Young adults under severe stress or immunocompromised",
+        "Edentulous elderly clients with no remaining teeth",
+        "Infants during the eruption of their primary teeth",
+        "Clients who have recently received a tooth implant"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80197,
+      question: "A distinguishing clinical feature of NUG is gingiva that appears:",
+      options: [
+        "Cratered or \"punched out\" with a pseudomembranous coating",
+        "Bright and shiny with a single fluid-filled vesicle",
+        "Pale, firm, and completely free of any inflammation",
+        "Replaced by exposed, non-vital maxillofacial bone"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80198,
+      question: "A strong, offensive, fetid breath odor (fetor oris) is a clinical sign of:",
+      options: [
+        "Necrotizing ulcerative periodontal disease",
+        "A simple gingival abscess from a foreign body",
+        "Bisphosphonate-related osteonecrosis of the jaw",
+        "A recurrent cold sore on the vermillion border"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80199,
+      question: "During the first NUG treatment visit, which procedure is contraindicated?",
+      options: [
+        "Limited supragingival debridement as tolerated",
+        "Use of topical or local anesthetic agents",
+        "Gentle flushing of the area with warm water",
+        "Subgingival scaling and root planing"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80200,
+      question: "Acute herpetic gingivostomatitis is the oral manifestation of:",
+      options: [
+        "An occluded periodontal pocket becoming infected",
+        "Long-term oral bisphosphonate drug therapy",
+        "A bacterial infection rich in oral spirochetes",
+        "Primary infection with the herpes simplex virus"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80201,
+      question: "Because acute herpetic gingivostomatitis is highly infectious, dental care should be:",
+      options: [
+        "Performed immediately with no protective barriers",
+        "Replaced permanently by extraction of all teeth",
+        "Postponed until the condition has subsided",
+        "Limited to aggressive subgingival root planing"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80202,
+      question: "\"Herpetic whitlow\" refers to a herpetic lesion that occurs on the:",
+      options: [
+        "Marginal gingiva of a partly erupted molar",
+        "Exposed bone of the resorbing mandible",
+        "Soft palate of an immunocompromised child",
+        "Fingers of the dentist or dental hygienist"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80203,
+      question: "The ideal way to transport an avulsed tooth to the dental office is to:",
+      options: [
+        "Store the tooth in a glass of cold milk",
+        "Wrap the tooth in clean cotton gauze",
+        "Carry the tooth in warm saline solution",
+        "Place the tooth back into its own socket"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80204,
+      question: "Which oral care instruction best aids healing of a replanted tooth?",
+      options: [
+        "Floss the tooth thoroughly each morning and night",
+        "Avoid brushing the area for two weeks after replantation",
+        "Brush firmly with a hard-bristled brush right away",
+        "Scrub the tooth with a washcloth and salt water"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80205,
+      question: "The microbial species commonly associated with periodontal abscesses is:",
+      options: [
+        "Porphyromonas gingivalis",
+        "Varicella zoster virus",
+        "Candida albicans",
+        "Streptococcus mutans"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80206,
+      question: "The term \"abscess\" is best defined as a:",
+      options: [
+        "Painful ulcer covering the entire mucosa",
+        "Localized accumulation of pus in the tissues",
+        "Communicable, highly infectious viral disease",
+        "Dormant viral infection in a nerve ganglion"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80207,
+      question: "Recurrent (secondary) herpes lesions, such as herpes labialis, are triggered by:",
+      options: [
+        "Forceful inclusion of food into the gingiva",
+        "Sunlight, trauma, fever, or emotional stress",
+        "Long-term intravenous bisphosphonate use",
+        "An occluded and infected periodontal pocket"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80208,
+      question: "Treatment of acute herpetic gingivostomatitis is mainly:",
+      options: [
+        "Surgical removal of all the affected gingival tissue",
+        "Immediate extraction of every involved tooth",
+        "Aggressive subgingival scaling at the first visit",
+        "Supportive, as the disease runs its course in 7 to 10 days"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80209,
+      question: "Bisphosphonate-related osteonecrosis of the jaw (BRONJ) manifests as:",
+      options: [
+        "A fluid-filled vesicle on the vermillion border",
+        "A cratered, punched-out interdental papilla",
+        "A rounded radiolucency at the root apex only",
+        "Exposed, non-vital bone in the maxillofacial region"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80210,
+      question: "The 2014 AAOMS position paper recommended renaming BRONJ to MRONJ because:",
+      options: [
+        "Bisphosphonates were proven completely harmless to bone",
+        "The condition was found to occur only in soft tissue",
+        "Other antiresorptive and antiangiogenic drugs were also linked",
+        "Radiotherapy was identified as the single true cause"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80211,
+      question: "Necrotizing ulcerative gingivitis (NUG) is a communicable disease that spreads easily from person to person.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80212,
+      question: "When necrotizing ulcerative gingivitis recurs and causes attachment loss, it is more appropriately called necrotizing ulcerative periodontitis.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80213,
+      question: "BRONJ is defined as exposed bone in the maxillofacial region that has persisted beyond eight weeks in a client treated with a bisphosphonate, in the absence of jaw radiotherapy.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80214,
+      question: "In acute herpetic gingivostomatitis, oral lesions begin as small yellow vesicles that coalesce into larger round ulcers with gray centers and bright red borders.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80215,
+      question: "Maintaining good oral health and having a dental examination before starting bisphosphonate therapy can help minimize the risk of osteonecrosis of the jaw.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    }
+  ],
+    "6. Nonsurgical Periodontal Therapy": [
+    {
+      id: 80216,
+      question: "What is the initial approach for treating gingival and periodontal diseases?",
+      options: [
+        "Débridement of plaque biofilm and calculus by nonsurgical means",
+        "Surgical removal of all affected periodontal pocket tissue",
+        "Immediate placement of systemic broad-spectrum antibiotic agents",
+        "Extraction of all teeth showing signs of bone loss"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80217,
+      question: "What does nonsurgical periodontal therapy include?",
+      options: [
+        "Only the surgical flap procedures done after re-evaluation",
+        "Procedures done to treat disease up to the time of re-evaluation",
+        "Solely the placement of dental implants in extraction sites",
+        "Just the prescribing of medications without any instrumentation"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80218,
+      question: "What does \"re-evaluation\" refer to in periodontal therapy?",
+      options: [
+        "The first appointment when initial charting is recorded",
+        "The moment a patient is referred to a different dental office",
+        "When maintenance begins and surgical need is determined",
+        "The point when all calculus is confirmed fully removed"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80219,
+      question: "According to the chapter, gingivitis is completely reversible under what condition?",
+      options: [
+        "When the patient takes a long course of systemic antibiotics",
+        "After the inflamed soft tissue is surgically curetted away",
+        "Once the affected teeth have been professionally polished",
+        "With good oral hygiene and effective plaque and calculus removal"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80220,
+      question: "What factor is described as \"above all\" determining whether gingivitis becomes periodontitis?",
+      options: [
+        "The individual's host response to the bacterial infections",
+        "The total number of teeth that are present in the mouth",
+        "The brand of toothpaste the patient chooses to use daily",
+        "The frequency of professional polishing appointments yearly"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80221,
+      question: "How long may gingivitis persist without progressing to periodontitis?",
+      options: [
+        "For exactly six months before it always becomes worse",
+        "For years without ever progressing into periodontitis",
+        "For no longer than a few days in any given patient",
+        "For about one week before reversing on its own"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80222,
+      question: "Which of the following is another term used for nonsurgical periodontal therapy?",
+      options: [
+        "Maintenance flap surgery performed under local anesthesia",
+        "Definitive osseous recontouring of the alveolar bone",
+        "Phase I therapy, also called the etiotropic phase",
+        "Guided tissue regeneration using a barrier membrane"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80223,
+      question: "Which of the following is included among nonsurgical therapeutic procedures?",
+      options: [
+        "Apically positioned flaps with bone grafting materials",
+        "Surgical crown lengthening for restorative access",
+        "Placement of titanium endosseous dental implants",
+        "Scaling, root planing, gingival curettage, and polishing"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80224,
+      question: "How does the AAP define scaling?",
+      options: [
+        "Instrumentation of crowns and roots to remove plaque and calculus",
+        "Removal of inflamed soft tissue from the lateral pocket wall",
+        "Polishing of enamel surfaces with abrasive prophylaxis paste",
+        "Surgical flap reflection to expose the underlying root surface"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80225,
+      question: "What determines the success of scaling treatment?",
+      options: [
+        "The total number of instruments that the clinician used",
+        "Explorer evaluation of root smoothness after the procedure",
+        "The exact amount of time spent on each individual tooth",
+        "A radiograph taken immediately after the appointment ends"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80226,
+      question: "How may scaling be accomplished?",
+      options: [
+        "Only with chemical agents applied directly to the calculus",
+        "Solely by means of patient self-care toothbrushing at home",
+        "With sharp hand instruments or sonic/ultrasonic devices",
+        "Exclusively through the use of a laser approved by the FDA"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80227,
+      question: "How does the AAP define root planing?",
+      options: [
+        "The flushing of pockets with a chlorhexidine antiseptic rinse",
+        "The selective polishing of surfaces that show visible stain",
+        "The removal of soft tissue lining from the periodontal pocket",
+        "A procedure removing rough cementum or dentin with toxins"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80228,
+      question: "What is the difference between scaling and root planing?",
+      options: [
+        "Root planing instruments every portion of the root surface",
+        "Scaling is surgical while root planing is always nonsurgical",
+        "Scaling uses lasers while root planing uses only hand tools",
+        "Root planing is done only on crowns above the gingival line"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80229,
+      question: "What is polishing used to accomplish?",
+      options: [
+        "Removal of subgingival calculus from deep periodontal pockets",
+        "Removal of stains and supragingival plaque biofilm from teeth",
+        "Detoxification of endotoxins embedded within the cementum",
+        "Reattachment of connective tissue fibers to the root surface"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80230,
+      question: "What device is most commonly used to apply polishing agents?",
+      options: [
+        "A high-speed handpiece fitted with a sharpened metal bur",
+        "An ultrasonic scaler tip operated at high frequency settings",
+        "A rubber cup attached to a slow-speed handpiece unit",
+        "A syringe with a soft rubber cannula for pocket irrigation"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80231,
+      question: "What does \"selective polishing\" mean?",
+      options: [
+        "Polishing every tooth surface present at every single visit",
+        "Polishing only the surfaces that the patient asks to have done",
+        "Using only the most abrasive paste available in the operatory",
+        "Choosing surfaces to polish based on plaque biofilm and stain"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80232,
+      question: "Why should the least abrasive paste necessary be used for polishing?",
+      options: [
+        "Abrasives can scratch amalgam, composite resin, and gold",
+        "A more abrasive paste takes far longer to apply to the teeth",
+        "Less abrasive paste produces a much brighter cosmetic shine",
+        "More abrasive paste is more expensive to stock in the office"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80233,
+      question: "How does air polishing work?",
+      options: [
+        "By an electromagnetic field generated within the handpiece",
+        "By a slurry of sodium bicarbonate and water for abrasion",
+        "By cavitating water bubbles collapsing against the enamel",
+        "By a time-released chemical that dissolves surface stains"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80234,
+      question: "In which patients is air polishing contraindicated?",
+      options: [
+        "Patients who have recently had a routine dental cleaning",
+        "Patients who wear a removable partial denture appliance",
+        "Patients with respiratory illness, hypertension, or dialysis",
+        "Patients with mild reversible gingivitis and no bone loss"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80235,
+      question: "What is the therapeutic value of polishing?",
+      options: [
+        "It detoxifies the root surface of embedded endotoxins fully",
+        "It reliably reattaches the junctional epithelium to the tooth",
+        "It permanently prevents the formation of new calculus deposits",
+        "It has no proven therapeutic value for periodontal health"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80236,
+      question: "How did the AAP define curettage?",
+      options: [
+        "Scraping or cleaning the walls of a cavity with a curette",
+        "Polishing of crown surfaces using a fine prophylaxis paste",
+        "Instrumentation of the crown and root to remove calculus",
+        "Flushing of the periodontal pocket with an antimicrobial agent"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80237,
+      question: "What does gingival curettage involve?",
+      options: [
+        "Removal of cementum and dentin from the root surface",
+        "Removal of inflamed soft tissue lateral to the pocket wall",
+        "Removal of supragingival stain with an abrasive slurry",
+        "Removal of healthy bone to recontour the alveolar ridge"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80238,
+      question: "What is the current status of gingival curettage as a treatment?",
+      options: [
+        "It is the recommended standard for all periodontal pockets",
+        "It is required before any scaling and root planing is begun",
+        "It is no longer listed as a treatment method by ADA and AAP",
+        "It is now performed only with a laser approved by the FDA"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80239,
+      question: "What is the short-term goal of nonsurgical periodontal therapy?",
+      options: [
+        "To restore full gingival health over many months of healing",
+        "To grow new alveolar bone around the affected teeth roots",
+        "To remove every trace of cementum from each root surface",
+        "To instrument surfaces clean and smooth and control biofilm"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80240,
+      question: "What is the long-term goal of nonsurgical periodontal therapy?",
+      options: [
+        "To restore gingival health in the treated patient",
+        "To produce a glassy smooth surface on every tooth root",
+        "To eliminate the need for any future maintenance visits",
+        "To permanently sterilize all of the periodontal pockets"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80241,
+      question: "What is the rationale for nonsurgical periodontal therapy?",
+      options: [
+        "To smooth the root until it feels glassy under an explorer",
+        "To remove bacterial plaque biofilm and associated factors",
+        "To surgically reduce the depth of every periodontal pocket",
+        "To replace lost connective tissue with a grafting material"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80242,
+      question: "What is the effect of scaling and root planing in most patients?",
+      options: [
+        "It permanently halts all bacterial regrowth in the pockets",
+        "It causes the gingival tissue to become more reddened",
+        "It reduces inflammation, probing depth, and gains attachment",
+        "It increases the bleeding observed on periodontal probing"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80243,
+      question: "What is the relationship of calculus to periodontal disease?",
+      options: [
+        "Calculus is itself the primary etiologic agent of the disease",
+        "Calculus has no association with plaque biofilm whatsoever",
+        "Calculus removal always causes the treatment to fail entirely",
+        "Calculus is associated with biofilm; its removal aids health"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80244,
+      question: "Which microorganism has been associated with aggressive periodontitis?",
+      options: [
+        "Actinobacillus actinomycetemcomitans in the affected tissue",
+        "Streptococcus mutans found in supragingival plaque deposits",
+        "Lactobacillus acidophilus found within carious lesions",
+        "Veillonella species, which are the first to repopulate sites"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80245,
+      question: "Who proposed the specific plaque hypothesis in the 1970s?",
+      options: [
+        "Dr. Thomas Bramanti, who supplied the healing radiographs",
+        "Dr. Walter Loesche, leading to use of appropriate antibiotics",
+        "The American Academy of Periodontology research committee",
+        "The U.S. Food and Drug Administration laser approval panel"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80246,
+      question: "In the 1980s study, how much plaque did both hand and ultrasonic tips remove in pockets deeper than 5 mm?",
+      options: [
+        "Approximately 93% of the plaque present in the pockets",
+        "Approximately 12% of the plaque present in the pockets",
+        "Approximately 67% of the plaque present in the pockets",
+        "Approximately 100% of the plaque present in the pockets"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80247,
+      question: "What is calculus, in terms of composition?",
+      options: [
+        "A soft unmineralized film of food debris on the enamel",
+        "A surface stain produced by coffee, tea, or tobacco use",
+        "A layer of endotoxin that penetrates deeply into cementum",
+        "Calcified plaque biofilm whose matrix and cells have hardened"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80248,
+      question: "How does calculus adhere to tooth surfaces?",
+      options: [
+        "By pellicle attachment, mechanical locking, and crystal forces",
+        "By a permanent chemical bond that cannot ever be disrupted",
+        "Only by lodging within the open dentinal tubules of the root",
+        "Solely through the action of saliva drying onto the enamel"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80249,
+      question: "What appears to be the role of calculus, although it is an inert substance?",
+      options: [
+        "It serves directly as the toxin that destroys the bone",
+        "It is the role of plaque biofilm retention on the tooth",
+        "It actively reattaches the gingival tissue to the root",
+        "It prevents the regrowth of any subgingival bacteria"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80250,
+      question: "What does research show about the thoroughness of calculus removal?",
+      options: [
+        "Modern instruments reliably remove every trace of deposit",
+        "Residual deposits always cause the treatment to fail outright",
+        "Even the best techniques leave some residual deposits behind",
+        "Hand instruments leave far more deposit than ultrasonic tips"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80251,
+      question: "According to the chapter, what is true about glassy smooth root surfaces?",
+      options: [
+        "They are the required end point of every scaling procedure",
+        "They guarantee that no bacteria will ever repopulate again",
+        "They must be achieved before re-evaluation can take place",
+        "They are not end points; surfaces just must not feel rough"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80252,
+      question: "What do studies indicate about endotoxin penetration of cementum?",
+      options: [
+        "Endotoxins do not penetrate deeply into cemental surfaces",
+        "Endotoxins penetrate deeply, requiring aggressive planing",
+        "Endotoxins cannot be removed by any form of instrumentation",
+        "Endotoxins are present only on supragingival crown surfaces"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80253,
+      question: "What is the current view of root planing to achieve glassy smooth surfaces?",
+      options: [
+        "This rationale is the single most important goal of therapy",
+        "This rationale is no longer considered to be valid",
+        "This rationale must be followed at every maintenance visit",
+        "This rationale prevents all future dentinal hypersensitivity"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80254,
+      question: "Which of the following occurs when periodontal débridement is performed?",
+      options: [
+        "New bone formation is a fully predictable, reliable outcome",
+        "The gingival margin always moves coronally over the crown",
+        "Inflammation resolves and a long junctional epithelium forms",
+        "The pocket lining permanently loses all bacterial regrowth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80255,
+      question: "After débridement, what is true of the biofilm that regrows?",
+      options: [
+        "It regrows as an older, far more pathogenic bacterial form",
+        "It never regrows once the subgingival plaque is removed",
+        "It immediately calcifies into new calculus within one day",
+        "It initially consists of younger, less-pathogenic bacteria"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80256,
+      question: "How long does healing of injured junctional epithelium take?",
+      options: [
+        "Approximately one week after the tissue has been separated",
+        "Approximately six months after the scaling appointment ends",
+        "Approximately twenty-four hours following the treatment",
+        "Approximately one full year before any healing can begin"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80257,
+      question: "How long does healing of inflamed connective tissue take?",
+      options: [
+        "Only a few minutes immediately after the instrumentation",
+        "Up to several months following the débridement procedure",
+        "Exactly one week, the same as the junctional epithelium",
+        "It never heals once the connective tissue has been injured"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80258,
+      question: "For how long should probing be avoided after treatment?",
+      options: [
+        "For only a few hours until the local anesthetic wears off",
+        "For 6 months until the bacterial cycle is fully complete",
+        "For 4 weeks because of the fragile state of healing tissue",
+        "Probing may be done immediately right after instrumentation"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80259,
+      question: "After therapy, how does the bacterial plaque flora shift?",
+      options: [
+        "From gram-positive flora to predominantly gram-negative flora",
+        "It does not change in composition, only in total volume",
+        "It shifts entirely to motile spirochete forms within one week",
+        "From gram-negative flora to gram-positive with fewer spirochetes"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80260,
+      question: "Which organisms grow back first after therapy?",
+      options: [
+        "Streptococcus and Actinobacillus species grow back first",
+        "Capnocytophaga species and the spirochetes, in that order",
+        "Porphyromonas and Prevotella species before all others",
+        "Fusobacterium species followed immediately by Bacteroides"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80261,
+      question: "Which organisms are the last to grow back after therapy?",
+      options: [
+        "Streptococcus and Actinobacillus species are the last",
+        "Capnocytophaga species and the spirochetes are last",
+        "Veillonella and Bacteroides species are the last to return",
+        "All organisms grow back at exactly the same time and rate"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80262,
+      question: "How long may the cycle of microbial repopulation take to complete?",
+      options: [
+        "No more than 1 week to fully complete the repopulation",
+        "Exactly 4 weeks to fully complete the repopulation",
+        "As long as 6 months to fully complete the repopulation",
+        "As long as 12 years to fully complete the repopulation"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80263,
+      question: "For how long do clinical changes continue to occur after treatment?",
+      options: [
+        "Only during the actual appointment and not afterward",
+        "For no more than 48 hours after the treatment ends",
+        "For a full 5 years after the completion of treatment",
+        "Up to 12 months after the completion of the treatment"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80264,
+      question: "How is the attachment change calculated?",
+      options: [
+        "By probe depth added to a fixed reference such as the CEJ",
+        "By counting the number of bleeding points around each tooth",
+        "By measuring the width of the gingival recession only",
+        "By weighing the calculus that is removed during the visit"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80265,
+      question: "What might appear to be attachment gain after healing?",
+      options: [
+        "The actual regeneration of new alveolar supporting bone",
+        "A more accurate reading of probing depth after healing",
+        "A measurement error caused by a faulty periodontal probe",
+        "The complete reversal of all prior gingival recession"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80266,
+      question: "When should treatment results be evaluated?",
+      options: [
+        "Immediately at the end of the scaling and root planing visit",
+        "Only after a full 6 months have passed since the treatment",
+        "Not in less than 3 or 4 weeks after the completion of therapy",
+        "Within the first 48 hours while the tissue is still inflamed"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80267,
+      question: "What is commonly created or increased after periodontal treatment?",
+      options: [
+        "A permanent regeneration of the lost cementum on the root",
+        "A complete and lasting elimination of all oral bacteria",
+        "An immediate gain of new connective tissue attachment",
+        "Dentin or root surface sensitivity in the treated areas"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80268,
+      question: "What is true about most post-treatment dentin sensitivity?",
+      options: [
+        "It is usually mild and resolves within a few weeks",
+        "It is always extreme and permanently disabling for patients",
+        "It indicates irreversible damage to the dental pulp tissue",
+        "It can only be relieved by extracting the affected tooth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80269,
+      question: "Why does periodontal débridement expose fresh dentin surfaces?",
+      options: [
+        "Because it always fractures the enamel of the tooth crown",
+        "Because it removes some cementum and dentin from the root",
+        "Because it injects chemicals deep into the dentinal tubules",
+        "Because it permanently widens the periodontal pocket space"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80270,
+      question: "What theory explains root sensitivity?",
+      options: [
+        "The host response theory of bacterial invasion of tissue",
+        "The specific plaque hypothesis proposed by Dr. Loesche",
+        "The hydrodynamic theory of dentin sensitivity through tubules",
+        "The mechanical locking theory of calculus attachment"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80271,
+      question: "According to the hydrodynamic theory, what stimulates pain responses?",
+      options: [
+        "The direct contact of bacteria with the alveolar bone",
+        "The electromagnetic field produced by an ultrasonic unit",
+        "The chemical reaction of fluoride with the enamel surface",
+        "Hydrodynamic forces moving fluid through open dentinal tubules"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80272,
+      question: "How is heat-stimulated pain regarded in this context?",
+      options: [
+        "As an indication of irreversible pulpal changes, not sensitivity",
+        "As ordinary mild dentin sensitivity that resolves on its own",
+        "As proof that the hydrodynamic theory is completely incorrect",
+        "As the normal expected result of every scaling procedure"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80273,
+      question: "Which agents are most commonly used to treat sensitivity?",
+      options: [
+        "Systemic penicillin tablets taken several times daily",
+        "Fluorides are the most commonly used preparations",
+        "Sodium bicarbonate slurry applied with an air device",
+        "Glutaraldehyde solutions painted onto the root surface"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80274,
+      question: "Which agents are found in desensitizing toothpastes?",
+      options: [
+        "Chlorhexidine, povidone-iodine, and stannous fluoride",
+        "Tetracycline, doxycycline, and minocycline antibiotics",
+        "Potassium nitrate, potassium citrate, and strontium chloride",
+        "Sodium bicarbonate, gelatin, and glutaraldehyde compounds"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80275,
+      question: "What is true about the predictability of scaling and débridement results?",
+      options: [
+        "Results are unreliable and rarely occur in advanced cases",
+        "Results occur only in patients with mild reversible gingivitis",
+        "Results require surgery before they can ever be achieved",
+        "Results can be relied on even in advanced periodontitis"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80276,
+      question: "What is true of universal curettes and sickles?",
+      options: [
+        "They are among the oldest instrument designs with two edges",
+        "They have a single cutting edge on only one side of the blade",
+        "They are designed only for removing soft inflamed tissue",
+        "They generate ultrahigh-frequency vibrations during scaling"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80277,
+      question: "How do sickles and universal curettes differ at their ends?",
+      options: [
+        "Sickles have rounded ends and curettes have pointed ends",
+        "Sickles are pointed and universal curettes have rounded ends",
+        "Both have identical pointed ends machined to a sharp tip",
+        "Both have rounded ends to protect the soft tissue from injury"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80278,
+      question: "What material do most curette manufacturers use?",
+      options: [
+        "Carbon steel, which never becomes brittle during use",
+        "Titanium alloy coated with a thin layer of diamond grit",
+        "Stainless steel for most curette and sickle instruments",
+        "A flexible plastic polymer that resists corrosion over time"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80279,
+      question: "What is a characteristic of carbon steel instruments?",
+      options: [
+        "They never need to be sharpened throughout their working life",
+        "They are far more flexible and bend without ever breaking",
+        "They cannot hold a cutting edge as long as stainless steel",
+        "They hold a sharp cutting edge longer but are more brittle"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80280,
+      question: "What are universal curettes designed to do?",
+      options: [
+        "Adapt to and instrument all surfaces of all teeth in the mouth",
+        "Instrument only the mesial surfaces of the posterior teeth",
+        "Remove inflamed soft tissue from the lateral pocket wall",
+        "Polish the supragingival enamel of the anterior teeth only"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80281,
+      question: "What is a feature of the universal curette blade?",
+      options: [
+        "It has a single cutting edge restricted to one specific area",
+        "It has cutting edges on both sides and is usually double ended",
+        "It ends in a sharp machined point like that of a sickle",
+        "It is always single ended with only one working blade"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80282,
+      question: "What type of instrument is a Gracey curette?",
+      options: [
+        "A push instrument used to crush heavy calculus deposits",
+        "A universal curette with cutting edges on both sides",
+        "An area-specific curette with one cutting edge per blade",
+        "A powered scaling tip that vibrates at high frequency"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80283,
+      question: "Which Gracey curettes are generally used in the anterior areas?",
+      options: [
+        "Gracey 11/12 curettes, which adapt to posterior mesial surfaces",
+        "Gracey 13/14 curettes, which adapt to posterior distal surfaces",
+        "Gracey 7/8 and 9/10 curettes for posterior buccal surfaces",
+        "Gracey 1/2, 3/4, and 5/6 curettes for the anterior region"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80284,
+      question: "Which Gracey curette adapts to the mesial surfaces of posterior teeth?",
+      options: [
+        "The Gracey 11/12 curette with extra bends in its shank",
+        "The Gracey 1/2 curette used mainly in the anterior region",
+        "The Gracey 13/14 curette designed for the distal surfaces",
+        "The Gracey 7/8 curette used on posterior buccal surfaces"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80285,
+      question: "Which Gracey curette adapts to the distal surfaces of posterior teeth?",
+      options: [
+        "The Gracey 5/6 curette used mainly in the anterior region",
+        "The Gracey 13/14 curette designed for the distal surfaces",
+        "The Gracey 11/12 curette with extra bends in its shank",
+        "The Gracey 9/10 curette used on posterior buccal surfaces"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80286,
+      question: "What is the purpose of modified Gracey designs with extended shanks?",
+      options: [
+        "To remove only supragingival stain from the crown surface",
+        "To generate an electromagnetic field for calculus removal",
+        "To reach into deeper periodontal pockets during treatment",
+        "To deliver antimicrobial agents into the base of the pocket"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80287,
+      question: "What are sickle scalers primarily used to remove?",
+      options: [
+        "Inflamed soft tissue from the wall of the periodontal pocket",
+        "Endotoxins embedded deep within the cemental surfaces",
+        "Subgingival plaque from pockets deeper than five millimeters",
+        "Heavy supragingival calculus from the tooth surfaces"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80288,
+      question: "What is the design of a sickle scaler?",
+      options: [
+        "Two cutting edges ending in a sharp machined point",
+        "One cutting edge and a rounded end like a universal curette",
+        "No cutting edges and a smooth ball-shaped working end",
+        "A flat broad blade designed for polishing the enamel"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80289,
+      question: "Which special instruments are designed for removing heavy calculus?",
+      options: [
+        "Rubber cups, prophylaxis brushes, and air-polishing tips",
+        "Hoes, chisels, and files, designed to crush heavy deposits",
+        "Periodontal probes, explorers, and cotton plier instruments",
+        "Ultrasonic inserts coated with a fine layer of diamond grit"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80290,
+      question: "Which special instrument is a push instrument?",
+      options: [
+        "The hoe, which is pulled toward the clinician during use",
+        "The file, which is pulled across the calculus deposit",
+        "The chisel, which is the push instrument among the group",
+        "The Gracey curette, which is rocked back and forth in place"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80291,
+      question: "What is far more important than the particular instruments used?",
+      options: [
+        "The total cost of the instrument set purchased by the office",
+        "The brand name printed on the handle of each instrument",
+        "The exact number of instruments included in the setup tray",
+        "The knowledge and skill of the dental hygienist performing care"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80292,
+      question: "What is the potential benefit of power instrumentation?",
+      options: [
+        "It makes scaling less demanding and more ergonomically friendly",
+        "It removes the need for any patient home plaque control efforts",
+        "It permanently sterilizes the pocket so bacteria never return",
+        "It eliminates the requirement for protective eyewear and masks"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80293,
+      question: "In what range do ultrasonic scaling devices generate vibrations?",
+      options: [
+        "3,000 to 8,000 cycles per second during operation",
+        "20,000 to 50,000 cycles per second during operation",
+        "100 to 500 cycles per second during operation",
+        "1 million to 5 million cycles per second during operation"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80294,
+      question: "Which two systems do ultrasonic units use to generate frequencies?",
+      options: [
+        "Hydraulic or pneumatic systems powered by compressed air",
+        "Chemical or thermal systems that heat the water reservoir",
+        "Magnetostrictive or piezoelectric systems generate the frequency",
+        "Solar or battery systems housed within the handpiece body"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80295,
+      question: "Through what forces do ultrasonic instruments work?",
+      options: [
+        "An electromagnetic field that crushes the calculus deposits",
+        "A push-and-pull manual stroke applied by the clinician's hand",
+        "Time-released chemicals that dissolve the subgingival plaque",
+        "Mechanical forces, irrigation, cavitation, and acoustic streaming"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80296,
+      question: "In what range do sonic scalers generate vibrations?",
+      options: [
+        "3,000 to 8,000 cycles per second during operation",
+        "20,000 to 50,000 cycles per second during operation",
+        "100,000 to 500,000 cycles per second during operation",
+        "50 to 100 cycles per second during operation"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80297,
+      question: "How do sonic scalers connect to the dental unit?",
+      options: [
+        "They require a separate magnetostrictive base unit",
+        "They attach directly to the high-speed handpiece",
+        "They plug into a battery pack worn on the clinician's belt",
+        "They connect to the slow-speed handpiece with a rubber cup"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80298,
+      question: "What technique is required when using sonic and ultrasonic instruments?",
+      options: [
+        "Heavy lateral pressure to force the tip against the calculus",
+        "Holding the tip stationary against one spot until it is clean",
+        "Keeping the tip rapidly moving with no lateral pressure",
+        "Using the tip only on supragingival surfaces above the gumline"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80299,
+      question: "Why is no lateral pressure applied with powered scaling tips?",
+      options: [
+        "Because lateral force makes the tip vibrate far too slowly",
+        "Because lateral force drains the water reservoir too quickly",
+        "Because lateral force will shut off the electromagnetic field",
+        "Because lateral force can cause severe damage to the root"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80300,
+      question: "What do studies comparing sonic, piezoelectric, and magnetostrictive scalers show?",
+      options: [
+        "Nearly equivalent clinical results despite frequency differences",
+        "That magnetostrictive units are far superior to all the others",
+        "That hand instruments always outperform all powered devices",
+        "That sonic units fail to remove any subgingival calculus"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80301,
+      question: "What is cavitation, as described in the chapter?",
+      options: [
+        "The deep penetration of endotoxin into the cemental surface",
+        "Inwardly collapsing water bubbles that have an antimicrobial effect",
+        "The mechanical locking of calculus onto the pellicle layer",
+        "The electromagnetic interference with a cardiac pacemaker"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80302,
+      question: "What do studies show about ultrasonic removal of endotoxins?",
+      options: [
+        "It cannot remove endotoxins from the root surface at all",
+        "It removes endotoxins only from supragingival crown surfaces",
+        "It is as effective as hand instrumentation at detoxifying roots",
+        "It is far less effective than the use of systemic antibiotics"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80303,
+      question: "What do clinical studies show comparing ultrasonic and hand calculus removal?",
+      options: [
+        "Hand instruments leave the root far smoother in every case",
+        "Ultrasonic tips fail to remove any of the calculus deposits",
+        "Only hand instruments achieve the long-term goals of therapy",
+        "No difference in posttreatment healing between the two methods"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80304,
+      question: "What is the yardstick by which the hygienist determines the end point of scaling?",
+      options: [
+        "Root smoothness is the yardstick for the end point of scaling",
+        "The total weight of the calculus that has been removed",
+        "The number of strokes applied to each individual root surface",
+        "The amount of bleeding observed during the instrumentation"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80305,
+      question: "What is the one remaining contraindication to ultrasonic scaling?",
+      options: [
+        "The water spray always triggers an allergic reaction in patients",
+        "The electromagnetic field can interfere with some pacemakers",
+        "The vibration permanently fractures the enamel of the crown",
+        "The procedure cannot be tolerated by anyone over age sixty-five"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80306,
+      question: "What may be used as a substitute when ultrasonic scaling is contraindicated?",
+      options: [
+        "A high-abrasive air-polishing slurry of sodium bicarbonate",
+        "A laser approved only for the removal of supragingival stain",
+        "Sonic scalers, which do not create an electromagnetic field",
+        "Closed gingival curettage to remove the inflamed pocket lining"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80307,
+      question: "What do aerosols generated by subgingival powered scaling contain?",
+      options: [
+        "Only harmless water vapor that carries no risk of disease",
+        "A sterile antimicrobial mist that prevents disease spread",
+        "Time-released antibiotic particles that treat the pocket",
+        "Blood, making barrier techniques essential during treatment"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80308,
+      question: "By how much can a 30-second antiseptic rinse before ultrasonic scaling reduce aerosol bacteria?",
+      options: [
+        "By approximately 93% of the bacterial units in the aerosol",
+        "By approximately 67% of the bacterial units in the aerosol",
+        "By approximately 12% of the bacterial units in the aerosol",
+        "By approximately 100% of the bacterial units in the aerosol"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80309,
+      question: "What advantage do thin, curved ultrasonic tips provide?",
+      options: [
+        "They eliminate the need for any water flow during scaling",
+        "They adapt extremely well into deeper pockets and furcations",
+        "They remove the need for the clinician to wear a face mask",
+        "They generate no electromagnetic field around the handpiece"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80310,
+      question: "What is a characteristic of diamond-coated ultrasonic inserts?",
+      options: [
+        "They remove far less root surface than uncoated metal tips",
+        "They are the only inserts safe to use near a cardiac pacemaker",
+        "They show greater root removal but leave more roughness",
+        "They produce a glassy smooth surface free of all roughness"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80311,
+      question: "What does the acronym LASER stand for?",
+      options: [
+        "Localized antiseptic surface energy for root therapy",
+        "Layered application of sonic energy for root planing",
+        "Low-abrasion slurry for enamel surface restoration",
+        "Light amplification by stimulated emission of radiation"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80312,
+      question: "How are lasers appropriately used in periodontal therapy at this time?",
+      options: [
+        "As an adjunct, but not a substitute for conventional treatment",
+        "As the complete replacement for all scaling and root planing",
+        "As a tool used only for the polishing of supragingival stain",
+        "As a device that is not yet approved for any dental use at all"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80313,
+      question: "Why is magnification valuable for the clinician's musculoskeletal system?",
+      options: [
+        "It removes the entire need for any protective barrier eyewear",
+        "It makes it easier to sit up straight and enhances visual acuity",
+        "It allows the clinician to work without any operatory lighting",
+        "It generates an electromagnetic field that relaxes the muscles"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80314,
+      question: "What should be done with loupes for proper use?",
+      options: [
+        "They should be shared freely among all office clinicians",
+        "They should be worn only during surgical flap procedures",
+        "They should be custom fitted to the individual user",
+        "They should always be set to the maximum magnification level"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80315,
+      question: "What does the dental endoscope allow?",
+      options: [
+        "The complete elimination of the need for any instrumentation",
+        "The delivery of a time-released antibiotic into the pocket",
+        "The generation of a laser beam for sterilizing the pocket",
+        "Subgingival visualization and illumination of the working field"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80316,
+      question: "How does the clinician view the image from a dental endoscope?",
+      options: [
+        "On a video monitor showing the magnified fiberoptic image",
+        "Directly through a small eyepiece built into the probe handle",
+        "On a radiograph that is developed after the appointment ends",
+        "Through a pair of custom-fitted magnification loupes only"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80317,
+      question: "In which specialties are microscopes commonly adapted for chairside use?",
+      options: [
+        "Only in oral and maxillofacial surgery procedures",
+        "Especially in endodontics and restorative dentistry",
+        "Exclusively in orthodontic bracket placement work",
+        "Solely in the fabrication of removable prosthodontics"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80318,
+      question: "How can systemic antibiotics be used in periodontal treatment?",
+      options: [
+        "As a complete replacement for all mechanical instrumentation",
+        "Only after every tooth showing bone loss has been extracted",
+        "Along with nonsurgical instrumentation in a comprehensive plan",
+        "Strictly for the removal of supragingival stains and plaque"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80319,
+      question: "What do systemic antibiotics do in chronic and aggressive periodontitis?",
+      options: [
+        "Permanently smooth the root surface to a glassy finish",
+        "Eliminate the need for the patient to brush and floss daily",
+        "Regenerate the lost alveolar bone around the affected teeth",
+        "Reduce the bacterial load and enhance the host's defenses"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80320,
+      question: "Which antibiotics are commonly used to treat periodontal diseases?",
+      options: [
+        "Tetracycline, doxycycline, and occasionally penicillin",
+        "Chlorhexidine, povidone-iodine, and stannous fluoride",
+        "Potassium nitrate, potassium citrate, and strontium chloride",
+        "Sodium bicarbonate, gelatin, and glutaraldehyde compounds"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80321,
+      question: "When are systemic antibiotics particularly effective?",
+      options: [
+        "In mild reversible gingivitis with no clinical attachment loss",
+        "In aggressive, refractory, or advanced multi-site periodontitis",
+        "In the routine removal of supragingival calculus and stain",
+        "In healthy patients attending a maintenance recall visit"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80322,
+      question: "What does irrigation refer to in periodontal therapy?",
+      options: [
+        "The mechanical scraping of calculus from the root surface",
+        "The surgical removal of inflamed soft tissue from the pocket",
+        "A lavage or flushing of pockets during or after débridement",
+        "The polishing of stained enamel with an abrasive slurry"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80323,
+      question: "For an antimicrobial agent to have an additional effect, what must it do?",
+      options: [
+        "Be applied only to the supragingival crown surfaces of teeth",
+        "Be swallowed by the patient to act systemically in the body",
+        "Be left in place for no longer than a few seconds per pocket",
+        "Reach the pocket base, be bactericidal, and be substantive"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80324,
+      question: "Which of the following is an effective antimicrobial irrigant?",
+      options: [
+        "0.12% chlorhexidine used to flush the periodontal pockets",
+        "42.5 mg of doxycycline gel injected into a single pocket",
+        "A slurry of sodium bicarbonate sprayed by an air device",
+        "A 2.5 mg chlorhexidine chip with gelatin and glutaraldehyde"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80325,
+      question: "What is true about a one-time irrigation after periodontal débridement?",
+      options: [
+        "It permanently sterilizes the pocket against all future bacteria",
+        "Microbial suppression is not increased by a one-time irrigation",
+        "It fully replaces the need for any mechanical instrumentation",
+        "It always doubles the clinical attachment gain in every pocket"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80326,
+      question: "What is the advantage of time-released local delivery devices?",
+      options: [
+        "They release the entire dose instantly within a few seconds",
+        "They must be removed within minutes of being placed",
+        "They retain the drug at the site for many hours or days",
+        "They are designed only for supragingival stain removal"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80327,
+      question: "To which drug family does minocycline (Arestin) belong?",
+      options: [
+        "The penicillin family of broad-spectrum antibiotics",
+        "The chlorhexidine family of antiseptic compounds",
+        "The fluoride family of desensitizing preparations",
+        "The tetracycline family of antibiotic agents"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80328,
+      question: "What does the PerioChip contain?",
+      options: [
+        "2.5 mg of chlorhexidine with gelatin and glutaraldehyde",
+        "42.5 mg of doxycycline in a broad-spectrum gel form",
+        "A slurry of sodium bicarbonate suspended in sterile water",
+        "Minocycline microspheres of the tetracycline drug family"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80329,
+      question: "What is Atridox?",
+      options: [
+        "A 2.5 mg chlorhexidine chip with gelatin and glutaraldehyde",
+        "A 42.5 mg doxycycline gel, a semi-synthetic tetracycline",
+        "A sodium bicarbonate slurry used in air-polishing devices",
+        "An antiseptic rinse used before ultrasonic scaling begins"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80330,
+      question: "What do local drug delivery systems do compared with scaling and root planing alone?",
+      options: [
+        "They always produce a dramatically superior healing outcome",
+        "They completely replace the need for any scaling at all",
+        "They do not routinely provide a superior result on their own",
+        "They cause the treatment to fail in nearly every patient"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80331,
+      question: "To what conditions is local site delivery of antimicrobials limited?",
+      options: [
+        "Mild reversible gingivitis without any clinical attachment loss",
+        "Healthy patients with no signs of periodontal inflammation",
+        "The routine removal of supragingival stains at recall visits",
+        "Severe forms such as advanced, refractory, or recurrent disease"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80332,
+      question: "What is described as the true measure of quality of life for periodontal patients?",
+      options: [
+        "Function and preservation of teeth in an esthetic state",
+        "The total number of antibiotics that have been prescribed",
+        "The achievement of glassy smooth surfaces on every root",
+        "The complete and permanent sterilization of every pocket"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80333,
+      question: "Gingivitis is completely reversible with good oral hygiene and effective removal of plaque and calculus.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80334,
+      question: "Polishing has proven therapeutic value and is the primary goal of the dental hygienist.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80335,
+      question: "Gingival curettage is no longer listed as a method of treatment by the ADA and the AAP.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80336,
+      question: "Glassy smooth root surfaces are the required end point of every scaling procedure.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80337,
+      question: "After periodontal débridement, the regrowing biofilm initially consists of younger, less-pathogenic bacteria.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80338,
+      question: "Probing after treatment should be avoided for 4 weeks because of the fragile state of healing connective tissue.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80339,
+      question: "Heat-stimulated pain is considered ordinary dentin sensitivity that resolves on its own.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80340,
+      question: "The electromagnetic field of ultrasonic handpieces can interfere with some cardiac pacemakers.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80341,
+      question: "Lasers are currently a complete substitute for conventional periodontal treatment.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80342,
+      question: "Local drug delivery systems do not routinely provide a superior result compared with scaling and root planing alone.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80343,
+      question: "Sonic scalers generate vibrations of 3,000 to 8,000 cycles per second.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80344,
+      question: "Calculus is itself the primary etiologic agent of periodontal disease.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    }
+  ],
+    "7. NPT Decision Making": [
+    {
+      id: 80345,
+      question: "Nonsurgical periodontal therapy (NSPT) is best described as the",
+      options: [
+        "removal and control of oral biofilm through self-care and professional debridement",
+        "surgical excision of all inflamed gingival tissue around affected teeth",
+        "placement of dental implants to replace teeth lost to periodontal disease",
+        "radiographic monitoring of bone levels without any active intervention"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80346,
+      question: "Periodontal health is defined as the absence of inflammation, assessed by no",
+      options: [
+        "plaque or calculus deposits on any of the supragingival tooth surfaces",
+        "erythema or edema, suppuration, or bleeding on probing of the tissues",
+        "tooth mobility, occlusal interference, or open contacts between teeth",
+        "radiographic bone loss, root resorption, or widening of the ligament"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80347,
+      question: "A primary goal of periodontal therapy is to",
+      options: [
+        "eliminate the need for any future periodontal maintenance appointments",
+        "replace all natural teeth with implants for long-term predictability",
+        "preserve, maintain, and improve the natural dentition and periodontium",
+        "reduce the cost of treatment regardless of the clinical outcome"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80348,
+      question: "Oral prophylaxis combines supragingival and subgingival scaling with",
+      options: [
+        "systemic antibiotic therapy to eliminate deep subgingival pathogens",
+        "surgical flap access to reach deposits within advanced periodontal sites",
+        "host modulation agents delivered into each diseased periodontal pocket",
+        "stain and biofilm removal as a preventive, non-therapeutic procedure"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80349,
+      question: "Host modulation therapy is directed at",
+      options: [
+        "the host's role in the host-bacteria interaction of periodontal disease",
+        "the mechanical scaling of all calculus deposits from the root surfaces",
+        "the chemical bleaching of stained enamel on the affected dentition",
+        "the placement of barrier membranes over exposed periodontal defects"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80350,
+      question: "The therapeutic endpoint of periodontal therapy is the restoration of gingival health, a reduction in pocket depth, and",
+      options: [
+        "the complete eradication of every bacterial species from the mouth",
+        "a gain in or maintenance of a stable clinical attachment level",
+        "an immediate and full regeneration of all previously lost bone",
+        "the permanent elimination of any need for daily oral self-care"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80351,
+      question: "The periodontal diagnosis is determined after",
+      options: [
+        "the first periodontal maintenance visit following surgical treatment",
+        "a single screening probe reading is taken on the most mobile tooth",
+        "analyzing information collected during the assessment phase of therapy",
+        "the client independently selects a preferred third-party payment plan"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80352,
+      question: "Oral prophylaxis is appropriately performed when",
+      options: [
+        "moderate to advanced chronic periodontitis is present with bone loss",
+        "rapidly progressing aggressive periodontitis has been clearly identified",
+        "deep pockets adjacent to furcations with tooth mobility are detected",
+        "periodontal health or biofilm-induced gingivitis is diagnosed in a client"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80353,
+      question: "Within the phases of periodontal therapy, NSPT is part of",
+      options: [
+        "phase I therapy, also called initial or anti-infective therapy of disease",
+        "phase II therapy, which consists entirely of periodontal surgery for sites",
+        "phase III therapy, which addresses the restorative needs of the dentition",
+        "phase VI therapy, the long-term periodontal maintenance care of clients"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80354,
+      question: "Much of phase I therapy is the responsibility of the",
+      options: [
+        "oral surgeon performing extractions of teeth deemed clinically hopeless",
+        "dental hygienist working in concert with the dentist or periodontist",
+        "physician who manages the client's contributing systemic disease states",
+        "client alone, with little professional oversight of the treatment course"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80355,
+      question: "Active periodontal therapy includes phase I care and can also extend to",
+      options: [
+        "phase VI care, which is the ongoing periodontal maintenance program",
+        "the client's selection of an appropriate third-party insurance carrier",
+        "phase II care, which is periodontal surgery for the affected sites",
+        "the documentation of every referral made to an outside periodontist"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80356,
+      question: "Periodontal maintenance therapy (phase VI) is",
+      options: [
+        "the very first procedure completed before any assessment is done",
+        "identical in scope to a routine preventive oral prophylaxis visit",
+        "performed only one time, immediately after periodontal surgery",
+        "not considered part of active periodontal therapy for the client"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80357,
+      question: "Disease severity is the measure of",
+      options: [
+        "the destruction that occurred before the assessment was performed",
+        "the inflammation and attachment loss ongoing at the examination",
+        "the client's willingness to comply with recommended self-care",
+        "the number of supragingival calculus deposits currently present"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80358,
+      question: "Disease activity refers to",
+      options: [
+        "destruction that took place well before the present assessment visit",
+        "inflammation and bone or attachment loss ongoing at the examination",
+        "the total number of teeth previously lost to periodontal infection",
+        "the practitioner's chosen philosophy regarding the course of care"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80359,
+      question: "An important determination in assessing disease severity is whether the periodontitis is",
+      options: [
+        "located on the facial surfaces or on the lingual surfaces of teeth",
+        "covered or not covered under the client's dental insurance plan",
+        "a slowly progressing form or a rapidly progressing form of disease",
+        "found in a client who flosses daily or who never flosses at all"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80360,
+      question: "Periods of periodontal disease inactivity are characterized by",
+      options: [
+        "rapid loss of bone and connective tissue forming deeper pockets",
+        "a surge of unattached biofilm and anaerobic bacteria in the pocket",
+        "the immediate need for surgical intervention at every affected site",
+        "a reduced host inflammatory response with little or no attachment loss"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80361,
+      question: "Periods of disease exacerbation include unattached biofilm and anaerobic bacteria that result in",
+      options: [
+        "loss of bone and connective tissue attachment and deeper pockets",
+        "a marked reduction of the host's overall inflammatory response level",
+        "the spontaneous regeneration of bone within the affected defects",
+        "an increase in the number of cocci and nonmotile microbial forms"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80362,
+      question: "Periodontal maintenance is also known as",
+      options: [
+        "initial anti-infective therapy delivered during the first phase of care",
+        "supportive periodontal therapy, supportive periodontal care, or continued-care",
+        "full-mouth disinfection completed within a single 24-hour time period",
+        "comprehensive surgical therapy involving osseous recontouring of bone"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80363,
+      question: "Periodontal maintenance may be discontinued and active therapy reinstituted when",
+      options: [
+        "the client requests a longer interval between scheduled appointments",
+        "all of the client's third-party insurance benefits have been exhausted",
+        "recurrent periodontal disease is detected during a maintenance visit",
+        "the client has remained completely free of disease for several years"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80364,
+      question: "Periodontal maintenance is an extension of periodontal therapy performed at selected intervals for",
+      options: [
+        "a fixed period of exactly six months following any active therapy",
+        "the duration required to fully eradicate every periodontal pathogen",
+        "only as long as the client's insurance continues to reimburse care",
+        "the life of the dentition or its implant replacements in the client"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80365,
+      question: "A variable that influences care-planning approaches in NSPT is the",
+      options: [
+        "classification, diagnosis, and severity of the client's periodontitis",
+        "exact brand of ultrasonic insert chosen for the debridement step",
+        "geographic distance between the client's home and the dental office",
+        "color of the operatory in which the periodontal care is delivered"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80366,
+      question: "Chronic periodontal disease states usually progress",
+      options: [
+        "rapidly and respond only to immediate surgical osseous correction",
+        "slowly and respond predictably to NSPT with coinciding self-care",
+        "without any relationship to the level of the client's daily self-care",
+        "only in clients who also show a strong familial disease aggregation"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80367,
+      question: "The main focus of NSPT in chronic disease is oral self-care education and",
+      options: [
+        "the routine surgical flap access of all slight and moderate sites",
+        "the systemic antibiotic suppression of every detectable pathogen",
+        "mechanical removal of oral biofilm and biofilm-retentive factors",
+        "the determination of the client's individual genetic susceptibility"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80368,
+      question: "When advanced periodontitis is present, additional considerations for therapy may include",
+      options: [
+        "discontinuing all professional debridement of the deeper pockets",
+        "limiting the client strictly to a preventive oral prophylaxis visit",
+        "lengthening the maintenance interval well beyond six-month recall",
+        "subgingival microbial analysis and extraction of hopeless teeth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80369,
+      question: "Aggressive periodontitis is typically seen in clients who",
+      options: [
+        "appear otherwise healthy, show familial aggregation, and progress rapidly",
+        "have abundant calculus, poor self-care, and a slow rate of progression",
+        "are elderly, medically compromised, and free of any genetic component",
+        "respond fully to oral prophylaxis without any need for further therapy"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80370,
+      question: "A care-planning consideration specific to aggressive periodontitis is",
+      options: [
+        "providing a simple preventive prophylaxis with no further evaluation",
+        "consultation with a physician and determination of genetic susceptibility",
+        "delaying any treatment until extensive bone loss has clearly occurred",
+        "avoiding all chemotherapeutic agents during the course of treatment"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80371,
+      question: "The basic therapeutic modality for aggressive periodontitis is",
+      options: [
+        "immediate full-mouth surgery before any nonsurgical care is tried",
+        "host modulation agents used alone without mechanical debridement",
+        "traditional NSPT, though host response outweighs biofilm quantity",
+        "an extended six-month maintenance interval with no active therapy"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80372,
+      question: "In aggressive periodontitis, less important than the host's responses are the",
+      options: [
+        "specific periodontal pathogens identified within the active sites",
+        "client's genetic susceptibility to the rapidly progressing disease",
+        "outcomes of antibiotic sensitivity testing performed on the flora",
+        "quantity of oral biofilm and number of calculus deposits present"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80373,
+      question: "A preventive and therapeutic entity used in the implementation of NSPT is",
+      options: [
+        "manual and mechanized scaling and root planing for periodontal debridement",
+        "the surgical placement of bone grafts within each osseous periodontal defect",
+        "the routine extraction of every tooth showing any degree of mobility",
+        "the prescription of systemic antibiotics for all clients with gingivitis"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80374,
+      question: "A supportive intervention that forms part of the foundation of NSPT is",
+      options: [
+        "the surgical resection of bone defects in slight periodontal cases",
+        "overhang removal, desensitization, and smoking cessation counseling",
+        "the placement of fixed prostheses before any debridement is begun",
+        "the elimination of all daily self-care in favor of office treatment"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80375,
+      question: "Compared with meticulous mechanical therapy and client self-care, the evidence supporting adjunctive therapies alone is",
+      options: [
+        "considerably stronger than the evidence for any mechanical debridement",
+        "exactly equivalent to the evidence supporting daily client self-care",
+        "not as strong as the evidence supporting mechanical care and self-care",
+        "sufficient to replace mechanical debridement in most chronic cases"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80376,
+      question: "Full-mouth disinfection (FMD) involves the scaling and root planing of",
+      options: [
+        "only the deepest pocket on each quadrant over several weeks",
+        "supragingival surfaces alone, leaving subgingival deposits intact",
+        "one quadrant per visit across four separately scheduled sessions",
+        "all periodontal pockets within a single 24-hour time period"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80377,
+      question: "The FMD protocol may include application of 0.12% chlorhexidine gluconate followed by",
+      options: [
+        "twice-daily 30-second chlorhexidine rinsing for a period of two months",
+        "a single in-office rinse with no further home use by the client",
+        "weekly professional irrigation of the pockets for up to one year",
+        "daily systemic antibiotic tablets taken for the same two-month span"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80378,
+      question: "Instrument selection for mechanical pocket therapy is based on factors such as",
+      options: [
+        "the client's chosen insurance plan and the office payment philosophy",
+        "pocket depth, tissue tone, access, root morphology, and topography",
+        "the practitioner's seniority and the brand name of the instrument set",
+        "the time of day the appointment is scheduled and the operatory used"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80379,
+      question: "Instrumentation is significantly impaired, so surgery should be considered, in pockets that are",
+      options: [
+        "less than 3 mm deep with firm tissue tone and easy direct access",
+        "free of any calculus and surrounded by completely healthy gingiva",
+        "6 mm or greater, adjacent to furcations, and where mobility exists",
+        "found only on anterior teeth that show no signs of attachment loss"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80380,
+      question: "An expected clinical outcome of periodontal debridement is a",
+      options: [
+        "complete and permanent eradication of every subgingival pathogen",
+        "substantial repair of lost alveolar bone at the treated tooth sites",
+        "lasting and non-transient shift toward subgingival health in pockets",
+        "change in the type of subgingival microbial colonization that occurs"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80381,
+      question: "Following periodontal debridement, the microbial colonization shifts so that",
+      options: [
+        "motile microbes and spirochetes decrease while cocci forms increase",
+        "spirochetes increase sharply while all cocci forms are eliminated",
+        "every microbial species present is reduced to an undetectable level",
+        "the nonmotile microbes decrease while motile rods become dominant"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80382,
+      question: "Regarding key pathogens after instrumentation, it is true that",
+      options: [
+        "both A. actinomycetemcomitans and P. gingivalis are reliably eradicated",
+        "A. actinomycetemcomitans is not predictably eliminated and P. gingivalis is not eradicated",
+        "P. gingivalis is eradicated while A. actinomycetemcomitans persists fully",
+        "neither organism is affected in any measurable way by the debridement"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80383,
+      question: "A factor that may slow or inhibit subgingival pocket microbial repopulation is",
+      options: [
+        "the presence of abundant supragingival biofilm on the teeth",
+        "extending the periodontal maintenance interval beyond one year",
+        "the client's effective practice of daily oral self-care at home",
+        "limiting professional care to a single annual prophylaxis visit"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80384,
+      question: "Supragingival oral biofilm facilitates repopulation of pockets with spirochetes and motile rods within",
+      options: [
+        "24 hours of completing full-mouth scaling and root planing",
+        "an entire calendar year regardless of the client's self-care",
+        "the first 48 hours, after which no further change ever occurs",
+        "4 to 8 weeks after the completion of periodontal debridement"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80385,
+      question: "The clinical endpoint of instrumentation measures the",
+      options: [
+        "tooth surface's preparation for the healing of adjacent tissues",
+        "probing depth, attachment level, and bleeding at evaluation",
+        "client's total satisfaction with the appearance of the dentition",
+        "amount of third-party reimbursement available for the therapy"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80386,
+      question: "The therapeutic endpoint determined at the evaluation visit includes measurement of",
+      options: [
+        "the tooth surface preparation achieved during instrumentation",
+        "probing depth, clinical attachment level, and gingival bleeding",
+        "the brand and number of instruments used during debridement",
+        "the client's chosen recall interval and insurance coverage level"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80387,
+      question: "A factor that should be considered when deciding on referral to a periodontist is the",
+      options: [
+        "color and brand of the ultrasonic unit available in the operatory",
+        "client's personal preference for a morning or afternoon appointment",
+        "type and severity of disease and the hygienist's acquired skill level",
+        "distance between the dental office and the nearest pharmacy counter"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80388,
+      question: "A therapeutic goal evaluated before deciding on surgical intervention is",
+      options: [
+        "complete replacement of the entire dentition with fixed prostheses",
+        "the elimination of every form of bacteria from the oral cavity",
+        "an increase in the depth of probing at all of the treated sites",
+        "resolution of inflammation and radiologic resolution of osseous defects"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80389,
+      question: "Systemic antimicrobials or antibiotics as part of NSPT are indicated only when",
+      options: [
+        "aggressive, severe, or progressing periodontitis is present in a client",
+        "biofilm-induced gingivitis without attachment loss is first diagnosed",
+        "a routine preventive oral prophylaxis is being delivered to a client",
+        "the client simply prefers medication over mechanical debridement"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80390,
+      question: "Regarding NSPT and insurance, recommendations for optimal dental hygiene care",
+      options: [
+        "must always be limited to whatever the client's plan will reimburse",
+        "are not dependent on the client's third-party insurance reimbursement",
+        "should be withheld until the insurance carrier approves the treatment",
+        "are determined entirely by the office philosophy on third-party payment"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80391,
+      question: "The preferred term for what was formerly called supportive therapy or periodontal recall is",
+      options: [
+        "initial anti-infective therapy delivered during the very first phase",
+        "comprehensive surgical therapy involving osseous recontouring of sites",
+        "periodontal maintenance therapy continuing for the life of the dentition",
+        "preventive oral prophylaxis performed at standard six-month intervals"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80392,
+      question: "A stated goal of periodontal maintenance is to",
+      options: [
+        "permanently eliminate the client's need for any daily oral self-care",
+        "guarantee complete regeneration of all previously lost alveolar bone",
+        "reduce the overall cost of care by lengthening the recall interval",
+        "prevent or minimize recurrence and progression of periodontal disease"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80393,
+      question: "A six-month periodontal maintenance interval is appropriate for clients who are in good general health, have gingivitis, and",
+      options: [
+        "have no history of attachment loss while maintaining their oral health",
+        "show rapidly progressing attachment loss across multiple tooth sites",
+        "have moderate to advanced chronic periodontitis with deep pockets",
+        "consistently fail to perform any effective daily oral self-care at home"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80394,
+      question: "For clients with periodontitis, the periodontal maintenance interval is generally",
+      options: [
+        "fixed at exactly 6 months for every client without any variation",
+        "3 months or shorter, customized to the individual client's needs",
+        "extended to once every 12 months once active therapy is complete",
+        "needed only one time, immediately following the active therapy"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80395,
+      question: "Part of the rationale for shorter maintenance intervals in periodontitis is that suppressed pathogens return to pretreatment levels in",
+      options: [
+        "24 hours, the same window in which full-mouth disinfection occurs",
+        "exactly 6 months, matching the standard preventive recall schedule",
+        "9 to 11 weeks, although this interval varies among individual clients",
+        "5 years, making frequent maintenance visits largely unnecessary"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80396,
+      question: "A factor that influences a client's consent to a specific maintenance interval is",
+      options: [
+        "the exact brand of ultrasonic insert chosen by the dental hygienist",
+        "the color of the reminder card mailed to the client before the visit",
+        "the number of radiographs that were exposed at the previous visit",
+        "cost, third-party benefits, cooperation, and personal values and needs"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80397,
+      question: "After periodontal surgery, the dental hygienist provides support by",
+      options: [
+        "targeting recommendations to the client's conditions and minimizing aids",
+        "discontinuing all education so the client can recover free of advice",
+        "maximizing the number of self-care aids regardless of the client",
+        "avoiding any discussion of risk factors to keep the visit positive"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80398,
+      question: "From a legal and ethical standpoint, oral prophylaxis is",
+      options: [
+        "the preferred treatment for advanced aggressive periodontitis cases",
+        "not indicated for the treatment of established periodontitis in a client",
+        "always sufficient to replace NSPT when insurance benefits are limited",
+        "required before every periodontal surgical procedure can be performed"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80399,
+      question: "The care plan for NSPT and periodontal maintenance is dependent on the client's",
+      options: [
+        "third-party payment plan benefits rather than the clinical conditions",
+        "stated preference for the shortest and least costly course of therapy",
+        "genetic, systemic, environmental, and oral conditions rather than benefits",
+        "geographic location relative to the nearest specialist periodontal office"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80400,
+      question: "Informed consent and informed refusal for periodontal care should be",
+      options: [
+        "obtained verbally only, with no entry made in the client's record",
+        "waived entirely whenever the client has dental insurance coverage",
+        "decided solely by the dentist without any involvement of the client",
+        "documented in writing within the client's permanent dental record"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80401,
+      question: "Failure to assess the periodontium adequately is considered",
+      options: [
+        "malpractice on the part of the dental hygienist providing the care",
+        "an acceptable shortcut whenever the appointment time is limited",
+        "the sole responsibility of the supervising physician, not the hygienist",
+        "irrelevant as long as a routine oral prophylaxis is still performed"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80402,
+      question: "Negligence might occur if NSPT or periodontal maintenance is needed and the hygienist instead",
+      options: [
+        "refers the client promptly to an experienced specialist periodontist",
+        "provides a routine oral prophylaxis in place of the indicated care",
+        "documents the informed consent and refusal fully and in writing",
+        "customizes the maintenance interval to the client's disease extent"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80403,
+      question: "Clients should be informed that the risks associated with periodontal care increase with the use of",
+      options: [
+        "soft-bristled toothbrushes used gently during daily oral self-care",
+        "fluoride rinses prescribed for the management of dentinal sensitivity",
+        "injectable local anesthetic agents during the periodontal procedures",
+        "disclosing tablets used to reveal residual biofilm on the teeth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80404,
+      question: "Hand-activated, ultrasonic, and sonic instrumentation are reported to produce",
+      options: [
+        "results that strongly favor hand instruments over all powered devices",
+        "complete bone regeneration when powered instruments are selected",
+        "outcomes that differ so greatly they cannot be compared at all",
+        "similar clinical and microbiologic results in periodontal debridement"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80405,
+      question: "Regarding bone following scaling and root planing, the expected outcome is that",
+      options: [
+        "minimal or no bone repair occurs after the scaling and root planing",
+        "substantial new bone reliably fills every treated osseous defect",
+        "the alveolar bone is fully regenerated within the first 24 hours",
+        "bone loss accelerates sharply at every instrumented tooth site"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80406,
+      question: "Oral prophylaxis is preventive in nature and not therapeutic like NSPT.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80407,
+      question: "Most cases of slight and moderate chronic periodontal involvement can be treated nonsurgically.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80408,
+      question: "Subgingival periodontal therapy significantly affects other areas, such as the tongue and tonsillar region, that may be a source of reemerging bacteria.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80409,
+      question: "Documentation of a referral to the periodontist and the client's response in the record is imperative.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80410,
+      question: "Periodontal maintenance therapy is part of active periodontal therapy.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80411,
+      question: "Most periodontists are willing to alternate periodontal maintenance visits with the general practitioner.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    }
   ]
 };
