@@ -917,8 +917,11 @@ export const subjectsWithSubtopics = {
     "2. Oral Piercings",
     "3. Darby",
     "4. Periodontal Emergencies",
+    "5. Periodontal Surgery",
     "6. Nonsurgical Periodontal Therapy",
     "7. NPT Decision Making"
+    "8. Plaque Biofilm and Disease Control",
+    "9. Basic Implant Surgical Procedures"
   ],  
   "Business Practice": [
     "1. test"
