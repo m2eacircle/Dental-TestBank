@@ -919,7 +919,7 @@ export const subjectsWithSubtopics = {
     "4. Periodontal Emergencies",
     "5. Periodontal Surgery",
     "6. Nonsurgical Periodontal Therapy",
-    "7. NPT Decision Making"
+    "7. NPT Decision Making",
     "8. Plaque Biofilm and Disease Control",
     "9. Basic Implant Surgical Procedures"
   ],  
