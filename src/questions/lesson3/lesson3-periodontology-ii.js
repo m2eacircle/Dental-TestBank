@@ -4438,5 +4438,3643 @@ export const questions = {
       ],
       correctAnswer: 0
     }
+  ],
+  "5. Periodontal Surgery": [
+    {
+      id: 80412,
+      question: "Since when has periodontal surgery been used to help control the progression of periodontal disease?",
+      options: [
+        "Since the late nineteenth century",
+        "Since the mid-nineteenth century",
+        "Since early in the twentieth century",
+        "Since the late twentieth century"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80413,
+      question: "When is periodontal surgery indicated to control periodontal destruction and attachment loss?",
+      options: [
+        "When the client first reports gum bleeding on brushing",
+        "When any probing depth greater than 3 mm is found",
+        "When nonsurgical treatments have not yet been attempted",
+        "When conservative nonsurgical treatments are not sufficient"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80414,
+      question: "How is periodontal surgery best described as a type of procedure?",
+      options: [
+        "Techniques that only polish supragingival tooth surfaces",
+        "Techniques that rely solely on systemic antibiotics",
+        "Techniques that intentionally cut into soft tissues",
+        "Techniques that avoid any incision of the tissues"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80415,
+      question: "What is the major benefit and indication for periodontal surgery?",
+      options: [
+        "Permanently eliminating the need for any home care",
+        "Gaining access to root surfaces for scaling and root planing",
+        "Removing the requirement for periodontal maintenance",
+        "Avoiding the use of local anesthesia in treatment"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80416,
+      question: "Besides root access, which of the following is listed as an advantage of periodontal surgery?",
+      options: [
+        "Reducing the number of teeth needing restoration",
+        "Improving access to periodontal abscesses",
+        "Preventing all future plaque biofilm formation",
+        "Eliminating the client's need for any anesthesia"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80417,
+      question: "From the client's perspective, the disadvantages of periodontal surgery are time, cost, esthetics, and which other factor?",
+      options: [
+        "Discomfort",
+        "Infection",
+        "Tooth loss",
+        "Bad breath"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80418,
+      question: "Which of the following is listed as a disadvantage or contraindication of periodontal surgery?",
+      options: [
+        "Presence of any restored teeth in the arch",
+        "A client's preference for electric toothbrushes",
+        "Health status or age of the client",
+        "Use of fluoride toothpaste at home daily"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80419,
+      question: "Which of the following must be considered when periodontal surgical therapy is prescribed?",
+      options: [
+        "The client's preferred brand of toothpaste only",
+        "The shade and color of the client's teeth only",
+        "The number of fillings present in the mouth only",
+        "Probing pocket depth and the amount of bone loss"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80420,
+      question: "How is a periodontal pocket defined?",
+      options: [
+        "A shallow healthy sulcus lined by keratinized tissue",
+        "A space created only by improper toothbrushing force",
+        "A normal gap that exists between any two adjacent teeth",
+        "A deepened gingival sulcus with an infected, ulcerated surface"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80421,
+      question: "To approximately what probing depth are scaling and root planing effective in controlling periodontal disease?",
+      options: [
+        "Approximately 8 mm",
+        "Approximately 10 mm",
+        "Approximately 4 mm",
+        "Approximately 12 mm"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80422,
+      question: "What do pockets with probing depths greater than 9 mm suggest about the affected teeth?",
+      options: [
+        "Minimal bone loss and an excellent long-term outcome",
+        "Extreme attachment loss and a poor long-term prognosis",
+        "A purely cosmetic problem with no real bone change",
+        "Healthy attachment that requires only routine cleaning"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80423,
+      question: "From which landmark is the probing depth measured to the base of the pocket?",
+      options: [
+        "The cementoenamel junction",
+        "The crest of the alveolar bone",
+        "The crest of the gingival margin",
+        "The apex of the tooth root"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80424,
+      question: "From which landmark is attachment loss measured to the base of the pocket?",
+      options: [
+        "The cementoenamel junction",
+        "The crest of the gingival margin",
+        "The incisal edge of the crown",
+        "The base of the gingival sulcus"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80425,
+      question: "When the gingival margin is on the root surface due to recession, how does attachment loss compare with the probing depth?",
+      options: [
+        "Attachment loss is less than the probing depth",
+        "Attachment loss is exactly equal to it",
+        "Attachment loss cannot be determined at all",
+        "Attachment loss is greater than the probing depth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80426,
+      question: "When the gingival margin is on the enamel, as in gingival hypertrophy, how does attachment loss compare with the probing depth?",
+      options: [
+        "Attachment loss is greater than the probing depth",
+        "Attachment loss is less than the probing depth",
+        "Attachment loss is exactly equal to it",
+        "Attachment loss is always zero in this case"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80427,
+      question: "What does the 5-mm probing depth guideline represent in identifying surgical candidates?",
+      options: [
+        "A firm rule that always requires immediate surgery",
+        "A measurement unrelated to the need for surgery",
+        "Only the first step in identifying possible candidates",
+        "The final criterion guaranteeing a surgical outcome"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80428,
+      question: "Roughly how much connective tissue attachment covered by epithelium usually lies between the probing depth and the alveolar bone?",
+      options: [
+        "About 5 to 6 mm",
+        "About 8 to 9 mm",
+        "About 11 to 12 mm",
+        "About 1 to 2 mm"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80429,
+      question: "What is the term for the connective tissue zone that must be considered when estimating remaining attachment?",
+      options: [
+        "The mucogingival line",
+        "The free gingival groove",
+        "The interdental papilla",
+        "The biologic width"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80430,
+      question: "When does a horizontal osseous defect occur?",
+      options: [
+        "When bone resorption is equal on mesial and distal surfaces",
+        "When bone resorption is unequal around the teeth",
+        "When no bone resorption occurs around the teeth",
+        "When only the facial bone surface is resorbed"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80431,
+      question: "When does a vertical osseous defect occur?",
+      options: [
+        "When bone resorption is equal on all surfaces",
+        "When bone resorption is unequal around the teeth",
+        "When no bone resorption occurs at all",
+        "When only the gingiva and not bone is lost"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80432,
+      question: "What are pockets that are coronal to horizontal bone loss called?",
+      options: [
+        "Suprabony pockets",
+        "Infrabony pockets",
+        "Intrabony pockets",
+        "Pseudopockets"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80433,
+      question: "What are pockets that extend apically beyond the crest of the bone called?",
+      options: [
+        "Suprabony pockets",
+        "Infrabony pockets",
+        "Gingival pockets",
+        "Periapical pockets"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80434,
+      question: "What term is used when all the walls of an osseous defect are within the bone housing?",
+      options: [
+        "Intrabony pocket",
+        "Suprabony pocket",
+        "Horizontal pocket",
+        "Marginal pocket"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80435,
+      question: "Periodontal surgery that includes modification of the bone level or shape is called what?",
+      options: [
+        "Osseous surgery",
+        "Excisional surgery",
+        "Mucogingival surgery",
+        "Access flap surgery"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80436,
+      question: "Osseous surgery is generally indicated when about how much of the bone support remains?",
+      options: [
+        "No more than one tenth of the support",
+        "At least one half of the bone support",
+        "Only a small fraction of the support",
+        "Essentially none of the bone support"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80437,
+      question: "Which tooth is given as an example that may be extracted without altering the client's chewing pattern?",
+      options: [
+        "A first premolar",
+        "A central incisor",
+        "A third molar",
+        "A canine tooth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80438,
+      question: "What should every client establish before surgical therapy is initiated?",
+      options: [
+        "A complete set of new restorations on all teeth",
+        "A diet free of all sugar for several months",
+        "A full course of systemic antibiotic therapy",
+        "The best possible supragingival plaque biofilm control"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80439,
+      question: "What happens if a client's plaque biofilm control is poor before surgery?",
+      options: [
+        "Surgery should be postponed or abandoned",
+        "Surgery should be performed more aggressively",
+        "Surgery becomes far more predictable and easy",
+        "Surgery automatically guarantees a good outcome"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80440,
+      question: "Is age, in itself, a contraindication to periodontal surgery?",
+      options: [
+        "Yes, age alone always prevents surgery",
+        "Yes, only clients under 30 may have it",
+        "No, age alone is not a contraindication",
+        "Yes, only clients over 60 may have it"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80441,
+      question: "For a relatively young client (under 30) with deep pockets and half the bone lost, what is the disease pattern and recommendation?",
+      options: [
+        "A slow form for which surgery is rarely needed",
+        "An aggressive form for which surgery is strongly indicated",
+        "A reversible form needing only home care",
+        "A harmless form that never requires treatment"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80442,
+      question: "What must clients who decide against surgery be willing to undergo?",
+      options: [
+        "A complete avoidance of all dental visits",
+        "More frequent maintenance and complex subgingival control",
+        "An immediate extraction of the affected teeth",
+        "A permanent course of daily antibiotic use"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80443,
+      question: "Lang and Löe classified periodontal surgical procedures into how many basic categories?",
+      options: [
+        "Three basic categories",
+        "Seven basic categories",
+        "Five basic categories",
+        "Nine basic categories"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80444,
+      question: "Which of the following is one of Lang and Löe's basic categories of periodontal surgery?",
+      options: [
+        "Procedures for whitening discolored enamel",
+        "Procedures for correcting mucogingival defects",
+        "Procedures for placing routine amalgam fillings",
+        "Procedures for fitting removable orthodontic devices"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80445,
+      question: "What is the goal of pocket reduction surgery?",
+      options: [
+        "To add soft tissue and deepen the pocket further",
+        "To remove soft tissue so maintenance becomes effective",
+        "To leave the pocket depth completely unchanged",
+        "To replace the natural tooth with an implant"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80446,
+      question: "Pocket reduction surgery usually aims to reduce pocket depth to a level that does not exceed what?",
+      options: [
+        "About 7 to 8 mm in depth",
+        "About 3 to 4 mm in depth",
+        "About 9 to 10 mm in depth",
+        "About 11 to 12 mm in depth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80447,
+      question: "Which two broad methods are used for pocket reduction?",
+      options: [
+        "Bleaching and bonding restorative procedures",
+        "Orthodontic and prosthodontic procedures only",
+        "Excisional (gingivectomy) and incisional (flap) surgery",
+        "Radiographic and photographic survey procedures"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80448,
+      question: "What does excisional periodontal surgery remove?",
+      options: [
+        "Excess tissue from the wall of the periodontal pocket",
+        "Healthy bone from beneath the tooth roots",
+        "The entire crown of the affected tooth",
+        "All of the keratinized attached gingiva"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80449,
+      question: "What is gingivoplasty?",
+      options: [
+        "Complete excision of the alveolar bone",
+        "Transplantation of bone from the hip",
+        "Surgical reshaping of the gingival tissues",
+        "Placement of a synthetic barrier membrane"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80450,
+      question: "What is the major indication for gingivectomy?",
+      options: [
+        "Shallow pockets with minimal soft tissue present",
+        "Infrabony pockets that extend below the bone",
+        "Deep periodontal pockets with thick fibrous tissue",
+        "Thin friable tissue with little keratinized gingiva"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80451,
+      question: "At what angle to the gingival surface is the gingiva excised during gingivectomy?",
+      options: [
+        "At a 15-degree angle",
+        "At a 75-degree angle",
+        "At a 45-degree angle",
+        "At a 90-degree angle"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80452,
+      question: "Approximately when is the gingival epithelium reestablished after gingivectomy?",
+      options: [
+        "About 2 days after surgery",
+        "About 2 months after surgery",
+        "About 2 weeks after surgery",
+        "About 2 hours after surgery"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80453,
+      question: "Which of the following is a contraindication for excisional periodontal surgery?",
+      options: [
+        "It heals far faster than any flap technique",
+        "It causes no postoperative discomfort at all",
+        "It works best when attached gingiva is minimal",
+        "It does not permit access to infrabony pockets"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80454,
+      question: "Besides slow healing, which problem is associated with excisional periodontal surgery exposing root surfaces?",
+      options: [
+        "Teeth become permanently immune to all decay",
+        "Teeth automatically gain extra bone support",
+        "Teeth lose all sensitivity to heat and cold",
+        "Teeth may become sensitive and prone to root caries"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80455,
+      question: "What is incisional periodontal surgery also called?",
+      options: [
+        "Periodontal flap surgery",
+        "Free gingival grafting",
+        "Guided-tissue regeneration",
+        "Osseous bone grafting"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80456,
+      question: "What is the incisional technique used for pocket reduction with flap surgery called?",
+      options: [
+        "The apically positioned flap",
+        "The coronally advanced flap",
+        "The free autogenous graft",
+        "The lateral pedicle graft"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80457,
+      question: "What is the primary indication for incisional (flap) surgery?",
+      options: [
+        "Shallow pockets easily reached by routine scaling",
+        "Cases needing only supragingival polishing",
+        "Teeth with no measurable attachment loss",
+        "Deepened pockets contraindicated for gingivectomy"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80458,
+      question: "During flap surgery, what instrument is used to push the gingival flaps away from the bone and teeth?",
+      options: [
+        "A periodontal probe",
+        "An ultrasonic scaler",
+        "A periosteal elevator",
+        "A dental explorer"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80459,
+      question: "How is the surgical wound closed at the end of incisional flap surgery?",
+      options: [
+        "By leaving the flaps fully open to heal alone",
+        "By cementing a crown over the surgical site",
+        "By suturing the flaps together in the interproximal papillae",
+        "By packing the area with bone graft material"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80460,
+      question: "Why might fluoride mouth rinses be recommended after apically positioned flaps?",
+      options: [
+        "Because the gingiva will never reattach again",
+        "Because the bone has been completely removed",
+        "Because the teeth are now immune to decay",
+        "Because exposed root surfaces increase the risk of caries"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80461,
+      question: "Which technique combines incisional and excisional methods in areas like the palatal tuberosity?",
+      options: [
+        "Free autogenous grafting",
+        "Distal wedge surgery",
+        "Guided-tissue regeneration",
+        "Lateral pedicle grafting"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80462,
+      question: "What is the goal of access flap procedures?",
+      options: [
+        "To provide access to root surfaces for débridement",
+        "To reduce all pockets by apical positioning",
+        "To extract teeth with deep periodontal pockets",
+        "To whiten and reshape the visible crowns"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80463,
+      question: "Which of the following is an access flap procedure?",
+      options: [
+        "The apically positioned flap",
+        "The lateral pedicle graft",
+        "The free autogenous graft",
+        "The modified Widman flap"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80464,
+      question: "Pocket reduction by apical positioning is NOT the goal of which procedures?",
+      options: [
+        "Osseous resective procedures",
+        "Excisional gingivectomy procedures",
+        "Access flap procedures",
+        "Distal wedge procedures"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80465,
+      question: "Why do many periodontists perform access flap procedures instead of pocket reduction?",
+      options: [
+        "Access flaps always eliminate the pocket entirely",
+        "Pocket reduction is impossible to perform safely",
+        "Access flaps require no anesthesia or sutures",
+        "Little data support that pocket reduction extends tooth life"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80466,
+      question: "What should the patient understand may happen after access flap therapy?",
+      options: [
+        "Pocket depths will always be reduced to zero",
+        "Pocket depths may remain greater than 3 or 4 mm",
+        "All affected teeth will need to be extracted",
+        "Home care will no longer be necessary at all"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80467,
+      question: "How many specific contraindications exist for access flap procedures?",
+      options: [
+        "No specific contraindications exist",
+        "At least five major contraindications exist",
+        "Exactly three absolute contraindications exist",
+        "Numerous strict contraindications always apply"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80468,
+      question: "During osseous surgical procedures, with what does the periodontist sculpt the alveolar bone?",
+      options: [
+        "Periodontal probes and dental floss",
+        "Chisels or specially designed dental burs",
+        "Cotton pellets and gauze sponges",
+        "Rubber cups and polishing paste"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80469,
+      question: "What is the procedure called when bone containing supporting periodontal fibers is removed?",
+      options: [
+        "Osteoplasty",
+        "Ostectomy",
+        "Gingivoplasty",
+        "Gingivectomy"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80470,
+      question: "What is the procedure called when only bony ledges or nonsupporting bone is removed?",
+      options: [
+        "Ostectomy",
+        "Osteoplasty",
+        "Gingivectomy",
+        "Frenectomy"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80471,
+      question: "Which of the following is an indication for surgically treating osseous defects?",
+      options: [
+        "Healthy bone with no measurable defects present",
+        "Periodontal pockets extending below the osseous crest",
+        "Pockets that are entirely above the gingival margin",
+        "Teeth with completely normal bony architecture"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80472,
+      question: "What describes reverse alveolar bony architecture?",
+      options: [
+        "Interproximal bone coronal to all other bone",
+        "Facial bone completely absent around the tooth",
+        "Lingual bone raised above the occlusal plane",
+        "Interproximal bone apical to the facial and lingual bone"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80473,
+      question: "What are areas called where recession extends the pocket beyond the mucogingival junction with no attached gingiva?",
+      options: [
+        "Mucogingival defects",
+        "Suprabony defects",
+        "Furcation defects",
+        "Osseous craters"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80474,
+      question: "Which of the following is a goal of mucogingival (periodontal plastic) surgery?",
+      options: [
+        "Removing all keratinized gingiva from the tooth",
+        "Reducing the thickness of healthy gingiva",
+        "Increasing the zone of attached gingiva",
+        "Eliminating attachment between gingiva and tooth"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80475,
+      question: "Which is an indication for mucogingival surgery?",
+      options: [
+        "Recession has significantly reduced keratinized gingiva",
+        "The client simply wants whiter front teeth",
+        "The teeth have no recession or attachment loss",
+        "A single shallow pocket of 2 mm is present"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80476,
+      question: "Which procedure slides gingival tissue from an adjacent tooth or papilla?",
+      options: [
+        "Free autogenous gingival graft",
+        "Guided-tissue regeneration",
+        "Lateral pedicle gingival graft",
+        "Osseous bone grafting"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80477,
+      question: "For a free autogenous gingival graft, what is the most common donor site?",
+      options: [
+        "The palate",
+        "The lower lip",
+        "The buccal cheek",
+        "The floor of the mouth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80478,
+      question: "Which graft has become the procedure of choice when root coverage is the objective?",
+      options: [
+        "The free autogenous epithelial graft",
+        "The extraoral iliac crest graft",
+        "The subepithelial connective tissue graft",
+        "The synthetic alloplastic graft"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80479,
+      question: "Which of the following is an advantage of subepithelial connective tissue grafting?",
+      options: [
+        "Reduced postoperative discomfort and bleeding",
+        "Permanent removal of the need for home care",
+        "Complete elimination of any donor site",
+        "Guaranteed regrowth of all lost alveolar bone"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80480,
+      question: "Which of the following is a contraindication for mucogingival surgery?",
+      options: [
+        "Abundant healthy keratinized tissue present",
+        "Lack of donor tissue for the graft",
+        "A wide zone of attached gingiva present",
+        "Excess donor tissue available at all sites"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80481,
+      question: "What is periodontal regeneration defined as forming on a previously diseased root surface?",
+      options: [
+        "New enamel, dentin, and dental pulp tissue",
+        "New alveolar bone, cementum, and periodontal ligament",
+        "New crown, root canal, and tooth nerve",
+        "New gingiva only, with no bone or ligament"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80482,
+      question: "Which two current techniques are used for periodontal regeneration?",
+      options: [
+        "Scaling and selective coronal polishing",
+        "Bone grafting and guided-tissue regeneration",
+        "Bleaching and composite bonding methods",
+        "Extraction and immediate implant placement"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80483,
+      question: "What is the most critical factor in determining the success of bone grafting?",
+      options: [
+        "The anatomy of the periodontal defect",
+        "The age of the donor providing the bone",
+        "The brand of the surgical hand instruments",
+        "The color of the surrounding gingival tissue"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80484,
+      question: "On what basis is the classification of periodontal bone grafts made?",
+      options: [
+        "The depth of the periodontal probing only",
+        "The source of the graft material",
+        "The color of the recipient site tissue",
+        "The age of the patient receiving the graft"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80485,
+      question: "From where is an autograft's donor bone obtained?",
+      options: [
+        "From another living human donor",
+        "From a different animal species",
+        "From synthetic ceramic material",
+        "From the patient's own body"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80486,
+      question: "From where does the bone for an allograft come?",
+      options: [
+        "From the patient's own iliac crest",
+        "From bovine or porcine sources",
+        "From synthetic hydroxyapatite minerals",
+        "From another person, often cadaver bone"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80487,
+      question: "Which organization accredits the bone banks supplying cadaver bone for allografts?",
+      options: [
+        "The American Dental Hygienists' Association",
+        "The American Academy of General Dentistry",
+        "The American Association of Tissue Banks",
+        "The American Board of Oral Pathology"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80488,
+      question: "What do alloplastic grafts use as graft material?",
+      options: [
+        "Bone taken from the patient's own jaw",
+        "Freeze-dried bone from a human donor",
+        "Bone harvested from bovine or porcine sources",
+        "Synthetic bone minerals such as hydroxyapatite"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80489,
+      question: "Which alloplastic material appears to be the most successful?",
+      options: [
+        "Porous hydroxyapatite",
+        "Plaster of Paris alone",
+        "Tricalcium phosphate alone",
+        "Demineralized cadaver bone"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80490,
+      question: "From where is the bone for a xenograft taken?",
+      options: [
+        "From the patient's own maxillary tuberosity",
+        "From an accredited human cadaver bone bank",
+        "From a synthetic ceramic bone substitute",
+        "From another species, such as bovine or porcine"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80491,
+      question: "Which infrabony defect ideally has sufficient osseous walls to promote healing during bone grafting?",
+      options: [
+        "A one-wall defect",
+        "A three-wall defect",
+        "A zero-wall defect",
+        "A through-and-through defect"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80492,
+      question: "Which furcation defects are often good candidates for bone regeneration with osseous grafts?",
+      options: [
+        "Through-and-through grade IV furcations",
+        "Furcations in fully healthy molar teeth",
+        "Furcations with no measurable bone loss",
+        "Mandibular molar buccal furcations of grade II"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80493,
+      question: "With what closure are the best results for periodontal bone grafting obtained?",
+      options: [
+        "Primary closure of the flaps over the wound site",
+        "Leaving the wound completely open to heal",
+        "Closure with a removable acrylic appliance",
+        "No closure or suturing of any kind at all"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80494,
+      question: "In which patients do the most predictable bone fills occur?",
+      options: [
+        "Patients with a maximum number of bony walls",
+        "Patients with no remaining bony walls present",
+        "Patients with only a single bony wall left",
+        "Patients whose defects have no walls at all"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80495,
+      question: "What does guided-tissue regeneration permit primary healing cells to do?",
+      options: [
+        "Proliferate only from the gingival epithelium",
+        "Grow exclusively from the tooth enamel layer",
+        "Migrate from the dental pulp into the bone",
+        "Proliferate from bone and periodontal ligament, not gingiva"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80496,
+      question: "What is the role of the barrier membrane in guided-tissue regeneration?",
+      options: [
+        "It encourages epithelium to grow into the site",
+        "It permanently replaces the lost alveolar bone",
+        "It dissolves the periodontal ligament tissue",
+        "It excludes epithelial cells from the healing site"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80497,
+      question: "Which defects appear to be the best candidates for guided-tissue regeneration?",
+      options: [
+        "Shallow suprabony pockets only",
+        "Infrabony defects and furcations",
+        "Healthy sites with no bone loss",
+        "Teeth with no periodontal defects"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80498,
+      question: "Which barrier material must be surgically removed after guided-tissue regeneration?",
+      options: [
+        "Polylactic acid membrane",
+        "Resorbable collagen membrane",
+        "Freeze-dried bone allograft",
+        "Nonresorbable ePTFE membrane"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80499,
+      question: "In how long does the polylactic acid barrier material resorb through hydrolysis?",
+      options: [
+        "In about 1 to 2 days",
+        "In about 6 to 12 months",
+        "In about 1 to 2 weeks",
+        "In about 24 to 36 months"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80500,
+      question: "For how many days is the epithelium typically closed over the membrane to heal in guided-tissue regeneration?",
+      options: [
+        "About 1 to 2 days",
+        "About 7 to 10 days",
+        "About 6 to 12 months",
+        "About 30 to 60 days"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80501,
+      question: "When must nonresorbable suture material be removed after periodontal surgery?",
+      options: [
+        "In about 1 to 2 hours",
+        "In about 30 to 60 days",
+        "In about 7 to 14 days",
+        "In about 6 to 12 months"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80502,
+      question: "What is a limitation of resorbable sutures?",
+      options: [
+        "They do not always dissolve and may require removal",
+        "They always dissolve before the wound heals",
+        "They can never be used to secure any graft",
+        "They must be removed within the first hour"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80503,
+      question: "What are simple stitches used in periodontal surgery termed?",
+      options: [
+        "Sling sutures",
+        "Mattress sutures",
+        "Interrupted sutures",
+        "Continuous sutures"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80504,
+      question: "Which suture type uses the teeth as an anchor?",
+      options: [
+        "Interrupted sutures",
+        "Mattress sutures",
+        "Running sutures",
+        "Sling sutures"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80505,
+      question: "On which surface are suture knots tied for any type or style of suture?",
+      options: [
+        "The lingual surface",
+        "The occlusal surface",
+        "The buccal surface",
+        "The palatal surface"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80506,
+      question: "About how much suture 'tail' should be left beyond the knot?",
+      options: [
+        "At least 8 or 9 mm",
+        "At least 11 or 12 mm",
+        "At least 2 or 3 mm",
+        "At least 15 or 16 mm"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80507,
+      question: "Why must the location and number of sutures be documented in the chart?",
+      options: [
+        "To calculate the total cost of the procedure",
+        "To prevent the possibility of missing a suture at removal",
+        "To decide the brand of suture to purchase",
+        "To determine the shade of the final crown"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80508,
+      question: "When is a periodontal dressing or pack sometimes placed over the sutures?",
+      options: [
+        "To hold the flaps tightly after pocket-reduction surgery",
+        "To permanently replace the lost alveolar bone",
+        "To whiten the surfaces of the treated teeth",
+        "To eliminate the need for any future home care"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80509,
+      question: "What does the most common type of periodontal dressing consist of?",
+      options: [
+        "A liquid rinse that is swished and then spit out",
+        "A metal band cemented around the tooth necks",
+        "A thin plastic film that the patient swallows",
+        "A paste mixture that chemically sets to a firm consistency"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80510,
+      question: "What must be controlled before a periodontal dressing is placed?",
+      options: [
+        "Tooth shade, because the pack changes color",
+        "Occlusion, because the pack alters the bite",
+        "Saliva flow, because the pack absorbs it",
+        "Bleeding, because the pack will not control it"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80511,
+      question: "Which rinse may be recommended twice a day to help with plaque biofilm control after surgery?",
+      options: [
+        "A chlorhexidine or essential oil mouthwash",
+        "A high-sugar flavored mouth rinse daily",
+        "A plain carbonated water rinse hourly",
+        "An undiluted hydrogen peroxide soak"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80512,
+      question: "Which of the following is a standard postoperative instruction after periodontal surgery?",
+      options: [
+        "Resume vigorous exercise right after surgery",
+        "Limit physical activity and eat a soft diet",
+        "Brush the surgical site with a hard toothbrush",
+        "Avoid contacting the office under any condition"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80513,
+      question: "What can be used for short intervals in the first few hours to manage postoperative swelling?",
+      options: [
+        "A heating pad",
+        "A warm compress",
+        "An ice pack",
+        "A salt scrub"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80514,
+      question: "How should the surgical site be cleaned after periodontal surgery?",
+      options: [
+        "With an extra-soft toothbrush and warm water",
+        "With a stiff-bristled brush and cold water",
+        "With abrasive paste and vigorous scrubbing",
+        "With no cleaning of the area for two weeks"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80515,
+      question: "Approximately when should a postoperative visit be scheduled after the surgery?",
+      options: [
+        "About 7 hours after the surgery",
+        "About 7 weeks after the surgery",
+        "About 7 days after the surgery",
+        "About 7 months after the surgery"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80516,
+      question: "By what time after surgery is the wound usually well epithelialized?",
+      options: [
+        "By about 1 to 2 hours",
+        "By about 30 to 60 days",
+        "By about 6 to 12 months",
+        "By about 7 to 10 days"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80517,
+      question: "Why should dental floss be used carefully at the surgical site after healing begins?",
+      options: [
+        "To remove the periodontal dressing more quickly",
+        "To loosen and pull out any remaining sutures",
+        "To avoid damaging the healing junctional epithelium",
+        "To whiten the recently treated tooth surfaces"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80518,
+      question: "Which agents are mentioned for topical office treatment of postoperative hypersensitivity?",
+      options: [
+        "Potassium oxalate or ferric oxalate",
+        "Sodium fluoride and plain water only",
+        "Hydrogen peroxide and baking soda",
+        "Calcium carbonate and table salt"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80519,
+      question: "Compared with flap procedures, how do gingivectomy wounds heal?",
+      options: [
+        "They require far less time to heal",
+        "They heal at exactly the same speed",
+        "They never fully heal at all",
+        "They require slightly more time to heal"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80520,
+      question: "Which cells are the first to heal after periodontal surgery?",
+      options: [
+        "The epithelial cells",
+        "The bone-forming cells",
+        "The connective tissue cells",
+        "The periodontal ligament cells"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80521,
+      question: "When does osseous (bone) healing begin relative to the rest of the healing process?",
+      options: [
+        "Late in the healing process",
+        "Before any other tissue begins healing",
+        "At the very same moment as epithelium",
+        "It never begins after periodontal surgery"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80522,
+      question: "Where do new connective tissue attachments form after healing of an access flap procedure?",
+      options: [
+        "Only at the coronal margin of the pocket",
+        "Only at the most apical levels of the pocket",
+        "Evenly along the entire root surface",
+        "Only on the enamel of the tooth crown"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80523,
+      question: "Which procedures usually take more time for healing than other osseous procedures?",
+      options: [
+        "Simple gingivoplasty procedures",
+        "Bone grafting procedures",
+        "Routine scaling procedures",
+        "Suture removal procedures"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80524,
+      question: "Who may be the most appropriate team member to discuss surgical advantages and disadvantages with the client?",
+      options: [
+        "The dental laboratory technician",
+        "The front office receptionist",
+        "The insurance claims adjuster",
+        "The dental hygienist"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80525,
+      question: "Who is legally charged with informing the client of the risks, benefits, and alternatives to surgery?",
+      options: [
+        "The periodontist or dentist",
+        "The dental hygienist alone",
+        "The dental assistant alone",
+        "The office manager alone"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80526,
+      question: "On what does the success of periodontal surgery primarily depend?",
+      options: [
+        "Long-term plaque biofilm control by the client",
+        "The brand of sutures used in surgery",
+        "The color of the periodontal dressing",
+        "The time of day the surgery is done"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80527,
+      question: "Which task is commonly part of the postoperative care the dental hygienist provides?",
+      options: [
+        "Performing the initial surgical incisions",
+        "Legally obtaining the client's informed consent",
+        "Suture and dressing removal and follow-up wound care",
+        "Designing the flap and resecting the bone"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80528,
+      question: "Periodontal surgery is indicated only after more conservative nonsurgical treatments have proven insufficient.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80529,
+      question: "Scaling and root planing are effective in controlling periodontal disease to probing depths of approximately 4 mm.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80530,
+      question: "Attachment loss is always exactly equal to the probing pocket depth.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80531,
+      question: "Pockets that extend apically beyond the crest of the bone are called suprabony pockets.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80532,
+      question: "Age, in itself, is a contraindication to periodontal surgery.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80533,
+      question: "The major indication for gingivectomy is the presence of deep pockets with thick fibrous tissue.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80534,
+      question: "Ostectomy is the removal of only bony ledges or nonsupporting bone.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80535,
+      question: "Autografts are created from donor bone taken from the patient's own body.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80536,
+      question: "In guided-tissue regeneration, a barrier membrane is placed to exclude epithelial cells from the healing site.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80537,
+      question: "A periodontal dressing is capable of controlling active bleeding at the surgical site.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80538,
+      question: "The success of periodontal surgery primarily depends on long-term plaque biofilm control by the client.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80539,
+      question: "Osseous (bone) healing begins before the epithelium starts to heal after periodontal surgery.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    }
+  ],
+  "8. Plaque Biofilm and Disease Control": [
+    {
+      id: 80540,
+      question: "A client is considered more susceptible to gingival recession when the gingival tissues show which characteristic?",
+      options: [
+        "A thick zone of attached gingiva surrounds the teeth",
+        "A normal width of keratinized tissue is present",
+        "A minimal band of attached gingiva surrounds the teeth",
+        "A deep vestibule with broad attachment is present"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80541,
+      question: "Which finding is classified as a mucogingival condition that signals recession susceptibility?",
+      options: [
+        "Probing depths stay well above the cementoenamel line",
+        "Probing depths are limited to a shallow gingival cuff",
+        "Probing depths extend beyond the mucogingival junction",
+        "Probing depths remain entirely within the sulcus base"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80542,
+      question: "An absent or narrow band of keratinized tissue indicating a mucogingival problem is generally defined as a width of less than what value?",
+      options: [
+        "A keratinized band measuring nearly ten millimeters",
+        "A keratinized band measuring under two millimeters",
+        "A keratinized band measuring about six millimeters",
+        "A keratinized band measuring over four millimeters"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80543,
+      question: "Which item belongs to the 'positive history' category for recession susceptibility?",
+      options: [
+        "Stable gingival margins with no probing bleeding",
+        "Progressive gingival recession with inflammatory disease",
+        "Absence of any plaque-induced inflammatory changes",
+        "Healthy attachment levels maintained over many years"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80544,
+      question: "Which of the following is listed as a modifiable condition affecting periodontal risk?",
+      options: [
+        "Poor metabolic control of a client's diabetes",
+        "Permanently fixed alveolar bone morphology",
+        "Inherited variation in natural tooth shading",
+        "Genetically determined narrow jaw structure"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80545,
+      question: "Why is the presence of dental plaque biofilm clinically significant in periodontal disease?",
+      options: [
+        "It mainly prevents the onset of any gingival disease",
+        "It is essential to initiation of gingivitis and periodontitis",
+        "It only affects tooth color without harming tissue",
+        "It is unrelated to the progression of attachment loss"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80546,
+      question: "Studies on oral hygiene and periodontal disease have shown which relationship?",
+      options: [
+        "More plaque correlates with less prevalence of disease",
+        "Plaque control shows no measurable link to disease rates",
+        "Poor plaque control correlates with greater disease severity",
+        "Good plaque control correlates with greater disease spread"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80547,
+      question: "Dental plaque biofilms are best defined as which of the following?",
+      options: [
+        "Loose food particles cleared by a strong water spray",
+        "Mineralized deposits dissolved quickly by plain water",
+        "Soft debris wiped away easily with a cotton swab",
+        "Microbial accumulations on teeth not removed by rinsing"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80548,
+      question: "How does material alba differ from dental plaque biofilm?",
+      options: [
+        "It is loosely adherent and removed by a strong water spray",
+        "It is an organized colony shielded by a thick matrix",
+        "It is a mineralized layer bonded tightly to enamel",
+        "It is firmly attached and resists all mechanical action"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80549,
+      question: "The sticky polysaccharide matrix that biofilm microorganisms produce is known by which name?",
+      options: [
+        "The pellicle coating the freshly cleaned enamel",
+        "The lamina covering the junctional epithelium",
+        "The cementum lining the exposed root surface",
+        "The glycocalyx surrounding the bound microorganisms"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80550,
+      question: "What is the function of the channels and canals within the glycocalyx?",
+      options: [
+        "Storage of saliva to keep the enamel rehydrated",
+        "Exchange of nutrients and removal of microbial waste",
+        "Blockage of all fluid movement within the biofilm",
+        "Conversion of plaque directly into hard calculus"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80551,
+      question: "Besides nutrient exchange, the biofilm structure also provides which benefit to its microbes?",
+      options: [
+        "Protection from antimicrobial drugs and antiseptic rinses",
+        "Exposure of microbes to host defensive responses",
+        "Rapid clearance of microbes by salivary enzymes",
+        "Immediate destruction of microbes by other bacteria"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80552,
+      question: "Gingival inflammation from poor oral hygiene is best described as which type of process?",
+      options: [
+        "A specific infection from one identified pathogen",
+        "A sterile reaction unrelated to any bacterial load",
+        "A response limited to a single fungal organism",
+        "A nonspecific response to many bacterial species"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80553,
+      question: "In chronic periodontitis, the inflammatory process extends into which structures?",
+      options: [
+        "Salivary ducts, lymph nodes, and facial muscle",
+        "Enamel, dentinal tubules, and the pulp chamber",
+        "Periodontal ligament, cementum, and alveolar bone",
+        "Lip mucosa, hard palate, and the tongue surface"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80554,
+      question: "As biofilm matures in chronic periodontitis, the microbial population shifts toward which organisms?",
+      options: [
+        "Oxygen-dependent gram-positive filament forms",
+        "Acid-loving fungal species and viral particles",
+        "Gram-negative anaerobic rods and spirochetes",
+        "Gram-positive aerobic cocci and yeast cells"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80555,
+      question: "Which organism seems to be the most important pathogen in chronic periodontitis?",
+      options: [
+        "Lactobacillus species with their caries activity",
+        "Porphyromonas gingivalis with its virulence factors",
+        "Candida albicans with its surface adhesion",
+        "Streptococcus mutans with its acid production"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80556,
+      question: "Localized aggressive periodontitis usually involves destruction around which teeth?",
+      options: [
+        "The maxillary premolars and the third molars",
+        "The mandibular cuspids and the lateral teeth",
+        "The primary canines and the second molars",
+        "The permanent incisors and the first molars"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80557,
+      question: "Localized aggressive periodontitis typically occurs in which type of client?",
+      options: [
+        "Middle-aged smokers with widespread bone loss",
+        "Otherwise healthy children or teenagers with little plaque",
+        "Older adults with heavy plaque and calculus deposits",
+        "Infants with primary teeth and high caries activity"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80558,
+      question: "In some populations, which organism has been implicated as a major pathogen in aggressive periodontitis?",
+      options: [
+        "Streptococcus salivarius as the dominant colonizer",
+        "Veillonella parvula as the primary aerobic species",
+        "Aggregatibacter actinomycetemcomitans as a key pathogen",
+        "Neisseria sicca as the chief surface organism"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80559,
+      question: "How does generalized aggressive periodontitis differ from the localized form?",
+      options: [
+        "Destruction occurs only on the primary dentition",
+        "Destruction is confined to a single isolated tooth",
+        "Destruction involves most or all of the dentition",
+        "Destruction spares the molars and the incisors"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80560,
+      question: "Which set of clinical features is characteristic of necrotizing ulcerative gingivitis?",
+      options: [
+        "Painless swelling, mild redness, and slow recession",
+        "Firm tissue, light bleeding, and minimal discomfort",
+        "Bluish staining, dry mouth, and gradual tooth wear",
+        "Necrotic papillae, severe pain, and significant halitosis"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80561,
+      question: "In NUG and NUP lesions, gram-negative rods account for approximately what share of the bacterial population?",
+      options: [
+        "More than half of the total bacterial population",
+        "Less than a tenth of the total bacterial load",
+        "About a quarter of the total bacterial count",
+        "Almost none of the total bacterial community"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80562,
+      question: "Which organisms are present in large numbers in NUG and NUP lesions?",
+      options: [
+        "Gram-positive cocci and lactobacillus organisms",
+        "Aerobic streptococci and yeast organisms",
+        "Filamentous actinomyces and viral organisms",
+        "Spirochetes and Prevotella intermedia organisms"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80563,
+      question: "The virulence of a periodontal microorganism is best defined as which of the following?",
+      options: [
+        "Its ability to cause disease in the host tissues",
+        "Its ability to mineralize into hardened calculus",
+        "Its ability to neutralize all host immune cells",
+        "Its ability to repair damaged periodontal fibers"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80564,
+      question: "Virulence of periodontal pathogens is generally related to which three factors?",
+      options: [
+        "Speed, fragrance, and tolerance to cold liquids",
+        "Proximity, evading defenses, and destroying tissue",
+        "Color, hardness, and resistance to staining agents",
+        "Texture, density, and attraction to enamel surface"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80565,
+      question: "Most destruction of periodontal tissue is actually produced by which source?",
+      options: [
+        "Direct mechanical abrasion from a stiff toothbrush",
+        "Chemical erosion caused by acidic food and drink",
+        "Thermal injury from very hot beverages and meals",
+        "Inflammation generated by the human host cells"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80566,
+      question: "Tissue destruction in periodontitis occurs largely in response to molecules from which bacterial groups?",
+      options: [
+        "The blue and yellow complexes of bacteria",
+        "The red and orange complexes of bacteria",
+        "The green and white complexes of bacteria",
+        "The gray and silver complexes of bacteria"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80567,
+      question: "Which enzyme produced by Porphyromonas gingivalis degrades collagen in the tissues?",
+      options: [
+        "Lactase that breaks down milk sugars",
+        "Lipase that breaks down ingested fats",
+        "Collagenase that breaks down tissue collagen",
+        "Amylase that breaks down dietary starches"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80568,
+      question: "As supragingival plaque ages, it becomes dominated by which microbial species?",
+      options: [
+        "Fungal species linked to surface discoloration",
+        "Gram-negative species linked to subgingival flora",
+        "Gram-positive species linked to enamel health",
+        "Aerobic species linked to reduced disease risk"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80569,
+      question: "Mature plaque biofilm is best described structurally as which of the following?",
+      options: [
+        "A thin smooth coating without any structure",
+        "A uniform layer with no internal open spaces",
+        "A heterogeneous mass with fluid-filled channels",
+        "A dry crystalline shell with sealed surfaces"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80570,
+      question: "Which of the following is listed as a goal of plaque biofilm control for periodontal clients?",
+      options: [
+        "Replacement of all daily mechanical cleaning",
+        "Maintenance of gingival and periodontal health",
+        "Elimination of the need for any recall visits",
+        "Avoidance of any client education or motivation"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80571,
+      question: "When teaching proper plaque control, which approach is more successful?",
+      options: [
+        "Limiting all contact to a single brief session",
+        "Giving brushing and flossing directions only",
+        "Avoiding any discussion of the client's habits",
+        "Incorporating behavioral techniques into instruction"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80572,
+      question: "Why should plaque removal be performed daily?",
+      options: [
+        "To convert the biofilm into protective calculus",
+        "To keep the biofilm in its initial stage of formation",
+        "To allow the biofilm to mature into a stable layer",
+        "To replace the need for any professional cleaning"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80573,
+      question: "Why is professional cleaning at regular intervals necessary for periodontal clients?",
+      options: [
+        "Home care fully removes all subgingival deposits",
+        "Subgingival biofilm cannot reform once removed",
+        "Professional visits replace all daily home care",
+        "Subgingival biofilm in deep pockets is inaccessible at home"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80574,
+      question: "Whose responsibility is the daily plaque biofilm control program?",
+      options: [
+        "The client carries out the daily control program",
+        "The dentist completes the daily home routine",
+        "The hygienist performs all daily home cleaning",
+        "The lab technician manages the daily program"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80575,
+      question: "Root caries becomes a major threat to teeth under which condition?",
+      options: [
+        "When saliva flow increases around the teeth",
+        "When attachment loss and recession expose the roots",
+        "When the gingiva fully covers the root again",
+        "When enamel thickens over the crown surface"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80576,
+      question: "Gingival and periodontal health, once restored, can be maintained only with what?",
+      options: [
+        "Active client participation in daily plaque removal",
+        "A single course of antibiotics taken at recall",
+        "Periodic radiographs taken without daily care",
+        "Occasional professional cleaning with no home care"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80577,
+      question: "Standard mechanical plaque removal includes a toothbrush augmented by what?",
+      options: [
+        "Agents that dissolve plaque without any brushing",
+        "Rinses that replace all interdental cleaning needs",
+        "Tablets that harden plaque for easier removal",
+        "Devices that reach interproximal and difficult areas"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80578,
+      question: "Today's toothbrush is considered the modern version of which earlier device?",
+      options: [
+        "The bone pick used to dislodge food debris",
+        "The metal scaler once used for tooth scraping",
+        "The African twig or chew stick used for cleaning",
+        "The cloth strip once wrapped around fingers"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80579,
+      question: "When did nylon-bristle brushes make toothbrushes affordable for everyone?",
+      options: [
+        "During the nineteen eighties with rubber tufts",
+        "During the late twentieth century with plastic",
+        "During the nineteen thirties with nylon bristles",
+        "During the early seventeen hundreds with silk"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80580,
+      question: "Who proposed the optimal characteristics of toothbrushes, studying bristle stiffness and trim?",
+      options: [
+        "Dr. Charles C. Bass studied brush characteristics",
+        "Dr. Alfred Fones founded hygiene education",
+        "Dr. Greene V. Black defined cavity preparations",
+        "Dr. Willoughby Miller described caries theory"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80581,
+      question: "What does current evidence say about toothbrush designs?",
+      options: [
+        "Manual designs are proven useless for cleaning",
+        "No design is proven superior to another design",
+        "Only powered designs can remove any plaque",
+        "One specific design clearly outperforms the rest"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80582,
+      question: "The Fone's toothbrushing technique activates the filaments in which motion, and for whom is it indicated?",
+      options: [
+        "A back-and-forth motion, indicated for athletes",
+        "A vertical motion, indicated for older adults",
+        "A diagonal motion, indicated for orthodontics",
+        "A circular motion, indicated for young children"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80583,
+      question: "In the roll technique, where are the bristles first placed before the handle is turned?",
+      options: [
+        "On the gingiva, then rolled along the teeth",
+        "Against the palate, then dragged toward teeth",
+        "Under the tongue, then swept toward the cheek",
+        "On the occlusal table, then pressed downward"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80584,
+      question: "In the Charters technique, the bristle ends are pointed in which direction?",
+      options: [
+        "Away from the gingiva toward the interproximal areas",
+        "Down toward the root apex below the gumline",
+        "Flat against the occlusal surface of the molars",
+        "Straight into the gingival sulcus at a right angle"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80585,
+      question: "How does the Charters method differ from the Bass and Stillman methods?",
+      options: [
+        "Bristles are dragged firmly across the gumline",
+        "Bristles are directed toward the occlusal or incisal edge",
+        "Bristles are held perpendicular to the long axis",
+        "Bristles are directed straight into the deep sulcus"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80586,
+      question: "For which clinical situations is the Charters method especially indicated?",
+      options: [
+        "Primary teeth, sealants, and shallow grooves",
+        "Edentulous arches, dentures, and bare ridges",
+        "Orthodontics, surgical sites, and fixed prosthetics",
+        "Implant surgery only, with no other indications"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80587,
+      question: "In the Stillman technique, the bristles are placed pointing apically in order to do what?",
+      options: [
+        "Maximize puncture while forcing bristles into bone",
+        "Minimize puncture while pressure causes tissue blanching",
+        "Press directly into the occlusal pits and grooves",
+        "Avoid all gingival contact during the brushing"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80588,
+      question: "In the Darby method, the filaments are placed and angled most similar to which other technique?",
+      options: [
+        "The Fone's method, with wide circular sweeps",
+        "The roll method, with slow rotating handle turns",
+        "The Bass method, with short vibratory strokes used",
+        "The scrub method, with broad horizontal strokes"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80589,
+      question: "In the Bass technique, the bristles are placed at what angle to the long axis of the teeth?",
+      options: [
+        "A ninety degree angle, with scrubbing motion used",
+        "A forty-five degree angle, with vibratory motion used",
+        "A thirty degree angle, with rolling motion used",
+        "A sixty degree angle, with tapping motion used"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80590,
+      question: "Why is the Bass method the most commonly recommended toothbrushing technique?",
+      options: [
+        "It emphasizes sulcular cleaning at the gingival margin",
+        "It removes only the surface stain from the enamel",
+        "It requires no movement of the brush at all",
+        "It avoids contact with the gingiva during use"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80591,
+      question: "Electric toothbrushes with sonic components create which effect that boosts proximal cleaning?",
+      options: [
+        "Hydrodynamic shearing forces of water that aid removal",
+        "Static electric fields that loosen surface stains",
+        "Heated air streams that dry the proximal areas",
+        "Magnetic pulses that pull plaque from enamel"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80592,
+      question: "Which statement about a sonic powered toothbrush is accurate?",
+      options: [
+        "It cleans deep pockets better than scaling does",
+        "It removes calculus more effectively than scaling",
+        "It is not a substitute for interproximal cleaning devices",
+        "It fully replaces the need for any flossing aids"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80593,
+      question: "Which interdental aids are recommended for thorough interproximal plaque removal?",
+      options: [
+        "Salt rinses, baking soda, and plain water jets",
+        "Wax sheets, foam tips, and soft sponges",
+        "Dental floss, interdental brushes, and toothpicks",
+        "Cotton swabs, gauze pads, and paper strips"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80594,
+      question: "What is a recognized limitation of dental floss for plaque control?",
+      options: [
+        "It cleans furcation areas better than any brush",
+        "It removes calculus from deep periodontal pockets",
+        "It reaches every developmental groove on the root",
+        "It misses root grooves and cannot clean furcations"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80595,
+      question: "For proper flossing, approximately how long should the piece of floss be?",
+      options: [
+        "About eighteen inches long for adequate handling",
+        "About forty inches long for the entire arch",
+        "About four inches long for a single tooth use",
+        "About two inches long held tightly in one hand"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80596,
+      question: "A floss threader, used to clean under a bridge, is best described as which kind of device?",
+      options: [
+        "A rotating brush that polishes the pontic base",
+        "A stiff metal pick that scrapes the bridge surface",
+        "A rubber wedge that separates the abutment teeth",
+        "A needlelike device that carries floss under contacts"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80597,
+      question: "Regarding reusable floss tools, which working-end shape works better in the anterior areas?",
+      options: [
+        "The C-shaped end performs better in anterior areas",
+        "The flat-tip end performs better in anterior areas",
+        "The looped end performs better in anterior areas",
+        "The U-shaped end performs better in anterior areas"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80598,
+      question: "Which materials are mentioned as alternatives to dental floss for large interproximal spaces?",
+      options: [
+        "Stiff plastic rods such as sticks or wedges",
+        "Hard metal wires such as picks or probes",
+        "Coarse paper such as towels or napkin edges",
+        "Thicker materials such as yarn or gauze strips"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80599,
+      question: "A dental water jet works by producing what to flush the gingival crevice or pocket?",
+      options: [
+        "A fine mist of powder directed at the gumline",
+        "A continuous flow of thick gel into the sulcus",
+        "A pulsating stream of fluid with hydrokinetic action",
+        "A steady jet of compressed air without water"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80600,
+      question: "Compared with other home aids, the dental water jet has which advantage?",
+      options: [
+        "It reaches deeper into the pocket than a toothbrush",
+        "It eliminates the need for daily mechanical care",
+        "It replaces the need for any scaling procedures",
+        "It removes all subgingival calculus completely"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80601,
+      question: "Interdental brushes are particularly useful for clients with which feature?",
+      options: [
+        "Closed embrasures with tight tooth contacts",
+        "Shallow sulci with no developmental grooves",
+        "Attachment loss with long exposed root surfaces",
+        "Intact attachment with no exposed root surfaces"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80602,
+      question: "How do toothpicks compare with floss for interproximal cleaning?",
+      options: [
+        "They are unpopular but more effective than floss",
+        "They replace floss completely for all clients",
+        "They are popular but less effective than floss",
+        "They are equal to floss for every cleaning task"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80603,
+      question: "Specially designed triangular interdental cleaners are typically made from which material?",
+      options: [
+        "A soft wood such as balsa shaped into a triangle",
+        "A dense ceramic such as porcelain ground to a point",
+        "A rigid glass such as quartz cut into a prism",
+        "A hard metal such as steel formed into a wedge"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80604,
+      question: "What is one advantage of plastic toothpick-like devices over wooden picks?",
+      options: [
+        "They dissolve in the mouth after a single use",
+        "They harden plaque so it can be brushed away",
+        "They release fluoride directly into the enamel",
+        "They can be rinsed and reused rather than discarded"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80605,
+      question: "How is a rubber-tip stimulator used between the teeth?",
+      options: [
+        "The tip is held still against the tongue for a minute",
+        "The tip is dragged flat across the occlusal surface",
+        "The tip is worked proximally in a small circular motion",
+        "The tip is jabbed straight down into the deep pocket"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80606,
+      question: "Which factors are described as the keys to success with mechanical plaque control?",
+      options: [
+        "Generalization, random tools, and no follow-up",
+        "Standardization, complex tools, and strict rules",
+        "Automation, costly devices, and minimal contact",
+        "Individualization, easy tools, and reinforcement"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80607,
+      question: "In supragingival irrigation, how is the tip positioned to deliver the water?",
+      options: [
+        "Flat along the chewing surface of the molars",
+        "Angled away from the teeth toward the cheek",
+        "At right angles to the interdental papillae briefly",
+        "Deep beneath the gingiva into the pocket base"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80608,
+      question: "Subgingival irrigation extends the cleansing action beyond approximately what depth?",
+      options: [
+        "Beyond the rarely reached ten-millimeter depth",
+        "Beyond the generally accepted three-millimeter depth",
+        "Beyond the routine eight-millimeter pocket depth",
+        "Beyond the typical six-millimeter pocket depth"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80609,
+      question: "Oral irrigation is described as especially useful for which clients?",
+      options: [
+        "Those who already floss perfectly every single day",
+        "Those who refuse any form of daily home care",
+        "Those who have no signs of gingivitis at all",
+        "Those who cannot or will not use interproximal devices"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80610,
+      question: "What is the role of chemical agents in a plaque control program?",
+      options: [
+        "They fully replace the need for any mechanical care",
+        "They work only when no brushing is performed",
+        "They assist but do not substitute for mechanical care",
+        "They harm the tissues more than they help control"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80611,
+      question: "In chemical plaque control, the term 'substantivity' refers to which property?",
+      options: [
+        "Ability to dissolve calculus from the tooth surface",
+        "Ability to adhere and be released slowly over time",
+        "Ability to kill all bacteria within a few seconds",
+        "Ability to whiten enamel after a single rinse"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80612,
+      question: "Chlorhexidine, the most effective antibacterial agent available, is sold by prescription at what concentration?",
+      options: [
+        "A 0.50% chlorhexidine digluconate foam formulation",
+        "A 0.12% chlorhexidine digluconate rinse formulation",
+        "A 2.00% chlorhexidine digluconate gel formulation",
+        "A 5.00% chlorhexidine digluconate paste formulation"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80613,
+      question: "Which is a commonly reported side effect of chlorhexidine mouthwash?",
+      options: [
+        "Complete loss of all normal taste forever",
+        "Rapid dissolving of existing calculus deposits",
+        "Permanent whitening of the enamel surface",
+        "Dark brown staining of the teeth over time"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80614,
+      question: "What is the recommended regimen for full-strength chlorhexidine rinsing?",
+      options: [
+        "Once per week for five minutes using fifty milliliters",
+        "Five times daily for ten seconds using two milliliters",
+        "Once per month for one minute using thirty milliliters",
+        "Twice per day for thirty seconds using fifteen milliliters"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80615,
+      question: "Essential-oil mouthwashes that reduce plaque contain which ingredients?",
+      options: [
+        "Thymol, eucalyptol, menthol, and methyl-salicylate",
+        "Glycerin, sorbitol, xylitol, and saccharin agents",
+        "Chlorine, iodine, peroxide, and ammonia agents",
+        "Calcium, phosphate, fluoride, and pyrophosphate"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80616,
+      question: "Triclosan, a phenolic compound, is available without prescription in which form?",
+      options: [
+        "Prescription tablets swallowed once a day",
+        "Office-only gels applied during scaling",
+        "Toothpaste formulations with antiplaque effects",
+        "Injectable solutions placed into the pockets"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80617,
+      question: "Which is the active ingredient in commonly available quaternary ammonium mouthwashes?",
+      options: [
+        "Sodium bicarbonate as the active ingredient",
+        "Hydrogen peroxide as the active ingredient",
+        "Calcium carbonate as the active ingredient",
+        "Cetylpyridinium chloride as the active ingredient"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80618,
+      question: "What is true about quaternary ammonium compounds regarding the ADA?",
+      options: [
+        "They have limited substantivity and lack ADA acceptance",
+        "They carry an ADA seal for gingivitis control",
+        "They are the only agents endorsed by the ADA",
+        "They have strong substantivity and full ADA approval"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80619,
+      question: "Stannous fluoride works against bacteria by doing which of the following?",
+      options: [
+        "Increasing acid production by the oral microbes",
+        "Dissolving existing calculus from the gumline",
+        "Boosting bacterial growth on the tooth surface",
+        "Altering cell metabolism and cell adhesion properties"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80620,
+      question: "What is the typical strength of stannous fluoride for daily home use?",
+      options: [
+        "A 0.4% stannous fluoride gel or toothpaste form",
+        "A 0.01% stannous fluoride spray for daily use",
+        "A 5.0% stannous fluoride rinse for daily use",
+        "A 2.0% stannous fluoride foam for daily use"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80621,
+      question: "Meticulous supragingival plaque control fails to remove plaque in pockets deeper than about what depth?",
+      options: [
+        "Pockets deeper than approximately two millimeters",
+        "Pockets deeper than approximately five millimeters",
+        "Pockets deeper than approximately seven millimeters",
+        "Pockets deeper than approximately nine millimeters"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80622,
+      question: "The flushing or irrigating of periodontal pockets with an antimicrobial agent is referred to as what?",
+      options: [
+        "Polishing spreading the agent across the enamel",
+        "Lavage placing the agent at the site of infection",
+        "Scaling removing the agent from the tooth surface",
+        "Probing measuring the agent within the sulcus"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80623,
+      question: "Evidence about home-applied antimicrobial irrigation suggests which finding?",
+      options: [
+        "Home irrigation has no effect on bleeding sites",
+        "Daily home irrigation exceeds post-scaling treatment effect",
+        "Office treatment fully replaces daily home care",
+        "Post-scaling treatment far exceeds daily home use"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80624,
+      question: "Anticalculus agents in tartar-control toothpastes commonly contain which active ingredients?",
+      options: [
+        "Abrasive grains that scrape away the calculus",
+        "Soluble pyrophosphates that inhibit crystal formation",
+        "Heavy oils that coat and soften the deposits",
+        "Strong acids that dissolve the enamel surface"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80625,
+      question: "What is the established health benefit of anticalculus agents for periodontal clients?",
+      options: [
+        "Their health benefit has not been clearly established",
+        "Their benefit reverses existing attachment loss",
+        "Their benefit eliminates the need for any scaling",
+        "Their benefit cures periodontal disease completely"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80626,
+      question: "Where does knowledge and behavioral change for plaque control begin?",
+      options: [
+        "With education the dental hygienist provides to clients",
+        "With medication prescribed by the family physician",
+        "With radiographs taken by the imaging technician",
+        "With surgery completed by the periodontal specialist"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80627,
+      question: "What is described as the primary setting for patient education in the dental hygiene profession?",
+      options: [
+        "An online video used instead of any appointments",
+        "A group lecture given once to every new client",
+        "A mailed brochure replacing all in-person contact",
+        "A chairside activity letting patients take responsibility"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80628,
+      question: "Dental plaque biofilm is essential to the initiation and progression of gingivitis and periodontitis.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80629,
+      question: "Material alba is firmly attached to the teeth and cannot be removed by a strong water spray.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80630,
+      question: "In chronic periodontitis, clients have higher proportions of anaerobes, gram-negative organisms, and spirochetes.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80631,
+      question: "The Charters toothbrushing method directs the bristles straight into the gingival sulcus like the Bass method.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80632,
+      question: "The Bass method emphasizes sulcular cleaning and is the most commonly recommended toothbrushing technique.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80633,
+      question: "Chemical agents are an acceptable substitute for good mechanical oral hygiene practices.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80634,
+      question: "Chlorhexidine is currently the most effective antibacterial agent available for plaque control.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80635,
+      question: "Dental floss can adequately clean furcation areas and root surface grooves.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80636,
+      question: "Quaternary ammonium compounds have limited substantivity and are not accepted by the American Dental Association.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    }
+  ],
+  "9. Basic Implant Surgical Procedures": [
+    {
+      id: 80637,
+      question: "Where can most implant surgical procedures be performed, and using what anesthesia?",
+      options: [
+        "In a hospital setting under general anesthesia",
+        "In an ICU using deep conscious sedation",
+        "In the dental office using local anesthesia",
+        "In an operating room under regional blockade"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80638,
+      question: "What should be obtained from the patient before an implant surgical procedure?",
+      options: [
+        "A verbal agreement noted in the daily log",
+        "A signed waiver of all surgical liability",
+        "A written, informed consent for the procedure",
+        "A witnessed photograph of the surgical site"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80639,
+      question: "How should the implant surgical site be managed during the procedure?",
+      options: [
+        "Kept moist with continuous warm saline rinsing",
+        "Left open to air to encourage faster clotting",
+        "Packed with gauze and isolated with a clamp",
+        "Kept aseptic with the patient prepared and draped"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80640,
+      question: "How should implant sites be prepared with respect to the bone?",
+      options: [
+        "With rapid high-torque drilling to save chair time",
+        "With gentle, atraumatic techniques avoiding overheating",
+        "With dry drilling to keep the field clearly visible",
+        "With forceful tapping to compress the bone walls"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80641,
+      question: "What average annual crestal bone loss is expected after the first year in function?",
+      options: [
+        "1.0 mm or more per year after the first year",
+        "0.5 mm on average per year after restoration",
+        "0.1 mm or less per year after the first year",
+        "2.0 mm on average during each year of loading"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80642,
+      question: "What is the consequence of drilling bone without adequate cooling?",
+      options: [
+        "Faster integration because of improved blood flow",
+        "Stronger initial stability from compacted bone walls",
+        "Reduced bacterial load because of the heat produced",
+        "Excessive heat that injures bone and raises failure risk"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80643,
+      question: "Which bone type offers a much greater surface area for bone-to-implant contact?",
+      options: [
+        "Cancellous bone offers greater contact than compact bone",
+        "Marrow tissue offers greater contact than cortical bone",
+        "Compact bone offers greater contact than cancellous bone",
+        "Trabecular bone offers greater contact than dense bone"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80644,
+      question: "When are the best implant results achieved regarding bone-to-implant contact?",
+      options: [
+        "When the contact is intimate at the time of placement",
+        "When a small gap is left to allow blood pooling",
+        "When contact is loose to permit early micromovement",
+        "When the contact is delayed until second-stage surgery"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80645,
+      question: "Of what kind of material must implants be made to achieve osseointegration?",
+      options: [
+        "A sterile and biocompatible implant material",
+        "A flexible and partially resorbable surface coating",
+        "A porous and intentionally non-sterile alloy",
+        "A heat-treated and bacteriostatic polymer base"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80646,
+      question: "How long should implants generally heal without loading or micromovement?",
+      options: [
+        "2 to 4 or 4 to 6 months depending on conditions",
+        "1 to 2 weeks regardless of the bone quality",
+        "8 to 12 months in essentially every patient",
+        "24 to 48 hours before functional restoration"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80647,
+      question: "With what should implants be placed at the time of surgery?",
+      options: [
+        "Slight rotational play to ease later removal",
+        "Visible mobility to confirm passive seating",
+        "Good initial stability within the prepared site",
+        "Loose fit to reduce pressure on the bone"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80648,
+      question: "In a one-stage approach, what happens to the implant or abutment at placement?",
+      options: [
+        "It is buried fully beneath the periosteal flap",
+        "It is sealed under a thick connective tissue graft",
+        "It is left exposed only at the second appointment",
+        "It emerges through the mucoperiosteum/gingival tissue"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80649,
+      question: "What characterizes a two-stage implant placement at the time of surgery?",
+      options: [
+        "The implant top and cover screw are fully covered",
+        "The implant top is loaded with a temporary crown",
+        "The implant is left protruding above the tissue",
+        "The abutment is connected before flap closure"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80650,
+      question: "Why does a one-stage surgical approach simplify the overall procedure?",
+      options: [
+        "A surgical guide is no longer required for it",
+        "A longer healing period is automatically avoided",
+        "A cover screw never needs to be placed at all",
+        "A second-stage exposure surgery is not necessary"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80651,
+      question: "For which implant sites are longer healing periods indicated?",
+      options: [
+        "Sites with dense, high-quality cortical bone",
+        "Sites that have less surrounding bone support",
+        "Sites with an altered surface microtopography",
+        "Sites restored with a one-stage approach only"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80652,
+      question: "For which implants are shorter healing periods indicated?",
+      options: [
+        "Those placed in sites with very limited bone support",
+        "Those positioned within freshly grafted sinus bone",
+        "Those inserted into type III and type IV soft bone",
+        "Those in good bone or with altered surface microtopography"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80653,
+      question: "Which incision/flap design is the most common for implant placement?",
+      options: [
+        "The vertical releasing flap at the line angle",
+        "The palatal pedicle flap raised from the rugae",
+        "The semilunar coronally repositioned flap design",
+        "The crestal flap design along the ridge"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80654,
+      question: "Where is the crestal incision made relative to the keratinized mucosa?",
+      options: [
+        "Buccal to the ridge, sparing the keratinized mucosa",
+        "Within the vestibule, below the keratinized mucosa",
+        "Along the ridge crest, bisecting the keratinized mucosa",
+        "Lingual to the ridge, excising the keratinized mucosa"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80655,
+      question: "To what level is a full-thickness flap typically raised?",
+      options: [
+        "Only to the gingival margin of adjacent teeth",
+        "Up to or slightly beyond the mucogingival junction",
+        "Well past the depth of the buccal vestibule",
+        "Just to the contact point of the cover screw"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80656,
+      question: "What is used to prepare the osteotomy site precisely and incrementally?",
+      options: [
+        "A single wide drill used in one rapid pass",
+        "A rotary file paired with continuous tapping",
+        "A series of drills used in sequence on the site",
+        "A laser tip directed along the planned axis"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80657,
+      question: "What is the purpose of a surgical guide or stent during placement?",
+      options: [
+        "To irrigate the osteotomy during all drilling steps",
+        "To measure crestal bone loss after final loading",
+        "To retract the flap away from the bony crest",
+        "To direct proper positioning of the implant throughout"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80658,
+      question: "What is the role of the small, round bur in site preparation?",
+      options: [
+        "To make the initial penetration into the bone",
+        "To finish and thread the completed osteotomy",
+        "To countersink the implant platform below bone",
+        "To smooth the cortical edges before suturing"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80659,
+      question: "To what depth is each marked site prepared with the round drill?",
+      options: [
+        "1 to 2 mm, breaking through the cortical bone",
+        "5 to 6 mm, stopping short of the cortical plate",
+        "8 to 10 mm, fully reaching the planned apex",
+        "0.1 to 0.5 mm, only scoring the surface lightly"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80660,
+      question: "How are implants inserted into the prepared osteotomy?",
+      options: [
+        "With a high-speed turbine running under heavy water",
+        "With a surgical mallet driving them in directly",
+        "With a slow-speed handpiece or by hand with a wrench",
+        "With finger pressure alone after widening the site"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80661,
+      question: "How must insertion of the implant relate to the osteotomy site?",
+      options: [
+        "It must follow the same path or line as the osteotomy",
+        "It must cross the osteotomy at a slight buccal angle",
+        "It must enter from a more lingual starting position",
+        "It must rotate against the direction of the osteotomy"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80662,
+      question: "When placing multiple implants, what helps guide the path of insertion?",
+      options: [
+        "Loading the first implant with a temporary crown",
+        "Removing the surgical stent before final seating",
+        "Using guide pins in the other prepared sites",
+        "Leaving each osteotomy open for one full week"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80663,
+      question: "What is one of the most important aspects of flap management at closure?",
+      options: [
+        "Tension-free primary closure with good approximation",
+        "High-tension closure to compress the graft firmly",
+        "Open healing left without any sutures at all",
+        "Loose closure that intentionally exposes the bone"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80664,
+      question: "Which suturing technique consistently provides the desired closure result?",
+      options: [
+        "A single continuous locking suture along the crest",
+        "A purse-string suture tightened around the screw",
+        "A figure-eight suture placed across the papillae",
+        "Alternating horizontal mattress and interrupted sutures"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80665,
+      question: "Why is a resorbable suture sometimes simpler for patient management?",
+      options: [
+        "It always produces a stronger long-term closure",
+        "It does not require removal at the postoperative visit",
+        "It allows the flap to be left partially open",
+        "It prevents any bacterial accumulation at the site"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80666,
+      question: "When can antibiotics be prescribed after implant surgery?",
+      options: [
+        "Only after the implant has fully osseointegrated",
+        "Routinely for every uncomplicated single implant",
+        "Only once peri-implantitis has clearly developed",
+        "If the surgery is extensive or the patient is compromised"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80667,
+      question: "What postoperative instruction is given regarding cold packs?",
+      options: [
+        "Apply cold packs over the first 24 to 48 hours",
+        "Apply warm packs over the first 24 to 48 hours",
+        "Apply cold packs continuously for one full week",
+        "Apply cold packs only after the first three days"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80668,
+      question: "In the one-stage nonsubmerged protocol, how are implants kept during healing?",
+      options: [
+        "Left unloaded and undisturbed, similar to two-stage",
+        "Loaded immediately with a definitive prosthesis",
+        "Tested for mobility at each weekly recall visit",
+        "Splinted to adjacent teeth under chewing load"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80669,
+      question: "Why is a second-stage exposure surgery necessary in some cases?",
+      options: [
+        "Because the implant was loaded right after placement",
+        "Because the implant emerged through the tissue already",
+        "Because the cover screw was never originally placed",
+        "Because the implant was placed using a submerged protocol"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80670,
+      question: "What does a long-term study indicate about keratinized tissue around implants?",
+      options: [
+        "Its presence consistently increases the failure rate",
+        "Its absence improves access for daily oral hygiene",
+        "Its removal speeds healing after second-stage surgery",
+        "Its presence strongly correlates with tissue health"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80671,
+      question: "Which is an objective of second-stage implant surgery?",
+      options: [
+        "To expose the implant without damaging surrounding bone",
+        "To deliberately reduce the keratinized tissue band",
+        "To load the implant immediately upon exposure",
+        "To remove the cover screw and leave the site open"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80672,
+      question: "Where is a simple circular punch incision appropriate at exposure?",
+      options: [
+        "In areas where keratinized tissue is clearly lacking",
+        "In sites with a fully resorbed buccal bone plate",
+        "In areas with sufficient zones of keratinized tissue",
+        "In regions overlying a perforated sinus membrane"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80673,
+      question: "What should be avoided during oral hygiene after second-stage surgery?",
+      options: [
+        "Touching the implant with a soft-bristled brush",
+        "Dislodging any repositioned or grafted soft tissues",
+        "Rinsing the area with any antimicrobial solution",
+        "Cleaning the adjacent natural teeth near the site"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80674,
+      question: "Where is the coronal aspect of a one-stage implant or abutment placed?",
+      options: [
+        "About 2 to 3 mm above the crest of the bone",
+        "About 2 to 3 mm below the crest of the bone",
+        "Exactly level with the crest of the alveolar bone",
+        "About 5 to 6 mm above the crest of the bone"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80675,
+      question: "How are the keratinized flap edges closed in the one-stage approach?",
+      options: [
+        "With a continuous mattress suture across the ridge",
+        "With single interrupted sutures around the implant",
+        "With surgical adhesive applied over the flap edges",
+        "With a deep buried suture beneath the periosteum"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80676,
+      question: "When is scalloping around the implant useful for flap adaptation?",
+      options: [
+        "When keratinized tissue is abundant at the site",
+        "When keratinized tissue is completely absent there",
+        "When the buccal bone plate has already resorbed",
+        "When the implant is buried under a submerged flap"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80677,
+      question: "How does one-stage postoperative care differ from the two-stage approach?",
+      options: [
+        "The implant is loaded immediately with a final crown",
+        "The flap is intentionally left open for drainage",
+        "The patient avoids all oral hygiene for two weeks",
+        "The cover screw or healing abutment is exposed to the mouth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80678,
+      question: "What does implant survival describe?",
+      options: [
+        "An implant meeting every defined success criterion",
+        "An implant fully free of any radiographic bone loss",
+        "An implant connected to a functioning final prosthesis",
+        "An implant still in place regardless of any problems"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80679,
+      question: "What are sleepers in implant terminology?",
+      options: [
+        "Implants that have lost all osseointegration",
+        "Implants placed only for orthodontic anchorage",
+        "Implants not connected to a restoration or function",
+        "Implants removed and reinserted at a later date"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80680,
+      question: "Which is a criterion used to define implant success?",
+      options: [
+        "The implant remains in place despite ongoing symptoms",
+        "The original treatment plan is performed without complications",
+        "The implant is present even if it is not functioning",
+        "The implant survives although the tissues are inflamed"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80681,
+      question: "What percentage of studies over the last 5 years reported technical complications?",
+      options: [
+        "About 60% to 80% of the reviewed studies",
+        "About 10% to 20% of the reviewed studies",
+        "About 40% to 60% of the reviewed studies",
+        "About 90% to 100% of the reviewed studies"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80682,
+      question: "Which of the following is a technical implant complication?",
+      options: [
+        "Inflammation of the peri-implant soft tissues",
+        "Abutment or occlusal screw loosening or fracture",
+        "Loss of supporting bone around the implant",
+        "Recession of the marginal gingival tissues"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80683,
+      question: "Which factors are listed as risks contributing to implant failure?",
+      options: [
+        "Fluoride use, sealants, and frequent recalls",
+        "Young age, soft diet, and good oral hygiene",
+        "Resorbable sutures, cold packs, and antibiotics",
+        "Smoking, diabetes, and periodontal disease"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80684,
+      question: "Approximately how many types of dental implants are available?",
+      options: [
+        "Fewer than 50 different types of dental implants",
+        "Roughly 200 different types of dental implants",
+        "About 600 different types of dental implants",
+        "More than 1300 different types of dental implants"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80685,
+      question: "What is often true of new implant surfaces and designs when introduced?",
+      options: [
+        "They appear with limited or no data on complications",
+        "They appear only after decades of clinical trials",
+        "They appear with complete long-term outcome data",
+        "They appear after mandatory ten-year human studies"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80686,
+      question: "Which is listed among surgical complications of implant placement?",
+      options: [
+        "Veneer fracture and screw access hole loss",
+        "Injury to nerves and iatrogenic jaw fracture",
+        "Abutment loosening and prosthesis fracture",
+        "Color mismatch and palatal tooth positioning"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80687,
+      question: "Which precaution helps prevent injuries during implant surgery?",
+      options: [
+        "A thorough review of the patient's medical history",
+        "Skipping radiographs to shorten the appointment",
+        "Avoiding any interdisciplinary treatment planning",
+        "Increasing drill speed to finish the case faster"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80688,
+      question: "How is hypoesthesia defined as a neurosensory disturbance?",
+      options: [
+        "Pain occurring with minimal or no sensory impairment",
+        "Impaired sensory function, sometimes with phantom pain",
+        "Complete and permanent loss of all motor function",
+        "Heightened taste perception across the entire tongue"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80689,
+      question: "How is hyperesthesia defined as a neurosensory disturbance?",
+      options: [
+        "Pain with minimal or no actual sensory impairment",
+        "Impaired sensory function with possible phantom pain",
+        "Total loss of sensation across the affected region",
+        "Excessive salivary flow triggered by light touch"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80690,
+      question: "What can cause implant malpositioning?",
+      options: [
+        "Poor planning, lack of skill, or poor communication",
+        "Excellent planning combined with surgical experience",
+        "Use of a surgical stent throughout the procedure",
+        "Careful coordination between surgeon and restorer"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80691,
+      question: "How far from an adjacent natural tooth should an implant be placed?",
+      options: [
+        "About 5 to 6 mm from the adjacent natural tooth",
+        "About 0.1 to 0.5 mm from the adjacent tooth",
+        "About 8 to 10 mm from the adjacent natural tooth",
+        "About 1.5 to 2 mm from the adjacent natural tooth"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80692,
+      question: "How far from an adjacent implant should an implant be placed?",
+      options: [
+        "About 0.5 to 1 mm from the adjacent implant",
+        "About 6 to 7 mm from the adjacent implant",
+        "About 2 to 3 mm from the adjacent implant",
+        "About 9 to 10 mm from the adjacent implant"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80693,
+      question: "How much bone should surround an implant placed buccolingually?",
+      options: [
+        "At least 8 mm of bone circumferentially around it",
+        "No bone is needed on the buccal aspect at all",
+        "At least 0.2 mm of bone on the lingual side only",
+        "At least 2 mm of bone circumferentially around it"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80694,
+      question: "What is the ultimate complication of implant malpositioning?",
+      options: [
+        "A minor color mismatch of the final restoration",
+        "Loosening of the occlusal screw within one year",
+        "Implant or instrument invasion into vital structures",
+        "Premature exposure of a guided bone membrane"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80695,
+      question: "Why can serious bleeding from an inaccessible vessel be life threatening?",
+      options: [
+        "Because of rapid total blood loss through the wound",
+        "Because of airway obstruction rather than exsanguination",
+        "Because it always leads to immediate nerve damage",
+        "Because it instantly causes the implant to fail"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80696,
+      question: "What can submucosal or subdermal hemorrhage into the tissues form?",
+      options: [
+        "A fistula draining at the implant-abutment junction",
+        "A keratinized tissue band around the implant neck",
+        "A barrier membrane isolating the grafted region",
+        "A hematoma, with bruising being a minor example"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80697,
+      question: "What does emergency treatment for serious hemorrhage include?",
+      options: [
+        "Airway management and surgical control of the bleeding",
+        "Immediate loading of the implant to splint the area",
+        "Application of cold packs for one full week",
+        "Placement of a punch incision over the bleeding site"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80698,
+      question: "What is important to recognize about surgical bleeding over time?",
+      options: [
+        "It always resolves completely before the patient leaves",
+        "It can become serious in the hours and days afterward",
+        "It never poses any risk once the flap is sutured",
+        "It only matters during the active drilling phase"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80699,
+      question: "What do biologic complications involve?",
+      options: [
+        "Fracture of veneers attached to the superstructure",
+        "Loosening of the abutment or the occlusal screw",
+        "Loss of the screw access hole sealing material",
+        "Pathology of the peri-implant hard and soft tissues"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80700,
+      question: "Where can bacteria accumulate to cause biologic problems?",
+      options: [
+        "Only within the sterile interior of the implant body",
+        "Exclusively on a highly polished smooth surface",
+        "At an ill-fitting implant-abutment or abutment-crown junction",
+        "Solely beneath an intact and well-adapted flap"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80701,
+      question: "What can result from a loose abutment connection besides inflammation?",
+      options: [
+        "A permanent gain of attached keratinized tissue",
+        "An increase in surrounding crestal bone volume",
+        "A fistula, resolved by correcting the causative factor",
+        "A spontaneous re-tightening of the loose screw"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80702,
+      question: "How does placing an implant too far buccally affect the tissues?",
+      options: [
+        "The lingual plate thickens, preventing any recession",
+        "The buccal plate resorbs, causing greater recession",
+        "The keratinized band widens around the implant",
+        "The crestal bone increases on the buccal aspect"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80703,
+      question: "How is peri-implantitis best described?",
+      options: [
+        "A technical failure of the prosthetic framework only",
+        "A neurosensory disturbance with associated phantom pain",
+        "Inflammation around an implant with loss of supporting bone",
+        "A normal healing response after second-stage surgery"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80704,
+      question: "Which is a recognized risk factor for peri-implantitis?",
+      options: [
+        "Frequent professional recalls and good hygiene",
+        "A history of periodontitis and poor oral hygiene",
+        "Use of resorbable sutures at the time of closure",
+        "Placement of the implant with strong initial stability"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80705,
+      question: "What distinguishes early from late implant failure?",
+      options: [
+        "Early occurs after restoration; late occurs before it",
+        "Early happens only in the maxilla; late in the mandible",
+        "Early occurs before restoration; late occurs after it",
+        "Early involves smokers; late involves nonsmokers only"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80706,
+      question: "What does an early implant failure usually indicate?",
+      options: [
+        "It was overloaded by an immediate final prosthesis",
+        "It had excessive keratinized tissue around the neck",
+        "It was caused by routine retightening of the screw",
+        "It probably did not achieve proper osseointegration"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80707,
+      question: "Which situation can increase the implant failure rate?",
+      options: [
+        "Insertion in poor-quality type III and type IV bone",
+        "Placement by a highly experienced implant surgeon",
+        "Insertion with strong initial primary stability",
+        "Placement in dense, well-vascularized anterior bone"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80708,
+      question: "What did several studies conclude about replacing failed implants?",
+      options: [
+        "Replacements had higher survival than original implants",
+        "Replacements never integrate in any previously used site",
+        "Replacements had lower survival than implants in pristine sites",
+        "Replacements always match the survival of pristine sites"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80709,
+      question: "When do prosthetic or mechanical complications occur?",
+      options: [
+        "When peri-implant soft tissues become acutely inflamed",
+        "When the implant fails to achieve osseointegration",
+        "When material strength can no longer resist applied forces",
+        "When the surgeon damages an adjacent nerve bundle"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80710,
+      question: "For what percentage of cases has screw loosening been reported at first checkup?",
+      options: [
+        "About 6% to 49% of cases at the first annual checkup",
+        "About 80% to 95% of cases at the first checkup",
+        "About 1% to 2% of cases at the first checkup",
+        "About 50% to 60% of cases at the first checkup"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80711,
+      question: "What happens to screws that continue to be stretched over time?",
+      options: [
+        "They tighten themselves and regain full strength",
+        "They become fatigued and eventually fracture",
+        "They resorb and are replaced by new bone",
+        "They permanently seal the abutment connection"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80712,
+      question: "According to Balshi, which is a category of cause for implant fracture?",
+      options: [
+        "Nonpassive fit of the prosthetic framework",
+        "Application of cold packs after the surgery",
+        "Use of resorbable sutures during flap closure",
+        "Presence of abundant keratinized tissue"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80713,
+      question: "For which restorations is fracture of materials particularly a problem?",
+      options: [
+        "Cover screws buried beneath a submerged flap",
+        "Veneers that are attached to the superstructures",
+        "Guide pins used during multiple implant placement",
+        "Barrier membranes used in guided bone regeneration"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80714,
+      question: "Which is listed as a cause of alveolar bone deficiency?",
+      options: [
+        "Strong initial stability at the time of placement",
+        "Routine use of a surgical guide during surgery",
+        "Developmental defects, periodontal disease, or trauma",
+        "Application of cold packs in the first 48 hours"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80715,
+      question: "Which procedure is used to regenerate deficient alveolar bone?",
+      options: [
+        "Immediate loading with a definitive final prosthesis",
+        "Flapless placement apical to the alveolar crest",
+        "Autogenous bone harvesting, GBR, or sinus augmentation",
+        "Routine retightening of a loosened occlusal screw"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80716,
+      question: "What complication is associated with harvesting bone from the ramus?",
+      options: [
+        "Perforation of the schneiderian sinus membrane",
+        "Damage to the inferior alveolar nerve and trismus",
+        "Premature exposure of the barrier membrane",
+        "Loosening of the abutment retaining screw"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80717,
+      question: "What has been reported after bone graft harvesting from the symphysis?",
+      options: [
+        "Spontaneous healing without any morbidity at all",
+        "Immediate gain of keratinized peri-implant tissue",
+        "Fracture of the mandible following the harvest",
+        "Permanent resolution of all neurosensory problems"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80718,
+      question: "Which is a recipient site complication of bone grafting?",
+      options: [
+        "Strong incorporation with no resorption at all",
+        "Immediate osseointegration of the placed implant",
+        "Gain of vestibular depth around the graft site",
+        "Wound dehiscence, flap necrosis, or graft exposure"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80719,
+      question: "What does guided bone regeneration (GBR) use?",
+      options: [
+        "A high-speed bur to compact the existing bone",
+        "A resorbable suture to close the membrane edges",
+        "A barrier membrane to isolate an area for bone growth",
+        "A surgical stent to direct the implant placement"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80720,
+      question: "What is the most common complication associated with GBR?",
+      options: [
+        "Premature membrane exposure and overlying flap necrosis",
+        "Immediate fracture of the implant within the graft",
+        "Loosening of the occlusal screw under the membrane",
+        "Excessive gain of keratinized tissue at the site"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80721,
+      question: "What is true about applying chlorhexidine to an exposed GBR membrane?",
+      options: [
+        "It permanently solves the problem of exposure",
+        "It causes the membrane to reattach to the flap",
+        "It reduces bacteria but the membrane must still be removed",
+        "It increases bacterial load over the exposed area"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80722,
+      question: "Which is another complication associated with GBR procedures?",
+      options: [
+        "Guaranteed regeneration of adequate bone volume",
+        "Mucogingival problems such as loss of keratinized tissue",
+        "Spontaneous deepening of the buccal vestibule",
+        "Permanent elimination of all peri-implant bacteria"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80723,
+      question: "What are the most common intraoperative complications of a lateral window sinus lift?",
+      options: [
+        "Fracture of the mandible and damage to its nerve",
+        "Loosening of the abutment and prosthesis screws",
+        "Loss of keratinized tissue and vestibular depth",
+        "Bleeding and perforation of the schneiderian membrane"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80724,
+      question: "How are medium or large schneiderian membrane perforations treated?",
+      options: [
+        "With an absorbable membrane placed to patch the opening",
+        "By folding the membrane upon itself for small tears",
+        "By leaving the perforation open to heal on its own",
+        "By immediately loading the implant to seal the gap"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80725,
+      question: "What helps minimize trauma during the crestal osteotome sinus lift?",
+      options: [
+        "Repeated heavy hammer percussion on the osteotome",
+        "Manual force instead of hammer percussion when possible",
+        "Avoiding any surgical fraise during the procedure",
+        "Increasing the drilling speed throughout the lift"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80726,
+      question: "Which is one of the newer placement and loading protocols described?",
+      options: [
+        "Mandatory 12-month submerged healing for all cases",
+        "Routine removal of keratinized tissue before placement",
+        "Delayed placement only after one year of edentulism",
+        "Implant loading immediately after implant placement"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80727,
+      question: "Which is an advantage of immediate implant placement after extraction?",
+      options: [
+        "A guaranteed improvement in esthetic outcomes",
+        "Fewer surgical procedures and decreased treatment time",
+        "Elimination of any risk of marginal bone loss",
+        "Complete prevention of peri-implant recession"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80728,
+      question: "Which is a disadvantage of immediate implant placement?",
+      options: [
+        "Reduced cost and shorter overall treatment time",
+        "Implant failure, poor position, and possible bone loss",
+        "Decreased soft-tissue healing time without a flap",
+        "Fewer surgical procedures and less patient morbidity"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80729,
+      question: "What are the most significant complications of immediate loading?",
+      options: [
+        "Color mismatch and minor phonetic disturbances",
+        "Failure to achieve primary stability and implant failure",
+        "Loss of the screw access hole restoration material",
+        "Trismus and damage to the inferior alveolar nerve"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80730,
+      question: "How does cross-arch stabilization help with immediate loading?",
+      options: [
+        "It increases the load placed on each single implant",
+        "It decreases the force and motion on any single implant",
+        "It removes the need for any primary implant stability",
+        "It guarantees osseointegration of every placed implant"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80731,
+      question: "What has been reported about smooth surface implants with immediate loading?",
+      options: [
+        "They show lower success rates than textured surfaces",
+        "They show higher success rates than any other surface",
+        "They eliminate the need for adequate primary stability",
+        "They prevent peri-implantitis around the implant neck"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80732,
+      question: "What defines flapless implant surgery?",
+      options: [
+        "Placement only after raising a wide full-thickness flap",
+        "Placement that always requires a second-stage exposure",
+        "Placement without elevating the soft tissue and periosteum",
+        "Placement combined with routine bone graft harvesting"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 80733,
+      question: "Which is a benefit of flapless implant surgery?",
+      options: [
+        "Improved direct vision of the alveolar bony crest",
+        "Decreased surgical morbidity, time, and intraoperative bleeding",
+        "Guaranteed preservation of all keratinized tissue",
+        "Elimination of any risk of implant malpositioning"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80734,
+      question: "What is a common complication of the flapless approach?",
+      options: [
+        "Excessive gain of keratinized tissue at the site",
+        "Improved visualization of the implant platform",
+        "Complete elimination of postoperative swelling",
+        "Implant placement apical to the crestal bone level"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80735,
+      question: "When do esthetic complications most often arise?",
+      options: [
+        "When the implant achieves full osseointegration",
+        "When keratinized tissue is preserved around it",
+        "When primary stability is obtained at placement",
+        "When a patient's expectations are not met"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 80736,
+      question: "What causes phonetic problems related to premaxillary bone loss?",
+      options: [
+        "Buccal implant positioning away from the papilla",
+        "Palatal implant positioning that covers the incisive papilla",
+        "Excessive keratinized tissue along the ridge crest",
+        "Immediate loading of a single posterior implant"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80737,
+      question: "Drilling bone without adequate cooling generates excessive heat that can injure bone and increase the risk of implant failure.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80738,
+      question: "In a two-stage approach, the implant and cover screw are left exposed through the gingival tissue at the time of placement.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80739,
+      question: "Implant success requires that peri-implant hard and soft tissues are healthy and that the patient and clinician are pleased with the result.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80740,
+      question: "An implant should be placed at least 1.5 to 2 mm away from an adjacent natural tooth to maintain an adequate biologic dimension.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80741,
+      question: "The most common complication of guided bone regeneration is premature exposure of the barrier membrane with necrosis of the overlying flap.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80742,
+      question: "Smooth surface implants have been reported to achieve higher success rates than textured surface implants under immediate loading.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80743,
+      question: "Flapless implant surgery generally reduces postoperative pain, swelling, surgical time, and intraoperative bleeding.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80744,
+      question: "The average annual crestal bone loss after the first year in function is expected to be 0.1 mm or less.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80745,
+      question: "Serious bleeding from an inaccessible vessel is life threatening mainly because of exsanguination rather than airway obstruction.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 80746,
+      question: "Sleepers are implants that are not connected to a restoration and are not providing support or function.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 80747,
+      question: "Replacing a failed implant in the same site generally results in a higher survival rate than placing implants in pristine sites.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    }
   ]
 };
