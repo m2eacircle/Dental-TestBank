@@ -907,7 +907,12 @@ export const subjectsWithSubtopics = {
     "1. Philosophers and types of ethics"
   ],  
   "Gerontology": [
-    "1. test"
+    "1, Introduction to Gerontology (Part 1)",
+    "1, Introduction to Gerontology (Part 2)",
+    "1, Introduction to Gerontology (Part 3)",
+    "1, Introduction to Gerontology (Part 4)",
+    "2. The Oral Cavity and Aging (Part 1)",
+    "2. The Oral Cavity and Aging (Part 2)"
   ],  
   "Oral Health Promotion": [
     "1. test"
