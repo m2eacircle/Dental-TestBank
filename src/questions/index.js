@@ -914,7 +914,15 @@ export const subjectsWithSubtopics = {
     "2. The Oral Cavity and Aging (Part 1)",
     "2. The Oral Cavity and Aging (Part 2)",
     "3. Process of Care & the Older Adult",
-    "4. Dental Care for Seniors"
+    "4. Dental Care for Seniors",
+    "5. Elder Abuse & Neglect (Part 1)",
+    "5. Elder Abuse & Neglect (Part 2)",
+    "6. Communicating with Older Adults (Part 1)",
+    "6. Communicating with Older Adults (Part 2)",
+    "7. Mobile Practices (Part 1)",
+    "7. Mobile Practices (Part 2)",
+    "7. Mobile Practices (Part 3)",
+    "7. Mobile Practices (Part 4)"
   ],  
   "Oral Health Promotion": [
     "1. test"
