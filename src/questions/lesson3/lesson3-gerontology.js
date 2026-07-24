@@ -3039,5 +3039,3466 @@ export const questions = {
       ],
       correctAnswer: 1
     }
+  ],
+   "5. Elder Abuse & Neglect (Part 1)": [
+    {
+      id: 90281,
+      question: "According to the World Health Organization, elder abuse occurs within any relationship where there is what?",
+      options: [
+        "an expectation of trust",
+        "an expectation of friendship",
+        "an expectation of employment",
+        "an expectation of ownership"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90282,
+      question: "What term is used to describe both abuse and neglect together?",
+      options: [
+        "Exploitation",
+        "Maltreatment",
+        "Victimization",
+        "Endangerment"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90283,
+      question: "How is \"abuse\" defined in the presentation?",
+      options: [
+        "Acts of omission failing to provide care",
+        "Assumptions based on someone's age",
+        "Violent physical, sexual, emotional, or verbal acts",
+        "Unintentional harm from poor judgment"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90284,
+      question: "How is \"neglect\" defined in the presentation?",
+      options: [
+        "Violent physical or verbal acts",
+        "Assumptions based on someone's age",
+        "Deliberate financial exploitation",
+        "Acts of omission, failure to provide care"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90285,
+      question: "Assuming an older person is forgetful or can't understand technology simply because of their age is an example of what concept?",
+      options: [
+        "Ageism",
+        "Neglect",
+        "Maltreatment",
+        "Self-neglect"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90286,
+      question: "According to global estimates, approximately how many older adults worldwide have been abused in the past year?",
+      options: [
+        "1 in 3",
+        "1 in 6",
+        "1 in 10",
+        "1 in 20"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90287,
+      question: "Contrary to a common myth, where does elder abuse most often occur?",
+      options: [
+        "In hospitals and clinics",
+        "In nursing homes mostly",
+        "At home, behind closed doors",
+        "In public community centers"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90288,
+      question: "Contrary to a common myth, who most often abuses vulnerable older adults?",
+      options: [
+        "Strangers on the street",
+        "Paid professional caregivers",
+        "Untrained volunteer workers",
+        "A known, trusted family member"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90289,
+      question: "Why do most cases of elder abuse not result in criminal prosecution?",
+      options: [
+        "Most victims don't tell anyone",
+        "Police lack proper training",
+        "Courts dismiss most cases",
+        "Laws don't clearly define abuse"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90290,
+      question: "Regardless of gender, which group is at greatest risk of being abused?",
+      options: [
+        "Those who live independently",
+        "Those with cognitive impairment",
+        "Those who are financially wealthy",
+        "Those with large social networks"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90291,
+      question: "According to the myths section, what are the most common types of elder abuse?",
+      options: [
+        "Physical abuse and assault",
+        "Sexual abuse and coercion",
+        "Neglect and self-neglect",
+        "Institutional confinement"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90292,
+      question: "What does the presentation say about caregiver stress and elder abuse?",
+      options: [
+        "Caregiver stress justifies harsh discipline",
+        "Caregiver stress is the main legal defense",
+        "Caregiver stress always leads to abuse",
+        "Caregiver stress does not excuse abuse"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90293,
+      question: "According to the National Center on Elder Abuse, how many elderly Americans experience some form of abuse each year?",
+      options: [
+        "Two to five million",
+        "Ten to twenty million",
+        "Five hundred thousand",
+        "Fewer than one hundred thousand"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90294,
+      question: "For every one reported case of elder abuse, approximately how many more go unreported?",
+      options: [
+        "About one more case",
+        "About five more cases",
+        "About ten more cases",
+        "About twenty more cases"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90295,
+      question: "Which of the following is NOT one of the four core types of abuse discussed?",
+      options: [
+        "Neglect",
+        "Physical abuse",
+        "Retirement planning",
+        "Sexual abuse"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90296,
+      question: "Besides elderly people, which other groups are commonly identified as abuse victims?",
+      options: [
+        "Teachers and coworkers",
+        "Tourists and neighbors",
+        "Students and employers",
+        "Infants/children and intimate partners"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90297,
+      question: "Which of the following describes physical abuse?",
+      options: [
+        "Hitting, pushing, or inappropriate use of restraints",
+        "Insults, threats, and controlling behavior",
+        "Misusing or stealing a person's assets",
+        "Not providing food, housing, or medical care"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90298,
+      question: "Which of the following describes psychological or emotional abuse?",
+      options: [
+        "Hitting, pushing, or kicking someone",
+        "Insults, threats, humiliation, and confinement",
+        "Sexual contact without consent given",
+        "Stealing money from a bank account"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90299,
+      question: "How is sexual abuse of an older adult defined?",
+      options: [
+        "Misusing a person's money or assets",
+        "Not providing housing or medical care",
+        "Sexual contact without a person's consent",
+        "Insulting or humiliating an older adult"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90300,
+      question: "How is financial exploitation defined?",
+      options: [
+        "Sexual contact without consent given",
+        "Not providing food, housing, or care",
+        "Hitting, pushing, or using restraints",
+        "Misusing or stealing a person's money"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90301,
+      question: "How is neglect or abandonment defined?",
+      options: [
+        "Not providing food, housing, or medical care",
+        "Insulting or humiliating an older person",
+        "Misusing or stealing financial assets",
+        "Sexual contact without a person's consent"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90302,
+      question: "Which is a physical indicator that can suggest abuse is occurring?",
+      options: [
+        "Consistent, well-documented medical history",
+        "Injuries inconsistent with the given explanation",
+        "Regular visits to a primary care doctor",
+        "Steady weight gain over several months"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90303,
+      question: "Which behavioral sign shown by a victim may indicate possible abuse?",
+      options: [
+        "Increased participation in social activities",
+        "Calm, confident, and open communication",
+        "Contradictory statements about their injuries",
+        "Consistent, detailed medical explanations"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90304,
+      question: "Which pattern is often seen in caretakers who abuse?",
+      options: [
+        "Encouraging the victim's independence",
+        "Welcoming frequent visitors and outings",
+        "Providing consistent caregiver training",
+        "Preventing the victim from seeing visitors"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90305,
+      question: "People who commit elder abuse are often in what kind of position relative to the victim?",
+      options: [
+        "A position of trust with the victim",
+        "A position of financial wealth",
+        "A position within law enforcement",
+        "A position of complete anonymity"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90306,
+      question: "Which of the following is listed as a risk factor for committing elder abuse?",
+      options: [
+        "Strong social support and low stress",
+        "Substance abuse and high stress levels",
+        "Extensive caregiver training and rest",
+        "Financial independence from the victim"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90307,
+      question: "Which sign may indicate that a vulnerable person is being financially exploited?",
+      options: [
+        "Consistent, unchanged spending patterns",
+        "Regular, well-documented bank statements",
+        "Frequent checks made out to \"cash\"",
+        "Steady growth in retirement savings"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90308,
+      question: "Which is a general manifestation of maltreatment mentioned in the presentation?",
+      options: [
+        "Consistent school or medical attendance",
+        "Improved hygiene and social confidence",
+        "Increased appetite and healthy weight",
+        "Bruises in multiple stages of healing"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90309,
+      question: "Which body part is described as the most common site for oral injuries related to abuse?",
+      options: [
+        "The lips",
+        "The gingiva",
+        "The tongue",
+        "The molars"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90310,
+      question: "What does dental neglect commonly manifest as?",
+      options: [
+        "Excessive orthodontic treatment visits",
+        "Poor oral hygiene and untreated caries",
+        "Overuse of professional whitening",
+        "Frequent unnecessary dental cleanings"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90311,
+      question: "Physical findings that are mistaken for abuse may be caused by which of the following?",
+      options: [
+        "Regular exercise and healthy sleep habits",
+        "Consistent nutrition and hydration levels",
+        "Genetic, infectious, or cultural conditions",
+        "Strong family communication patterns"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90312,
+      question: "What term describes the use of force or coercion to abuse or intimidate others?",
+      options: [
+        "Failure to provide adequate basic care",
+        "Misusing an older person's finances",
+        "Assumptions made based on someone's age",
+        "Using force or coercion to intimidate others"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90313,
+      question: "Domestic violence/intimate partner violence (IPV) is a pattern of abusive behavior used for what purpose?",
+      options: [
+        "To gain or maintain power and control",
+        "To improve household communication",
+        "To provide financial support and stability",
+        "To strengthen community social ties"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90314,
+      question: "How is domestic elder abuse defined?",
+      options: [
+        "Abuse occurring in residential facilities",
+        "Maltreatment by someone with a relationship, at home",
+        "Harm caused by one's own neglectful behavior",
+        "Force or coercion used to intimidate others"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90315,
+      question: "How is institutional abuse defined?",
+      options: [
+        "Maltreatment by a family member at home",
+        "Harm caused by one's own neglectful behavior",
+        "Abuse occurring in residential care facilities",
+        "Use of coercion to intimidate a partner"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90316,
+      question: "How is self-neglect defined?",
+      options: [
+        "Abuse occurring in residential care facilities",
+        "Maltreatment by a relative in the home",
+        "Force or coercion used against another",
+        "Harm caused by one's own neglectful behavior"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90317,
+      question: "According to prevalence data, approximately what percentage of elder abusers are family members?",
+      options: [
+        "90%",
+        "70%",
+        "50%",
+        "30%"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90318,
+      question: "Among older people in institutions, which type of abuse is reported most often?",
+      options: [
+        "Sexual abuse",
+        "Psychological abuse",
+        "Financial abuse",
+        "Physical neglect"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90319,
+      question: "What percentage of elder abuse is estimated to actually be reported?",
+      options: [
+        "25%",
+        "15%",
+        "4%",
+        "40%"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90320,
+      question: "What did a U.S. study tracking older people over 13 years find about victims of elder abuse?",
+      options: [
+        "They lived longer than non-abused peers",
+        "They reported greater life satisfaction",
+        "They experienced fewer chronic conditions",
+        "They were twice as likely to die prematurely"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90321,
+      question: "What proportion of people with dementia have been found to experience abuse?",
+      options: [
+        "About two out of three people with dementia",
+        "About one out of ten people with dementia",
+        "About one out of five people with dementia",
+        "About one out of two people with dementia"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90322,
+      question: "According to prevention guidance, what should older people do to help protect themselves?",
+      options: [
+        "Avoid contact with family and friends",
+        "Make sure financial and legal affairs are in order",
+        "Refuse all professional support services",
+        "Keep personal information completely private"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90323,
+      question: "What can family and informal caregivers do to lower their risk of committing abuse?",
+      options: [
+        "Increase caregiving hours without rest",
+        "Avoid seeking outside support services",
+        "Take breaks and get support from services",
+        "Limit communication with other family members"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90324,
+      question: "Which is a strategy the health sector/government can use to address elder abuse?",
+      options: [
+        "Reduce awareness campaigns in health sectors",
+        "Ignore reports of suspected elder abuse",
+        "Limit collaboration between different sectors",
+        "Develop and test evidence-based interventions"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90325,
+      question: "If an older adult's safety is in immediate danger, what should be done according to the reporting flowchart?",
+      options: [
+        "Call the police or EMS at 911",
+        "Contact the Seniors Safety Line",
+        "Call the LongTerm Care ACTION Line",
+        "Reach out to Crime Stoppers"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90326,
+      question: "Elder abuse is more likely to be committed by strangers than by family members or trusted caregivers.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90327,
+      question: "According to the WHO, elder abuse can result from intentional or unintentional neglect.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90328,
+      question: "Only visible physical injuries, such as bruises or broken bones, indicate that elder abuse has occurred.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90329,
+      question: "Elder abuse can occur in both private homes and institutional settings such as nursing homes.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90330,
+      question: "A suspected non-emergency elder abuse situation should always be reported by immediately calling 911.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    }
+  ],
+   "5. Elder Abuse & Neglect (Part 2)": [
+    {
+      id: 90331,
+      question: "In 2006, what percentage of Canada's total population did seniors represent?",
+      options: [
+        "13.2%",
+        "24.5%",
+        "9.8%",
+        "4.2%"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90332,
+      question: "By 2036, what proportion of Canada's population is expected to be seniors?",
+      options: [
+        "13.2%",
+        "24.5%",
+        "9.8%",
+        "4.2%"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90333,
+      question: "The fastest-growing senior group, those over age 80, is expected to increase across what range between 2021 and 2056?",
+      options: [
+        "5.8% to 13.2%",
+        "4.2% to 9.8%",
+        "2.1% to 5.8%",
+        "1.5% to 4.2%"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90334,
+      question: "What factors are attributed to the increasing proportion of seniors in Canada?",
+      options: [
+        "Improved dental care and rising incomes",
+        "Decreased edentulism and disposable income",
+        "Increased awareness of oral-systemic links",
+        "Decreasing birth rate and increased life expectancy"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90335,
+      question: "Besides demographic shifts, why is the number of elderly seeking dental care expected to increase?",
+      options: [
+        "Decreased edentulism and increased disposable income",
+        "Decreasing birth rate and aging baby boomers",
+        "Increased life expectancy and lower fertility",
+        "Rising proportion of seniors over age 80"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90336,
+      question: "How is elder abuse defined in this article?",
+      options: [
+        "Only physical injuries caused by a stranger",
+        "Hurtful acts of commission or omission by a person in trust",
+        "Financial exploitation committed by scam artists",
+        "Neglect caused solely by inexperienced caregivers"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90337,
+      question: "The hurtful act in elder abuse is considered to be one that is what?",
+      options: [
+        "Purely accidental and unintentional",
+        "Limited to physical harm only",
+        "Intentional, willful, or non-accidental",
+        "Always committed by a stranger"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90338,
+      question: "Who developed the original validated template used to help physicians recognize elder abuse?",
+      options: [
+        "Michael Wiseman",
+        "The Canadian Dental Association",
+        "Lachs and Pillemer",
+        "Bomba"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90339,
+      question: "In 1981, the U.S. Congress Select Committee on Aging estimated what percentage of American elderly were victims of abuse?",
+      options: [
+        "5%",
+        "10%",
+        "20%",
+        "29%"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90340,
+      question: "According to international studies cited, the estimated rate of elder abuse ranges from what?",
+      options: [
+        "1% to 5%",
+        "2% to 10%",
+        "10% to 20%",
+        "20% to 30%"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90341,
+      question: "One Israeli study indicated that the rate of elder abuse could be as high as what?",
+      options: [
+        "5%",
+        "10%",
+        "20%",
+        "30%"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90342,
+      question: "In 2003, how many incidents of violence against seniors were reported in Canada?",
+      options: [
+        "400",
+        "1,500",
+        "2,900",
+        "4,000"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90343,
+      question: "Of the 2003 Canadian violence incidents against seniors, what percentage were committed by a family member?",
+      options: [
+        "29%",
+        "15%",
+        "50%",
+        "90%"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90344,
+      question: "According to the article, where did most physical abuse incidents against seniors take place?",
+      options: [
+        "In hospitals",
+        "In the home",
+        "In long-term care facilities",
+        "In public settings"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90345,
+      question: "In the United States, the rate of elder abuse was estimated to have increased by what percentage between 1986 and 1996?",
+      options: [
+        "50%",
+        "100%",
+        "150%",
+        "200%"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90346,
+      question: "Which of the following is listed as a general sign raising suspicion of elder abuse in the dental template?",
+      options: [
+        "Regular dental checkups every six months",
+        "Consistent history from patient and caregiver",
+        "Radiographic results consistent with history",
+        "Functionally impaired patient without caregiver"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90347,
+      question: "What term describes an abuse warning sign where a patient frequently changes health care providers?",
+      options: [
+        "Physician/dentist hopping",
+        "Provider avoidance syndrome",
+        "Caregiver rotation pattern",
+        "Appointment inconsistency"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90348,
+      question: "Which of the following is listed as a sign of physical abuse in the template?",
+      options: [
+        "Sense of hopelessness and resignation",
+        "Bruises, welts, cuts, or burn marks",
+        "Unexplained changes to a will",
+        "Untreated dental caries"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90349,
+      question: "Which of the following is listed as a sign of psychological abuse in the template?",
+      options: [
+        "Avulsed or loose teeth",
+        "Missing cheques or money",
+        "Fearful, tearful, or clinging behaviour",
+        "Long-term use of fractured dentures"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90350,
+      question: "Which of the following is listed as a sign of neglect in the template?",
+      options: [
+        "Laceration of the labial frenum",
+        "Unexplained power of attorney changes",
+        "Painful body movements unrelated to illness",
+        "Underweight, frail, and dehydrated appearance"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90351,
+      question: "Which of the following is listed as a sign of financial exploitation in the template?",
+      options: [
+        "Unexplained decrease in a bank account",
+        "Bruises at varying stages of healing",
+        "Passive, helpless, or withdrawn behaviour",
+        "Palatal petechiae or torn labial frenum"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90352,
+      question: "Which of the following is listed as a sign of sexual abuse in the template?",
+      options: [
+        "Unclean appearance and excessive plaque",
+        "Laceration of the labial frenum or palatal petechiae",
+        "Missing belongings or bounced cheques",
+        "Blood on the person's clothes"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90353,
+      question: "What is the first step in the management and monitoring decision tree for suspected elder abuse?",
+      options: [
+        "Refer the patient to a geriatric team",
+        "Interview the caregiver alone",
+        "Assess for safety and immediate danger",
+        "Arrange a follow-up appointment"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90354,
+      question: "According to the decision tree, what should happen if a patient is in immediate danger?",
+      options: [
+        "Schedule a follow-up visit",
+        "Refer to financial management services",
+        "Use gentle persuasion techniques",
+        "Make an immediate referral to police"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90355,
+      question: "If a patient lacks the capacity to refuse treatment, what possible actions are listed?",
+      options: [
+        "Financial management, guardianship, or court proceedings",
+        "Immediate referral to the police only",
+        "Providing emergency information only",
+        "Educating the patient and arranging follow-up only"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90356,
+      question: "According to Figure 2, what must health care professionals balance regarding vulnerable elders?",
+      options: [
+        "Cost of care versus family preference",
+        "Duty to protect safety versus right to self-determination",
+        "Legal liability versus professional reputation",
+        "Speed of treatment versus thoroughness of care"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90357,
+      question: "Which value is emphasized when treating elders, according to Figure 2?",
+      options: [
+        "Efficiency and speed of treatment",
+        "Strict adherence to institutional policy",
+        "Honesty, compassion, and respect",
+        "Minimizing family involvement"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90358,
+      question: "Which is listed as a right of older adults in the article?",
+      options: [
+        "The right to have all decisions made by family",
+        "The right to be placed in institutional care",
+        "The right to be shielded from all information",
+        "The right to accept or refuse services"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90359,
+      question: "Which is listed as a best practice guideline for managing suspected elder abuse?",
+      options: [
+        "First, do no harm",
+        "Always report to police immediately",
+        "Impose personal values on the patient",
+        "Prioritize institutional care over community care"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90360,
+      question: "Which is an example screening question suggested for suspected elder abuse?",
+      options: [
+        "\"Do you enjoy visiting the dentist?\"",
+        "\"Are you afraid of anyone in your family?\"",
+        "\"How often do you brush your teeth?\"",
+        "\"Do you have dental insurance coverage?\""
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90361,
+      question: "According to the article, abuse can take which of the following forms?",
+      options: [
+        "Only physical and financial abuse",
+        "Only neglect and emotional abuse",
+        "Physical, emotional, sexual, financial abuse, or neglect",
+        "Only sexual and psychological abuse"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90362,
+      question: "How is physical abuse defined in the article?",
+      options: [
+        "Failure to provide necessary goods or services",
+        "Nonconsensual sexual contact of any kind",
+        "Intimidation, humiliation, or belittling",
+        "Injury or harm causing pain, suffering, or impairment"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90363,
+      question: "What may scarring or bruising of the wrists indicate?",
+      options: [
+        "Physical restraint",
+        "Natural aging changes",
+        "Blood-thinning medication use",
+        "Poor oral hygiene"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90364,
+      question: "How is emotional abuse defined in the article?",
+      options: [
+        "Withholding food, shelter, or medical care",
+        "Intimidation, humiliation, belittling, or threats",
+        "Nonconsensual sexual contact",
+        "Misuse of a senior's financial assets"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90365,
+      question: "How is sexual abuse defined in the article?",
+      options: [
+        "Failure to provide necessary care",
+        "Financial exploitation by a caregiver",
+        "Nonconsensual sexual contact of any kind",
+        "Intimidation or threats of abandonment"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90366,
+      question: "How is neglect defined in the article?",
+      options: [
+        "Intentional physical harm causing injury",
+        "Nonconsensual sexual contact of any kind",
+        "Intimidation and humiliation of a senior",
+        "Failure to provide goods or services necessary to function"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90367,
+      question: "What distinguishes active neglect from passive neglect?",
+      options: [
+        "Active neglect is intentional; passive results from lack of ability",
+        "Active neglect is accidental; passive is deliberate",
+        "Active neglect only involves finances; passive involves food",
+        "Active neglect is legal; passive neglect is illegal"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90368,
+      question: "Which is NOT one of the three types of financial abuse perpetrators described in the article?",
+      options: [
+        "A person of trust motivated by greed",
+        "A random stranger with no relationship to the senior",
+        "A family member who feels entitled to the estate",
+        "A scam artist using false promises"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90369,
+      question: "Which characteristic was identified as increasing a caregiver's potential for abuse?",
+      options: [
+        "Living independently from the dependent senior",
+        "Having extensive caregiving experience",
+        "Feeling isolated and lacking community support",
+        "Having no other caregiving responsibilities"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90370,
+      question: "Why might an abused elder deny that abuse is occurring?",
+      options: [
+        "They do not understand what abuse means",
+        "They believe the dentist cannot help them",
+        "They are unaware of reporting procedures",
+        "They fear retaliation or feel shame"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90371,
+      question: "Which characteristic is commonly seen in abused elderly patients?",
+      options: [
+        "Submissive or withdrawn behaviour near their caregiver",
+        "Excessive independence from their caregiver",
+        "Frequent complaints about their caregiver",
+        "Consistent, detailed explanations of injuries"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90372,
+      question: "Why are dentists well-positioned to screen for elder abuse?",
+      options: [
+        "They have specialized legal training in abuse law",
+        "They see patients twice yearly and examine the head and neck",
+        "They are required to conduct home visits",
+        "They have access to a patient's full financial records"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90373,
+      question: "How should a dentist's conversation with a suspected abuse victim take place?",
+      options: [
+        "With the caregiver present for support",
+        "In the waiting room for convenience",
+        "In a private area, witnessed by another staff member",
+        "Only through written correspondence"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90374,
+      question: "Which natural aging-related factor should a dentist consider before suspecting abuse?",
+      options: [
+        "Increased participation in social activities",
+        "Improved communication skills over time",
+        "Decreased need for medication review",
+        "Thinning skin and bruising from blood thinners"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90375,
+      question: "What is one barrier that may affect a dentist's willingness to report suspected elder abuse?",
+      options: [
+        "Uncertainty about the diagnosis and legal responsibility",
+        "Lack of access to a dental chair",
+        "Excessive confidence in every diagnosis",
+        "Overly clear provincial reporting laws"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90376,
+      question: "In which Canadian province is reporting of elder abuse and neglect mandatory?",
+      options: [
+        "Ontario",
+        "Nova Scotia",
+        "British Columbia",
+        "Quebec"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90377,
+      question: "In Newfoundland and Labrador, mandatory reporting applies to which situation?",
+      options: [
+        "Both abuse and neglect equally",
+        "Neither abuse nor neglect",
+        "Neglect, but not abuse",
+        "Abuse, but not neglect"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90378,
+      question: "Which provinces have legislated voluntary (not mandatory) reporting of elder abuse?",
+      options: [
+        "Ontario and Nova Scotia",
+        "Quebec and Newfoundland",
+        "Alberta and Manitoba",
+        "Prince Edward Island, New Brunswick, and British Columbia"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90379,
+      question: "The Ontario Long-Term Care Homes Act (2006) establishes mandatory reporting of abuse in what setting?",
+      options: [
+        "Long-term care centres only",
+        "All dental offices",
+        "Private homes only",
+        "Hospitals only"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90380,
+      question: "In Quebec, how are suspected elder abuse cases primarily addressed?",
+      options: [
+        "Through a dedicated elder abuse reporting law",
+        "Through existing criminal code protections against assault and fraud",
+        "Through mandatory reporting by all professionals",
+        "Through voluntary reporting only in long-term care"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90381,
+      question: "What is the position of the Elder Abuse Prevention Unit in Queensland, Australia, regarding mandatory reporting?",
+      options: [
+        "It strongly supports mandatory reporting nationwide",
+        "It has no opinion on mandatory reporting",
+        "It believes mandatory reporting may not improve safety and denies senior autonomy",
+        "It requires reporting only for financial abuse"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90382,
+      question: "What does the Canadian Network for the Prevention of Elder Abuse state about mentally capable seniors?",
+      options: [
+        "They should always be reported regardless of wishes",
+        "They require guardianship in all cases",
+        "They cannot make decisions about their own safety",
+        "They have the right to live as they choose if mentally capable"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90383,
+      question: "According to Table 1, what dental/head-and-neck manifestation is associated with hair pulling?",
+      options: [
+        "Unusual loss of hair in the head and neck area",
+        "Fractured or avulsed teeth",
+        "Palatal bruising or petechiae",
+        "Abundant plaque and food debris"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90384,
+      question: "According to Table 1, which dental-related sign may indicate financial exploitation?",
+      options: [
+        "Torn labial frenum",
+        "Caregiver refuses to pay for basic dental care",
+        "Facial contusions and swollen lips",
+        "Muscle trismus"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90385,
+      question: "Elder abuse only affects people of certain races or social classes.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90386,
+      question: "Dentists typically see their patients more frequently than physicians do, which places them in a good position to notice signs of abuse.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90387,
+      question: "According to the article, neglect can only be intentional and is never the result of a caregiver's lack of experience.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90388,
+      question: "In Canada, the legal requirement for dentists to report elder abuse is uniform across all provinces and territories.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90389,
+      question: "Abused elderly patients often deny being abused due to fear, shame, or a sense of helplessness.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90390,
+      question: "The Canadian Network for the Prevention of Elder Abuse supports mandatory reporting for all mentally capable seniors, regardless of their wishes.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    }
+  ],
+   "6. Communicating with Older Adults (Part 1)": [
+    {
+      id: 90391,
+      question: "How many Americans were 65 years of age or older in 2010, according to the report?",
+      options: [
+        "40.4 million",
+        "35 million",
+        "55 million",
+        "72.1 million"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90392,
+      question: "By what year is the older population projected to reach 72.1 million?",
+      options: [
+        "2020",
+        "2030",
+        "2040",
+        "2025"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90393,
+      question: "What percentage of noninstitutionalized older adults reported their health as excellent or very good (2000-2009)?",
+      options: [
+        "25%",
+        "55%",
+        "40%",
+        "65%"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90394,
+      question: "On average, how many physician office visits per year do older adults make?",
+      options: [
+        "3.7 visits",
+        "5.2 visits",
+        "9.4 visits",
+        "7.1 visits"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90395,
+      question: "According to the American Society of Consultant Pharmacists, how many prescription medications do adults 80 to 84 years of age take on average per year?",
+      options: [
+        "18 medications",
+        "10 medications",
+        "22 medications",
+        "14 medications"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90396,
+      question: "What happens to most aspects of language ability as people age, according to the report?",
+      options: [
+        "Vocabulary and comprehension decline steadily",
+        "There is no evidence of decline; vocabulary may improve",
+        "Verbal comprehension deteriorates significantly",
+        "Sentence production becomes more complex"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90397,
+      question: "What is \"crystallized intelligence\"?",
+      options: [
+        "The speed at which new information is processed",
+        "The capacity for short-term memory storage",
+        "The knowledge acquired through education and experience",
+        "The ability to multitask under pressure"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90398,
+      question: "What is the estimated prevalence of significant hearing impairment among people 75 years of age or older?",
+      options: [
+        "10% to 15%",
+        "20% to 25%",
+        "60% to 65%",
+        "40% to 50%"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90399,
+      question: "What is presbycusis?",
+      options: [
+        "Age-related hearing loss focused in high-frequency areas",
+        "A vision condition affecting near-focus ability",
+        "A form of dementia affecting memory recall",
+        "A speech disorder affecting sentence production"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90400,
+      question: "What is the most common vision problem among adults older than 55 years of age?",
+      options: [
+        "Cataracts",
+        "Presbyopia",
+        "Glaucoma",
+        "Macular degeneration"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90401,
+      question: "What may be the first sign of a cataract, according to the report?",
+      options: [
+        "Difficulty reading small print",
+        "Trouble hearing high-pitched sounds",
+        "Substantial difficulty with night driving",
+        "Difficulty recalling names"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90402,
+      question: "What is a consequence of reduced peripheral vision in older adults, per the report?",
+      options: [
+        "Improved balance while walking",
+        "Increased sensitivity to bright light",
+        "Enhanced depth perception",
+        "Limited social interaction with people nearby"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90403,
+      question: "Age-related changes in language comprehension are largely attributable to a decline in which system?",
+      options: [
+        "Working memory",
+        "Long-term memory",
+        "Semantic memory",
+        "Procedural memory"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90404,
+      question: "What type of information do older adults typically have more difficulty retrieving from long-term memory?",
+      options: [
+        "General knowledge",
+        "People's names",
+        "Vocabulary",
+        "Family history"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90405,
+      question: "According to Recommendation 1, what should you do to avoid relying on stereotypes when meeting an older adult?",
+      options: [
+        "Speak louder immediately to test hearing ability",
+        "Assume the person has cognitive decline until proven otherwise",
+        "Ask a few simple questions early on to assess the person's actual abilities",
+        "Rely on physical appearance to guide the conversation"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90406,
+      question: "What is \"elderspeak\"?",
+      options: [
+        "A dialect commonly used among older adults",
+        "A medical term for age-related hearing loss",
+        "A technique used to teach older patients new vocabulary",
+        "A patronizing speech style using simplified words and exaggerated tone"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90407,
+      question: "What effect can \"elderspeak\" have on older adults with Alzheimer's disease?",
+      options: [
+        "It can lead to more resistance to care and aggressive behavior",
+        "It improves compliance with care",
+        "It has no measurable effect",
+        "It significantly boosts their mood and cooperation"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90408,
+      question: "What is recommended instead of using terms of endearment or simplified vocabulary with older adults?",
+      options: [
+        "Avoid using the person's name altogether",
+        "Address the person by name, such as Mr. Smith",
+        "Use terms of endearment like honey or darling",
+        "Speak only in short, simplified words"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90409,
+      question: "What nonverbal behavior should be avoided when interacting with older patients?",
+      options: [
+        "Maintaining eye contact throughout the conversation",
+        "Facing the patient directly while speaking",
+        "Frequently glancing at your watch or looking impatient",
+        "Speaking clearly and at a steady pace"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90410,
+      question: "Why is minimizing background noise important when speaking with older adults?",
+      options: [
+        "It has no real impact on comprehension",
+        "It only matters for adults without hearing loss",
+        "It reduces the need for eye contact",
+        "It frees cognitive resources for processing and understanding speech"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90411,
+      question: "When speaking with an older adult who has a hearing impairment, how should you position yourself?",
+      options: [
+        "Face the person directly with your lips at the same level as theirs",
+        "Stand behind the person to avoid distraction",
+        "Speak from a distance to project your voice better",
+        "Turn away slightly to reduce direct eye contact"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90412,
+      question: "Why do older adults benefit from having critical information broken into separate, simpler sentences?",
+      options: [
+        "Older adults cannot understand any long words",
+        "Complex sentences with embedded clauses strain working memory",
+        "Short sentences are always easier regardless of content",
+        "Older adults prefer shorter conversations overall"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90413,
+      question: "What kind of visual aids should be avoided when educating older patients?",
+      options: [
+        "Aids with large, clearly visible components",
+        "Aids that are directly relevant to the discussed topic",
+        "Aids containing irrelevant information that may distract",
+        "Aids used interactively during conversation"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90414,
+      question: "According to the report, how quickly do some health care providers interrupt patients after they begin speaking?",
+      options: [
+        "Within 5 seconds",
+        "Within 60 seconds",
+        "Within 2 minutes",
+        "Within 18 seconds"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90415,
+      question: "What type of question is recommended to elicit useful information from older patients?",
+      options: [
+        "Open-ended questions that allow patients to respond in their own words",
+        "A rapid series of yes/no questions",
+        "Questions that test the patient's memory of past events",
+        "Leading questions that suggest the expected answer"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90416,
+      question: "What should health care providers do to help older patients manage fear about aging and chronic disease?",
+      options: [
+        "Avoid discussing psychosocial concerns entirely",
+        "Express genuine understanding and compassion beyond simple pleasantries",
+        "Focus exclusively on biomedical issues",
+        "Limit conversation time to reduce patient anxiety"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90417,
+      question: "Why should providers ask about an older adult's living situation and social contacts?",
+      options: [
+        "To fill time during the appointment",
+        "To determine which medications to prescribe",
+        "Because older adults are at higher risk for abuse or exploitation",
+        "Because it is required for insurance billing"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90418,
+      question: "In the Mrs. Smithberger case, what mistake did the physician initially make?",
+      options: [
+        "Speaking too loudly to the patient",
+        "Failing to explain the hip fracture diagnosis",
+        "Refusing to transfer her to another hospital",
+        "Addressing the daughter instead of Mrs. Smithberger directly about her care"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90419,
+      question: "What is recommended when a family member or caregiver accompanies an older patient?",
+      options: [
+        "Maintain direct communication with the patient and avoid third-person references",
+        "Direct all questions to the caregiver, bypassing the patient",
+        "Ask the caregiver to leave the room immediately",
+        "Assume the caregiver's answers are always accurate"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90420,
+      question: "Why should providers ask older patients about their cultural beliefs and alternative medicine practices?",
+      options: [
+        "To discourage any non-Western practices",
+        "Because ignoring cultural context can lead to inaccurate diagnosis and poor adherence",
+        "Because all older adults share identical cultural beliefs",
+        "To fulfill a legal requirement unrelated to care quality"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90421,
+      question: "What does \"shared decision making\" involve?",
+      options: [
+        "The provider making all decisions without patient input",
+        "Letting the patient decide entirely without any provider recommendations",
+        "Providing complete, impartial information and deciding jointly with the patient",
+        "Avoiding discussion of treatment options altogether"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90422,
+      question: "How can providers identify older patients who would benefit from more active participation in care decisions?",
+      options: [
+        "Assume all older patients want the same level of involvement",
+        "Only involve patients who arrive with a caregiver",
+        "Base involvement solely on the patient's age",
+        "Observe whether they engage in discussion, ask questions, or defer quickly to the provider"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90423,
+      question: "What is one way ageist assumptions can emerge in preventive care, per the report?",
+      options: [
+        "Physicians provide fewer preventive care recommendations, assuming symptoms are just normal aging",
+        "Physicians offer excessive preventive screenings to older patients",
+        "Physicians always recommend smoking cessation to older adults",
+        "Physicians treat older adults exactly the same as younger adults in every respect"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90424,
+      question: "Why is concrete, direct language preferred over abstract language with older patients?",
+      options: [
+        "It always uses fewer words than abstract language",
+        "It requires fewer cognitive resources and reduces incorrect inferences",
+        "It is required by law in medical settings",
+        "It eliminates the need for follow-up questions"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90425,
+      question: "What is the \"teach-back\" technique?",
+      options: [
+        "Asking the patient to memorize instructions silently",
+        "Repeating information exactly the same way multiple times",
+        "Asking the patient to explain the information back in their own words",
+        "Testing the patient with a written quiz"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90426,
+      question: "What did Sudore and colleagues find using the \"teach-to-goal\" approach with informed consent forms?",
+      options: [
+        "Only 28% of participants ever understood the material",
+        "The technique was not effective for patients with limited literacy",
+        "Comprehension decreased with each additional repetition",
+        "Repeated passes eventually achieved comprehension in 98% of participants"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90427,
+      question: "According to socioemotional selectivity theory, what type of messages do older adults respond to more strongly?",
+      options: [
+        "Messages associated with feelings and connectedness to family",
+        "Purely technical and statistical information",
+        "Messages emphasizing worst-case scenarios",
+        "Messages that avoid any emotional content"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90428,
+      question: "Which practice is recommended to enhance patient satisfaction in a medical office setting?",
+      options: [
+        "Scheduling older adults for late afternoon appointments only",
+        "Scheduling appointments earlier in the day, when things are less hectic",
+        "Avoiding greeting patients by name to save time",
+        "Minimizing staff introductions to streamline visits"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90429,
+      question: "When should humor and a direct communication style be used with caution?",
+      options: [
+        "When interacting with any patient under the age of 30",
+        "Humor should never be used with any patient",
+        "When interacting with non-Western older patients who may prefer indirect, deferential communication",
+        "Direct communication is only a concern in emergency settings"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90430,
+      question: "In the Mrs. Baldwin mini case, what communication approach helped Irene engage the resident more successfully?",
+      options: [
+        "Giving direct commands and repeating them louder",
+        "Ignoring Mrs. Baldwin's refusals and proceeding anyway",
+        "Speaking in a raised, urgent tone to get her moving quickly",
+        "Using open-ended questions and knowledge of Mrs. Baldwin's life history"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90431,
+      question: "Why should speakers avoid speaking slowly to older adults with dementia?",
+      options: [
+        "Slower speech places extra burden on working memory and can increase misunderstanding",
+        "It has no effect on comprehension either way",
+        "Faster speech is always easier to understand for people with dementia",
+        "Speaking slowly is required to enunciate words properly"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90432,
+      question: "What type of question is best for gathering specific information from a patient with dementia?",
+      options: [
+        "Open-ended questions about long-past events",
+        "Closed-ended choice or yes/no questions",
+        "Abstract hypothetical questions",
+        "Questions that test episodic memory"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90433,
+      question: "What is a right-branching sentence?",
+      options: [
+        "A sentence with an embedded clause interrupting the main clause",
+        "A sentence that begins with a subordinating conjunction",
+        "A sentence where the main clause comes first, followed by a subordinate clause",
+        "A sentence using only single-syllable words"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90434,
+      question: "What are two strategies recommended to facilitate comprehension in older adults with dementia when a sentence is misunderstood?",
+      options: [
+        "Speaking louder and repeating the exact same sentence",
+        "Ignoring the confusion and moving to a new topic",
+        "Using longer, more complex sentence structures",
+        "Verbatim repetition or paraphrasing the sentence"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90435,
+      question: "Vocabulary and general verbal comprehension typically decline significantly as adults age.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90436,
+      question: "Cataracts are considered a normal part of the aging process.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90437,
+      question: "Elderspeak, or \"baby talk,\" can lead to increased resistance to care among patients with Alzheimer's disease.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90438,
+      question: "When a caregiver accompanies an older patient, health care providers should always speak to the caregiver instead of the patient.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90439,
+      question: "Both verbatim repetition and paraphrasing can help facilitate comprehension in older adults with dementia.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    }
+  ],
+   "6. Communicating with Older Adults (Part 2)": [
+    {
+      id: 90440,
+      question: "In the opening scenario, how old is Mr. Howell, the patient with Alzheimer's disease?",
+      options: [
+        "89 years old",
+        "85 years old",
+        "92 years old",
+        "80 years old"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90441,
+      question: "According to the article, the number of Americans aged 65 and older was predicted to reach 40 million by what year?",
+      options: [
+        "2005",
+        "2010",
+        "2015",
+        "2020"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90442,
+      question: "By 2020, the number of Americans aged 65 and older was predicted to rise to more than:",
+      options: [
+        "45 million",
+        "50 million",
+        "55 million",
+        "60 million"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90443,
+      question: "According to the article, roughly how many new chronic diseases are patients likely to acquire for every decade of life after age 40?",
+      options: [
+        "2 new chronic diseases",
+        "3 new chronic diseases",
+        "0.5 new chronic diseases",
+        "1 new chronic disease"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90444,
+      question: "An 80-year-old person is likely to have at least how many chronic illnesses, per the article?",
+      options: [
+        "4 chronic illnesses",
+        "2 chronic illnesses",
+        "6 chronic illnesses",
+        "8 chronic illnesses"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90445,
+      question: "Compared with younger patients, how do older patients generally behave during medical visits, according to the article?",
+      options: [
+        "They ask more detailed questions than younger patients",
+        "They ask fewer questions and defer to the physician's authority",
+        "They frequently challenge the physician's recommendations",
+        "They request second opinions more often than younger patients"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90446,
+      question: "What did the article note about physicians' time spent on psychosocial issues with older patients?",
+      options: [
+        "Physicians spend equal time on psychosocial issues regardless of age",
+        "Physicians spend more time on psychosocial issues with older patients",
+        "Doctors spend less time on psychosocial issues with older patients",
+        "Psychosocial issues are always addressed thoroughly with older patients"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90447,
+      question: "How should physicians address patients to demonstrate respect, according to the article?",
+      options: [
+        "Using casual nicknames the patient did not request",
+        "Only by their first name in every situation",
+        "Using terms like \"sweetie\" or \"honey\" to show warmth",
+        "Formally as \"Mr.\" or \"Mrs.\" unless the patient requests otherwise"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90448,
+      question: "What is recommended regarding eye level when communicating with older patients?",
+      options: [
+        "Sit in a chair and face the patient directly at eye level",
+        "Stand above the patient to appear authoritative",
+        "Position yourself behind the patient's line of sight",
+        "Communicate primarily while looking at the computer screen"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90449,
+      question: "What physical gesture is suggested to convey concern and interest toward older patients?",
+      options: [
+        "A firm handshake held for an extended time",
+        "A gentle touch on the patient's hand, arm, or shoulder",
+        "Patting the patient on the head",
+        "Avoiding all physical contact entirely"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90450,
+      question: "What communication pace is recommended to help ensure older patients feel heard?",
+      options: [
+        "A rapid pace to cover more topics in less time",
+        "A pace dictated entirely by the accompanying caregiver",
+        "An unhurried pace, allowing the patient time to talk without interruption",
+        "A pace that minimizes any time spent listening to the patient"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90451,
+      question: "How should physicians generally speak to older patients, per the article?",
+      options: [
+        "Quickly and quietly, using complex medical terminology",
+        "In a whisper, using long compound sentences",
+        "Loudly and rapidly, using technical vocabulary",
+        "Slowly, clearly, and loudly without shouting, using short simple words"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90452,
+      question: "Because older patients ask fewer questions, what should physicians do more often during the visit?",
+      options: [
+        "Summarize frequently and invite questions",
+        "Assume the patient has no additional concerns",
+        "Move quickly to the next topic without pausing",
+        "Rely solely on the caregiver to raise concerns"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90453,
+      question: "What should be done before the appointment to help manage older patients' complex health issues?",
+      options: [
+        "Cancel the appointment if the chart is incomplete",
+        "Gather preliminary data before the appointment",
+        "Wait until the visit to review any patient history",
+        "Ask the caregiver to complete all forms in advance only"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90454,
+      question: "Why should older patients tell their story only once rather than repeating it to a nurse and then the physician?",
+      options: [
+        "To reduce the length of the medical chart",
+        "To satisfy insurance documentation requirements",
+        "To minimize patient frustration and fatigue",
+        "To prevent the caregiver from hearing the story"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90455,
+      question: "What type of language should physicians avoid using with older patients, according to the article?",
+      options: [
+        "Simple, short sentences",
+        "Written instructions",
+        "Visual aids such as charts and pictures",
+        "Medical jargon"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90456,
+      question: "What time of day is recommended for scheduling appointments with older patients?",
+      options: [
+        "Earlier in the day, when they are generally more alert",
+        "Late afternoon, after other appointments are finished",
+        "Only during lunch hours to reduce wait times",
+        "Late evening, when clinics are quieter"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90457,
+      question: "Who first coined the term \"ageism\"?",
+      options: [
+        "Susan Thompson Hingle",
+        "Robert Butler",
+        "Sherry Robinson",
+        "Debra Roter"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90458,
+      question: "Which of the following is listed as an example of ageism in health care, per the article?",
+      options: [
+        "Providing more preventive education to older patients",
+        "Spending additional time on psychosocial issues with elders",
+        "Using condescending language and derogatory names toward elders",
+        "Offering extensive treatment for elders' mental health issues"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90459,
+      question: "How can physicians avoid ageism, according to the article?",
+      options: [
+        "By assuming all older patients share the same needs",
+        "By treating every older patient identically regardless of history",
+        "By minimizing the time spent learning about the patient's background",
+        "By getting to know the older patient as an individual with a unique history"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90460,
+      question: "What percentage of individuals over age 65 have hearing loss that interferes with communication, per the studies cited?",
+      options: [
+        "16% to 24%",
+        "5% to 10%",
+        "30% to 40%",
+        "50% to 60%"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90461,
+      question: "For adults over age 80, what percentage were found to have hearing loss, according to the article?",
+      options: [
+        "Less than 20%",
+        "More than 60%",
+        "About 35%",
+        "Exactly 50%"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90462,
+      question: "What is presbycusis?",
+      options: [
+        "A visual condition affecting color perception",
+        "A memory disorder affecting word retrieval",
+        "Age-related hearing decline that particularly affects high-frequency sounds",
+        "A speech disorder affecting sentence formation"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90463,
+      question: "Why might a patient with presbycusis mishear \"Take the pill in the morning\" as \"Rake the hill in the morning\"?",
+      options: [
+        "Because the patient is not paying attention to the speaker",
+        "Because vowel sounds are lost before consonant sounds",
+        "Because the sentence is grammatically too complex to follow",
+        "Because consonant sounds affecting word beginnings and endings are lost first"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90464,
+      question: "What visual change makes it difficult for older adults to distinguish colors such as lavender, blue, and green?",
+      options: [
+        "Yellowing of the eye's lens",
+        "Increased pupil diameter",
+        "Improved ciliary muscle elasticity",
+        "Enhanced retinal sensitivity"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90465,
+      question: "What percentage of adults over age 70 reported their vision as poor, per the article?",
+      options: [
+        "Less than 5%",
+        "More than 15%",
+        "Exactly 10%",
+        "About 8%"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90466,
+      question: "What percentage of adults over age 80 reported their vision as impaired?",
+      options: [
+        "10%",
+        "20%",
+        "30%",
+        "45%"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90467,
+      question: "When speaking with a patient who has hearing loss, what should physicians avoid doing?",
+      options: [
+        "Facing the patient directly",
+        "Speaking in a normal tone",
+        "Minimizing background noise",
+        "Shouting, since it distorts high-frequency tones"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90468,
+      question: "Instead of asking \"Do you understand?\" what should physicians do to check comprehension in hearing-impaired patients?",
+      options: [
+        "Ask the patient to repeat the instructions",
+        "Assume understanding if the patient nods",
+        "Repeat the same question louder",
+        "Move on without further verification"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90469,
+      question: "Why are early appointments generally better for patients with hearing loss, per the article?",
+      options: [
+        "Because clinics are always fully staffed in the morning",
+        "Because hearing tends to worsen later in the day",
+        "Because patients prefer shorter wait times in the morning",
+        "Because physicians are less rushed in the morning"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90470,
+      question: "What print specification is recommended for written materials given to visually impaired patients?",
+      options: [
+        "At least 8-point type on white paper",
+        "At least 10-point type on glossy paper",
+        "At least 14-point type on buff-colored paper",
+        "At least 12-point type on dark paper"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90471,
+      question: "Approximately how many people in the United States had some form of dementia as of 2008, according to the article?",
+      options: [
+        "2.1 million",
+        "3.5 million",
+        "8 million",
+        "5.2 million"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90472,
+      question: "In mild stages of dementia, what type of communication problem is commonly experienced first?",
+      options: [
+        "Subtle word-finding problems",
+        "Complete loss of speech",
+        "Inability to recognize any family members",
+        "Total loss of long-term memory"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90473,
+      question: "What happens to communication as dementia progresses to more severe stages, per the article?",
+      options: [
+        "Patients speak in increasingly complex sentences",
+        "Patients may use unintelligible jargon or become mute",
+        "Patients regain earlier language abilities",
+        "Patients begin to ask more detailed questions"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90474,
+      question: "According to the article, what do patients with dementia respond to more than the actual content of what is said?",
+      options: [
+        "The volume of the speaker's voice alone",
+        "The specific vocabulary used by the speaker",
+        "How someone talks to them, such as tone and manner",
+        "The length of the sentences being spoken"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90475,
+      question: "Why is reminiscing considered an effective communication technique with dementia patients?",
+      options: [
+        "It tests the patient's short-term memory abilities",
+        "It distracts the patient from the purpose of the visit",
+        "It requires the patient to recall very recent events",
+        "Long-term memory is often retained, and it helps reduce stress"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90476,
+      question: "What type of questions often work best with patients who have dementia?",
+      options: [
+        "Closed-ended \"yes\" or \"no\" questions",
+        "Long, open-ended narrative questions",
+        "Questions requiring detailed recent recall",
+        "Multiple-part questions asked all at once"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90477,
+      question: "How long should a physician wait before repeating a question to a patient with dementia, per the article?",
+      options: [
+        "5 to 10 seconds",
+        "15 to 20 seconds",
+        "30 to 45 seconds",
+        "1 to 2 minutes"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90478,
+      question: "When performing a physical exam on a patient with dementia, what approach is recommended?",
+      options: [
+        "Give several instructions together to save time",
+        "Perform the exam without explaining any steps",
+        "Give one instruction at a time and ask permission before each step",
+        "Skip verbal instructions and rely on gestures alone"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90479,
+      question: "In what proportion of geriatric clinic visits is a family member or caregiver present, per the article?",
+      options: [
+        "Less than one tenth",
+        "About one fifth",
+        "Nearly all visits",
+        "At least one third"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90480,
+      question: "At the first visit with a new patient and caregiver, what is recommended for protecting patient privacy?",
+      options: [
+        "See the patient alone first, then ask permission to speak with the caregiver",
+        "Always speak to the caregiver before greeting the patient",
+        "Require the caregiver to leave before the patient arrives",
+        "Discuss the patient's history only with the caregiver"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90481,
+      question: "How should chairs be arranged when a caregiver is present during a visit, according to the article?",
+      options: [
+        "In a straight row facing the door",
+        "In a triangle, so all three people face each other",
+        "With the caregiver seated behind the patient",
+        "With the physician standing throughout the visit"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90482,
+      question: "When a caregiver is present, who should the physician direct questions to first?",
+      options: [
+        "The caregiver, before involving the patient",
+        "Neither party, to avoid confusion",
+        "The patient, before asking for input from the caregiver",
+        "Whoever answers first, regardless of who it is"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90483,
+      question: "According to the article's conclusion, effective physician-older patient communication makes patients more likely to do what regarding symptoms?",
+      options: [
+        "Withhold symptoms until a follow-up visit",
+        "Report only the symptoms the caregiver mentions",
+        "Minimize the number of concerns they raise",
+        "Share their symptoms and concerns, enabling a more accurate diagnosis"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90484,
+      question: "Older patients generally ask more questions and challenge physician authority more than younger patients.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90485,
+      question: "The term \"ageism\" was first coined by Robert Butler, the first director of the National Institute on Aging.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90486,
+      question: "Shouting is an effective way to help hearing-impaired older patients understand instructions.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90487,
+      question: "Reminiscing with dementia patients can help reduce stress because long-term memory is often retained.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90488,
+      question: "A caregiver's presence should always exclude the older patient from decision-making during the visit.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    }
+  ],
+   "7. Mobile Practices (Part 1)": [
+    {
+      id: 90489,
+      question: "Which of the following best describes why oral health matters for older adults?",
+      options: [
+        "Oral disease is linked to systemic conditions like diabetes and pneumonia",
+        "Oral disease has no connection to overall health",
+        "Oral health only affects appearance, not systemic health",
+        "Oral health issues are rare among older adults"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90490,
+      question: "Which age-related physiological change most directly increases the risk of dry mouth?",
+      options: [
+        "Increase in oral mucosa thickness",
+        "Decline in salivary gland function",
+        "Increase in bone density",
+        "Improvement in cognitive function"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90491,
+      question: "What oral health risk results from gingival recession in older adults?",
+      options: [
+        "Reduced risk of dental decay",
+        "Thicker, more resistant oral mucosa",
+        "Exposed root surfaces that are prone to decay",
+        "Increased saliva production"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90492,
+      question: "What is a common cause of xerostomia in older adult patients?",
+      options: [
+        "Excessive fluoride use",
+        "Overuse of mouthwash",
+        "Frequent brushing habits",
+        "Medication side effects"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90493,
+      question: "Which condition is a common opportunistic fungal infection seen in denture wearers?",
+      options: [
+        "Oral candidiasis",
+        "Root caries",
+        "Periodontal disease",
+        "Edentulism"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90494,
+      question: "Which of the following is a key responsibility of dental hygienists working with aging populations?",
+      options: [
+        "Performing surgical extractions independently",
+        "Providing preventive care and patient education",
+        "Prescribing systemic medications",
+        "Managing hospital admissions"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90495,
+      question: "What is a defining characteristic of long-term care (LTC) facilities in Canada?",
+      options: [
+        "They provide only short-term rehabilitation",
+        "They serve only children with disabilities",
+        "They provide 24-hour residential care for aging populations",
+        "They focus exclusively on dental treatment"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90496,
+      question: "Which of the following is identified as a common barrier to oral care in LTC facilities?",
+      options: [
+        "Excessive availability of dental professionals on-site",
+        "Overfunding of dental training programs",
+        "Too many oral health regulations",
+        "Staffing shortages limiting time for oral hygiene care"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90497,
+      question: "What is a key responsibility of caregivers regarding oral health in LTC settings?",
+      options: [
+        "Assisting with daily oral hygiene and monitoring for disease signs",
+        "Performing periodontal surgery",
+        "Prescribing antibiotics for infections",
+        "Diagnosing systemic diseases independently"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90498,
+      question: "According to Marilynne Fine's research, what is essential for meeting the needs of LTC residents?",
+      options: [
+        "Maintaining only traditional dental office models",
+        "Mobile and alternative dental hygiene practices",
+        "Eliminating dental hygienist involvement in LTC",
+        "Reducing caregiver training requirements"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90499,
+      question: "How is mobile dental hygiene best defined?",
+      options: [
+        "Dental hygiene services provided only in hospitals",
+        "A method of billing for dental insurance",
+        "Dental hygiene services provided at locations other than a traditional office",
+        "A type of dental equipment used in clinics"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90500,
+      question: "Which of the following is a benefit of mobile dental hygiene services?",
+      options: [
+        "Reduced patient compliance",
+        "Limited equipment availability",
+        "More complex licensing requirements",
+        "Increased access for patients with mobility issues"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90501,
+      question: "What is a common challenge faced in mobile dental hygiene practice?",
+      options: [
+        "Limited access to equipment and supplies",
+        "Unlimited access to full clinical equipment",
+        "Simplified licensing and insurance processes",
+        "Excessive continuity of patient care"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90502,
+      question: "What determines the scope of practice for independent dental hygienists?",
+      options: [
+        "Federal healthcare policy alone",
+        "Provincial or territorial regulatory bodies such as the CDHO",
+        "Individual patient preference",
+        "International dental associations only"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90503,
+      question: "According to CDHA, what is critical for the success of mobile dental hygiene?",
+      options: [
+        "Avoiding collaboration with other providers",
+        "Strict adherence to traditional office hours",
+        "Flexibility, innovation, and collaboration",
+        "Reducing investment in portable equipment"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90504,
+      question: "Which organization defines the scope of practice for dental hygienists in Ontario?",
+      options: [
+        "Canadian Dental Association",
+        "World Health Organization",
+        "Ontario Ministry of Transportation",
+        "College of Dental Hygienists of Ontario (CDHO)"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90505,
+      question: "Why are temporary restorations used in dental treatment?",
+      options: [
+        "To protect tooth function until a permanent restoration is placed",
+        "To permanently replace missing teeth",
+        "To whiten teeth before a permanent crown",
+        "To eliminate the need for future dental visits"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90506,
+      question: "Which material is commonly used for temporary restorations?",
+      options: [
+        "Stainless steel wire",
+        "Zinc oxide-eugenol",
+        "Orthodontic elastic bands",
+        "Surgical gauze"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90507,
+      question: "What must dental hygienists do regarding temporary restorations under CDHO guidelines?",
+      options: [
+        "Place them without any documentation",
+        "Avoid using approved materials",
+        "Monitor them for integrity and document the procedure",
+        "Perform them without regard to scope of practice"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90508,
+      question: "When placing a temporary restoration, what should hygienists communicate to patients?",
+      options: [
+        "That the restoration is permanent and needs no follow-up",
+        "That no maintenance is required",
+        "That the restoration cannot fail",
+        "The temporary nature of the restoration and need for follow-up"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90509,
+      question: "What is a potential challenge when placing a temporary restoration?",
+      options: [
+        "Difficulty achieving a proper fit due to cavity shape and size",
+        "Excessive strength of the temporary material",
+        "Too much time available for the procedure",
+        "Overabundance of appropriate materials"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90510,
+      question: "What should be assessed before placing a temporary restoration?",
+      options: [
+        "The patient's favorite toothpaste brand",
+        "The tooth and surrounding tissues for infection or damage",
+        "The color of the patient's dental chart",
+        "The patient's insurance provider only"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90511,
+      question: "Which of the following is an example of a non-traditional job for a dental hygienist?",
+      options: [
+        "Working exclusively in a private dental office",
+        "Performing only administrative billing tasks",
+        "Mobile dental hygiene and public health outreach",
+        "Working solely as a dental assistant"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90512,
+      question: "Which of the following represents an expansion of dental hygienists' scope of practice?",
+      options: [
+        "Restricting hygienists to cleaning services only",
+        "Removing hygienists from preventive care roles",
+        "Eliminating fluoride treatment duties",
+        "Independent practice without a supervising dentist"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90513,
+      question: "What is a focus of community-based dental hygiene roles?",
+      options: [
+        "Promoting oral health and preventing disease at the population level",
+        "Providing only cosmetic dental procedures",
+        "Limiting services to private paying patients",
+        "Avoiding collaboration with schools or communities"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90514,
+      question: "According to CDHA, which of the following is a recognized practice setting for dental hygienists?",
+      options: [
+        "Only hospital surgical wards",
+        "Long-term care facilities and community health centers",
+        "Exclusively pharmaceutical companies",
+        "Only government tax offices"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90515,
+      question: "What is a challenge dental hygienists face when working in long-term care facilities?",
+      options: [
+        "Excessive access to dental care resources",
+        "Too much specialized geriatric training",
+        "Communication barriers with patients and care providers",
+        "Overabundance of on-site equipment"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90516,
+      question: "In what area can dental hygienists contribute to research?",
+      options: [
+        "Automotive engineering standards",
+        "Agricultural policy development",
+        "Financial market analysis",
+        "Oral health disparities and geriatric oral health"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90517,
+      question: "What is a key component of developing effective oral health programs for seniors?",
+      options: [
+        "Comprehensive assessment of oral health needs",
+        "Ignoring collaboration with healthcare providers",
+        "Avoiding preventive care strategies",
+        "Excluding caregiver education"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90518,
+      question: "What is a key area for policy improvement in LTC oral health advocacy?",
+      options: [
+        "Reducing insurance coverage for dental services",
+        "Standardizing care procedures for oral health in LTC facilities",
+        "Eliminating routine oral health assessments",
+        "Decreasing funding for oral health initiatives"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90519,
+      question: "Which emerging trend is transforming geriatric oral care?",
+      options: [
+        "Elimination of all technology in dental practice",
+        "Discontinuation of mobile dental clinics",
+        "Increased use of tele-dentistry and AI for early detection",
+        "Removal of fluoride treatments from practice"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90520,
+      question: "What has been a documented impact of successful mobile and LTC dental hygiene programs?",
+      options: [
+        "Decreased access to care for underserved populations",
+        "Reduced quality of life for elderly residents",
+        "Increased barriers to interprofessional collaboration",
+        "Improved oral health outcomes for residents"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90521,
+      question: "Aspiration pneumonia risk is increased due to poor oral hygiene in LTC residents.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90522,
+      question: "Dental hygienists are permitted to perform surgical extractions as part of their standard scope of practice.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90523,
+      question: "Mobile dental hygiene services can be provided in schools, community centers, and private homes.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90524,
+      question: "Temporary restorations are intended to be permanent and require no follow-up visits.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    }
+  ],
+   "7. Mobile Practices (Part 2)": [
+    {
+      id: 90525,
+      question: "What is true regarding a dental hygienist's ability to place a temporary restoration?",
+      options: [
+        "All registrants may perform temporary restorative procedures as part of their scope of practice, in any setting",
+        "Only registrants with a restorative specialty certificate may perform temporary restorations",
+        "Temporary restorations may only be performed by dentists, never hygienists",
+        "Temporary restorations are outside the scope of practice for all hygienists"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90526,
+      question: "What does the CDHO guideline say determines whether a temporary restoration should be performed?",
+      options: [
+        "It depends solely on the client's insurance coverage",
+        "It depends on the competence of the dental hygienist and the needs of the client",
+        "It depends only on the availability of a dental assistant",
+        "It depends exclusively on the time of day the appointment occurs"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90527,
+      question: "What must a dental hygienist always do when placing a temporary restoration?",
+      options: [
+        "Avoid mentioning the temporary nature of the restoration",
+        "Delay any referral until the client requests one",
+        "Inform the client that the restoration is temporary and refer them to a dentist",
+        "Wait for the client's next routine cleaning to explain the restoration"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90528,
+      question: "What are the primary reasons a dental hygienist would place a temporary restoration?",
+      options: [
+        "To permanently resolve the client's dental issue without a dentist",
+        "To improve the appearance of the tooth for cosmetic purposes",
+        "To replace the need for any future dental examination",
+        "To free the client from pain and reduce further damage until they can see a dentist"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90529,
+      question: "Which materials are typically used for temporary restorations according to the guideline?",
+      options: [
+        "Zinc-oxide eugenol, glass ionomer, or other medicated/non-medicated temporary cements",
+        "Amalgam, gold alloy, or porcelain fused to metal",
+        "Composite resin veneers and orthodontic brackets",
+        "Surgical sutures and periodontal dressing material"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90530,
+      question: "Which of the following is a required condition before placing a temporary restoration as a preventive measure?",
+      options: [
+        "The client must already be scheduled with a dentist that same day",
+        "The pulp must not be exposed",
+        "The tooth must be a permanent molar only",
+        "The client must have no other dental restorations present"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90531,
+      question: "According to the guideline, what must be true regarding client consent before placing a temporary restoration?",
+      options: [
+        "Consent is not required if the client is in pain",
+        "Consent may be given verbally by a family member only",
+        "The client consents to the treatment and it is in the client's best interest to proceed",
+        "Consent is only needed for permanent restorations, not temporary ones"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90532,
+      question: "Which condition must be met regarding contraindications before placing a temporary restoration?",
+      options: [
+        "The client must have a documented allergy to the material",
+        "The dentist must be physically present in the room",
+        "The client must have previously used the same material",
+        "There must be no medical contraindications to the restorative material"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90533,
+      question: "What must be recorded in the client record after a temporary restoration is placed?",
+      options: [
+        "The tooth restored, the material used, and the notification that the restoration is temporary",
+        "Only the client's next appointment date",
+        "Only the cost billed for the procedure",
+        "Only the name of the dental hygienist who performed the work"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90534,
+      question: "Can a dental hygienist place a temporary restoration if a dentist is present in the office?",
+      options: [
+        "No, a dentist must always place the restoration personally",
+        "Yes, if the dentist and hygienist agree it is in the client's best interest",
+        "No, the hygienist must wait until the dentist leaves the office",
+        "Yes, but only with written consent from the College"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90535,
+      question: "What should a dental hygienist do if a crown comes off while scaling and a dentist is unavailable?",
+      options: [
+        "Discard the crown and schedule a new permanent restoration",
+        "Leave the crown off until the next scheduled dental visit",
+        "Re-cement the crown with a temporary adhesive and advise the client to see a dentist soon",
+        "Refer the client to an emergency room for crown replacement"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90536,
+      question: "When should a temporary restoration NOT be performed?",
+      options: [
+        "When the client has expressed mild discomfort",
+        "When the restoration material is glass ionomer cement",
+        "When the client has a scheduled dentist appointment",
+        "When professional judgment indicates removal of tooth structure is required for proper placement"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90537,
+      question: "What is Interim Stabilization Therapy (IST)?",
+      options: [
+        "A temporary restoration procedure used to relieve pain and prevent further tooth damage until a dentist can treat it",
+        "A permanent restorative technique replacing traditional crowns",
+        "A surgical procedure for removing impacted teeth",
+        "An orthodontic treatment for aligning misaligned teeth"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90538,
+      question: "What material does IST use, and what property does it provide?",
+      options: [
+        "Amalgam, which hardens instantly without setting time",
+        "Glass ionomer cement, which releases fluoride to help remineralize the lesion",
+        "Composite resin, which matches natural tooth color exactly",
+        "Zinc phosphate cement, which requires no tooth preparation"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90539,
+      question: "What is the correct preparation sequence for the IST procedure?",
+      options: [
+        "Apply anaesthetic, drill the tooth, then place a permanent crown",
+        "Take an X-ray, extract the tooth, then schedule a follow-up",
+        "Remove soft debris from the lesion, apply a conditioner, then place the glass ionomer material",
+        "Polish the tooth surface, apply fluoride varnish, then seal with composite"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90540,
+      question: "How does IST differ from other temporary restoration procedures performed by Ontario dental hygienists?",
+      options: [
+        "It requires a separate license not held by regular hygienists",
+        "It can only be performed by dentists, not hygienists",
+        "It uses a completely different set of clinical guidelines",
+        "It is the name used for the Health Canada Ontario region First Nations Inuit Health Branch COHI program and strictly uses glass ionomer cement"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90541,
+      question: "A dental hygienist must always inform the client that a restoration is temporary and refer them to a dentist.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90542,
+      question: "According to the guideline, Interim Stabilization Therapy (IST) requires local anaesthetic before treatment.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    }
+  ],
+   "7. Mobile Practices (Part 3)": [
+    {
+      id: 90543,
+      question: "According to the module's learning objectives, which of the following is NOT one of the three stated goals?",
+      options: [
+        "Explore the importance of interprofessional collaboration",
+        "Develop strategies to address common operational challenges",
+        "Master advanced periodontal surgical techniques",
+        "Learn to navigate common growth transitions"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90544,
+      question: "Based on the 2017 CDHA Job Market & Employment Survey, which practice setting was reported most frequently by respondents?",
+      options: [
+        "Store-front or fixed location practice",
+        "Mobile dental hygiene practice",
+        "Residential care or long-term care facility",
+        "Operation conducted out of the home"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90545,
+      question: "In the National Interprofessional Competency Framework, which element sits at the center, connected to all other competency domains?",
+      options: [
+        "Client-centred care domain",
+        "Team functioning domain",
+        "Role clarification domain",
+        "Interprofessional collaboration"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90546,
+      question: "Which of the following is listed as a tip for effective interprofessional communication?",
+      options: [
+        "Avoid discussing treatment plans with team",
+        "Develop trusting relationships with the team",
+        "Limit the use of technology with staff",
+        "Withhold information to avoid conflict"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90547,
+      question: "Why is role clarification important for facility staff working with an independent dental hygienist?",
+      options: [
+        "It helps staff support daily oral care and reduces conflict",
+        "It removes the need for dental hygiene visits entirely",
+        "It transfers hygiene duties fully to nursing staff",
+        "It eliminates all oral health education needs"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90548,
+      question: "What is one benefit of facilitating in-service training for care facility staff?",
+      options: [
+        "It reduces need for continuing education for hygienists",
+        "It removes staff responsibility for daily oral care",
+        "It empowers care providers and builds closer relationships",
+        "It eliminates oral assessments at facility admission"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90549,
+      question: "According to the module, what challenge do other care team members often face regarding oral assessments at admission?",
+      options: [
+        "Excessive time allotted for oral assessments",
+        "Uncertainty when using oral assessment tools",
+        "Overqualification for the assessment task at hand",
+        "Lack of interest in resident care overall"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90550,
+      question: "What is a common source of conflict for independent dental hygienists working in long-term care facilities?",
+      options: [
+        "Having too much administrative staff support",
+        "Receiving an excessive number of referrals",
+        "Having unlimited access to facility resources",
+        "Being viewed as outsiders by facility staff"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90551,
+      question: "What is the purpose of identifying an \"oral health champion\" within a care facility?",
+      options: [
+        "To raise awareness and help integrate oral health into the team",
+        "To replace the dental hygienist's clinical duties completely",
+        "To manage the facility's financial recordkeeping tasks",
+        "To handle only emergency dental situations onsite"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90552,
+      question: "Which activity best demonstrates collaborative leadership according to the module?",
+      options: [
+        "Working exclusively within the treatment room",
+        "Avoiding facility administrative discussions altogether",
+        "Participating in steering committees and planning meetings",
+        "Declining invitations to operational planning days"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90553,
+      question: "What is one outcome of successfully harnessing interprofessional competencies in a long-term care setting?",
+      options: [
+        "Complete removal of hygienists from care teams",
+        "Inclusion of oral health in care planning meetings",
+        "Elimination of collaborative decision making processes",
+        "Reduced opportunities for business growth overall"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90554,
+      question: "Which of the following is a potential solution for reprocessing instruments when no equipment is available on site?",
+      options: [
+        "Reprocessing instruments in the client's home directly",
+        "Skipping instrument reprocessing steps altogether",
+        "Requiring clients to purchase their own instruments",
+        "Using a contractual agreement with a local office"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90555,
+      question: "What is required as part of setting up pre-authorised debits (PADs) for payment collection?",
+      options: [
+        "Authorisation, notice of withdrawal, and scheduled payment",
+        "A signed franchise agreement with the facility",
+        "An in-person cash transaction for each visit",
+        "Approval from the provincial dental regulatory board"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90556,
+      question: "What is a key benefit of creating a procedures manual for an independent practice?",
+      options: [
+        "It eliminates the need for a clinical coordinator",
+        "It replaces the need for a bookkeeper role",
+        "It calibrates providers and eases new staff onboarding",
+        "It removes the requirement for consent forms"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90557,
+      question: "Which task is part of the role of a Clinical Coordinator?",
+      options: [
+        "Performing instrument reprocessing tasks on site",
+        "Booking appointments and managing provider schedules",
+        "Diagnosing oral health conditions directly",
+        "Delivering direct clinical dental hygiene care"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90558,
+      question: "What is a primary responsibility of a bookkeeper in an independent dental hygiene practice?",
+      options: [
+        "Scheduling client appointments directly with providers",
+        "Providing oral health education to caregivers",
+        "Conducting oral assessments at facility admission",
+        "Managing timely payments through invoices and PADs"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90559,
+      question: "What method is suggested to help identify a suitable associate dental hygienist candidate for long-term care work?",
+      options: [
+        "Shadowing or conducting a working job interview",
+        "Reviewing only academic transcripts submitted",
+        "Administering a standardized written exam only",
+        "Randomly selecting from all applicants"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90560,
+      question: "Why might denturists be a good fit for adding to a mobile or long-term care dental hygiene practice?",
+      options: [
+        "They require the same equipment as dentists",
+        "They specialize only in pediatric restorative work",
+        "They require less equipment and suit older clientele",
+        "They cannot work in limited infrastructure settings"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90561,
+      question: "Which of the following is one of the six factors to consider when evaluating whether a mobile practice has franchise potential?",
+      options: [
+        "Whether the practice has a mobile van",
+        "Whether the business model is easy to replicate",
+        "Whether the hygienist holds a second license",
+        "Whether the practice avoids all competition"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90562,
+      question: "According to the CDHA Member Resources section, what role can dental hygienists play as \"knowledge brokers\"?",
+      options: [
+        "Managing facility financial audits and reports",
+        "Supervising the dental school curriculum design",
+        "Regulating provincial dental licensing boards directly",
+        "Providing health promotion and education to caregivers"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90563,
+      question: "True or False: The Canadian Interprofessional Health Collaborative (CIHC) is presented as the source of the National Interprofessional Competency Framework.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90564,
+      question: "True or False: Store-front/fixed location was reported as the least common independent practice setting in the 2017 survey.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    }
+  ],
+   "7. Mobile Practices (Part 4)": [
+    {
+      id: 90565,
+      question: "According to the module, what is the primary goal of independent dental hygiene practice?",
+      options: [
+        "To increase the public's access to dental hygiene care",
+        "To have hygienists work in isolation from dentists",
+        "To replace traditional dental offices completely",
+        "To eliminate all forms of dental regulation"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90566,
+      question: "What does \"unsupervised\" or \"autonomous\" practice mean for dental hygienists?",
+      options: [
+        "Working only in isolated freestanding clinics",
+        "Making treatment decisions without a dentist's supervision",
+        "Being exempt from all provincial regulations",
+        "Providing care only within institutions"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90567,
+      question: "How does the module define \"self-regulation\" for dental hygienists?",
+      options: [
+        "Setting your own working hours freely",
+        "Choosing your scope of practice without limits",
+        "Being accountable to the public for your actions",
+        "Avoiding oversight from regulatory colleges"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90568,
+      question: "The \"Clinical Dental Hygiene - Employee\" setting is best suited for hygienists who prefer what?",
+      options: [
+        "Full control over business and administrative decisions",
+        "Frequent travel and commission-based pay",
+        "Complete independence from any dental practice",
+        "Set hours and a constant salary and workplace"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90569,
+      question: "According to the module, who bears the financial risk of the business when a dental hygienist works as an employee?",
+      options: [
+        "The employer bears the financial risk, not the hygienist",
+        "The hygienist alone bears all financial risk",
+        "Both parties equally share the financial risk",
+        "The regulatory college assumes the financial risk"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90570,
+      question: "What is one upside for self-employed contract dental hygienists compared to employees?",
+      options: [
+        "Guaranteed statutory holiday and vacation pay",
+        "Greater income tax deductions for business expenses",
+        "Employer contributions to CPP and EI",
+        "Complete elimination of self-employment risk"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90571,
+      question: "According to the module, which regulatory example is mentioned as a possible challenge for autonomous self-employed practice?",
+      options: [
+        "Mandatory dentist co-ownership required in Alberta",
+        "A province-wide ban on mobile clinics nationwide",
+        "The 365-day rule noted in British Columbia",
+        "Federal licensing exams required for hygienists"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90572,
+      question: "Which of the following activities is described as part of a Public Health dental hygiene job?",
+      options: [
+        "Managing a hospital's oral health program",
+        "Writing grant proposals for clinical research",
+        "Selling dental products at trade shows",
+        "Conducting oral health assessments and fluoride programs"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90573,
+      question: "What is listed as a possible downside of working in Public Health?",
+      options: [
+        "Somewhat lower pay than clinical practices",
+        "Lack of vertical movement opportunities",
+        "Excessive administrative paperwork demands",
+        "No opportunity for personal growth at all"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90574,
+      question: "What does the Long-Term Care alternative practice setting primarily involve?",
+      options: [
+        "Working exclusively within a pediatric hospital ward",
+        "Mobile, self-employed care in extended care facilities",
+        "Writing textbooks for dental hygiene students",
+        "Managing an insurance company's claims division"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90575,
+      question: "What is a possible downside of working in Long-Term Care, according to the module?",
+      options: [
+        "Low salary compared to other settings",
+        "Lack of any personal gratification",
+        "Morale and stress from non-compliant patients",
+        "No flexibility in scheduling work hours"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90576,
+      question: "What is an upside of working as a dental hygienist within a hospital setting?",
+      options: [
+        "Complete freedom from red tape",
+        "Guaranteed low-stress work environment",
+        "No need for varied tasks or challenges",
+        "More opportunity for vertical promotion than in a clinic"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90577,
+      question: "In the National Defence/Canadian Forces setting, how is the dental hygienist's salary calculated?",
+      options: [
+        "Based on quality of care, not production",
+        "Based strictly on number of patients seen",
+        "Based on private practice billing rates",
+        "Based on commission from product sales"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90578,
+      question: "What is generally required to work in the Education alternative practice setting?",
+      options: [
+        "No formal education beyond a diploma",
+        "At least a bachelor's degree for most teaching roles",
+        "A law degree focused on health policy",
+        "Certification in web design and software"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90579,
+      question: "What level of education is generally required for a career in dental hygiene research?",
+      options: [
+        "A high school diploma only is required",
+        "A trade certification in laboratory work",
+        "A BSc or MSc, or a more advanced degree",
+        "No formal education is necessary at all"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90580,
+      question: "How is income typically earned in the Sales alternative practice setting?",
+      options: [
+        "Through a fixed government salary",
+        "Through hourly public health wages",
+        "Through hospital-based promotion bonuses",
+        "Through commission and bonus structures"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90581,
+      question: "What is a possible downside of working in Publishing, according to the module?",
+      options: [
+        "No interaction with clients at all",
+        "Extremely low salary compared to sales",
+        "Frequent relocation and deployment demands",
+        "Excessive stress from patient non-compliance"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90582,
+      question: "What is described as an upside of working in the Dental Insurance setting?",
+      options: [
+        "Unlimited vacation and travel opportunities",
+        "Excellent benefit packages and standard work hours",
+        "Complete autonomy over treatment decisions",
+        "High commission-based earning potential"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90583,
+      question: "Which job role is associated with the Administration alternative practice setting?",
+      options: [
+        "Product tester in a dental laboratory",
+        "Grant proposal writer for research studies",
+        "Office manager or program coordinator",
+        "Lobbyist for government policy change"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90584,
+      question: "The Consulting alternative practice setting is best suited for people interested in what?",
+      options: [
+        "Working exclusively in a laboratory setting",
+        "Traveling internationally for volunteer work",
+        "Writing textbooks for dental hygiene students",
+        "Pursuing an MBA and the business of dental hygiene"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90585,
+      question: "What is a possible downside of working in Computer Software or Web Design, per the module?",
+      options: [
+        "No opportunity to use practical dental hygiene skills",
+        "Extremely low and unstable salary levels",
+        "Constant relocation and travel demands",
+        "High risk of injury from equipment used"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90586,
+      question: "What type of work is involved in the Dental Laboratory Work alternative practice setting?",
+      options: [
+        "Writing scientific papers for journals",
+        "Product testing and fabrication of oral products",
+        "Managing insurance claims processing tasks",
+        "Conducting oral health assessments in schools"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90587,
+      question: "What is listed as a possible downside of working for a Staff Placement Agency?",
+      options: [
+        "Extremely stressful travel requirements",
+        "Low pay compared to other settings",
+        "No clinical work and no client interaction",
+        "Lack of local career opportunities available"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90588,
+      question: "Which area of law is mentioned as relevant to the Law and Dental Hygiene setting?",
+      options: [
+        "Criminal law and immigration law practice",
+        "Tax law and corporate law practice",
+        "Family law and property law practice",
+        "Health law and professional negligence cases"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90589,
+      question: "What is an upside of working in Government Regulation and Policy?",
+      options: [
+        "Ability to work on issues at the macro level",
+        "Guaranteed maintenance of clinical skills",
+        "High commission-based earning potential",
+        "Frequent international travel opportunities offered"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90590,
+      question: "What is a possible downside of working in Consumer Advocacy?",
+      options: [
+        "Complete lack of organizational skill requirements",
+        "Job security would be extremely hard to obtain",
+        "Excessive government oversight and red tape",
+        "No opportunity to help the general population"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90591,
+      question: "Which activity is associated with being a \"Change Agent\" in dental hygiene?",
+      options: [
+        "Fabricating dental restorations and implants directly",
+        "Writing children's books about oral health topics",
+        "Lobbying and serving as an expert witness",
+        "Managing hospital dental clinics directly onsite"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90592,
+      question: "What is a possible downside of Volunteering as an alternative practice setting?",
+      options: [
+        "It offers no opportunity to travel abroad",
+        "It provides no experience in teamwork skills",
+        "It prevents interaction with underprivileged people",
+        "It usually requires self-financing or part-time income"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90593,
+      question: "According to the module, which article is described as providing \"a vital guide to non-traditional jobs\"?",
+      options: [
+        "\"Alternative Practice\" by Melinda Ferguson",
+        "\"Evolution, Not Revolution\" by Fran Richardson",
+        "\"From Clinic to Desk\" by Angela Best",
+        "\"Entrepreneurship\" by Pat Spencer"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90594,
+      question: "What does the quoted excerpt from D.W. Lewis's article suggest about where most self-initiated dental hygiene care would be provided?",
+      options: [
+        "Only within traditional dental offices nationwide",
+        "Alternative settings such as long-term care and community centres",
+        "Exclusively within hospital pediatric departments",
+        "Only in provinces without dental hygiene regulation"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90595,
+      question: "What is the main focus of Fran Richardson's article \"Evolution, Not Revolution\"?",
+      options: [
+        "Sales techniques for dental product companies",
+        "Fabrication methods for dental laboratory products",
+        "Self-regulation and an expanded, independent role for the profession",
+        "Government policy on health insurance claims"
+      ],
+      correctAnswer: 2
+    },
+    {
+      id: 90596,
+      question: "Which CDHA document is mentioned as containing information on different practice environments and practice standards?",
+      options: [
+        "Employment Statistics and Trends",
+        "The Political Economy of Dental Hygiene in Canada",
+        "Healthy Mouth ~ Healthy Body",
+        "Dental Hygiene: Definition, Scope and Practice Standards"
+      ],
+      correctAnswer: 3
+    },
+    {
+      id: 90597,
+      question: "True or False: According to the module, the goal of independent practice is to have dental hygienists work in isolation from dentists and other health providers.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    },
+    {
+      id: 90598,
+      question: "True or False: The National Defence/Canadian Forces setting is described as offering a strong emphasis on continuing education and standardized care regardless of location.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 0
+    },
+    {
+      id: 90599,
+      question: "True or False: The module states that self-employed contract dental hygienists receive the same statutory holiday and vacation pay benefits as employees.",
+      options: [
+        "True",
+        "False"
+      ],
+      correctAnswer: 1
+    }
   ]
 };
